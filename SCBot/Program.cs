@@ -143,8 +143,8 @@ namespace SCBot
                 }
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
-                readMe += "|OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|Interests|\r\n";
-                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
+                readMe += "|OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|\r\n";
+                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
                 foreach (Campaign campaign in campaigns)
                 {
                     if (campaign.spend < 10000)
@@ -162,7 +162,6 @@ namespace SCBot
                     line += formatList(campaign.countryCodes) + "|";
                     line += formatList(campaign.billingAddresses) + "|";
                     line += formatList(campaign.creativeUrls) + "|";
-                    line += formatList(campaign.interests) + "|";
 
                     readMe += line + "\r\n";
                 }
