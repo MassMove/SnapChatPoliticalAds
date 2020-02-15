@@ -30,6 +30,8 @@ namespace SCBot
         {
             Console.WriteLine("This is our world now");
             List<Campaign> campaigns = new List<Campaign>();
+            String readMe = "# SCBot\r\n\r\n";
+            readMe += "A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-US/political-ads \r\n\r\n";
 
             for (int year = 2018; year <= 2020; year++)
             {
@@ -139,8 +141,32 @@ namespace SCBot
 
                     lines += "\r\n" + line;
                 }
-
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
+
+                readMe += "|OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|Interests|\r\n";
+                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
+                foreach (Campaign campaign in campaigns)
+                {
+                    if (campaign.spend < 100000)
+                    {
+                        break;
+                    }
+                    String line = formatItem(campaign.organizationName) + "|";
+                    line += campaign.spend + "|";
+                    line += campaign.impressions + "|";
+                    line += formatList(campaign.currencyCodes) + "|";
+                    line += formatList(campaign.candidateBallotNames) + "|";
+                    line += formatList(campaign.payingAdvertiserNames) + "|";
+                    line += formatList(campaign.genders) + "|";
+                    line += formatList(campaign.ageBrackets) + "|";
+                    line += formatList(campaign.countryCodes) + "|";
+                    line += formatList(campaign.billingAddresses) + "|";
+                    line += formatList(campaign.creativeUrls) + "|";
+                    line += formatList(campaign.interests) + "|";
+
+                    readMe += "\r\n" + line;
+                }
+                File.WriteAllText("../../../../README.md", lines);
             }
         }
 
