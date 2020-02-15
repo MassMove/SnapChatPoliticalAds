@@ -118,7 +118,7 @@ namespace SCBot
 
                 campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
 
-                String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,Interests,CreativeUrls,Regions (Included),Regions (Excluded)";
+                String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,CreativeUrls,Interests,Regions (Included),Regions (Excluded)";
                 String lines = header;
                 foreach (Campaign campaign in campaigns)
                 {
