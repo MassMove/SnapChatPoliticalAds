@@ -123,12 +123,12 @@ namespace SCBot
                 line += campaign.spend + ",";
                 line += campaign.impressions + ",";
                 line += formatList(campaign.currencyCodes) + ",";
-                line += formatList(campaign.billingAddresses) + ",";
                 line += formatList(campaign.candidateBallotNames) + ",";
                 line += formatList(campaign.payingAdvertiserNames) + ",";
                 line += formatList(campaign.genders) + ",";
                 line += formatList(campaign.ageBrackets) + ",";
                 line += formatList(campaign.countryCodes) + ",";
+                line += formatList(campaign.billingAddresses) + ",";
                 line += formatList(campaign.includedRegions) + ",";
                 line += formatList(campaign.excludedRegions) + ",";
                 line += formatList(campaign.interests) + ",";
