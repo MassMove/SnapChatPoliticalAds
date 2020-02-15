@@ -31,113 +31,117 @@ namespace SCBot
             Console.WriteLine("This is our world now");
             List<Campaign> campaigns = new List<Campaign>();
 
-            String year = "2020";
-            using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
+            for (int year = 2018; year <= 2020; year++)
             {
-                parser.TextFieldType = FieldType.Delimited;
-                parser.SetDelimiters(",");
-                while (!parser.EndOfData)
+                using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
                 {
-                    string[] fields = parser.ReadFields();
+                    parser.TextFieldType = FieldType.Delimited;
+                    parser.SetDelimiters(",");
+                    parser.ReadFields(); // skip header
 
-                    Campaign campaign = new Campaign();
-                    campaign.organizationName = fields[7].Replace(",", " ");
-                    long.TryParse(fields[3], out campaign.spend);
-                    long.TryParse(fields[4], out campaign.impressions);
-                    campaign.creativeUrls.Add(fields[1]);
-                    campaign.currencyCodes.Add(fields[2]);
-                    campaign.billingAddresses.Add(fields[8]);
-                    campaign.candidateBallotNames.Add(fields[9]);
-                    campaign.payingAdvertiserNames.Add(fields[10]);
-                    campaign.genders.Add(fields[11]);
-                    campaign.ageBrackets.Add(fields[12]);
-                    campaign.countryCodes.Add(fields[13]);
-                    campaign.includedRegions.Add(fields[14]);
-                    campaign.excludedRegions.Add(fields[15]);
-                    campaign.interests.Add(fields[26]);
+                    while (!parser.EndOfData)
+                    {
+                        string[] fields = parser.ReadFields();
 
-                    Campaign existingCampaign = campaigns.Find(x => x.organizationName == campaign.organizationName);
-                    if (existingCampaign == null)
-                    {
-                        campaigns.Add(campaign);
-                        continue;
-                    }
+                        Campaign campaign = new Campaign();
+                        campaign.organizationName = fields[7].Replace(",", " ");
+                        long.TryParse(fields[3], out campaign.spend);
+                        long.TryParse(fields[4], out campaign.impressions);
+                        campaign.creativeUrls.Add(fields[1]);
+                        campaign.currencyCodes.Add(fields[2]);
+                        campaign.billingAddresses.Add(fields[8]);
+                        campaign.candidateBallotNames.Add(fields[9]);
+                        campaign.payingAdvertiserNames.Add(fields[10]);
+                        campaign.genders.Add(fields[11]);
+                        campaign.ageBrackets.Add(fields[12]);
+                        campaign.countryCodes.Add(fields[13]);
+                        campaign.includedRegions.Add(fields[14]);
+                        campaign.excludedRegions.Add(fields[15]);
+                        campaign.interests.Add(fields[26]);
 
-                    existingCampaign.spend += campaign.spend;
-                    existingCampaign.impressions += campaign.impressions;
+                        Campaign existingCampaign = campaigns.Find(x => x.organizationName == campaign.organizationName);
+                        if (existingCampaign == null)
+                        {
+                            campaigns.Add(campaign);
+                            continue;
+                        }
 
-                    if (existingCampaign.creativeUrls.Find(x => x == campaign.creativeUrls[0]) == "")
-                    {
-                        existingCampaign.creativeUrls.Add(campaign.creativeUrls[0]);
-                    }
-                    if (existingCampaign.currencyCodes.Find(x => x == campaign.currencyCodes[0]) == "")
-                    {
-                        existingCampaign.currencyCodes.Add(campaign.currencyCodes[0]);
-                    }
-                    if (existingCampaign.billingAddresses.Find(x => x == campaign.billingAddresses[0]) == "")
-                    {
-                        existingCampaign.billingAddresses.Add(campaign.billingAddresses[0]);
-                    }
-                    if (existingCampaign.candidateBallotNames.Find(x => x == campaign.candidateBallotNames[0]) == "")
-                    {
-                        existingCampaign.candidateBallotNames.Add(campaign.candidateBallotNames[0]);
-                    }
-                    if (existingCampaign.payingAdvertiserNames.Find(x => x == campaign.payingAdvertiserNames[0]) == "")
-                    {
-                        existingCampaign.payingAdvertiserNames.Add(campaign.payingAdvertiserNames[0]);
-                    }
-                    if (existingCampaign.genders.Find(x => x == campaign.genders[0]) == "")
-                    {
-                        existingCampaign.genders.Add(campaign.genders[0]);
-                    }
-                    if (existingCampaign.ageBrackets.Find(x => x == campaign.ageBrackets[0]) == "")
-                    {
-                        existingCampaign.ageBrackets.Add(campaign.ageBrackets[0]);
-                    }
-                    if (existingCampaign.countryCodes.Find(x => x == campaign.countryCodes[0]) == "")
-                    {
-                        existingCampaign.countryCodes.Add(campaign.countryCodes[0]);
-                    }
-                    if (existingCampaign.includedRegions.Find(x => x == campaign.includedRegions[0]) == "")
-                    {
-                        existingCampaign.includedRegions.Add(campaign.includedRegions[0]);
-                    }
-                    if (existingCampaign.excludedRegions.Find(x => x == campaign.excludedRegions[0]) == "")
-                    {
-                        existingCampaign.excludedRegions.Add(campaign.excludedRegions[0]);
-                    }
-                    if (existingCampaign.interests.Find(x => x == campaign.interests[0]) == "")
-                    {
-                        existingCampaign.interests.Add(campaign.interests[0]);
+                        existingCampaign.spend += campaign.spend;
+                        existingCampaign.impressions += campaign.impressions;
+
+                        if (existingCampaign.creativeUrls.Find(x => x == campaign.creativeUrls[0]) == "")
+                        {
+                            existingCampaign.creativeUrls.Add(campaign.creativeUrls[0]);
+                        }
+                        if (existingCampaign.currencyCodes.Find(x => x == campaign.currencyCodes[0]) == "")
+                        {
+                            existingCampaign.currencyCodes.Add(campaign.currencyCodes[0]);
+                        }
+                        if (existingCampaign.billingAddresses.Find(x => x == campaign.billingAddresses[0]) == "")
+                        {
+                            existingCampaign.billingAddresses.Add(campaign.billingAddresses[0]);
+                        }
+                        if (existingCampaign.candidateBallotNames.Find(x => x == campaign.candidateBallotNames[0]) == "")
+                        {
+                            existingCampaign.candidateBallotNames.Add(campaign.candidateBallotNames[0]);
+                        }
+                        if (existingCampaign.payingAdvertiserNames.Find(x => x == campaign.payingAdvertiserNames[0]) == "")
+                        {
+                            existingCampaign.payingAdvertiserNames.Add(campaign.payingAdvertiserNames[0]);
+                        }
+                        if (existingCampaign.genders.Find(x => x == campaign.genders[0]) == "")
+                        {
+                            existingCampaign.genders.Add(campaign.genders[0]);
+                        }
+                        if (existingCampaign.ageBrackets.Find(x => x == campaign.ageBrackets[0]) == "")
+                        {
+                            existingCampaign.ageBrackets.Add(campaign.ageBrackets[0]);
+                        }
+                        if (existingCampaign.countryCodes.Find(x => x == campaign.countryCodes[0]) == "")
+                        {
+                            existingCampaign.countryCodes.Add(campaign.countryCodes[0]);
+                        }
+                        if (existingCampaign.includedRegions.Find(x => x == campaign.includedRegions[0]) == "")
+                        {
+                            existingCampaign.includedRegions.Add(campaign.includedRegions[0]);
+                        }
+                        if (existingCampaign.excludedRegions.Find(x => x == campaign.excludedRegions[0]) == "")
+                        {
+                            existingCampaign.excludedRegions.Add(campaign.excludedRegions[0]);
+                        }
+                        if (existingCampaign.interests.Find(x => x == campaign.interests[0]) == "")
+                        {
+                            existingCampaign.interests.Add(campaign.interests[0]);
+                        }
                     }
                 }
+
+                campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
+
+                String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,Interests,CreativeUrls,Regions (Included),Regions (Excluded)";
+                String lines = header;
+                foreach (Campaign campaign in campaigns)
+                {
+                    String line = formatItem(campaign.organizationName) + ",";
+                    line += campaign.spend + ",";
+                    line += campaign.impressions + ",";
+                    line += formatList(campaign.currencyCodes) + ",";
+                    line += formatList(campaign.candidateBallotNames) + ",";
+                    line += formatList(campaign.payingAdvertiserNames) + ",";
+                    line += formatList(campaign.genders) + ",";
+                    line += formatList(campaign.ageBrackets) + ",";
+                    line += formatList(campaign.countryCodes) + ",";
+                    line += formatList(campaign.billingAddresses) + ",";
+                    line += formatList(campaign.creativeUrls) + ",";
+                    line += formatList(campaign.interests) + ",";
+                    line += formatList(campaign.includedRegions) + ",";
+                    line += formatList(campaign.excludedRegions);
+
+                    lines += "\r\n" + line;
+                }
+
+                File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
             }
-
-            campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
-
-            String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,Interests,CreativeUrls,Regions (Included),Regions (Excluded)";
-            String lines = header;
-            foreach (Campaign campaign in campaigns)
-            {
-                String line = formatItem(campaign.organizationName) + ",";
-                line += campaign.spend + ",";
-                line += campaign.impressions + ",";
-                line += formatList(campaign.currencyCodes) + ",";
-                line += formatList(campaign.candidateBallotNames) + ",";
-                line += formatList(campaign.payingAdvertiserNames) + ",";
-                line += formatList(campaign.genders) + ",";
-                line += formatList(campaign.ageBrackets) + ",";
-                line += formatList(campaign.countryCodes) + ",";
-                line += formatList(campaign.billingAddresses) + ",";
-                line += formatList(campaign.creativeUrls) + "";
-                line += formatList(campaign.interests) + ",";
-                line += formatList(campaign.includedRegions) + ",";
-                line += formatList(campaign.excludedRegions) + ",";
-
-                lines += "\r\n" + line;
-            }
-
-            File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
         }
 
         private static String formatList(List<String> listItems)
@@ -172,8 +176,6 @@ namespace SCBot
             }
             return item;
         }
-
-
 
     }
 }
