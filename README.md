@@ -5,6 +5,7 @@ A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-U
 # 2020
 
 |OrganizationName|Spend|Impressions|Currency Codes|BillingAddresses|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|Regions (Included)|Regions (Excluded)|Interests|CreativeUrls|
+|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |Assembly|599909|245927642|USD||711 3rd Ave| New York| NY 10017|new york city|10017|US|||truth||18-24|united states||||https://www.snap.com/political-ads/asset/e9e75da24b8c0f0b8b439580e4c274ce127b4f974a0d46d990f1ea825d951995?mediaType=mp4|
 |Hawkfish LLC|526804|132942633|USD||909 Third Avenue|New York|10022|US||Mike Bloomberg 2020 Inc||Mike Bloomberg 2020| Inc.|||24-38|united states||Alabama|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Illinois|Maine|Massachusetts|North Carolina|Oklahoma|Tennessee|Texas|Utah|Vermont|Virginia|Michigan|Mississippi|Missouri|Washington|Wisconsin|Maryland|New York|Pennsylvania|Georgia|Minnesota|Ohio|New Jersey||||https://www.snap.com/political-ads/asset/06659e323dbe9e3a6cfc71945c562b702ad644f1d1989eaae08e8d8313a35edf?mediaType=mp4|
 |Australian Government Department of Finance|72585|35405886|AUD||100 Chalmers Street|Surry Hills|2010|AU|||Department of Health||15-19|australia||||https://www.snap.com/political-ads/asset/ce1d80c635a72476364525193b96dfd00e51a30f36a908bda683822ecb728394?mediaType=mp4|
@@ -14,6 +15,7 @@ A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-U
 # 2019
 
 |OrganizationName|Spend|Impressions|Currency Codes|BillingAddresses|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|Regions (Included)|Regions (Excluded)|Interests|CreativeUrls|
+|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |General Mills|1683056|512909841|USD||P.O. Box 4614 Grand Central Station|New York|10163|US|||general mills||18-|united states||||https://www.snap.com/political-ads/asset/041eeb7dde00f8d7aae790e930e1e35d2ac327747bc30ff0787e58bfec0d273c?mediaType=mp4|
 |Assembly|799946|266788199|USD||711 3rd Ave| New York| NY 10017|new york city|10017|US|||truth||15-17|united states||||https://www.snap.com/political-ads/asset/7dfb84616bf0d4230c81bf78f24940af82987319864af987c5e8151c94910ee4?mediaType=mp4|
 |Cossette Media Inc|554022|286276858|CAD||P.O. Box. 11613| Succ. Centre-ville|Montreal|H3C5V9|CA|||Elections Canada||18+|canada||||https://www.snap.com/political-ads/asset/ac63d9d00d04103504e3ca3be71fdc8c793f023fff230a75a1153c3bf3565966?mediaType=mp4|
@@ -23,6 +25,7 @@ A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-U
 # 2018
 
 |OrganizationName|Spend|Impressions|Currency Codes|BillingAddresses|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|Regions (Included)|Regions (Excluded)|Interests|CreativeUrls|
+|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |ACRONYM|134229|34364360|USD|US||Our Lives Our Vote||18-28|united states|Wisconsin|||Cordcutters|Yoga Enthusiasts|Vegans & Organic Foodies|Hipsters & Trendsetters|Math & Science Enthusiasts|Men's Lifestyle|Philanthropists|Wellness & Healthy Lifestyle|Women's Lifestyle|TV Live Event Viewers (The Academy Awards)|TV Live Event Viewers (The Emmy Awards)|TV Live Event Viewers (The GRAMMY Awards)|TV Live Event Viewers (The Golden Globe Awards)|TV Network Viewers (A&E)|TV Network Viewers (BBC America)|TV Network Viewers (BET)|TV Network Viewers (CNN)|TV Network Viewers (Discovery Channel)|TV Network Viewers (HBO)|TV Network Viewers (IFC)|TV Network Viewers (MSNBC)|TV Network Viewers (PBS)|TV Network Viewers (Showtime)|TV Network Viewers (SundanceTV)|TV Network Viewers (Viceland)||https://www.snap.com/political-ads/asset/108fe3903c1b2dfe48a7d9fa34c6f98f44dd4a29bde3baae71dd6a68d82e5c76?mediaType=png|
 |Bully Pulpit Interactive|98636|18590894|USD||1445 New York Ave NW|Washington|20005|US|||NextGen America||18-34|united states||||https://www.snap.com/political-ads/asset/9944055166091faac050ff26e3e5f6aae70d3f85f4a5d9fc2243da761e4720f5?mediaType=mp4|
 |Middle Seat Consulting LLC|41183|10611356|USD||Po Box 21600|Washington|20009|US|||Beto for Texas|||united states|Texas|||https://www.snap.com/political-ads/asset/5ef93a6df60367e9b9c2d901184ff686ee0c9085aac1ac58cbcedda64646ec6e?mediaType=mp4|
