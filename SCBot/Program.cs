@@ -151,7 +151,7 @@ namespace SCBot
                     {
                         break;
                     }
-                    String line = formatItem(campaign.organizationName) + "|";
+                    String line = "|" + formatItem(campaign.organizationName) + "|";
                     line += campaign.spend + "|";
                     line += campaign.impressions + "|";
                     line += formatList(campaign.currencyCodes) + "|";
