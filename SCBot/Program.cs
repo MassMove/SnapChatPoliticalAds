@@ -147,7 +147,7 @@ namespace SCBot
                 readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
                 foreach (Campaign campaign in campaigns)
                 {
-                    if (campaign.spend < 100000)
+                    if (campaign.spend < 10000)
                     {
                         break;
                     }
@@ -164,9 +164,9 @@ namespace SCBot
                     line += formatList(campaign.creativeUrls) + "|";
                     line += formatList(campaign.interests) + "|";
 
-                    readMe += "\r\n" + line;
+                    readMe += line + "\r\n";
                 }
-                readMe += "\r\n\r\n";
+                readMe += "\r\n";
                 File.WriteAllText("../../../../README.md", readMe);
             }
         }
