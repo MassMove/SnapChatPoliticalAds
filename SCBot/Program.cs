@@ -41,7 +41,7 @@ namespace SCBot
                     string[] fields = parser.ReadFields();
 
                     Campaign campaign = new Campaign();
-                    campaign.organizationName = fields[7].Replace(", LLC", " LLC").Replace(", Inc", " Inc").Replace(", Inc.", "Inc");
+                    campaign.organizationName = fields[7].Replace(",", " ");
                     long.TryParse(fields[3], out campaign.spend);
                     long.TryParse(fields[4], out campaign.impressions);
                     campaign.creativeUrls.Add(fields[1]);
@@ -119,7 +119,7 @@ namespace SCBot
             String lines = header;
             foreach (Campaign campaign in campaigns)
             {
-                String line = campaign.organizationName + ",";
+                String line = formatItem(campaign.organizationName) + ",";
                 line += campaign.spend + ",";
                 line += campaign.impressions + ",";
                 line += formatList(campaign.currencyCodes) + ",";
