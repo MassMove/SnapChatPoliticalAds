@@ -46,12 +46,12 @@ namespace SCBot
                     long.TryParse(fields[4], out campaign.impressions);
                     campaign.creativeUrls.Add(fields[1]);
                     campaign.currencyCodes.Add(fields[2]);
+                    campaign.billingAddresses.Add(fields[8]);
                     campaign.candidateBallotNames.Add(fields[9]);
                     campaign.payingAdvertiserNames.Add(fields[10]);
                     campaign.genders.Add(fields[11]);
                     campaign.ageBrackets.Add(fields[12]);
                     campaign.countryCodes.Add(fields[13]);
-                    campaign.billingAddresses.Add(fields[8]);
                     campaign.includedRegions.Add(fields[14]);
                     campaign.excludedRegions.Add(fields[15]);
                     campaign.interests.Add(fields[26]);
@@ -115,7 +115,7 @@ namespace SCBot
 
             campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
 
-            String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,Regions (Included),Regions (Excluded),Interests,CreativeUrls";
+            String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,Interests,CreativeUrls,Regions (Included),Regions (Excluded)";
             String lines = header;
             foreach (Campaign campaign in campaigns)
             {
@@ -129,10 +129,10 @@ namespace SCBot
                 line += formatList(campaign.ageBrackets) + ",";
                 line += formatList(campaign.countryCodes) + ",";
                 line += formatList(campaign.billingAddresses) + ",";
+                line += formatList(campaign.creativeUrls) + "";
+                line += formatList(campaign.interests) + ",";
                 line += formatList(campaign.includedRegions) + ",";
                 line += formatList(campaign.excludedRegions) + ",";
-                line += formatList(campaign.interests) + ",";
-                line += formatList(campaign.creativeUrls) + "";
 
                 lines += "\r\n" + line;
             }
