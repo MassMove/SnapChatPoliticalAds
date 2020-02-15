@@ -144,7 +144,7 @@ namespace SCBot
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
                 readMe += "|OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|Interests|\r\n";
-                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
+                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
                 foreach (Campaign campaign in campaigns)
                 {
                     if (campaign.spend < 10000)

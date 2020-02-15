@@ -3,7 +3,7 @@
 A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-US/political-ads 
 
 |OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|Interests|
-|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|
+|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |ACRONYM|134229|34364360|USD||Our Lives Our Vote||18-28|united states|US|https://www.snap.com/political-ads/asset/108fe3903c1b2dfe48a7d9fa34c6f98f44dd4a29bde3baae71dd6a68d82e5c76?mediaType=png|"Cordcutters,Yoga Enthusiasts,Vegans & Organic Foodies,Hipsters & Trendsetters,Math & Science Enthusiasts,Men's Lifestyle,Philanthropists,Wellness & Healthy Lifestyle,Women's Lifestyle,TV Live Event Viewers (The Academy Awards),TV Live Event Viewers (The Emmy Awards),TV Live Event Viewers (The GRAMMY Awards),TV Live Event Viewers (The Golden Globe Awards),TV Network Viewers (A&E),TV Network Viewers (BBC America),TV Network Viewers (BET),TV Network Viewers (CNN),TV Network Viewers (Discovery Channel),TV Network Viewers (HBO),TV Network Viewers (IFC),TV Network Viewers (MSNBC),TV Network Viewers (PBS),TV Network Viewers (Showtime),TV Network Viewers (SundanceTV),TV Network Viewers (Viceland)"|
 |Bully Pulpit Interactive|98636|18590894|USD||NextGen America||18-34|united states|"1445 New York Ave NW,Washington,20005,US"|https://www.snap.com/political-ads/asset/9944055166091faac050ff26e3e5f6aae70d3f85f4a5d9fc2243da761e4720f5?mediaType=mp4||
 |Middle Seat Consulting  LLC|41183|10611356|USD||Beto for Texas|||united states|"Po Box 21600,Washington,20009,US"|https://www.snap.com/political-ads/asset/5ef93a6df60367e9b9c2d901184ff686ee0c9085aac1ac58cbcedda64646ec6e?mediaType=mp4||
@@ -27,7 +27,7 @@ A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-U
 |Ardmore Advertising|10000|9981576|GBP||Department of Justice NI||16-24|united kingdom|GB|https://www.snap.com/political-ads/asset/85754dbf8aa2825ad07812493e65651e61fcdbe65b1b4ff281f5990cad5e716b?mediaType=mp4||
 
 |OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|Interests|
-|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|
+|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |General Mills|1683056|512909841|USD||general mills||18-|united states|"P.O. Box 4614 Grand Central Station,New York,10163,US"|https://www.snap.com/political-ads/asset/041eeb7dde00f8d7aae790e930e1e35d2ac327747bc30ff0787e58bfec0d273c?mediaType=mp4||
 |Assembly|799946|266788199|USD||truth||15-17|united states|"711 3rd Ave, New York, NY 10017,new york city,10017,US"|https://www.snap.com/political-ads/asset/7dfb84616bf0d4230c81bf78f24940af82987319864af987c5e8151c94910ee4?mediaType=mp4||
 |Cossette Media Inc|554022|286276858|CAD||Elections Canada||18+|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"|https://www.snap.com/political-ads/asset/ac63d9d00d04103504e3ca3be71fdc8c793f023fff230a75a1153c3bf3565966?mediaType=mp4||
@@ -100,7 +100,7 @@ A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-U
 |Platform Digital  Inc|10146|1134746|USD|Pays Big Waukegan|Potawatomi Bingo Casino||18+|united states|US|https://www.snap.com/political-ads/asset/babe328737af4132f2972849532fb546f03ae0b56c785bed5efefff1e1fbad7f?mediaType=png||
 
 |OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|Interests|
-|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|
+|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |General Mills|1683056|512909841|USD||general mills||18-|united states|"P.O. Box 4614 Grand Central Station,New York,10163,US"|https://www.snap.com/political-ads/asset/041eeb7dde00f8d7aae790e930e1e35d2ac327747bc30ff0787e58bfec0d273c?mediaType=mp4||
 |Assembly|1399855|512715841|USD||truth||15-17|united states|"711 3rd Ave, New York, NY 10017,new york city,10017,US"|https://www.snap.com/political-ads/asset/7dfb84616bf0d4230c81bf78f24940af82987319864af987c5e8151c94910ee4?mediaType=mp4||
 |Hawkfish LLC|776804|192122111|USD|Mike Bloomberg 2020 Inc|"Mike Bloomberg 2020, Inc."||18-34|united states|"909 Third Avenue,New York,10022,US"|https://www.snap.com/political-ads/asset/e5211ca66be228cdf1ac35916d8a2d6ad33c2b55eabb9e6771ec78ab95c007ff?mediaType=mp4||
