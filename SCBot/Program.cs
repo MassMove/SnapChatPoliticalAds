@@ -46,12 +46,12 @@ namespace SCBot
                     long.TryParse(fields[4], out campaign.impressions);
                     campaign.creativeUrls.Add(fields[1]);
                     campaign.currencyCodes.Add(fields[2]);
-                    campaign.billingAddresses.Add(fields[8]);
                     campaign.candidateBallotNames.Add(fields[9]);
                     campaign.payingAdvertiserNames.Add(fields[10]);
                     campaign.genders.Add(fields[11]);
                     campaign.ageBrackets.Add(fields[12]);
                     campaign.countryCodes.Add(fields[13]);
+                    campaign.billingAddresses.Add(fields[8]);
                     campaign.includedRegions.Add(fields[14]);
                     campaign.excludedRegions.Add(fields[15]);
                     campaign.interests.Add(fields[26]);
@@ -115,7 +115,7 @@ namespace SCBot
 
             campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
 
-            String header = "OrganizationName,Spend,Impressions,Currency Codes,BillingAddresses,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,Regions (Included),Regions (Excluded),Interests,CreativeUrls";
+            String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,Regions (Included),Regions (Excluded),Interests,CreativeUrls";
             String lines = header;
             foreach (Campaign campaign in campaigns)
             {
