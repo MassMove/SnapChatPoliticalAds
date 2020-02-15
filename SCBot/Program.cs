@@ -33,7 +33,7 @@ namespace SCBot
             String readMe = "# SCBot\r\n\r\n";
             readMe += "A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-US/political-ads \r\n\r\n";
 
-            for (int year = 2018; year <= 2020; year++)
+            for (int year = 2020; year >= 2018; year--)
             {
                 using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
                 {
@@ -143,6 +143,7 @@ namespace SCBot
                 }
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
+                readMe += "## " + year + " \r\n";
                 readMe += "|OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|\r\n";
                 readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
                 foreach (Campaign campaign in campaigns)
