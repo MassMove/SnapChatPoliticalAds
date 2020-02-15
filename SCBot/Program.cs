@@ -132,7 +132,7 @@ namespace SCBot
                 line += formatList(campaign.includedRegions) + ",";
                 line += formatList(campaign.excludedRegions) + ",";
                 line += formatList(campaign.interests) + ",";
-                line += formatList(campaign.creativeUrls) + ",";
+                line += formatList(campaign.creativeUrls) + "";
 
                 lines += "\r\n" + line;
             }
