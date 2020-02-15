@@ -166,7 +166,7 @@ namespace SCBot
 
                     readMe += "\r\n" + line;
                 }
-                File.WriteAllText("../../../../README.md", lines);
+                File.WriteAllText("../../../../README.md", readMe);
             }
         }
 
