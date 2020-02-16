@@ -29,12 +29,12 @@ namespace SCBot
         static void Main(string[] args)
         {
             Console.WriteLine("This is our world now");
-            List<Campaign> campaigns = new List<Campaign>();
             String readMe = "# SCBot\r\n\r\n";
             readMe += "A bot to suMMarize the Snap Political Ads Library from https://www.snap.com/en-US/political-ads \r\n\r\n";
 
             for (int year = 2020; year >= 2018; year--)
             {
+                List<Campaign> campaigns = new List<Campaign>();
                 using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
                 {
                     parser.TextFieldType = FieldType.Delimited;
