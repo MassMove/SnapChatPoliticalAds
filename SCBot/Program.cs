@@ -166,7 +166,7 @@ namespace SCBot
 
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
-                        line += "[" + i + "](" + campaign.creativeUrls[i] + ") ";
+                        line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
                     }
                     line += "|";
 
