@@ -160,19 +160,28 @@ namespace SCBot
 
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
-                        line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                        if (campaign.creativeUrls[i] != "")
+                        {
+                            line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                        }
                     }
                     line = line.TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.genders.Count; i++)
                     {
-                        line += campaign.genders[i] + ", ";
+                        if (campaign.genders[i] != "")
+                        {
+                            line += campaign.genders[i] + ", ";
+                        }
                     }
                     line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.ageBrackets.Count; i++)
                     {
-                        line += campaign.ageBrackets[i] + ", ";
+                        if (campaign.ageBrackets[i] != "")
+                        {
+                            line += campaign.ageBrackets[i] + ", ";
+                        }
                     }
                     line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
