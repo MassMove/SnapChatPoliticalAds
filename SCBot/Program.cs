@@ -168,13 +168,13 @@ namespace SCBot
                     {
                         line += campaign.genders[i] + ", ";
                     }
-                    line = line.TrimEnd(',') + "|";
+                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.ageBrackets.Count; i++)
                     {
                         line += campaign.ageBrackets[i] + ", ";
                     }
-                    line = line.TrimEnd(',') + "|";
+                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
                     line += formatList(campaign.countryCodes) + "|";
                     line += formatList(campaign.billingAddresses) + "|";
