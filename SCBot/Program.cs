@@ -145,7 +145,7 @@ namespace SCBot
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
                 readMe += "## " + year + " \r\n";
-                readMe += "|OrganizationName|Spend|Impressions|Currency Codes|CandidateBallotInformation|PayingAdvertiserNames|Genders|AgeBrackets|CountryCodes|BillingAddresses|CreativeUrls|\r\n";
+                readMe += "|OrganizationName|Spent|CandidateBallotInformation|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|Currency Codes|\r\n";
                 readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
                 foreach (Campaign campaign in campaigns)
                 {
@@ -155,25 +155,32 @@ namespace SCBot
                     }
                     String line = "|" + formatItem(campaign.organizationName) + "|";
                     line += campaign.spend + "|";
-                    line += campaign.impressions + "|";
-                    line += formatList(campaign.currencyCodes) + "|";
                     line += formatList(campaign.candidateBallotNames) + "|";
                     line += formatList(campaign.payingAdvertiserNames) + "|";
-                    line += formatList(campaign.genders) + "|";
-                    line += formatList(campaign.ageBrackets) + "|";
-                    line += formatList(campaign.countryCodes) + "|";
-                    line += formatList(campaign.billingAddresses) + "|";
 
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
                         line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
                     }
-                    line += "|";
+                    line = line.TrimEnd(',') + "|";
 
-                    foreach (string creativeUrl in campaign.creativeUrls)
+                    for (int i = 0; i < campaign.genders.Count; i++)
                     {
-                        
+                        line += campaign.genders[i] + ", ";
                     }
+                    line = line.TrimEnd(',') + "|";
+
+                    for (int i = 0; i < campaign.ageBrackets.Count; i++)
+                    {
+                        line += campaign.ageBrackets[i] + ", ";
+                    }
+                    line = line.TrimEnd(',') + "|";
+
+                    line += formatList(campaign.countryCodes) + "|";
+                    line += formatList(campaign.billingAddresses) + "|";
+
+                    line += campaign.impressions + "|";
+                    line += formatList(campaign.currencyCodes) + "|";
 
                     readMe += line + "\r\n";
                 }
