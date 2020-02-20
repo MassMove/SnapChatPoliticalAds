@@ -1,7 +1,10 @@
 # SCBot
 
 A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en-US/political-ads).
+
 Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).
+
+Last run: 2020-02-20.
 
 ## 2020 
 |OrganizationName|Spent|CandidateBallotInformation|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|Currency Codes|
