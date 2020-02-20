@@ -147,12 +147,10 @@ namespace SCBot
                 readMe += "## " + year + " \r\n";
                 readMe += "|OrganizationName|Spent|CandidateBallotInformation|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|Currency Codes|\r\n";
                 readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
-                foreach (Campaign campaign in campaigns)
+
+                List<Campaign> top25 = campaigns.GetRange(0, 25);
+                foreach (Campaign campaign in top25)
                 {
-                    if (campaign.spend < 10000)
-                    {
-                        break;
-                    }
                     String line = "|" + formatItem(campaign.organizationName) + "|";
                     line += campaign.spend + "|";
                     line += formatList(campaign.candidateBallotNames) + "|";
