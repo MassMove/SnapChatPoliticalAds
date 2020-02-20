@@ -30,8 +30,9 @@ namespace SCBot
         {
             Console.WriteLine("This is our world now");
             String readMe = "# SCBot\r\n\r\n";
-            readMe += "A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en-US/political-ads).\r\n";
+            readMe += "A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en-US/political-ads).\r\n\r\n";
             readMe += "Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).\r\n\r\n";
+            readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
 
             for (int year = 2020; year >= 2018; year--)
             {
@@ -147,12 +148,10 @@ namespace SCBot
                 readMe += "## " + year + " \r\n";
                 readMe += "|OrganizationName|Spent|CandidateBallotInformation|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|Currency Codes|\r\n";
                 readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
-                foreach (Campaign campaign in campaigns)
+
+                List<Campaign> top25 = campaigns.GetRange(0, 25);
+                foreach (Campaign campaign in top25)
                 {
-                    if (campaign.spend < 10000)
-                    {
-                        break;
-                    }
                     String line = "|" + formatItem(campaign.organizationName) + "|";
                     line += campaign.spend + "|";
                     line += formatList(campaign.candidateBallotNames) + "|";
