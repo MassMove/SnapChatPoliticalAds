@@ -1,42 +1,92 @@
-﻿using Microsoft.VisualBasic.FileIO;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Microsoft.VisualBasic.FileIO;
+using SCBot.Models;
+using SCBot.Parsers;
 
 namespace SCBot
 {
-    class Program
+    internal class Program
     {
-        public class Campaign
+        private static string FormatItem(string item)
         {
-            public String organizationName;
-            public long spend = 0;
-            public long impressions = 0;
-            public List<String> creativeUrls = new List<String>();
-            public List<String> currencyCodes = new List<String>();
-            public List<String> billingAddresses = new List<String>();
-            public List<String> candidateBallotNames = new List<String>();
-            public List<String> payingAdvertiserNames = new List<String>();
-            public List<String> genders = new List<String>();
-            public List<String> ageBrackets = new List<String>();
-            public List<String> countryCodes = new List<String>();
-            public List<String> includedRegions = new List<String>();
-            public List<String> excludedRegions = new List<String>();
-            public List<String> interests = new List<String>();
+            char[] chars = { '\t', '\r', '\n', '\"', ',' };
+
+            if (item.IndexOfAny(chars) >= 0)
+            {
+                item = '\"' + item.Replace("\"", "\"\"") + '\"';
+            }
+            return item;
         }
 
-        static void Main(string[] args)
+        private static string FormatList(List<string> listItems)
         {
-            Console.WriteLine("This is our world now");
-            String readMe = "# SCBot\r\n\r\n";
+            if (listItems.Count == 0)
+            {
+                return string.Empty;
+            }
+
+            if (listItems.Count == 1)
+            {
+                return FormatItem(listItems[0]);
+            }
+
+            string list = string.Empty;
+
+            foreach (string listItem in listItems)
+            {
+                if (!string.IsNullOrEmpty(listItem))
+                {
+                    list += listItem + ";";
+                }
+            }
+            return FormatItem(list);
+        }
+
+        private static void Main(string[] args)
+        {
+            string readMe = "# SCBot\r\n\r\n";
             readMe += "A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en-US/political-ads).\r\n\r\n";
             readMe += "Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).\r\n\r\n";
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
+            try
+            {
+                for (int year = 2020; year >= 2018; year--)
+                {
+                    Console.WriteLine($"Campaign Data for:{year}");
 
+                    var dataFile = $"../../../../SCData/{year}.csv";
+                    var dataSummaryFile = $"../../../../SCData/{year}_suMMarized.csv";
+
+                    var campaignFileParser = new CampaignFileParser();
+
+                    var campaigns = campaignFileParser.Parse(dataFile);
+
+                    if (campaigns.Count == 0)
+                    {
+                        Console.WriteLine("No Campaign Data Found.\r\n");
+                        return;
+                    }
+
+                    campaigns.OrderByDescending(c => c.spend);
+
+                    var campaignSummaryWriter = new CampaignFileWriter();
+
+                    campaignSummaryWriter.Write(dataSummaryFile, campaigns);
+                }
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+
+            /*
             for (int year = 2020; year >= 2018; year--)
             {
                 List<Campaign> campaigns = new List<Campaign>();
+
                 using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
                 {
                     parser.TextFieldType = FieldType.Delimited;
@@ -47,8 +97,10 @@ namespace SCBot
                     {
                         string[] fields = parser.ReadFields();
 
-                        Campaign campaign = new Campaign();
-                        campaign.organizationName = fields[7].Replace(",", " ");
+                        Campaign campaign = new Campaign
+                        {
+                            organizationName = fields[7].Replace(",", " ")
+                        };
                         long.TryParse(fields[3], out campaign.spend);
                         long.TryParse(fields[4], out campaign.impressions);
                         campaign.creativeUrls.Add(fields[1]);
@@ -122,24 +174,25 @@ namespace SCBot
 
                 campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
 
-                String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,CreativeUrls,Interests,Regions (Included),Regions (Excluded)";
-                String lines = header;
+                string header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,CreativeUrls,Interests,Regions (Included),Regions (Excluded)";
+                string lines = header;
+
                 foreach (Campaign campaign in campaigns)
                 {
-                    String line = formatItem(campaign.organizationName) + ",";
+                    string line = FormatItem(campaign.organizationName) + ",";
                     line += campaign.spend + ",";
                     line += campaign.impressions + ",";
-                    line += formatItem(campaign.currencyCodes[0]) + ",";
-                    line += formatItem(campaign.candidateBallotNames[0]) + ",";
-                    line += formatItem(campaign.payingAdvertiserNames[0]) + ",";
-                    line += formatItem(campaign.genders[0]) + ",";
-                    line += formatItem(campaign.ageBrackets[0]) + ",";
-                    line += formatItem(campaign.countryCodes[0]) + ",";
-                    line += formatItem(campaign.billingAddresses[0]) + ",";
-                    line += formatItem(campaign.creativeUrls[0]) + ",";
-                    line += formatItem(campaign.interests[0]) + ",";
-                    line += formatItem(campaign.includedRegions[0]) + ",";
-                    line += formatItem(campaign.excludedRegions[0]);
+                    line += FormatItem(campaign.currencyCodes[0]) + ",";
+                    line += FormatItem(campaign.candidateBallotNames[0]) + ",";
+                    line += FormatItem(campaign.payingAdvertiserNames[0]) + ",";
+                    line += FormatItem(campaign.genders[0]) + ",";
+                    line += FormatItem(campaign.ageBrackets[0]) + ",";
+                    line += FormatItem(campaign.countryCodes[0]) + ",";
+                    line += FormatItem(campaign.billingAddresses[0]) + ",";
+                    line += FormatItem(campaign.creativeUrls[0]) + ",";
+                    line += FormatItem(campaign.interests[0]) + ",";
+                    line += FormatItem(campaign.includedRegions[0]) + ",";
+                    line += FormatItem(campaign.excludedRegions[0]);
 
                     lines += "\r\n" + line;
                 }
@@ -152,83 +205,61 @@ namespace SCBot
                 List<Campaign> top25 = campaigns.GetRange(0, 25);
                 foreach (Campaign campaign in top25)
                 {
-                    String line = "|" + formatItem(campaign.organizationName) + "|";
+                    string line = "|" + FormatItem(campaign.organizationName) + "|";
                     line += campaign.spend + "|";
-                    line += formatList(campaign.candidateBallotNames) + "|";
-                    line += formatList(campaign.payingAdvertiserNames) + "|";
+                    line += FormatList(campaign.candidateBallotNames) + "|";
+                    line += FormatList(campaign.payingAdvertiserNames) + "|";
 
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
-                        if (campaign.creativeUrls[i] != "")
+                        if (!string.IsNullOrEmpty(campaign.creativeUrls[i]))
                         {
                             line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
                         }
                     }
+
                     line = line.TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.genders.Count; i++)
                     {
-                        if (campaign.genders[i] != "")
+                        if (!string.IsNullOrEmpty(campaign.genders[i]))
                         {
                             line += campaign.genders[i] + ", ";
                         }
                     }
+
                     line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.ageBrackets.Count; i++)
                     {
-                        if (campaign.ageBrackets[i] != "")
+                        if (!string.IsNullOrEmpty(campaign.ageBrackets[i]))
                         {
                             line += campaign.ageBrackets[i] + ", ";
                         }
                     }
+
                     line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
-                    line += formatList(campaign.countryCodes) + "|";
-                    line += formatList(campaign.billingAddresses) + "|";
+                    line += FormatList(campaign.countryCodes) + "|";
+                    line += FormatList(campaign.billingAddresses) + "|";
 
                     line += campaign.impressions + "|";
-                    line += formatList(campaign.currencyCodes) + "|";
+                    line += FormatList(campaign.currencyCodes) + "|";
 
                     readMe += line + "\r\n";
                 }
                 readMe += "\r\n";
                 File.WriteAllText("../../../../README.md", readMe);
             }
+            */
         }
 
-        private static String formatList(List<String> listItems)
+        private static void UpdateReadME(IList<Campaign> campaignList)
         {
-            if (listItems.Count == 0)
-            {
-                return "";
-            }
-
-            if (listItems.Count == 1)
-            {
-                return formatItem(listItems[0]);
-            }
-
-            String list = "";
-            foreach (String listItem in listItems)
-            {
-                if (listItem != "")
-                {
-                    list += listItem + ";";
-                }
-            }
-            return formatItem(list);
+            string readMe = "# SCBot\r\n\r\n";
+            readMe += "A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en-US/political-ads).\r\n\r\n";
+            readMe += "Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).\r\n\r\n";
+            readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
         }
-
-        private static String formatItem(String item)
-        {
-            char[] chars = { '\t', '\r', '\n', '\"', ',' };
-            if (item.IndexOfAny(chars) >= 0)
-            {
-                item = '\"' + item.Replace("\"", "\"\"") + '\"';
-            }
-            return item;
-        }
-
     }
 }
