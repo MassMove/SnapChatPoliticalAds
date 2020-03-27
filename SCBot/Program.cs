@@ -161,7 +161,18 @@ namespace SCBot
                     {
                         if (campaign.creativeUrls[i] != "")
                         {
-                            line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                            if (campaign.creativeUrls[i].Contains(";"))
+                            {
+                                String[] creativeUrls = campaign.creativeUrls[i].Split(';');
+                                for (int j = 0; j < creativeUrls.Length; j++)
+                                {
+                                    line += "[" + i + "." + j + "](" + creativeUrls[j] + "),";
+                                }
+                            }
+                            else
+                            {
+                                line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                            }
                         }
                     }
                     line = line.TrimEnd(',') + "|";
