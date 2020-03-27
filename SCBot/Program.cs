@@ -191,6 +191,8 @@ namespace SCBot
                     line += formatList(campaign.currencyCodes) + "|";
 
                     readMe += line + "\r\n";
+
+                    Console.WriteLine(campaign.organizationName + ": " + campaign.spend);
                 }
                 readMe += "\r\n";
                 File.WriteAllText("../../../../README.md", readMe);
