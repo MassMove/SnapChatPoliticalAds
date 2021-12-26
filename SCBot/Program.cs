@@ -34,7 +34,7 @@ namespace SCBot
             readMe += "Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).\r\n\r\n";
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
 
-            for (int year = 2020; year >= 2018; year--)
+            for (int year = DateTime.Now.Year; year >= 2018; year--)
             {
                 List<Campaign> campaigns = new List<Campaign>();
                 using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
