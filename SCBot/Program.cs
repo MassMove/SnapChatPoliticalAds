@@ -169,14 +169,15 @@ namespace SCBot
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
                 readMe += "## " + year + " \r\n";
-                readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|Currency Codes|CandidateBallotInformation|\r\n";
+                readMe += "|OrganizationName|Spent|Currency Codes|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|CandidateBallotInformation|\r\n";
                 readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
 
                 List<Campaign> top25 = campaigns.GetRange(0, 25);
                 foreach (Campaign campaign in top25)
                 {
                     String line = "|" + formatItem(campaign.organizationName) + "|";
-                    line += campaign.spend + "|";
+                    line += campaign.spend.ToString("N0") + "|";
+                    line += formatList(campaign.currencyCodes) + "|";
                     line += formatList(campaign.payingAdvertiserNames) + "|";
 
                     int spacing = 0;
@@ -200,6 +201,7 @@ namespace SCBot
                             if (spacing >= 20)
                             {
                                 line += " ";
+                                spacing = 0;
                             }
                         }
                     }
@@ -227,7 +229,6 @@ namespace SCBot
                     line += formatList(campaign.billingAddresses) + "|";
 
                     line += campaign.impressions + "|";
-                    line += formatList(campaign.currencyCodes) + "|";
                     line += formatList(campaign.candidateBallotNames) + "|";
 
                     readMe += line + "\r\n";
