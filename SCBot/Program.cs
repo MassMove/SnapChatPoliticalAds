@@ -169,17 +169,17 @@ namespace SCBot
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
                 readMe += "## " + year + " \r\n";
-                readMe += "|OrganizationName|Spent|CandidateBallotInformation|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|Currency Codes|\r\n";
-                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
+                readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|CandidateBallotInformation|\r\n";
+                readMe += "|:---|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
 
                 List<Campaign> top25 = campaigns.GetRange(0, 25);
                 foreach (Campaign campaign in top25)
                 {
                     String line = "|" + formatItem(campaign.organizationName) + "|";
-                    line += campaign.spend + "|";
-                    line += formatList(campaign.candidateBallotNames) + "|";
+                    line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
                     line += formatList(campaign.payingAdvertiserNames) + "|";
 
+                    int spacing = 0;
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
                         if (campaign.creativeUrls[i] != "")
@@ -196,9 +196,15 @@ namespace SCBot
                             {
                                 line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
                             }
+                            spacing++;
+                            if (spacing >= 20)
+                            {
+                                line += " ";
+                                spacing = 0;
+                            }
                         }
                     }
-                    line = line.TrimEnd(',') + "|";
+                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.genders.Count; i++)
                     {
@@ -222,7 +228,7 @@ namespace SCBot
                     line += formatList(campaign.billingAddresses) + "|";
 
                     line += campaign.impressions + "|";
-                    line += formatList(campaign.currencyCodes) + "|";
+                    line += formatList(campaign.candidateBallotNames) + "|";
 
                     readMe += line + "\r\n";
 
