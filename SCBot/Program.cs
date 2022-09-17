@@ -189,16 +189,16 @@ namespace SCBot
                                 String[] creativeUrls = campaign.creativeUrls[i].Split(';');
                                 for (int j = 0; j < creativeUrls.Length; j++)
                                 {
-                                    line += "[" + i + "." + j + "](" + creativeUrls[j] + "),";
+                                    line += "[" + i + "." + j + "](" + creativeUrls[j] + "), ";
                                 }
                             }
                             else
                             {
-                                line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                                line += "[" + i + "](" + campaign.creativeUrls[i] + "), ";
                             }
                         }
                     }
-                    line = line.TrimEnd(',') + "|";
+                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
 
                     for (int i = 0; i < campaign.genders.Count; i++)
                     {
