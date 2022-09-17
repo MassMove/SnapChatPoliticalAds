@@ -170,7 +170,7 @@ namespace SCBot
 
                 readMe += "## " + year + " \r\n";
                 readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|CandidateBallotInformation|\r\n";
-                readMe += "|:---|---:|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
+                readMe += "|:---|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
 
                 List<Campaign> top25 = campaigns.GetRange(0, 25);
                 foreach (Campaign campaign in top25)
