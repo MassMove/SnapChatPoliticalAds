@@ -199,15 +199,16 @@ namespace SCBot
                                 String[] creativeUrls = campaign.creativeUrls[i].Split(';');
                                 for (int j = 0; j < creativeUrls.Length; j++)
                                 {
+                                    spacing++;
                                     line += "[" + i + "." + j + "](" + creativeUrls[j] + "),";
                                 }
                             }
                             else
                             {
+                                spacing++;
                                 line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
                             }
-                            spacing++;
-                            if (spacing >= 20)
+                            if (spacing >= 16)
                             {
                                 line += " ";
                                 spacing = 0;
