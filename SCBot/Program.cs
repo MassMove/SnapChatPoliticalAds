@@ -180,6 +180,7 @@ namespace SCBot
                     line += formatList(campaign.candidateBallotNames) + "|";
                     line += formatList(campaign.payingAdvertiserNames) + "|";
 
+                    int spacing = 0;
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
                         if (campaign.creativeUrls[i] != "")
@@ -189,12 +190,17 @@ namespace SCBot
                                 String[] creativeUrls = campaign.creativeUrls[i].Split(';');
                                 for (int j = 0; j < creativeUrls.Length; j++)
                                 {
-                                    line += "[" + i + "." + j + "](" + creativeUrls[j] + "), ";
+                                    line += "[" + i + "." + j + "](" + creativeUrls[j] + "),";
                                 }
                             }
                             else
                             {
-                                line += "[" + i + "](" + campaign.creativeUrls[i] + "), ";
+                                line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                            }
+                            spacing++;
+                            if (spacing >= 20)
+                            {
+                                line += " ";
                             }
                         }
                     }
