@@ -2,7 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
+using System.Net;
 
 namespace SCBot
 {
@@ -36,8 +38,29 @@ namespace SCBot
 
             for (int year = DateTime.Now.Year; year >= 2018; year--)
             {
+                Console.WriteLine("\r\n" + year);
+
+                var filePath = "../../../../SCData/" + year + ".csv";
+                using (WebClient webClient = new WebClient())
+                {
+                    var scData = webClient.DownloadData("https://storage.googleapis.com/ad-manager-political-ads-dump/political/" + year + "/PoliticalAds.zip");
+                    var zipStream = new MemoryStream(scData);
+
+                    using (ZipArchive archive = new ZipArchive(zipStream))
+                    {
+                        foreach (ZipArchiveEntry entry in archive.Entries)
+                        {
+                            if (entry.Name == "PoliticalAds.csv")
+                            {
+                                entry.ExtractToFile(filePath, true);
+                                break;
+                            }
+                        }
+                    }
+                }
+
                 List<Campaign> campaigns = new List<Campaign>();
-                using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
+                using (TextFieldParser parser = new TextFieldParser(filePath))
                 {
                     parser.TextFieldType = FieldType.Delimited;
                     parser.SetDelimiters(",");
