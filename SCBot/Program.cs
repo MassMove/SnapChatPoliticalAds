@@ -90,15 +90,7 @@ namespace SCBot
                         campaign.excludedRegions.Add(fields[19]);
                         campaign.interests.Add(fields[30]);
 
-                        Campaign existingCampaign = null;
-                        if (campaign.candidateBallotName != "")
-                        {
-                            existingCampaign = campaigns.Find(x => x.candidateBallotName == campaign.candidateBallotName);
-                        }
-                        else
-                        {
-                            existingCampaign = campaigns.Find(x => x.payingAdvertiserName == campaign.payingAdvertiserName);
-                        }
+                        Campaign existingCampaign = campaigns.Find(x => x.payingAdvertiserName == campaign.payingAdvertiserName);
 
                         if (existingCampaign == null)
                         {
@@ -250,14 +242,7 @@ namespace SCBot
 
                     readMe += line + "\r\n";
 
-                    if (campaign.candidateBallotName != "")
-                    {
-                        Console.WriteLine(campaign.candidateBallotName + ": " + campaign.spend);
-                    }
-                    else
-                    {
-                        Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
-                    }
+                    Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
                 }
                 readMe += "\r\n";
                 File.WriteAllText("../../../../README.md", readMe);
