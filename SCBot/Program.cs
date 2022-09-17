@@ -189,7 +189,8 @@ namespace SCBot
                     line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
                     line += formatList(campaign.payingAdvertiserNames) + "|";
 
-                    int spacing = 0;
+                    int urlSpacing = 0;
+                    int urlIndex = 0;
                     for (int i = 0; i < campaign.creativeUrls.Count; i++)
                     {
                         if (campaign.creativeUrls[i] != "")
@@ -199,19 +200,21 @@ namespace SCBot
                                 String[] creativeUrls = campaign.creativeUrls[i].Split(';');
                                 for (int j = 0; j < creativeUrls.Length; j++)
                                 {
-                                    spacing++;
-                                    line += "[" + i + "." + j + "](" + creativeUrls[j] + "),";
+                                    line += "[" + urlIndex + "](" + creativeUrls[j] + "),";
+                                    urlSpacing++;
+                                    urlIndex++;
                                 }
                             }
                             else
                             {
-                                spacing++;
-                                line += "[" + i + "](" + campaign.creativeUrls[i] + "),";
+                                line += "[" + urlIndex + "](" + campaign.creativeUrls[i] + "),";
+                                urlSpacing++;
+                                urlIndex++;
                             }
-                            if (spacing >= 16)
+                            if (urlSpacing >= 16)
                             {
                                 line += " ";
-                                spacing = 0;
+                                urlSpacing = 0;
                             }
                         }
                     }
