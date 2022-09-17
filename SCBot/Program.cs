@@ -2,7 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
+using System.Net;
 
 namespace SCBot
 {
@@ -36,8 +38,29 @@ namespace SCBot
 
             for (int year = DateTime.Now.Year; year >= 2018; year--)
             {
+                Console.WriteLine("\r\n" + year);
+
+                var filePath = "../../../../SCData/" + year + ".csv";
+                using (WebClient webClient = new WebClient())
+                {
+                    var scData = webClient.DownloadData("https://storage.googleapis.com/ad-manager-political-ads-dump/political/" + year + "/PoliticalAds.zip");
+                    var zipStream = new MemoryStream(scData);
+
+                    using (ZipArchive archive = new ZipArchive(zipStream))
+                    {
+                        foreach (ZipArchiveEntry entry in archive.Entries)
+                        {
+                            if (entry.Name == "PoliticalAds.csv")
+                            {
+                                entry.ExtractToFile(filePath, true);
+                                break;
+                            }
+                        }
+                    }
+                }
+
                 List<Campaign> campaigns = new List<Campaign>();
-                using (TextFieldParser parser = new TextFieldParser("../../../../SCData/" + year + ".csv"))
+                using (TextFieldParser parser = new TextFieldParser(filePath))
                 {
                     parser.TextFieldType = FieldType.Delimited;
                     parser.SetDelimiters(",");
@@ -56,12 +79,12 @@ namespace SCBot
                         campaign.billingAddresses.Add(fields[8]);
                         campaign.candidateBallotNames.Add(fields[9]);
                         campaign.payingAdvertiserNames.Add(fields[10]);
-                        campaign.genders.Add(fields[11]);
-                        campaign.ageBrackets.Add(fields[12]);
-                        campaign.countryCodes.Add(fields[13]);
-                        campaign.includedRegions.Add(fields[14]);
-                        campaign.excludedRegions.Add(fields[15]);
-                        campaign.interests.Add(fields[26]);
+                        campaign.genders.Add(fields[15]);
+                        campaign.ageBrackets.Add(fields[16]);
+                        campaign.countryCodes.Add(fields[17]);
+                        campaign.includedRegions.Add(fields[18]);
+                        campaign.excludedRegions.Add(fields[19]);
+                        campaign.interests.Add(fields[30]);
 
                         Campaign existingCampaign = campaigns.Find(x => x.organizationName == campaign.organizationName);
                         if (existingCampaign == null)
