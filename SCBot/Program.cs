@@ -13,6 +13,8 @@ namespace SCBot
         public class Campaign
         {
             public String organizationName;
+            public String candidateBallotName;
+            public String payingAdvertiserName;
             public long spend = 0;
             public long impressions = 0;
             public List<String> creativeUrls = new List<String>();
@@ -77,8 +79,10 @@ namespace SCBot
                         campaign.creativeUrls.Add(fields[1]);
                         campaign.currencyCodes.Add(fields[2]);
                         campaign.billingAddresses.Add(fields[8]);
+                        campaign.candidateBallotName = fields[9];
                         campaign.candidateBallotNames.Add(fields[9]);
                         campaign.payingAdvertiserNames.Add(fields[10]);
+                        campaign.payingAdvertiserName = fields[10];
                         campaign.genders.Add(fields[15]);
                         campaign.ageBrackets.Add(fields[16]);
                         campaign.countryCodes.Add(fields[17]);
@@ -86,7 +90,16 @@ namespace SCBot
                         campaign.excludedRegions.Add(fields[19]);
                         campaign.interests.Add(fields[30]);
 
-                        Campaign existingCampaign = campaigns.Find(x => x.organizationName == campaign.organizationName);
+                        Campaign existingCampaign = null;
+                        if (campaign.candidateBallotName != "")
+                        {
+                            existingCampaign = campaigns.Find(x => x.candidateBallotName == campaign.candidateBallotName);
+                        }
+                        else
+                        {
+                            existingCampaign = campaigns.Find(x => x.payingAdvertiserName == campaign.payingAdvertiserName);
+                        }
+
                         if (existingCampaign == null)
                         {
                             campaigns.Add(campaign);
@@ -172,7 +185,12 @@ namespace SCBot
                 readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|CandidateBallotInformation|\r\n";
                 readMe += "|:---|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
 
-                List<Campaign> top25 = campaigns.GetRange(0, 25);
+                List<Campaign> top25 = campaigns;
+                
+                if (campaigns.Count > 25)
+                {
+                    top25 = campaigns.GetRange(0, 25);
+                }
                 foreach (Campaign campaign in top25)
                 {
                     String line = "|" + formatItem(campaign.organizationName) + "|";
@@ -232,7 +250,14 @@ namespace SCBot
 
                     readMe += line + "\r\n";
 
-                    Console.WriteLine(campaign.organizationName + ": " + campaign.spend);
+                    if (campaign.candidateBallotName != "")
+                    {
+                        Console.WriteLine(campaign.candidateBallotName + ": " + campaign.spend);
+                    }
+                    else
+                    {
+                        Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
+                    }
                 }
                 readMe += "\r\n";
                 File.WriteAllText("../../../../README.md", readMe);
