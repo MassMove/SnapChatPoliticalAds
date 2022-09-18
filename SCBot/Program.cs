@@ -173,7 +173,7 @@ namespace SCBot
                 }
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
-                readMe += "## [" + year + "](/" + year + ") \r\n";
+                readMe += "## [" + year + "](" + year + ") \r\n";
                 readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
                 readMe += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
 
