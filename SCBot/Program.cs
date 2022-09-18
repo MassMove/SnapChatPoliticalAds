@@ -173,7 +173,7 @@ namespace SCBot
                 }
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
-                readMe += "## " + year + " \r\n";
+                readMe += "## [" + year + "](/" + year + ") \r\n";
                 readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
                 readMe += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
 
@@ -201,6 +201,31 @@ namespace SCBot
                 }
                 readMe += "\r\n";
                 File.WriteAllText("../../../../README.md", readMe);
+
+                var readMeYear = "## " + year + " \r\n";
+                readMeYear += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+                readMeYear += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+
+                foreach (Campaign campaign in campaigns)
+                {
+                    String line = "|" + formatItem(campaign.organizationName) + "|";
+                    line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
+                    line += formatList(campaign.payingAdvertiserNames) + "|";
+                    line += formatUrls(campaign.creativeUrls) + "|";
+                    line += campaign.impressions.ToString("N0") + "|";
+                    line += formatList(campaign.genders) + "|";
+                    line += formatList(campaign.ageBrackets) + "|";
+                    line += formatList(campaign.countryCodes) + "|";
+                    line += formatList(campaign.billingAddresses) + "|";
+                    line += formatList(campaign.candidateBallotNames) + "|";
+                    readMeYear += line + "\r\n";
+                }
+                readMeYear += "\r\n";
+                if (!Directory.Exists("../../../../" + year))
+                {
+                    Directory.CreateDirectory("../../../../" + year);
+                }
+                File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
             }
         }
 
