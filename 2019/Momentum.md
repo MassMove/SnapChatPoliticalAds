@@ -1,0 +1,8 @@
+## 2019 - Momentum 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Momentum|842.00 GBP|[Momentum](2019/Momentum.md)|[0](https://www.snap.com/political-ads/asset/55c224decd754bde333b51acadf8e534f51484dc2d333a4749fa6208c7f32daa?mediaType=mp4)|722,025||18+|united kingdom|"Cannon Wharf, Pell Street, Surrey Quays,London,SE85EN,GB"|Momentum General Election|
+|Momentum|842.00 GBP|[Momentum](2019/Momentum.md)|[0](https://www.snap.com/political-ads/asset/55c224decd754bde333b51acadf8e534f51484dc2d333a4749fa6208c7f32daa?mediaType=mp4)|722,711||18+|united kingdom|"Cannon Wharf, Pell Street, Surrey Quays,London,SE85EN,GB"|Momentum General Election|
+|Momentum|674.00 GBP|[Momentum](2019/Momentum.md)|[0](https://www.snap.com/political-ads/asset/70a2ee4d88afb467ab1a6fd00cf862b7d52ec8219dc7530dd41076a20cb41353?mediaType=mp4)|585,336||18+|united kingdom|"Cannon Wharf, Pell Street, Surrey Quays,London,SE85EN,GB"|Momentum General Election|
+|Momentum|675.00 GBP|[Momentum](2019/Momentum.md)|[0](https://www.snap.com/political-ads/asset/70a2ee4d88afb467ab1a6fd00cf862b7d52ec8219dc7530dd41076a20cb41353?mediaType=mp4)|586,034||18+|united kingdom|"Cannon Wharf, Pell Street, Surrey Quays,London,SE85EN,GB"|Momentum General Election|
+|Momentum|6,000.00 GBP|[Momentum](2019/Momentum.md)|[0](https://www.snap.com/political-ads/asset/710182f580a11416f54666d92d345d35206494d0f3bf618ef7ecdb6de03171ec?mediaType=mp4)|587,993||18+|united kingdom|"Cannon Wharf, Pell Street, Surrey Quays,London,SE85EN,GB"|Momentum General Election|

@@ -1,0 +1,6 @@
+## 2020 - Abdulwahab Albabtain 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Digital Media Services FZ-LLC|978.00 USD|[Abdulwahab Albabtain](2020/Abdulwahab Albabtain.md)|[0](https://www.snap.com/political-ads/asset/e00d83b17788c0fcc2428bf36254a10d4a906c385592900a0285eef8a7b9cb2a?mediaType=mp4)|669,414||18+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"|Abdulwahab Al Babtain|
+|Digital Media Services FZ-LLC|1,630.00 USD|[Abdulwahab Albabtain](2020/Abdulwahab Albabtain.md)|[0](https://www.snap.com/political-ads/asset/26df088e3858ec025e003569685a61e3bc85961e56b9daee53044b04ecd0c396?mediaType=mp4)|989,690||20+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"|Abdul Wahab Al Babtain|
+|Digital Media Services FZ-LLC|600.00 USD|[Abdulwahab Albabtain](2020/Abdulwahab Albabtain.md)|[0](https://www.snap.com/political-ads/asset/9e904be324840939c875168fa6e9d404ff7c04ebb456ac36458fc5a26a0a1cec?mediaType=mp4)|496,898||20+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"|Abdulwahab Al Babtain|

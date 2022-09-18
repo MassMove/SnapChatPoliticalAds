@@ -1,0 +1,7 @@
+## 2022 - ElectionsCanada/ÉlectionsCanada 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Cossette Media Inc|166.00 CAD|[ElectionsCanada/ÉlectionsCanada](2022/ElectionsCanadaÉlectionsCanada.md)|[0](https://www.snap.com/political-ads/asset/c2f1445c499a7268f5c546501a26af8733873898907cdb5be05bb3061519154a?mediaType=mp4)|30,489||18-24|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||
+|Cossette Media Inc|2,812.00 CAD|[ElectionsCanada/ÉlectionsCanada](2022/ElectionsCanadaÉlectionsCanada.md)|[0](https://www.snap.com/political-ads/asset/61ff36caeff85c44293d3c2495ee2bc13e56c412ed28ac8900940c33104b8067?mediaType=mp4)|514,572||18-24|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||
+|Cossette Media Inc|166.00 CAD|[ElectionsCanada/ÉlectionsCanada](2022/ElectionsCanadaÉlectionsCanada.md)|[0](https://www.snap.com/political-ads/asset/9c0e8b73b2aca43b8dcac1584e7cfcaa633eb97a1cda18d823ee6414bda6fbc8?mediaType=mp4)|32,277||18-24|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||
+|Cossette Media Inc|3,534.00 CAD|[ElectionsCanada/ÉlectionsCanada](2022/ElectionsCanadaÉlectionsCanada.md)|[0](https://www.snap.com/political-ads/asset/040ab60bdb5cae38cee0ec7982eee40157e7c0cc5eaaf507b785d208a2d208ad?mediaType=mp4)|632,872||18-24|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||
