@@ -1,9 +1,0 @@
-## 2022 - SEIU Together We Rise 
-|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
-|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|Trilogy Interactive|117.00 USD|[SEIU Together We Rise](2022/SEIU Together We Rise.md)|[0](https://www.snap.com/political-ads/asset/85545f9a56c6c1e314dfbd406c2b056a78fcbc3d16dc052565d6b4a64d3af42f?mediaType=png)|3,977||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||
-|Trilogy Interactive|56.00 USD|[SEIU Together We Rise](2022/SEIU Together We Rise.md)|[0](https://www.snap.com/political-ads/asset/63a74988db1736e94d8b58cb3897ae9cbfb2aa764fef2945d0bc8a04f1706097?mediaType=png)|1,876||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||
-|Trilogy Interactive|69.00 USD|[SEIU Together We Rise](2022/SEIU Together We Rise.md)|[0](https://www.snap.com/political-ads/asset/6400930cfbe650e4b31d1d6f961e932819418935abc0509781ef27447bb3d6f0?mediaType=png)|2,356||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||
-|Trilogy Interactive|89.00 USD|[SEIU Together We Rise](2022/SEIU Together We Rise.md)|[0](https://www.snap.com/political-ads/asset/6400930cfbe650e4b31d1d6f961e932819418935abc0509781ef27447bb3d6f0?mediaType=png)|3,044||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||
-|Trilogy Interactive|55.00 USD|[SEIU Together We Rise](2022/SEIU Together We Rise.md)|[0](https://www.snap.com/political-ads/asset/63a74988db1736e94d8b58cb3897ae9cbfb2aa764fef2945d0bc8a04f1706097?mediaType=png)|1,832||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||
-|Trilogy Interactive|185.00 USD|[SEIU Together We Rise](2022/SEIU Together We Rise.md)|[0](https://www.snap.com/political-ads/asset/85545f9a56c6c1e314dfbd406c2b056a78fcbc3d16dc052565d6b4a64d3af42f?mediaType=png)|6,272||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||

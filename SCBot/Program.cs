@@ -40,7 +40,7 @@ namespace SCBot
 
             for (int year = DateTime.Now.Year; year >= 2018; year--)
             {
-                Console.WriteLine("\r\n" + year);
+                Console.WriteLine("\r\n" + year + " summary");
 
                 var filePath = "../../../../SCData/" + year + ".csv";
                 using (WebClient webClient = new WebClient())
@@ -178,6 +178,12 @@ namespace SCBot
                 readMeYear += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
                 readMeYear += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
 
+                if (!Directory.Exists("../../../../" + year))
+                {
+                    Directory.CreateDirectory("../../../../" + year);
+                }
+
+                Console.WriteLine("\r\n" + year + " details");
                 foreach (Campaign campaign in campaigns)
                 {
                     readMeYear += formatLine(campaign, year) + "\r\n";
@@ -187,14 +193,12 @@ namespace SCBot
                     readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
                     readMeAdvertiser += generateAdvertiserTable(filePath, campaign.payingAdvertiserName, year);
 
-                    var filename = string.Join("", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+                    var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+                    filename = string.Join("_", filename.Split(" "));
                     File.WriteAllText("../../../../" + year + "/" + filename + ".md", readMeAdvertiser);
+                    Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
                 }
                 readMeYear += "\r\n";
-                if (!Directory.Exists("../../../../" + year))
-                {
-                    Directory.CreateDirectory("../../../../" + year);
-                }
                 File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
             }
         }
@@ -249,8 +253,17 @@ namespace SCBot
             var line = "|" + formatItem(campaign.organizationName) + "|";
             line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
 
-            var filename = string.Join("", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
-            line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)|";
+            var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+            filename = string.Join("_", filename.Split(" "));
+
+            if (year == 0)
+            {
+                line += campaign.payingAdvertiserName + "|";
+            }
+            else
+            {
+                line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)|";
+            }
             line += formatUrls(campaign.creativeUrls) + "|";
             line += campaign.impressions.ToString("N0") + "|";
             line += formatList(campaign.genders) + "|";
@@ -261,7 +274,7 @@ namespace SCBot
             return line;
         }
 
-        private static String formatList(List<String> listItems)
+        private static string formatList(List<String> listItems)
         {
             if (listItems.Count == 0)
             {
@@ -273,8 +286,8 @@ namespace SCBot
                 return formatItem(listItems[0]);
             }
 
-            String list = "";
-            foreach (String listItem in listItems)
+            var list = "";
+            foreach (var listItem in listItems)
             {
                 if (listItem != "")
                 {
@@ -286,7 +299,7 @@ namespace SCBot
             return formatItem(list);
         }
 
-        private static String formatItem(String item)
+        private static string formatItem(string item)
         {
             char[] chars = { '\t', '\r', '\n', '\"', ',' };
             if (item.IndexOfAny(chars) >= 0)
