@@ -174,8 +174,8 @@ namespace SCBot
                 File.WriteAllText("../../../../SCData/" + year + "_suMMarized.csv", lines);
 
                 readMe += "## " + year + " \r\n";
-                readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Genders|AgeBrackets|CountryCodes|BillingAddresses|Impressions|CandidateBallotInformation|\r\n";
-                readMe += "|:---|---:|:---|:---|:---|:---|:---|:---|:---|:---|\r\n";
+                readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+                readMe += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
 
                 List<Campaign> top25 = campaigns;
                 
@@ -188,62 +188,13 @@ namespace SCBot
                     String line = "|" + formatItem(campaign.organizationName) + "|";
                     line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
                     line += formatList(campaign.payingAdvertiserNames) + "|";
-
-                    int urlSpacing = 0;
-                    int urlIndex = 0;
-                    for (int i = 0; i < campaign.creativeUrls.Count; i++)
-                    {
-                        if (campaign.creativeUrls[i] != "")
-                        {
-                            if (campaign.creativeUrls[i].Contains(";"))
-                            {
-                                String[] creativeUrls = campaign.creativeUrls[i].Split(';');
-                                for (int j = 0; j < creativeUrls.Length; j++)
-                                {
-                                    line += "[" + urlIndex + "](" + creativeUrls[j] + "),";
-                                    urlSpacing++;
-                                    urlIndex++;
-                                }
-                            }
-                            else
-                            {
-                                line += "[" + urlIndex + "](" + campaign.creativeUrls[i] + "),";
-                                urlSpacing++;
-                                urlIndex++;
-                            }
-                            if (urlSpacing >= 16)
-                            {
-                                line += " ";
-                                urlSpacing = 0;
-                            }
-                        }
-                    }
-                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
-
-                    for (int i = 0; i < campaign.genders.Count; i++)
-                    {
-                        if (campaign.genders[i] != "")
-                        {
-                            line += campaign.genders[i] + ", ";
-                        }
-                    }
-                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
-
-                    for (int i = 0; i < campaign.ageBrackets.Count; i++)
-                    {
-                        if (campaign.ageBrackets[i] != "")
-                        {
-                            line += campaign.ageBrackets[i] + ", ";
-                        }
-                    }
-                    line = line.TrimEnd(' ').TrimEnd(',') + "|";
-
+                    line += formatUrls(campaign.creativeUrls) + "|";
+                    line += campaign.impressions.ToString("N0") + "|";
+                    line += formatList(campaign.genders) + "|";
+                    line += formatList(campaign.ageBrackets) + "|";
                     line += formatList(campaign.countryCodes) + "|";
                     line += formatList(campaign.billingAddresses) + "|";
-
-                    line += campaign.impressions + "|";
                     line += formatList(campaign.candidateBallotNames) + "|";
-
                     readMe += line + "\r\n";
 
                     Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
@@ -270,9 +221,11 @@ namespace SCBot
             {
                 if (listItem != "")
                 {
-                    list += listItem + ";";
+                    list += listItem + "; ";
                 }
             }
+            list = list.TrimEnd(' ').TrimEnd(';');
+            list = formatItem(list).Replace(";", ",");
             return formatItem(list);
         }
 
@@ -284,6 +237,48 @@ namespace SCBot
                 item = '\"' + item.Replace("\"", "\"\"") + '\"';
             }
             return item;
+        }
+
+        private static string formatUrls(List<string> creativeUrls)
+        {
+            var urls = "";
+            var urlSpacing = 0;
+            var urlIndex = 0;
+
+            var mergedUrls = new List<string>();
+            foreach (var url in creativeUrls)
+            {
+                if (url != "")
+                {
+                    if (url.Contains(";"))
+                    {
+                        var subUrls = url.Split(';');
+                        foreach (var subUrl in subUrls)
+                        {
+                            mergedUrls.Add(subUrl);
+                        }
+                    }
+                    else
+                    {
+                        mergedUrls.Add(url);
+                    }
+                }
+            }
+
+            foreach (var url in mergedUrls)
+            {
+                urls += "[" + urlIndex + "](" + url + "),";
+                urlSpacing++;
+                urlIndex++;
+                if (urlSpacing >= 16)
+                {
+                    urls += " ";
+                    urlSpacing = 0;
+                }
+            }
+
+            urls = urls.TrimEnd(' ').TrimEnd(',') + "|";
+            return urls;
         }
 
     }
