@@ -191,7 +191,7 @@ namespace SCBot
                     var readMeAdvertiser = "## " + year + " - " + campaign.payingAdvertiserName + " \r\n";
                     readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
                     readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
-                    readMeAdvertiser += generateAdvertiserTable(filePath, campaign.payingAdvertiserName, year);
+                    readMeAdvertiser += generateAdvertiserTable(filePath, campaign.payingAdvertiserName, 0);
 
                     var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
                     filename = string.Join("_", filename.Split(" "));
