@@ -277,7 +277,7 @@ namespace SCBot
                 }
             }
 
-            urls = urls.TrimEnd(' ').TrimEnd(',') + "|";
+            urls = urls.TrimEnd(' ').TrimEnd(',');
             return urls;
         }
 
