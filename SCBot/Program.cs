@@ -30,6 +30,8 @@ namespace SCBot
             public List<String> interests = new List<String>();
         }
 
+        static int urlStartIndex;
+
         static void Main(string[] args)
         {
             Console.WriteLine("This is our world now");
@@ -168,7 +170,7 @@ namespace SCBot
                 }
                 foreach (Campaign campaign in top25)
                 {
-                    readMe += formatLine(campaign, year) + "\r\n";
+                    readMe += formatLine(campaign, year, false) + "\r\n";
                     Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
                 }
                 readMe += "\r\n";
@@ -186,7 +188,7 @@ namespace SCBot
                 Console.WriteLine("\r\n" + year + " details");
                 foreach (Campaign campaign in campaigns)
                 {
-                    readMeYear += formatLine(campaign, year) + "\r\n";
+                    readMeYear += formatLine(campaign, year, false) + "\r\n";
 
                     var readMeAdvertiser = "## " + year + " - " + campaign.payingAdvertiserName + " \r\n";
                     readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
@@ -234,13 +236,15 @@ namespace SCBot
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
+                urlStartIndex = 0;
+
                 while (!parser.EndOfData)
                 {
                     var fields = parser.ReadFields();
                     Campaign campaign = parseCampaign(fields);
                     if (campaign.payingAdvertiserName == advertiser)
                     {
-                        advertiserTable += formatLine(campaign, year) + "\r\n";
+                        advertiserTable += formatLine(campaign, year, true) + "\r\n";
                     }
                 }
             }
@@ -248,7 +252,7 @@ namespace SCBot
             return advertiserTable;
         }
 
-        private static String formatLine(Campaign campaign, int year)
+        private static String formatLine(Campaign campaign, int year, bool groupUrls)
         {
             var line = "|" + formatItem(campaign.organizationName) + "|";
             line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
@@ -264,7 +268,16 @@ namespace SCBot
             {
                 line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)|";
             }
-            line += formatUrls(campaign.creativeUrls) + "|";
+            if (groupUrls)
+            {
+                var formattedUrls = formatUrls(campaign.creativeUrls, urlStartIndex) + "|";
+                urlStartIndex += formattedUrls.Split(",").Length;
+                line += formattedUrls;
+            }
+            else
+            {
+                line += formatUrls(campaign.creativeUrls, 0) + "|";
+            }
             line += campaign.impressions.ToString("N0") + "|";
             line += formatList(campaign.genders) + "|";
             line += formatList(campaign.ageBrackets) + "|";
@@ -309,11 +322,11 @@ namespace SCBot
             return item;
         }
 
-        private static string formatUrls(List<string> creativeUrls)
+        private static string formatUrls(List<string> creativeUrls, int startIndex)
         {
             var urls = "";
             var urlSpacing = 0;
-            var urlIndex = 0;
+            var urlIndex = startIndex;
 
             var mergedUrls = new List<string>();
             foreach (var url in creativeUrls)

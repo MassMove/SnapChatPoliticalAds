@@ -1,19 +1,19 @@
 ## 2022 - NRDC Action 
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|Wavelength Strategy|211.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/6b18eb703e8a0acd3d7758db55fe16cf942f162c39826bb0d12cfab605885317?mediaType=jpg)|24,253||18+|united states|US|NRDC Action|
-|Wavelength Strategy|197.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/21ef679b7b170dbe36a7c772a9b43964b74af3059d829296199cf9ca9fa6ec61?mediaType=jpg)|17,086||18+|united states|US|NRDC Action|
 |Wavelength Strategy|261.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/6bb16db6c6d59fdcda19ada297ef8c92a4c42e5b75066f71e739f4cbc6e3a751?mediaType=jpg)|32,757||18+|united states|US|NRDC Action|
-|Wavelength Strategy|506.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/6b8a20c5b8b29a0edc59d18cc7126bb17f2c61d2a38dfb53e2a997efd2347358?mediaType=jpg)|47,515||18+|united states|US|NRDC Action|
-|Wavelength Strategy|204.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/a3d9102e3b4bed420776f5bbf99f0bf6c025e502e14e58526052890f578ccd51?mediaType=jpg)|21,587||18+|united states|US|NRDC Action|
-|Wavelength Strategy|132.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/9d61b6b599eb996b891b99c5d55960ba4b6cd8fa4a178134e42b56d92a16afa4?mediaType=mp4)|14,100||18+|united states|US|NRDC Action|
-|Wavelength Strategy|124.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/c3c74adc1104685ddbfbf7816e293615760c77737ade829abe1767d0028dde53?mediaType=jpg)|13,580||18+|united states|US|NRDC Action|
-|Wavelength Strategy|177.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/14c2a6d88764612bb9c35b7725d59b633e03b69508900e5ed8ebc0ae0534c013?mediaType=jpg)|17,971||18+|united states|US|NRDC Action|
-|Wavelength Strategy|227.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/6bf74a0c16b940017163d90b188e98503d8fb3082e870b2e0fd07b908a2c02e2?mediaType=mp4)|21,380||18+|united states|US|NRDC Action|
-|Wavelength Strategy|222.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/c3c74adc1104685ddbfbf7816e293615760c77737ade829abe1767d0028dde53?mediaType=jpg)|24,626||18+|united states|US|NRDC Action|
-|Wavelength Strategy|454.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/6bb16db6c6d59fdcda19ada297ef8c92a4c42e5b75066f71e739f4cbc6e3a751?mediaType=jpg)|52,160||18+|united states|US|NRDC Action|
-|Wavelength Strategy|223.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/f7aa63e0b59c8edc13499acc3801689e4027b667c1457af4dc665929631d9f40?mediaType=jpg)|22,325||18+|united states|US|NRDC Action|
-|Wavelength Strategy|272.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/f3d115b1c59c6b153177e02a87ef79b136412396178ad39b24175f2a8188a93b?mediaType=jpg)|27,403||18+|united states|US|NRDC Action|
-|Wavelength Strategy|360.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/1ff0c8213e956134abfffef56ccf723fb13a2926918e6bfbe98cd03b9abd3f1b?mediaType=mp4)|32,819||18+|united states|US|NRDC Action|
-|Wavelength Strategy|141.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/1ff0c8213e956134abfffef56ccf723fb13a2926918e6bfbe98cd03b9abd3f1b?mediaType=mp4)|15,796||18+|united states|US|NRDC Action|
-|Wavelength Strategy|175.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/6b18eb703e8a0acd3d7758db55fe16cf942f162c39826bb0d12cfab605885317?mediaType=jpg)|19,878||18+|united states|US|NRDC Action|
+|Wavelength Strategy|177.00 USD|NRDC Action|[1](https://www.snap.com/political-ads/asset/14c2a6d88764612bb9c35b7725d59b633e03b69508900e5ed8ebc0ae0534c013?mediaType=jpg)|17,971||18+|united states|US|NRDC Action|
+|Wavelength Strategy|454.00 USD|NRDC Action|[2](https://www.snap.com/political-ads/asset/6bb16db6c6d59fdcda19ada297ef8c92a4c42e5b75066f71e739f4cbc6e3a751?mediaType=jpg)|52,160||18+|united states|US|NRDC Action|
+|Wavelength Strategy|197.00 USD|NRDC Action|[3](https://www.snap.com/political-ads/asset/21ef679b7b170dbe36a7c772a9b43964b74af3059d829296199cf9ca9fa6ec61?mediaType=jpg)|17,086||18+|united states|US|NRDC Action|
+|Wavelength Strategy|272.00 USD|NRDC Action|[4](https://www.snap.com/political-ads/asset/f3d115b1c59c6b153177e02a87ef79b136412396178ad39b24175f2a8188a93b?mediaType=jpg)|27,403||18+|united states|US|NRDC Action|
+|Wavelength Strategy|360.00 USD|NRDC Action|[5](https://www.snap.com/political-ads/asset/1ff0c8213e956134abfffef56ccf723fb13a2926918e6bfbe98cd03b9abd3f1b?mediaType=mp4)|32,819||18+|united states|US|NRDC Action|
+|Wavelength Strategy|204.00 USD|NRDC Action|[6](https://www.snap.com/political-ads/asset/a3d9102e3b4bed420776f5bbf99f0bf6c025e502e14e58526052890f578ccd51?mediaType=jpg)|21,587||18+|united states|US|NRDC Action|
+|Wavelength Strategy|132.00 USD|NRDC Action|[7](https://www.snap.com/political-ads/asset/9d61b6b599eb996b891b99c5d55960ba4b6cd8fa4a178134e42b56d92a16afa4?mediaType=mp4)|14,100||18+|united states|US|NRDC Action|
+|Wavelength Strategy|175.00 USD|NRDC Action|[8](https://www.snap.com/political-ads/asset/6b18eb703e8a0acd3d7758db55fe16cf942f162c39826bb0d12cfab605885317?mediaType=jpg)|19,878||18+|united states|US|NRDC Action|
+|Wavelength Strategy|506.00 USD|NRDC Action|[9](https://www.snap.com/political-ads/asset/6b8a20c5b8b29a0edc59d18cc7126bb17f2c61d2a38dfb53e2a997efd2347358?mediaType=jpg)|47,515||18+|united states|US|NRDC Action|
+|Wavelength Strategy|227.00 USD|NRDC Action|[10](https://www.snap.com/political-ads/asset/6bf74a0c16b940017163d90b188e98503d8fb3082e870b2e0fd07b908a2c02e2?mediaType=mp4)|21,380||18+|united states|US|NRDC Action|
+|Wavelength Strategy|223.00 USD|NRDC Action|[11](https://www.snap.com/political-ads/asset/f7aa63e0b59c8edc13499acc3801689e4027b667c1457af4dc665929631d9f40?mediaType=jpg)|22,325||18+|united states|US|NRDC Action|
+|Wavelength Strategy|124.00 USD|NRDC Action|[12](https://www.snap.com/political-ads/asset/c3c74adc1104685ddbfbf7816e293615760c77737ade829abe1767d0028dde53?mediaType=jpg)|13,580||18+|united states|US|NRDC Action|
+|Wavelength Strategy|141.00 USD|NRDC Action|[13](https://www.snap.com/political-ads/asset/1ff0c8213e956134abfffef56ccf723fb13a2926918e6bfbe98cd03b9abd3f1b?mediaType=mp4)|15,796||18+|united states|US|NRDC Action|
+|Wavelength Strategy|211.00 USD|NRDC Action|[14](https://www.snap.com/political-ads/asset/6b18eb703e8a0acd3d7758db55fe16cf942f162c39826bb0d12cfab605885317?mediaType=jpg)|24,253||18+|united states|US|NRDC Action|
+|Wavelength Strategy|222.00 USD|NRDC Action|[15](https://www.snap.com/political-ads/asset/c3c74adc1104685ddbfbf7816e293615760c77737ade829abe1767d0028dde53?mediaType=jpg)|24,626||18+|united states|US|NRDC Action|
