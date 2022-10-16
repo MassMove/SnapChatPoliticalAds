@@ -1,4 +1,4 @@
 ## 2022 - Thamer Khaled AlEnezi 
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|TNN|654.00 USD|Thamer Khaled AlEnezi|[0](https://www.snap.com/political-ads/asset/0b74c9d3ea76316563fff66695a48fac9b29af69d2579078bd4e3ae7d1e69b14?mediaType=mp4)|320,664||21+|kuwait|"Washington,Washington DC,20027,US"|Thamer Khaled Al Enezi|
+|TNN|656.00 USD|Thamer Khaled AlEnezi|[0](https://www.snap.com/political-ads/asset/0b74c9d3ea76316563fff66695a48fac9b29af69d2579078bd4e3ae7d1e69b14?mediaType=mp4)|321,730||21+|kuwait|"Washington,Washington DC,20027,US"|Thamer Khaled Al Enezi|
