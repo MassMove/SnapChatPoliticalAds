@@ -1,0 +1,5 @@
+## 2023 - Fight for $15 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|M&R Strategic Services  Inc.|289.00 USD|Fight for $15|[0](https://www.snap.com/political-ads/asset/24feaca7930a545131eb657f94e7dd17329eb54f40e20ee3bdca7c987e37a8d8?mediaType=mp4)|73,834||16+|united states|"1901 L St NW,Washington,20036,US"||
+|M&R Strategic Services  Inc.|432.00 USD|Fight for $15|[1](https://www.snap.com/political-ads/asset/d7123a30dc62ddf17148d346ea9136231cae6b114a71b503df4a3d688ed47ca3?mediaType=mp4)|129,360||16+|united states|"1901 L St NW,Washington,20036,US"||

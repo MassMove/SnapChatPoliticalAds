@@ -1,0 +1,11 @@
+## 2023 - NSSF 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Red Edge LLC|153.00 USD|NSSF|[0](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|3,196|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|66.00 USD|NSSF|[1](https://www.snap.com/political-ads/asset/5ee293af0bd191b2c87683de0a8a67887f2f419ad86169ec168297b718040da4?mediaType=mp4)|1,509|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|279.00 USD|NSSF|[2](https://www.snap.com/political-ads/asset/2052f6bce23a2545316d5a8897c0495d6bd83760cdcd6f17d833b59dcef4e4a9?mediaType=mp4)|6,958|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|94.00 USD|NSSF|[3](https://www.snap.com/political-ads/asset/2052f6bce23a2545316d5a8897c0495d6bd83760cdcd6f17d833b59dcef4e4a9?mediaType=mp4)|2,313|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|253.00 USD|NSSF|[4](https://www.snap.com/political-ads/asset/6d2051839055601d9b376a8f8ab4c9cb9b135863fa55d14449309ca69ee324f8?mediaType=mp4)|9,461|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|964.00 USD|NSSF|[5](https://www.snap.com/political-ads/asset/55d57d92a2c94901e39082d8cec716b328a387db4ef5ca00c1f999cfbe9e9ffc?mediaType=mp4)|22,867|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|48.00 USD|NSSF|[6](https://www.snap.com/political-ads/asset/55d57d92a2c94901e39082d8cec716b328a387db4ef5ca00c1f999cfbe9e9ffc?mediaType=mp4)|1,615|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||
+|Red Edge LLC|1,502.00 USD|NSSF|[7](https://www.snap.com/political-ads/asset/ed617c658cdd06d0e847d7b2b72bfc86d31e6a774aa60c72d4f94235744104d1?mediaType=mp4)|33,854|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||

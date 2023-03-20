@@ -241,10 +241,13 @@ namespace SCBot
                 while (!parser.EndOfData)
                 {
                     var fields = parser.ReadFields();
-                    Campaign campaign = parseCampaign(fields);
-                    if (campaign.payingAdvertiserName == advertiser)
+                    if (fields.Contains(advertiser))
                     {
-                        advertiserTable += formatLine(campaign, year, true) + "\r\n";
+                        Campaign campaign = parseCampaign(fields);
+                        if (campaign.payingAdvertiserName == advertiser)
+                        {
+                            advertiserTable += formatLine(campaign, year, true) + "\r\n";
+                        }
                     }
                 }
             }

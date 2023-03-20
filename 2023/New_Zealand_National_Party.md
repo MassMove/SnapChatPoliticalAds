@@ -1,0 +1,13 @@
+## 2023 - New Zealand National Party 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Rainmakers MSA|23.00 USD|New Zealand National Party|[0](https://www.snap.com/political-ads/asset/3821eabc05259d494c0078cea32784801ab68ed69ac0e63c0f589ef399a4979c?mediaType=mp4)|7,908||18-24|new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|18.00 USD|New Zealand National Party|[1](https://www.snap.com/political-ads/asset/40a55042c3e3e4e70242038ba9abdd25d2a7669072a7b93fdaaf08119861dae2?mediaType=mp4)|5,579||18-24|new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|23.00 USD|New Zealand National Party|[2](https://www.snap.com/political-ads/asset/50529fc0b701e1bd7dbd0a7cf04ceb321d3734dddfa8fafcb8ee3a85a71873d4?mediaType=mp4)|34,887|||new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|150.00 USD|New Zealand National Party|[3](https://www.snap.com/political-ads/asset/5fbf5f801e39fe6d70ed8b934fcb6fb90aa0cfca6d0f07c4b083f8a4ed1bdce6?mediaType=mp4)|157,553|||new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|26.00 USD|New Zealand National Party|[4](https://www.snap.com/political-ads/asset/a49500587072ab647e55af37eef00cceb04ed99e3335161c0f6d27c83ebc4b07?mediaType=mp4)|15,109|||new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|32.00 USD|New Zealand National Party|[5](https://www.snap.com/political-ads/asset/85811a93d86b506efd382662c878b0c78a304660fcee5895ca601d6e99f42f37?mediaType=mp4)|8,787||18-24|new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|289.00 USD|New Zealand National Party|[6](https://www.snap.com/political-ads/asset/51fd2514b72a2f6bef6f162ce7af0175bd06eb4c5179c5f831face232958242f?mediaType=mp4)|117,634||18-24|new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|300.00 USD|New Zealand National Party|[7](https://www.snap.com/political-ads/asset/dfda3781f0e2977696c809d93ad602f979641f2835553887d4a0a11a7617363b?mediaType=mp4)|204,032|||new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|416.00 USD|New Zealand National Party|[8](https://www.snap.com/political-ads/asset/6f8be1d6dc5130fbc5586070d63c778fe2127284642c4bef043c441a26d51bc7?mediaType=mp4)|223,286||18-24|new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
+|Rainmakers MSA|24.00 USD|New Zealand National Party|[9](https://www.snap.com/political-ads/asset/ac36f888d02db374febe0f2cb93c696892a502d4e029167d76a5f312418acd5f?mediaType=mp4)|22,157|||new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||
