@@ -230,6 +230,9 @@ namespace SCBot
         private static string generateAdvertiserTable(string filePath, string advertiser, int year)
         {
             var advertiserTable = "";
+
+            var campaigns = new List<Campaign>();
+
             using (TextFieldParser parser = new TextFieldParser(filePath))
             {
                 parser.TextFieldType = FieldType.Delimited;
@@ -246,10 +249,16 @@ namespace SCBot
                         Campaign campaign = parseCampaign(fields);
                         if (campaign.payingAdvertiserName == advertiser)
                         {
-                            advertiserTable += formatLine(campaign, year, true) + "\r\n";
+                            campaigns.Add(campaign);
+                            //advertiserTable += formatLine(campaign, year, true) + "\r\n";
                         }
                     }
                 }
+            }
+
+            foreach (var campaign in campaigns.OrderByDescending(c => c.spend))
+            {
+                advertiserTable += formatLine(campaign, year, true) + "\r\n";
             }
 
             return advertiserTable;
