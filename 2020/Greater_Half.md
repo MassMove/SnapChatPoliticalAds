@@ -149,6 +149,6 @@
 |Greater Half|0.00 USD|Greater Half|[145](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|40||18+|united states|US||
 |Greater Half|0.00 USD|Greater Half|[146](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|28||18+|united states|US||
 |Greater Half|1.00 USD|Greater Half|[147](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|22||18+|united states|US||
-|Greater Half|0.00 USD|Greater Half|[148](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|12||18+|united states|US||
-|Greater Half|0.00 USD|Greater Half|[149](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|12||18+|united states|US||
+|Greater Half|0.00 USD|Greater Half|[148](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|12||18+|united states|US||
+|Greater Half|0.00 USD|Greater Half|[149](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|12||18+|united states|US||
 |Greater Half|0.00 USD|Greater Half|[150](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|1||18+|united states|US||

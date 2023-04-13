@@ -256,7 +256,7 @@ namespace SCBot
                 }
             }
 
-            foreach (var campaign in campaigns.OrderByDescending(c => c.impressions))
+            foreach (var campaign in campaigns.OrderByDescending(c => c.impressions).ThenByDescending(c => c.spend))
             {
                 advertiserTable += formatLine(campaign, year, true) + "\r\n";
             }

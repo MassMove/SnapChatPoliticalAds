@@ -16,8 +16,8 @@
 |Steffen Helledie|85.00 DKK|Steffen Helledie|[12](https://www.snap.com/political-ads/asset/f0463215ea12b068dc38a99d00dc4b6bc2d534c073fa371693167539a5214421?mediaType=mp4)|1,123||18-49|denmark|DK|Steffen Helledie|
 |Steffen Helledie|20.00 DKK|Steffen Helledie|[13](https://www.snap.com/political-ads/asset/c892f9f4fde92eaf9c77cfbeb92c1cf0a4ed4d51b696a9492fa83b44a66e4bbd?mediaType=mp4)|1,123||18+|denmark|DK|Steffen Helledie|
 |Steffen Helledie|71.00 DKK|Steffen Helledie|[14](https://www.snap.com/political-ads/asset/5d8a33e678cb7a953b5dfef419ab5602b2938fc7555e7eb4129764669aae29fd?mediaType=mp4)|982||18+|denmark|DK||
-|Steffen Helledie|71.00 DKK|Steffen Helledie|[15](https://www.snap.com/political-ads/asset/fe7c156d0c65364ef24d24ead185ed11b890a22bee39d53043c9b0aece8c6e0f?mediaType=png)|946||18-49|denmark|DK|Steffen Helledie|
-|Steffen Helledie|79.00 DKK|Steffen Helledie|[16](https://www.snap.com/political-ads/asset/396e642cc2f74f875675c1bdd19ac999815a035b17c92ad8d9d71d0c85e8958a?mediaType=mp4)|946||18-49|denmark|DK|Steffen Helledie|
+|Steffen Helledie|79.00 DKK|Steffen Helledie|[15](https://www.snap.com/political-ads/asset/396e642cc2f74f875675c1bdd19ac999815a035b17c92ad8d9d71d0c85e8958a?mediaType=mp4)|946||18-49|denmark|DK|Steffen Helledie|
+|Steffen Helledie|71.00 DKK|Steffen Helledie|[16](https://www.snap.com/political-ads/asset/fe7c156d0c65364ef24d24ead185ed11b890a22bee39d53043c9b0aece8c6e0f?mediaType=png)|946||18-49|denmark|DK|Steffen Helledie|
 |Steffen Helledie|76.00 DKK|Steffen Helledie|[17](https://www.snap.com/political-ads/asset/1c8d5141a5d80566ecb225251c3ef9d49bfe81c9a0fc1b6ee423599ee457c3a0?mediaType=mp4)|944||18-49|denmark|DK|Steffen Helledie|
 |Steffen Helledie|15.00 DKK|Steffen Helledie|[18](https://www.snap.com/political-ads/asset/528d3de1e1a20c3d1da3643deba1ce3173c4fcc17f9699b62182d7c823662d28?mediaType=mp4)|879||18+|denmark|DK|Steffen Helledie|
 |Steffen Helledie|15.00 DKK|Steffen Helledie|[19](https://www.snap.com/political-ads/asset/5232283ac93498ba332e00a733d8c65b1ff613c2d076b4f8fc710d407d60e741?mediaType=mp4)|842||18+|denmark|DK|Steffen Helledie|
