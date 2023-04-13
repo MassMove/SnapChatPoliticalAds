@@ -1,8 +1,8 @@
 ## 2020 - ACLU Foundation 
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|Bully Pulpit Interactive|5,878.00 USD|ACLU Foundation|[0](https://www.snap.com/political-ads/asset/ba1a266ff04bce19109d8548c2f92b2d75834c2925c4e5dde6793a89ce644be0?mediaType=mp4)|513,536||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||
-|Bully Pulpit Interactive|5,867.00 USD|ACLU Foundation|[1](https://www.snap.com/political-ads/asset/02fb6bb0ff9530571a8470f79894b6e3b8199b93754a6f4f68393519869c86c0?mediaType=mp4)|514,256||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||
+|Bully Pulpit Interactive|5,867.00 USD|ACLU Foundation|[0](https://www.snap.com/political-ads/asset/02fb6bb0ff9530571a8470f79894b6e3b8199b93754a6f4f68393519869c86c0?mediaType=mp4)|514,256||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||
+|Bully Pulpit Interactive|5,878.00 USD|ACLU Foundation|[1](https://www.snap.com/political-ads/asset/ba1a266ff04bce19109d8548c2f92b2d75834c2925c4e5dde6793a89ce644be0?mediaType=mp4)|513,536||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||
 |Bully Pulpit Interactive|3,906.00 USD|ACLU Foundation|[2](https://www.snap.com/political-ads/asset/02fb6bb0ff9530571a8470f79894b6e3b8199b93754a6f4f68393519869c86c0?mediaType=mp4)|335,205||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||
 |Bully Pulpit Interactive|3,900.00 USD|ACLU Foundation|[3](https://www.snap.com/political-ads/asset/ba1a266ff04bce19109d8548c2f92b2d75834c2925c4e5dde6793a89ce644be0?mediaType=mp4)|332,630||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||
 |Bully Pulpit Interactive|1,413.00 USD|ACLU Foundation|[4](https://www.snap.com/political-ads/asset/02fb6bb0ff9530571a8470f79894b6e3b8199b93754a6f4f68393519869c86c0?mediaType=mp4)|131,717||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||

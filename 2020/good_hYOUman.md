@@ -2,12 +2,12 @@
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |good hYOUman.|225.00 USD|good hYOUman|[0](https://www.snap.com/political-ads/asset/ef239412fca233ce18b135ce6bfaffa798fb5111a63f7e57eb2f55feb78d6033?mediaType=png)|54,705|FEMALE|17+|united states|US||
-|good hYOUman.|200.00 USD|good hYOUman|[1](https://www.snap.com/political-ads/asset/3d9dffc113f00ed1461bdbff336a28a79e87b7a688878e1b80dd3ed844b89581?mediaType=png)|28,570|FEMALE|17+|united states|US||
-|good hYOUman.|164.00 USD|good hYOUman|[2](https://www.snap.com/political-ads/asset/ef239412fca233ce18b135ce6bfaffa798fb5111a63f7e57eb2f55feb78d6033?mediaType=png)|28,826|FEMALE|17+|united states|US||
-|good hYOUman.|138.00 USD|good hYOUman|[3](https://www.snap.com/political-ads/asset/945be2292701b84ec525c6c73a5e320093121d00b00148a67f4c2c1624a99742?mediaType=png)|15,725|FEMALE|17+|united states|US||
-|good hYOUman.|121.00 USD|good hYOUman|[4](https://www.snap.com/political-ads/asset/3d9dffc113f00ed1461bdbff336a28a79e87b7a688878e1b80dd3ed844b89581?mediaType=png)|23,490|FEMALE|17+|united states|US||
-|good hYOUman.|75.00 USD|good hYOUman|[5](https://www.snap.com/political-ads/asset/e255f6220963769b7dd7837bba68c4daae6d907eec1d434ecd365737a6f3089a?mediaType=png)|9,344|FEMALE|17+|united states|US||
-|good hYOUman.|54.00 USD|good hYOUman|[6](https://www.snap.com/political-ads/asset/945be2292701b84ec525c6c73a5e320093121d00b00148a67f4c2c1624a99742?mediaType=png)|10,250|FEMALE|17+|united states|US||
+|good hYOUman.|164.00 USD|good hYOUman|[1](https://www.snap.com/political-ads/asset/ef239412fca233ce18b135ce6bfaffa798fb5111a63f7e57eb2f55feb78d6033?mediaType=png)|28,826|FEMALE|17+|united states|US||
+|good hYOUman.|200.00 USD|good hYOUman|[2](https://www.snap.com/political-ads/asset/3d9dffc113f00ed1461bdbff336a28a79e87b7a688878e1b80dd3ed844b89581?mediaType=png)|28,570|FEMALE|17+|united states|US||
+|good hYOUman.|121.00 USD|good hYOUman|[3](https://www.snap.com/political-ads/asset/3d9dffc113f00ed1461bdbff336a28a79e87b7a688878e1b80dd3ed844b89581?mediaType=png)|23,490|FEMALE|17+|united states|US||
+|good hYOUman.|138.00 USD|good hYOUman|[4](https://www.snap.com/political-ads/asset/945be2292701b84ec525c6c73a5e320093121d00b00148a67f4c2c1624a99742?mediaType=png)|15,725|FEMALE|17+|united states|US||
+|good hYOUman.|54.00 USD|good hYOUman|[5](https://www.snap.com/political-ads/asset/945be2292701b84ec525c6c73a5e320093121d00b00148a67f4c2c1624a99742?mediaType=png)|10,250|FEMALE|17+|united states|US||
+|good hYOUman.|75.00 USD|good hYOUman|[6](https://www.snap.com/political-ads/asset/e255f6220963769b7dd7837bba68c4daae6d907eec1d434ecd365737a6f3089a?mediaType=png)|9,344|FEMALE|17+|united states|US||
 |good hYOUman.|49.00 USD|good hYOUman|[7](https://www.snap.com/political-ads/asset/e255f6220963769b7dd7837bba68c4daae6d907eec1d434ecd365737a6f3089a?mediaType=png)|8,142|FEMALE|17+|united states|US||
 |good hYOUman.|16.00 USD|good hYOUman|[8](https://www.snap.com/political-ads/asset/945be2292701b84ec525c6c73a5e320093121d00b00148a67f4c2c1624a99742?mediaType=png)|3,890|FEMALE||united states|US||
 |good hYOUman.|11.00 USD|good hYOUman|[9](https://www.snap.com/political-ads/asset/3d9dffc113f00ed1461bdbff336a28a79e87b7a688878e1b80dd3ed844b89581?mediaType=png)|2,541|FEMALE||united states|US||

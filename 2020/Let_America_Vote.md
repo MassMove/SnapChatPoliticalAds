@@ -8,8 +8,8 @@
 |Wavelength Strategy|270.00 USD|Let America Vote|[4](https://www.snap.com/political-ads/asset/696886d2b64897bb5f298d2092c8e50fe424620f28baf28b3a68f4d12b5d023d?mediaType=mp4)|102,123||18+|united states|US|Let America Vote|
 |Wavelength Strategy|248.00 USD|Let America Vote|[5](https://www.snap.com/political-ads/asset/d65e4c22346b2d50e7c56c9902fe16df76e7a1d1c5a3bdc11535d3359493aefc?mediaType=jpg)|85,201||18+|united states|US|Let America Vote|
 |Wavelength Strategy|201.00 USD|Let America Vote|[6](https://www.snap.com/political-ads/asset/3247bffa697e5d699eac5ef89feaa47e0ceb8f07391c48f9908f611a82a43018?mediaType=jpg)|79,360||18+|united states|US||
-|Wavelength Strategy|95.00 USD|Let America Vote|[7](https://www.snap.com/political-ads/asset/6740491240dd7a093378a812b1ce650a958922b10d1f9dd39d463c421e825993?mediaType=jpg)|39,188||18+|united states|US||
-|Wavelength Strategy|88.00 USD|Let America Vote|[8](https://www.snap.com/political-ads/asset/01e0b5a42a3f6c28babde312c1cd82ea1e51dd1e55da577990507dab8c5c2293?mediaType=jpg)|46,360||18+|united states|US||
+|Wavelength Strategy|88.00 USD|Let America Vote|[7](https://www.snap.com/political-ads/asset/01e0b5a42a3f6c28babde312c1cd82ea1e51dd1e55da577990507dab8c5c2293?mediaType=jpg)|46,360||18+|united states|US||
+|Wavelength Strategy|95.00 USD|Let America Vote|[8](https://www.snap.com/political-ads/asset/6740491240dd7a093378a812b1ce650a958922b10d1f9dd39d463c421e825993?mediaType=jpg)|39,188||18+|united states|US||
 |Wavelength Strategy|82.00 USD|Let America Vote|[9](https://www.snap.com/political-ads/asset/a115cbc4eb255cfbd83f6ef87f2a7c950f71e41691c281d22cb77c9cb0919812?mediaType=mp4)|33,712||18+|united states|US|Let America Vote|
 |Wavelength Strategy|54.00 USD|Let America Vote|[10](https://www.snap.com/political-ads/asset/a115cbc4eb255cfbd83f6ef87f2a7c950f71e41691c281d22cb77c9cb0919812?mediaType=mp4)|26,685||18+|united states|US||
 |Wavelength Strategy|25.00 USD|Let America Vote|[11](https://www.snap.com/political-ads/asset/d65e4c22346b2d50e7c56c9902fe16df76e7a1d1c5a3bdc11535d3359493aefc?mediaType=jpg)|15,539||18+|united states|US||

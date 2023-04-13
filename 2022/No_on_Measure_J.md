@@ -6,6 +6,6 @@
 |Bask Digital Media|336.00 USD|No on Measure J|[2](https://www.snap.com/political-ads/asset/ccbcca213b4d0646aae9389ab122442bad80b194183470127f77e88e07d580da?mediaType=mp4)|13,601||18-34|united states|US|Measure J|
 |Bask Digital Media|231.00 USD|No on Measure J|[3](https://www.snap.com/political-ads/asset/84593e8b1a89b63879d51c4fbedbde1e04bc0e84408bbec23a22759c631e0452?mediaType=mp4)|9,698||18-34|united states|US|Measure J|
 |Bask Digital Media|217.00 USD|No on Measure J|[4](https://www.snap.com/political-ads/asset/a98d0a84a0abef3851e08f7d01a7fa2724d0493c050f0edd25448e11627ad60f?mediaType=mp4)|6,613||35+|united states|US|Measure J|
-|Bask Digital Media|204.00 USD|No on Measure J|[5](https://www.snap.com/political-ads/asset/3de16d924c6c8999189bd5c26e6bf74807aa831360edcfe2c40f75679d86f154?mediaType=mp4)|6,293||35+|united states|US|Measure J|
-|Bask Digital Media|204.00 USD|No on Measure J|[6](https://www.snap.com/political-ads/asset/84593e8b1a89b63879d51c4fbedbde1e04bc0e84408bbec23a22759c631e0452?mediaType=mp4)|6,429||35+|united states|US|Measure J|
-|Bask Digital Media|201.00 USD|No on Measure J|[7](https://www.snap.com/political-ads/asset/dea6307a9db001fe3bd04e2c91ce8047e0e45e3b916b717bade9060954571af7?mediaType=mp4)|6,366||35+|united states|US|Measure J|
+|Bask Digital Media|204.00 USD|No on Measure J|[5](https://www.snap.com/political-ads/asset/84593e8b1a89b63879d51c4fbedbde1e04bc0e84408bbec23a22759c631e0452?mediaType=mp4)|6,429||35+|united states|US|Measure J|
+|Bask Digital Media|201.00 USD|No on Measure J|[6](https://www.snap.com/political-ads/asset/dea6307a9db001fe3bd04e2c91ce8047e0e45e3b916b717bade9060954571af7?mediaType=mp4)|6,366||35+|united states|US|Measure J|
+|Bask Digital Media|204.00 USD|No on Measure J|[7](https://www.snap.com/political-ads/asset/3de16d924c6c8999189bd5c26e6bf74807aa831360edcfe2c40f75679d86f154?mediaType=mp4)|6,293||35+|united states|US|Measure J|

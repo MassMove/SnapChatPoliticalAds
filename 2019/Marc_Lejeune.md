@@ -6,5 +6,5 @@
 |Marc Lejeune Élections|43.00 EUR|Marc Lejeune|[2](https://www.snap.com/political-ads/asset/78c1d92a07bbd663cf8288b7f982a08c688b2789aaf738876c9427957c221227?mediaType=png)|41,919||18+|belgium|BE||
 |Marc Lejeune Élections|41.00 EUR|Marc Lejeune|[3](https://www.snap.com/political-ads/asset/5b4820bfefc085c483adfed1d4d1efd9f9120c8bd8200002bf41804ee4b364b1?mediaType=mp4)|39,673||18+|belgium|BE||
 |Marc Lejeune Élections|31.00 EUR|Marc Lejeune|[4](https://www.snap.com/political-ads/asset/71fa4d288d14f4dec9c102f95b3164aa244c684bcc80843059482b1ed593aaf4?mediaType=mp4)|30,771||18+|belgium|BE||
-|Marc Lejeune Élections|0.00 EUR|Marc Lejeune|[5](https://www.snap.com/political-ads/asset/adf8722085a2f67c4c105c13a47712435df4eb92a2900213bfb229f6c7ecc8f4?mediaType=mp4)|488||18+|belgium|BE||
-|Marc Lejeune Élections|0.00 EUR|Marc Lejeune|[6](https://www.snap.com/political-ads/asset/a0d344f30c3d1a5bca7edcd208003b75d0a81b2987aecb9e8ebe9abd8c0cd010?mediaType=png)|916||18+|belgium|BE||
+|Marc Lejeune Élections|0.00 EUR|Marc Lejeune|[5](https://www.snap.com/political-ads/asset/a0d344f30c3d1a5bca7edcd208003b75d0a81b2987aecb9e8ebe9abd8c0cd010?mediaType=png)|916||18+|belgium|BE||
+|Marc Lejeune Élections|0.00 EUR|Marc Lejeune|[6](https://www.snap.com/political-ads/asset/adf8722085a2f67c4c105c13a47712435df4eb92a2900213bfb229f6c7ecc8f4?mediaType=mp4)|488||18+|belgium|BE||

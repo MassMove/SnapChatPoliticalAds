@@ -1,8 +1,8 @@
 ## 2021 - Middlesex County, NJ 
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|Marketing Doctor Inc|1,182.00 USD|Middlesex County, NJ|[0](https://www.snap.com/political-ads/asset/8e7d14f27e86587edb00787c8593ebc1d157a97e08ba3a732ff2feaf9437ae58?mediaType=mp4)|153,018||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|
-|Marketing Doctor Inc|980.00 USD|Middlesex County, NJ|[1](https://www.snap.com/political-ads/asset/e99330f9257854ab7d161c151474b9aefb7a786551317e682eb450605c8faa91?mediaType=png)|159,487||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|
+|Marketing Doctor Inc|980.00 USD|Middlesex County, NJ|[0](https://www.snap.com/political-ads/asset/e99330f9257854ab7d161c151474b9aefb7a786551317e682eb450605c8faa91?mediaType=png)|159,487||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|
+|Marketing Doctor Inc|1,182.00 USD|Middlesex County, NJ|[1](https://www.snap.com/political-ads/asset/8e7d14f27e86587edb00787c8593ebc1d157a97e08ba3a732ff2feaf9437ae58?mediaType=mp4)|153,018||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|
 |Marketing Doctor Inc|815.00 USD|Middlesex County, NJ|[2](https://www.snap.com/political-ads/asset/9c3af5010b32d2d56084ef9dd0fea39d1c01a7f4858b15d411b34ae056c86653?mediaType=mp4)|136,931||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|
 |Marketing Doctor Inc|697.00 USD|Middlesex County, NJ|[3](https://www.snap.com/political-ads/asset/95bd6457f2840cf512cb60dc11b5ada81c1fec17f24ff8c18744a12a22ea5547?mediaType=mp4)|93,633||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|
 |Marketing Doctor Inc|678.00 USD|Middlesex County, NJ|[4](https://www.snap.com/political-ads/asset/4e9b6a22c407fca5d17946e255bed0acd21ac4b5a3494ddc9ece4462d3107916?mediaType=png)|73,315||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|

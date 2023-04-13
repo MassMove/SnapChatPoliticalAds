@@ -5,6 +5,7 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Net;
+using System.Threading.Tasks;
 
 namespace SCBot
 {
@@ -186,7 +187,7 @@ namespace SCBot
                 }
 
                 Console.WriteLine("\r\n" + year + " details");
-                foreach (Campaign campaign in campaigns)
+                Parallel.ForEach(campaigns, campaign =>
                 {
                     readMeYear += formatLine(campaign, year, false) + "\r\n";
 
@@ -199,7 +200,7 @@ namespace SCBot
                     filename = string.Join("_", filename.Split(" "));
                     File.WriteAllText("../../../../" + year + "/" + filename + ".md", readMeAdvertiser);
                     Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
-                }
+                });
                 readMeYear += "\r\n";
                 File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
             }
@@ -250,13 +251,12 @@ namespace SCBot
                         if (campaign.payingAdvertiserName == advertiser)
                         {
                             campaigns.Add(campaign);
-                            //advertiserTable += formatLine(campaign, year, true) + "\r\n";
                         }
                     }
                 }
             }
 
-            foreach (var campaign in campaigns.OrderByDescending(c => c.spend))
+            foreach (var campaign in campaigns.OrderByDescending(c => c.impressions))
             {
                 advertiserTable += formatLine(campaign, year, true) + "\r\n";
             }

@@ -2,9 +2,9 @@
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|21,673.00 NOK|Røde Kors|[0](https://www.snap.com/political-ads/asset/7f0c15e08e6a1b6da245b4b0cd0a8722b7adad9fcbb6e98c47291e7bf6710fe0?mediaType=mp4)|1,657,749||19-|norway|"Kongens gate 6,Oslo,0153,NO"||
-|Mindshare Norway AS|18,333.00 NOK|Røde Kors|[1](https://www.snap.com/political-ads/asset/9d65abc56a908e0fd7a5dcf38cb560e2fbca0e53d5bdea7823c19ff4ecaa1c77?mediaType=mp4)|393,909||18+|norway|"Kongens gate 6,Oslo,0153,NO"||
-|Mindshare Norway AS|18,333.00 NOK|Røde Kors|[2](https://www.snap.com/political-ads/asset/6c910084344be31f7c4f4b9d028018f2a9653a76a8f5bb10d62bf40a681cb117?mediaType=png)|625,212||18+|norway|"Kongens gate 6,Oslo,0153,NO"||
-|Mindshare Norway AS|9,801.00 NOK|Røde Kors|[3](https://www.snap.com/political-ads/asset/17561dbeba46dabf12993e2fe755b8e840811a8bd92df25fa31652e6684cd513?mediaType=mp4)|541,027||19-|norway|"Kongens gate 6,Oslo,0153,NO"||
+|Mindshare Norway AS|18,333.00 NOK|Røde Kors|[1](https://www.snap.com/political-ads/asset/6c910084344be31f7c4f4b9d028018f2a9653a76a8f5bb10d62bf40a681cb117?mediaType=png)|625,212||18+|norway|"Kongens gate 6,Oslo,0153,NO"||
+|Mindshare Norway AS|9,801.00 NOK|Røde Kors|[2](https://www.snap.com/political-ads/asset/17561dbeba46dabf12993e2fe755b8e840811a8bd92df25fa31652e6684cd513?mediaType=mp4)|541,027||19-|norway|"Kongens gate 6,Oslo,0153,NO"||
+|Mindshare Norway AS|18,333.00 NOK|Røde Kors|[3](https://www.snap.com/political-ads/asset/9d65abc56a908e0fd7a5dcf38cb560e2fbca0e53d5bdea7823c19ff4ecaa1c77?mediaType=mp4)|393,909||18+|norway|"Kongens gate 6,Oslo,0153,NO"||
 |Mindshare Norway AS|8,986.00 NOK|Røde Kors|[4](https://www.snap.com/political-ads/asset/fed7323f2c6292cdd7f22704d2979a5a7077bcea3f7c947b214f0886fb69ff3b?mediaType=mp4)|356,784||20+|norway|"Kongens gate 6,Oslo,0153,NO"||
 |Mindshare Norway AS|8,853.00 NOK|Røde Kors|[5](https://www.snap.com/political-ads/asset/62dce0f7c453bb463ed2ec4ff919b333bc4e1b5d088b2ae0d33a28535ca4536c?mediaType=mp4)|350,616||20+|norway|"Kongens gate 6,Oslo,0153,NO"||
 |Mindshare Norway AS|8,695.00 NOK|Røde Kors|[6](https://www.snap.com/political-ads/asset/b2e3f02469ef4ebfd1cc479a57dd997aa118c3b985a40b44b5775e80a27b9583?mediaType=png)|344,637||20+|norway|"Kongens gate 6,Oslo,0153,NO"||

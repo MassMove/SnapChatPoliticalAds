@@ -1,8 +1,8 @@
 ## 2022 - Centerpartiets Ungdomsförbund 
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|Centerpartiets Ungdomsförbund|25,000.00 SEK|Centerpartiets Ungdomsförbund|[0](https://www.snap.com/political-ads/asset/5a26a57e51fdf648bd22e59c73c25d2ea2ac76291008972149ca830fcb02d27f?mediaType=mp4)|369,090||18-26|sweden|SE||
-|Centerpartiets Ungdomsförbund|8,000.00 SEK|Centerpartiets Ungdomsförbund|[1](https://www.snap.com/political-ads/asset/9c6d7002e791f3388041c9fa8f3408729d0084f9e21a5e2c6ba6e28dc2b26dcf?mediaType=mp4)|392,870|||sweden|SE||
+|Centerpartiets Ungdomsförbund|8,000.00 SEK|Centerpartiets Ungdomsförbund|[0](https://www.snap.com/political-ads/asset/9c6d7002e791f3388041c9fa8f3408729d0084f9e21a5e2c6ba6e28dc2b26dcf?mediaType=mp4)|392,870|||sweden|SE||
+|Centerpartiets Ungdomsförbund|25,000.00 SEK|Centerpartiets Ungdomsförbund|[1](https://www.snap.com/political-ads/asset/5a26a57e51fdf648bd22e59c73c25d2ea2ac76291008972149ca830fcb02d27f?mediaType=mp4)|369,090||18-26|sweden|SE||
 |Centerpartiets Ungdomsförbund|7,000.00 SEK|Centerpartiets Ungdomsförbund|[2](https://www.snap.com/political-ads/asset/6425cd5b1619a61b98eea024e743d1a69c91f1870d49bb5e5cc0edbfc3ad3fb6?mediaType=png)|342,022|||sweden|SE||
 |Centerpartiets Ungdomsförbund|6,321.00 SEK|Centerpartiets Ungdomsförbund|[3](https://www.snap.com/political-ads/asset/d5f57b0b681f1f695cf768e852c251776addf88e5510faa86e4ec2e275d97b2a?mediaType=mp4)|298,242||18-26|sweden|SE||
 |Centerpartiets Ungdomsförbund|6,170.00 SEK|Centerpartiets Ungdomsförbund|[4](https://www.snap.com/political-ads/asset/7c9874437e3e471d21f2bbdf1ddb190affd83cf4cbc3ab28710537a21e7e5058?mediaType=mp4)|290,106||18-26|sweden|SE||
