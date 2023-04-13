@@ -5,7 +5,6 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Net;
-using System.Threading.Tasks;
 
 namespace SCBot
 {
@@ -13,22 +12,23 @@ namespace SCBot
     {
         public class Campaign
         {
-            public String organizationName;
-            public String candidateBallotName;
-            public String payingAdvertiserName;
+            public string organizationName;
+            public string candidateBallotName;
+            public string payingAdvertiserName;
             public long spend = 0;
             public long impressions = 0;
-            public List<String> creativeUrls = new List<String>();
-            public List<String> currencyCodes = new List<String>();
-            public List<String> billingAddresses = new List<String>();
-            public List<String> candidateBallotNames = new List<String>();
-            public List<String> payingAdvertiserNames = new List<String>();
-            public List<String> genders = new List<String>();
-            public List<String> ageBrackets = new List<String>();
-            public List<String> countryCodes = new List<String>();
-            public List<String> includedRegions = new List<String>();
-            public List<String> excludedRegions = new List<String>();
-            public List<String> interests = new List<String>();
+            public List<string> creativeUrls = new List<string>();
+            public List<string> currencyCodes = new List<string>();
+            public List<string> billingAddresses = new List<string>();
+            public List<string> candidateBallotNames = new List<string>();
+            public List<string> payingAdvertiserNames = new List<string>();
+            public List<string> genders = new List<string>();
+            public List<string> ageBrackets = new List<string>();
+            public List<string> countryCodes = new List<string>();
+            public List<string> includedRegions = new List<string>();
+            public List<string> excludedRegions = new List<string>();
+            public List<string> interests = new List<string>();
+            public string creativeUrlsSort;
         }
 
         static int urlStartIndex;
@@ -36,7 +36,7 @@ namespace SCBot
         static void Main(string[] args)
         {
             Console.WriteLine("This is our world now");
-            String readMe = "# SCBot\r\n\r\n";
+            string readMe = "# SCBot\r\n\r\n";
             readMe += "A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en-US/political-ads).\r\n\r\n";
             readMe += "Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).\r\n\r\n";
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
@@ -136,11 +136,11 @@ namespace SCBot
 
                 campaigns = campaigns.OrderByDescending(c => c.spend).ToList();
 
-                String header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,CreativeUrls,Interests,Regions (Included),Regions (Excluded)";
-                String lines = header;
+                string header = "OrganizationName,Spend,Impressions,Currency Codes,CandidateBallotInformation,PayingAdvertiserNames,Genders,AgeBrackets,CountryCodes,BillingAddresses,CreativeUrls,Interests,Regions (Included),Regions (Excluded)";
+                string lines = header;
                 foreach (Campaign campaign in campaigns)
                 {
-                    String line = formatItem(campaign.organizationName) + ",";
+                    string line = formatItem(campaign.organizationName) + ",";
                     line += campaign.spend + ",";
                     line += campaign.impressions + ",";
                     line += formatItem(campaign.currencyCodes[0]) + ",";
@@ -250,13 +250,17 @@ namespace SCBot
                         Campaign campaign = parseCampaign(fields);
                         if (campaign.payingAdvertiserName == advertiser)
                         {
+                            campaign.creativeUrlsSort = string.Join(",", campaign.creativeUrls);
                             campaigns.Add(campaign);
                         }
                     }
                 }
             }
 
-            foreach (var campaign in campaigns.OrderByDescending(c => c.impressions).ThenByDescending(c => c.spend))
+            foreach (var campaign in campaigns.
+                OrderByDescending(c => c.impressions).
+                ThenByDescending(c => c.spend).
+                ThenBy(c => c.creativeUrlsSort))
             {
                 advertiserTable += formatLine(campaign, year, true) + "\r\n";
             }
@@ -264,7 +268,7 @@ namespace SCBot
             return advertiserTable;
         }
 
-        private static String formatLine(Campaign campaign, int year, bool groupUrls)
+        private static string formatLine(Campaign campaign, int year, bool groupUrls)
         {
             var line = "|" + formatItem(campaign.organizationName) + "|";
             line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
@@ -299,7 +303,7 @@ namespace SCBot
             return line;
         }
 
-        private static string formatList(List<String> listItems)
+        private static string formatList(List<string> listItems)
         {
             if (listItems.Count == 0)
             {

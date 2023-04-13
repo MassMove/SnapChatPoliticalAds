@@ -128,8 +128,8 @@
 |AWA Studios|2.00 USD|AWA Studios|[124](https://www.snap.com/political-ads/asset/a9f2537c6664d40a419a05728d59f6a14252331850c0c36a594ad22126e9022c?mediaType=mp4)|216||18+|united states|US|Election 2020|
 |AWA Studios|1.00 USD|AWA Studios|[125](https://www.snap.com/political-ads/asset/9540a63305835a031e94299ef0a1ac0ee95c401d002d3c14070535d9ebea2aad?mediaType=mp4)|187||18+|united states|US|Election 2020|
 |AWA Studios|1.00 USD|AWA Studios|[126](https://www.snap.com/political-ads/asset/21d5ffadf4fbed5c0123ee2104dc19b76d81f5b8b2cac9c48307b5c28d4a0bf7?mediaType=mp4)|152||18+|united states|US|Election 2020|
-|AWA Studios|1.00 USD|AWA Studios|[127](https://www.snap.com/political-ads/asset/e961371e400c05094cf96e03c2cfe1359a44b50e336c299160310220705390ba?mediaType=mp4)|147||18+|united states|US|Election 2020|
-|AWA Studios|1.00 USD|AWA Studios|[128](https://www.snap.com/political-ads/asset/68f70f409d6f001d9920b068e48822d654650df55bdba8adb0ccdc1289e1e665?mediaType=mp4)|147||18+|united states|US|Election 2020|
+|AWA Studios|1.00 USD|AWA Studios|[127](https://www.snap.com/political-ads/asset/68f70f409d6f001d9920b068e48822d654650df55bdba8adb0ccdc1289e1e665?mediaType=mp4)|147||18+|united states|US|Election 2020|
+|AWA Studios|1.00 USD|AWA Studios|[128](https://www.snap.com/political-ads/asset/e961371e400c05094cf96e03c2cfe1359a44b50e336c299160310220705390ba?mediaType=mp4)|147||18+|united states|US|Election 2020|
 |AWA Studios|1.00 USD|AWA Studios|[129](https://www.snap.com/political-ads/asset/d852e7932d485a5ae7b05374bbbcd50ba248fd5bd2e9572c03f5f14a3c872fdb?mediaType=mp4)|141||18+|united states|US|Election 2020|
 |AWA Studios|0.00 USD|AWA Studios|[130](https://www.snap.com/political-ads/asset/dda9bd8f3c677503f337ef93a0f878ef6c928b969c61abea817bc3720ffc4462?mediaType=mp4)|118||18+|united states|US|Election 2020|
 |AWA Studios|0.00 USD|AWA Studios|[131](https://www.snap.com/political-ads/asset/0988616831bbe999e4e9b0dd08040a0816bbdf65a4130719f5e9792461512eaa?mediaType=mp4)|105||18+|united states|US|Election 2020|

@@ -15,5 +15,5 @@
 |Mehmet Kaan Inan|100.00 USD|Høyre|[11](https://www.snap.com/political-ads/asset/1948cb493c78c4e9962515bcccb53aeec3d55c8ccb4f87fd53a368482c060dc3?mediaType=png)|28,296||18-29|norway|NO||
 |AlfGundersen|33.00 USD|Høyre|[12](https://www.snap.com/political-ads/asset/70e3ba174091b98d67aa39e4bd6894aedbe371ce98a70565897a7cab8b36404e?mediaType=mp4)|12,629||20+|norway|"Thormøhlensgate 53D,Bergen,5006,NO"||
 |Høyre|0.00 EUR|Høyre|[13](https://www.snap.com/political-ads/asset/a322655b8976cd3436069b2a1afd491fac5221e96b12158456ef3b745bab882a?mediaType=png)|247|||norway|"Stortingsgaten 20,Oslo,0161,NO"||
-|Høyre|0.00 EUR|Høyre|[14](https://www.snap.com/political-ads/asset/db29d408259446534520e68a7155fc855b31bf187f1a7a36906b400820217ad1?mediaType=mp4)|2||16-30|norway|"Stortingsgaten 20,Oslo,0161,NO"||
-|Høyre|0.00 EUR|Høyre|[15](https://www.snap.com/political-ads/asset/cc17d694922f72ec166a2a30aad27347dc7ae20fa6ffc8f72fea4606ddf9db1d?mediaType=mp4)|2||16-30|norway|"Stortingsgaten 20,Oslo,0161,NO"||
+|Høyre|0.00 EUR|Høyre|[14](https://www.snap.com/political-ads/asset/cc17d694922f72ec166a2a30aad27347dc7ae20fa6ffc8f72fea4606ddf9db1d?mediaType=mp4)|2||16-30|norway|"Stortingsgaten 20,Oslo,0161,NO"||
+|Høyre|0.00 EUR|Høyre|[15](https://www.snap.com/political-ads/asset/db29d408259446534520e68a7155fc855b31bf187f1a7a36906b400820217ad1?mediaType=mp4)|2||16-30|norway|"Stortingsgaten 20,Oslo,0161,NO"||
