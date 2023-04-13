@@ -30,6 +30,8 @@ namespace SCBot
             public List<String> interests = new List<String>();
         }
 
+        static int urlStartIndex;
+
         static void Main(string[] args)
         {
             Console.WriteLine("This is our world now");
@@ -40,7 +42,7 @@ namespace SCBot
 
             for (int year = DateTime.Now.Year; year >= 2018; year--)
             {
-                Console.WriteLine("\r\n" + year);
+                Console.WriteLine("\r\n" + year + " summary");
 
                 var filePath = "../../../../SCData/" + year + ".csv";
                 using (WebClient webClient = new WebClient())
@@ -70,25 +72,8 @@ namespace SCBot
 
                     while (!parser.EndOfData)
                     {
-                        string[] fields = parser.ReadFields();
-
-                        Campaign campaign = new Campaign();
-                        campaign.organizationName = fields[7].Replace(",", " ");
-                        long.TryParse(fields[3], out campaign.spend);
-                        long.TryParse(fields[4], out campaign.impressions);
-                        campaign.creativeUrls.Add(fields[1]);
-                        campaign.currencyCodes.Add(fields[2]);
-                        campaign.billingAddresses.Add(fields[8]);
-                        campaign.candidateBallotName = fields[9];
-                        campaign.candidateBallotNames.Add(fields[9]);
-                        campaign.payingAdvertiserNames.Add(fields[10]);
-                        campaign.payingAdvertiserName = fields[10];
-                        campaign.genders.Add(fields[15]);
-                        campaign.ageBrackets.Add(fields[16]);
-                        campaign.countryCodes.Add(fields[17]);
-                        campaign.includedRegions.Add(fields[18]);
-                        campaign.excludedRegions.Add(fields[19]);
-                        campaign.interests.Add(fields[30]);
+                        var fields = parser.ReadFields();
+                        Campaign campaign = parseCampaign(fields);
 
                         Campaign existingCampaign = campaigns.Find(x => x.payingAdvertiserName == campaign.payingAdvertiserName);
 
@@ -185,18 +170,7 @@ namespace SCBot
                 }
                 foreach (Campaign campaign in top25)
                 {
-                    String line = "|" + formatItem(campaign.organizationName) + "|";
-                    line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
-                    line += formatList(campaign.payingAdvertiserNames) + "|";
-                    line += formatUrls(campaign.creativeUrls) + "|";
-                    line += campaign.impressions.ToString("N0") + "|";
-                    line += formatList(campaign.genders) + "|";
-                    line += formatList(campaign.ageBrackets) + "|";
-                    line += formatList(campaign.countryCodes) + "|";
-                    line += formatList(campaign.billingAddresses) + "|";
-                    line += formatList(campaign.candidateBallotNames) + "|";
-                    readMe += line + "\r\n";
-
+                    readMe += formatLine(campaign, year, false) + "\r\n";
                     Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
                 }
                 readMe += "\r\n";
@@ -206,30 +180,114 @@ namespace SCBot
                 readMeYear += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
                 readMeYear += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
 
-                foreach (Campaign campaign in campaigns)
-                {
-                    String line = "|" + formatItem(campaign.organizationName) + "|";
-                    line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
-                    line += formatList(campaign.payingAdvertiserNames) + "|";
-                    line += formatUrls(campaign.creativeUrls) + "|";
-                    line += campaign.impressions.ToString("N0") + "|";
-                    line += formatList(campaign.genders) + "|";
-                    line += formatList(campaign.ageBrackets) + "|";
-                    line += formatList(campaign.countryCodes) + "|";
-                    line += formatList(campaign.billingAddresses) + "|";
-                    line += formatList(campaign.candidateBallotNames) + "|";
-                    readMeYear += line + "\r\n";
-                }
-                readMeYear += "\r\n";
                 if (!Directory.Exists("../../../../" + year))
                 {
                     Directory.CreateDirectory("../../../../" + year);
                 }
+
+                Console.WriteLine("\r\n" + year + " details");
+                foreach (Campaign campaign in campaigns)
+                {
+                    readMeYear += formatLine(campaign, year, false) + "\r\n";
+
+                    var readMeAdvertiser = "## " + year + " - " + campaign.payingAdvertiserName + " \r\n";
+                    readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+                    readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+                    readMeAdvertiser += generateAdvertiserTable(filePath, campaign.payingAdvertiserName, 0);
+
+                    var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+                    filename = string.Join("_", filename.Split(" "));
+                    File.WriteAllText("../../../../" + year + "/" + filename + ".md", readMeAdvertiser);
+                    Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
+                }
+                readMeYear += "\r\n";
                 File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
             }
         }
 
-        private static String formatList(List<String> listItems)
+        private static Campaign parseCampaign(string[] fields)
+        {
+            var campaign = new Campaign();
+            campaign.organizationName = fields[7].Replace(",", " ");
+            long.TryParse(fields[3], out campaign.spend);
+            long.TryParse(fields[4], out campaign.impressions);
+            campaign.creativeUrls.Add(fields[1]);
+            campaign.currencyCodes.Add(fields[2]);
+            campaign.billingAddresses.Add(fields[8]);
+            campaign.candidateBallotName = fields[9];
+            campaign.candidateBallotNames.Add(fields[9]);
+            campaign.payingAdvertiserNames.Add(fields[10]);
+            campaign.payingAdvertiserName = fields[10];
+            campaign.genders.Add(fields[15]);
+            campaign.ageBrackets.Add(fields[16]);
+            campaign.countryCodes.Add(fields[17]);
+            campaign.includedRegions.Add(fields[18]);
+            campaign.excludedRegions.Add(fields[19]);
+            campaign.interests.Add(fields[30]);
+            return campaign;
+        }
+
+        private static string generateAdvertiserTable(string filePath, string advertiser, int year)
+        {
+            var advertiserTable = "";
+            using (TextFieldParser parser = new TextFieldParser(filePath))
+            {
+                parser.TextFieldType = FieldType.Delimited;
+                parser.SetDelimiters(",");
+                parser.ReadFields(); // skip header
+
+                urlStartIndex = 0;
+
+                while (!parser.EndOfData)
+                {
+                    var fields = parser.ReadFields();
+                    Campaign campaign = parseCampaign(fields);
+                    if (campaign.payingAdvertiserName == advertiser)
+                    {
+                        advertiserTable += formatLine(campaign, year, true) + "\r\n";
+                    }
+                }
+            }
+
+            return advertiserTable;
+        }
+
+        private static String formatLine(Campaign campaign, int year, bool groupUrls)
+        {
+            var line = "|" + formatItem(campaign.organizationName) + "|";
+            line += campaign.spend.ToString("N") + " " + formatList(campaign.currencyCodes) + "|";
+
+            var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+            filename = string.Join("_", filename.Split(" "));
+
+            if (year == 0)
+            {
+                line += campaign.payingAdvertiserName + "|";
+            }
+            else
+            {
+                line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)|";
+            }
+            if (groupUrls)
+            {
+                var formattedUrls = formatUrls(campaign.creativeUrls, urlStartIndex) + "|";
+                urlStartIndex += formattedUrls.Split(",").Length;
+                line += formattedUrls;
+            }
+            else
+            {
+                line += formatUrls(campaign.creativeUrls, 0) + "|";
+            }
+            line += campaign.impressions.ToString("N0") + "|";
+            line += formatList(campaign.genders) + "|";
+            line += formatList(campaign.ageBrackets) + "|";
+            line += formatList(campaign.countryCodes) + "|";
+            line += formatList(campaign.billingAddresses) + "|";
+            line += formatList(campaign.candidateBallotNames) + "|";
+            return line;
+        }
+
+        private static string formatList(List<String> listItems)
         {
             if (listItems.Count == 0)
             {
@@ -241,8 +299,8 @@ namespace SCBot
                 return formatItem(listItems[0]);
             }
 
-            String list = "";
-            foreach (String listItem in listItems)
+            var list = "";
+            foreach (var listItem in listItems)
             {
                 if (listItem != "")
                 {
@@ -254,7 +312,7 @@ namespace SCBot
             return formatItem(list);
         }
 
-        private static String formatItem(String item)
+        private static string formatItem(string item)
         {
             char[] chars = { '\t', '\r', '\n', '\"', ',' };
             if (item.IndexOfAny(chars) >= 0)
@@ -264,11 +322,11 @@ namespace SCBot
             return item;
         }
 
-        private static string formatUrls(List<string> creativeUrls)
+        private static string formatUrls(List<string> creativeUrls, int startIndex)
         {
             var urls = "";
             var urlSpacing = 0;
-            var urlIndex = 0;
+            var urlIndex = startIndex;
 
             var mergedUrls = new List<string>();
             foreach (var url in creativeUrls)
