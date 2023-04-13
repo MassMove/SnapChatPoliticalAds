@@ -189,7 +189,7 @@ namespace SCBot
                 Console.WriteLine("\r\n" + year + " details");
                 foreach (var campaign in campaigns)
                 {
-                    readMeYear += formatLine(campaign, year, false) + "\r\n";
+                    readMeYear += formatLine(campaign, 1, false) + "\r\n";
 
                     var readMeAdvertiser = "## " + year + " - " + campaign.payingAdvertiserName + " \r\n";
                     readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
@@ -279,6 +279,10 @@ namespace SCBot
             if (year == 0)
             {
                 line += campaign.payingAdvertiserName + "|";
+            }
+            else if (year == 1)
+            {
+                line += "[" + campaign.payingAdvertiserName + "](" + filename + ".md)|";
             }
             else
             {
