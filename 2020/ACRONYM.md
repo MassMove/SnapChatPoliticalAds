@@ -705,8 +705,8 @@
 |ACRONYM|3.00 USD|ACRONYM|[701](https://www.snap.com/political-ads/asset/cba52e79d3b8bf709864f2569478192508fbd870be4d891a24ff1d4163ae868a?mediaType=png)|849||18+|united states|US||
 |ACRONYM|2.00 USD|ACRONYM|[702](https://www.snap.com/political-ads/asset/c67f6592b8c3da0d39d1420f7f84cd71c45c2e09e7857a68f31a0cb1441a84bf?mediaType=png)|750||18+|united states|US||
 |ACRONYM|2.00 USD|ACRONYM|[703](https://www.snap.com/political-ads/asset/00efdbc8d1b4ef87b25a983a98ccc8ddb088e94924990fed426f839f2e5c6104?mediaType=png)|749||18+|united states|US||
-|ACRONYM|2.00 USD|ACRONYM|[704](https://www.snap.com/political-ads/asset/f7a0eec1547215142c2d27597875d524c95055424db6c737224ad382b5165d56?mediaType=png)|732||18+|united states|US||
-|ACRONYM|2.00 USD|ACRONYM|[705](https://www.snap.com/political-ads/asset/adf935190c4875ff26558270f4213f888a394563b4f6edc7be14b7316d39ef53?mediaType=png)|732||18+|united states|US||
+|ACRONYM|2.00 USD|ACRONYM|[704](https://www.snap.com/political-ads/asset/adf935190c4875ff26558270f4213f888a394563b4f6edc7be14b7316d39ef53?mediaType=png)|732||18+|united states|US||
+|ACRONYM|2.00 USD|ACRONYM|[705](https://www.snap.com/political-ads/asset/f7a0eec1547215142c2d27597875d524c95055424db6c737224ad382b5165d56?mediaType=png)|732||18+|united states|US||
 |ACRONYM|2.00 USD|ACRONYM|[706](https://www.snap.com/political-ads/asset/5a8fc61870c3af22963e9daf42c6bf91984df8a14891068750574663d28fcba8?mediaType=png)|727||18+|united states|US||
 |ACRONYM|2.00 USD|ACRONYM|[707](https://www.snap.com/political-ads/asset/3005cffbbd81ed4008b92d88d796283325b27dac038be3975d8c793086e56adc?mediaType=png)|706||18+|united states|US||
 |ACRONYM|0.00 USD|ACRONYM|[708](https://www.snap.com/political-ads/asset/c538050e4cddbe473f053efaed78dfcfc7362aba3b1f9cf99b64c4bdf2578358?mediaType=png)|328||18-34|united states|US||

@@ -22,8 +22,8 @@
 |Wavelength Strategy|10.00 USD|American Bridge Foundation|[18](https://www.snap.com/political-ads/asset/ec0024a0fb513251488c99e1aa0bdd2e73f8ba2ffc35b439a15435dcf3aa9e6f?mediaType=jpg)|1,025||18+|united states|US||
 |Wavelength Strategy|10.00 USD|American Bridge Foundation|[19](https://www.snap.com/political-ads/asset/f9fe55566bdc2520cae5c1e36ce785659f18b571ad405c0d90a2dc5e6f2778b5?mediaType=jpg)|993||18+|united states|US||
 |Wavelength Strategy|3.00 USD|American Bridge Foundation|[20](https://www.snap.com/political-ads/asset/c1398b2e89a1d70fdcc86879a951264e549d2965634a601a656bd41333f1fbdd?mediaType=jpg)|987||18+|united states|US||
-|Wavelength Strategy|6.00 USD|American Bridge Foundation|[21](https://www.snap.com/political-ads/asset/e2e3578282cde89500461da912d956a55fe5781d9af4f78c47e0cecadb438109?mediaType=jpg)|869||18+|united states|US||
-|Wavelength Strategy|6.00 USD|American Bridge Foundation|[22](https://www.snap.com/political-ads/asset/f9fe55566bdc2520cae5c1e36ce785659f18b571ad405c0d90a2dc5e6f2778b5?mediaType=jpg)|869||18+|united states|US||
+|Wavelength Strategy|6.00 USD|American Bridge Foundation|[21](https://www.snap.com/political-ads/asset/f9fe55566bdc2520cae5c1e36ce785659f18b571ad405c0d90a2dc5e6f2778b5?mediaType=jpg)|869||18+|united states|US||
+|Wavelength Strategy|6.00 USD|American Bridge Foundation|[22](https://www.snap.com/political-ads/asset/e2e3578282cde89500461da912d956a55fe5781d9af4f78c47e0cecadb438109?mediaType=jpg)|869||18+|united states|US||
 |Wavelength Strategy|7.00 USD|American Bridge Foundation|[23](https://www.snap.com/political-ads/asset/78b5d15d2279338ccfcc29b8e9bff2afb4113ded2ec3538f2ed507ee8576536d?mediaType=mp4)|857||18+|united states|US||
 |Wavelength Strategy|6.00 USD|American Bridge Foundation|[24](https://www.snap.com/political-ads/asset/c1398b2e89a1d70fdcc86879a951264e549d2965634a601a656bd41333f1fbdd?mediaType=jpg)|795||18+|united states|US||
 |Wavelength Strategy|5.00 USD|American Bridge Foundation|[25](https://www.snap.com/political-ads/asset/59cf08ef8754547da2e03e789e06f0fa2a215714451d7b72a6675e0b82359823?mediaType=jpg)|771||18+|united states|US||

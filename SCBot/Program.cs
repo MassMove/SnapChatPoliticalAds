@@ -187,7 +187,7 @@ namespace SCBot
                 }
 
                 Console.WriteLine("\r\n" + year + " details");
-                Parallel.ForEach(campaigns, campaign =>
+                foreach (var campaign in campaigns)
                 {
                     readMeYear += formatLine(campaign, year, false) + "\r\n";
 
@@ -200,7 +200,7 @@ namespace SCBot
                     filename = string.Join("_", filename.Split(" "));
                     File.WriteAllText("../../../../" + year + "/" + filename + ".md", readMeAdvertiser);
                     Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
-                });
+                }
                 readMeYear += "\r\n";
                 File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
             }
