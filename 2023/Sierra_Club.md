@@ -1,0 +1,11 @@
+## 2023 - Sierra Club 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Sierra Club|694.00 USD|Sierra Club|[0](https://www.snap.com/political-ads/asset/07dbc7326473bded35e4719a49d5f1e754ef58b1bbe3fac796ffc251cd5b294f?mediaType=mp4)|156,174|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|660.00 USD|Sierra Club|[1](https://www.snap.com/political-ads/asset/07dbc7326473bded35e4719a49d5f1e754ef58b1bbe3fac796ffc251cd5b294f?mediaType=mp4)|123,768|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|122.00 USD|Sierra Club|[2](https://www.snap.com/political-ads/asset/c877ca147d9b5bd9c6cdc0d4534724b88b63e74f00b04f7ab3e7e9a419454468?mediaType=mp4)|23,448|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|50.00 USD|Sierra Club|[3](https://www.snap.com/political-ads/asset/ed553c70b9f71b73ee9f1f9502c503190ca4f60eb2f8e09b3fa889804a5dd342?mediaType=mp4)|10,724|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|52.00 USD|Sierra Club|[4](https://www.snap.com/political-ads/asset/c877ca147d9b5bd9c6cdc0d4534724b88b63e74f00b04f7ab3e7e9a419454468?mediaType=mp4)|9,775|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|21.00 USD|Sierra Club|[5](https://www.snap.com/political-ads/asset/ed553c70b9f71b73ee9f1f9502c503190ca4f60eb2f8e09b3fa889804a5dd342?mediaType=mp4)|4,339|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|17.00 USD|Sierra Club|[6](https://www.snap.com/political-ads/asset/1c27e147c67afc07843b1e1878b8baab9cc9e2541f2975e299a2b517e957a665?mediaType=mp4)|3,593|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|
+|Sierra Club|12.00 USD|Sierra Club|[7](https://www.snap.com/political-ads/asset/1c27e147c67afc07843b1e1878b8baab9cc9e2541f2975e299a2b517e957a665?mediaType=mp4)|2,223|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|

@@ -1,0 +1,11 @@
+## 2023 - Planned Parenthood 
+|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
+|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
+|Blueprint Interactive|3,909.00 USD|Planned Parenthood|[0](https://www.snap.com/political-ads/asset/879203b0fafb208096e612dc07831b9e3b12c239f597c41d5349768771c9ec38?mediaType=mp4)|389,607||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|669.00 USD|Planned Parenthood|[1](https://www.snap.com/political-ads/asset/c0a85258bcf4aef0351c84c285a596d57a0661b4d241e235a179ca07f6399022?mediaType=mp4)|85,033||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|450.00 USD|Planned Parenthood|[2](https://www.snap.com/political-ads/asset/c0a85258bcf4aef0351c84c285a596d57a0661b4d241e235a179ca07f6399022?mediaType=mp4)|46,381||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|312.00 USD|Planned Parenthood|[3](https://www.snap.com/political-ads/asset/ef4e2c7be69c6a7a565410b4681a43a48bc4af3074d2558d9574a9a10987ee56?mediaType=mp4)|42,206||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|320.00 USD|Planned Parenthood|[4](https://www.snap.com/political-ads/asset/f6723ac87f4b212df617f3f5a32e4926e9d98da3b53f0fed6a244179b1ac05a9?mediaType=mp4)|34,535||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|158.00 USD|Planned Parenthood|[5](https://www.snap.com/political-ads/asset/ef4e2c7be69c6a7a565410b4681a43a48bc4af3074d2558d9574a9a10987ee56?mediaType=mp4)|19,419||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|125.00 USD|Planned Parenthood|[6](https://www.snap.com/political-ads/asset/f6723ac87f4b212df617f3f5a32e4926e9d98da3b53f0fed6a244179b1ac05a9?mediaType=mp4)|18,642||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
+|Blueprint Interactive|212.00 USD|Planned Parenthood|[7](https://www.snap.com/political-ads/asset/879203b0fafb208096e612dc07831b9e3b12c239f597c41d5349768771c9ec38?mediaType=mp4)|16,487||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||
