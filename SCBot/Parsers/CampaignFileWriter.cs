@@ -1,12 +1,16 @@
-﻿using SCBot.Models;
+﻿using Microsoft.VisualBasic.FileIO;
+using SCBot.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 namespace SCBot.Parsers
 {
     public sealed class CampaignFileWriter : IFileWriter<Campaign>
     {
+        int urlStartIndex;
+
         public void Write(string filePath, IList<Campaign> items)
         {
             if (string.IsNullOrEmpty(filePath))
@@ -51,6 +55,101 @@ namespace SCBot.Parsers
             }
         }
 
+        public string WriteReadMe(IList<Campaign> campaigns, string readMe, int year)
+        {
+            readMe += "## [" + year + "](" + year + ") \r\n";
+            readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+            readMe += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+
+            var top25 = campaigns;
+
+            if (campaigns.Count > 25)
+            {
+                top25 = top25.ToList().GetRange(0, 25);
+            }
+            foreach (Campaign campaign in top25)
+            {
+                readMe += FormatLine(campaign, year, false) + "\r\n";
+                Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
+            }
+            readMe += "\r\n";
+            File.WriteAllText("../../../../README.md", readMe);
+
+            return readMe;
+        }
+
+        public void WriteReadMeYear(IList<Campaign> campaigns, int year, string filePath)
+        {
+            var readMeYear = "## " + year + " \r\n";
+            readMeYear += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+            readMeYear += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+
+            if (!Directory.Exists("../../../../" + year))
+            {
+                Directory.CreateDirectory("../../../../" + year);
+            }
+
+            Console.WriteLine("\r\n" + year + " details");
+            foreach (var campaign in campaigns)
+            {
+                readMeYear += FormatLine(campaign, 1, false) + "\r\n";
+
+                var readMeAdvertiser = "## " + year + " - " + campaign.payingAdvertiserName + " \r\n";
+                readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+                readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+                readMeAdvertiser += GenerateAdvertiserTable(filePath, campaign.payingAdvertiserName, 0);
+
+                var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+                filename = string.Join("_", filename.Split(" "));
+                File.WriteAllText("../../../../" + year + "/" + filename + ".md", readMeAdvertiser);
+                Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
+            }
+            readMeYear += "\r\n";
+            File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
+        }
+
+        private string GenerateAdvertiserTable(string filePath, string advertiser, int year)
+        {
+            var advertiserTable = "";
+
+            var advertiserCampaigns = new List<Campaign>();
+
+            var campaigns = new List<Campaign>();
+
+            using (TextFieldParser parser = new TextFieldParser(filePath))
+            {
+                parser.TextFieldType = FieldType.Delimited;
+                parser.SetDelimiters(",");
+                parser.ReadFields(); // skip header
+
+                urlStartIndex = 0;
+
+                while (!parser.EndOfData)
+                {
+                    var fields = parser.ReadFields();
+                    if (fields.Contains(advertiser))
+                    {
+                        Campaign campaign = CampaignFileParser.ParseCampaign(fields);
+                        if (campaign.payingAdvertiserName == advertiser)
+                        {
+                            campaign.creativeUrlsSort = string.Join(",", campaign.creativeUrls);
+                            campaigns.Add(campaign);
+                        }
+                    }
+                }
+            }
+
+            foreach (var campaign in campaigns.
+                OrderByDescending(c => c.impressions).
+                ThenByDescending(c => c.spend).
+                ThenBy(c => c.creativeUrlsSort))
+            {
+                advertiserTable += FormatLine(campaign, year, true) + "\r\n";
+            }
+
+            return advertiserTable;
+        }
+
         private static string FormatItem(string item)
         {
             char[] chars = { '\t', '\r', '\n', '\"', ',' };
@@ -60,6 +159,45 @@ namespace SCBot.Parsers
                 item = '\"' + item.Replace("\"", "\"\"") + '\"';
             }
             return item;
+        }
+
+        private string FormatLine(Campaign campaign, int year, bool groupUrls)
+        {
+            var line = "|" + FormatItem(campaign.organizationName) + "|";
+            line += campaign.spend.ToString("N") + " " + FormatList(campaign.currencyCodes) + "|";
+
+            var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
+            filename = string.Join("_", filename.Split(" "));
+
+            if (year == 0)
+            {
+                line += campaign.payingAdvertiserName + "|";
+            }
+            else if (year == 1)
+            {
+                line += "[" + campaign.payingAdvertiserName + "](" + filename + ".md)|";
+            }
+            else
+            {
+                line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)|";
+            }
+            if (groupUrls)
+            {
+                var formattedUrls = FormatUrls(campaign.creativeUrls, urlStartIndex) + "|";
+                urlStartIndex += formattedUrls.Split(",").Length;
+                line += formattedUrls;
+            }
+            else
+            {
+                line += FormatUrls(campaign.creativeUrls, 0) + "|";
+            }
+            line += campaign.impressions.ToString("N0") + "|";
+            line += FormatList(campaign.genders) + "|";
+            line += FormatList(campaign.ageBrackets) + "|";
+            line += FormatList(campaign.countryCodes) + "|";
+            line += FormatList(campaign.billingAddresses) + "|";
+            line += FormatList(campaign.candidateBallotNames) + "|";
+            return line;
         }
 
         private static string FormatList(List<string> listItems)
@@ -74,16 +212,59 @@ namespace SCBot.Parsers
                 return FormatItem(listItems[0]);
             }
 
-            string list = string.Empty;
-
-            foreach (string listItem in listItems)
+            var list = string.Empty;
+            foreach (var listItem in listItems)
             {
-                if (!string.IsNullOrEmpty(listItem))
+                if (listItem != "")
                 {
-                    list += listItem + ";";
+                    list += listItem + "; ";
                 }
             }
+            list = list.TrimEnd(' ').TrimEnd(';');
+            list = FormatItem(list).Replace(";", ",");
             return FormatItem(list);
+        }
+
+        private static string FormatUrls(List<string> creativeUrls, int startIndex)
+        {
+            var urls = "";
+            var urlSpacing = 0;
+            var urlIndex = startIndex;
+
+            var mergedUrls = new List<string>();
+            foreach (var url in creativeUrls)
+            {
+                if (url != "")
+                {
+                    if (url.Contains(";"))
+                    {
+                        var subUrls = url.Split(';');
+                        foreach (var subUrl in subUrls)
+                        {
+                            mergedUrls.Add(subUrl);
+                        }
+                    }
+                    else
+                    {
+                        mergedUrls.Add(url);
+                    }
+                }
+            }
+
+            foreach (var url in mergedUrls)
+            {
+                urls += "[" + urlIndex + "](" + url + "),";
+                urlSpacing++;
+                urlIndex++;
+                if (urlSpacing >= 16)
+                {
+                    urls += " ";
+                    urlSpacing = 0;
+                }
+            }
+
+            urls = urls.TrimEnd(' ').TrimEnd(',');
+            return urls;
         }
     }
 }

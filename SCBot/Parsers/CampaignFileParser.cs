@@ -3,12 +3,36 @@ using SCBot.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
+using System.Net;
+using System.Linq;
 
 namespace SCBot.Parsers
 {
     public sealed class CampaignFileParser : IFileParser<Campaign>
     {
-        public IList<Campaign> Parse(string filePath)
+        public void Download(string dataFile, string url)
+        {
+            using (WebClient webClient = new WebClient())
+            {
+                var scData = webClient.DownloadData(url);
+                var zipStream = new MemoryStream(scData);
+
+                using (ZipArchive archive = new ZipArchive(zipStream))
+                {
+                    foreach (ZipArchiveEntry entry in archive.Entries)
+                    {
+                        if (entry.Name == "PoliticalAds.csv")
+                        {
+                            entry.ExtractToFile(dataFile, true);
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+
+        public List<Campaign> Parse(string filePath)
         {
             if (string.IsNullOrEmpty(filePath))
             {
@@ -16,7 +40,6 @@ namespace SCBot.Parsers
             }
 
             List<Campaign> campaigns = new List<Campaign>();
-
             try
             {
                 using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -27,36 +50,10 @@ namespace SCBot.Parsers
 
                     while (!parser.EndOfData)
                     {
-                        string[] fields = parser.ReadFields();
+                        var fields = parser.ReadFields();
+                        Campaign campaign = ParseCampaign(fields);
 
-                        Campaign campaign = new Campaign
-                        {
-                            organizationName = fields[7].Replace(",", " ")
-                        };
-
-                        if (long.TryParse(fields[3], out long spend))
-                        {
-                            campaign.spend = spend;
-                        }
-
-                        if (long.TryParse(fields[4], out long impressions))
-                        {
-                            campaign.impressions = impressions;
-                        }
-
-                        campaign.creativeUrls.Add(fields[1]);
-                        campaign.currencyCodes.Add(fields[2]);
-                        campaign.billingAddresses.Add(fields[8]);
-                        campaign.candidateBallotNames.Add(fields[9]);
-                        campaign.payingAdvertiserNames.Add(fields[10]);
-                        campaign.genders.Add(fields[11]);
-                        campaign.ageBrackets.Add(fields[12]);
-                        campaign.countryCodes.Add(fields[13]);
-                        campaign.includedRegions.Add(fields[14]);
-                        campaign.excludedRegions.Add(fields[15]);
-                        campaign.interests.Add(fields[26]);
-
-                        Campaign existingCampaign = campaigns.Find(x => x.organizationName == campaign.organizationName);
+                        Campaign existingCampaign = campaigns.Find(x => x.payingAdvertiserName == campaign.payingAdvertiserName);
 
                         if (existingCampaign == null)
                         {
@@ -93,7 +90,8 @@ namespace SCBot.Parsers
                         }
                         if (existingCampaign.ageBrackets.Find(x => x == campaign.ageBrackets[0]) == null)
                         {
-                            existingCampaign.ageBrackets.Add(campaign.ageBrackets[0]);
+                            existingCampaign.ageBrackets.Add(campaign.ageBrackets[0
+                                ]);
                         }
                         if (existingCampaign.countryCodes.Find(x => x == campaign.countryCodes[0]) == null)
                         {
@@ -113,12 +111,42 @@ namespace SCBot.Parsers
                         }
                     }
                 }
-                return campaigns;
+
+                return campaigns.OrderByDescending(c => c.spend).ToList();
             }
             catch (IOException)
             {
                 return default;
             }
+        }
+
+        public static Campaign ParseCampaign(string[] fields)
+        {
+            var campaign = new Campaign();
+            campaign.organizationName = fields[7].Replace(",", " ");
+
+            long spend;
+            long.TryParse(fields[3], out spend);    
+            campaign.spend = spend;
+
+            long impressions;
+            long.TryParse(fields[4], out impressions);
+            campaign.impressions = impressions;
+
+            campaign.creativeUrls.Add(fields[1]);
+            campaign.currencyCodes.Add(fields[2]);
+            campaign.billingAddresses.Add(fields[8]);
+            campaign.candidateBallotName = fields[9];
+            campaign.candidateBallotNames.Add(fields[9]);
+            campaign.payingAdvertiserNames.Add(fields[10]);
+            campaign.payingAdvertiserName = fields[10];
+            campaign.genders.Add(fields[15]);
+            campaign.ageBrackets.Add(fields[16]);
+            campaign.countryCodes.Add(fields[17]);
+            campaign.includedRegions.Add(fields[18]);
+            campaign.excludedRegions.Add(fields[19]);
+            campaign.interests.Add(fields[30]);
+            return campaign;
         }
     }
 }
