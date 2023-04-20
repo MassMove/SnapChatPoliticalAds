@@ -25,4 +25,3 @@
 |All Rise Media AB|10.00 EUR|Cancerfonden|[21](https://www.snap.com/political-ads/asset/5bd41a7699935beadffbee070bc3de4fe37619993fe22fe71d7836b1c9dfd174?mediaType=mp4)|2,326||25+|sweden|"Klarabergsgatan 60,Stockholm,11121 ,SE"||
 |All Rise Media AB|7.00 EUR|Cancerfonden|[22](https://www.snap.com/political-ads/asset/796e39f18dd4b83af22efbb4f7495b8fa4c489d8d96db753454336632e8f1037?mediaType=mp4)|2,087||25+|sweden|"Klarabergsgatan 60,Stockholm,11121 ,SE"||
 |All Rise Media AB|2.00 EUR|Cancerfonden|[23](https://www.snap.com/political-ads/asset/796e39f18dd4b83af22efbb4f7495b8fa4c489d8d96db753454336632e8f1037?mediaType=mp4)|499||25+|sweden|"Klarabergsgatan 60,Stockholm,11121 ,SE"||
-|All Rise Media AB|1.00 EUR|Cancerfonden|[24](https://www.snap.com/political-ads/asset/5bd41a7699935beadffbee070bc3de4fe37619993fe22fe71d7836b1c9dfd174?mediaType=mp4)|340||25+|sweden|"Klarabergsgatan 60,Stockholm,11121 ,SE"||
