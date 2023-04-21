@@ -31,7 +31,7 @@ namespace SCBot
                 campaigns.OrderByDescending(c => c.spend);
                 campaignSummaryWriter.Write(dataSummaryFile, campaigns);
                 campaignSummaryWriter.WriteReadMeYear(campaigns, year, dataFile);
-                readMe += campaignSummaryWriter.WriteReadMe(campaigns, readMe, year);
+                readMe = campaignSummaryWriter.WriteReadMe(campaigns, readMe, year);
             }
         }
     }
