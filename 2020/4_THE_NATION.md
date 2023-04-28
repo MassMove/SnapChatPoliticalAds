@@ -23,8 +23,7 @@
 |4 The Nation|2.00 USD|4 THE NATION|[19](https://www.snap.com/political-ads/asset/e5c8f73d207b13cfb3747548cddb6e656332867e9d83df059c2bea26e7baa7e8?mediaType=mp4)|1,637|MALE||united states|US||
 |4 The Nation|1.00 USD|4 THE NATION|[20](https://www.snap.com/political-ads/asset/e5c8f73d207b13cfb3747548cddb6e656332867e9d83df059c2bea26e7baa7e8?mediaType=mp4)|1,377|MALE||united states|US||
 |4 The Nation|1.00 USD|4 THE NATION|[21](https://www.snap.com/political-ads/asset/e5c8f73d207b13cfb3747548cddb6e656332867e9d83df059c2bea26e7baa7e8?mediaType=mp4)|1,161|MALE||united states|US||
-|4 The Nation|0.00 USD|4 THE NATION|[22](https://www.snap.com/political-ads/asset/e5c8f73d207b13cfb3747548cddb6e656332867e9d83df059c2bea26e7baa7e8?mediaType=mp4)|498|MALE||united states|US||
-|4 The Nation|0.00 USD|4 THE NATION|[23](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|66|MALE||united states|US||
-|4 The Nation|0.00 USD|4 THE NATION|[24](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|61|MALE||united states|US||
+|4 The Nation|0.00 USD|4 THE NATION|[22](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|66|MALE||united states|US||
+|4 The Nation|0.00 USD|4 THE NATION|[23](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|61|MALE||united states|US||
+|4 The Nation|0.00 USD|4 THE NATION|[24](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|42|MALE||united states|US||
 |4 The Nation|0.00 USD|4 THE NATION|[25](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|42|MALE||united states|US||
-|4 The Nation|0.00 USD|4 THE NATION|[26](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|42|MALE||united states|US||
