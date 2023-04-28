@@ -57,7 +57,7 @@ namespace SCBot.Parsers
 
         public string WriteReadMe(IList<Campaign> campaigns, string readMe, int year)
         {
-            readMe += $"## [{year}/README.md]({year}) \r\n";
+            readMe += $"## [{year}]({year}/README.md) \r\n";
             readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
             readMe += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
 
