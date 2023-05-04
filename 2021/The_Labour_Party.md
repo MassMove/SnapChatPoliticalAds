@@ -1,4 +1,7 @@
 ## 2021 - The Labour Party 
+Spent: 38,583.00
+Impressions: 15,253,082
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Labour Party|2,876.00 GBP|The Labour Party|[0](https://www.snap.com/political-ads/asset/b37e4c2e398823a94a64b65974d13db6b7cdc23449bb3c7270e276c380dd584e?mediaType=png)|1,077,649||18+|united kingdom|"Kings Manor,Newcastle,NE16PA,GB"||

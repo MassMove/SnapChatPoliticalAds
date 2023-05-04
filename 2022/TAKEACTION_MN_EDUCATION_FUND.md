@@ -1,4 +1,7 @@
 ## 2022 - TAKEACTION MN EDUCATION FUND 
+Spent: 14,815.00
+Impressions: 890,356
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Progress North|2,815.00 USD|TAKEACTION MN EDUCATION FUND|[0](https://www.snap.com/political-ads/asset/02209fb94df837ec91e3274f4747337d88051a3700f68be6871202308132dd54?mediaType=mp4)|230,533||18+|united states|"PO Box 1513,Superior,54880,US"|PN Endorsed Candidates|

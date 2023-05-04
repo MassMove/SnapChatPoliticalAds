@@ -1,4 +1,7 @@
 ## 2021 - Dream Corps 
+Spent: 9,580.00
+Impressions: 1,877,941
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Townsquare Ignite|6,047.00 USD|Dream Corps|[0](https://www.snap.com/political-ads/asset/de4fc1e3e1f99cdc9c33429955e51be386833c1d44497fa6dd5098d26217e367?mediaType=mp4)|963,504||18+|united states|"1 Manhattanville Road, Ste 202,Purchase,10577,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Lindsey Travis 
+Spent: 61.00
+Impressions: 16,393
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lindsey Travis for HD 60|61.00 USD|Lindsey Travis|[0](https://www.snap.com/political-ads/asset/bb1a8cafc055dd17a52b6ca921e5df66908945bd369d44e926500d2219f26e86?mediaType=jpeg)|16,100||18+|united states|"630 Iowa Ave.,Green River,82935,US"|Lindsey Travis -- Democrat for Wyoming HD 60|

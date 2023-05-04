@@ -1,4 +1,7 @@
 ## 2022 - Gemeente Amsterdam 
+Spent: 633.00
+Impressions: 267,042
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Spitz Digital|286.00 EUR|Gemeente Amsterdam|[0](https://www.snap.com/political-ads/asset/83d1baa63f35fdcd9271038fca70401736bee7bcdfcf0d3eab3805190304b510?mediaType=mp4)|113,503||16-22|netherlands|"Loirestraat 22,Purmerend,1448JL,NL"||

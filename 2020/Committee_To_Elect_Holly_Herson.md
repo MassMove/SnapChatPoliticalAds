@@ -1,4 +1,7 @@
 ## 2020 - Committee To Elect Holly Herson 
+Spent: 259.00
+Impressions: 97,100
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Committee To Elect Holly Herson|88.00 USD|Committee To Elect Holly Herson|[0](https://www.snap.com/political-ads/asset/5c870d8fad71faf81daa5a17971cf50c594be568fd12eec184c98a1406e572ac?mediaType=mp4)|28,804||18-30|united states|US|CommitteeToElectHollyHerson|

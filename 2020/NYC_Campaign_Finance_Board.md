@@ -1,4 +1,7 @@
 ## 2020 - NYC Campaign Finance Board 
+Spent: 25,823.00
+Impressions: 7,958,557
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Miller Advertising Agency  Inc.|6,720.00 USD|NYC Campaign Finance Board|[0](https://www.snap.com/political-ads/asset/6a71b08f9886a56ca841009973222e7aaff3dbe766252ed19a3489beb8a4e8ae?mediaType=mp4)|3,132,637||18-29|united states|"909 Third Avenue, 15th Floor,New York,10022,US"||

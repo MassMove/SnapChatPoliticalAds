@@ -1,4 +1,7 @@
 ## 2020 - Dream Defenders Fight Pac 
+Spent: 31,180.00
+Impressions: 8,640,234
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dream Defenders Fight Pac|5,000.00 USD|Dream Defenders Fight Pac|[0](https://www.snap.com/political-ads/asset/472c7a8ae7afc70a5c4700aa8cc945515fd69703156737f8fc1e7c964e1ca4b5?mediaType=jpg)|2,097,132||18-35|united states|US|Trump|

@@ -1,4 +1,7 @@
 ## 2022 - Aeterna Media LLC 
+Spent: 1,791.00
+Impressions: 148,270
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Aeterna Media|394.00 USD|Aeterna Media LLC|[0](https://www.snap.com/political-ads/asset/5ea35c7df801b39a229aa4f0427919765954b5e4b0a02c6c0acfbb6a9f8b5c2a?mediaType=mp4)|45,051||18-30|united states|US||

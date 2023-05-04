@@ -1,4 +1,7 @@
 ## 2021 - DeFazio for Congress 
+Spent: 175.00
+Impressions: 19,217
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mandate Media|47.00 USD|DeFazio for Congress|[0](https://www.snap.com/political-ads/asset/6e5e9c7fff9e630b8c9e2200498f2ffe70c6fa3b46ab9e78308fe9a8f3ea7a2c?mediaType=png)|5,104||18+|united states|US|Peter DeFazio for Congress|

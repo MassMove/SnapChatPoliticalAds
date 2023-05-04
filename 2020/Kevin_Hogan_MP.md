@@ -1,4 +1,7 @@
 ## 2020 - Kevin Hogan MP 
+Spent: 167.00
+Impressions: 88,355
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kevin Hogan MP|100.00 AUD|Kevin Hogan MP|[0](https://www.snap.com/political-ads/asset/667e95762e1780089477c12e45b389c39c9ffdc44dc843b72b609a1232687cb0?mediaType=mp4)|57,327|||australia|"63 Molesworth Street,Lismore,2480,AU"|Kevin Hogan MP|

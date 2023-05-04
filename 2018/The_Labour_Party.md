@@ -1,4 +1,7 @@
 ## 2018 - The Labour Party 
+Spent: 508.00
+Impressions: 210,769
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Labour Party|390.00 GBP|The Labour Party|[0](https://www.snap.com/political-ads/asset/eb9a126fb9089c84fbd50bae132eb76bd3f2fc0459a4a5ddd6bf233ab2688241?mediaType=mp4)|162,319||18-24|united kingdom|"Kings Manor,Newcastle,NE16PA,GB"||

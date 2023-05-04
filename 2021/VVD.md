@@ -1,4 +1,7 @@
 ## 2021 - VVD 
+Spent: 15,748.00
+Impressions: 9,142,726
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |VVD|2,649.00 EUR|VVD|[0](https://www.snap.com/political-ads/asset/8ce9bf8a124e031721bd1c39b4999035923725de5e7822d2c0a3293dec0fe032?mediaType=mp4)|1,457,954||18+||NL|VVD|

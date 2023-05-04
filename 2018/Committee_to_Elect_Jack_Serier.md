@@ -1,4 +1,7 @@
 ## 2018 - Committee to Elect Jack Serier 
+Spent: 245.00
+Impressions: 95,651
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Committee to Elect Jack Serier|95.00 USD|Committee to Elect Jack Serier|[0](https://www.snap.com/political-ads/asset/10d72a1f6d5d1f738f826bfe0a68d030954f75694c59c474580bb3f853b2b42a?mediaType=png)|55,610|||united states|US||

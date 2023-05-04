@@ -1,4 +1,7 @@
 ## 2020 - Brady PAC 
+Spent: 6,954.00
+Impressions: 1,607,687
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,658.00 USD|Brady PAC|[0](https://www.snap.com/political-ads/asset/87db64ceac795a825882ec55af87b129d1405672d0cd400d079dc6249cded0b1?mediaType=mp4)|425,242||18-34|united states|US||

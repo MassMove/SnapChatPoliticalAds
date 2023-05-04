@@ -1,4 +1,7 @@
 ## 2022 - PPOSBC Community Action Fund PAC 
+Spent: 37,143.00
+Impressions: 2,246,494
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Open Hand Media|5,250.00 USD|PPOSBC Community Action Fund PAC|[0](https://www.snap.com/political-ads/asset/cd5839ddc8e6b607a953431a0f3f8e387cd8dd5d580f7744a759ca7e6b8b6bc1?mediaType=mov)|396,137|FEMALE|18+|united states|"235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US"||

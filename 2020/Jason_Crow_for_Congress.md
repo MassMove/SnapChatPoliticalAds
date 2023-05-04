@@ -1,4 +1,7 @@
 ## 2020 - Jason Crow for Congress 
+Spent: 3,328.00
+Impressions: 785,923
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,131.00 USD|Jason Crow for Congress|[0](https://www.snap.com/political-ads/asset/7a93dc419a63bf2baede3dac24bedba8ffc40ecf62f5e6b1cc8e891e7479efcf?mediaType=mp4)|288,877||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Jason Crow for Congress|

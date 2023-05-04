@@ -1,4 +1,7 @@
 ## 2020 - REPUBLICAN RED LLC 
+Spent: 3,658.00
+Impressions: 616,906
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vici Media Group|1,339.00 USD|REPUBLICAN RED LLC|[0](https://www.snap.com/political-ads/asset/55e51d8a9aac1ea5f122d02f017c8f9dba5e6071e0d5c8f4d4ad7469d8e426f2?mediaType=mp4)|262,406||21+|united states|"816 Big Woods Rd,Longview,75605,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Fems for Democracy 
+Spent: 1,688.00
+Impressions: 321,880
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|786.00 USD|Fems for Democracy|[0](https://www.snap.com/political-ads/asset/97a258588f99b34cddcd079b3e79471afd8592784b1d56bb8fc91b27b93f8c6e?mediaType=mp4)|147,614|FEMALE|18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"||

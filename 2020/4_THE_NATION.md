@@ -1,4 +1,7 @@
 ## 2020 - 4 THE NATION 
+Spent: 281.00
+Impressions: 378,152
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |4 The Nation|55.00 USD|4 THE NATION|[0](https://www.snap.com/political-ads/asset/56b18275e2c8986c0ff566864ad2404f2cfe272503bee29d5d80a0ddc4ca1e93?mediaType=mp4)|55,994|||united states|US||

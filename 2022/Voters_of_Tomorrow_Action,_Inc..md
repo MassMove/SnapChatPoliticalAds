@@ -1,4 +1,7 @@
 ## 2022 - Voters of Tomorrow Action, Inc. 
+Spent: 6,000.00
+Impressions: 1,491,651
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Voters of Tomorrow Action  Inc.|1,000.00 USD|Voters of Tomorrow Action, Inc.|[0](https://www.snap.com/political-ads/asset/9585006e73777d25fc2e75af6e464cc9dc834570b1972c932459134a459f1a6e?mediaType=png)|345,559||18-24|united states|US||

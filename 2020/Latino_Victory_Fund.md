@@ -1,4 +1,7 @@
 ## 2020 - Latino Victory Fund 
+Spent: 123,913.00
+Impressions: 18,813,554
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hawkfish LLC|16,173.00 USD|Latino Victory Fund|[0](https://www.snap.com/political-ads/asset/b21b8ee1444f5ad31ad774977ec27494e91383dadc03bdde38f4285c6ea49b07?mediaType=png)|2,616,811||18+|united states|"909 Third Avenue,New York,10022,US"|Joe Biden|

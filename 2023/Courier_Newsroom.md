@@ -1,4 +1,7 @@
 ## 2023 - Courier Newsroom 
+Spent: 35,197.00
+Impressions: 2,362,762
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SBDigital|9,956.00 USD|Courier Newsroom|[0](https://www.snap.com/political-ads/asset/3fe27bd5c82a90ecacdbe7e7a14edf1786909216142d5986fa1cb00bc339ee52?mediaType=mp4)|693,358||18+|united states|US|Wisconsin Supreme Court|

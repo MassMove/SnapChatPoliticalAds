@@ -1,4 +1,7 @@
 ## 2019 - SOS-barnebyer 
+Spent: 9,743.00
+Impressions: 2,128,221
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Norge AS|4,394.00 EUR|SOS-barnebyer|[0](https://www.snap.com/political-ads/asset/4d11ed529357ff8c784eeea32d667ee979fc540e601c67f64831c5b8fa69b3c6?mediaType=mp4)|931,807||30+|norway|"Kristian Augusts gate 23, OSLO,0164 ,NO"||

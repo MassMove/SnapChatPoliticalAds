@@ -1,4 +1,7 @@
 ## 2018 - Friends for Sydney Batch 
+Spent: 639.00
+Impressions: 203,837
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Friends For Sydney Batch|417.00 USD|Friends for Sydney Batch|[0](https://www.snap.com/political-ads/asset/58d54f036408905ffa52c6433fc9651c7b183d7f24fa6b88a89aabd9b96e18cd?mediaType=png)|123,557||18+|united states|"6030 Clear Springs rd,Virginia Beach,23464,US"||

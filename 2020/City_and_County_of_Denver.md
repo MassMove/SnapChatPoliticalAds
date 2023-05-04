@@ -1,4 +1,7 @@
 ## 2020 - City and County of Denver 
+Spent: 1,734.00
+Impressions: 845,422
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|625.00 USD|City and County of Denver|[0](https://www.snap.com/political-ads/asset/ed21677c1fa3438af351e2c4beed63dec097780900747dcb96d201a0387a8164?mediaType=mp4)|315,377||18-|united states|"201 W Colfax Ave,Denver,80202,US"||

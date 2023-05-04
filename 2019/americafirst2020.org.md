@@ -1,4 +1,7 @@
 ## 2019 - americafirst2020.org 
+Spent: 439.00
+Impressions: 196,945
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SCALER LLC|378.00 USD|americafirst2020.org|[0](https://www.snap.com/political-ads/asset/3f518076bf1d54a96d2423fd8d9b2b20880d30a8f3a2b08241ea60fbd3b7ed8b?mediaType=mp4)|169,841||18+|united states|US||

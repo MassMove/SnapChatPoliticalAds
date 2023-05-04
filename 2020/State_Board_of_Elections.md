@@ -1,4 +1,7 @@
 ## 2020 - State Board of Elections 
+Spent: 23,996.00
+Impressions: 7,589,588
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Maryland State Board of Elections|4,306.00 USD|State Board of Elections|[0](https://www.snap.com/political-ads/asset/b15c3ecadc9273a72f81cdbc8c454a87194cd59636003f6006c94b25e6181700?mediaType=jpg)|1,999,920||18+|united states|US||

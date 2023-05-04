@@ -1,4 +1,7 @@
 ## 2021 - Abram Benedict 
+Spent: 141.00
+Impressions: 26,855
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Abram Benedict|97.00 CAD|Abram Benedict|[0](https://www.snap.com/political-ads/asset/9ddc03ac6bb4e4da26e2406151bccaa53e36f7387ad501f3ef8e11fff4695200?mediaType=jpeg)|15,829||18+|canada|"754 Island road ,Akwesasne,K6h5r7,CA"|Abram Benedict|

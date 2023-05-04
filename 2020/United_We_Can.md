@@ -1,4 +1,7 @@
 ## 2020 - United We Can 
+Spent: 31,592.00
+Impressions: 7,767,832
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|3,221.00 USD|United We Can|[0](https://www.snap.com/political-ads/asset/7156aaf5f3eae50cfd159236013d76b18074f33c640d151852ba1d37f2e11e9e?mediaType=jpg)|1,870,071||17-24|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

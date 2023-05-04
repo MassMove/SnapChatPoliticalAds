@@ -1,4 +1,7 @@
 ## 2020 - Stand for Children Indiana PAC 
+Spent: 1,327.00
+Impressions: 159,166
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Stand for Children|1,025.00 USD|Stand for Children Indiana PAC|[0](https://www.snap.com/political-ads/asset/dff739b574d40fcb2ac1983e2bef08471ffffb920250c0ca5a6994c6fd8a489e?mediaType=mp4)|128,917|||united states|US||

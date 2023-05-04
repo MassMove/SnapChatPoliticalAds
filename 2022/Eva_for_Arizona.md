@@ -1,4 +1,7 @@
 ## 2022 - Eva for Arizona 
+Spent: 2,061.00
+Impressions: 111,790
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|552.00 USD|Eva for Arizona|[0](https://www.snap.com/political-ads/asset/bd034c0d7d4ef1177d1fefc3cc706dea4173ae06499282dc725a5326a3e4c477?mediaType=mp4)|34,286||18+|united states|"1324 Spaight St,Madison,53703,US"|Eva Burch|

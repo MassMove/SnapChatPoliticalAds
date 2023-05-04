@@ -1,4 +1,7 @@
 ## 2021 - Scottish National Party 
+Spent: 4,482.00
+Impressions: 1,938,875
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Scottish National Party|1,000.00 GBP|Scottish National Party|[0](https://www.snap.com/political-ads/asset/23836d9c9fa1d8451feb9bd822056d697d08f797466a787bf89462764c853982?mediaType=mp4)|709,889||16-24|united kingdom|GB|Scottish National Party|

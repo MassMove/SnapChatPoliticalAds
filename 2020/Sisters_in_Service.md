@@ -1,4 +1,7 @@
 ## 2020 - Sisters in Service 
+Spent: 397.00
+Impressions: 47,655
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BattleAxe Digital|176.00 USD|Sisters in Service|[0](https://www.snap.com/political-ads/asset/890cd158e5e5b5934bb88dfbc1101a3d2474fc797cb88150ed464e889c8123a0?mediaType=mp4)|21,631|||united states|US|Sisters in Service|

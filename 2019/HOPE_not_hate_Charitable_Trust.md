@@ -1,4 +1,7 @@
 ## 2019 - HOPE not hate Charitable Trust 
+Spent: 3,637.00
+Impressions: 1,979,567
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |HOPE not hate Charitable Trust|733.00 GBP|HOPE not hate Charitable Trust|[0](https://www.snap.com/political-ads/asset/94e841419fd99b223859be465b3a4b8fc9dd55d4277367867d93847df6394434?mediaType=mp4)|421,166||18-40|united kingdom|"1 Clothier St,London,E1 POA,GB"||

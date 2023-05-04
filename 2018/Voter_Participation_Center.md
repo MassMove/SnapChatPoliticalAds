@@ -1,4 +1,7 @@
 ## 2018 - Voter Participation Center 
+Spent: 3,647.00
+Impressions: 725,384
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,251.00 USD|Voter Participation Center|[0](https://www.snap.com/political-ads/asset/ef71b4b97c0fa6e85a2ebf3dcd06ea00763e64f99e944800242d3f58c0102ca1?mediaType=png)|221,925||18+|united states|"1707 L St NW Suite 950,Washington,20036,US"||

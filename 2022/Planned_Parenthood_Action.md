@@ -1,4 +1,7 @@
 ## 2022 - Planned Parenthood Action 
+Spent: 19,909.00
+Impressions: 3,800,445
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|1,556.00 USD|Planned Parenthood Action|[0](https://www.snap.com/political-ads/asset/c54f517a63c91f4f8323357a2ace770e4c2d18ffb858f9ef7cca127e72e4c2cb?mediaType=mp4)|382,121||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|Planned Parenthood Action|

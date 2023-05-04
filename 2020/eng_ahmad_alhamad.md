@@ -1,4 +1,7 @@
 ## 2020 - eng ahmad alhamad 
+Spent: 985.00
+Impressions: 875,129
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |nahi|300.00 USD|eng ahmad alhamad|[0](https://www.snap.com/political-ads/asset/b2eed48b22fea63e2f30d162506d075d89fa1f583d63c7a6327466dcee2a8ae5?mediaType=mp4)|265,928|||kuwait|"street 118,fahad alahmad,00965,KW"||

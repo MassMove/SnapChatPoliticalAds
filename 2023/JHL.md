@@ -1,4 +1,7 @@
 ## 2023 - JHL 
+Spent: 9,996.00
+Impressions: 9,069,603
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Httpool|2,592.00 EUR|JHL|[0](https://www.snap.com/political-ads/asset/268f28a9e406e65c62674f4e56353faa059d7abbdfd5ae50997f74944401af34?mediaType=mp4)|3,092,086||18+|finland|"Litostrojska cesta 52,Ljubljana,1000,SI"||

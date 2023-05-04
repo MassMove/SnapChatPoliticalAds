@@ -1,4 +1,7 @@
 ## 2021 - BIJ1 
+Spent: 3,279.00
+Impressions: 2,755,822
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BIJ1|368.00 EUR|BIJ1|[0](https://www.snap.com/political-ads/asset/d8d567cee574b4bdc595422ea5fe9f12ea0461c90704056d180c2128e13709aa?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f590225ee477d546149a06b279b7a5812bdc62c0fc95cd7312462de5c6697096?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/2eb1f6be493cf2da0737aefa3f6aba8cff5127555578ce37923820e3dff5c55e?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/552e0e9c38cf50759a926a1a24f5e70d554cb5fb952d762a450ca8095ddcc89f?mediaType=mp4)|1,165,472|||netherlands|NL|BIJ1|

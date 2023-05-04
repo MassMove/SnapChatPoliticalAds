@@ -1,4 +1,7 @@
 ## 2021 - Presse- und Informationsamt 
+Spent: 8,631.00
+Impressions: 1,045,306
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |iProspect GmbH|4,677.00 EUR|Presse- und Informationsamt|[0](https://www.snap.com/political-ads/asset/ebe1a42644fa9200808c13fc43f401123c2f91f9ddf85e735f850ecfed5a86ea?mediaType=mp4)|520,247||18-24|germany|"Speicherstraße 53,Frankfurt am Main,60327,DE"||

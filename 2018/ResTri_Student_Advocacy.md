@@ -1,4 +1,7 @@
 ## 2018 - ResTri Student Advocacy 
+Spent: 81.00
+Impressions: 36,069
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Research Triangle Student Advocacy|35.00 USD|ResTri Student Advocacy|[0](https://www.snap.com/political-ads/asset/a213d4c4e789e37f7a6bfcfffb803fb57fca8454f6e5d6bfd1a9016df86190db?mediaType=mp4)|16,678|FEMALE|18-34|united states|US||

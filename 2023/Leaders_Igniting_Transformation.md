@@ -1,4 +1,7 @@
 ## 2023 - Leaders Igniting Transformation 
+Spent: 3,000.00
+Impressions: 422,426
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Leaders Igniting Transformation|2,500.00 USD|Leaders Igniting Transformation|[0](https://www.snap.com/political-ads/asset/e19ad73306581748be524c1c65dfaf53ebe110c3b5729a6dc3a3577fa9eed9de?mediaType=png)|380,380||17-35|united states|"2201 N. Martin Luther King Dr,Milwaukee,53212,US"||

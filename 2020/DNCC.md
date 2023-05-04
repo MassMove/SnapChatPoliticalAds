@@ -1,4 +1,7 @@
 ## 2020 - DNCC 
+Spent: 48,176.00
+Impressions: 12,373,812
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democratic National Convention Committee|10,070.00 USD|DNCC|[0](https://www.snap.com/political-ads/asset/9449a62d51c435f0ef09279f189bbfef12886619ec342d81307a895d975d20ef?mediaType=png)|3,043,911||18-34|united states|"111 E Kilbourn Ave,Milwaukee,53202,US"|Democratic National Convention Committee|

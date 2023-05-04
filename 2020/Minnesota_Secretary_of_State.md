@@ -1,4 +1,7 @@
 ## 2020 - Minnesota Secretary of State 
+Spent: 44,088.00
+Impressions: 11,943,134
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Periscope  Inc.|20,000.00 USD|Minnesota Secretary of State|[0](https://www.snap.com/political-ads/asset/af69b2f0d6d5bb63a724c4ba08368270449c6e39db01c9beadd1aa88b986fb77?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/9f4736e7a264654fd5aa0e748b7e4f693821f6e2c88c2289b983eb98cd6d37cd?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/90333371055406c39caa12a3ee1fa26f7b329e4213722ef7696e41c017c5f9b9?mediaType=mp4)|5,477,614||18+|united states|"921 Washington Avenue South,Minneapolis,55415,US"||

@@ -1,4 +1,7 @@
 ## 2023 - TAKEACTION MN EDUCATION FUND 
+Spent: 2,297.00
+Impressions: 249,842
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Progress North|328.00 USD|TAKEACTION MN EDUCATION FUND|[0](https://www.snap.com/political-ads/asset/6570d63ad7cf7fc208fc659087cc9909b10dc180cf50613cf9a7e9c5838a2802?mediaType=jpeg)|49,497||18+|united states|"PO Box 1513,Superior,54880,US"|Janet Protasiewicz|

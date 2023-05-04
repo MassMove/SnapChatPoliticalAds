@@ -1,4 +1,7 @@
 ## 2020 - Alameda County Community 
+Spent: 1,273.00
+Impressions: 489,372
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Adtaxi|311.00 USD|Alameda County Community|[0](https://www.snap.com/political-ads/asset/8f8c18d1473c84032178564a73b8388a764d2652327e6e76e17a1ab0a2b3a660?mediaType=mp4)|144,970||18-24|united states|"101 West Colfax,Denver,80204,US"|Alameda County Community Food Bank|

@@ -1,4 +1,7 @@
 ## 2021 - Mind Charity 
+Spent: 4,840.00
+Impressions: 2,620,994
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Medialab Group|2,901.00 GBP|Mind Charity|[0](https://www.snap.com/political-ads/asset/cc4aa1c741d26071dc1e53a656c644f7be38099857e2911caf4d33965a5e0385?mediaType=png)|1,674,052||18-30|united kingdom|"3-4a Little Portland Street,London,W1W 7JB,GB"||

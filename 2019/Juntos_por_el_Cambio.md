@@ -1,4 +1,7 @@
 ## 2019 - Juntos por el Cambio 
+Spent: 735.00
+Impressions: 400,113
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |IMS ARGENTINA SRL|425.00 USD|Juntos por el Cambio|[0](https://www.snap.com/political-ads/asset/738faf5136e435e752cf9774582760d2c3d416b836a031ebed8faf8167916a94?mediaType=mp4)|227,181||18+|argentina|"Echeverria 1515, Piso 11,	 Ciudad Autonoma (CABA),1428,AR"||

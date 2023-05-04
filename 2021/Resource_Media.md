@@ -1,4 +1,7 @@
 ## 2021 - Resource Media 
+Spent: 1,261.00
+Impressions: 139,705
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |RESOURCE MEDIA A NONPROFIT CORPORATION|588.00 USD|Resource Media|[0](https://www.snap.com/political-ads/asset/f26d952820d9d6abf041adcb0623582b48c22ee4e574723891a9a5f49780e833?mediaType=mp4)|55,877|||united states|US||

@@ -1,4 +1,7 @@
 ## 2019 - Wendy's 
+Spent: 6,999.00
+Impressions: 3,809,488
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reprise|2,565.00 CAD|Wendy's|[0](https://www.snap.com/political-ads/asset/8d4fafd435b50fdec2e1923cf11262e2bed9721e8c5b2be0ba2a0661c75074ae?mediaType=mp4)|1,387,281||25+|canada|"10 Bay St 9th Floor,Toronto,M5J 2S3,CA"||

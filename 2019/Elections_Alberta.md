@@ -1,4 +1,7 @@
 ## 2019 - Elections Alberta 
+Spent: 15,205.00
+Impressions: 5,899,911
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DDB Edmonton Media|3,425.00 CAD|Elections Alberta|[0](https://www.snap.com/political-ads/asset/109d9781e1397e22972b7b5c377461ad2def7d559f428d7a7dc544bf0a2365ce?mediaType=mp4)|1,408,771||18+|canada|"Suite 1900, 10025 - 102A Avenue,Edmonton,T5J 2Z2,CA"||

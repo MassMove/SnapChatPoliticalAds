@@ -1,4 +1,7 @@
 ## 2021 - Groen Links 
+Spent: 19,229.00
+Impressions: 11,269,633
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M2Media & More B.V|7,700.00 EUR|Groen Links|[0](https://www.snap.com/political-ads/asset/5f5936dd61cfb6a4da1c7f00c7bf7d540ce0f5f7b1ba24191f6436d5bd4b8415?mediaType=mp4)|5,262,024||18-30||"Bergweg 70,Hilversum,1217sc,NL"||

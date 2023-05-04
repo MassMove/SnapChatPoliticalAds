@@ -1,4 +1,7 @@
 ## 2021 - Maggie for New Hampshire 
+Spent: 47,790.00
+Impressions: 3,056,848
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,210.00 USD|Maggie for New Hampshire|[0](https://www.snap.com/political-ads/asset/4b5fae581861dd52b1bbb862aedb2521648b30991ab17487a0c9b62656e4903b?mediaType=mp4)|110,269||18+|united states|US||

@@ -1,4 +1,7 @@
 ## 2019 - P4AHCF 
+Spent: 3,107.00
+Impressions: 566,009
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |FP1 Strategies|1,184.00 USD|P4AHCF|[0](https://www.snap.com/political-ads/asset/fa5e71ed3b60c5e03ba4d7901b308ed0a60c2813aac0ad9d8724d0250bdbe007?mediaType=png)|252,935||21+|united states|"3001 Washington Blvd,Arlington,22201,US"||

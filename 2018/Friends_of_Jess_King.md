@@ -1,4 +1,7 @@
 ## 2018 - Friends of Jess King 
+Spent: 2,586.00
+Impressions: 691,292
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Friends of Jess King|1,000.00 USD|Friends of Jess King|[0](https://www.snap.com/political-ads/asset/0116b5116ef1488c1b2f5b5fcc111e4d2eab6d75ab3d59ee8ddeaf41990df571?mediaType=mp4)|274,592||17+|united states|US||

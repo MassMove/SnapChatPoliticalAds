@@ -1,4 +1,7 @@
 ## 2022 - It Gets Better Project 
+Spent: 11,148.00
+Impressions: 1,421,524
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |It Gets Better Project|3,000.00 USD|It Gets Better Project|[0](https://www.snap.com/political-ads/asset/094bce569373d4620514303a0b8a033450453efa670a928adf792653b93808bd?mediaType=mov)|354,700||17-|united states|US||

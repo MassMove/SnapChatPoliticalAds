@@ -1,4 +1,7 @@
 ## 2020 - ACT Party 
+Spent: 8,218.00
+Impressions: 2,865,789
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Attivo Limited|1,769.00 USD|ACT Party|[0](https://www.snap.com/political-ads/asset/02a4d69a60dcb89639d6ecfd513f2e63d530663403f52f3218d430e59e7f8106?mediaType=mp4)|597,574||18-34|new zealand|"158 Leinster Road,Merivale,8146,NZ"||

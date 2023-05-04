@@ -1,4 +1,7 @@
 ## 2020 - Voto Latino 
+Spent: 4,171.00
+Impressions: 2,213,432
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Rising Tide Interactive LLC|370.00 USD|Voto Latino|[0](https://www.snap.com/political-ads/asset/4fd34f015eb7b22439baf494717866b568367f7bbc8ba72cf7927ee39645f3d6?mediaType=mp4)|221,329||18-35|united states|"1250 H St. NW,Washington,20005,US"|Voto Latino|

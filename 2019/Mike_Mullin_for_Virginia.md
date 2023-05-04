@@ -1,4 +1,7 @@
 ## 2019 - Mike Mullin for Virginia 
+Spent: 686.00
+Impressions: 116,360
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mullin for Virginia|324.00 USD|Mike Mullin for Virginia|[0](https://www.snap.com/political-ads/asset/27c8ef104824709dee9f2b81392b258d0f4e2b17becd7a739296e7111b8258a1?mediaType=jpg)|61,201||18-30|united states|"566 Denbigh Boulevard,Newport News,23608,US"|Mike Mullin|

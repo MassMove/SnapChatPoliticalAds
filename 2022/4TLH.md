@@ -1,4 +1,7 @@
 ## 2022 - 4TLH 
+Spent: 4,874.00
+Impressions: 613,293
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ReachLocal|2,019.00 USD|4TLH|[0](https://www.snap.com/political-ads/asset/940f783eb099747954f210e8ae67ddf3095db57998e039f117394fbc2b395f1a?mediaType=mp4)|269,878||18-49|united states|"21700 Oxnard St #1600,Woodlands Hills,91367,US"||

@@ -1,4 +1,7 @@
 ## 2021 - World Vision Deutschland e.V. 
+Spent: 5,999.00
+Impressions: 512,095
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare GmbH|3,615.00 EUR|World Vision Deutschland e.V.|[0](https://www.snap.com/political-ads/asset/bc4a72d6207b1356d6c7fdd048581e8388db2bcd90253e40c7a5be0cceee1471?mediaType=mp4)|309,677||20+|germany|"Darmstaedter Landstrasse 112,Frankfurt,60598,DE"||

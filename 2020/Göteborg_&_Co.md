@@ -1,4 +1,7 @@
 ## 2020 - Göteborg & Co 
+Spent: 3,466.00
+Impressions: 182,911
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |PHD Sweden AB|438.00 SEK|Göteborg & Co|[0](https://www.snap.com/political-ads/asset/adffa8b06c09d61895536f0fc8a3f6e00c5cdee63a4e1a15929b0b7a9722537f?mediaType=jpg)|23,096||20-49|sweden|"Västgötagränd 2,Stockholm,10061,SE"||

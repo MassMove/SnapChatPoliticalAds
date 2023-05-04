@@ -1,4 +1,7 @@
 ## 2022 - PlanBørnefonden 
+Spent: 9,815.00
+Impressions: 275,696
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GroupM Search A/S|6,431.00 DKK|PlanBørnefonden|[0](https://www.snap.com/political-ads/asset/8a48b5a7bd9f41e1b0ad141d859182d7bfa1b5f09c18069358511d62e4f9c7dc?mediaType=mp4)|179,306||18+|denmark|"Holmbladsgade 133,Copenhagen S,2300,DK"||

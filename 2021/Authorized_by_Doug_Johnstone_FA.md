@@ -1,4 +1,7 @@
 ## 2021 - Authorized by Doug Johnstone FA 
+Spent: 175.00
+Impressions: 15,622
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Florio For Mayor|104.00 CAD|Authorized by Doug Johnstone FA|[0](https://www.snap.com/political-ads/asset/5e2841d8af9d0cafed02ffd67b3c5db65d030d22c065838ad0bd9dddb360f9e3?mediaType=jpeg)|9,061||18+|canada|"1405 Columbia Road,Castlegar,V1N 4M1,CA"|Florio Vassilakakis|

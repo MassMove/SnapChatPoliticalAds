@@ -1,4 +1,7 @@
 ## 2020 - Resources Legacy Fund 
+Spent: 85,420.00
+Impressions: 14,397,375
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|17,530.00 USD|Resources Legacy Fund|[0](https://www.snap.com/political-ads/asset/60b95c6dbad909ff1a241e1fe96b8106a10a9e2b31388ab2b6dead8e22b59a55?mediaType=png)|2,472,532||21+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

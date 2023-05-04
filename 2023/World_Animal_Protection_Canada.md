@@ -1,4 +1,7 @@
 ## 2023 - World Animal Protection Canada 
+Spent: 657.00
+Impressions: 70,520
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |World Animal Protection Canada|73.00 CAD|World Animal Protection Canada|[0](https://www.snap.com/political-ads/asset/c9a85822d15041e2ba227860a35a991e43e80cc2dc829057b1ecf725c08bfc85?mediaType=png)|10,338||18+|canada|"90 Eglinton Avenue East, Suite 960,Toronto,M4P 2Y3,CA"||

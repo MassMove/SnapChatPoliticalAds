@@ -1,4 +1,7 @@
 ## 2022 - Friends of Billy Jones 
+Spent: 2,025.00
+Impressions: 450,482
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veracity Media|1,834.00 USD|Friends of Billy Jones|[0](https://www.snap.com/political-ads/asset/459f5dd276f5c009be090526d2d2b3f137e5b3f4aae26b408b1a16d8009307dd?mediaType=mp4)|416,614|||united states|US|Billy Jones|

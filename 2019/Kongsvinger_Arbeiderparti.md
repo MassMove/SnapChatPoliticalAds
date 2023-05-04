@@ -1,4 +1,7 @@
 ## 2019 - Kongsvinger Arbeiderparti 
+Spent: 119.00
+Impressions: 35,051
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kongsvinger Arbeiderparti|39.00 EUR|Kongsvinger Arbeiderparti|[0](https://www.snap.com/political-ads/asset/24bfe68c7a805c9c859077e4edf9c6018e1665a8dd80745d3e503f23769738d1?mediaType=mp4)|12,409||17+|norway|"Prestegårdsvegen 7,Kongsvinger,2213,NO"||

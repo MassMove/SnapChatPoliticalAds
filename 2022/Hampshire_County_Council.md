@@ -1,4 +1,7 @@
 ## 2022 - Hampshire County Council 
+Spent: 1,908.00
+Impressions: 769,123
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hampshire County Council|400.00 GBP|Hampshire County Council|[0](https://www.snap.com/political-ads/asset/3fb13bb7f78879193d5c343a024ee890eb1b085d2e02b338f49c42246efdf107?mediaType=mp4)|251,034||16-21|united kingdom|GB||

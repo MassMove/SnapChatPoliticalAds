@@ -1,4 +1,7 @@
 ## 2020 - Elect Amanda Siggins 
+Spent: 79.00
+Impressions: 28,511
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NewWave Strategies|75.00 USD|Elect Amanda Siggins|[0](https://www.snap.com/political-ads/asset/b9199ba5eb06c7c426eea05cc87f51d183a29e4d97d9f19e5f81e981e4212134?mediaType=png)|26,589||18+|united states|US|Amanda Siggins|

@@ -1,4 +1,7 @@
 ## 2020 - Brian Chism for State Rep. 
+Spent: 575.00
+Impressions: 106,816
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Brian Chism for State Representative|281.00 USD|Brian Chism for State Rep.|[0](https://www.snap.com/political-ads/asset/3d93114c71bd9baf2a585a8bb5eca9f021bafa3535dc66cc94d7f19f9410b11d?mediaType=mp4)|48,111||17+|united states|US|Brian Chism for 27th State Representative|

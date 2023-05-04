@@ -1,4 +1,7 @@
 ## 2019 - Tammy Ward for City Council 
+Spent: 279.00
+Impressions: 97,040
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|200.00 USD|Tammy Ward for City Council|[0](https://www.snap.com/political-ads/asset/06ac7fae73cb34c2e27fc02ce0ed81f2f20ae83f41a833a81646797ff4401f49?mediaType=jpg)|71,230||18+|united states|"919 Central Ave,Auburn,68305,US"||

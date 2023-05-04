@@ -1,4 +1,7 @@
 ## 2020 - CTE Nicole Breadon for State Rep 
+Spent: 1,143.00
+Impressions: 188,154
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CTE Nicole Breadon for State Rep|299.00 USD|CTE Nicole Breadon for State Rep|[0](https://www.snap.com/political-ads/asset/e3a84c44376dedb50429e0726762315442215aaa96ea306a8153953a1deacbdb?mediaType=png)|47,078||18+|united states|US|Nicole Breadon|

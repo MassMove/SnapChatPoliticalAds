@@ -1,4 +1,7 @@
 ## 2020 - HCA 
+Spent: 49,927.00
+Impressions: 15,084,976
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Desautel Hege|2,542.00 USD|HCA|[0](https://www.snap.com/political-ads/asset/aeff22d6625a77e57a190c9ebbb44c74be91e310aaa629e51bffa1edbdbccf5b?mediaType=mp4)|1,270,054||18-24|united states|"315 W Riverside,Spokane,99201,US"||

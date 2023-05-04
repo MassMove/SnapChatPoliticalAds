@@ -1,4 +1,7 @@
 ## 2021 - March For Our Lives 
+Spent: 4,999.00
+Impressions: 1,927,873
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|3,513.00 USD|March For Our Lives|[0](https://www.snap.com/political-ads/asset/28569cf6d23552412410474bc5e7ffaab25c0d5bfba9024bdcf7601d01dc6a77?mediaType=jpg)|1,373,483||25-|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

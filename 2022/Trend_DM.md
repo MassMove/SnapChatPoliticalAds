@@ -1,4 +1,7 @@
 ## 2022 - Trend DM 
+Spent: 5,308.00
+Impressions: 1,211,511
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trend DM Kuwait|2,500.00 USD|Trend DM|[0](https://www.snap.com/political-ads/asset/a6ed6f2a051570be5540a7ea3f98b975f2e932c90a564cd768248e5bd7471b8a?mediaType=mp4)|396,827|FEMALE|20+|kuwait|KW|Trend DM|

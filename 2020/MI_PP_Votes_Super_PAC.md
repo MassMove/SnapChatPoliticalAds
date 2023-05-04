@@ -1,4 +1,7 @@
 ## 2020 - MI PP Votes Super PAC 
+Spent: 20,457.00
+Impressions: 1,586,332
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|8,392.00 USD|MI PP Votes Super PAC|[0](https://www.snap.com/political-ads/asset/97c92b1457950491dfd4f1dca461e231481c63f4931e3f4329e074aae48e8db9?mediaType=mp4)|745,936||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Bridget Mary McCormack and Elizabeth Welch|

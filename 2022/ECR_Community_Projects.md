@@ -1,4 +1,7 @@
 ## 2022 - ECR Community Projects 
+Spent: 7,498.00
+Impressions: 471,236
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Neta Collab LLC|3,858.00 USD|ECR Community Projects|[0](https://www.snap.com/political-ads/asset/8f172e06c66579f2f4737899dbb5f5dfa8d29f7d9760e68cbdbe7423ff4b17d8?mediaType=mp4)|226,017||18+|united states|US||

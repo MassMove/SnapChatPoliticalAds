@@ -1,4 +1,7 @@
 ## 2023 - Rivamo AG 
+Spent: 4,999.00
+Impressions: 1,405,408
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Httpool Online Marketing GmbH|3,871.00 EUR|Rivamo AG|[0](https://www.snap.com/political-ads/asset/e52233c5299d4784733ea1b7922a95db29d8aff0c086892ba4af08d5ce0960c7?mediaType=mp4)|1,129,890||18-35|germany|"Taborstraße 7/8,Vienna,1020,AT"||

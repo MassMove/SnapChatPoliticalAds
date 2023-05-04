@@ -1,4 +1,7 @@
 ## 2020 - State of Michigan 
+Spent: 17,615.00
+Impressions: 8,235,003
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Güd Marketing|4,300.00 USD|State of Michigan|[0](https://www.snap.com/political-ads/asset/aba47a66fd016085f5c6b691832600a364117741e73f2124fb31a1895279a449?mediaType=mp4)|2,227,370||18+|united states|"1223 Turner Ave., Suite 101,Lansing,48906,US"|2020 Census|

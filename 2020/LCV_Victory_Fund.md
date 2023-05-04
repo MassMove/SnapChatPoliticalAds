@@ -1,4 +1,7 @@
 ## 2020 - LCV Victory Fund 
+Spent: 11,626.00
+Impressions: 2,286,384
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|4,024.00 USD|LCV Victory Fund|[0](https://www.snap.com/political-ads/asset/90dd47f172e248aaaec888004619f7d05ea77195c31346841f16bf97bff73105?mediaType=jpg)|809,140||18+|united states|US|LCV Victory Fund|

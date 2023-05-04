@@ -1,4 +1,7 @@
 ## 2021 - Better Utah Institute 
+Spent: 590.00
+Impressions: 260,172
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Better Utah Institute|500.00 USD|Better Utah Institute|[0](https://www.snap.com/political-ads/asset/423f1d64d393540304317ce57de787950333c140a5ca8084c4556b2bd15d93ef?mediaType=mp4)|235,761||40-|united states|US|Civic Engagement Toolkit|

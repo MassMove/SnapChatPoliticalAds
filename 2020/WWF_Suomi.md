@@ -1,4 +1,7 @@
 ## 2020 - WWF Suomi 
+Spent: 1,590.00
+Impressions: 1,320,557
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marketing Clinic|770.00 EUR|WWF Suomi|[0](https://www.snap.com/political-ads/asset/8adc9f4e9b34682ed207b5a7c8a967dc19452d5734ed6bae663f41f674a4b673?mediaType=mp4)|662,637||18-|finland|"Tacenska cesta 26,Ljubljana,1210,SI"||

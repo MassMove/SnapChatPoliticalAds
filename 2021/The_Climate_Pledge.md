@@ -1,4 +1,7 @@
 ## 2021 - The Climate Pledge 
+Spent: 945,825.00
+Impressions: 184,599,180
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mediabrands France|26,156.00 EUR|The Climate Pledge|[0](https://www.snap.com/political-ads/asset/f0fd8da5f05d958691fd790fc9ffa7389815e0fb51bdbf2792d6a0d75dd58709?mediaType=mp4)|25,578,709||18+|france|"28/34 boulevard du Parc,Neuilly sur Seine,92521,FR"||

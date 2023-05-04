@@ -1,4 +1,7 @@
 ## 2019 - Moayyed AL-Shehab 
+Spent: 416.00
+Impressions: 238,579
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |moalshehab2019|276.00 USD|Moayyed AL-Shehab|[0](https://www.snap.com/political-ads/asset/eb482257f23e71e5e4360133329de98f332722998274c227773cccf0ed4ff80d?mediaType=png)|161,694||18+|kuwait|KW||

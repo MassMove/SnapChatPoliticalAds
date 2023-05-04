@@ -1,4 +1,7 @@
 ## 2022 - Victoria County Public Health 
+Spent: 94.00
+Impressions: 42,519
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Victoria County Public Health Department|37.00 USD|Victoria County Public Health|[0](https://www.snap.com/political-ads/asset/21336e2c7fbc285958d0e54b80df1b265c2cac557dac886aed2671becf497c3a?mediaType=jpg)|16,760||18+|united states|"2805 N Navarro,Victoria,77901,US"||

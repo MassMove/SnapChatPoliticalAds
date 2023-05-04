@@ -1,4 +1,7 @@
 ## 2019 - Conservation Colorado 
+Spent: 10,028.00
+Impressions: 2,954,571
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|4,214.00 USD|Conservation Colorado|[0](https://www.snap.com/political-ads/asset/0d73cdb476c11d429d864db69bdb8931b389374d9902deffe559da5f316d8156?mediaType=mp4)|1,052,669|FEMALE|18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

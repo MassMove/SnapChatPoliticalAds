@@ -1,4 +1,7 @@
 ## 2019 - Print Mine 
+Spent: 114.00
+Impressions: 14,711
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Stratos Developments Ltd.|76.00 CAD|Print Mine|[0](https://www.snap.com/political-ads/asset/cc066fdfa240785968c30b6adf5ad77179e9af368d935c953a9f6d7ccde31e31?mediaType=mp4)|9,788|FEMALE|30+|united states|CA||

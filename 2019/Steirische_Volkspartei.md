@@ -1,4 +1,7 @@
 ## 2019 - Steirische Volkspartei 
+Spent: 2,194.00
+Impressions: 2,161,585
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SG Management und Beteiligungs GmbH|1,069.00 EUR|Steirische Volkspartei|[0](https://www.snap.com/political-ads/asset/de2d4df77d34e38ac3b44760bc6c1d3c058e3b9e30c507b1717e123f37b54592?mediaType=mp4)|1,109,928||20-|austria|AT|Hermann Schuetzenhoefer|

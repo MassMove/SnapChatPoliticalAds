@@ -1,4 +1,7 @@
 ## 2019 - Bhartiya Janta Party 
+Spent: 5,881.00
+Impressions: 5,194,816
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Smile Internet Technologies Private Limited|812.00 USD|Bhartiya Janta Party|[0](https://www.snap.com/political-ads/asset/94ceae82117ab73af901a7ce1c3f84b3b7be60f71865ec74700a4fc253c5c3cb?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/e8055f15c9d70f899a6872abf1824544e7f9ee0f452154e7c088bb4778bd4e6f?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/623ec7cb9f2685715f77505546e2c1d90afd62107f7380326a31b1b99111b4b5?mediaType=mp4)|1,919,098||18-23|india|"Plot No. 241, Ground Floor, Udyog Vihar, Phase 1,Gurugram,122001,IN"||

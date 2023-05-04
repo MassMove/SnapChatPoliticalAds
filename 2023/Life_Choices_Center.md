@@ -1,4 +1,7 @@
 ## 2023 - Life Choices Center 
+Spent: 1,047.00
+Impressions: 529,884
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ad Elements|420.00 USD|Life Choices Center|[0](https://www.snap.com/political-ads/asset/f848a6ba636f6b6ec33ef5c34124599f9df43e0c4a0478e0847858fb124db63c?mediaType=mp4)|192,987|FEMALE|33-|united states|US||

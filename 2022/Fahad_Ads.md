@@ -1,4 +1,7 @@
 ## 2022 - Fahad Ads 
+Spent: 12.00
+Impressions: 5,762
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fahadcampign|7.00 USD|Fahad Ads|[0](https://www.snap.com/political-ads/asset/66ef20eb5778659478c9cc3cc7f5ecb14768f018351d77a354e7a7d172300fad?mediaType=jpeg)|3,286|||kuwait|KW|Fahad Abushaibah|

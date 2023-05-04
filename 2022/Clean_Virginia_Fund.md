@@ -1,4 +1,7 @@
 ## 2022 - Clean Virginia Fund 
+Spent: 19.00
+Impressions: 2,758
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |COMPETE Digital LLC|9.00 USD|Clean Virginia Fund|[0](https://www.snap.com/political-ads/asset/32bb8d1a2cce8bff60b2bbc29dd515f069cc632a1c00d73411e059ea18d88fab?mediaType=mp4)|1,085||18+|united states|"1317 Potomac Ave SE,Washington,20003,US"||

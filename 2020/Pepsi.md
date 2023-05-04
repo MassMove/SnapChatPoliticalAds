@@ -1,4 +1,7 @@
 ## 2020 - Pepsi 
+Spent: 112,361.00
+Impressions: 33,061,611
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|27,038.00 USD|Pepsi|[0](https://www.snap.com/political-ads/asset/f39a4454ff9f799a07e1cd2d22a4620955207506b62e5d9d50558b63cd6c107e?mediaType=mp4)|13,020,951||18+|united states|"195 Broadway, 5th Floor,New York,10007,US"||

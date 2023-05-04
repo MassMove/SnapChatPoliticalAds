@@ -1,4 +1,7 @@
 ## 2022 - Ben & Jerry's 
+Spent: 322,261.00
+Impressions: 27,792,536
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - 360i|35,537.00 USD|Ben & Jerry's|[0](https://www.snap.com/political-ads/asset/b7edc22ce9071dd56c5c8798303df0e858a0b181c902005bfbe31d902dd2b713?mediaType=mp4)|3,029,093||18-34|united states|"32 Avenue of the Americas,New York,10013,US"||

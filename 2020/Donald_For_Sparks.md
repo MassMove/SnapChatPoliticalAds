@@ -1,4 +1,7 @@
 ## 2020 - Donald For Sparks 
+Spent: 970.00
+Impressions: 337,768
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Donald For Sparks|200.00 USD|Donald For Sparks|[0](https://www.snap.com/political-ads/asset/4660fed3a8679038c4661fc89c5b47fcec9b5157cf3cb0d1621e3bf91e2e6416?mediaType=png)|100,163||18+|united states|"926 4th Street,Sparks,89431,US"||

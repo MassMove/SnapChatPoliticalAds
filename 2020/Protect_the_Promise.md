@@ -1,4 +1,7 @@
 ## 2020 - Protect the Promise 
+Spent: 4,071.00
+Impressions: 704,056
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LoudDoor  LLC|1,826.00 USD|Protect the Promise|[0](https://www.snap.com/political-ads/asset/30cc49c0132df8c3eceb5148d26728f11bb438f0fff42299cfbcb7b424af3982?mediaType=jpeg)|311,455||35+|united states|"1 MONCKTON BLVD,Columbia,29206,US"||

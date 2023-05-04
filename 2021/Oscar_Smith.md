@@ -1,4 +1,7 @@
 ## 2021 - Oscar Smith 
+Spent: 143.00
+Impressions: 43,847
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Oscar Smith|87.00 EUR|Oscar Smith|[0](https://www.snap.com/political-ads/asset/f2c575eebb6a0cc65834137b4a7ba2b1f7dd110f124ad7553cdf7a0947458fae?mediaType=jpeg)|31,203||18-29|finland|FI|Oscar Smith|

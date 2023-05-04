@@ -1,4 +1,7 @@
 ## 2020 - John Check 
+Spent: 327.00
+Impressions: 104,743
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unified/IHM Local|135.00 USD|John Check|[0](https://www.snap.com/political-ads/asset/c0ba3a8f0ca8819993a6c5891f47e59c4e9a69fc0f1924c03a60bce592fb8b15?mediaType=jpg)|42,410||18+|united states|"180 madison ave,new york ,10016,US"|John Check|

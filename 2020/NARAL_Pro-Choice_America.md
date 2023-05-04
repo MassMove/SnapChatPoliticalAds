@@ -1,4 +1,7 @@
 ## 2020 - NARAL Pro-Choice America 
+Spent: 1,057.00
+Impressions: 172,506
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|85.00 USD|NARAL Pro-Choice America|[0](https://www.snap.com/political-ads/asset/b622a06e0aadc3d4b67083ab3a6bece703f209f409366b7c0b5521e0d188e349?mediaType=mp4)|18,528||18+|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

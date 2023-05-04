@@ -1,4 +1,7 @@
 ## 2022 - Spokane County Young Democrats 
+Spent: 3,991.00
+Impressions: 1,141,592
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Spokane County Young Democrats|642.00 USD|Spokane County Young Democrats|[0](https://www.snap.com/political-ads/asset/444bdef5f2dfb425276603628980c1a96d767317e31d6c0318025c7df958b175?mediaType=mp4)|183,283||18+|united states|US|Supporting youth turnout in Spokane County|

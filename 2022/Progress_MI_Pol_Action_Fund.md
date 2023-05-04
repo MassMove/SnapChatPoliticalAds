@@ -1,4 +1,7 @@
 ## 2022 - Progress MI Pol Action Fund 
+Spent: 195,915.00
+Impressions: 11,748,815
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|8,750.00 USD|Progress MI Pol Action Fund|[0](https://www.snap.com/political-ads/asset/c1ae6fa9556b58560ec3c1170c7b4d79b59b501fb96ba8c29cc85622a676e77d?mediaType=mp4)|784,395||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Progress Michigan PAF|

@@ -1,4 +1,7 @@
 ## 2020 - Sanford Bishop for Congress 
+Spent: 2,889.00
+Impressions: 871,286
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|1,189.00 USD|Sanford Bishop for Congress|[0](https://www.snap.com/political-ads/asset/3ef9e36e247dd486aaa0a2f3336750ed6525f22b65b6d96e2c7799a87dcd21e7?mediaType=mp4)|358,310||18+|united states|"919 Central Ave,Auburn,68305,US"|Sanford Bishop|

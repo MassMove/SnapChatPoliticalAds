@@ -1,4 +1,7 @@
 ## 2019 - Syöpäjärjestöt 
+Spent: 8,089.00
+Impressions: 6,105,497
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ThreeFiveEight Oy|1,158.00 EUR|Syöpäjärjestöt|[0](https://www.snap.com/political-ads/asset/2048a4005fccca393d81f5eafb5c16256b846d85ad1561dff6af1f0b68d6ca62?mediaType=mp4)|939,652||15-20|finland|"Pursimiehenkatu 26 c, 8th floor,Helsinki,00150,FI"||

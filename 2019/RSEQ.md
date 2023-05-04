@@ -1,4 +1,7 @@
 ## 2019 - RSEQ 
+Spent: 3,499.00
+Impressions: 1,772,221
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Radiance Media|874.00 CAD|RSEQ|[0](https://www.snap.com/political-ads/asset/a5f368a32e25ae59a7ccf8f78fc76678f03c15e11876c9b61a910c72dc223dbc?mediaType=mp4)|460,992||16-|canada|"1360 Ropery, Suite 101,Montreal,H3K2X3,CA"||

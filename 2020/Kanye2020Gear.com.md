@@ -1,4 +1,7 @@
 ## 2020 - Kanye2020Gear.com 
+Spent: 780.00
+Impressions: 577,793
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kanye2020Gear|551.00 USD|Kanye2020Gear.com|[0](https://www.snap.com/political-ads/asset/293bf8be88b66f6ea171a94e1ded9b99d02829f2a827369b2f2db9c8d497ffef?mediaType=mp4)|403,121||16-24|united states|"73 Windsong Ct,EAST AMHERST,14051,US"|Kanye West|

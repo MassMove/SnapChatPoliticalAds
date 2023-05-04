@@ -1,4 +1,7 @@
 ## 2019 - Owen Thompson 
+Spent: 111.00
+Impressions: 19,396
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Midlothian SNP|60.00 GBP|Owen Thompson|[0](https://www.snap.com/political-ads/asset/d14ba5811e74c25798f595df13e968d6a672482f0f2a57a1526efeaaa2516d78?mediaType=mp4)|8,804||18-25|united kingdom|GB|Vote Owen Thompson|

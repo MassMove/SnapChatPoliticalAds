@@ -1,4 +1,7 @@
 ## 2020 - paid for by Abdulaziz Al-Saqabi 
+Spent: 1,632.00
+Impressions: 893,583
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |شركه بيتا ادز|672.00 USD|paid for by Abdulaziz Al-Saqabi|[0](https://www.snap.com/political-ads/asset/f105ba3b1b223e626310d29e46a935b63518295d99882b8a9e0c75040a451fdc?mediaType=png)|373,090||21+|kuwait|"7 Khalid Ibn Al Waleed St , Kuwait City - Sawaber Tower 6 , Floor 6, Office No.13,Sharq,15300,KW"|paid for by Abdulaziz Alsaqabi|

@@ -1,4 +1,7 @@
 ## 2020 - APIA - Michigan 
+Spent: 837.00
+Impressions: 146,062
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|218.00 USD|APIA - Michigan|[0](https://www.snap.com/political-ads/asset/42315a0f6052d0d24a209b44940f4024911410b89eaae704090c9490a0b650fb?mediaType=mp4)|52,090|||united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Asian Pacific Islander American Vote|

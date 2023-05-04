@@ -1,4 +1,7 @@
 ## 2020 - innocent Deutschland GmbH 
+Spent: 33,854.00
+Impressions: 21,799,751
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |esome Advertising Technologies GmbH|23,166.00 EUR|innocent Deutschland GmbH|[0](https://www.snap.com/political-ads/asset/cff8cbf1c228d01722c9f3ffa10b44949dd6a1b9380ecf7ae579b3c4c51f1671?mediaType=mp4)|14,337,976||18+|germany|"Hohe Bleichen 11,Hamburg,20354,DE"||

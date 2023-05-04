@@ -1,4 +1,7 @@
 ## 2020 - Instituto Power 
+Spent: 4,306.00
+Impressions: 1,225,052
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Aqui Se Vota|744.00 USD|Instituto Power|[0](https://www.snap.com/political-ads/asset/fff46ef931205ef4daf29abdbe1af0f50a83ad830187994caa44774623b00ec5?mediaType=MOV)|365,277|||united states|US|GOTV|

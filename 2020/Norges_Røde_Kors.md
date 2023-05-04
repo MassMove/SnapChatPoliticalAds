@@ -1,4 +1,7 @@
 ## 2020 - Norges Røde Kors 
+Spent: 16,499.00
+Impressions: 678,236
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|12,874.00 NOK|Norges Røde Kors|[0](https://www.snap.com/political-ads/asset/97584eedebe03d860291fa0dd39aa0767fe91b207ff854a2e8969ebd3f7b24bb?mediaType=mp4)|523,062||18+|norway|"Kongens gate 6,Oslo,0153,NO"||

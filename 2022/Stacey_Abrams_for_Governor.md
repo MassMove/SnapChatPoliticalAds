@@ -1,4 +1,7 @@
 ## 2022 - Stacey Abrams for Governor 
+Spent: 103,503.00
+Impressions: 9,518,961
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|4,860.00 USD|Stacey Abrams for Governor|[0](https://www.snap.com/political-ads/asset/6e960dfcefbf547be71b4e7ce007be8edf480052b4009581c279460d3bada814?mediaType=mp4)|951,196||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|Stacey Abrams|

@@ -1,4 +1,7 @@
 ## 2020 - Arizona Center For Empowerment 
+Spent: 698.00
+Impressions: 231,166
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Colibri Collective|214.00 USD|Arizona Center For Empowerment|[0](https://www.snap.com/political-ads/asset/fa90dd5271747866674d42649a426b51e67091be59fa8091cf7e8282db6bcd4c?mediaType=mp4)|92,628||18-49|united states|"1425 N 1st St #100,Phoenix,85004,US"||

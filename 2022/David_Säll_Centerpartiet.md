@@ -1,4 +1,7 @@
 ## 2022 - David Säll Centerpartiet 
+Spent: 104.00
+Impressions: 38,883
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |David Säll Centerpartiet|9.00 EUR|David Säll Centerpartiet|[0](https://www.snap.com/political-ads/asset/a24a6faa51d45264529992e566562abed6f151a2844e0d95c24f76a81023321d?mediaType=mp4)|4,472||17-30|sweden|SE||

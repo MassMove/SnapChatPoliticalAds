@@ -1,4 +1,7 @@
 ## 2022 - Maggie for New Hampshire 
+Spent: 95,391.00
+Impressions: 4,302,196
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|3,176.00 USD|Maggie for New Hampshire|[0](https://www.snap.com/political-ads/asset/0a22d53c34ecd2e3903c199373aa2eb2e73c5d4cafe142e146c349cc7a5a2399?mediaType=mp4)|113,782||18+|united states|US|Maggie Hassan|

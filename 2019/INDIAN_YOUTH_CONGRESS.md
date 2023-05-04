@@ -1,4 +1,7 @@
 ## 2019 - INDIAN YOUTH CONGRESS 
+Spent: 1,337.00
+Impressions: 1,228,319
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Smile Internet Technologies Private Limited|433.00 USD|INDIAN YOUTH CONGRESS|[0](https://www.snap.com/political-ads/asset/8269a24d5571b76b89f79827ecad4ad55d11af5ea8a27d5142bd473dd12bae1d?mediaType=mp4)|388,122||18+|india|"Plot No. 241, Ground Floor, Udyog Vihar, Phase 1,Gurugram,122001,IN"||

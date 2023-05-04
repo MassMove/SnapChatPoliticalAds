@@ -1,4 +1,7 @@
 ## 2022 - ACLU of Michigan 
+Spent: 28,305.00
+Impressions: 1,394,871
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|10,606.00 USD|ACLU of Michigan|[0](https://www.snap.com/political-ads/asset/0cde6e672b9a153323aaa3920f06249510ec91d9c3371a8278a182c7a1756418?mediaType=mp4)|496,659|FEMALE|18-40|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|ACLU of Michigan|

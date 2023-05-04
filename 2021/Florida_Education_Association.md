@@ -1,4 +1,7 @@
 ## 2021 - Florida Education Association 
+Spent: 2,010.00
+Impressions: 173,535
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|764.00 USD|Florida Education Association|[0](https://www.snap.com/political-ads/asset/b2b13f78e0bbc9c0c48b1ab79e8369464ee8c78ca32d548ee2224dcfdd8a5470?mediaType=mp4)|67,150||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|FEA 2021 State Advocacy|

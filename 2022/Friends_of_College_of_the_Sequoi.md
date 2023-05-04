@@ -1,4 +1,7 @@
 ## 2022 - Friends of College of the Sequoi 
+Spent: 1,238.00
+Impressions: 393,393
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unified/IHM Local|352.00 USD|Friends of College of the Sequoi|[0](https://www.snap.com/political-ads/asset/64b98f45b8f6c35a8e5b071f52ef06b2485c38a07c4bb28f4dc8f78b549a6eb9?mediaType=mp4)|111,853||18+|united states|"180 madison ave,new york ,10016,US"|Friends of College of the Sequoias|

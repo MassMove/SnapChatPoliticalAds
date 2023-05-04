@@ -1,4 +1,7 @@
 ## 2023 - Priorities USA 
+Spent: 9,958.00
+Impressions: 499,568
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Priorities USA Action|3,319.00 USD|Priorities USA|[0](https://www.snap.com/political-ads/asset/0ac2ce96ac90ff84ba949a820c4b30ac4979165d3fbe500be25a7735dc673d18?mediaType=mp4)|168,181||18+|united states|US||

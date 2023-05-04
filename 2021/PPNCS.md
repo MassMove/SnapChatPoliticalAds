@@ -1,4 +1,7 @@
 ## 2021 - PPNCS 
+Spent: 6,787.00
+Impressions: 1,264,326
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Happy Medium|811.00 USD|PPNCS|[0](https://www.snap.com/political-ads/asset/8bf22f1d2a1ba20c4fcc1abf7eda657f775b711b1e2188ba6ca1b285a7194193?mediaType=jpg)|154,818||18-24|united states|"104 SW 4th St,, Des Moines,50309,US"||

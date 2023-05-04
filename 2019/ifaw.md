@@ -1,4 +1,7 @@
 ## 2019 - ifaw 
+Spent: 991.00
+Impressions: 740,884
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |International Fund for Animal Welfare|97.00 EUR|ifaw|[0](https://www.snap.com/political-ads/asset/6275b4f9f9ef98c73258a40958e5e9d3223d2c05f25381f891731763a3efa63c?mediaType=png)|72,992||18+|netherlands|"290 Summer St.,Yarmouth Port,02675,US"||

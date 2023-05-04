@@ -1,4 +1,7 @@
 ## 2020 - Trumplican 
+Spent: 6.00
+Impressions: 7,729
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fourth World Problems Co.|2.00 USD|Trumplican|[0](https://www.snap.com/political-ads/asset/6a6bd551293fcb125bae87603dae8dabd6e48c4b898813166af90349bf91e0e8?mediaType=PNG)|1,218|MALE|30+|united states|US||

@@ -1,4 +1,7 @@
 ## 2020 - GA Budget & Policy Institute 
+Spent: 1,621.00
+Impressions: 293,704
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|107.00 USD|GA Budget & Policy Institute|[0](https://www.snap.com/political-ads/asset/5eca4ae6e3a6cb3c8fe0454c7cd18d2fa2a70786d991dcb55f362ec907ce35db?mediaType=png)|23,060|FEMALE|18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Georgia Budget and Policy Institute|

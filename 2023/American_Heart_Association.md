@@ -1,4 +1,7 @@
 ## 2023 - American Heart Association 
+Spent: 2,989.00
+Impressions: 249,829
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|549.00 USD|American Heart Association|[0](https://www.snap.com/political-ads/asset/144ec8d57915041405ca5f85a438490f2a944f058c4aab2b87534869219aaf51?mediaType=jpeg)|36,085||18-35|united states|"PO Box 128,Mill Valley,94942,US"||

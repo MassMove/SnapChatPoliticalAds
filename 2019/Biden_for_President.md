@@ -1,4 +1,7 @@
 ## 2019 - Biden for President 
+Spent: 1,675.00
+Impressions: 549,290
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Biden for President|500.00 USD|Biden for President|[0](https://www.snap.com/political-ads/asset/042b572433a0a7cd3556c906a777f244911522c486b74d32487dd293e311f902?mediaType=mp4)|267,396|||united states|"1500 Market St #19,Philadelphia,19102,US"||

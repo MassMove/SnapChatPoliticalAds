@@ -1,4 +1,7 @@
 ## 2020 - DR. CAMERON WEBB FOR CONGRESS 
+Spent: 767.00
+Impressions: 98,796
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|485.00 USD|DR. CAMERON WEBB FOR CONGRESS|[0](https://www.snap.com/political-ads/asset/c02781223189b2f03d053ec5dabba99433b38a651e023409d0c210094198f14c?mediaType=mp4)|60,547||18+|united states|"1324 Spaight St,Madison,53703,US"|Cameron Webb for Congress VA5|

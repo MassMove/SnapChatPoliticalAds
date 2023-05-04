@@ -1,4 +1,7 @@
 ## 2022 - Kristina Keneally 
+Spent: 1,697.00
+Impressions: 382,684
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Senator Kristina Keneally|600.00 AUD|Kristina Keneally|[0](https://www.snap.com/political-ads/asset/4e401e7320c234bf17bac2f3d92bf76c2b7cd7fd14adbc104ac7cdfbc62b1904?mediaType=png)|150,609||20-40|australia|AU|Kristina Keneally|

@@ -1,4 +1,7 @@
 ## 2022 - Josh Harder For Congress 
+Spent: 60,315.00
+Impressions: 3,325,425
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,438.00 USD|Josh Harder For Congress|[0](https://www.snap.com/political-ads/asset/14e8d4e9753717dad2a0d73b0b810ffbbc9d828e31f2e1492b1a796e1d24f2f3?mediaType=mp4)|151,075||18+|united states|US|Josh Harder For Congress|

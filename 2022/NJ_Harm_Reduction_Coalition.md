@@ -1,4 +1,7 @@
 ## 2022 - NJ Harm Reduction Coalition 
+Spent: 1,199.00
+Impressions: 141,844
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|378.00 USD|NJ Harm Reduction Coalition|[0](https://www.snap.com/political-ads/asset/82a5afbca3a89e53beb8d881503350f2160ae166485d3ce3bf3e91483fb72040?mediaType=png)|65,073||18+|united states|"One, World Trade Center ,new york,10007,US"|NJ Harm Reduction Coalition|

@@ -1,4 +1,7 @@
 ## 2019 - SPÖ 
+Spent: 5,254.00
+Impressions: 4,213,504
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Xaxis Light Reaction Austria|971.00 EUR|SPÖ|[0](https://www.snap.com/political-ads/asset/7ef59451a1eaec57f21779043e7bbf58dfc22db92641f6c06ac92bde50f65e2e?mediaType=mp4)|783,941||16+|austria|"Vordere Zollamtsstraße 13/7,Vienna,1030,AT"||

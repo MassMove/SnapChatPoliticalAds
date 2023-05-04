@@ -1,4 +1,7 @@
 ## 2022 - WWF Suomi 
+Spent: 1,707.00
+Impressions: 2,252,034
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marketing Clinic|480.00 EUR|WWF Suomi|[0](https://www.snap.com/political-ads/asset/8f73286bbd7c043bca152066e45019fb4b4471e2d7563ace8834b9ffab471164?mediaType=mp4)|644,635||18-|finland|"Tacenska cesta 26,Ljubljana,1210,SI"||

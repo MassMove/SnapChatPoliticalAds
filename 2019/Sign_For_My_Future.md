@@ -1,4 +1,7 @@
 ## 2019 - Sign For My Future 
+Spent: 10,782.00
+Impressions: 7,759,569
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ogilvy Group SA-NV|5,399.00 EUR|Sign For My Future|[0](https://www.snap.com/political-ads/asset/e42f86f47e14116377360f79d1db37270017f36c7e70c1dfc7072b6235f648a7?mediaType=mov)|4,273,887||24-|belgium|"Square Victoria Regina 1 ,Brussels,1210,BE"||

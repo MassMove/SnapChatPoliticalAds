@@ -1,4 +1,7 @@
 ## 2018 - Amnesty International NL 
+Spent: 2,525.00
+Impressions: 2,055,964
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jalt|705.00 EUR|Amnesty International NL|[0](https://www.snap.com/political-ads/asset/90469d570baefa6ff54524a9500cada2de264c19ce69c509ae0d308f526b1a5b?mediaType=mp4)|665,106||18+|netherlands|"Krom boomssloot 22-1,Amsterdam,1011GW,NL"||

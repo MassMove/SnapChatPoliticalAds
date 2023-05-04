@@ -1,4 +1,7 @@
 ## 2022 - Unilever 
+Spent: 79,997.00
+Impressions: 3,974,865
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - Mindshare|29,256.00 USD|Unilever|[0](https://www.snap.com/political-ads/asset/85b2f2f3ca6ca8837d9ffcc567cef1452eb3813a4aae9f6bc7b35c38668f1e4f?mediaType=mp4)|1,557,468|FEMALE|18-49|united states|"PO Box 4614 GCS,New York,10163,US"||

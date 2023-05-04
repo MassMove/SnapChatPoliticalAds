@@ -1,4 +1,7 @@
 ## 2023 - Unilever 
+Spent: 102,070.00
+Impressions: 15,978,007
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - Mindshare|5,109.00 USD|Unilever|[0](https://www.snap.com/political-ads/asset/3aca9bddb98fc76823cb561e96f4c79bc799c6491146b950eb64a1e6e153e130?mediaType=mp4)|1,589,505|FEMALE|35+|united states|"PO Box 4614 GCS,New York,10163,US"||

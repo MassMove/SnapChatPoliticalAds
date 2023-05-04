@@ -1,4 +1,7 @@
 ## 2020 - Planned Parenthood Votes 
+Spent: 107,076.00
+Impressions: 17,418,052
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|12,425.00 USD|Planned Parenthood Votes|[0](https://www.snap.com/political-ads/asset/5cca84437b759d5991b75a8b883d4b6d92449efc72227f32610f03a828937bc7?mediaType=mp4)|2,266,424||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

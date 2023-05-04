@@ -1,4 +1,7 @@
 ## 2020 - Electoral Commission of QLD 
+Spent: 27,994.00
+Impressions: 5,476,099
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MEDIACOM AUSTRALIA PTY LIMITED|2,341.00 AUD|Electoral Commission of QLD|[0](https://www.snap.com/political-ads/asset/d5d9156cdfe2511d493945666f6c00d9a5e578d9773b200010a15c7d84efa2a7?mediaType=png)|651,087||17-24|australia|"Level 17, 65 Berry Street, North Sydney, NSW 2060 Australia,North Sydney,2060,AU"||

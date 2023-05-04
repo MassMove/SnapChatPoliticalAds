@@ -1,4 +1,7 @@
 ## 2020 - everythingblue.store 
+Spent: 2,684.00
+Impressions: 898,986
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |everythingblue.store|458.00 USD|everythingblue.store|[0](https://www.snap.com/political-ads/asset/a5be37764030b6bff54339a35932c9a3ade56b3e10e9e4dfa3fae291c61fe9cd?mediaType=mp4)|169,590||18-34|united states|US||

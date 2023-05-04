@@ -1,4 +1,7 @@
 ## 2023 - Satya for Madison 
+Spent: 834.00
+Impressions: 66,062
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|145.00 USD|Satya for Madison|[0](https://www.snap.com/political-ads/asset/97052a6d11f152dff2219d43839b1f7f45e351e91ce5ffc525be6d414f40c385?mediaType=mp4)|12,280||18+|united states|"1324 Spaight St,Madison,53703,US"|Satya Rhodes Conway|

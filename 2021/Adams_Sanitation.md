@@ -1,4 +1,7 @@
 ## 2021 - Adams Sanitation 
+Spent: 266.00
+Impressions: 17,020
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Adams Sanitation|191.00 USD|Adams Sanitation|[0](https://www.snap.com/political-ads/asset/64c39c359e3c8f1444e014897794fd68d42745b22a930c28d98cc11cd3bfab9e?mediaType=mp4)|12,735||30+|united states|US|Commissioners Trash Vote|

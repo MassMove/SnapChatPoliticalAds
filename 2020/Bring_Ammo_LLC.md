@@ -1,4 +1,7 @@
 ## 2020 - Bring Ammo LLC 
+Spent: 1,638.00
+Impressions: 648,993
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bring Ammo LLC|826.00 USD|Bring Ammo LLC|[0](https://www.snap.com/political-ads/asset/e79ba9a854274a6e513090f0d423141ce22ed1f0bc7d59cd7b996fba51d5fe6a?mediaType=jpg)|344,712||35+|united states|"3245 Peachtree Parkway, Suite D 135,Suwanee,30024,US"||

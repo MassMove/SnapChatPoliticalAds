@@ -1,4 +1,7 @@
 ## 2020 - Resistbot Action Fund 
+Spent: 1,178.00
+Impressions: 536,024
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Resistbot Action Fund|177.00 USD|Resistbot Action Fund|[0](https://www.snap.com/political-ads/asset/3216e6c411eb711d03101001c9c111b3a3b3d8e5b612e3298eaed69c61de958d?mediaType=jpeg)|121,389||18+|united states|US|Count Every Vote|

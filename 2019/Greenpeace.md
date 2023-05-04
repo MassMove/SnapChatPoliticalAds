@@ -1,4 +1,7 @@
 ## 2019 - Greenpeace 
+Spent: 5,970.00
+Impressions: 5,423,590
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jalt|2,139.00 EUR|Greenpeace|[0](https://www.snap.com/political-ads/asset/58437035786329005801039e375f43e0104cafd76b4dfd141a980f8a7bf7f4c6?mediaType=mp4)|1,929,656||18+|netherlands|"Krom boomssloot 22-1,Amsterdam,1011GW,NL"||

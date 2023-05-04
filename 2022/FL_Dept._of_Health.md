@@ -1,4 +1,7 @@
 ## 2022 - FL Dept. of Health 
+Spent: 29,918.00
+Impressions: 5,347,844
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|14,489.00 USD|FL Dept. of Health|[0](https://www.snap.com/political-ads/asset/a71798afecfc94ab6a575ae9bc26855923fa9ed4de0aa8943b29a9c0d52f506f?mediaType=mp4)|4,419,431||24-|united states|"225 N Michigan Avenue Suite 820,,,Chicago,60601,US"||

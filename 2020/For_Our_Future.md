@@ -1,4 +1,7 @@
 ## 2020 - For Our Future 
+Spent: 6,755.00
+Impressions: 1,251,086
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |For Our Future Michigan|1,977.00 USD|For Our Future|[0](https://www.snap.com/political-ads/asset/591f0c3a9210952b4b04ef41af895935b51b1b826e5a69ae0587ec153c7ebd86?mediaType=mp4)|265,522|||united states|"435 R St NW,Apt 102 ,20001,US"|GOTV|

@@ -1,4 +1,7 @@
 ## 2022 - WISCONSIN CONSERVATION VOTERS 
+Spent: 26,398.00
+Impressions: 4,093,061
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MVAR Media|11,604.00 USD|WISCONSIN CONSERVATION VOTERS|[0](https://www.snap.com/political-ads/asset/161c661729107c9ece9bf0a6a4009e047c1c11aa51c9eab8a72b8064f71b1ff9?mediaType=mp4)|1,608,943||18+|united states|"1421 Prince St Suite 320,Alexandria,22314,US"||

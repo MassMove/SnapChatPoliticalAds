@@ -1,4 +1,7 @@
 ## 2018 - Vera Institute of Justice 
+Spent: 992.00
+Impressions: 148,163
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vera Institute of Justice|651.00 USD|Vera Institute of Justice|[0](https://www.snap.com/political-ads/asset/61550213dcd9c4f6c7c3128f5988ad161a8170252ac5a1cdd84e107654923214?mediaType=png)|91,553||22+|united states|US||

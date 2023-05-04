@@ -1,4 +1,7 @@
 ## 2020 - Committee to Elect Dan Forest 
+Spent: 21,319.00
+Impressions: 8,691,808
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Committee to Elect Dan Forest|5,000.00 USD|Committee to Elect Dan Forest|[0](https://www.snap.com/political-ads/asset/fb8223b31164946f99457d43c445c4b3d21b9cf8f77556d9a01dcef9a46a5036?mediaType=mp4)|2,423,048||21-35|united states|US||

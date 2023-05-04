@@ -1,4 +1,7 @@
 ## 2020 - Gemeente Rotterdam 
+Spent: 2,851.00
+Impressions: 2,547,662
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Stroom Mediacommunicatie|750.00 EUR|Gemeente Rotterdam|[0](https://www.snap.com/political-ads/asset/b1a8925648841db2d43bcd2214b3ec2974a23914c6a8d8f1bd01dd75a1f50500?mediaType=mp4)|938,004|FEMALE|14-21|netherlands|"Vasteland 40,Rotterdam,3011 BM,NL"||

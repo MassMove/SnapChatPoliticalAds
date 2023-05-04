@@ -1,4 +1,7 @@
 ## 2020 - Ryan For Arizona 
+Spent: 355.00
+Impressions: 148,387
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ryan For Arizona|190.00 USD|Ryan For Arizona|[0](https://www.snap.com/political-ads/asset/05ec31c73378e481dbbff187e2cf8d4e5e838e1c2be918d3fdfdb4b6584f7d44?mediaType=jpeg)|69,989||18+|united states|US|Ryan Starzyk|

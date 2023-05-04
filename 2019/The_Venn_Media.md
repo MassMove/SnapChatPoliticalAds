@@ -1,4 +1,7 @@
 ## 2019 - The Venn Media 
+Spent: 2,170.00
+Impressions: 1,137,375
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Venn Media|366.00 USD|The Venn Media|[0](https://www.snap.com/political-ads/asset/752aad698b9817f2a80487ca92cff1a7667aa455cb36f963e8166a6aa76c3990?mediaType=png)|211,557||17-25|united states|US||

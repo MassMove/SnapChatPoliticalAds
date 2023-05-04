@@ -1,4 +1,7 @@
 ## 2021 - DAGA 
+Spent: 2,045.00
+Impressions: 141,239
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|856.00 USD|DAGA|[0](https://www.snap.com/political-ads/asset/ce3b0f1af5a9dbf2bfadd5a58d6dec0ab75089c377bcb6dc199c858797806e5c?mediaType=mp4)|51,609||18+|united states|"PO Box 128,Mill Valley,94942,US"||

@@ -1,4 +1,7 @@
 ## 2018 - OpenPoll 
+Spent: 2,723.00
+Impressions: 768,749
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpenPoll Inc|300.00 USD|OpenPoll|[0](https://www.snap.com/political-ads/asset/eb9d0d17ad417bef52701ec64301bfb3b741c9aab040dfc2951664037e3793a8?mediaType=mp4)|107,136||17-29|united states|US||

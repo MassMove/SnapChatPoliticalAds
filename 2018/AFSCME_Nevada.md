@@ -1,4 +1,7 @@
 ## 2018 - AFSCME Nevada 
+Spent: 4,610.00
+Impressions: 761,408
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,822.00 USD|AFSCME Nevada|[0](https://www.snap.com/political-ads/asset/e884ee7886fea1190f3324cbac2e20d27862623ee7be0a1b4a0402f7551599e3?mediaType=jpg)|397,479||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2020 - TEAM GRAHAM, INC. 
+Spent: 7,138.00
+Impressions: 394,380
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Campaign Solutions|3,655.00 USD|TEAM GRAHAM, INC.|[0](https://www.snap.com/political-ads/asset/4c396eba6badddc75f8e044100f1de075477fdd6274436bc46efc17ef23a2a96?mediaType=mp4)|143,974||25+|united states|US|Team Graham|

@@ -1,4 +1,7 @@
 ## 2019 - SPR 
+Spent: 2,821.00
+Impressions: 1,879,328
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Toinen PHD|1,500.00 EUR|SPR|[0](https://www.snap.com/political-ads/asset/8d1ef44fac3336e35a7135dd7b52a1296f941ca370bc0bcfd7cf8e5f50bd363a?mediaType=jpg)|1,116,197|FEMALE|15-30|finland|"Lintulahdenkatu 3,Helsinki,00530,FI"||

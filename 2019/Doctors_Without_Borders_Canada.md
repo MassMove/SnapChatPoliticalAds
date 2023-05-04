@@ -1,4 +1,7 @@
 ## 2019 - Doctors Without Borders Canada 
+Spent: 2,892.00
+Impressions: 1,496,144
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Aber Group|594.00 CAD|Doctors Without Borders Canada|[0](https://www.snap.com/political-ads/asset/f3fca250991da282f6a5d1fdeb5706ea9ebddb1f04cd7fb599950bd9088f57bd?mediaType=jpg)|292,077||18+|canada|"608-120 Eglinton Avenue East,Toronto,M4P1E2,CA"||

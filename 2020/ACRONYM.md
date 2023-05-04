@@ -1,4 +1,7 @@
 ## 2020 - ACRONYM 
+Spent: 930,539.00
+Impressions: 133,501,925
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ACRONYM|33,477.00 USD|ACRONYM|[0](https://www.snap.com/political-ads/asset/44f9c8e22fa2a7e747bdfe5a9dbec3c948f51dcbcb9edce2219682ff99775771?mediaType=mp4)|8,566,420||18+|united states|US||

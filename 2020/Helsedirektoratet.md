@@ -1,4 +1,7 @@
 ## 2020 - Helsedirektoratet 
+Spent: 195,641.00
+Impressions: 4,663,165
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|17,379.00 NOK|Helsedirektoratet|[0](https://www.snap.com/political-ads/asset/b692e3df58f332130ce3f15124481e3d2a994d32f334d300b0b96c918c27873c?mediaType=mp4)|629,128||15-17|norway|"Kongens gate 6,Oslo,0153,NO"||

@@ -1,4 +1,7 @@
 ## 2019 - Cow Creek Band of Umpqua Tribe 
+Spent: 7,324.00
+Impressions: 1,864,717
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|2,740.00 USD|Cow Creek Band of Umpqua Tribe|[0](https://www.snap.com/political-ads/asset/b231eb804f08ec6b8c6ace18f2a438e2598a6a0e6a201b8d3c4f1e4d745d399b?mediaType=mp4)|734,466||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

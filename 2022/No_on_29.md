@@ -1,4 +1,7 @@
 ## 2022 - No on 29 
+Spent: 178,707.00
+Impressions: 7,634,238
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bask Digital Media|105,523.00 USD|No on 29|[0](https://www.snap.com/political-ads/asset/db60cf9d379511711b7d23a0ac930187cabadfa44ec122b1840ef3e249250b78?mediaType=mp4)|4,289,550||21-34|united states|US|No on 29|

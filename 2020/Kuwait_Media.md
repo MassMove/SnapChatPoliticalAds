@@ -1,4 +1,7 @@
 ## 2020 - Kuwait Media 
+Spent: 4,463.00
+Impressions: 2,221,924
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kuwait Media|1,500.00 USD|Kuwait Media|[0](https://www.snap.com/political-ads/asset/e09c248fe27810c20cd3648b45cd548f49777f3cd099f525fbb6bb703d85d43c?mediaType=jpeg)|932,034||21+|kuwait|KW|Yacoub Abdul Mohsen|

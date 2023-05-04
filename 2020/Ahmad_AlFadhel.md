@@ -1,4 +1,7 @@
 ## 2020 - Ahmad AlFadhel 
+Spent: 4,273.00
+Impressions: 1,373,625
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Senyar Group Agency|131.00 USD|Ahmad AlFadhel|[0](https://www.snap.com/political-ads/asset/11d2bdf572b7fa4376d86f5999cffc8d2e665cc4cf1933069b694dc2d3865df5?mediaType=mp4)|38,935||18+|kuwait|"Press Street,Shewikh,11111,KW"|Ahmad AlFadhel|

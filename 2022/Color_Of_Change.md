@@ -1,4 +1,7 @@
 ## 2022 - Color Of Change 
+Spent: 5,496.00
+Impressions: 1,166,163
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Color Of Change|2,220.00 USD|Color Of Change|[0](https://www.snap.com/political-ads/asset/34dd2b6925e1607f749a20223d618d5154c3beff5e12f78f15afcaf61bb770bc?mediaType=mp4)|205,325|||united states|"1714 Franklin St,Oakland,94612,US"||

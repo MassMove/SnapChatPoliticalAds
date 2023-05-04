@@ -1,4 +1,7 @@
 ## 2022 - Grön Ungdom 
+Spent: 100,801.00
+Impressions: 8,988,561
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |KSMG AB|29,010.00 SEK|Grön Ungdom|[0](https://www.snap.com/political-ads/asset/d10b0d267713b85451022cd0e117e6ccd5f95611608db9edfaf332f97c444004?mediaType=mp4)|2,796,149||18-28|sweden|"Grevturegatan 11 A,Stockholm,11446,SE"||

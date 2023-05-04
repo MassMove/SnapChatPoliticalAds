@@ -1,4 +1,7 @@
 ## 2020 - Tech for Campaigns 
+Spent: 158,763.00
+Impressions: 37,902,744
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Tech For Campaigns|22,178.00 USD|Tech for Campaigns|[0](https://www.snap.com/political-ads/asset/e9b721471b93169bc764c6f28baa2c32744c59beac5f812cb7200f09e1db6fcb?mediaType=mp4)|6,739,379||18+|united states|US|Vote By Mail|

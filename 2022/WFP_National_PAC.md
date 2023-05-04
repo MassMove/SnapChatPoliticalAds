@@ -1,4 +1,7 @@
 ## 2022 - WFP National PAC 
+Spent: 5,838.00
+Impressions: 752,882
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|952.00 USD|WFP National PAC|[0](https://www.snap.com/political-ads/asset/fb1a8970248e79239012caa1f1bdfe9426bdcec9987d79d51377b9ded17ac79e?mediaType=mp4)|226,740||18+|united states|"Po Box 21600,Washington,20009,US"|WFP National PAC|

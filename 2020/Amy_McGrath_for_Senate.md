@@ -1,4 +1,7 @@
 ## 2020 - Amy McGrath for Senate 
+Spent: 324,944.00
+Impressions: 50,689,308
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|40,542.00 USD|Amy McGrath for Senate|[0](https://www.snap.com/political-ads/asset/edcb6398140bed1cc6bfd21a3685d28bd8cc2e87b8ccfd48e0ef6fb6ac50f96c?mediaType=mp4)|6,332,300||18-40|united states|"PO Box 128,Mill Valley,94942,US"|Amy McGrath for Senate|

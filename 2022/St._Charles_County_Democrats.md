@@ -1,4 +1,7 @@
 ## 2022 - St. Charles County Democrats 
+Spent: 150.00
+Impressions: 62,854
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Saint Charles County Democrats|50.00 USD|St. Charles County Democrats|[0](https://www.snap.com/political-ads/asset/ca6cd3f1eddce3f4d834b2e7a57d217b55a961a0fa9a707ecf016104c297133b?mediaType=mp4)|28,267|||united states|"2813 Droste Road,Saint Charles,63301,US"||

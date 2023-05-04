@@ -1,4 +1,7 @@
 ## 2019 - Valg Norge 
+Spent: 14,000.00
+Impressions: 8,973,546
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Norge AS|5,500.00 EUR|Valg Norge|[0](https://www.snap.com/political-ads/asset/25b83edc4d2043ca0973c8a29d570d1aabc7c396a29299d958453be91372f4b0?mediaType=mp4)|3,523,176||35++|norway|"Kristian Augusts gate 23, OSLO,0164 ,NO"||

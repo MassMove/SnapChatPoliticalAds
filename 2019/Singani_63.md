@@ -1,4 +1,7 @@
 ## 2019 - Singani 63 
+Spent: 95.00
+Impressions: 23,582
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gyrosity Projects|40.00 USD|Singani 63|[0](https://www.snap.com/political-ads/asset/e52f5affa541c407dcc13fb7d314d43245188725e60105d9966b954ad3a9a93f?mediaType=mp4)|9,922||25+|united states|US||

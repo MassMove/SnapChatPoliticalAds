@@ -1,4 +1,7 @@
 ## 2018 - Beto for Texas 
+Spent: 41,183.00
+Impressions: 10,611,356
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|15,527.00 USD|Beto for Texas|[0](https://www.snap.com/political-ads/asset/5ef93a6df60367e9b9c2d901184ff686ee0c9085aac1ac58cbcedda64646ec6e?mediaType=mp4)|5,368,948|||united states|"Po Box 21600,Washington,20009,US"||

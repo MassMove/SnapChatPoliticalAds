@@ -1,4 +1,7 @@
 ## 2019 - Facts Over Flavor 
+Spent: 61,530.00
+Impressions: 24,392,924
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |RIESTER Sonoran LLC|5,747.00 USD|Facts Over Flavor|[0](https://www.snap.com/political-ads/asset/dcdc24e7cae00fd5deb4b5311a1b410b0733a6e23a4bc9586cb6cd39cc8eaed8?mediaType=mp4)|2,867,928||17-|united states|"3344 E. Camelback Rd.,Phoenix,85018,US"||

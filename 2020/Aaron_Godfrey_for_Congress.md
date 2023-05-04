@@ -1,4 +1,7 @@
 ## 2020 - Aaron Godfrey for Congress 
+Spent: 289.00
+Impressions: 130,037
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Invitucs LLP|137.00 USD|Aaron Godfrey for Congress|[0](https://www.snap.com/political-ads/asset/20fd7b6229eab2b5ea7c229bcad4dacb202d1c433dcb7f193d474a88a85a61cd?mediaType=mp4)|68,303||18+|united states|US|We need you to get out and vote|

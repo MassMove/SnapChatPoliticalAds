@@ -1,4 +1,7 @@
 ## 2020 - CTE Christine Morse 
+Spent: 1,133.00
+Impressions: 154,202
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Committee to Elect Christine Morse for State House|519.00 USD|CTE Christine Morse|[0](https://www.snap.com/political-ads/asset/f270f2b2c2d8a607dea2ba6fd2f82cd891eb232c57d2b2677fbb249c892cfff6?mediaType=jpeg)|83,235||18+|united states|US||

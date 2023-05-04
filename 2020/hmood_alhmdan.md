@@ -1,4 +1,7 @@
 ## 2020 - hmood alhmdan 
+Spent: 665.00
+Impressions: 454,514
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |illusion.mediakw|459.00 USD|hmood alhmdan|[0](https://www.snap.com/political-ads/asset/aeef8c0e52c64337f804a524136699bf73a801b7d936ea89db6ffcf9c716c9db?mediaType=png)|318,263||20+|kuwait|KW|Candidate Hmoodalhmdan|

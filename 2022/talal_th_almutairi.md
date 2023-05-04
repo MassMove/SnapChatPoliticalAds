@@ -1,4 +1,7 @@
 ## 2022 - talal th almutairi 
+Spent: 241.00
+Impressions: 60,064
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |new camp|232.00 USD|talal th almutairi|[0](https://www.snap.com/political-ads/asset/c44072eaaca58d59a526f3fc1fef4cb0515e9e888ee6a94575b81ebe1cd00518?mediaType=mp4)|56,023||18+|kuwait|"riqqa,ahmadi,00965,KW"|Dr Saleh Almutairi|

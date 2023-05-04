@@ -1,4 +1,7 @@
 ## 2021 - NRCC 
+Spent: 37,996.00
+Impressions: 6,488,434
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Targeted Victory  LLC|33,481.00 USD|NRCC|[0](https://www.snap.com/political-ads/asset/8de03d13c52c448c4046569e8829025312602bd2255648a2b1179962a1d216df?mediaType=jpg)|5,859,556||18+|united states|"1100 Wilson Blvd, 10th Floor,Arlington,22209,US"|NRCC|

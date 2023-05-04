@@ -1,4 +1,7 @@
 ## 2020 - Rock the Vote 
+Spent: 2,124.00
+Impressions: 415,188
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|605.00 USD|Rock the Vote|[0](https://www.snap.com/political-ads/asset/9e835d32c9e45d9a6e3913a80aa53e26324184a3f463b0e51b05fe5a54f00847?mediaType=jpg)|121,299||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"||

@@ -1,4 +1,7 @@
 ## 2022 - Unison 
+Spent: 12,105.00
+Impressions: 2,054,569
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M.i. Media|3,843.00 GBP|Unison|[0](https://www.snap.com/political-ads/asset/4429a2c09c19f96e15b6999bd2863713c60c0fbd2bbe67dc4ae51b15d223dab7?mediaType=jpg)|714,500||18+|united kingdom|"78 Whitfield Street,Fitzrovia,W1T 4EZ,GB"||

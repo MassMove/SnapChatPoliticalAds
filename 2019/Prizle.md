@@ -1,4 +1,7 @@
 ## 2019 - Prizle 
+Spent: 167.00
+Impressions: 172,582
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Germinal|51.00 EUR|Prizle|[0](https://www.snap.com/political-ads/asset/d20062f9a90e1327586b3342be6b666b95fe38e6bb5d811c3fb8c43665f30004?mediaType=mp4)|63,215||20+|france|FR||

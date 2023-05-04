@@ -1,4 +1,7 @@
 ## 2018 - Planned Parenthood 
+Spent: 10,282.00
+Impressions: 3,590,345
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Open Hand Media|2,945.00 USD|Planned Parenthood|[0](https://www.snap.com/political-ads/asset/939eb4bd2d2ce5f1e9a64c9ff5165c6c2732e02e7726d402d149fb900175ea95?mediaType=mov)|1,264,403|FEMALE|15-19|united states|"235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US"||

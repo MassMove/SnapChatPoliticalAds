@@ -1,4 +1,7 @@
 ## 2022 - Friends of Monica Wallace 
+Spent: 2,394.00
+Impressions: 516,717
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veracity Media|1,744.00 USD|Friends of Monica Wallace|[0](https://www.snap.com/political-ads/asset/8f392830f80cd98184d5fc1de1d772426c6f72d94cbbbbc4dd936196eb064b5b?mediaType=mp4)|445,377||18+|united states|US|Monica Wallace|

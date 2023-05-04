@@ -1,4 +1,7 @@
 ## 2020 - Footaction 
+Spent: 18,601.00
+Impressions: 3,457,176
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|3,532.00 USD|Footaction|[0](https://www.snap.com/political-ads/asset/61d6fd7c3485697c455bd72d6a512063a876370f9929fa84586dc85bf603a619?mediaType=mp4)|889,002||18-38|united states|"195 Broadway, 5th Floor,New York,10007,US"||

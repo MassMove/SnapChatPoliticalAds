@@ -1,4 +1,7 @@
 ## 2022 - Miza Media 
+Spent: 75.00
+Impressions: 62,296
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Miza Store|45.00 USD|Miza Media|[0](https://www.snap.com/political-ads/asset/8e3ccb0b3c05c5e32f5b2b0a812634c3175fa78cc6ebc1fb109c90bc0310d14d?mediaType=png)|42,268||21+|kuwait|KW|Sarah Hussein Aldabie|

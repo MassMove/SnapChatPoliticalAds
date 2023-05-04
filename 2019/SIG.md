@@ -1,4 +1,7 @@
 ## 2019 - SIG 
+Spent: 99,381.00
+Impressions: 123,405,259
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|14,882.00 EUR|SIG|[0](https://www.snap.com/political-ads/asset/77eb331f142f7a7cbfc5d2209bd33ccc95a73334f9d8ff6ce6beff7f1d733b93?mediaType=jpg)|18,228,091||18-34|france|"67 Av. de Wagram,Paris,75017,FR"||

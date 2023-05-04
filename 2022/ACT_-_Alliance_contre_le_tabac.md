@@ -1,4 +1,7 @@
 ## 2022 - ACT - Alliance contre le tabac 
+Spent: 13,059.00
+Impressions: 7,140,137
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Agence Repeat|9,046.00 EUR|ACT - Alliance contre le tabac|[0](https://www.snap.com/political-ads/asset/8641e96e314d9281ddc32c3dc49e35aa21bd74317ff8b7a15861139908133a61?mediaType=mp4)|4,477,024||25+|france|"114 avenue Charles de Gaulle ,Neuilly sur Seine,92200,FR"|Alliance Contre le Tabac|

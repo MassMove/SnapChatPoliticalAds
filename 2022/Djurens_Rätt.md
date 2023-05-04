@@ -1,4 +1,7 @@
 ## 2022 - Djurens Rätt 
+Spent: 48,140.00
+Impressions: 1,265,365
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Djurens Rätt|8,000.00 SEK|Djurens Rätt|[0](https://www.snap.com/political-ads/asset/7cea16e254cab0f5ff0b1fa0542cead1fa9fa576470caac5d98e988aeabc413b?mediaType=mp4)|248,910||19+|sweden|"Box 17132,Stockholm,104 62,SE"||

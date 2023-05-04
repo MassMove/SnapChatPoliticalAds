@@ -1,4 +1,7 @@
 ## 2021 - CA Public Health 
+Spent: 45,199.00
+Impressions: 13,437,171
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unified|12,150.00 USD|CA Public Health|[0](https://www.snap.com/political-ads/asset/c20105be0142e6375560188f4fb9d78abd8ca2d8c931c847ce931872078cb5fb?mediaType=mp4)|4,670,496||18+|united states|"180 Madison Ave New York,New York,10016,US"||

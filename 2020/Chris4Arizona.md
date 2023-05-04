@@ -1,4 +1,7 @@
 ## 2020 - Chris4Arizona 
+Spent: 1,678.00
+Impressions: 84,597
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|634.00 USD|Chris4Arizona|[0](https://www.snap.com/political-ads/asset/520e9aa7ada3d079035ee8e1be0fb428471846da8a5307c6c1ef299ab416550a?mediaType=mp4)|34,572||18+|united states|"1324 Spaight St,Madison,53703,US"|Christine Marsh|

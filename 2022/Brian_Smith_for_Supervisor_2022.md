@@ -1,4 +1,7 @@
 ## 2022 - Brian Smith for Supervisor 2022 
+Spent: 594.00
+Impressions: 199,409
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Brian Smith for Supervisor 2022|231.00 USD|Brian Smith for Supervisor 2022|[0](https://www.snap.com/political-ads/asset/e898515651b01a9acffd0057df9baf43377aea577f6476fa36496ec4cd53989d?mediaType=jpg)|78,073||17+|united states|US|Brian Smith for Kern County Supervisor|

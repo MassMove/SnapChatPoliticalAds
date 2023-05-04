@@ -1,4 +1,7 @@
 ## 2022 - NRDC 
+Spent: 11,050.00
+Impressions: 465,174
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|6,800.00 USD|NRDC|[0](https://www.snap.com/political-ads/asset/f124af573449100eec39c73ca81aa89f94af6d7e378bade6f4b989f72edf9880?mediaType=mp4)|278,713||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

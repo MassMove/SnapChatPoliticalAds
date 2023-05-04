@@ -1,4 +1,7 @@
 ## 2023 - Refuge 
+Spent: 5,565.00
+Impressions: 1,346,859
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Refuge|2,655.00 GBP|Refuge|[0](https://www.snap.com/political-ads/asset/dec6e6d65d0276d97de0a224ba3b172b8c210517d7a73017adefa9f721105166?mediaType=mp4)|634,558|FEMALE|18+|united kingdom|"One America Square, 3rd floor, 17 Crosswall,London,EC3N 2LB,GB"||

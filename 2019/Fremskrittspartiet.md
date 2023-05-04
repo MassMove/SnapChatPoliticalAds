@@ -1,4 +1,7 @@
 ## 2019 - Fremskrittspartiet 
+Spent: 6,220.00
+Impressions: 2,158,566
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fremskrittspartiet|1,000.00 EUR|Fremskrittspartiet|[0](https://www.snap.com/political-ads/asset/c7c5112ea5d714f6c4630553685ae119a053dd2f37134fe0f761983a22fa7f2f?mediaType=mp4)|420,890||18+|norway|"Karl Johans gate 25,Oslo,0159,NO"||

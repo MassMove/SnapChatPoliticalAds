@@ -1,4 +1,7 @@
 ## 2020 - Wisconsin Voices 
+Spent: 15,237.00
+Impressions: 3,838,672
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |InLine Media|580.00 USD|Wisconsin Voices|[0](https://www.snap.com/political-ads/asset/6b5d179d5644eb99d4a32b8be81d65d5da962efb9e99b2312978b5daad1d1051?mediaType=mp4)|354,579||17-24|united states|"1600 Stout Street,Denver,80203,US"||

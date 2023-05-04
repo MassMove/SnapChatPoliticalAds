@@ -1,4 +1,7 @@
 ## 2018 - Florida Sheriff's Association 
+Spent: 14,631.00
+Impressions: 3,084,287
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Moore|7,802.00 USD|Florida Sheriff's Association|[0](https://www.snap.com/political-ads/asset/67fe112649e5f90d04831e37866c3f499edbdb73e2049273fe5a376e118b4e21?mediaType=mp4)|1,646,894||18+|united states|"2011 Delta Blvd.,Tallahassee,32303,US"||

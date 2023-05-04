@@ -1,4 +1,7 @@
 ## 2020 - Cameo 
+Spent: 1,843.00
+Impressions: 1,427,618
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cameo|1,199.00 USD|Cameo|[0](https://www.snap.com/political-ads/asset/4b5e690f447613c97d52f7df2efafd352a285acc752b18609833dc1bd9ae117b?mediaType=mp4)|998,868|||united states|"401 n may st,chicago,60642,US"|Rock the Vote|

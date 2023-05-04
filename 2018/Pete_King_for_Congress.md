@@ -1,4 +1,7 @@
 ## 2018 - Pete King for Congress 
+Spent: 8,437.00
+Impressions: 3,143,956
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Congressman Pete King|7,018.00 USD|Pete King for Congress|[0](https://www.snap.com/political-ads/asset/a9296e64fd989fa2bf3f9e975b84df703c9c31dad8362285ac599a3982160014?mediaType=mp4)|2,600,786||18+|united states|US||

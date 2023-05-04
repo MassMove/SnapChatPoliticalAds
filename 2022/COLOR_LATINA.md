@@ -1,4 +1,7 @@
 ## 2022 - COLOR LATINA 
+Spent: 2,748.00
+Impressions: 295,388
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,146.00 USD|COLOR LATINA|[0](https://www.snap.com/political-ads/asset/dd2620b5b93a5bad0dcde489e96d31fa1cfc13032dd3c8921a1b59d58d8f630a?mediaType=png)|130,686||18-30|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

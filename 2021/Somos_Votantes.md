@@ -1,4 +1,7 @@
 ## 2021 - Somos Votantes 
+Spent: 2,160.00
+Impressions: 265,626
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|564.00 USD|Somos Votantes|[0](https://www.snap.com/political-ads/asset/11ccde11152d09563b2eea97224635f68690df2cac09d16db757ad9008840123?mediaType=mp4)|84,427||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|Somos Votantes|

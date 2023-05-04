@@ -1,4 +1,7 @@
 ## 2022 - CTI MAURICE IMHOFF 
+Spent: 333.00
+Impressions: 88,858
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |COMMITTEE TO ELECT MAURICE IMHOFF|100.00 USD|CTI MAURICE IMHOFF|[0](https://www.snap.com/political-ads/asset/9c6651a96ce17638685c74f84f33aa3d6c138e9a6c21ed4dde3333ac474d4a9f?mediaType=jpeg)|24,286||18-29|united states|US|Maurice Imhoff|

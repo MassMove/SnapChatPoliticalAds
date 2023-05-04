@@ -1,4 +1,7 @@
 ## 2021 - NDRC 
+Spent: 27,589.00
+Impressions: 4,684,868
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|19,893.00 USD|NDRC|[0](https://www.snap.com/political-ads/asset/d9dfb224653ba0fba88080db303817cff1bf88bb0593111e8945a6399d85c8e4?mediaType=mp4)|3,436,088||18+|united states|US||

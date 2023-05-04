@@ -1,4 +1,7 @@
 ## 2020 - Cardiff City Council 
+Spent: 499.00
+Impressions: 348,561
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hello Starling|254.00 GBP|Cardiff City Council|[0](https://www.snap.com/political-ads/asset/c0aca194b4d57ea22f64d2acf6f5b8190cae7fed1314463892c57566207e8275?mediaType=mp4)|176,406||14-17|united kingdom|"Tramshed Tech, D, Pendyris Street,Cardiff,CF11 6BH,GB"||

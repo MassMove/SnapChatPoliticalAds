@@ -1,4 +1,7 @@
 ## 2020 - Tangelo LLC 
+Spent: 2,352.00
+Impressions: 1,347,849
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Tangeo LLC|1,828.00 USD|Tangelo LLC|[0](https://www.snap.com/political-ads/asset/efa14011525762cbe37d42a47f61473a2d99bf86e713a9ae73c1825a84506b44?mediaType=mp4)|1,143,246|||united states|"621 High St.,Palo Alto,94301,US"|Nonpartisan|

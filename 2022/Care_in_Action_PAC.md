@@ -1,4 +1,7 @@
 ## 2022 - Care in Action PAC 
+Spent: 14,014.00
+Impressions: 791,202
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|1,725.00 USD|Care in Action PAC|[0](https://www.snap.com/political-ads/asset/f39861cee875bf8d2d8ce69dca9fa3cd40df64441b1d74ec9c932d3d1521c972?mediaType=mp4)|65,117||18+|united states|US|Care workers|

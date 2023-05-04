@@ -1,4 +1,7 @@
 ## 2019 - Canadian Wildlife Federation 
+Spent: 2,954.00
+Impressions: 2,649,126
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Canadian Wildlife Federation|1,500.00 CAD|Canadian Wildlife Federation|[0](https://www.snap.com/political-ads/asset/61133460eb5c6c5075264fba6ebb7bedd4f88aad7bd7c691ba73b1902be8e98a?mediaType=jpg),[1](https://www.snap.com/political-ads/asset/2e882fdcc3d2c083f131ba9bcfcefcbc6ee24d13e835e25aa6f8095b588f2890?mediaType=jpg),[2](https://www.snap.com/political-ads/asset/a33d88c71478b054b373bf432c1ef5399d1ad1f97a7b33f7aaa64b2263296510?mediaType=jpg)|1,880,796||18-34|canada|CA||

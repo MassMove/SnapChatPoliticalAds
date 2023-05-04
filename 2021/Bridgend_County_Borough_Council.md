@@ -1,4 +1,7 @@
 ## 2021 - Bridgend County Borough Council 
+Spent: 443.00
+Impressions: 259,254
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bridgend County Borough Council|360.00 GBP|Bridgend County Borough Council|[0](https://www.snap.com/political-ads/asset/39696c4730ddb1fbd7e8f7a67b11e509b12ee48678d42563a9a2278d179d9b1b?mediaType=mp4)|210,819||14-25|united kingdom|GB|Senedd and PCC Election|

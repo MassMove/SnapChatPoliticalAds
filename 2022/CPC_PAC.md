@@ -1,4 +1,7 @@
 ## 2022 - CPC PAC 
+Spent: 11,295.00
+Impressions: 1,490,510
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,513.00 USD|CPC PAC|[0](https://www.snap.com/political-ads/asset/e7080cac8352b3c6cab78696a2f6577effc460a7ccee6a24e404c1dfef309a0e?mediaType=mp4)|237,369||18+|united states|US|Congressional Progressive Caucus PAC|

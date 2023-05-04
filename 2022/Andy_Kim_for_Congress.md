@@ -1,4 +1,7 @@
 ## 2022 - Andy Kim for Congress 
+Spent: 18,769.00
+Impressions: 1,626,318
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|424.00 USD|Andy Kim for Congress|[0](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|114,162||18+|united states|US|Andy Kim for Congress|

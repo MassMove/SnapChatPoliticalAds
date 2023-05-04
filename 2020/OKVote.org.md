@@ -1,4 +1,7 @@
 ## 2020 - OKVote.org 
+Spent: 1,429.00
+Impressions: 831,844
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Diversified Digital Marketing Service|817.00 USD|OKVote.org|[0](https://www.snap.com/political-ads/asset/c17d792091b399b1c7a50da000a1283336130195878503dc720270f079c87aed?mediaType=jpeg)|562,474|||united states|"5083 Lake Breeze Rd.,Grove,74344,US"||

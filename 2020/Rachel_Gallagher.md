@@ -1,4 +1,7 @@
 ## 2020 - Rachel Gallagher 
+Spent: 1,580.00
+Impressions: 298,319
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Media Precinct|448.00 AUD|Rachel Gallagher|[0](https://www.snap.com/political-ads/asset/06bfbc8a98e63d8cb877a96e1b6bd3de565f3f5501f71ebf4b9da9c316fda911?mediaType=mp4)|100,603||18-24|australia|"L4, 10 Kensington Street,Chippendale,2008,AU"|Rachel Gallagher|

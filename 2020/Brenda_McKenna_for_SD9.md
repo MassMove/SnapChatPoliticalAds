@@ -1,4 +1,7 @@
 ## 2020 - Brenda McKenna for SD9 
+Spent: 120.00
+Impressions: 15,001
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|45.00 USD|Brenda McKenna for SD9|[0](https://www.snap.com/political-ads/asset/b5fd6f8b9aaa59f34808dddb797fbed622acecd72047d485e14247480c78ddaf?mediaType=mp4)|6,302||18+|united states|"1324 Spaight St,Madison,53703,US"|Brenda McKenna for SD9|

@@ -1,4 +1,7 @@
 ## 2021 - Campax Community 
+Spent: 529.00
+Impressions: 240,155
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Campax|156.00 EUR|Campax Community|[0](https://www.snap.com/political-ads/asset/4d86be1b74809817b9b1c662fb71082860dd4acc8f4754b9fea8e8e8df2da098?mediaType=mp4)|69,434||18+|switzerland|CH||

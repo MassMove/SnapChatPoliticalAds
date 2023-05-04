@@ -1,4 +1,7 @@
 ## 2021 - NATO 
+Spent: 18,571.00
+Impressions: 13,914,326
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Maximum Media GmbH|4,912.00 EUR|NATO|[0](https://www.snap.com/political-ads/asset/c4a78dde746045b73d5c9eb03adb8ba1f1017e9e26eb59a0a7fe4b7f935aee45?mediaType=mp4)|3,808,718||16-24|united states|"Runestraße 2,Berlin,10179,DE"||

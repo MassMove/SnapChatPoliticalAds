@@ -1,4 +1,7 @@
 ## 2022 - Metropolitan Police Service 
+Spent: 37,600.00
+Impressions: 16,713,505
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavemaker UK|16,688.00 GBP|Metropolitan Police Service|[0](https://www.snap.com/political-ads/asset/39b5ffbf11566dbe8ed245565547cc0941d76699135ba8694cbe8bc599487e59?mediaType=jpg)|8,144,107||17-19|united kingdom|"Sea Containers, 18 Upper Ground,London,SE1 9ET,GB"||

@@ -1,4 +1,7 @@
 ## 2020 - Our Turn Action Network 
+Spent: 596.00
+Impressions: 300,176
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Our Turn|117.00 USD|Our Turn Action Network|[0](https://www.snap.com/political-ads/asset/c43fe79a4adba112e52d9fabf5dc9fd0497fe932d14db2ac6e89d52a31770622?mediaType=mp4)|58,585||18-49|united states|"116 Nassau Street - Suite 519,New York,10038,US"||

@@ -1,4 +1,7 @@
 ## 2022 - RFSU 
+Spent: 134,866.00
+Impressions: 3,936,830
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reform Society|33,936.00 SEK|RFSU|[0](https://www.snap.com/political-ads/asset/ca05ce0e3cb36de893af100de5a2c74b5e8599798b56bf21580b497c8c487b3b?mediaType=mp4)|778,919||16-35|sweden|"Kungsgatan 18,Stockholm,111 35,SE"|Hands off|

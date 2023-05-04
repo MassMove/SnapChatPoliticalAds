@@ -1,4 +1,7 @@
 ## 2021 - The Scottish Labour Party 
+Spent: 4,351.00
+Impressions: 1,552,028
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Labour Party|3,642.00 GBP|The Scottish Labour Party|[0](https://www.snap.com/political-ads/asset/3a3aa590789932a74eb9886f66b05c951549df599c73adfff1e4aa90df7885d5?mediaType=png)|1,298,829||17+|united kingdom|"Kings Manor,Newcastle,NE16PA,GB"|Scottish Labour|

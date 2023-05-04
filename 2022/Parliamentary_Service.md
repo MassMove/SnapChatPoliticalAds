@@ -1,4 +1,7 @@
 ## 2022 - Parliamentary Service 
+Spent: 160.00
+Impressions: 28,628
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Attivo Limited|26.00 USD|Parliamentary Service|[0](https://www.snap.com/political-ads/asset/71d5408c37b9d5875db248dc2263188b52821134588f265df8955a17d66f56af?mediaType=mp4)|7,050||17+|new zealand|"158 Leinster Road,Merivale,8146,NZ"|David Seymour MP|

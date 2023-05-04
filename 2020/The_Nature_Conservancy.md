@@ -1,4 +1,7 @@
 ## 2020 - The Nature Conservancy 
+Spent: 3,782.00
+Impressions: 780,776
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|1,728.00 USD|The Nature Conservancy|[0](https://www.snap.com/political-ads/asset/ca1f18debb935a723ff0b83dac81aa2e411c194ff0e3e84075350e84eb7ab8e4?mediaType=mp4)|387,393||18+|united states|"One, World Trade Center ,new york,10007,US"||

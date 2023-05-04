@@ -1,4 +1,7 @@
 ## 2021 - Planned Parenthood Virginia PAC 
+Spent: 51,478.00
+Impressions: 5,453,705
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|13,673.00 USD|Planned Parenthood Virginia PAC|[0](https://www.snap.com/political-ads/asset/e7d412f837cb1b9f68b8fa53f0f5f65f555d2b0aeecd240790fa318638f4e863?mediaType=mp4)|1,754,481||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

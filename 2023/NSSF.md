@@ -1,4 +1,7 @@
 ## 2023 - NSSF 
+Spent: 8,621.00
+Impressions: 271,625
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Red Edge LLC|1,414.00 USD|NSSF|[0](https://www.snap.com/political-ads/asset/ed617c658cdd06d0e847d7b2b72bfc86d31e6a774aa60c72d4f94235744104d1?mediaType=mp4)|56,961|FEMALE|25-49|united states|"2300 Clarendon Blvd,Arlington,22201,US"||

@@ -1,4 +1,7 @@
 ## 2022 - FVAP 
+Spent: 121.00
+Impressions: 28,205
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LumenAd|9.00 USD|FVAP|[0](https://www.snap.com/political-ads/asset/fedb2e06e0de4930fcd0c79a2ee142a5a0237807d136ac0704297ec9c20ce836?mediaType=mp4)|3,020||18-29|united states|US|Federal Voting Assistance Program|

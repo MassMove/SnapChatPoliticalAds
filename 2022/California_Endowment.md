@@ -1,4 +1,7 @@
 ## 2022 - California Endowment 
+Spent: 4,545.00
+Impressions: 1,666,090
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Creative Space Group|666.00 USD|California Endowment|[0](https://www.snap.com/political-ads/asset/6619af9d3a7b39ada8f83befb644e2c68c5e4fbb2ce0e419db27dd8969549962?mediaType=mp4)|627,752||40-|united states|US||

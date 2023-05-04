@@ -1,4 +1,7 @@
 ## 2019 - Ben & Jerry's 
+Spent: 39,573.00
+Impressions: 4,949,420
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - 360i|9,144.00 USD|Ben & Jerry's|[0](https://www.snap.com/political-ads/asset/8f34834d4371a48d0313880fe97a01c543cf83fa00408c386dd8e8435a8399f3?mediaType=jpg)|1,179,779||18+|united states|"32 Avenue of the Americas,New York,10013,US"||

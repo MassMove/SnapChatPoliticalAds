@@ -1,4 +1,7 @@
 ## 2020 - The Labour Party 
+Spent: 1,289.00
+Impressions: 1,299,637
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Labour Party|679.00 GBP|The Labour Party|[0](https://www.snap.com/political-ads/asset/9893bf03bee7acbd09f1af59c06feef2d59e041606be8cb650f4b7e982d07075?mediaType=mp4)|651,073||18+||"Kings Manor,Newcastle,NE16PA,GB"|Sadiq Khan|

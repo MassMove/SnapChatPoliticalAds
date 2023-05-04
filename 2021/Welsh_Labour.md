@@ -1,4 +1,7 @@
 ## 2021 - Welsh Labour 
+Spent: 1,756.00
+Impressions: 1,090,499
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Welsh Labour|527.00 GBP|Welsh Labour|[0](https://www.snap.com/political-ads/asset/6e69c66eda787a5e651c0e61bbccf5bb9c41af1e77dbfe336f6d415df214e095?mediaType=png)|264,628||16-23|united kingdom|GB|Welsh Labour|

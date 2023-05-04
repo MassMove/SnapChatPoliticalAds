@@ -1,4 +1,7 @@
 ## 2019 - Your Trump Shop 
+Spent: 4,240.00
+Impressions: 3,809,387
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Your Trump Shop|2,937.00 USD|Your Trump Shop|[0](https://www.snap.com/political-ads/asset/b9f52873919e238950cd4e4586e69ccf9234147360a0ff1758f757e44c66af59?mediaType=jpg)|3,108,262||22+|united states|US||

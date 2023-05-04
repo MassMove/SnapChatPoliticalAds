@@ -1,4 +1,7 @@
 ## 2023 - It Gets Better Project 
+Spent: 13,205.00
+Impressions: 5,334,234
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |It Gets Better Project|7,188.00 USD|It Gets Better Project|[0](https://www.snap.com/political-ads/asset/690f713ad2abff6f6915ac1abbc1a6adfd37d9a50e028e62456843291e885777?mediaType=mp4)|2,113,710||14-18|united states|US|NA|

@@ -1,4 +1,7 @@
 ## 2020 - Homes for All 
+Spent: 1,547.00
+Impressions: 329,875
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Homes for All|940.00 USD|Homes for All|[0](https://www.snap.com/political-ads/asset/49e190ecc8e6b05a20cad6549005bf1981e2eaf591eeaa7c49a2344e9f34bd0c?mediaType=jpeg)|178,783||18+|united states|US|Kalamazoo County Housing Proposal|

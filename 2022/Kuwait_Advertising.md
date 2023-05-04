@@ -1,4 +1,7 @@
 ## 2022 - Kuwait Advertising 
+Spent: 1,417.00
+Impressions: 226,539
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yaser Masoud Rateeb Jeed|482.00 USD|Kuwait Advertising|[0](https://www.snap.com/political-ads/asset/852a2b56b43c514d8e481580e1ee45b9b5d652d9898638f610107c42765343be?mediaType=mov)|70,069||21+|kuwait|"Salmiya, 1 st,Kuwait,00965,KW"||

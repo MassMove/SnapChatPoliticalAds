@@ -1,4 +1,7 @@
 ## 2020 - Nevada State Democratic Party 
+Spent: 220.00
+Impressions: 91,451
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nevada State Democratic Party|208.00 USD|Nevada State Democratic Party|[0](https://www.snap.com/political-ads/asset/af9e3619baebe5a19c05dc4701aec49361cd44298e10695d9642020a3aad1116?mediaType=png)|89,122||18+|united states|US|Nevada State Democratic Party|

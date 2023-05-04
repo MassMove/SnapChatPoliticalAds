@@ -1,4 +1,7 @@
 ## 2022 - Middlesex County, NJ 
+Spent: 14,453.00
+Impressions: 2,742,760
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marketing Doctor Inc|3,187.00 USD|Middlesex County, NJ|[0](https://www.snap.com/political-ads/asset/d586b0ddc3e6aaba19977a214e95ee67de7c1362c88b56a6fb516b4d50d38822?mediaType=png)|833,095||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"||

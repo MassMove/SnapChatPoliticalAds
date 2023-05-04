@@ -1,4 +1,7 @@
 ## 2021 - UK Government 
+Spent: 5,576.00
+Impressions: 3,120,115
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Manning Gottlieb OMD - OmniGOV|2,204.00 GBP|UK Government|[0](https://www.snap.com/political-ads/asset/8c3f31d0ec309bcabc10d755839411df17fffef028ce2154529cb32fabcbcd25?mediaType=mp4)|1,232,312||18-30|united kingdom|"10 Regents Wharf, All Saints Stree,London,N1 9RL,GB"||

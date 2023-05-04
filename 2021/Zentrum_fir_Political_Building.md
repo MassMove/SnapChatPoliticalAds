@@ -1,4 +1,7 @@
 ## 2021 - Zentrum fir Political Building 
+Spent: 498.00
+Impressions: 873,934
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Concept Factory|226.00 EUR|Zentrum fir Political Building|[0](https://www.snap.com/political-ads/asset/3c61e7626de40ac8aedc81f840ac58bc17b30325a35c4eda0e56fe6e479ad3a8?mediaType=mp4)|395,067||23-|luxembourg|"21 rue de Pont-Rémy,Luxembourg,2423,LU"||

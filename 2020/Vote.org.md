@@ -1,4 +1,7 @@
 ## 2020 - Vote.org 
+Spent: 9,877.00
+Impressions: 4,049,318
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vote.org|3,002.00 USD|Vote.org|[0](https://www.snap.com/political-ads/asset/ba68827113c46d2a4d11fbe53b3da72b0e899c3af58ddae5095dc53973136d7e?mediaType=mp4)|1,497,144||17-30|united states|US|2020 GA Runoff|

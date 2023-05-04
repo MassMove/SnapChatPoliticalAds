@@ -1,4 +1,7 @@
 ## 2022 - Voter Action Project 
+Spent: 1,880.00
+Impressions: 155,097
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veracity Media|1,762.00 USD|Voter Action Project|[0](https://www.snap.com/political-ads/asset/9ee2f88c3b392e2b5373c5aa46f7118634225062c710bbb1dc019f44fe07bfd0?mediaType=mp4)|128,015|FEMALE|18-39|united states|US|Voter Action Project|

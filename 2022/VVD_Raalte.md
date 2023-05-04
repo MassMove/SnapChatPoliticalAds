@@ -1,4 +1,7 @@
 ## 2022 - VVD Raalte 
+Spent: 1.00
+Impressions: 708
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |VVD Raalte|1.00 EUR|VVD Raalte|[0](https://www.snap.com/political-ads/asset/ba89460d98b4613fe389f36d0a25d1ddf8bbbf432a37c69e4915618dfe2e4199?mediaType=jpg)|368||18+|netherlands|NL|VVD Raalte Alexander Kreule|

@@ -1,4 +1,7 @@
 ## 2022 - Marcel van 't Hul 
+Spent: 45.00
+Impressions: 15,045
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CDAElburg|35.00 EUR|Marcel van 't Hul|[0](https://www.snap.com/political-ads/asset/261efd5dd63435c3b1e153f97da358f0b2ecda4127b2b5a5fc56b76f3a0b8497?mediaType=jpeg)|11,360|||netherlands|NL|Thomas van t Hul|

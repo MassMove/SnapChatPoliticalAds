@@ -1,4 +1,7 @@
 ## 2021 - Vote for NYC's Future 
+Spent: 39,710.00
+Impressions: 4,863,334
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|15,170.00 USD|Vote for NYC's Future|[0](https://www.snap.com/political-ads/asset/b8974f98381eec839efa4e1b234637286e89f5b466474168bcc3761a5c3cf2eb?mediaType=jpg)|1,635,324||18+|united states|US||

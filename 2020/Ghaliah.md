@@ -1,4 +1,7 @@
 ## 2020 - Ghaliah 
+Spent: 3,348.00
+Impressions: 2,790,379
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Media Services FZ-LLC|2,470.00 USD|Ghaliah|[0](https://www.snap.com/political-ads/asset/4e7e1663f8d2828100d49d8ac3678db29dd3ee6a091b28f3f50c0c9beb17aa15?mediaType=mp4)|2,059,016||21+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"||

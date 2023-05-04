@@ -1,4 +1,7 @@
 ## 2022 - University of Pittsburgh 
+Spent: 44,441.00
+Impressions: 15,529,121
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Centro LLC|10,095.00 USD|University of Pittsburgh|[0](https://www.snap.com/political-ads/asset/59cee2c1d93f8661d1c44aaa08b58b6a3cd2dbdaf4f3de0bc0945953eb7d5d31?mediaType=jpg)|3,532,428||18-34|united states|"11 E. Madison Ave. 6th Floor,,,Chicago,60602,US"||

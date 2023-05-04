@@ -1,4 +1,7 @@
 ## 2020 - Color of Change PAC 
+Spent: 200,352.00
+Impressions: 60,825,410
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Color of Change PAC|26,011.00 USD|Color of Change PAC|[0](https://www.snap.com/political-ads/asset/b296a70f4f84df98a04abde32365150bb2cd3f0d30e2c07e033a75d67df340f7?mediaType=jpg)|10,066,794||18-40|united states|"1714 Franklin St,Oakland,94612,US"||

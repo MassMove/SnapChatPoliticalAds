@@ -1,4 +1,7 @@
 ## 2021 - CHNGE 
+Spent: 32,788.00
+Impressions: 9,521,515
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CHNGE|10,217.00 USD|CHNGE|[0](https://www.snap.com/political-ads/asset/931431f8d86f00216e1d1352344a03308c17a997fbf5143acdb6bbc18df4f2ca?mediaType=mp4)|2,489,294|FEMALE|30-|united states|US||

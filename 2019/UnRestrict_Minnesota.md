@@ -1,4 +1,7 @@
 ## 2019 - UnRestrict Minnesota 
+Spent: 56,817.00
+Impressions: 21,261,322
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |UnRestrict Minnesota|2,365.00 USD|UnRestrict Minnesota|[0](https://www.snap.com/political-ads/asset/4b014e6145c6ae994e7433fd345e25230767c7df0a9ef666ed3d0ffe74f6a632?mediaType=mp4)|814,911||18+|united states|"200 University Ave W #200,St. Paul,55103,US"||

@@ -1,4 +1,7 @@
 ## 2022 - Amanda Kanange 
+Spent: 486.00
+Impressions: 113,921
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amanda Kanange|230.00 EUR|Amanda Kanange|[0](https://www.snap.com/political-ads/asset/fd338e16d2f9ac81cbf65b92ca4d6571bf0974e51aca94610f260744ac3e3356?mediaType=mp4)|56,294||18+|sweden|"S:t Johannesgatan 30D,Uppsala,75233,SE"||

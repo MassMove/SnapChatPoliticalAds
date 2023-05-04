@@ -1,4 +1,7 @@
 ## 2020 - Hickenlooper for Colorado 
+Spent: 57,955.00
+Impressions: 15,577,797
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|22,857.00 USD|Hickenlooper for Colorado|[0](https://www.snap.com/political-ads/asset/7945bf6e22f376d35365b20564bb9fe593ce012092bde9bb1ef2ffcfd014c34c?mediaType=jpg)|4,982,945||18-34|united states|"1121 14th Street NW Suite 700,Washington,20005,US"|John Hickenlooper|

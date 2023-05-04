@@ -1,4 +1,7 @@
 ## 2021 - ACRONYM 
+Spent: 11,359.00
+Impressions: 1,217,279
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ACRONYM|3,193.00 USD|ACRONYM|[0](https://www.snap.com/political-ads/asset/9fb753e9cb5ad47b9e2151981cc634ad24279487deda76359afa04f788841ac9?mediaType=mp4)|293,781||18+|united states|US||

@@ -1,4 +1,7 @@
 ## 2023 - Yleisradio Oy 
+Spent: 1,834.00
+Impressions: 1,801,606
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yleisradio Oy|767.00 EUR|Yleisradio Oy|[0](https://www.snap.com/political-ads/asset/b258954cb262355a208a3ef51494efa22095d6e4df054e6940f641ccb15de0a9?mediaType=mp4)|591,340||18-29|finland|"Radiokatu 5,Helsinki,00024,FI"||

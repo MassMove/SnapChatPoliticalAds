@@ -1,4 +1,7 @@
 ## 2022 - Judy for AZ 
+Spent: 2,018.00
+Impressions: 84,113
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|761.00 USD|Judy for AZ|[0](https://www.snap.com/political-ads/asset/20a92865cec0985ae900cfa0dc132dd8a4f9c394bd9804e1583dcaacf9c487ea?mediaType=mp4)|26,125||18+|united states|"1324 Spaight St,Madison,53703,US"|Judy Schwiebert|

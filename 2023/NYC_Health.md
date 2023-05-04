@@ -1,4 +1,7 @@
 ## 2023 - NYC Health 
+Spent: 27,802.00
+Impressions: 3,951,748
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|12,812.00 USD|NYC Health|[0](https://www.snap.com/political-ads/asset/6e404ab5cb1703d2712a5bd7f85fa47bc489d5c3c8cc64ac3ab0b97738bb9919?mediaType=jpg)|2,819,036|FEMALE|30-|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Democracy Wants You 
+Spent: 677.00
+Impressions: 275,319
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |democracy wants you|35.00 USD|Democracy Wants You|[0](https://www.snap.com/political-ads/asset/cc4bb3dd22bceb415f4dc3dce42319c2d0bae1d3527f96589d689792332196e9?mediaType=jpeg)|34,864||17-25|united states|US|Election 2020|

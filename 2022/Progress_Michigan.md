@@ -1,4 +1,7 @@
 ## 2022 - Progress Michigan 
+Spent: 12,699.00
+Impressions: 359,101
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|9,733.00 USD|Progress Michigan|[0](https://www.snap.com/political-ads/asset/c777270f41fd9398d7384a81618875dc414a1df54dede4e6991e73449934f070?mediaType=mp4)|278,578||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Progress Michigan|

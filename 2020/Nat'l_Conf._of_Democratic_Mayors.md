@@ -1,4 +1,7 @@
 ## 2020 - Nat'l Conf. of Democratic Mayors 
+Spent: 12,063.00
+Impressions: 1,792,239
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hawkfish LLC|5,229.00 USD|Nat'l Conf. of Democratic Mayors|[0](https://www.snap.com/political-ads/asset/cd6510d9405561c676a95a2b31e933a06636c1c8d562c9d3ee680ee3951f18ef?mediaType=mp4)|850,392||18+|united states|"909 Third Avenue,New York,10022,US"|Joe Biden|

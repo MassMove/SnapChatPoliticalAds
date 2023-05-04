@@ -1,4 +1,7 @@
 ## 2019 - Amp Aware 
+Spent: 2,245.00
+Impressions: 794,249
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fluent  LLC|1,352.00 USD|Amp Aware|[0](https://www.snap.com/political-ads/asset/d134e1ca36d81471858e6d08f5802b63c357e83604828b02b2b7035dbd01e532?mediaType=jpg)|444,743||25+|united states|"33 Whitehall Street ,New York,10004,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Agent for Raymond Duplessis 
+Spent: 31.00
+Impressions: 6,499
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vote Raymond Bou Duplessis|13.00 CAD|Agent for Raymond Duplessis|[0](https://www.snap.com/political-ads/asset/c3a4374d7ed31929a9ba850780788b47861aaa859ae5cfab5f6f308de8f27586?mediaType=jpeg)|2,551|||canada|CA|Raymond Duplessis|

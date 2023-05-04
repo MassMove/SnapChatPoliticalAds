@@ -1,4 +1,7 @@
 ## 2022 - Lotteri- og stiftelsestilsynet 
+Spent: 77,605.00
+Impressions: 662,040
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trigger|32,112.00 NOK|Lotteri- og stiftelsestilsynet|[0](https://www.snap.com/political-ads/asset/8e03fe6653f8c338c8729a0b35b7a11a51f1ebd62a05d4bfe821227587c735b7?mediaType=mp4)|237,402|MALE|18-39|norway|"Torggata 15,Oslo,0181,NO"||

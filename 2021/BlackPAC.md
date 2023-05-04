@@ -1,4 +1,7 @@
 ## 2021 - BlackPAC 
+Spent: 3,124.00
+Impressions: 483,759
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|1,756.00 USD|BlackPAC|[0](https://www.snap.com/political-ads/asset/ef21a542e582d1e079cb8ab9475fb2e8f5620787d4c66a94153b8d08f2543395?mediaType=mp4)|308,108||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|Georgia Senate Runoff Election|

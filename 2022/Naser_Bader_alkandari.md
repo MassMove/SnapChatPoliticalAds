@@ -1,4 +1,7 @@
 ## 2022 - Naser Bader alkandari 
+Spent: 1,835.00
+Impressions: 244,765
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mas mediaKW|590.00 USD|Naser Bader alkandari|[0](https://www.snap.com/political-ads/asset/6f64606b2f294d32305b19b002f767c51f4e24147ce354b534830aa61b9b6c38?mediaType=mp4)|70,575||21+|kuwait|KW|Nasser Al Kanderi|

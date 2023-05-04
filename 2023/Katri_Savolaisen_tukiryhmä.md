@@ -1,4 +1,7 @@
 ## 2023 - Katri Savolaisen tukiryhmä 
+Spent: 1,280.00
+Impressions: 391,012
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Katri Savolainen|210.00 EUR|Katri Savolaisen tukiryhmä|[0](https://www.snap.com/political-ads/asset/9393193ed5b75aa86c8f789fc0eab5b23103873fb1d76728773472a50b0ff833?mediaType=jpeg)|66,662||18+|finland|FI||

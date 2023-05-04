@@ -1,4 +1,7 @@
 ## 2023 - Electoral Commission NI 
+Spent: 1,990.00
+Impressions: 615,471
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Belfast Metropolitan College|225.00 GBP|Electoral Commission NI|[0](https://www.snap.com/political-ads/asset/3d28c355a2bad358d7b9bc139550f3982a9b94ab1c363dccfafbcc5d1255f4ef?mediaType=mp4)|90,430||18-34|united kingdom|"Holywood Road,Belfast,BT42GU,GB"||

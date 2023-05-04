@@ -1,4 +1,7 @@
 ## 2021 - Sosialistisk Venstreparti 
+Spent: 60,617.00
+Impressions: 2,587,662
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sosialistisk Venstreparti|7,672.00 NOK|Sosialistisk Venstreparti|[0](https://www.snap.com/political-ads/asset/3a51f57d28a11f93c1f6469b3b112d7b7dbbd4fb1faebd6aea43c9a522483fa5?mediaType=mp4)|283,973||18-45|norway|"Hagegata 22,Oslo,0653,NO"||

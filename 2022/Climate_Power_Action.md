@@ -1,4 +1,7 @@
 ## 2022 - Climate Power Action 
+Spent: 56,475.00
+Impressions: 1,867,631
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|9,400.00 USD|Climate Power Action|[0](https://www.snap.com/political-ads/asset/f46a1ec27ffda89b81da10b9b799dec5ff9cbe1c51767ba1269139f15793c65e?mediaType=mp4)|363,174||18-34|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

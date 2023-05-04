@@ -1,4 +1,7 @@
 ## 2022 - Doctors Without Borders 
+Spent: 10,235.00
+Impressions: 1,387,759
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Doctors Without Borders|2,125.00 USD|Doctors Without Borders|[0](https://www.snap.com/political-ads/asset/f3392934647654742880a52fd51074446db717b98498774c480dd45d11db9645?mediaType=mp4)|257,329||18+|united states|"40 rector street,New York,10006,US"||

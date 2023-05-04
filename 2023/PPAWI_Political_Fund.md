@@ -1,4 +1,7 @@
 ## 2023 - PPAWI Political Fund 
+Spent: 19,498.00
+Impressions: 5,603,632
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Planned Parenthood Advocates of Wisconsin|12,000.00 USD|PPAWI Political Fund|[0](https://www.snap.com/political-ads/asset/889542913356d84f398971910ee00b360c85800e9d5f437aa2a28873fe0e7bc7?mediaType=mp4)|3,405,991||18+|united states|"302 N Jackson St,Milwaukee,53211,US"|Dan Kelly|

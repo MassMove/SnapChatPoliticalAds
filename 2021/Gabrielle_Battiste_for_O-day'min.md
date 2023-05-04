@@ -1,4 +1,7 @@
 ## 2021 - Gabrielle Battiste for O-day'min 
+Spent: 231.00
+Impressions: 91,369
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gabrielle Battiste for Ward O-day'min|94.00 CAD|Gabrielle Battiste for O-day'min|[0](https://www.snap.com/political-ads/asset/333e95f7dc0f81fdd6ce4e94d11bb1c08e417d0a8e2eeed7bef8c76e5e392dc1?mediaType=png)|44,709||18-35|canada|CA|Gabrielle Battiste|

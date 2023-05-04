@@ -1,4 +1,7 @@
 ## 2019 - Sande Høgre 
+Spent: 86.00
+Impressions: 21,067
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |West Media|15.00 USD|Sande Høgre|[0](https://www.snap.com/political-ads/asset/758335192a4ee0e8a4ddc39fa56db76437d6380be4f501ee2539d16bec35943f?mediaType=jpg)|6,613|||norway|NO||

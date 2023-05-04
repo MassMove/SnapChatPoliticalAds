@@ -1,4 +1,7 @@
 ## 2022 - Somos PAC 
+Spent: 26,934.00
+Impressions: 1,234,043
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Somos Pac|14,047.00 USD|Somos PAC|[0](https://www.snap.com/political-ads/asset/acdaf6db0d0a06878528c931d477923266fccf9f180a50ac1f376bce20696526?mediaType=mp4)|725,941||18+|united states|"901 H STREET NE, Apt 519,washington dc,20002,US"|Mark Kelly|

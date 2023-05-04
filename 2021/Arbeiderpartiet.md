@@ -1,4 +1,7 @@
 ## 2021 - Arbeiderpartiet 
+Spent: 913,131.00
+Impressions: 34,734,753
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arbeiderpartiet|64,715.00 NOK|Arbeiderpartiet|[0](https://www.snap.com/political-ads/asset/a965313cff25412c78b860f439a53704d04d886c0c627871e0d5650b21dcd5d7?mediaType=png)|2,906,166||18+|norway|"Youngstorget 2A,Oslo,0028,NO"||

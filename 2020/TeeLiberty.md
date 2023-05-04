@@ -1,4 +1,7 @@
 ## 2020 - TeeLiberty 
+Spent: 43.00
+Impressions: 20,292
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |TeeLiberty|20.00 USD|TeeLiberty|[0](https://www.snap.com/political-ads/asset/baeb6c6eb4916c5f488ab50ceae5c70c653786a7dc3c7f928b1bd76e599c20a8?mediaType=mp4)|9,572||23+|united states|US||

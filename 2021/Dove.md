@@ -1,4 +1,7 @@
 ## 2021 - Dove 
+Spent: 61,000.00
+Impressions: 17,961,316
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - Mindshare|9,720.00 USD|Dove|[0](https://www.snap.com/political-ads/asset/a9c32d4285263a8be60b1831b6c527c28b56a2b7df09b457d5c990e44cb1285f?mediaType=mp4)|4,462,518|FEMALE|18-49|united states|"PO Box 4614 GCS,New York,10163,US"||

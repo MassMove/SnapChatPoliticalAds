@@ -1,4 +1,7 @@
 ## 2020 - UNICEF Nederland 
+Spent: 1,363.00
+Impressions: 1,271,015
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mediabureau ZIGT|584.00 EUR|UNICEF Nederland|[0](https://www.snap.com/political-ads/asset/fc4660fa739d44f523e892cb41ae80e74777210cfcc5d2c356e069d81b617436?mediaType=mp4)|517,243||16-|netherlands|"Polarisavenue 175,Hoofddorp,2132 JJ ,NL"||

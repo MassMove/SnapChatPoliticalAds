@@ -1,4 +1,7 @@
 ## 2019 - Warren for President 
+Spent: 37,068.00
+Impressions: 8,477,978
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Warren for President|750.00 USD|Warren for President|[0](https://www.snap.com/political-ads/asset/b0ebb22c71c1f33d3130db21b403dbbe490c339ae98205fcc1d172855cc2d10d?mediaType=png)|909,147||18-24|united states|"90 Cambridge Street,Charlestown,02129,US"||

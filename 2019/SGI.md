@@ -1,4 +1,7 @@
 ## 2019 - SGI 
+Spent: 4,862.00
+Impressions: 2,476,690
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Phoenix Advertising Group  Inc.|2,000.00 CAD|SGI|[0](https://www.snap.com/political-ads/asset/549050319fee4a370f5aa5bd47ded5b108883d5558596f3614278fd80b70b59f?mediaType=mp4)|1,124,457||16+|canada|"195-1621 Albert St,Regina,S4P 2S5,CA"||

@@ -1,4 +1,7 @@
 ## 2021 - GOOD Political Party 
+Spent: 1,762.00
+Impressions: 1,731,162
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ad Dynamo|1,494.00 USD|GOOD Political Party|[0](https://www.snap.com/political-ads/asset/77f33ba6b389f9b965e7508670c6cee876a441ac7f9188562f79c6e189aaa92b?mediaType=png)|1,685,358||18+|south africa|"The Clock Tower, Waterfront, Cape Town, 8001, South Africa,Cape Town,8001,ZA"||

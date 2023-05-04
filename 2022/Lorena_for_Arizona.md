@@ -1,4 +1,7 @@
 ## 2022 - Lorena for Arizona 
+Spent: 1,505.00
+Impressions: 82,955
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|437.00 USD|Lorena for Arizona|[0](https://www.snap.com/political-ads/asset/6e9002afe37bc5d92049a98257fdfe03c3fef344ae3533ac2a0d35a39fedcf97?mediaType=mp4)|28,226||18+|united states|"1324 Spaight St,Madison,53703,US"|Lorena Austin|

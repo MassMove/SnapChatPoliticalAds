@@ -1,4 +1,7 @@
 ## 2022 - Scholten for Congress 
+Spent: 11,247.00
+Impressions: 468,937
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|6,076.00 USD|Scholten for Congress|[0](https://www.snap.com/political-ads/asset/d9b6ce60996833c63e08440bfad3d2329da3c01d99f5b9de6d7892b6a347af8d?mediaType=mp4)|226,736||18-35|united states|"1220 19th Street NW,Washington,20036,US"|Hillary Scholten|

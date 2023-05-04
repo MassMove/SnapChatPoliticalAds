@@ -1,4 +1,7 @@
 ## 2019 - Beto for America 
+Spent: 852.00
+Impressions: 107,914
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|220.00 USD|Beto for America|[0](https://www.snap.com/political-ads/asset/faf3f807b6ccc5b3594e3bdec0888465f1d5e24816a8f69847ffe9187dbad096?mediaType=png)|27,511|FEMALE|18+|united states|"Po Box 21600,Washington,20009,US"||

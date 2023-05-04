@@ -1,4 +1,7 @@
 ## 2020 - Ranked Choice Voting 2020 Comm. 
+Spent: 118,503.00
+Impressions: 11,817,829
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|44,530.00 USD|Ranked Choice Voting 2020 Comm.|[0](https://www.snap.com/political-ads/asset/5e0278a76bcc8fae174ab80549f3e8a77337e3da3224915bb3bb4d6c461643fa?mediaType=mp4)|4,384,800||18-35|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Yes On 2 MA Ranked Choice Voting 2020 Committee|

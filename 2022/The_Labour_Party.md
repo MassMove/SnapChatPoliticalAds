@@ -1,4 +1,7 @@
 ## 2022 - The Labour Party 
+Spent: 1,940.00
+Impressions: 536,676
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Labour Party|900.00 GBP|The Labour Party|[0](https://www.snap.com/political-ads/asset/09cee60ea25c12b3e43d19a0102dd0287242b581fce67ef98f0b621b830dfe44?mediaType=mp4)|252,654||18+|united kingdom|"Kings Manor,Newcastle,NE16PA,GB"|London Labour|

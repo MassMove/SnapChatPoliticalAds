@@ -1,4 +1,7 @@
 ## 2020 - Plan International Canada 
+Spent: 46,093.00
+Impressions: 8,840,894
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Aber Group|20,000.00 CAD|Plan International Canada|[0](https://www.snap.com/political-ads/asset/f405c50cf25372a273e05d21645935b82fb75f257ce679d9c83d6f7bc03c69cd?mediaType=mp4)|3,627,770||18+|canada|"608-120 Eglinton Avenue East,Toronto,M4P1E2,CA"||

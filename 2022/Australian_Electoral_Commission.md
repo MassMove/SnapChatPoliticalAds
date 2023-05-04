@@ -1,4 +1,7 @@
 ## 2022 - Australian Electoral Commission 
+Spent: 386,997.00
+Impressions: 76,155,777
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|39,000.00 AUD|Australian Electoral Commission|[0](https://www.snap.com/political-ads/asset/8a73e3d4433fdf3e9bd759ca1c175ea57e8aac49242485dcff92ae1ee5e571d3?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/db2d77c1f750ef8b3c9e2d978d8254d467097feddc5115ce18857e849a20dba8?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/7e7232600b32295701056e1806c0d95673a1bd58b16de7bdbdef7f9c32b37280?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/cb14fe08b79ad61e047ec76f5700e0e176a2480a3dda0958c463a327e821b14a?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/ff73b43c475d60cbdcf6effd08f2d951cbd97746e3ef223dcace686e88ce3e31?mediaType=mp4),[5](https://www.snap.com/political-ads/asset/15d2eb3d4091d4743dc0bc6c3142d7a16c344c597b7dd9837de0bfebd083dc2d?mediaType=mp4)|15,022,697||18-24|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

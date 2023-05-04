@@ -1,4 +1,7 @@
 ## 2020 - Old Navy 
+Spent: 91,008.00
+Impressions: 127,832,019
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |PMG Worldwide  LLC|65,615.00 USD|Old Navy|[0](https://www.snap.com/political-ads/asset/185d16aeb00107b7b20fff0cbad6f35065b6e93ad0f6b4625a56ba0a531a7c65?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f32e4467e5201c8006e9e6a070f14975762c240b0eb19d330c02f9d11ff3893f?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/1abaf4c0a2e37abb54d33784c08a9a53fb4d0eb51a3f2d68bbc38b2e9ac579c7?mediaType=mp4)|76,992,259||18+|united states|"2845 W. 7th,,,Fort Worth,76107,US"||

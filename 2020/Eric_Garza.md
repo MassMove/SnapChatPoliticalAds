@@ -1,4 +1,7 @@
 ## 2020 - Eric Garza 
+Spent: 2,269.00
+Impressions: 1,047,671
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Eric Garza|959.00 USD|Eric Garza|[0](https://www.snap.com/political-ads/asset/3e58daabda89d0dfa991895b440eee4d30df2bddd77fac511ee8ff4d0c5d57c5?mediaType=jpg)|506,356||18-35|united states|US|Eric Garza|

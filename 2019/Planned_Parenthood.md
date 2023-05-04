@@ -1,4 +1,7 @@
 ## 2019 - Planned Parenthood 
+Spent: 180,073.00
+Impressions: 75,463,713
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |R/GA|118,706.00 USD|Planned Parenthood|[0](https://www.snap.com/political-ads/asset/cf786df6d8d1f21efd662cf03ab271ebb48afd385ea8ed5789734a57a22be541?mediaType=mov)|50,044,571||17-|united states|"450 W 33rd St,New York,10001,US"||

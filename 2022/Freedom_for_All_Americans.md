@@ -1,4 +1,7 @@
 ## 2022 - Freedom for All Americans 
+Spent: 8,284.00
+Impressions: 1,357,295
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Freedom for All Americans|946.00 USD|Freedom for All Americans|[0](https://www.snap.com/political-ads/asset/d6d521111cbfee1db9c74e8331d6e7ebdc7b93d6d74601f6d8d6c3ed48cb8872?mediaType=mp4)|213,554||18+|united states|US||

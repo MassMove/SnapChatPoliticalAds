@@ -1,4 +1,7 @@
 ## 2018 - NAMI 
+Spent: 6,295.00
+Impressions: 1,666,871
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |National Alliance on Mental Illness|1,299.00 USD|NAMI|[0](https://www.snap.com/political-ads/asset/586a7169507689288d23a791f8d58703cfacf7e1161f09771780b8946b9d6935?mediaType=mp4)|413,862||18-20|united states|"3803 N. Fairfax Dr., Suite 100,Arlington,22203,US"||

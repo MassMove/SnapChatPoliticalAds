@@ -1,4 +1,7 @@
 ## 2023 - NYC Health Department 
+Spent: 45,748.00
+Impressions: 11,773,646
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|24,024.00 USD|NYC Health Department|[0](https://www.snap.com/political-ads/asset/cebbdaf32485f386ec1825e48a915559bc2b910714b71c46a6bc3015411d4b15?mediaType=jpg)|8,626,657|FEMALE|30-|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

@@ -1,4 +1,7 @@
 ## 2021 - Conservation Colorado 
+Spent: 773.00
+Impressions: 158,373
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|215.00 USD|Conservation Colorado|[0](https://www.snap.com/political-ads/asset/3589b7d7815ddf51f945ac44054b939ea2069e10f669341e8882deca1b75c265?mediaType=mp4)|41,867||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

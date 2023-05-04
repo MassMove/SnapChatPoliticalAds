@@ -1,4 +1,7 @@
 ## 2020 - ONE Deutschland 
+Spent: 101.00
+Impressions: 48,494
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |TLGG|81.00 EUR|ONE Deutschland|[0](https://www.snap.com/political-ads/asset/25d64eb86be3964d4183ae7520a62dae6b0aa9eae8b90275fc55ed9b8cd556e7?mediaType=png)|39,620||18+|germany|"Paul-Lincke-Ufer 39/40,Berlin,10999,DE"||

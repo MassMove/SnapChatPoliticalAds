@@ -1,4 +1,7 @@
 ## 2022 - League of Women Voters of CA 
+Spent: 7,820.00
+Impressions: 752,132
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |League of Women Voters of California|1,354.00 USD|League of Women Voters of CA|[0](https://www.snap.com/political-ads/asset/7e45701b494875cdffa3558b8c7de2956e7600c21127490b0410342ba704b900?mediaType=mp4)|140,958||18-24|united states|US||

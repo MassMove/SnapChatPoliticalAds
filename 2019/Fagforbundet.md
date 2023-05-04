@@ -1,4 +1,7 @@
 ## 2019 - Fagforbundet 
+Spent: 571.00
+Impressions: 268,901
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |T/A Opt|200.00 EUR|Fagforbundet|[0](https://www.snap.com/political-ads/asset/7328f470292ec4260c2a08ebc52ece6ee021acf2aeff55242994288992fcaf5b?mediaType=mp4)|94,667||25+|norway|"Øvre Slottsgate 8,Oslo,0157,NO"||

@@ -1,4 +1,7 @@
 ## 2022 - Bold Alliance Inc 
+Spent: 634.00
+Impressions: 283,950
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|121.00 USD|Bold Alliance Inc|[0](https://www.snap.com/political-ads/asset/b047a66c6d9efc6f026277288d54ac49ff65a33f924652cca502ed753ae00710?mediaType=png)|53,954||18-34|united states|"919 Central Ave,Auburn,68305,US"|Bold Alliance Inc|

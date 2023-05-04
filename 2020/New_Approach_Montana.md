@@ -1,4 +1,7 @@
 ## 2020 - New Approach Montana 
+Spent: 9,614.00
+Impressions: 399,881
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|6,395.00 USD|New Approach Montana|[0](https://www.snap.com/political-ads/asset/923834a9ec1b8fe699ea9bcd4a31abbed38c8ee58ab752140850c949895deb54?mediaType=mp4)|268,327||18-40|united states|"2054 University Ave STE 600,Berkeley,94704,US"|New Approach Montana|

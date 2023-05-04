@@ -1,4 +1,7 @@
 ## 2020 - D-Squared Commerce, LLC 
+Spent: 1,132.00
+Impressions: 957,129
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |D-Squared Commerce  LLC|274.00 USD|D-Squared Commerce, LLC|[0](https://www.snap.com/political-ads/asset/aae099033cd14608903d540b296be5050eba1cd670c29120db9de1adb2f5b986?mediaType=mp4)|303,183|||united states|US|PrezzyFlipFlops|

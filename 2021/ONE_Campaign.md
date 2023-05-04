@@ -1,4 +1,7 @@
 ## 2021 - ONE Campaign 
+Spent: 26,336.00
+Impressions: 10,413,126
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |TouchPoint Integrated Communications|6,607.00 USD|ONE Campaign|[0](https://www.snap.com/political-ads/asset/4454bb1864c0481e1eee042a860bca120b7cd6b2076a035e7994f3663d2d0876?mediaType=mp4)|4,700,813||18-34|france|"16 Thorndal Circle,Darien,06820,US"||

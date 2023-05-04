@@ -1,4 +1,7 @@
 ## 2021 - NSW Electoral Commission 
+Spent: 14,821.00
+Impressions: 7,231,273
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavemaker Sydney|2,634.00 AUD|NSW Electoral Commission|[0](https://www.snap.com/political-ads/asset/36dd16578929f9c03b5d3cc9dd442efa6e5f693653469d2f94078eb737494b51?mediaType=mp4)|965,976||17-24|australia|"65 Berry St,North Sydney,2060,AU"||

@@ -1,4 +1,7 @@
 ## 2022 - Casteen for Arizona 
+Spent: 2,039.00
+Impressions: 86,947
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|487.00 USD|Casteen for Arizona|[0](https://www.snap.com/political-ads/asset/90a91185f7c0c1bf9ff8b1c60678fb54a3185aeeced45a8651b2123a784d7e87?mediaType=mp4)|26,247||18+|united states|"1324 Spaight St,Madison,53703,US"|Jeanne Casteen|

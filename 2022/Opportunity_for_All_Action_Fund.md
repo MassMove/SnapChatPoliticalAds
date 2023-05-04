@@ -1,4 +1,7 @@
 ## 2022 - Opportunity for All Action Fund 
+Spent: 3,372.00
+Impressions: 1,111,874
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|2,697.00 USD|Opportunity for All Action Fund|[0](https://www.snap.com/political-ads/asset/03a46bb725f9c29e50bbd9a27267a19a5fcdf14df216a13231f2d9ae9129cc73?mediaType=mp4)|907,387||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"||

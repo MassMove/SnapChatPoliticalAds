@@ -1,4 +1,7 @@
 ## 2020 - OALShaheen 
+Spent: 6,594.00
+Impressions: 3,427,516
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Boutiqaat|1,164.00 USD|OALShaheen|[0](https://www.snap.com/political-ads/asset/28857bb430243fa35e28123b892875ffde4f5999e310d7ecf9cc90065b649a07?mediaType=jpeg)|747,656||21+|kuwait|"31 St, Shuwaikh Industrial,Shuwaikh,2491,KW"|Osama AlShaheen|

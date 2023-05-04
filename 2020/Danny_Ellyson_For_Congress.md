@@ -1,4 +1,7 @@
 ## 2020 - Danny Ellyson For Congress 
+Spent: 134.00
+Impressions: 79,203
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ellyson For Congress|48.00 USD|Danny Ellyson For Congress|[0](https://www.snap.com/political-ads/asset/7d331ff78024636934147821422b776599234c97f7d9bf9702723725e839d764?mediaType=mp4)|30,709||18+|united states|US|Danny Ellyson|

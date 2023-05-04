@@ -1,4 +1,7 @@
 ## 2020 - Montanans for Bullock 
+Spent: 50,057.00
+Impressions: 12,243,254
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Rising Tide Interactive LLC|12,374.00 USD|Montanans for Bullock|[0](https://www.snap.com/political-ads/asset/a9fa0672a21f387dd48d201922874466e2265cfa1436b934ea76b65222317c12?mediaType=mp4)|2,934,056||18+|united states|"1250 H St. NW,Washington,20005,US"|Montanans for Bullock|

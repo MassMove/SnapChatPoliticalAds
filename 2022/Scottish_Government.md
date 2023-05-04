@@ -1,4 +1,7 @@
 ## 2022 - Scottish Government 
+Spent: 10,306.00
+Impressions: 3,028,464
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Republic of Media Ltd.|928.00 GBP|Scottish Government|[0](https://www.snap.com/political-ads/asset/2e191309efd1868d82ab1247be788ada2745df6e8afa484ef26d0bd1138b7b2b?mediaType=jpg)|642,597||18-25|united kingdom|"4th Floor, Nova House,Edinburgh,EH3 9QQ,GB"||

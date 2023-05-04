@@ -1,4 +1,7 @@
 ## 2020 - Alexandria Ocasio-Cortez 2020 
+Spent: 5,507.00
+Impressions: 1,840,039
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|481.00 USD|Alexandria Ocasio-Cortez 2020|[0](https://www.snap.com/political-ads/asset/9acf13bee168e8f3f622288aaaad2d18245bcb71a7f9c88348813f98975a7851?mediaType=png)|317,876||18+|united states|"Po Box 21600,Washington,20009,US"|Alexandria Ocasio-Cortez|

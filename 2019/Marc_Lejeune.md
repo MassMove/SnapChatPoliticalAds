@@ -1,4 +1,7 @@
 ## 2019 - Marc Lejeune 
+Spent: 251.00
+Impressions: 246,664
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marc Lejeune Élections|73.00 EUR|Marc Lejeune|[0](https://www.snap.com/political-ads/asset/d3e029e322f10f96fef7ba58b2a048f6f8a423a4ee2936a927580f1d9445f1e8?mediaType=png)|69,228||18+|belgium|BE||

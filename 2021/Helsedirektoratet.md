@@ -1,4 +1,7 @@
 ## 2021 - Helsedirektoratet 
+Spent: 195,229.00
+Impressions: 4,896,020
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|23,188.00 NOK|Helsedirektoratet|[0](https://www.snap.com/political-ads/asset/2efcafe4555a2e8c87b0225f4a2de036faa612e1c186be63226f7e704bd23b63?mediaType=mp4)|877,721||15-17|norway|"Kongens gate 6,Oslo,0153,NO"||

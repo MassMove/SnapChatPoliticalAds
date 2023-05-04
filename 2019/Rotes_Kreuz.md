@@ -1,4 +1,7 @@
 ## 2019 - Rotes Kreuz 
+Spent: 4,969.00
+Impressions: 4,108,709
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |dreifive GmbH|1,258.00 EUR|Rotes Kreuz|[0](https://www.snap.com/political-ads/asset/944eee0debbe165e8aa216be7f58c0681b5bcb4be162446747263ac2af6c66b9?mediaType=mp4)|1,102,722||18-25|austria|"Laimgrubengasse 14,Vienna,1060,AT"||

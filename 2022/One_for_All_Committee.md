@@ -1,4 +1,7 @@
 ## 2022 - One for All Committee 
+Spent: 128,337.00
+Impressions: 5,498,761
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|6,854.00 USD|One for All Committee|[0](https://www.snap.com/political-ads/asset/f5a3e13437f0c0380c90609b147977d789651e28d01ff9a937bec52f0ade7ddd?mediaType=mp4)|507,835|FEMALE|18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Mandela Barnes for Senate|

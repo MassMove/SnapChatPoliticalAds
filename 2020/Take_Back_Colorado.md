@@ -1,4 +1,7 @@
 ## 2020 - Take Back Colorado 
+Spent: 5,259.00
+Impressions: 951,127
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Campaign Solutions|2,000.00 USD|Take Back Colorado|[0](https://www.snap.com/political-ads/asset/772b6661256a1ccd0cb87c8231605ba9ae8c78bcd2b047d5641786397415f7db?mediaType=mp4)|364,655||19+|united states|US|Take Back Colorado|

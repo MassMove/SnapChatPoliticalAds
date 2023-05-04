@@ -1,4 +1,7 @@
 ## 2020 - PACRONYM 
+Spent: 272,638.00
+Impressions: 71,478,970
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lockwood Strategy|1,737.00 USD|PACRONYM|[0](https://www.snap.com/political-ads/asset/fa38fabbc8e8170691da80e0387909ca8fcf144529e16229306ef9dc11f0f7dd?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/ea3bbcf36ac4c2eea35338f0bf0e48edf8583b6c5616c7383ce83c73e35516b2?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/593e248a9c5ebede70eb7c5e7b6d83a68b2b3bb416091504398852f88507fc0b?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/3809b7f1b5355f40d6c7687ceb0ce12903d25688f03769bff72435f2022d0906?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/7c5dc5d48b0d33145bf5be2ce36507ec625b07ef69d2e698f133fc5cdfa578e0?mediaType=mp4),[5](https://www.snap.com/political-ads/asset/58edb51509c7f68bc13b9ac68e1e871e50e333001117a0dd0f00d601eb40f0df?mediaType=mp4),[6](https://www.snap.com/political-ads/asset/11ff50a4cc6906366015767697c557488aa328f0b36a0eb7f2f1007d96603e43?mediaType=mp4),[7](https://www.snap.com/political-ads/asset/1fed907d737283b894ab6758e6938b985e0a1a55923e57fdeedd65921a4c68e7?mediaType=mp4),[8](https://www.snap.com/political-ads/asset/28ce3800b2d1890b747c9616de5b45147118d71d5862773f551d67f9fcfdca94?mediaType=mp4)|1,217,887||18-39|united states|"1140 3rd St. NW,Washington,20002,US"||

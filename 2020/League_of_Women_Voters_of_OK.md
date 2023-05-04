@@ -1,4 +1,7 @@
 ## 2020 - League of Women Voters of OK 
+Spent: 5,650.00
+Impressions: 1,726,257
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |League of Women Voters of Oklahoma|1,200.00 USD|League of Women Voters of OK|[0](https://www.snap.com/political-ads/asset/5ca8dc814ae69bdcb41967b304b5735cb264032acefab03bfa92af7b1c965726?mediaType=png)|616,923|||united states|US|Vote Early|

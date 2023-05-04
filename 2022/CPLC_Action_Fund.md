@@ -1,4 +1,7 @@
 ## 2022 - CPLC Action Fund 
+Spent: 9,279.00
+Impressions: 2,585,488
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Latino Loud|2,034.00 USD|CPLC Action Fund|[0](https://www.snap.com/political-ads/asset/cb1a84d08a9eb2733251e2f934dcdc6ebe79490657595a5c9dfd987876c3aeb7?mediaType=mp4)|609,170||18-39|united states|US||

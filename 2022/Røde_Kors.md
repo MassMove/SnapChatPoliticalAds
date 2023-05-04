@@ -1,4 +1,7 @@
 ## 2022 - Røde Kors 
+Spent: 140,273.00
+Impressions: 5,918,944
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|21,673.00 NOK|Røde Kors|[0](https://www.snap.com/political-ads/asset/7f0c15e08e6a1b6da245b4b0cd0a8722b7adad9fcbb6e98c47291e7bf6710fe0?mediaType=mp4)|1,657,749||19-|norway|"Kongens gate 6,Oslo,0153,NO"||

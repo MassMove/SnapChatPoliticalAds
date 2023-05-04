@@ -1,4 +1,7 @@
 ## 2018 - Planned Parenthood Votes 
+Spent: 7,033.00
+Impressions: 1,968,801
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|2,278.00 USD|Planned Parenthood Votes|[0](https://www.snap.com/political-ads/asset/f984566ab267f4783d057402974cd14195faee0e8d0d8e6c157b244d639ba446?mediaType=jpg)|686,585|FEMALE|18-34|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2018 - Knock The Vote 
+Spent: 60,916.00
+Impressions: 15,591,968
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ACRONYM|21,546.00 USD|Knock The Vote|[0](https://www.snap.com/political-ads/asset/8bae97ee9139db22bfcfdb6f7d46af92e65e1cbd5dd5d17d4723fba37c3b46b9?mediaType=mp4)|5,219,658||18-34|united states|US||

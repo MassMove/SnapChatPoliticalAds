@@ -1,4 +1,7 @@
 ## 2021 - Everytown for Gun Safety AF 
+Spent: 929.00
+Impressions: 850,141
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|201.00 USD|Everytown for Gun Safety AF|[0](https://www.snap.com/political-ads/asset/40c5fd87369b68659ff7ff5418f1b513011060dd755a1213b22eaa7d23311be9?mediaType=mp4)|262,182|||united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

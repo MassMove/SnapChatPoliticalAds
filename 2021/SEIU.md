@@ -1,4 +1,7 @@
 ## 2021 - SEIU 
+Spent: 17,999.00
+Impressions: 3,825,753
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fight for $15|9,985.00 USD|SEIU|[0](https://www.snap.com/political-ads/asset/a00a64cf791dff0a2bedc5984de7c64bdf9a1b902f2d3786e8436b414322076e?mediaType=mp4)|2,258,348||18+|united states|US|Fight for 15|

@@ -1,4 +1,7 @@
 ## 2020 - Snap Inc. 
+Spent: 149,317.00
+Impressions: 70,886,784
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Brand_Politics|15,141.00 USD|Snap Inc.|[0](https://www.snap.com/political-ads/asset/95e7efc3b7c94ae1693db4e7b0f2d7258e45b297749a6a8ad6b2d8f2f55cff17?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f837db7214159992c0fdeb96211dd7d4981a9da783b9a76769882050ed7640f1?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/3a93876dbb8493152f91efe1b7f055484d351148bad60c0910dec2ae99f884d1?mediaType=mp4)|20,170,215||18-34|united states|US||

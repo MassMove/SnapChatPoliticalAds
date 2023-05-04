@@ -1,4 +1,7 @@
 ## 2022 - NRDC Action 
+Spent: 11,636.00
+Impressions: 869,128
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,684.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/c382ff3cb988329579750df1c376d51ca0ee176598bd072172e8eb942dca37ba?mediaType=mp4)|157,083||25-35|united states|US||

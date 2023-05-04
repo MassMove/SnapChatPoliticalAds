@@ -1,4 +1,7 @@
 ## 2019 - City of Denver 
+Spent: 9,652.00
+Impressions: 5,139,935
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|1,515.00 USD|City of Denver|[0](https://www.snap.com/political-ads/asset/dd1e83c64db28cce7cbdcf692ec8a29b88690dadcef0e79e278aa7a8ffa0c0af?mediaType=mp4)|894,480||18-|united states|"201 W Colfax Ave,Denver,80202,US"||

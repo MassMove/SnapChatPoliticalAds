@@ -1,4 +1,7 @@
 ## 2019 - sp.a 
+Spent: 4,901.00
+Impressions: 2,254,673
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |vzw OSP|1,221.00 EUR|sp.a|[0](https://www.snap.com/political-ads/asset/83c2d877a579edd26f41602c55fa287d8b908cd5528c8e20a59f67f239f6753c?mediaType=mp4)|564,865||18-34|belgium|BE||

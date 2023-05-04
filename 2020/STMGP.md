@@ -1,4 +1,7 @@
 ## 2020 - STMGP 
+Spent: 25,338.00
+Impressions: 13,412,989
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OMD München GmbH|4,000.00 EUR|STMGP|[0](https://www.snap.com/political-ads/asset/43b1275022110054b53cf405f9e31e55db669c0722bce86cd960f4eb71838464?mediaType=mp4)|2,201,344||18+|germany|"Blumenstraße 28,München,80331,DE"||

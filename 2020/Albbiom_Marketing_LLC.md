@@ -1,4 +1,7 @@
 ## 2020 - Albbiom Marketing LLC 
+Spent: 418,028.00
+Impressions: 435,191,562
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marud Khan|26,129.00 USD|Albbiom Marketing LLC|[0](https://www.snap.com/political-ads/asset/c7068277cf10a9362f87d59b0d80a8b6d9967c8f99fa2e618e4a3b5e5b7ec314?mediaType=jpeg)|33,848,538|||united states|"7050 W. Palmetto Rd. Suite 15-504,Boca raton,33433,US"||

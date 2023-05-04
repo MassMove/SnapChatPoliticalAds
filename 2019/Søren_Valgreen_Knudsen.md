@@ -1,4 +1,7 @@
 ## 2019 - Søren Valgreen Knudsen 
+Spent: 779.00
+Impressions: 342,936
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SørenValgreen|135.00 USD|Søren Valgreen Knudsen|[0](https://www.snap.com/political-ads/asset/df33ddd84122b4b29118a4efa96c83e582185662a1fffc0d0dfe530e6395ae37?mediaType=mp4)|56,926||20-26|denmark|DK||

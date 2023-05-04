@@ -1,4 +1,7 @@
 ## 2022 - Steffen Helledie 
+Spent: 2,606.00
+Impressions: 68,802
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Steffen Helledie|365.00 DKK|Steffen Helledie|[0](https://www.snap.com/political-ads/asset/528d3de1e1a20c3d1da3643deba1ce3173c4fcc17f9699b62182d7c823662d28?mediaType=mp4)|17,614||18+|denmark|DK|Steffen Helledie|

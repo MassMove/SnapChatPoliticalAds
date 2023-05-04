@@ -1,4 +1,7 @@
 ## 2020 - LCV Action Fund 
+Spent: 128,944.00
+Impressions: 31,826,301
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|4,311.00 USD|LCV Action Fund|[0](https://www.snap.com/political-ads/asset/c8b8698279c986ff09020e58842d9a9eea88fa6515131c65863944cda737442f?mediaType=mp4)|1,484,255|FEMALE|18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

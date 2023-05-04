@@ -1,4 +1,7 @@
 ## 2020 - DCCC 
+Spent: 41,199.00
+Impressions: 8,864,639
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|8,024.00 USD|DCCC|[0](https://www.snap.com/political-ads/asset/f9f8e9ec6bba8b5fe16c5565189aabb4815ac586ada019641f5d6328859f3750?mediaType=mp4)|2,450,898||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"|DCCC|

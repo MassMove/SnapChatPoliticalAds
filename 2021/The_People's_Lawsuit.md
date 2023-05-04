@@ -1,4 +1,7 @@
 ## 2021 - The People's Lawsuit 
+Spent: 24,985.00
+Impressions: 7,877,440
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|4,200.00 USD|The People's Lawsuit|[0](https://www.snap.com/political-ads/asset/efd57cf291cbf878b38412ab19eace164f19191a998c0b2bbc1f06df68fc97f0?mediaType=png)|1,541,131||18-29|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

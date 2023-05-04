@@ -1,4 +1,7 @@
 ## 2022 - ahmad alhamad 
+Spent: 4,490.00
+Impressions: 1,194,224
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ahmad Alhamad|2,513.00 USD|ahmad alhamad|[0](https://www.snap.com/political-ads/asset/d5ac960c5b612a3b8938e919b24fcbb6878dbe1c352c3aad94c772215416b2b7?mediaType=jpeg)|740,027||20+|kuwait|KW||

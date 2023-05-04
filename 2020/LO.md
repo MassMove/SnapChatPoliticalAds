@@ -1,4 +1,7 @@
 ## 2020 - LO 
+Spent: 7,875.00
+Impressions: 3,548,428
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Spooon Agency Norway|1,000.00 EUR|LO|[0](https://www.snap.com/political-ads/asset/1e8ecdca82e8c1a07a16bc15c8844b887c694744c399a0c768bd9ea74f4d2e24?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/9a20595c188ae233259bcb3d357c21b9071d6c9da3a45e652a39f2c021fd2d86?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/29014a0eaf54ff8c6b2ac42186a5b1c3983d1117032285b1f389fb6362e2539d?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/0e76e4235cc34cc42042d29331024920f74355e9d3f44db35ec56104910ae8c7?mediaType=mp4)|1,241,710||20+|norway|"Grensen 17,Oslo,0159,NO"||

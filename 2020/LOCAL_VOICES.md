@@ -1,4 +1,7 @@
 ## 2020 - LOCAL VOICES 
+Spent: 832.00
+Impressions: 207,627
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Local Voices|554.00 USD|LOCAL VOICES|[0](https://www.snap.com/political-ads/asset/d723dbcacb8bf957a629747e8133d27bac5b49e6d3f8fb8d3a812a2b969db57d?mediaType=mp4)|134,489|FEMALE|18-40|united states|US|Biden|

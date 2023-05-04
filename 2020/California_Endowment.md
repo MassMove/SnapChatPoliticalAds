@@ -1,4 +1,7 @@
 ## 2020 - California Endowment 
+Spent: 3,684.00
+Impressions: 1,086,517
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Creative Space Group|594.00 USD|California Endowment|[0](https://www.snap.com/political-ads/asset/ef92872a3bac14e320f6e37c666335a6ad0809621929c98dbb77ac86b84b4a0b?mediaType=mp4)|205,499||18-40|united states|US||

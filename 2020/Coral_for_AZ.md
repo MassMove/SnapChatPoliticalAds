@@ -1,4 +1,7 @@
 ## 2020 - Coral for AZ 
+Spent: 722.00
+Impressions: 87,639
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|370.00 USD|Coral for AZ|[0](https://www.snap.com/political-ads/asset/68fc62871819f132b1c2fd544362d79ce1bf24199c72cfaf599791cdf73c3da0?mediaType=mp4)|66,526||18+|united states|"1324 Spaight St,Madison,53703,US"|Coral Evans|

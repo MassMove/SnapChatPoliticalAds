@@ -1,4 +1,7 @@
 ## 2019 - United We Dream Action 
+Spent: 1,293.00
+Impressions: 334,670
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|108.00 USD|United We Dream Action|[0](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|15,134|||united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

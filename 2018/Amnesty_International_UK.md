@@ -1,4 +1,7 @@
 ## 2018 - Amnesty International UK 
+Spent: 1,281.00
+Impressions: 703,862
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amnesty International UK|445.00 GBP|Amnesty International UK|[0](https://www.snap.com/political-ads/asset/2c26481dd98f7320cd4bb64c2c5fe597f9d87a3e80b96463c14e972fbe05e19d?mediaType=mp4)|232,906||25+|united kingdom|"17-25 New Inn Yard,London,EC2A 3EA,GB"||

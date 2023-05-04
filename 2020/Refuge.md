@@ -1,4 +1,7 @@
 ## 2020 - Refuge 
+Spent: 3,185.00
+Impressions: 4,602,249
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Refuge|785.00 GBP|Refuge|[0](https://www.snap.com/political-ads/asset/550c43fd01c6b7027143f5993dca966c1107372ac8923b3b370c7169368e22e8?mediaType=png),[1](https://www.snap.com/political-ads/asset/2c4f6f856f6fdc326ea8a279bf5e8c81377ff72878a0bfd3873d785a250a71d0?mediaType=png),[2](https://www.snap.com/political-ads/asset/d30a375818881ca0d257bcfe9eed1677c0b26c5c7bccf19998ad097c2ab81475?mediaType=png)|1,792,477||25+|united kingdom|"One America Square, 3rd floor, 17 Crosswall,London,EC3N 2LB,GB"||

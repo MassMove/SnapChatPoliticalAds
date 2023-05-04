@@ -1,4 +1,7 @@
 ## 2019 - Kommunesektorens organisasjon 
+Spent: 6,997.00
+Impressions: 3,131,163
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |T/A Opt|2,589.00 EUR|Kommunesektorens organisasjon|[0](https://www.snap.com/political-ads/asset/1783cbe17e39a1b1cccdfa5901be63f0dc3ddb51908495f40264eb52079da8da?mediaType=mp4)|1,120,214||20-34|norway|"Øvre Slottsgate 8,Oslo,0157,NO"||

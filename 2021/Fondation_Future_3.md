@@ -1,4 +1,7 @@
 ## 2021 - Fondation Future 3 
+Spent: 1,996.00
+Impressions: 1,013,127
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |13Arty Consulting SA|468.00 EUR|Fondation Future 3|[0](https://www.snap.com/political-ads/asset/642200168bffe45b0c11f3569cc56bb44b8981be4cfef0514b37dd66307449f0?mediaType=mp4)|232,774||18+|switzerland|"Gouttes d'Or 92,Neuchâtel,2000,CH"|Initiative Suisse libre de pesticides de synthese|

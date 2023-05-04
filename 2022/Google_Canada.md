@@ -1,4 +1,7 @@
 ## 2022 - Google Canada 
+Spent: 1,266,085.00
+Impressions: 98,480,618
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Essence Global Canada Inc.|102,186.00 CAD|Google Canada|[0](https://www.snap.com/political-ads/asset/8d93eaaacfeb4d27a65ec1a693a3cb259df9eee2fb3f54434c94dec783478bd5?mediaType=mp4)|10,991,476||18-34|canada|"155 Queens Quay East,Toronto,M5A 0W4,CA"|Bill C 11|

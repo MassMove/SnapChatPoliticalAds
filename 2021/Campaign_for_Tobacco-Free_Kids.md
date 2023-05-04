@@ -1,4 +1,7 @@
 ## 2021 - Campaign for Tobacco-Free Kids 
+Spent: 14,210.00
+Impressions: 1,360,075
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|6,183.00 USD|Campaign for Tobacco-Free Kids|[0](https://www.snap.com/political-ads/asset/70a9289c1991192b64f79ec43485ec1c14fb07fa4b298e3299ed388e65716e63?mediaType=png)|486,810||16-21|united states|"1445 New York Ave NW,Washington,20005,US"||

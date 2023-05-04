@@ -1,4 +1,7 @@
 ## 2020 - Minnesota Department of Health 
+Spent: 111,947.00
+Impressions: 42,690,954
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Media News Group Inc.|24,520.00 USD|Minnesota Department of Health|[0](https://www.snap.com/political-ads/asset/ad61ff4864b6a63a32755ea602125d7948b3dc1c68619d565d45659646a10d25?mediaType=mp4)|10,075,631|||united states|"10 River Park Plaza, Suit 700,St. Paul,55107,US"|Minnesota Department of Health|

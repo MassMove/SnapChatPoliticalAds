@@ -1,4 +1,7 @@
 ## 2019 - OPC 
+Spent: 1,199.00
+Impressions: 723,077
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|833.00 CAD|OPC|[0](https://www.snap.com/political-ads/asset/1094f5cdea3c6095c1eb4359607165d1f542bb53e44d200a18e9bf62d44e77d5?mediaType=mp4)|489,994||18-24|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

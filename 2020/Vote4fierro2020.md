@@ -1,4 +1,7 @@
 ## 2020 - Vote4fierro2020 
+Spent: 230.00
+Impressions: 42,312
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vote4fierro|39.00 USD|Vote4fierro2020|[0](https://www.snap.com/political-ads/asset/1ea6ed0851be97a6d6e077568fea21a89239b8d268d3343d2664276e3a8c06a8?mediaType=jpeg)|10,249||18+|united states|US||

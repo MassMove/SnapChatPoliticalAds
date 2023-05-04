@@ -1,4 +1,7 @@
 ## 2022 - Californians for Solutions 
+Spent: 200,118.00
+Impressions: 14,088,173
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Aisle 518 Strategies LLC|39,561.00 USD|Californians for Solutions|[0](https://www.snap.com/political-ads/asset/ccbc46d93d060a91ff8e14b0f1b76c7e408435d0bf0fa586c3a21bf550385233?mediaType=mp4)|1,977,393||18-44|united states|"1133 15th St NW,Washington,20005,US"|Yes on 27 Californians for Solutions to Homeless|

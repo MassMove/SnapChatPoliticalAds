@@ -1,4 +1,7 @@
 ## 2020 - Shelley Luther For Texas 
+Spent: 366.00
+Impressions: 58,740
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vici Media Group|185.00 USD|Shelley Luther For Texas|[0](https://www.snap.com/political-ads/asset/667cf64145112ee78adb600afba8394b0bf6886ed85ee996c499f93f0ee6a6af?mediaType=mp4)|28,641||18+|united states|"816 Big Woods Rd,Longview,75605,US"|Shelley Luther for Texas|

@@ -1,4 +1,7 @@
 ## 2019 - Recreational Equipment, Inc. 
+Spent: 323,790.00
+Impressions: 157,811,807
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mediavest Spark|99,361.00 USD|Recreational Equipment, Inc.|[0](https://www.snap.com/political-ads/asset/6d820de2ca7dad2374dda0d774f37eb01f764d71b26ecb1a614d48878583c67a?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/1561a8d21afecccb93aa46129ee340893656c196a82090ad712169dd75c2eb59?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/e3f46c39101e56a5eb94cf7eff6dc23e73a37a1f5d38366dd1801d98b6d3e4f9?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/d8581e9f790b0bde6b6f05c57f26217edbee731dff42417dc6eaa4780b4f083d?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/c820eb2c9cd42f7126903e70a791fcda1cee309125795edcd6dc7831d4fb8566?mediaType=mp4)|84,687,140||18+|united states|"375 Hudson Street     Attn: Mailroom,New York,10014,US"||

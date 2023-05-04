@@ -1,4 +1,7 @@
 ## 2020 - RSEQ 
+Spent: 6,316.00
+Impressions: 2,526,218
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Radiance Media|663.00 CAD|RSEQ|[0](https://www.snap.com/political-ads/asset/75dbe3784367e3691ddd195abb1b2d113e593c4f456e1f932f00029aed8d79a3?mediaType=mp4)|267,366||17-25|canada|"1360 Ropery, Suite 101,Montreal,H3K2X3,CA"||

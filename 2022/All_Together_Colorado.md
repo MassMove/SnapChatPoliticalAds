@@ -1,4 +1,7 @@
 ## 2022 - All Together Colorado 
+Spent: 3,864.00
+Impressions: 254,472
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ascend Digital Strategies  LLC|1,492.00 USD|All Together Colorado|[0](https://www.snap.com/political-ads/asset/48bd570ccab518fbf9ff0611a10850474ff249f13d9c770d77667d5ab7b8a383?mediaType=mp4)|159,484||18+|united states|US|All Together Colorado|

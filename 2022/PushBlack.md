@@ -1,4 +1,7 @@
 ## 2022 - PushBlack 
+Spent: 564.00
+Impressions: 76,685
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |PushBlack|254.00 USD|PushBlack|[0](https://www.snap.com/political-ads/asset/315e568bb1f792ce06b0f94cd317ab0ce8342433bf43ce71978727a88a6bda60?mediaType=mp4)|35,540||18+|united states|"712 H St NE PMB 90791,Washington,20002,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Sundhedsstyrelsen 
+Spent: 41,070.00
+Impressions: 6,732,894
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reprise Media|19,241.00 DKK|Sundhedsstyrelsen|[0](https://www.snap.com/political-ads/asset/590b4470562ba9ccf71e6c2630e15c4c2e4b4d02a617dac5360d7b5c5d68e154?mediaType=mp4)|1,777,227||14-19|denmark|"Skt. Petri Passage 52 ,København K,1165,DK"||

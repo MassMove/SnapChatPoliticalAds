@@ -1,4 +1,7 @@
 ## 2021 - Monumental Change 
+Spent: 5,091.00
+Impressions: 1,199,796
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bohemia Group|3,023.00 AUD|Monumental Change|[0](https://www.snap.com/political-ads/asset/4fa80b0f64bc2d799fed20980f8f0ed333c0c091254afb8aab0e303fdcfafc64?mediaType=mp4)|702,611||18+|australia|"10-16 Charles St,Redfern,2016,AU"||

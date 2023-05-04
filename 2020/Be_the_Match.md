@@ -1,4 +1,7 @@
 ## 2020 - Be the Match 
+Spent: 177,855.00
+Impressions: 71,662,477
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ciceron Inc|9,310.00 USD|Be the Match|[0](https://www.snap.com/political-ads/asset/6fcf8e70b0690c182e8b3fcad40f512578f75c1df3708fe59f248505520a3ef3?mediaType=mp4)|5,001,897||18-24|united states|"126 N. 3rd Street,Minneapolis,55401,US"||

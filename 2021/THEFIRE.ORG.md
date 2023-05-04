@@ -1,4 +1,7 @@
 ## 2021 - THEFIRE.ORG 
+Spent: 1,644.00
+Impressions: 1,171,304
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Foundation for Individual Rights in Education|568.00 USD|THEFIRE.ORG|[0](https://www.snap.com/political-ads/asset/d9d04bbe27fd77ddc960577b5540eff511e07f3c4ac7eec57570bca7a279c3e5?mediaType=mp4)|411,548||16+|united states|US||

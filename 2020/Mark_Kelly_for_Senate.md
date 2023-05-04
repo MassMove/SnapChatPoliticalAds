@@ -1,4 +1,7 @@
 ## 2020 - Mark Kelly for Senate 
+Spent: 213,808.00
+Impressions: 14,020,513
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mark Kelly for Senate|33,108.00 USD|Mark Kelly for Senate|[0](https://www.snap.com/political-ads/asset/50df96bacabf4456b0e7621d387454cbf0fd283f3a46eae1e9b5c694b0138ce6?mediaType=mp4)|3,796,263||18+|united states|US|Mark Kelly for Senate|

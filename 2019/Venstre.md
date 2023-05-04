@@ -1,4 +1,7 @@
 ## 2019 - Venstre 
+Spent: 10,445.00
+Impressions: 5,887,284
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Venstre|1,169.00 USD|Venstre|[0](https://www.snap.com/political-ads/asset/6803e0765dd7bf66a82f16e40b092ca17bdc3a5d70c93a66b2611a1ec4fe4f09?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/63056e3fe066192ebc79b65ae4a18cc99599295324cfeba9b20cc0594ff343af?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/5cd4bea912e8d1fd6c85f1e926c899a8e895f48c0838124c60310a2577b12e66?mediaType=mp4)|2,053,247||18-32|norway|NO||

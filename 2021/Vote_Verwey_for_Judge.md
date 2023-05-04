@@ -1,4 +1,7 @@
 ## 2021 - Vote Verwey for Judge 
+Spent: 38.00
+Impressions: 10,121
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|35.00 USD|Vote Verwey for Judge|[0](https://www.snap.com/political-ads/asset/dc06c38342c5f4d2c55a10b0a4e73a6f35154337d051741f2d5467752c5628a1?mediaType=mp4)|9,249||18+|united states|"One, World Trade Center ,new york,10007,US"|Tony Verwey|

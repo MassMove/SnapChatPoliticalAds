@@ -1,4 +1,7 @@
 ## 2022 - Socialdemokraterna Kronoberg 
+Spent: 696.00
+Impressions: 120,421
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Context Media|147.00 EUR|Socialdemokraterna Kronoberg|[0](https://www.snap.com/political-ads/asset/045c676b2eb8b4ba73fc488019966e1b038abdfe6ed4156f56128126a3e08c92?mediaType=mp4)|29,561||17+|sweden|"Västra Norrlandsgatan 7 ,UMEÅ,90327,SE"|Socialdemokraterna Kronoberg|

@@ -1,4 +1,7 @@
 ## 2020 - Jase & Guymara 2020 
+Spent: 160.00
+Impressions: 25,818
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jase and Guymara 2020|137.00 USD|Jase & Guymara 2020|[0](https://www.snap.com/political-ads/asset/2e18c230afcaa569cbf36bc7a86dc4922d149704aec39e9911f6d6857aa0ea46?mediaType=png)|17,636|||united states|US|USG President|

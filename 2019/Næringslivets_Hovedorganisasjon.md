@@ -1,4 +1,7 @@
 ## 2019 - Næringslivets Hovedorganisasjon 
+Spent: 1,744.00
+Impressions: 916,029
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NHO|398.00 GBP|Næringslivets Hovedorganisasjon|[0](https://www.snap.com/political-ads/asset/02df9a644adfaf658aca7abc2c474c30b96c73e303e99d814acd5f1dfaa40790?mediaType=mp4)|189,962|FEMALE|18-30|norway|"Postboks 5250, Majorstuen,Oslo,0303,NO"||

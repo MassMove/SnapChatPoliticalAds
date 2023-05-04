@@ -1,4 +1,7 @@
 ## 2020 - Winston for Indiana 
+Spent: 260.00
+Impressions: 47,293
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Winston for IPS|176.00 USD|Winston for Indiana|[0](https://www.snap.com/political-ads/asset/3de1121f46e1f881959377881c9ebf23bd0c49555131b941fd26a28a4362d295?mediaType=mp4)|26,875||18+|united states|"125 W South St, #2700,Indianapolis,46206,US"|Daqavise Winston|

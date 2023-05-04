@@ -1,4 +1,7 @@
 ## 2021 - SEIU Virginia 
+Spent: 7,471.00
+Impressions: 950,251
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|3,291.00 USD|SEIU Virginia|[0](https://www.snap.com/political-ads/asset/650bdb397a8d145b9ccaf3434f17f7cfbf9ffa6789f1a905ce80fd23fcb52ee9?mediaType=mp4)|471,754||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|SEIU Virginia|

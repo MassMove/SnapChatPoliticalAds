@@ -1,4 +1,7 @@
 ## 2020 - Future Coalition 
+Spent: 35,650.00
+Impressions: 11,955,130
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Future Coalition|4,421.00 USD|Future Coalition|[0](https://www.snap.com/political-ads/asset/b2b2bc5e8a3d46544bd312f303691cdd979631644ebf44cd49f088f1cf8b718f?mediaType=png)|2,683,518||18-25|united states|US|Earth Day 2020|

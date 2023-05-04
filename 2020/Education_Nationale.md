@@ -1,4 +1,7 @@
 ## 2020 - Education Nationale 
+Spent: 10,495.00
+Impressions: 25,171,080
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|1,962.00 EUR|Education Nationale|[0](https://www.snap.com/political-ads/asset/a22c31e3778a1387fc8dc8b94e3212b2997984059d297b8cef51d451cece64c2?mediaType=mp4)|4,923,534||15-17|france|"67 Av. de Wagram,Paris,75017,FR"||

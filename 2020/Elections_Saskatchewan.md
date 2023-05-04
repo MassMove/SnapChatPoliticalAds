@@ -1,4 +1,7 @@
 ## 2020 - Elections Saskatchewan 
+Spent: 11,482.00
+Impressions: 4,993,274
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DSA Media|852.00 CAD|Elections Saskatchewan|[0](https://www.snap.com/political-ads/asset/76a43e29716c280329bb1a74e299cd6b20e47d3b7fd041472111c87d1099b474?mediaType=mp4)|345,301||18+|canada|"Suite 110 – 20091 91A Avenue,Langley,V1M3A2,CA"||

@@ -1,4 +1,7 @@
 ## 2019 - Friends of Sid Ruckriegel 
+Spent: 1,169.00
+Impressions: 451,423
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Central States Media|352.00 USD|Friends of Sid Ruckriegel|[0](https://www.snap.com/political-ads/asset/42c34f358f89d59998f13f7a27c120b99eb9ce92be515958b36fb897ff3932c8?mediaType=jpg)|159,049||21+|united states|"2006 W Altorfer Dr,Peoria,61615,US"||

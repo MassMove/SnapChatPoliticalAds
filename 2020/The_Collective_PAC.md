@@ -1,4 +1,7 @@
 ## 2020 - The Collective PAC 
+Spent: 103,594.00
+Impressions: 15,109,274
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hawkfish LLC|14,809.00 USD|The Collective PAC|[0](https://www.snap.com/political-ads/asset/526488eb7c0b386ace9f1ee5d02f21f9dd2cc97638b016b83902bfc31d580168?mediaType=png)|1,722,583||18-30|united states|"909 Third Avenue,New York,10022,US"|Collective PAC|

@@ -1,4 +1,7 @@
 ## 2020 - Ontario Government 
+Spent: 11,912.00
+Impressions: 3,169,536
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ONgov|2,077.00 CAD|Ontario Government|[0](https://www.snap.com/political-ads/asset/85b6027ac856c695a851553fe64b2f47ebbfeee32c90dfe906c830d350ae4347?mediaType=jpg)|569,953||18+|canada|"438 University Avenue,Toronto,M7A 1T7,CA"||

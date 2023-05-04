@@ -1,4 +1,7 @@
 ## 2022 - Warnock for Georgia 
+Spent: 454,261.00
+Impressions: 85,246,384
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|17,465.00 USD|Warnock for Georgia|[0](https://www.snap.com/political-ads/asset/be4d5f697a19d55d3ab1e63258449b6a789c8c992e26b3d59210b7b02bacd97d?mediaType=mp4)|5,603,318||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|Warnock For Georgia|

@@ -1,4 +1,7 @@
 ## 2022 - Resistbot Action Fund 
+Spent: 1,206.00
+Impressions: 114,378
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Resistbot Action Fund|321.00 USD|Resistbot Action Fund|[0](https://www.snap.com/political-ads/asset/a603da8cbd560e3550a03c452cf41c2f4ad6661245949f5d180f71d299208bd3?mediaType=jpeg)|40,323||18+|united states|US|Stop Gun Violence|

@@ -1,4 +1,7 @@
 ## 2022 - SSU-förbundet 
+Spent: 72,885.00
+Impressions: 10,356,897
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SSU|9,165.00 SEK|SSU-förbundet|[0](https://www.snap.com/political-ads/asset/732dd1ab74b2df6f493af5aaddc95704a9a2b9c55a69da1b4a4093751d4ff9f3?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/d7a72afd71c022fdfd4b854e80e41525e6d06f3b94f4227845552be64a9cd737?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/71f1ec2f1d128690224ec188ba8094396f5549dbd76d3e5fa0dd373d12157233?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/1cbfc217ee07ddc573debca88420da9678ff727874e6b48f6143badc8421add8?mediaType=jpeg)|2,866,701||17-25|sweden|"FE1026-PAG09400 Scancloud,ÖSTERSUND,SE-831 90,SE"|SSU|

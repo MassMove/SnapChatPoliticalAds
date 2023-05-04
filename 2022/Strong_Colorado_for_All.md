@@ -1,4 +1,7 @@
 ## 2022 - Strong Colorado for All 
+Spent: 25,936.00
+Impressions: 778,415
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|9,627.00 USD|Strong Colorado for All|[0](https://www.snap.com/political-ads/asset/147af46396554bbad9c2b8a8de653bdd605edb92b19b062d35260a4546c54d71?mediaType=mp4)|289,329||18-34|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

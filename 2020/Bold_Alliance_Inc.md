@@ -1,4 +1,7 @@
 ## 2020 - Bold Alliance Inc 
+Spent: 5,190.00
+Impressions: 2,271,532
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|812.00 USD|Bold Alliance Inc|[0](https://www.snap.com/political-ads/asset/9c5e853d98b97518facb0cb792f855a35e627098e747f152027322785f17d5fa?mediaType=mp4)|354,212|||united states|"919 Central Ave,Auburn,68305,US"||

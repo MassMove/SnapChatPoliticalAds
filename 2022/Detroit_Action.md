@@ -1,4 +1,7 @@
 ## 2022 - Detroit Action 
+Spent: 4,033.00
+Impressions: 754,760
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Detroit Action|540.00 USD|Detroit Action|[0](https://www.snap.com/political-ads/asset/14f399c1a9b5a46cb79fb5b1caabaee4a69515f40d80400b95a1a46e65daf521?mediaType=png)|251,584||17-|united states|US||

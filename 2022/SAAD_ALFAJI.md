@@ -1,4 +1,7 @@
 ## 2022 - SAAD ALFAJI 
+Spent: 1,053.00
+Impressions: 418,499
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AFKARKOM|76.00 USD|SAAD ALFAJI|[0](https://www.snap.com/political-ads/asset/27512f4e2428cd77293e4c23edd97b96a3cd3d318c0c578487e7e42273a2f773?mediaType=mp4)|37,493|||kuwait|"waha b2 st 8 house 14,Al Waha,00007,KW"|SAAD ALFAJI|

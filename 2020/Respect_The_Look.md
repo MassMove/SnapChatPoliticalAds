@@ -1,4 +1,7 @@
 ## 2020 - Respect The Look 
+Spent: 6,153.00
+Impressions: 1,833,927
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Respect the look|1,153.00 USD|Respect The Look|[0](https://www.snap.com/political-ads/asset/46323507f34770b99f61665f461142916fe99b9f99c41633a8c7407ae8c70b3f?mediaType=mp4)|400,676||18+|united states|"1 Columbia St,new britain,06052,US"||

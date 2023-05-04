@@ -1,4 +1,7 @@
 ## 2020 - Nicole Galloway for Missouri 
+Spent: 12,664.00
+Impressions: 2,968,817
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|6,836.00 USD|Nicole Galloway for Missouri|[0](https://www.snap.com/political-ads/asset/a653b0b3f912aeb265941fa8f93c42b32fcb17f19ddffbff524b56c836241692?mediaType=mp4)|1,519,432|FEMALE|18-29|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Nicole Galloway|

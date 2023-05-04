@@ -1,4 +1,7 @@
 ## 2020 - Bold Nebraska 
+Spent: 1,292.00
+Impressions: 382,443
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|953.00 USD|Bold Nebraska|[0](https://www.snap.com/political-ads/asset/bf99a48a7e8f5ef6aab75c9d54f01393af59bed0b49c1248e24a0fdc84168713?mediaType=png)|284,739||18-40|united states|"919 Central Ave,Auburn,68305,US"|Signup to Vote by Mail|

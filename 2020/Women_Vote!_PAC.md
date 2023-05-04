@@ -1,4 +1,7 @@
 ## 2020 - Women Vote! PAC 
+Spent: 22,534.00
+Impressions: 2,831,863
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|3,309.00 USD|Women Vote! PAC|[0](https://www.snap.com/political-ads/asset/d4cc7d5314db642ef63cc2efafa823dbcf8eb08f70de4317456ad4d86a10479f?mediaType=mp4)|331,210||18-35|united states|US|Women Vote CO3|

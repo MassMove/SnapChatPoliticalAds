@@ -1,4 +1,7 @@
 ## 2020 - The Food Bank 
+Spent: 26,335.00
+Impressions: 3,224,285
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|2,136.00 USD|The Food Bank|[0](https://www.snap.com/political-ads/asset/0a513349a1f53dce5d47ff33b581126b219b032c7947cd3635c80d59c74a158a?mediaType=png)|421,987||18-25||"1121 14th Street NW Suite 700,Washington,20005,US"|List Building|

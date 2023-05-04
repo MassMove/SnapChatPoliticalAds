@@ -1,4 +1,7 @@
 ## 2020 - Nike, Inc. 
+Spent: 114,998.00
+Impressions: 21,292,192
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nike  Inc.|33,639.00 USD|Nike, Inc.|[0](https://www.snap.com/political-ads/asset/3c81c2010d8a5ef0b2da1e4aea1463075c194d16f242ccd0934d979b491d1d25?mediaType=mp4)|5,729,160||18-24|united states|"3005 SW 154th Terrace,Beaverton,97006,US"||

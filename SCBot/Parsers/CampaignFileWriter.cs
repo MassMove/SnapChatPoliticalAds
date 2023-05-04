@@ -94,10 +94,7 @@ namespace SCBot.Parsers
             {
                 readMeYear += FormatLine(campaign, 1, false) + "\r\n";
 
-                var readMeAdvertiser = "## " + year + " - " + campaign.payingAdvertiserName + " \r\n";
-                readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
-                readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
-                readMeAdvertiser += GenerateAdvertiserTable(filePath, campaign.payingAdvertiserName, 0);
+                var readMeAdvertiser = GenerateAdvertiserTable(filePath, campaign.payingAdvertiserName, year);
 
                 var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
                 filename = string.Join("_", filename.Split(" "));
@@ -110,10 +107,7 @@ namespace SCBot.Parsers
 
         private string GenerateAdvertiserTable(string filePath, string advertiser, int year)
         {
-            var advertiserTable = "";
-
             var advertiserCampaigns = new List<Campaign>();
-
             var campaigns = new List<Campaign>();
 
             using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -139,15 +133,23 @@ namespace SCBot.Parsers
                 }
             }
 
+            var readMeAdvertiser = "## " + year + " - " + advertiser + " \r\n";
+            readMeAdvertiser += $"Spent: {campaigns.Select(c => c.spend).Sum().ToString("N")}\r\n";
+            readMeAdvertiser += $"Impressions: {campaigns.Select(c => c.impressions).Sum().ToString("N0")}\r\n";
+            readMeAdvertiser += "\r\n";
+
+            readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
+            readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+
             foreach (var campaign in campaigns.
                 OrderByDescending(c => c.impressions).
                 ThenByDescending(c => c.spend).
                 ThenBy(c => c.creativeUrlsSort))
             {
-                advertiserTable += FormatLine(campaign, year, true) + "\r\n";
+                readMeAdvertiser += FormatLine(campaign, 0, true) + "\r\n";
             }
 
-            return advertiserTable;
+            return readMeAdvertiser;
         }
 
         private static string FormatItem(string item)

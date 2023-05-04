@@ -1,4 +1,7 @@
 ## 2021 - Fackförbundet ST 
+Spent: 139,908.00
+Impressions: 2,980,752
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reform Society|23,492.00 SEK|Fackförbundet ST|[0](https://www.snap.com/political-ads/asset/b33bd510d63ad611fe1e588fe819b77d93ae56f44aa39c2a49692ed3a184aaaa?mediaType=mp4)|398,442||25-34|sweden|"Kungsgatan 18,Stockholm,111 35,SE"||

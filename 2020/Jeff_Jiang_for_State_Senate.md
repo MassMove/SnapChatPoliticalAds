@@ -1,4 +1,7 @@
 ## 2020 - Jeff Jiang for State Senate 
+Spent: 502.00
+Impressions: 144,901
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nativ3|326.00 USD|Jeff Jiang for State Senate|[0](https://www.snap.com/political-ads/asset/246194954711d32736c0bc5045982afd55016a5a40589dd011204fd2629e9e4b?mediaType=mp4)|79,306||18-30|united states|US||

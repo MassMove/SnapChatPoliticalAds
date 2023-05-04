@@ -1,4 +1,7 @@
 ## 2022 - Priorities USA Action & LCV 
+Spent: 20,536.00
+Impressions: 1,410,108
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gambit Strategies|3,212.00 USD|Priorities USA Action & LCV|[0](https://www.snap.com/political-ads/asset/b1f1a548827a05a97e1f8953b5d408f251ac523444dc81111e8b37c104be8ad5?mediaType=mp4)|189,352||18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"||

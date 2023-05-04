@@ -1,4 +1,7 @@
 ## 2020 - Tenk Tre 
+Spent: 3,555.00
+Impressions: 1,260,365
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Los & Co|1,269.00 EUR|Tenk Tre|[0](https://www.snap.com/political-ads/asset/6734b2b3a3cb9a45ac242eec5a072f9ac272c0fbf6bd5220af0617065a9ca1fa?mediaType=mp4)|385,572||20+|norway|"Skur 41 Vippetangen,Oslo,0150 ,NO"||

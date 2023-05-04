@@ -1,4 +1,7 @@
 ## 2021 - Komitee Ehe für alle 
+Spent: 4,206.00
+Impressions: 2,145,870
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |digital/organizing|968.00 EUR|Komitee Ehe für alle|[0](https://www.snap.com/political-ads/asset/36b9371a2d361e2484ce15bdb3c30b98be980eae5547f950d1a522176d1474dd?mediaType=mp4)|658,720||18-29|switzerland|CH|EhefuerAlle|

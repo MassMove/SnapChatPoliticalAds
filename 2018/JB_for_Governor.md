@@ -1,4 +1,7 @@
 ## 2018 - JB for Governor 
+Spent: 26,940.00
+Impressions: 6,075,282
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|15,147.00 USD|JB for Governor|[0](https://www.snap.com/political-ads/asset/2c63e124597b1abe236e0da71e8f32fc43c89c4d34ececd6b9e51e906290e676?mediaType=mp4)|4,255,156||18+|united states|"3050 K Street,Washington,20007,US"||

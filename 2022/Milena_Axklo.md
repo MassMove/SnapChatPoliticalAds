@@ -1,4 +1,7 @@
 ## 2022 - Milena Axklo 
+Spent: 2,000.00
+Impressions: 34,529
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Milena Axklo|1,000.00 SEK|Milena Axklo|[0](https://www.snap.com/political-ads/asset/2ab050f4af251def58f061298901f697ee9e28470f8391e0baee686f1c20fc46?mediaType=jpeg)|19,104||18+|sweden|SE|Milena Axklo riksdagskandidat nr 3 Centerpartiet|

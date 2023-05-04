@@ -1,4 +1,7 @@
 ## 2019 - Arbeiderpartiet i Bergen 
+Spent: 7,099.00
+Impressions: 4,330,642
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arbeiderpartiet i Bergen|770.00 GBP|Arbeiderpartiet i Bergen|[0](https://www.snap.com/political-ads/asset/4cdb56ea6cf266504e6b8b80a6955142c85da7896bf57192b48e50f85f2e7a91?mediaType=mp4)|501,344||17+|norway|NO||

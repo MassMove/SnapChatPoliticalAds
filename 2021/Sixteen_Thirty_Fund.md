@@ -1,4 +1,7 @@
 ## 2021 - Sixteen Thirty Fund 
+Spent: 119,734.00
+Impressions: 29,665,264
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Story Network Foundation|13,457.00 USD|Sixteen Thirty Fund|[0](https://www.snap.com/political-ads/asset/a3c06379a8e9d89913e9d772868ba1f2208ec9b412312422e25a9d50c921e759?mediaType=mp4)|5,606,851||18+||US||

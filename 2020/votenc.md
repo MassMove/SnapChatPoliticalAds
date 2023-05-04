@@ -1,4 +1,7 @@
 ## 2020 - votenc 
+Spent: 959.00
+Impressions: 216,451
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |votenc|637.00 USD|votenc|[0](https://www.snap.com/political-ads/asset/7b9f10bad1ba61db9e626b99570a5111a82c1ebbc4235f5d0baa45f1bf69fd5c?mediaType=mp4)|141,164||18-35|united states|US|2020 Presidential Election|

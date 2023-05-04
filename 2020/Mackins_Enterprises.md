@@ -1,4 +1,7 @@
 ## 2020 - Mackins Enterprises 
+Spent: 110.00
+Impressions: 42,735
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mackins Enterprises|87.00 USD|Mackins Enterprises|[0](https://www.snap.com/political-ads/asset/bafff1fea283667d13a4af48cd5a42c1066587b53c82d6644a9d9371f1c6d4aa?mediaType=jpeg)|32,237||18+|united states|US|Ernest  E Mackins|

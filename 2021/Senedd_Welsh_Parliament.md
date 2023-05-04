@@ -1,4 +1,7 @@
 ## 2021 - Senedd Welsh Parliament 
+Spent: 1,504.00
+Impressions: 1,030,253
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Golley Slater Ltd.|375.00 GBP|Senedd Welsh Parliament|[0](https://www.snap.com/political-ads/asset/056c52d51f836fd678364cd12350e74681e30437135b6f97672c959ed4b6c576?mediaType=mp4)|299,759||15+|united kingdom|"Wharton Place, 13 Wharton Street,Cardiff,CF10 1GS,GB"||

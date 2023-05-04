@@ -1,4 +1,7 @@
 ## 2022 - Run for Something Action Fund 
+Spent: 61,542.00
+Impressions: 8,022,155
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Panowatch  LLC|6,175.00 USD|Run for Something Action Fund|[0](https://www.snap.com/political-ads/asset/767125a262a8bddc3c89494f46d9d193ce22488f106da8a98ee5229dd365814c?mediaType=mp4)|1,063,683||18-39|united states|"8207 Taunton Pl,West Springfield,22152,US"|Run for Something|

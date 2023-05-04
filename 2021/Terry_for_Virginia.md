@@ -1,4 +1,7 @@
 ## 2021 - Terry for Virginia 
+Spent: 84,980.00
+Impressions: 6,556,269
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Terry for Virginia|11,000.00 USD|Terry for Virginia|[0](https://www.snap.com/political-ads/asset/d9615869ef95ba81a056682cce27a5c1b8e8614f4282345f25c632dd5c7b0213?mediaType=mp4)|1,972,177||24+|united states|US|Terry for Virginia|

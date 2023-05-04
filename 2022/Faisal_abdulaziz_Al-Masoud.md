@@ -1,4 +1,7 @@
 ## 2022 - Faisal abdulaziz Al-Masoud 
+Spent: 2,559.00
+Impressions: 798,394
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |KYAAN CO|872.00 USD|Faisal abdulaziz Al-Masoud|[0](https://www.snap.com/political-ads/asset/974c8cb2feeb4f179fd63e742d03d6c276a1db9c22e68b3a6d4b0e5a4aed2aed?mediaType=mp4)|224,957|||kuwait|KW||

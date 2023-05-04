@@ -1,4 +1,7 @@
 ## 2018 - Change Now 
+Spent: 20,225.00
+Impressions: 9,522,456
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lockwood Strategy|8,226.00 USD|Change Now|[0](https://www.snap.com/political-ads/asset/ff2064d310c3c957c333f758e59788ba5966d813b414451cab67a67cc44afccc?mediaType=png)|3,550,159|||united states|"1140 3rd St. NW,Washington,20002,US"||

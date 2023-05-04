@@ -1,4 +1,7 @@
 ## 2020 - NY State Board of Elections 
+Spent: 93,320.00
+Impressions: 22,024,140
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|24,504.00 USD|NY State Board of Elections|[0](https://www.snap.com/political-ads/asset/69f57701607233be223522ba05d150d02be967970265ebf8c813443771fdfb21?mediaType=mp4)|7,187,139||18-24|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

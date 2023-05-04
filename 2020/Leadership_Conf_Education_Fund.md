@@ -1,4 +1,7 @@
 ## 2020 - Leadership Conf Education Fund 
+Spent: 41,486.00
+Impressions: 11,129,300
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Panowatch  LLC|8,134.00 USD|Leadership Conf Education Fund|[0](https://www.snap.com/political-ads/asset/86308a47f31455e8b1672958fd512d283b433d491967ac53dbef650001e9e37c?mediaType=mp4)|2,433,417||18+|united states|"8207 Taunton Pl,West Springfield,22152,US"|2020 US Census|

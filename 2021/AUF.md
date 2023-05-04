@@ -1,4 +1,7 @@
 ## 2021 - AUF 
+Spent: 27,190.00
+Impressions: 4,746,824
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AUF Norge|754.00 EUR|AUF|[0](https://www.snap.com/political-ads/asset/5e538334770d67697cb39d039783ecb8a2a63a3da08749cc04f774d4d8a7733a?mediaType=mp4)|295,251||16-17|norway|"Yongstorget 2A,Oslo,0028,NO"||

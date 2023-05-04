@@ -1,4 +1,7 @@
 ## 2020 - Citizen Action Wisconsin 
+Spent: 3,513.00
+Impressions: 688,338
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|629.00 USD|Citizen Action Wisconsin|[0](https://www.snap.com/political-ads/asset/27c44c68449dc384c70ee1d79f0351753ec227cc0dd9c66a473895ce1547bfc0?mediaType=mp4)|166,142||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Citizen Action Wisconsin|

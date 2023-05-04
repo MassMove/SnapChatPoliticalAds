@@ -1,4 +1,7 @@
 ## 2021 - Eric Adams 2021 
+Spent: 19,995.00
+Impressions: 7,095,548
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|3,516.00 USD|Eric Adams 2021|[0](https://www.snap.com/political-ads/asset/0d44b6fdc1b84d108bfc660c8718ac317e59596730138a6950f580b298c934ef?mediaType=jpg)|1,293,296||18+|united states|"PO Box 128,Mill Valley,94942,US"|Eric Adams|

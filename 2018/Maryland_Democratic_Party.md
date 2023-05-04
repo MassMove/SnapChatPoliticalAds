@@ -1,4 +1,7 @@
 ## 2018 - Maryland Democratic Party 
+Spent: 815.00
+Impressions: 374,923
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|421.00 USD|Maryland Democratic Party|[0](https://www.snap.com/political-ads/asset/13306ef7270b84f3e4ce106a6b0fff18e95d462127e231220eb5229999be8e9e?mediaType=jpg)|193,836||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

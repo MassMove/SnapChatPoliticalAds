@@ -1,4 +1,7 @@
 ## 2021 - Miljøpartiet De Grønne 
+Spent: 4,510.00
+Impressions: 1,243,419
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Miljøpartiet De Grønne|277.00 USD|Miljøpartiet De Grønne|[0](https://www.snap.com/political-ads/asset/8b62beb840afe9f428f150a32be1deaf403b76e23882a597f1a328fb1351b46b?mediaType=mp4)|175,893||17+|norway|"Hausmanns gate 19,Oslo,0188,NO"||

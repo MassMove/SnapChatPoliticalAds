@@ -1,4 +1,7 @@
 ## 2019 - LNU 
+Spent: 2,141.00
+Impressions: 907,800
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LNU|937.00 EUR|LNU|[0](https://www.snap.com/political-ads/asset/2f7eb7b6b1d76d407d6fadb0d249a728e26110dd45e2bdd32e9ec6cf72f09a24?mediaType=mp4)|379,659||18-21|norway|NO||

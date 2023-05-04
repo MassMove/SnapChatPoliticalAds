@@ -1,4 +1,7 @@
 ## 2021 - Color Of Change 
+Spent: 6,395.00
+Impressions: 3,633,162
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Color Of Change|1,500.00 USD|Color Of Change|[0](https://www.snap.com/political-ads/asset/b9e801f6a8879bed541cb6aff1e1dbd66cdf16388119ecd82fe4a8dbdada2ffd?mediaType=mp4)|885,790|||united states|"1714 Franklin St,Oakland,94612,US"||

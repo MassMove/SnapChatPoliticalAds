@@ -1,4 +1,7 @@
 ## 2020 - Transport & Environment 
+Spent: 1,596.00
+Impressions: 1,966,209
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Transport & Environment|1,054.00 EUR|Transport & Environment|[0](https://www.snap.com/political-ads/asset/31e000caf4de1c1d888a1de39d097b581f659dc358445b77af750e9839fe4749?mediaType=mp4)|1,506,933|||france|"Square de Meeus, 18,Bruxelles,1050,BE"||

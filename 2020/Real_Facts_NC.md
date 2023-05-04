@@ -1,4 +1,7 @@
 ## 2020 - Real Facts NC 
+Spent: 4,700.00
+Impressions: 765,196
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|532.00 USD|Real Facts NC|[0](https://www.snap.com/political-ads/asset/65b2fb0b9462fc41fc6c1b4bf2f02fa19b77bcf2f98323ae2c8140326104d729?mediaType=mp4)|83,172||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Real Facts NC|

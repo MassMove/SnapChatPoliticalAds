@@ -1,4 +1,7 @@
 ## 2021 - ACLU of Maryland 
+Spent: 900.00
+Impressions: 416,745
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |American Civil Liberties Union of Maryland|242.00 USD|ACLU of Maryland|[0](https://www.snap.com/political-ads/asset/af8a5449e674d8044f6e4aec21b2245c5f486683ab5d3ad2cb9357532956e55c?mediaType=mp4)|133,301||16-35|united states|"3600 Clipper Mill Rd Ste 350,Baltimore,21211,US"|LEOBR 2|

@@ -1,4 +1,7 @@
 ## 2022 - House Majority Forward 
+Spent: 11,897.00
+Impressions: 529,871
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Authentic Campaigns Inc|5,213.00 USD|House Majority Forward|[0](https://www.snap.com/political-ads/asset/fa6c9e1b22bd33a968c1d08afb1d74522c9d9f6cc874fc803eed9832aa141a6c?mediaType=mp4)|236,099|FEMALE|18-30|united states|"1211 Connecticut Ave,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Majority Forward 
+Spent: 60,408.00
+Impressions: 13,514,120
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lockwood Strategy|7,965.00 USD|Majority Forward|[0](https://www.snap.com/political-ads/asset/312d3856e8c7858d3cb1692c34bcbe992fd2c1be0d4b3660f6581f2e4a03d701?mediaType=png)|3,109,963||18-35|united states|"1140 3rd St. NW,Washington,20002,US"||

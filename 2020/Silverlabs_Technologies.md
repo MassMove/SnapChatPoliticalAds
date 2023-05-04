@@ -1,4 +1,7 @@
 ## 2020 - Silverlabs Technologies 
+Spent: 107.00
+Impressions: 108,949
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Silverlabs Inc|35.00 USD|Silverlabs Technologies|[0](https://www.snap.com/political-ads/asset/10893ac123672808e4c8aca8076d353f5c9c3443c5cf3413614fbb28f3eb23cc?mediaType=mov)|35,931|FEMALE|16-35|united states|"2020 Wendover Ln,San Jose,95121,US"||

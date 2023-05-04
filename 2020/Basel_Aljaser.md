@@ -1,4 +1,7 @@
 ## 2020 - Basel Aljaser 
+Spent: 2,147.00
+Impressions: 1,787,784
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Media Services FZ-LLC|1,911.00 USD|Basel Aljaser|[0](https://www.snap.com/political-ads/asset/52ea072190f0b59e1b1bd9b3acd2279208767ad13344ad3d23be9e0550ea0b15?mediaType=jpg)|1,591,584||21+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"||

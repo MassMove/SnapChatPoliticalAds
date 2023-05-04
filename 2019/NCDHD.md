@@ -1,4 +1,7 @@
 ## 2019 - NCDHD 
+Spent: 134.00
+Impressions: 64,161
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |North Central District Health Department|91.00 USD|NCDHD|[0](https://www.snap.com/political-ads/asset/0094e96bbddb4a98d327904fadb11d3fa6e901c98e1e315650b25344ba4937d0?mediaType=png)|48,281|||united states|US||

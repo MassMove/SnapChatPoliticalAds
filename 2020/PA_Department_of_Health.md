@@ -1,4 +1,7 @@
 ## 2020 - PA Department of Health 
+Spent: 46,688.00
+Impressions: 24,668,325
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Red House Communications|8,026.00 USD|PA Department of Health|[0](https://www.snap.com/political-ads/asset/491f24a3a16a0ce50b9a409392452e446fd41b9e0dd3fb1a4253683396544f10?mediaType=mp4)|5,069,183||30-|united states|"1908 Sarah Street ,Pittsburgh ,15203,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Bennett for Senate 
+Spent: 1,759.00
+Impressions: 324,330
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Riveter Digital|1,100.00 USD|Bennett for Senate|[0](https://www.snap.com/political-ads/asset/9f4cbe11c16a14d7b9eaa9e242d0eba516984626c34e997b146cd637828ca1d2?mediaType=mp4)|194,293||18-30|united states|US||

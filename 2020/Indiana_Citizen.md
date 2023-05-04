@@ -1,4 +1,7 @@
 ## 2020 - Indiana Citizen 
+Spent: 18,276.00
+Impressions: 5,668,761
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Centro LLC|3,263.00 USD|Indiana Citizen|[0](https://www.snap.com/political-ads/asset/4006236cc8c85292203eb9c61142aa08325f21e5398f356cb5dfd0cb9a4eb8d8?mediaType=mp4)|919,783||18-21|united states|"11 E. Madison Ave. 6th Floor,,,Chicago,60602,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Turnout Nation 
+Spent: 507.00
+Impressions: 114,412
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Turnout Nation|130.00 USD|Turnout Nation|[0](https://www.snap.com/political-ads/asset/74e1edd676218e4bf2ea57b63727e1b38bcedc9b3095b262c4ea2e20affa2c95?mediaType=png)|29,842||18-34|united states|US|Get Your Friends Registered To Vote|

@@ -1,4 +1,7 @@
 ## 2020 - CPC PAC 
+Spent: 19,885.00
+Impressions: 4,416,601
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|3,614.00 USD|CPC PAC|[0](https://www.snap.com/political-ads/asset/202353a0e864f11692f67f766a511a0279a103227ccafdbda68d536e2fe8a7ec?mediaType=jpg)|723,475||18+|united states|US||

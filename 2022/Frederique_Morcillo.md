@@ -1,4 +1,7 @@
 ## 2022 - Frederique Morcillo 
+Spent: 32,632.00
+Impressions: 11,477,071
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|1,880.00 EUR|Frederique Morcillo|[0](https://www.snap.com/political-ads/asset/11c7151f3d5b801df27195b6510148fae564bd6b8ee3ff40df980b1236f88b5c?mediaType=mp4)|1,357,662||18+|united kingdom|"67 Av. de Wagram,Paris,75017,FR"||

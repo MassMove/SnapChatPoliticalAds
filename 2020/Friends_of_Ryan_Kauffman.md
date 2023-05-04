@@ -1,4 +1,7 @@
 ## 2020 - Friends of Ryan Kauffman 
+Spent: 125.00
+Impressions: 66,253
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ryan Kauffman For Kendall County Circuit Clerk|50.00 USD|Friends of Ryan Kauffman|[0](https://www.snap.com/political-ads/asset/bd786452e3c4d96eedf7fd91f289f49a38d98a0ea833fcef7181f4aab3bc4fa5?mediaType=jpeg)|34,381|||united states|US|Ryan Kauffman For Circuit Clerk|

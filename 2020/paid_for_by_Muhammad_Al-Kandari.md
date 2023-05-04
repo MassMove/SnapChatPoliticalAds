@@ -1,4 +1,7 @@
 ## 2020 - paid for by Muhammad Al-Kandari 
+Spent: 247.00
+Impressions: 95,181
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |شركه بيتا ادز|98.00 USD|paid for by Muhammad Al-Kandari|[0](https://www.snap.com/political-ads/asset/33ec453363d9ad74e79da58debe4f993af9fb99c4dd944d9e42fa312b58d3fe1?mediaType=mp4)|38,891||21+|kuwait|"7 Khalid Ibn Al Waleed St , Kuwait City - Sawaber Tower 6 , Floor 6, Office No.13,Sharq,15300,KW"|paid for by Muhammad alkandari|

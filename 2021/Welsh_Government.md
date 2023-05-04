@@ -1,4 +1,7 @@
 ## 2021 - Welsh Government 
+Spent: 3,375.00
+Impressions: 1,061,177
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Golley Slater Ltd.|820.00 GBP|Welsh Government|[0](https://www.snap.com/political-ads/asset/dc78bf73d037bef2fb9a24a6a69d9d5f48797edf1f9fb779e964e542d5c65350?mediaType=mp4)|625,401||15-25|united kingdom|"Wharton Place, 13 Wharton Street,Cardiff,CF10 1GS,GB"||

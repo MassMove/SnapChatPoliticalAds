@@ -1,4 +1,7 @@
 ## 2022 - committee to keep akers judge 
+Spent: 70.00
+Impressions: 25,961
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Keep Akers Judge|39.00 USD|committee to keep akers judge|[0](https://www.snap.com/political-ads/asset/9eb985e6d9f44b5db481cb648a419813b16ddc3606d0642e24953524c118d93f?mediaType=jpeg)|15,634|||united states|US||

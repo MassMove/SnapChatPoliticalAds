@@ -1,4 +1,7 @@
 ## 2020 - Amjad Almaslamani - Candidate 
+Spent: 1,168.00
+Impressions: 1,780,884
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |THE AD VOICE MARKETING AGENCY|573.00 USD|Amjad Almaslamani - Candidate|[0](https://www.snap.com/political-ads/asset/e678c5e92963490bf80fb34cd54a53709ba2b6e90f6750deafe5bd149699ce60?mediaType=mp4)|843,186||18+|jordan|"29,amman,13076,JO"|Amjad Almaslamani|

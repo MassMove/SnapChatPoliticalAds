@@ -1,4 +1,7 @@
 ## 2020 - Ben & Jerry's 
+Spent: 498,454.00
+Impressions: 117,573,289
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare UK GBP|8,075.00 GBP|Ben & Jerry's|[0](https://www.snap.com/political-ads/asset/fe303d82cc33193b152ee283943a2699b7bb4a835787b6e81f329a07a272b319?mediaType=mp4)|4,703,545||18-35|united kingdom|"Ealing Gateway, 26-30 Uxbridge Road,Ealing,W52AU,GB"|REFUGEE ACTION|

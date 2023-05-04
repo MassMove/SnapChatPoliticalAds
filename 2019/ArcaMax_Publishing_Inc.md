@@ -1,4 +1,7 @@
 ## 2019 - ArcaMax Publishing Inc 
+Spent: 15,805.00
+Impressions: 4,346,243
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ArcaMax Publishing  Inc|5,962.00 USD|ArcaMax Publishing Inc|[0](https://www.snap.com/political-ads/asset/a68d99fdfb2d04ba571f7d498369ab16f334e194ae84bb880a672df9bdf79dc3?mediaType=jpg)|1,801,155||35++|united states|"11830  Canon Blvd, Ste 1,Newport News,23606,US"||

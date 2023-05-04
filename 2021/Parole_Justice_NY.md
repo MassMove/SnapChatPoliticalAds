@@ -1,4 +1,7 @@
 ## 2021 - Parole Justice NY 
+Spent: 1,359.00
+Impressions: 221,859
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|221.00 USD|Parole Justice NY|[0](https://www.snap.com/political-ads/asset/9118950e50121e4c73f094d65efe8cf27fc04c44afdb13db47d1c95b1259e638?mediaType=jpg)|36,286|||united states|"One, World Trade Center ,new york,10007,US"|Peoples Campaign for Parole Justice|

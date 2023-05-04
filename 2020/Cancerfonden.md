@@ -1,4 +1,7 @@
 ## 2020 - Cancerfonden 
+Spent: 3,745.00
+Impressions: 1,693,674
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |All Rise Media AB|688.00 EUR|Cancerfonden|[0](https://www.snap.com/political-ads/asset/6ea5a7983a2347c1e955b112d491cd53be81ddcbef4826314a6e8625f936fdb9?mediaType=mp4)|267,089||35+|sweden|"Klarabergsgatan 60,Stockholm,11121 ,SE"||

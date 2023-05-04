@@ -1,4 +1,7 @@
 ## 2019 - Sundhedsstyrelsen 
+Spent: 28,438.00
+Impressions: 14,530,795
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reprise Media|1,733.00 EUR|Sundhedsstyrelsen|[0](https://www.snap.com/political-ads/asset/081b57d02ca6e8f10c789e731c06d6cee4743e02ad2dd7d9aa39f78841ab05b2?mediaType=mp4)|794,235|MALE|16-19|denmark|"Skt. Petri Passage 52 ,København K,1165,DK"||

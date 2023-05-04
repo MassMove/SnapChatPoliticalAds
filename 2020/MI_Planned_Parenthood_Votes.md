@@ -1,4 +1,7 @@
 ## 2020 - MI Planned Parenthood Votes 
+Spent: 41,383.00
+Impressions: 4,996,906
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|6,446.00 USD|MI Planned Parenthood Votes|[0](https://www.snap.com/political-ads/asset/8e26f32721423c20dd13a86989e2d47aba122b0ddcd3edb59ceecf240a4c4a6c?mediaType=mp4)|1,424,991|FEMALE|18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|John James|

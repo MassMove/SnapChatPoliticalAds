@@ -1,4 +1,7 @@
 ## 2021 - Junge ÖVP Oberösterreich 
+Spent: 2,061.00
+Impressions: 1,250,891
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |upart|750.00 EUR|Junge ÖVP Oberösterreich|[0](https://www.snap.com/political-ads/asset/f7e9cde6851759e73ee7b2fb14e63b04c7c830574bee79bdc8c0811a4cefc9a7?mediaType=jpg)|399,338||16-22|austria|"Obere Donaulände 7,Linz,4020,AT"||

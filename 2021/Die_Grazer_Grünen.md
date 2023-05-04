@@ -1,4 +1,7 @@
 ## 2021 - Die Grazer Grünen 
+Spent: 2,942.00
+Impressions: 2,015,174
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cloudthinkn Werbeagentur KG|300.00 EUR|Die Grazer Grünen|[0](https://www.snap.com/political-ads/asset/c162b801a1d9d13b5684d6412fc96f528ac3c48b64d78eb4cbcbd337dd91b49e?mediaType=mp4)|140,445||16+|austria|"Lendplatz 40,Graz,8020,AT"|Judith Schwentner|

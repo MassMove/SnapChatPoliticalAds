@@ -1,4 +1,7 @@
 ## 2021 - SPÖ Linz-Stadt 
+Spent: 719.00
+Impressions: 183,217
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Silverman & Baer GmbH|365.00 EUR|SPÖ Linz-Stadt|[0](https://www.snap.com/political-ads/asset/3be01f2567fd65e091e4eec80ea97887f1f94f62eda0259d0a39e6a0f0a77639?mediaType=mp4)|96,034||16+|austria|"Rosa-Hofmann-Straße 33,Salzburg,5020,AT"|Klaus Luger|

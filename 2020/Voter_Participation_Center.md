@@ -1,4 +1,7 @@
 ## 2020 - Voter Participation Center 
+Spent: 990,543.00
+Impressions: 226,558,151
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|12,127.00 USD|Voter Participation Center|[0](https://www.snap.com/political-ads/asset/6752bb27ae191826ed9e653daafcc27f10b5e36e2da5c7ffeb0e63f010aaf810?mediaType=png)|4,041,994||18-45|united states|"1707 L St NW Suite 950,Washington,20036,US"||

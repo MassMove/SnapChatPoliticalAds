@@ -1,4 +1,7 @@
 ## 2022 - NRDC Action Fund 
+Spent: 42,619.00
+Impressions: 12,302,222
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NRDC Action Fund|6,656.00 USD|NRDC Action Fund|[0](https://www.snap.com/political-ads/asset/2d5e4b2e494f0bc38c20e3dcd4222c62b0bba1dab2ed289c56fb16d3e9b47d49?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/2e045ead156b368d4715b859549a3886ec286984ea75540dc7aa64cb5e8f8cc0?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/8c9fcb9eb3275a9f8f79c0b95fa9ef14af85eef6b0c95f81eaef770704829484?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/f213dc02aeee62a36649155e9599492e92b37e29e19bf8f7d0de13a0daf8d029?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/4496bcc4df20c1f445111d534cb86f4fd77b67a890e0137916d0d0484367cad9?mediaType=mp4)|2,740,829||25+|united states|"40 W. 20th,NY,10011,US"||

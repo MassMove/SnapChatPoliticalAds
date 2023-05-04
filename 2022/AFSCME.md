@@ -1,4 +1,7 @@
 ## 2022 - AFSCME 
+Spent: 8,419.00
+Impressions: 1,851,791
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|5,409.00 USD|AFSCME|[0](https://www.snap.com/political-ads/asset/9d402ffbfd9c3235a6c510e767d000367b918060baa4f5bc9d553bb3dd02cf9c?mediaType=mp4)|1,463,736||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"||

@@ -1,4 +1,7 @@
 ## 2018 - NSEA 
+Spent: 1,078.00
+Impressions: 298,472
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nebraska State Education Association|349.00 USD|NSEA|[0](https://www.snap.com/political-ads/asset/dcaec66482e9f1247c5e57c0f72d07597964acddfc7fb099a648f3c70cf0e6b5?mediaType=mp4)|104,476|FEMALE|17+|united states|US||

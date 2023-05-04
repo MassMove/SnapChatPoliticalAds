@@ -1,4 +1,7 @@
 ## 2020 - Bærum Kommune 
+Spent: 1,196.00
+Impressions: 424,194
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Whydentify AS|659.00 USD|Bærum Kommune|[0](https://www.snap.com/political-ads/asset/643ddb98e10fa201b0976bec0361522a47ea9ef1746dec2ccb1b9c792310b55c?mediaType=mp4)|168,473||21+|norway|"Dronningens gate 8B,Blindern, Oslo,0151,NO"||

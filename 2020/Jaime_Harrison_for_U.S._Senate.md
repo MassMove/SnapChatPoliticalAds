@@ -1,4 +1,7 @@
 ## 2020 - Jaime Harrison for U.S. Senate 
+Spent: 189,263.00
+Impressions: 26,839,612
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|29,947.00 USD|Jaime Harrison for U.S. Senate|[0](https://www.snap.com/political-ads/asset/58bfeebc44c22ad14568421576d627a5dd62cd36f1368a43b5867962fb868029?mediaType=mp4)|3,004,631||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"||

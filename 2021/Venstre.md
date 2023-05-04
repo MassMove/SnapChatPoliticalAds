@@ -1,4 +1,7 @@
 ## 2021 - Venstre 
+Spent: 222,178.00
+Impressions: 7,410,411
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Venstre|15,000.00 NOK|Venstre|[0](https://www.snap.com/political-ads/asset/10340e2c3fd2744a2d79f9f685c618193c38e8924684362f433bb0978361d4e5?mediaType=mp4)|727,387||17-40|norway|"Møllergata 16,Oslo,0179,NO"|Rusreformen|

@@ -1,4 +1,7 @@
 ## 2021 - Build NY Fund 
+Spent: 474.00
+Impressions: 46,601
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|42.00 USD|Build NY Fund|[0](https://www.snap.com/political-ads/asset/6cf154f83d7f621fc8e4e453c8babebeb91925121d13bcd58ce5a4b09d8ad99e?mediaType=jpg)|4,381||18+|united states|"One, World Trade Center ,new york,10007,US"|Scott Stringer for NYC Mayor|

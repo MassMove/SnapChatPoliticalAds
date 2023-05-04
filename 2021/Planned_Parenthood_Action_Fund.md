@@ -1,4 +1,7 @@
 ## 2021 - Planned Parenthood Action Fund 
+Spent: 37,566.00
+Impressions: 5,054,450
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|9,914.00 USD|Planned Parenthood Action Fund|[0](https://www.snap.com/political-ads/asset/3093fec5a71eb23b0a00b1d4b21429be8f063e2705cfb85b8e36dff275ec0310?mediaType=mp4)|1,570,218||18-24|united states|"1901 L St NW,Washington,20036,US"||

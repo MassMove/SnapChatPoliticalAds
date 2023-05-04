@@ -1,4 +1,7 @@
 ## 2018 - DCCC 
+Spent: 18,173.00
+Impressions: 2,919,379
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democratic Congressional Campaign Committee|3,534.00 USD|DCCC|[0](https://www.snap.com/political-ads/asset/4a69ed4e43fcbefbb2172dfc50d09201f941ef58b3958866b65fa2f405375b7a?mediaType=mp4)|664,276||18+|united states|"430 S Capitol St SE,Washington,20003,US"||

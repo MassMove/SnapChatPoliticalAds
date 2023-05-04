@@ -1,4 +1,7 @@
 ## 2022 - Tennessee Secretary of State 
+Spent: 5,798.00
+Impressions: 889,867
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Tennessee Secretary of State|2,899.00 USD|Tennessee Secretary of State|[0](https://www.snap.com/political-ads/asset/8ee085b989962cbda682177ff972ae3d54c470c4f3aa76b1f8cb33a666aeb63f?mediaType=mp4)|507,500||18+|united states|US||

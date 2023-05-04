@@ -1,4 +1,7 @@
 ## 2020 - Better US Now 
+Spent: 13,579.00
+Impressions: 9,578,812
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Better US Now|6,469.00 USD|Better US Now|[0](https://www.snap.com/political-ads/asset/406d593e4e336d85bbc5e023ed7a6c1fe4ba70ef14a95ee1570731f19fe181f0?mediaType=mp4)|3,715,372|MALE|19+|united states|US||

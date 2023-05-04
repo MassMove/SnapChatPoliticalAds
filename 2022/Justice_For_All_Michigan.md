@@ -1,4 +1,7 @@
 ## 2022 - Justice For All Michigan 
+Spent: 30,731.00
+Impressions: 1,283,896
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|21,206.00 USD|Justice For All Michigan|[0](https://www.snap.com/political-ads/asset/e68a58cda7d045230c6973b92c50dcb3634182bf262a0e8c4d0b5442a5ab813a?mediaType=mp4)|890,080||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Justice for All Michigan|

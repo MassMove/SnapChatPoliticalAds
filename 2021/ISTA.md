@@ -1,4 +1,7 @@
 ## 2021 - ISTA 
+Spent: 4,515.00
+Impressions: 628,385
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|806.00 USD|ISTA|[0](https://www.snap.com/political-ads/asset/2704287c023ea7afbe03957bf20b129fc378d6614876f043806c92b1905ef256?mediaType=mp4)|103,155||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Indiana State Teachers Association|

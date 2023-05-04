@@ -1,4 +1,7 @@
 ## 2020 - Act Svenska kyrkan 
+Spent: 500.00
+Impressions: 537,778
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Act Svenska kyrkan|300.00 EUR|Act Svenska kyrkan|[0](https://www.snap.com/political-ads/asset/ff76b0895c266dadf7b43ee3abf89dbe7574c8050ff945c8984a799be9ac83e6?mediaType=jpeg)|299,352|||sweden|"The Church of Sweden Faith Community Fack 95800009 Box 15018,Uppsala ,SE-750 15 Uppsala,SE"||

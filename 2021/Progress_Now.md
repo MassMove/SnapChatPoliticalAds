@@ -1,4 +1,7 @@
 ## 2021 - Progress Now 
+Spent: 77,573.00
+Impressions: 6,313,911
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|27,317.00 USD|Progress Now|[0](https://www.snap.com/political-ads/asset/4262811baee84826b45a5bbf9527a081ad6799e9b47def10fc4a1d2bc071c5c4?mediaType=mp4)|1,982,982||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Progress Virginia|

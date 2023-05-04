@@ -1,4 +1,7 @@
 ## 2021 - Lucy Lang for NY 
+Spent: 11,043.00
+Impressions: 1,446,545
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,998.00 USD|Lucy Lang for NY|[0](https://www.snap.com/political-ads/asset/a971d3c8b1a85bff5b404da6bd58374eaed727b75906e8638167b67db277a533?mediaType=mp4)|419,748|||united states|US|Lucy Lang|

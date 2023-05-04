@@ -1,4 +1,7 @@
 ## 2022 - Leaders Igniting Transformation 
+Spent: 205,660.00
+Impressions: 11,849,779
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Leaders Igniting Transformation|60,000.00 USD|Leaders Igniting Transformation|[0](https://www.snap.com/political-ads/asset/14dfaf77552e18a189a40b762ba572e7356ffb0146ca8aba8dabca6f4f2a7dcd?mediaType=png)|4,963,824||17-35|united states|"2201 N. Martin Luther King Dr,Milwaukee,53212,US"||

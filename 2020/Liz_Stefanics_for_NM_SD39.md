@@ -1,4 +1,7 @@
 ## 2020 - Liz Stefanics for NM SD39 
+Spent: 236.00
+Impressions: 37,134
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|104.00 USD|Liz Stefanics for NM SD39|[0](https://www.snap.com/political-ads/asset/7b43a4cd4dcf1f25bbc268c93d40181fe530d5d2fb6667a2c401425624e88f46?mediaType=mp4)|17,604||18+|united states|"1324 Spaight St,Madison,53703,US"|Liz Stefanics for NM SD39|

@@ -1,4 +1,7 @@
 ## 2020 - FVAP.gov 
+Spent: 14,979.00
+Impressions: 8,031,060
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AudienceX|288.00 USD|FVAP.gov|[0](https://www.snap.com/political-ads/asset/120265b2680ed7291dfb8eac5105e626e9a6f71b93b1e2d71b401775cf77e989?mediaType=mp4)|811,483||18+|united states|"13468 Beach Ave,Los Angeles,90292,US"||

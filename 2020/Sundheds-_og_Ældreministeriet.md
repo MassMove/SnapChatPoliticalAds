@@ -1,4 +1,7 @@
 ## 2020 - Sundheds- og Ældreministeriet 
+Spent: 97,655.00
+Impressions: 7,523,928
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reprise Media|59,820.00 DKK|Sundheds- og Ældreministeriet|[0](https://www.snap.com/political-ads/asset/5218e6cae5abce2e5c6dfa15912780ae00d546ba3a6b8becc73fc00c9dab9d0f?mediaType=jpg)|5,125,781||16-24|denmark|"Skt. Petri Passage 52 ,København K,1165,DK"||

@@ -1,4 +1,7 @@
 ## 2021 - Care in Action 
+Spent: 96,121.00
+Impressions: 8,924,344
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|7,692.00 USD|Care in Action|[0](https://www.snap.com/political-ads/asset/4b12dc9927775cf8bb75ebfac6cdbe6fd42b7a904414f71bb03ab41f191e5f75?mediaType=png)|905,908||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"|Care in Action|

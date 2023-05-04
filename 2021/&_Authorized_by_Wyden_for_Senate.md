@@ -1,4 +1,7 @@
 ## 2021 - & Authorized by Wyden for Senate 
+Spent: 310.00
+Impressions: 71,894
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mandate Media|19.00 USD|& Authorized by Wyden for Senate|[0](https://www.snap.com/political-ads/asset/4a01b3b3bfd5da6600325ef93659d53bdbdaa377f41d99a117d9f41377019a9f?mediaType=png)|5,405||18+|united states|US|Senator Ron Wyden|

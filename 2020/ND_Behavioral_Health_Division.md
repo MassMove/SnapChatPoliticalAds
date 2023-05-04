@@ -1,4 +1,7 @@
 ## 2020 - ND Behavioral Health Division 
+Spent: 846.00
+Impressions: 626,260
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Flint Group|200.00 USD|ND Behavioral Health Division|[0](https://www.snap.com/political-ads/asset/78e7ea8c902938182426f1cb9837bf7dc92f64825f2cdc93ed4a5755fce5af5b?mediaType=mp4)|152,509||16+|united states|"101 N 10th Street Suite 100,Fargo,58102,US"|ND Behavioral Health Division|

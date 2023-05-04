@@ -1,4 +1,7 @@
 ## 2020 - Global Citizen 
+Spent: 14,655.00
+Impressions: 3,579,146
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Global Citizen|2,574.00 USD|Global Citizen|[0](https://www.snap.com/political-ads/asset/429446feef0a31d81dc38932bc9b9592308ac115371a5818676c8f5c9a5b1976?mediaType=mp4)|742,967||18-35|united states|"594 Broadway Suit 207,New York,10012,US"|Just Vote|

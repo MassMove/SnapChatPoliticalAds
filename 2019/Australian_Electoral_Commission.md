@@ -1,4 +1,7 @@
 ## 2019 - Australian Electoral Commission 
+Spent: 210,000.00
+Impressions: 39,616,572
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|85,000.00 AUD|Australian Electoral Commission|[0](https://www.snap.com/political-ads/asset/496b633ea97b8ad841bd3ff1966eafd7e9b1ed23bb6ff9381ba0914e47c6459e?mediaType=mp4)|15,245,241||18+|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

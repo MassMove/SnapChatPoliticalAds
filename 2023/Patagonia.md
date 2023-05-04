@@ -1,4 +1,7 @@
 ## 2023 - Patagonia 
+Spent: 45,932.00
+Impressions: 9,243,808
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Patagonia Europe|1,569.00 EUR|Patagonia|[0](https://www.snap.com/political-ads/asset/bc13658a9113701512feaa70e29913f5bd563db85ef53adadbee7a0b4cb79213?mediaType=jpg),[1](https://www.snap.com/political-ads/asset/33e8f68e0fe770d70dbca504d35bc058ba3c1400e2bd8615cbb37276329790cd?mediaType=jpg),[2](https://www.snap.com/political-ads/asset/7bfaa5c4c30df2d806442f1ef36982a1158d5e3dea42d89b785d94ec9e6c8093?mediaType=jpg)|691,777||18+|france|"Jollemanhof 11,Amsterdam,1061TJ,NL"||

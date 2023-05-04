@@ -1,4 +1,7 @@
 ## 2018 - Block Asian Carp 
+Spent: 3,937.00
+Impressions: 1,814,995
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Güd Marketing|890.00 USD|Block Asian Carp|[0](https://www.snap.com/political-ads/asset/4b9c03f750b116aea446c56734edd1f4b3648819bfd61bd84caf83b631d001ab?mediaType=mp4)|893,164|||united states|"1223 Turner Ave., Suite 101,Lansing,48906,US"||

@@ -1,4 +1,7 @@
 ## 2019 - Campax Community 
+Spent: 5,278.00
+Impressions: 3,479,954
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Campax|400.00 EUR|Campax Community|[0](https://www.snap.com/political-ads/asset/fc63c6c8eb51cdd2a5dffc41a5e1a926c2cb06a2d94c1472e4744bd2faf61835?mediaType=mp4)|517,600||18+|switzerland|CH|Schlatter Mueri Rytz Stockli Zanetti Carobbio|

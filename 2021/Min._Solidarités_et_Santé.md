@@ -1,4 +1,7 @@
 ## 2021 - Min. Solidarités et Santé 
+Spent: 16,500.00
+Impressions: 5,179,055
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|7,500.00 EUR|Min. Solidarités et Santé|[0](https://www.snap.com/political-ads/asset/0898a9c9bb5bbce231aaf4a55cb2ea3fd1be0927cb0fa600ba72efb28ad056a7?mediaType=mp4)|3,597,832||16-25|france|"67 Av. de Wagram,Paris,75017,FR"||

@@ -1,4 +1,7 @@
 ## 2022 - March for Our LIves 
+Spent: 11,217.00
+Impressions: 1,433,211
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |FOGLAMP|3,224.00 USD|March for Our LIves|[0](https://www.snap.com/political-ads/asset/89d4dbe3e97664e3043d0eb349db425c777f4e6a33fa68a2801b5beec935f048?mediaType=mp4)|413,111||18+|united states|"One Thomas Circle,Washigton,20005,US"||

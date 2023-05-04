@@ -1,4 +1,7 @@
 ## 2020 - Veganerpartiet 
+Spent: 333.00
+Impressions: 180,460
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veganerpartiet|150.00 EUR|Veganerpartiet|[0](https://www.snap.com/political-ads/asset/e42ea840304cadc672d430ed5d3fcb0861504747476fcd7c066fc4af90ee3a87?mediaType=jpeg)|75,542|FEMALE|18+|denmark|DK|GIV OS EN UNDERSKRIFT|

@@ -1,4 +1,7 @@
 ## 2019 - NY State of Health 
+Spent: 42,452.00
+Impressions: 10,657,396
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|10,658.00 USD|NY State of Health|[0](https://www.snap.com/political-ads/asset/04775ad19b110621b85fb7b5525e7d3a9561eaed437b2e723884f20e17af69be?mediaType=mp4)|1,450,472||18-34|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

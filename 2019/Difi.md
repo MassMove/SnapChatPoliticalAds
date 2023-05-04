@@ -1,4 +1,7 @@
 ## 2019 - Difi 
+Spent: 2,296.00
+Impressions: 695,640
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hensikt AS|815.00 EUR|Difi|[0](https://www.snap.com/political-ads/asset/edd2715036b197cb6131e7bf5e70c470215ea0986f9d79fed749eb642e6f6793?mediaType=mp4)|229,284|FEMALE|25-27|norway|"Øvre Slottsgate 17,Oslo,0157,NO"||

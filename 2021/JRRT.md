@@ -1,4 +1,7 @@
 ## 2021 - JRRT 
+Spent: 8,380.00
+Impressions: 3,417,190
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Register to Vote 21|525.00 GBP|JRRT|[0](https://www.snap.com/political-ads/asset/d4dd5c6172c22f56edd3fb73e5f8bf3f2c62f6b9fa39e71a2d176b49ca9e542e?mediaType=mp4)|278,496||18-29|united kingdom|"33 Mighell Street,Brighton,BN2 0JF,GB"||

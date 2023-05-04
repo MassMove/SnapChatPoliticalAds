@@ -1,4 +1,7 @@
 ## 2022 - Long Beach Firefighters PAC 
+Spent: 7,454.00
+Impressions: 433,407
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|1,242.00 USD|Long Beach Firefighters PAC|[0](https://www.snap.com/political-ads/asset/cde7627fef0d4dec8c569e747831cb739b313003dbb3e1d530f1790b84904308?mediaType=png)|61,745||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"|Rex Richardson|

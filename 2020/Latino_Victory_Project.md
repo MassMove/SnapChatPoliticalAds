@@ -1,4 +1,7 @@
 ## 2020 - Latino Victory Project 
+Spent: 69,162.00
+Impressions: 4,519,466
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Horizon Media|6,305.00 USD|Latino Victory Project|[0](https://www.snap.com/political-ads/asset/aa9b53d6f26a6466da6e39eac04c46aecce7a6a7543fc9ec9d86d32637c01194?mediaType=png)|513,709|FEMALE|18+|united states|"75 Varick Street,New York,10013,US"||

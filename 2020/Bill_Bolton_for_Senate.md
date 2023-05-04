@@ -1,4 +1,7 @@
 ## 2020 - Bill Bolton for Senate 
+Spent: 337.00
+Impressions: 69,243
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bill Bolton for Senate|171.00 USD|Bill Bolton for Senate|[0](https://www.snap.com/political-ads/asset/93aa6767032c6a3f0ac05e06b07901dcb401ece88e8cdc1bd2333e55624f7d21?mediaType=png)|36,330||18-30|united states|"167 Reservoir Rd,Plymouth,03264,US"|Bill Bolton for Senate|

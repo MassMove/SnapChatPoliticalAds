@@ -1,4 +1,7 @@
 ## 2020 - Doctors Without Borders 
+Spent: 52,539.00
+Impressions: 26,687,156
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hiebing|12,500.00 USD|Doctors Without Borders|[0](https://www.snap.com/political-ads/asset/13112ca1cc2036bbf170e76bf53f4d0ae6c57a6837d11427dbdfe08b7c3999cd?mediaType=mp4)|7,014,811||18-34|united states|"315 Wisconsin Ave,Madison,53703,US"||

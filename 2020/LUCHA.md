@@ -1,4 +1,7 @@
 ## 2020 - LUCHA 
+Spent: 23,818.00
+Impressions: 7,290,205
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Colibri Collective|2,908.00 USD|LUCHA|[0](https://www.snap.com/political-ads/asset/657715b022c1c3fa015ab8c5e4f007c7c01c71c2f7c29dfe3abc60af3e8d86ae?mediaType=mp4)|1,610,393|||united states|"1425 N 1st St #100,Phoenix,85004,US"|No Prop 207|

@@ -1,4 +1,7 @@
 ## 2021 - Arizona Democratic Party 
+Spent: 390.00
+Impressions: 33,581
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|194.00 USD|Arizona Democratic Party|[0](https://www.snap.com/political-ads/asset/f88afb2de7e0c85f1ecf954ef70585d48fd8b175e874257098ba1550f44bb6d6?mediaType=mp4)|20,473||35+|united states|"1324 Spaight St,Madison,53703,US"|Arizona Democratic Party|

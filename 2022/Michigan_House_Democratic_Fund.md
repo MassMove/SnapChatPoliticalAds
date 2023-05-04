@@ -1,4 +1,7 @@
 ## 2022 - Michigan House Democratic Fund 
+Spent: 35,485.00
+Impressions: 1,282,973
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|1,927.00 USD|Michigan House Democratic Fund|[0](https://www.snap.com/political-ads/asset/fdb246110745cea47584c84d755ca534cc327044ea150052a7ace5fb330da8dc?mediaType=mp4)|71,241||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|HD83|

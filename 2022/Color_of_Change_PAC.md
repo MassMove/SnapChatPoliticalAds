@@ -1,4 +1,7 @@
 ## 2022 - Color of Change PAC 
+Spent: 15,411.00
+Impressions: 5,606,782
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Color of Change PAC|2,786.00 USD|Color of Change PAC|[0](https://www.snap.com/political-ads/asset/adb64fb0ed6f667ff9db85f36678a61727bbe8ae439023a2c5cd380f4f3d89af?mediaType=jpg)|904,247||18+|united states|"1714 Franklin St,Oakland,94612,US"|Bee Nguyen GA SOS|

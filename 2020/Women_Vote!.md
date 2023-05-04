@@ -1,4 +1,7 @@
 ## 2020 - WOMEN VOTE! 
+Spent: 38,140.00
+Impressions: 4,442,541
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lockwood Strategy|2,923.00 USD|WOMEN VOTE!|[0](https://www.snap.com/political-ads/asset/08e06201567385cbbc37ddbaaeaa3e522ca359322fafb759e60f1d931c74a900?mediaType=mp4)|389,613|FEMALE|18+|united states|"1140 3rd St. NW,Washington,20002,US"|Women Vote|

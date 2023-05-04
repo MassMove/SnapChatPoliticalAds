@@ -1,4 +1,7 @@
 ## 2020 - ThePresidentialPoll 
+Spent: 784.00
+Impressions: 249,296
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BS Technologies  INC|524.00 USD|ThePresidentialPoll|[0](https://www.snap.com/political-ads/asset/f07a37cb808c46f61269d8f6295cdeab3704297666e71073f95464555b48612b?mediaType=png)|110,616||25+|united states|US|Presidential Poll|

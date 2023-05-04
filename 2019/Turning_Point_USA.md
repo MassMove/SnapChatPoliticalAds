@@ -1,4 +1,7 @@
 ## 2019 - Turning Point USA 
+Spent: 1,538.00
+Impressions: 379,011
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Turning Point USA|300.00 USD|Turning Point USA|[0](https://www.snap.com/political-ads/asset/b85f40a03a54e81850672c36c8f30558acc916fb74fb2307d7216bc0de9fe37e?mediaType=mp4)|86,037||17-24|united states|US|Culture War|

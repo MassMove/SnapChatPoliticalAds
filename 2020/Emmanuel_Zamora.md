@@ -1,4 +1,7 @@
 ## 2020 - Emmanuel Zamora 
+Spent: 168.00
+Impressions: 77,355
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Emmanuel Zamora|68.00 USD|Emmanuel Zamora|[0](https://www.snap.com/political-ads/asset/a15033d6264ec9758bce4fc8a0cb7f76b909fb256e0c35bb0da346ba155e155e?mediaType=mp4)|30,289||18+|united states|"629 Nicholas St.,Uvalde,78801,US"|Emmanuel Zamora|

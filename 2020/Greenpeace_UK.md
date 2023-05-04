@@ -1,4 +1,7 @@
 ## 2020 - Greenpeace UK 
+Spent: 12,700.00
+Impressions: 2,116,624
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Opticomm|2,771.00 GBP|Greenpeace UK|[0](https://www.snap.com/political-ads/asset/1541bd8c973c48bade6c42a74255f0ea6c7570c2a22941057701a8a6c94a5daa?mediaType=mp4)|419,584||30-49|united kingdom|"Unit 403 Brickfields, 37 creamer street,Hackney, London,E2 8HD,GB"|Greenpeace|

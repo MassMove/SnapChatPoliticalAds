@@ -1,4 +1,7 @@
 ## 2022 - Schiff for Congress 
+Spent: 1,620.00
+Impressions: 121,750
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Authentic Campaigns Inc|451.00 USD|Schiff for Congress|[0](https://www.snap.com/political-ads/asset/ff9c702157b94a87b5ef02c7c5a8352e18e2d6ca2e97c3299bd4c7356d7d0ff6?mediaType=mp4)|41,446||18+|united states|"1211 Connecticut Ave,Washington,20036,US"|Adam Schiff|

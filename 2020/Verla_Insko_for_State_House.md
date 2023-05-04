@@ -1,4 +1,7 @@
 ## 2020 - Verla Insko for State House 
+Spent: 274.00
+Impressions: 71,407
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|154.00 USD|Verla Insko for State House|[0](https://www.snap.com/political-ads/asset/170bfb25d57181feb995576ae1d472385412608f78022844581225ae507d3214?mediaType=png)|40,016||25+|united states|"919 Central Ave,Auburn,68305,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Sprite - The Coca-Cola Company 
+Spent: 12,402.00
+Impressions: 982,146
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BET Networks|6,232.00 USD|Sprite - The Coca-Cola Company|[0](https://www.snap.com/political-ads/asset/d1020c6507be1502efef11a01c87f0b0f611482df893c31e81b837db7d1f8dfa?mediaType=mp4)|493,466||18+|united states|"1540 Broadway, Floor 27,New York,10036,US"|Sprite Coca Cola Create Your Future|

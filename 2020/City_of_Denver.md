@@ -1,4 +1,7 @@
 ## 2020 - City of Denver 
+Spent: 4,999.00
+Impressions: 3,689,395
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|2,521.00 USD|City of Denver|[0](https://www.snap.com/political-ads/asset/3869441b5b63128d5fc66dbe3b1e2491f42af2249e2ba795ae568362157d09d1?mediaType=mp4)|1,910,686||18-|united states|"201 W Colfax Ave,Denver,80202,US"||

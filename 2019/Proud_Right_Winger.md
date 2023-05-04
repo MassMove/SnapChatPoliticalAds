@@ -1,4 +1,7 @@
 ## 2019 - Proud Right Winger 
+Spent: 2,928.00
+Impressions: 2,856,607
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MP Mariam|2,233.00 USD|Proud Right Winger|[0](https://www.snap.com/political-ads/asset/0828ab0eca0193b3177a556d63d4020c444fb52a81d8f4bdf1df80392ce9440c?mediaType=png)|2,491,624|||united states|US||

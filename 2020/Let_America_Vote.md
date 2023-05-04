@@ -1,4 +1,7 @@
 ## 2020 - Let America Vote 
+Spent: 3,252.00
+Impressions: 1,290,859
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|687.00 USD|Let America Vote|[0](https://www.snap.com/political-ads/asset/af6c76fada039d3efac61d7899a12b544d013ff9c29bcdc4a7f0c8f1c8a44149?mediaType=jpg)|310,090||18+|united states|US||

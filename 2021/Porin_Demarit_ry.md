@@ -1,4 +1,7 @@
 ## 2021 - Porin Demarit ry 
+Spent: 215.00
+Impressions: 73,275
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veli-Matti Oksanen|116.00 EUR|Porin Demarit ry|[0](https://www.snap.com/political-ads/asset/d98774c0e682f099bbb7186cdc9023e103dcaf5c012d139263ece32e29f727c6?mediaType=jpg)|33,862||18-40|finland|FI|Veli Matti Oksanen|

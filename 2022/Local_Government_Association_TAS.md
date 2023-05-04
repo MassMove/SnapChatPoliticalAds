@@ -1,4 +1,7 @@
 ## 2022 - Local Government Association TAS 
+Spent: 1,944.00
+Impressions: 226,886
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cor Comms|659.00 AUD|Local Government Association TAS|[0](https://www.snap.com/political-ads/asset/c2afbfe6adcb1eeaadd5694421c32db9a830b03b2dd503af76ec247a17c4835e?mediaType=mp4)|85,731||30+|australia|"Level 2/,Hobart,7000,AU"|Local Government Association Tasmania|

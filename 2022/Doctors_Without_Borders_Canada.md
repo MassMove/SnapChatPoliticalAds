@@ -1,4 +1,7 @@
 ## 2022 - Doctors Without Borders Canada 
+Spent: 117.00
+Impressions: 14,560
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Aber Group|53.00 CAD|Doctors Without Borders Canada|[0](https://www.snap.com/political-ads/asset/552743ec2447a55eb57d05c3a44d11fee4f57280080ed50daadedbf0e22b29a8?mediaType=mp4)|5,974||18+|canada|"608-120 Eglinton Avenue East,Toronto,M4P1E2,CA"||

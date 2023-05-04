@@ -1,4 +1,7 @@
 ## 2021 - Hamar Arbeiderblad 
+Spent: 2,999.00
+Impressions: 42,877
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hamar Media|1,833.00 NOK|Hamar Arbeiderblad|[0](https://www.snap.com/political-ads/asset/a88fead005a52d7a5b9bf5d3ec31ec5672c861e2873b71d0fd87326c8eca8ed1?mediaType=mp4)|26,290||18-35|norway|"Grønnegata 64,Hamar,2315,NO"|Hamar Arbeiderblad|

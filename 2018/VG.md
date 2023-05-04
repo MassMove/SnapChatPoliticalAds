@@ -1,4 +1,7 @@
 ## 2018 - VG 
+Spent: 9,865.00
+Impressions: 6,743,599
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Norge AS|2,467.00 EUR|VG|[0](https://www.snap.com/political-ads/asset/4bf3c1d9b798e284c54f977980fc55367d0bb9bf2e3deeef2dd1f2f57d368e6e?mediaType=mp4)|1,772,583||15+|norway|"Kristian Augusts gate 23,Oslo,0164 Oslo ,NO"||

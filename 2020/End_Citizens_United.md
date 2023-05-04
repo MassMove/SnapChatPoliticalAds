@@ -1,4 +1,7 @@
 ## 2020 - End Citizens United 
+Spent: 14,500.00
+Impressions: 3,722,760
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,928.00 USD|End Citizens United|[0](https://www.snap.com/political-ads/asset/ae8a3342149a815c0319fbb37ef86c10d8a596966c3ad4ed8a36bceb150131af?mediaType=mp4)|1,075,643||18+|united states|US||

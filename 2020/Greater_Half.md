@@ -1,4 +1,7 @@
 ## 2020 - Greater Half 
+Spent: 27,274.00
+Impressions: 21,211,328
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Greater Half|2,502.00 USD|Greater Half|[0](https://www.snap.com/political-ads/asset/b097c6cd5b29fd322e8013aa35b6e1dae1a28166600eac894f4f7224b15a27dc?mediaType=png)|4,537,840||18+|united states|US||

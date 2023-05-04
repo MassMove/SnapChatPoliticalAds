@@ -1,4 +1,7 @@
 ## 2022 - Fetterman for PA 
+Spent: 20,690.00
+Impressions: 2,691,075
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|3,182.00 USD|Fetterman for PA|[0](https://www.snap.com/political-ads/asset/01785e1bde4c66a87cdc5b4e724f1af9335a4cf583e520475c62f824abe30015?mediaType=mp4)|1,025,326||18-30|united states|"Po Box 21600,Washington,20009,US"|John Fetterman for PA|

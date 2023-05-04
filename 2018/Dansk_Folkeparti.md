@@ -1,4 +1,7 @@
 ## 2018 - Dansk_Folkeparti 
+Spent: 17,995.00
+Impressions: 5,981,178
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Media Agent|6,000.00 EUR|Dansk_Folkeparti|[0](https://www.snap.com/political-ads/asset/27d6611896d7181fa51dfaefefc6dadda30b5e524c580ed2cbc5917bd3b025a6?mediaType=mp4)|2,080,852|||denmark|"Østre alle 2 ,Værløse ,3500,DK"||

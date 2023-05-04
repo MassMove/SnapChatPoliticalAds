@@ -1,4 +1,7 @@
 ## 2022 - Commonwealth Communications 
+Spent: 110,167.00
+Impressions: 5,856,718
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|11,487.00 USD|Commonwealth Communications|[0](https://www.snap.com/political-ads/asset/cddb0c44bcc06370aaa0c6b7c1ff5abe36ad92546566210dc2f5787141e2978c?mediaType=mp4)|574,930||18-35|united states|"PO Box 128,Mill Valley,94942,US"|Voting registration in Pennsylvania|

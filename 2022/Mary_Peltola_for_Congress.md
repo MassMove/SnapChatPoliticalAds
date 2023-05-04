@@ -1,4 +1,7 @@
 ## 2022 - Mary Peltola for Congress 
+Spent: 63,931.00
+Impressions: 4,509,003
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mary Peltola for Congress|5,000.00 USD|Mary Peltola for Congress|[0](https://www.snap.com/political-ads/asset/ae5a0f7796ec76a6fe0fd18dbb0c1b33646676caedc1a07499e948f4846d9690?mediaType=jpg)|1,065,423||18+|united states|US||

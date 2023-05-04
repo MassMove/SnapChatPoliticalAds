@@ -1,4 +1,7 @@
 ## 2022 - Idaho Democratic Party 
+Spent: 2,600.00
+Impressions: 447,339
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Momentum Campaigns  LLC|340.00 USD|Idaho Democratic Party|[0](https://www.snap.com/political-ads/asset/3bc83b37cad2c5da6cfeaff34146e9c9eef533d2ddaeca7d7672958b903157c8?mediaType=png)|87,710||18-25|united states|"1835 7th St. NE, #272,Washington,20001,US"||

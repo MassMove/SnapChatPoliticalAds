@@ -1,4 +1,7 @@
 ## 2022 - The 'Gander Newsroom 
+Spent: 177,426.00
+Impressions: 10,569,370
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SBDigital|81,909.00 USD|The 'Gander Newsroom|[0](https://www.snap.com/political-ads/asset/e75f3672e6ef71e52f33f9d230194691525d7966d1ffddace534a4c2a52c32d2?mediaType=mp4)|4,835,244||17+|united states|US||

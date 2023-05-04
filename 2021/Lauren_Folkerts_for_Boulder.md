@@ -1,4 +1,7 @@
 ## 2021 - Lauren Folkerts for Boulder 
+Spent: 744.00
+Impressions: 205,529
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lauren Folkerts for Boulder|376.00 USD|Lauren Folkerts for Boulder|[0](https://www.snap.com/political-ads/asset/81923efb1bc6861b60418e14ffc1e39cad63887495a0dbc019c0aba7cf9d4789?mediaType=mp4)|103,928||18+|united states|US|Lauren Folkerts for Boulder City Council|

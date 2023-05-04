@@ -1,4 +1,7 @@
 ## 2021 - Hampshire County Council 
+Spent: 444.00
+Impressions: 146,510
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hampshire County Council|150.00 GBP|Hampshire County Council|[0](https://www.snap.com/political-ads/asset/dbcc986705e1f9a0b7a5e32311935d394d5f514263cbc9b97b3ff63c5fb7ee4a?mediaType=mp4)|50,391|FEMALE|18-40|united kingdom|GB||

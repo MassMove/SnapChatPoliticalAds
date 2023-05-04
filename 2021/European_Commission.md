@@ -1,4 +1,7 @@
 ## 2021 - European Commission 
+Spent: 387,387.00
+Impressions: 229,268,182
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ogilvy Group SA-NV|36,111.00 EUR|European Commission|[0](https://www.snap.com/political-ads/asset/e7e579262e607afbc95c8cfd70b77579542e96c174d797922484e55eb35f924e?mediaType=mp4)|33,387,262||16-29|france|"Square Victoria Regina 1 ,Brussels,1210,BE"||

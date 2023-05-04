@@ -1,4 +1,7 @@
 ## 2021 - NNAF 
+Spent: 16,030.00
+Impressions: 675,015
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|7,270.00 USD|NNAF|[0](https://www.snap.com/political-ads/asset/5a8895463617546f9a693b13a762ba4bbf31207ca868432253131976d9245438?mediaType=mp4)|322,897|FEMALE|18-40|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

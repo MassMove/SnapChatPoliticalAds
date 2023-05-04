@@ -1,4 +1,7 @@
 ## 2020 - Friends of Dan Feehan 
+Spent: 5,943.00
+Impressions: 2,626,166
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|729.00 USD|Friends of Dan Feehan|[0](https://www.snap.com/political-ads/asset/eeae20c199631e7eed0703571ad21a6ab158779f25ac886ba78fd7c8fef0b9d6?mediaType=mp4)|318,117||18-34|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Dan Feehan|

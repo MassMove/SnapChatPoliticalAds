@@ -1,4 +1,7 @@
 ## 2022 - A Stronger New Mexico 
+Spent: 8,954.00
+Impressions: 939,378
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|1,628.00 USD|A Stronger New Mexico|[0](https://www.snap.com/political-ads/asset/0fff4d647d46fdd0a62d905eee696915dc2c478eb0e6b2557b07204e41521935?mediaType=mp4)|513,815||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|A Stronger New Mexico|

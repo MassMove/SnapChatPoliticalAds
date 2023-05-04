@@ -1,4 +1,7 @@
 ## 2021 - Alliance for a Better Utah 
+Spent: 190.00
+Impressions: 75,221
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Alliance for a Better Utah|100.00 USD|Alliance for a Better Utah|[0](https://www.snap.com/political-ads/asset/4ef50252f0b25d47111a0f915a0af022ce93f6f937fe161b22b43915de11f388?mediaType=mp4)|39,360|||united states|"150 South State Street,Salt Lake City,84111,US"|Utah Redistricting|

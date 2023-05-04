@@ -1,4 +1,7 @@
 ## 2022 - Nevada Voters First 
+Spent: 61,996.00
+Impressions: 2,511,529
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bask Digital Media|14,471.00 USD|Nevada Voters First|[0](https://www.snap.com/political-ads/asset/c08cf482019c2847478c07d71daf1b1d0b64aecc237217b27c3060dc675d70fc?mediaType=mp4)|599,832||18-34|united states|US|Question 3|

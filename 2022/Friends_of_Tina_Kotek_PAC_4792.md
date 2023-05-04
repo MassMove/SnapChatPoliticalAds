@@ -1,4 +1,7 @@
 ## 2022 - Friends of Tina Kotek PAC 4792 
+Spent: 13,317.00
+Impressions: 1,679,031
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Winning Mark|4,856.00 USD|Friends of Tina Kotek PAC 4792|[0](https://www.snap.com/political-ads/asset/476591dcab9df9744ae80af9e9e0bd25e6ca132c3f919e667a01729ce23b8bdf?mediaType=mp4)|681,269|FEMALE|18+|united states|"1220 SW Morrison St Suite 910,,Portland ,97205,US"|Tina Kotek|

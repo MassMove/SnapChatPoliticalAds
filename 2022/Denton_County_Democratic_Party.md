@@ -1,4 +1,7 @@
 ## 2022 - Denton County Democratic Party 
+Spent: 4,008.00
+Impressions: 342,053
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Denton County Democratic Party|852.00 USD|Denton County Democratic Party|[0](https://www.snap.com/political-ads/asset/9345f51c2ea440f2849f118c1205b44b7d8463789c8c58d716626e759e662045?mediaType=mp4)|144,786||18-40|united states|US||

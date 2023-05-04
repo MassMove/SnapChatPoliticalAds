@@ -1,4 +1,7 @@
 ## 2022 - Amt der oö. Landesregierung 
+Spent: 1,118.00
+Impressions: 108,050
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |upart|492.00 EUR|Amt der oö. Landesregierung|[0](https://www.snap.com/political-ads/asset/13a35025d0b9183f146914b45beedc095421c841798a4f6bef2a45d9cefdd9c8?mediaType=mp4)|47,615||15-25|austria|"Wildbergstraße 4,Linz,4040,AT"||

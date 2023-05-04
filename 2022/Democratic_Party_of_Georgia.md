@@ -1,4 +1,7 @@
 ## 2022 - Democratic Party of Georgia 
+Spent: 4,250.00
+Impressions: 612,196
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|2,280.00 USD|Democratic Party of Georgia|[0](https://www.snap.com/political-ads/asset/75670d7022ea92e7818d7a7be9b05c8863f3a4c4649f9acf6456e0b3eac056a9?mediaType=mp4)|333,933||18+|united states|"1324 Spaight St,Madison,53703,US"|Jen Jordan|

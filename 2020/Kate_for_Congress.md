@@ -1,4 +1,7 @@
 ## 2020 - Kate for Congress 
+Spent: 2,273.00
+Impressions: 247,073
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|1,657.00 USD|Kate for Congress|[0](https://www.snap.com/political-ads/asset/ca7238d9c882322162a3b82e838586d7cdd93244ab3aa55072477b51ef13cedc?mediaType=mp4)|168,518|FEMALE|30+|united states|"1324 Spaight St,Madison,53703,US"|Kate Schroder|

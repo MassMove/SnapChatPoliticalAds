@@ -1,4 +1,7 @@
 ## 2020 - AFL-CIO 
+Spent: 13,217.00
+Impressions: 6,400,366
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|4,397.00 USD|AFL-CIO|[0](https://www.snap.com/political-ads/asset/582f906ccfd895c19e5eff7e66b929e58beeb961812a964a088c143176787e30?mediaType=mp4)|3,150,253|||united states|"Po Box 21600,Washington,20009,US"|NA|

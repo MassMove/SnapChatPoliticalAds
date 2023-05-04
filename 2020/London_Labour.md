@@ -1,4 +1,7 @@
 ## 2020 - London Labour 
+Spent: 1,820.00
+Impressions: 1,088,693
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |London Labour|296.00 GBP|London Labour|[0](https://www.snap.com/political-ads/asset/c49a73332b96793c0edaa84a6d42f4065410dfb2c53841f544cd08a3ce9ba975?mediaType=mp4)|175,245||18+|united kingdom|GB|Sadiq Khan|

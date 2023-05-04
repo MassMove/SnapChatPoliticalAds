@@ -1,4 +1,7 @@
 ## 2021 - Progressive Turnout Project 
+Spent: 5,260.00
+Impressions: 1,005,888
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Progressive Turnout Project|1,727.00 USD|Progressive Turnout Project|[0](https://www.snap.com/political-ads/asset/ad2c135b51079fa27ba825d98091cafd99bd3e7d627cd1bfa5b28d83b8d803b2?mediaType=mp4)|343,242||18-34|united states|US|Progressive Turnout Project|

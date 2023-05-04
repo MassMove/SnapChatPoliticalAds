@@ -1,4 +1,7 @@
 ## 2020 - Rothmans, Benson & Hedges 
+Spent: 46,912.00
+Impressions: 22,266,281
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Data Sciences|12,545.00 CAD|Rothmans, Benson & Hedges|[0](https://www.snap.com/political-ads/asset/38d14b85cc9bdb8404adcb1060a910b13add0dac4ab37d7cc165660099371016?mediaType=png)|5,102,828||19+|canada|"423 rue St-Nicolas suite 400,Montreal,H2Y2P4,CA"||

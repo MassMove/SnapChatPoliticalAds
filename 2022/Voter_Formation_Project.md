@@ -1,4 +1,7 @@
 ## 2022 - Voter Formation Project 
+Spent: 74,159.00
+Impressions: 9,848,935
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Voter Formation Project|2,242.00 USD|Voter Formation Project|[0](https://www.snap.com/political-ads/asset/2f409b7b69b3752289a75c50a7fdad0fcfe2668ce758839da0317599f27c3e90?mediaType=png),[1](https://www.snap.com/political-ads/asset/70100288ec9921fb33956a9bdbe11cee2c2bc566239a229cf3060ac1bb6da2af?mediaType=png),[2](https://www.snap.com/political-ads/asset/de92b19aa6dd7a843a2c4c45c1262512738b29d452733685cdf4e18cba2746f9?mediaType=png),[3](https://www.snap.com/political-ads/asset/934f089b74739a7d30ea9c7211e83c2312e6c6be5c473fb7b0979f6dfb4e84f0?mediaType=png)|649,546||18+|united states|"712 H St NE PMB 41,Washington,20002,US"||

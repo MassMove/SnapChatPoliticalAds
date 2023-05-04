@@ -1,4 +1,7 @@
 ## 2021 - LNU 
+Spent: 996.00
+Impressions: 787,415
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LNU|542.00 EUR|LNU|[0](https://www.snap.com/political-ads/asset/bdb4d87811a8f8c81e7ab00e98f8e2d2156d15bf43cffe833de10c627f21a909?mediaType=mp4)|429,169||25-|norway|NO|Trygg|

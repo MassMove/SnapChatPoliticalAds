@@ -1,4 +1,7 @@
 ## 2023 - PPAA 
+Spent: 2,450.00
+Impressions: 289,814
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,634.00 USD|PPAA|[0](https://www.snap.com/political-ads/asset/ff805dac7b8f7433c2a57dc817de3059015909728e143c4ecb5ec34b0ba0eefb?mediaType=png)|189,605||18-40|united states|"1220 19th Street NW,Washington,20036,US"||

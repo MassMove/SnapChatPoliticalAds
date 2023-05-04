@@ -1,4 +1,7 @@
 ## 2022 - Nye Borgerlige 
+Spent: 25,226.00
+Impressions: 616,973
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nye Borgerlige|2,432.00 DKK|Nye Borgerlige|[0](https://www.snap.com/political-ads/asset/394eaa831490dfa10f83358b1b761df3bb6e85e8d0af98e27c9a18fbd8acab88?mediaType=mov)|154,553||18-40|denmark|"Christiansborg Slotsplads 1,København K,1218,DK"||

@@ -1,4 +1,7 @@
 ## 2021 - New Georgia Project Action Fund 
+Spent: 7,671.00
+Impressions: 1,280,900
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BerlinRosen|1,604.00 USD|New Georgia Project Action Fund|[0](https://www.snap.com/political-ads/asset/9731b2eb5ca56407ff4385d1a6d894b7d570c684339fcef0adf8c4da8c94e5f2?mediaType=mp4)|248,938||18+|united states|"15 Maiden Lane #16,New York,10038,US"|For the People Act|

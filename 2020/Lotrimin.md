@@ -1,4 +1,7 @@
 ## 2020 - Lotrimin 
+Spent: 89,992.00
+Impressions: 25,973,107
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bayer Healthcare LLC|22,497.00 USD|Lotrimin|[0](https://www.snap.com/political-ads/asset/a079669d774dfcc11db26af1e47dcce68b7c21269464f37303daa1adeef519e1?mediaType=mp4)|10,742,973||18+|united states|"PO Box 106099,Pittsburgh,15230 ,US"||

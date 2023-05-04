@@ -1,4 +1,7 @@
 ## 2020 - WorkMoney 
+Spent: 499.00
+Impressions: 90,089
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |WorkMoney|247.00 USD|WorkMoney|[0](https://www.snap.com/political-ads/asset/0625436a02d193a52c343739351f43a058b2ca9a6fcc9584bc060dfcd6777237?mediaType=mp4)|45,259|FEMALE|30+|united states|US|Second Stimulus|

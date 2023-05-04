@@ -1,4 +1,7 @@
 ## 2022 - CT Secretary of the State 
+Spent: 58,676.00
+Impressions: 4,371,071
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Odonnell Company|26,523.00 USD|CT Secretary of the State|[0](https://www.snap.com/political-ads/asset/94903bbb3897da37cd88faf8af17f97617eb4235f9a9495a2c0ae11bc2fb3e21?mediaType=mp4)|2,198,502||18+|united states|"59 Elm Street,New Haven,06511,US"|CT Secretary of the State|

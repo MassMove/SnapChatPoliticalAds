@@ -1,4 +1,7 @@
 ## 2021 - End Citizens United 
+Spent: 240,772.00
+Impressions: 26,304,348
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|10,680.00 USD|End Citizens United|[0](https://www.snap.com/political-ads/asset/c4f6b15fa80d7e2906b2efa66639352a017d317446617565e29ca6f234b54930?mediaType=mp4)|1,543,641||18+|united states|US||

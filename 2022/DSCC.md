@@ -1,4 +1,7 @@
 ## 2022 - DSCC 
+Spent: 134,698.00
+Impressions: 15,142,746
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MVAR Media|21,610.00 USD|DSCC|[0](https://www.snap.com/political-ads/asset/343f98cb8498fde9da7450c618cdbe5daeba434f45cdc8793f8e206f288ed1d8?mediaType=mp4)|2,216,740||18+|united states|"1421 Prince St Suite 320,Alexandria,22314,US"||

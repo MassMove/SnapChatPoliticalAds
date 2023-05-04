@@ -1,4 +1,7 @@
 ## 2020 - California Secretary of State 
+Spent: 486,434.00
+Impressions: 164,066,878
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Assembly|56,423.00 USD|California Secretary of State|[0](https://www.snap.com/political-ads/asset/807ccf5dd5b6c31b787e3466478a6ab2073dbe0e594504c77be6dc9f6b2b9536?mediaType=jpg)|18,413,015||18+|united states|"711 3rd Ave, New York, NY 10017,new york city,10017,US"|California Secretary of State|

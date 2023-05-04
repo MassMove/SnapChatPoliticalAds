@@ -1,4 +1,7 @@
 ## 2021 - Illinois Clean Jobs Coalition 
+Spent: 16,000.00
+Impressions: 7,990,900
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |We Bridge Consulting LLC|4,000.00 USD|Illinois Clean Jobs Coalition|[0](https://www.snap.com/political-ads/asset/8a8e008582d711b0f53fe95714d19e84d7e65ba7746c3cfda3fe208a7ecf28e8?mediaType=mp4)|2,086,343|||united states|US||

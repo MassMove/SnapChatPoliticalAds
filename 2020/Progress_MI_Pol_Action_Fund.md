@@ -1,4 +1,7 @@
 ## 2020 - Progress MI Pol Action Fund 
+Spent: 40,387.00
+Impressions: 6,326,394
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|11,182.00 USD|Progress MI Pol Action Fund|[0](https://www.snap.com/political-ads/asset/b909d1c35bd6962fc7319589af761d99247eaece0a0acc0b31b8a922d68c348d?mediaType=jpg)|1,224,337||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Michigan Supreme Court|

@@ -1,4 +1,7 @@
 ## 2020 - NCPIRG Education Fund 
+Spent: 249.00
+Impressions: 200,417
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NCPIRG|184.00 USD|NCPIRG Education Fund|[0](https://www.snap.com/political-ads/asset/4b70a52ff288014f5b916d85bfcc93bdd29086bcaaed5021cda2068f58ae365d?mediaType=mp4)|155,156||29-|united states|US||

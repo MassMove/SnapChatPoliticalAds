@@ -1,4 +1,7 @@
 ## 2022 - Majority Forward 
+Spent: 90,459.00
+Impressions: 12,552,858
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|7,443.00 USD|Majority Forward|[0](https://www.snap.com/political-ads/asset/b8524db62d3930ff1b0cddfd4551e137ad21bc0a18f17d7a7873b556e0af3723?mediaType=mp4)|2,412,678||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|Majority Forward|

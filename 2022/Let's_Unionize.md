@@ -1,4 +1,7 @@
 ## 2022 - Let's Unionize 
+Spent: 4,609.00
+Impressions: 418,479
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |KMHewitt Consulting|1,634.00 USD|Let's Unionize|[0](https://www.snap.com/political-ads/asset/5b5313c3d5c3d96e28cafd8b24806d68369e474ae2b5afcbd0f1479258980753?mediaType=mp4)|157,159||18-35|united states|US||

@@ -1,4 +1,7 @@
 ## 2022 - Abdullah Almutairi 
+Spent: 1,078.00
+Impressions: 418,621
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dr.Qwe3an|151.00 USD|Abdullah Almutairi|[0](https://www.snap.com/political-ads/asset/67b680b8c1d4eac40d710d62471b24c6436c48fa903b2dc3495a7383984deca0?mediaType=mov)|201,089||21+|kuwait|KW||

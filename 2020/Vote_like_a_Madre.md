@@ -1,4 +1,7 @@
 ## 2020 - Vote like a Madre 
+Spent: 3,361.00
+Impressions: 1,865,160
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Latido Mitu Holdings  LLC|1,048.00 USD|Vote like a Madre|[0](https://www.snap.com/political-ads/asset/6c477f8a28f5e43118d729a510db1b64ec598d07c341b654c44b5257d69e35a7?mediaType=mp4)|729,608|FEMALE||united states|"4712 Admiralty Way, #533,Marina Del Rey,90292,US"||

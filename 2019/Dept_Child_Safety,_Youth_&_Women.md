@@ -1,4 +1,7 @@
 ## 2019 - Dept Child Safety, Youth & Women 
+Spent: 2,519.00
+Impressions: 1,112,691
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Department of Child Safety  Youth and Women|500.00 AUD|Dept Child Safety, Youth & Women|[0](https://www.snap.com/political-ads/asset/be05dc7b51331b9fd3c9ea40ec9a5f30e31bc02f002d86c8a11d7dacc404c97f?mediaType=mp4)|236,901||18-|australia|"111 George Street,Brisbane City,4000,AU"||

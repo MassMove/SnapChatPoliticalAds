@@ -1,4 +1,7 @@
 ## 2020 - Progressive Style 
+Spent: 118.00
+Impressions: 42,608
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Progressive Style|29.00 USD|Progressive Style|[0](https://www.snap.com/political-ads/asset/c31cfc407b55116523f3017c53a40339951dd0b9193e120086752aa86fb6f5cc?mediaType=mp4)|12,489|MALE|21-45|united states|"320 Gold Ave SW,Albuquerque,87102,US"||

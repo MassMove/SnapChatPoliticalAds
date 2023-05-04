@@ -1,4 +1,7 @@
 ## 2022 - Nebraska Democratic Party 
+Spent: 2,482.00
+Impressions: 128,955
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|806.00 USD|Nebraska Democratic Party|[0](https://www.snap.com/political-ads/asset/ae3c4c62e26fb3b42b889c9a51f277356e493101dbd2a4bb1946b893933bb36b?mediaType=jpeg)|37,051||18+|united states|"919 Central Ave,Auburn,68305,US"|Nebraska Democratic Party|

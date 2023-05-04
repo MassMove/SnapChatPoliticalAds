@@ -1,4 +1,7 @@
 ## 2020 - Indian American Impact Fund 
+Spent: 48,591.00
+Impressions: 1,341,440
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |INDIAN AMERICAN IMPACT FUND|9,725.00 USD|Indian American Impact Fund|[0](https://www.snap.com/political-ads/asset/09c73023f370b5429876a334b69de0b1a919a9555ca51c9f3bc2c2cfcf13ef29?mediaType=png)|268,685|||united states|"720 HARVARD STREET NW     ,WASHINGTON,20001,US"|The IMPACT Fund|

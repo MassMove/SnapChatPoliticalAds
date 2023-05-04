@@ -1,4 +1,7 @@
 ## 2020 - The Outrage 
+Spent: 1,486.00
+Impressions: 205,187
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Search for Businesses  LLC|151.00 USD|The Outrage|[0](https://www.snap.com/political-ads/asset/5855369466f6b63618a1ca9a4a5bee2fd17609989e1dbe6201f548f3e8c01d73?mediaType=jpg)|24,778|FEMALE|25+|united states|US||

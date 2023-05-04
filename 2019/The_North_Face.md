@@ -1,4 +1,7 @@
 ## 2019 - The North Face 
+Spent: 28,953.00
+Impressions: 16,960,546
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The North Face|17,654.00 USD|The North Face|[0](https://www.snap.com/political-ads/asset/9a754563434d6d51512bc8c69b9b7cc809447d5c363958e15b13c92dcd8831a4?mediaType=jpg)|10,612,741||16-34|united states|"375 Hudson Street,New York,10014,US"||

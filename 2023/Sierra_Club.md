@@ -1,4 +1,7 @@
 ## 2023 - Sierra Club 
+Spent: 4,194.00
+Impressions: 830,119
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sierra Club|1,589.00 USD|Sierra Club|[0](https://www.snap.com/political-ads/asset/07dbc7326473bded35e4719a49d5f1e754ef58b1bbe3fac796ffc251cd5b294f?mediaType=mp4)|362,429|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"|Plastic Pollution|

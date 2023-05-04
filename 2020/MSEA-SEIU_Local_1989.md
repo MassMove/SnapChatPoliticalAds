@@ -1,4 +1,7 @@
 ## 2020 - MSEA-SEIU Local 1989 
+Spent: 1,106.00
+Impressions: 170,895
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|148.00 USD|MSEA-SEIU Local 1989|[0](https://www.snap.com/political-ads/asset/94bddf340df672f18edb045516128009f648e158ea15567420f8586f5809a7e0?mediaType=mp4)|22,051||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|MSEA - SEIU Local 1989|

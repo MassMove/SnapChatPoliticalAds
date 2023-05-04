@@ -1,4 +1,7 @@
 ## 2018 - Liberal Party 
+Spent: 2,121.00
+Impressions: 700,127
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Tubemogul  Inc.|1,096.00 USD|Liberal Party|[0](https://www.snap.com/political-ads/asset/d02f2534cf7250c42bee983d2bc05371879fa8868fecd8939d7960a364669f14?mediaType=mp4)|365,035|FEMALE||australia|"1250 53rd Street,,,Emeryville,94608,US"||

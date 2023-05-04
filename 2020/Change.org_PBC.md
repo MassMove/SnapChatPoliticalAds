@@ -1,4 +1,7 @@
 ## 2020 - Change.org PBC 
+Spent: 6,210.00
+Impressions: 4,614,843
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Change.org PBC|2,819.00 USD|Change.org PBC|[0](https://www.snap.com/political-ads/asset/f6d18cdf96bb198f741ea77ceeb67795246a9cb0ade642c3539df76dbd6a2f63?mediaType=png)|2,026,451||16+|united states|US||

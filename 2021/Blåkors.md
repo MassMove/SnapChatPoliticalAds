@@ -1,4 +1,7 @@
 ## 2021 - Blåkors 
+Spent: 1,147.00
+Impressions: 223,582
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Opptur|696.00 EUR|Blåkors|[0](https://www.snap.com/political-ads/asset/c904e17ebbade2db20f7a582a1ced99f27722cedb7f200d24ae7dfbae688f3a8?mediaType=jpg)|146,507||18+|norway|"Edvard Storms gate 2,OSLO,0166,NO"|Bla Kors|

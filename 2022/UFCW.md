@@ -1,4 +1,7 @@
 ## 2022 - UFCW 
+Spent: 11,387.00
+Impressions: 609,998
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SBDigital|6,122.00 USD|UFCW|[0](https://www.snap.com/political-ads/asset/eb850bfc7a4725176f725d9ff23a9fe502caa7f7b04a607a6756868dbf055ac2?mediaType=png)|393,994||18+|united states|US|UFCW Votes|

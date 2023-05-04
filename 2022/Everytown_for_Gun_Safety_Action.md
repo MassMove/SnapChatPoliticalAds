@@ -1,4 +1,7 @@
 ## 2022 - Everytown for Gun Safety Action 
+Spent: 31,133.00
+Impressions: 5,956,685
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|9,382.00 USD|Everytown for Gun Safety Action|[0](https://www.snap.com/political-ads/asset/32eefe9f0a60f5f192dbb70f7a0fa0b8ce37d605f28ffd15fc1c7efd0468178f?mediaType=jpg)|2,444,557|FEMALE|18+|united states|US||

@@ -1,4 +1,7 @@
 ## 2021 - NRDC Action 
+Spent: 31,781.00
+Impressions: 2,666,117
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|3,060.00 USD|NRDC Action|[0](https://www.snap.com/political-ads/asset/e1a8c174cda7e52a044a77345fd803d454fc4160dfe6937186ffd248a20c0569?mediaType=mp4)|248,547||30+|united states|US|NRDC Action|

@@ -1,4 +1,7 @@
 ## 2021 - Fair Fight Action 
+Spent: 327,862.00
+Impressions: 41,644,985
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|35,481.00 USD|Fair Fight Action|[0](https://www.snap.com/political-ads/asset/99dbe4aac46cd95d2485841de4620079f820216e50da56b4376ac23ddb4826af?mediaType=mp4)|7,596,796||18-34|united states|"222 W. Ontario,Chicago,60654,US"|Fair Fight Action|

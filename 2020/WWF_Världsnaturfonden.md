@@ -1,4 +1,7 @@
 ## 2020 - WWF Världsnaturfonden 
+Spent: 9,176.00
+Impressions: 5,514,932
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Heep Agency|6,749.00 EUR|WWF Världsnaturfonden|[0](https://www.snap.com/political-ads/asset/8e4376f2a2910bace82a6a924619063b6aa6b496f1d0f27f50838bddd8ec5626?mediaType=mp4)|4,339,588||20+|sweden|"Vasagatan 16,Stockholm,11120,SE"||

@@ -1,4 +1,7 @@
 ## 2020 - NextGen America 
+Spent: 220,155.00
+Impressions: 18,001,916
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|15,489.00 USD|NextGen America|[0](https://www.snap.com/political-ads/asset/2ab911f4a6aa59707bdf0269a3f8b6ebe74f2ff58b376920ae79edb067145cc6?mediaType=mp4)|1,277,052||18-34||"1445 New York Ave NW,Washington,20005,US"|Joe Biden|

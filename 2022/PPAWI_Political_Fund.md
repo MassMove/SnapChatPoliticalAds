@@ -1,4 +1,7 @@
 ## 2022 - PPAWI Political Fund 
+Spent: 41,751.00
+Impressions: 10,860,497
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Planned Parenthood Advocates of Wisconsin|10,560.00 USD|PPAWI Political Fund|[0](https://www.snap.com/political-ads/asset/ad30dcae488f2964ce14f6ff0660b5a876aebd20d519b21050653cdefeeca8a3?mediaType=mp4)|3,284,954||18+|united states|"302 N Jackson St,Milwaukee,53211,US"|Josh Kaul|

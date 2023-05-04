@@ -1,4 +1,7 @@
 ## 2019 - Kristelig Folkeparti 
+Spent: 1,137.00
+Impressions: 438,754
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Influence Me AS|354.00 USD|Kristelig Folkeparti|[0](https://www.snap.com/political-ads/asset/e17b99af70954575eaa54d5454edc4a850191bbd4e84611ad1a13a7291468d2d?mediaType=mp4)|169,309||18-25|norway|"Banken,Frosta,7633,NO"||

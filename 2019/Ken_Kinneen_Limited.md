@@ -1,4 +1,7 @@
 ## 2019 - Ken Kinneen Limited 
+Spent: 57.00
+Impressions: 80,879
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ken Kinneen Limited|15.00 EUR|Ken Kinneen Limited|[0](https://www.snap.com/political-ads/asset/6cab81d7aad155cc0e2a9555ce8f199a6f56901d3235ae4d70001bf38dd419a8?mediaType=mp4)|60,041||20+|united kingdom|IE||

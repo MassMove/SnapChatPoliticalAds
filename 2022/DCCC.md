@@ -1,4 +1,7 @@
 ## 2022 - DCCC 
+Spent: 64,396.00
+Impressions: 11,332,197
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|14,253.00 USD|DCCC|[0](https://www.snap.com/political-ads/asset/b782dbe7b43de40552cf11ff711a087a727242ed53576cecd598e0be2abd922f?mediaType=mp4)|3,436,191|||united states|"222 W Ontario, Suite 600,,Chicago,60654,US"||

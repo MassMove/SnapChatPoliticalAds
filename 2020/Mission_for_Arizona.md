@@ -1,4 +1,7 @@
 ## 2020 - Mission for Arizona 
+Spent: 35,201.00
+Impressions: 2,523,384
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mission for Arizona|13,046.00 USD|Mission for Arizona|[0](https://www.snap.com/political-ads/asset/80a48ea611a35f8a2e668a76ef1fc3ef56a6525bb13d8e73d071cd3312a580a2?mediaType=mp4)|1,037,369||18+|united states|US||

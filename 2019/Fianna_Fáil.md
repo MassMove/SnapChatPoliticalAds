@@ -1,4 +1,7 @@
 ## 2019 - Fianna Fáil 
+Spent: 316.00
+Impressions: 381,756
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fianna Fáil|99.00 EUR|Fianna Fáil|[0](https://www.snap.com/political-ads/asset/cdee4004b8d094ed09780618cb167e4d55b98f5f27bb053c9cc7e6c6385a69e2?mediaType=mp4)|143,508||24-44|ireland|IE||

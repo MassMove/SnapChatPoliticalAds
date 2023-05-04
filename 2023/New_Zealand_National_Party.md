@@ -1,4 +1,7 @@
 ## 2023 - New Zealand National Party 
+Spent: 1,662.00
+Impressions: 1,113,304
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Rainmakers MSA|240.00 USD|New Zealand National Party|[0](https://www.snap.com/political-ads/asset/5fbf5f801e39fe6d70ed8b934fcb6fb90aa0cfca6d0f07c4b083f8a4ed1bdce6?mediaType=mp4)|278,241|||new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||

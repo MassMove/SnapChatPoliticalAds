@@ -1,4 +1,7 @@
 ## 2022 - Élection Québec 
+Spent: 15,228.00
+Impressions: 3,068,310
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|7,000.00 CAD|Élection Québec|[0](https://www.snap.com/political-ads/asset/bef0eea49077076ca68ad6c74e3828d0fea7d4656c8485cdae79acd056520f5e?mediaType=mp4)|819,025||18-44|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

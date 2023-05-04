@@ -1,4 +1,7 @@
 ## 2022 - Konservative 
+Spent: 4,048.00
+Impressions: 1,881,549
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Det Konservative Folkeparti|1,550.00 USD|Konservative|[0](https://www.snap.com/political-ads/asset/bd1977df0c42f10da417aa4774d5fcce6e2a94fd9ee852a0a1b3bdeb07a32d0d?mediaType=mp4)|680,294||18+|denmark|"Christiansborg,Copenhagen,1240,DK"|Det Konservative Folkeparti|

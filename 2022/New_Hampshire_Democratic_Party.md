@@ -1,4 +1,7 @@
 ## 2022 - New Hampshire Democratic Party 
+Spent: 66,117.00
+Impressions: 4,168,552
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|12,135.00 USD|New Hampshire Democratic Party|[0](https://www.snap.com/political-ads/asset/bff09879289369b860fde36e3741eadbaedf15ca9e87cc7fcc9dd91bd388f796?mediaType=png)|652,559||18+|united states|US|New Hampshire Democratic Party|

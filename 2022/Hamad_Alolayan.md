@@ -1,4 +1,7 @@
 ## 2022 - Hamad Alolayan 
+Spent: 2,949.00
+Impressions: 1,153,609
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yuehlia|1,144.00 USD|Hamad Alolayan|[0](https://www.snap.com/political-ads/asset/4902055ad9f0a4c69a83dfb0d820765590248ed7ae56d1aeaed9a11e2bef5e5f?mediaType=mp4)|624,716||21+|kuwait|"Mubarak AlKabeer,Sharq,15300,KW"|Hamad Alolayan|

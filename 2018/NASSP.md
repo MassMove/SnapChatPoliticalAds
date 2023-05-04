@@ -1,4 +1,7 @@
 ## 2018 - NASSP 
+Spent: 1,498.00
+Impressions: 574,892
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NatStuCo|999.00 USD|NASSP|[0](https://www.snap.com/political-ads/asset/5183ffb0948996e0f6229f89219b96e19c01369fc664e33ea3625ff53b332cec?mediaType=mp4)|342,217||18-18|united states|US||

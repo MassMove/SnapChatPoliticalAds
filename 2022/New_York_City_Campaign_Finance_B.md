@@ -1,4 +1,7 @@
 ## 2022 - New York City Campaign Finance B 
+Spent: 35,666.00
+Impressions: 2,744,305
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DSPolitical|9,968.00 USD|New York City Campaign Finance B|[0](https://www.snap.com/political-ads/asset/be109732499113e3c4f5e458eba2659d58fe2ee7e99d4316b8327a9ab82b5af9?mediaType=png)|1,064,158||18+|united states|US|NYC Campaign Finance Board GOTV|

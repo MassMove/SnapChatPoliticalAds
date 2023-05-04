@@ -1,4 +1,7 @@
 ## 2022 - NM Outdoor Recreation Division 
+Spent: 750.00
+Impressions: 93,900
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Semilla Strategies LLC|250.00 USD|NM Outdoor Recreation Division|[0](https://www.snap.com/political-ads/asset/c7a292a33bc5a11cd6c429cdfda3f678d52f89ed42f163fe50a8250f4d34f064?mediaType=mp4)|35,255||25+|united states|"737 Georgia St SE,Albuquerque,87108,US"|New Mexico Outdoor Recreation Division|

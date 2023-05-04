@@ -1,4 +1,7 @@
 ## 2020 - Save American Fund 
+Spent: 1,625.00
+Impressions: 349,365
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|532.00 USD|Save American Fund|[0](https://www.snap.com/political-ads/asset/cd3fff3289ae30675cdd8fdd8fea1b1b4b7a99a86caecc64715a6bcf73ac0433?mediaType=mp4)|97,971||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|Fire Mitch Save America Fund|

@@ -1,4 +1,7 @@
 ## 2020 - Muhannad Al Sayer 
+Spent: 2,337.00
+Impressions: 1,688,417
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Local Flavor Marketing & PR|750.00 USD|Muhannad Al Sayer|[0](https://www.snap.com/political-ads/asset/caf4b10ea0d5350c5c3bd5b46b6d127d0863fb6ea8e0a5583db00d0275b75d80?mediaType=jpg)|680,656||21+|kuwait|"Mohammad Thunayyan Al-Ghanem St,Salhiya,00000,KW"|Muhannad Al Sayer|

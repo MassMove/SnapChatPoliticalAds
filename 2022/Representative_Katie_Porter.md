@@ -1,4 +1,7 @@
 ## 2022 - Representative Katie Porter 
+Spent: 8,919.00
+Impressions: 857,536
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,498.00 USD|Representative Katie Porter|[0](https://www.snap.com/political-ads/asset/aec6ab673f62fc2e169fd89668d1c49c9d7e7a4d10becd278a71746d0ddc29e5?mediaType=mp4)|266,310||18+|united states|US|Representative Katie Porter|

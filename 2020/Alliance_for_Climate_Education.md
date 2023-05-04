@@ -1,4 +1,7 @@
 ## 2020 - Alliance for Climate Education 
+Spent: 5,389.00
+Impressions: 924,435
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Alliance for Climate Education|549.00 USD|Alliance for Climate Education|[0](https://www.snap.com/political-ads/asset/42a8bfd96ba24ce850cd3a1fc626833c6c1b636a860139d132361404ef822f65?mediaType=mov)|123,090||18-34|united states|US||

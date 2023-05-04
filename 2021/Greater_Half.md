@@ -1,4 +1,7 @@
 ## 2021 - Greater Half 
+Spent: 4,803.00
+Impressions: 768,584
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Greater Half|723.00 USD|Greater Half|[0](https://www.snap.com/political-ads/asset/190d5b040f01a483b0519f8383264b8f5953887cb434a09464323c906c7b7292?mediaType=png)|162,605||18+|united states|US||

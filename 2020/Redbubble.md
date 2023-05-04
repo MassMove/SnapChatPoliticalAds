@@ -1,4 +1,7 @@
 ## 2020 - Redbubble 
+Spent: 341.00
+Impressions: 825,796
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Redbubble  Inc.|247.00 USD|Redbubble|[0](https://www.snap.com/political-ads/asset/d83300f6c68b920cc25d38ce16d5cc454c9c439e8b09f9f9523b534ab44f24ec?mediaType=png)|615,577||30-|united states|"111 Sutter St., 17th FL,San Francisco,94104,US"||

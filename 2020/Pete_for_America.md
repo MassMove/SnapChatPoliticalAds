@@ -1,4 +1,7 @@
 ## 2020 - Pete for America 
+Spent: 30,778.00
+Impressions: 13,693,990
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Pete for America|1,861.00 USD|Pete for America|[0](https://www.snap.com/political-ads/asset/49582cb5d71219f774dcc689701b69d89bf86199a6b8d98fe8a7c52520cbe27f?mediaType=mp4)|794,747||18+|united states|"202 S Michigan St,South Bend,46601,US"|Pete for America|

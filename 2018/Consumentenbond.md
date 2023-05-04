@@ -1,4 +1,7 @@
 ## 2018 - Consumentenbond 
+Spent: 4,354.00
+Impressions: 1,815,842
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Maxlead Services B.V.|2,814.00 EUR|Consumentenbond|[0](https://www.snap.com/political-ads/asset/d40431bdcb9429b59f35e74bf1096dcb70077b8da03135581531e542ab3fd58e?mediaType=mp4)|1,163,315||18-34|netherlands|"Wilhelminapark 17,Oegstgeest,2342 AD,NL"||

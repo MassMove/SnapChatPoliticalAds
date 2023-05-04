@@ -1,4 +1,7 @@
 ## 2019 - European Parliament 
+Spent: 21,307.00
+Impressions: 14,231,657
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ogilvy Group SA-NV|14,586.00 EUR|European Parliament|[0](https://www.snap.com/political-ads/asset/365e52e6ca0ae6494856a742a8eee17387f6e446cc949ece3a50b5b956a38124?mediaType=mp4)|8,958,891||18-24|germany|"Square Victoria Regina 1 ,Brussels,1210,BE"||

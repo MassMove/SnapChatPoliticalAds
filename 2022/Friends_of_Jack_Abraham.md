@@ -1,4 +1,7 @@
 ## 2022 - Friends of Jack Abraham 
+Spent: 1,492.00
+Impressions: 175,212
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jack Abraham For County Board District 6|943.00 USD|Friends of Jack Abraham|[0](https://www.snap.com/political-ads/asset/244a1b2d595c59618e1427e7216bd6f18ceba5e80ba13753ba0f79aeb2de6c4c?mediaType=jpeg)|111,408||18+|united states|US|Jack Abraham|

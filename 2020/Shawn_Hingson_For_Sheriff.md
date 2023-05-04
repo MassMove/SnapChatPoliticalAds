@@ -1,4 +1,7 @@
 ## 2020 - Shawn Hingson For Sheriff 
+Spent: 593.00
+Impressions: 201,748
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |JAB Media|131.00 USD|Shawn Hingson For Sheriff|[0](https://www.snap.com/political-ads/asset/a099c4b0e5b0c66e4cc9e14cee5a2e0cc43ab4be7bce8318af48156347c58bb6?mediaType=png)|52,367||18+|united states|US||

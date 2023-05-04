@@ -1,4 +1,7 @@
 ## 2020 - Better Together DC 
+Spent: 2,503.00
+Impressions: 596,187
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Delia Parker-Mims for Denton County Commissioner|350.00 USD|Better Together DC|[0](https://www.snap.com/political-ads/asset/9ff1214b4f896e7dcbd8ac79b2f4ade47e78b5a27b5ce4faf427f82d097aae39?mediaType=mp4)|80,717||18+|united states|US|Delia Parker Mims|

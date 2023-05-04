@@ -1,4 +1,7 @@
 ## 2021 - Timo Kataja 
+Spent: 559.00
+Impressions: 219,185
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Timo Kataja|369.00 EUR|Timo Kataja|[0](https://www.snap.com/political-ads/asset/bdb10f7fa52801891462185f5be5e3d2d88992525e917867d7f664fb5a209ba0?mediaType=jpg)|148,404||18-35|finland|FI|Timo Kataja|

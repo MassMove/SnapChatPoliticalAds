@@ -1,4 +1,7 @@
 ## 2021 - Boomerang Ideas GmbH 
+Spent: 131.00
+Impressions: 51,513
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BoomSociety|10.00 EUR|Boomerang Ideas GmbH|[0](https://www.snap.com/political-ads/asset/d8349b804413b37b962eab2c39b55f40007e0ee0f4689720dd2ab0a7cc6e2820?mediaType=jpg)|9,442|MALE|18-24|switzerland|"Sihlquai 131,Zurich,8005,CH"||

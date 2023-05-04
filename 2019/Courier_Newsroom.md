@@ -1,4 +1,7 @@
 ## 2019 - Courier Newsroom 
+Spent: 2,540.00
+Impressions: 1,148,008
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lockwood Strategy|1,663.00 USD|Courier Newsroom|[0](https://www.snap.com/political-ads/asset/797561c5dae56e94d17fb39cd587566781222138c8c4de9a93bfc4927cb5041d?mediaType=mp4)|751,537||18-34|united states|"1140 3rd St. NW,Washington,20002,US"||

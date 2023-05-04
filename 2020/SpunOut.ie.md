@@ -1,4 +1,7 @@
 ## 2020 - SpunOut.ie 
+Spent: 647.00
+Impressions: 1,175,355
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SpunOut.ie|80.00 EUR|SpunOut.ie|[0](https://www.snap.com/political-ads/asset/33aff45e161205fc5f81ad13a3f4757fe3f3bedec36a1f4b408a4a1047998df5?mediaType=mp4)|139,223||16-25|ireland|"Sean McBride House, 48 Fleet Street,,Dublin 2,D02 T883,IE"||

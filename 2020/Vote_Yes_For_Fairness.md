@@ -1,4 +1,7 @@
 ## 2020 - Vote Yes For Fairness 
+Spent: 59,213.00
+Impressions: 16,189,608
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|29,039.00 USD|Vote Yes For Fairness|[0](https://www.snap.com/political-ads/asset/a895487b3ee559b161c73a6ef0a4e8ba8b0bae7fa4ee36346b07cb23274fe000?mediaType=mp4)|8,118,591||18-34|united states|"3050 K Street,Washington,20007,US"|Vote Yes For Fairness|

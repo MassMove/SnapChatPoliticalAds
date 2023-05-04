@@ -1,4 +1,7 @@
 ## 2020 - TxDOT 
+Spent: 12,310.00
+Impressions: 1,439,010
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sherry Matthews|7,657.00 USD|TxDOT|[0](https://www.snap.com/political-ads/asset/642bdf58d250ef6ce810082e91af3e7d52ede3b2c3c19a03d7c36bd9df2fc9f7?mediaType=mp4)|1,025,057||18-49|united states|"200 South Congress Ave,Austin,78704,US"||

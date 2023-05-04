@@ -1,4 +1,7 @@
 ## 2020 - Leaders Igniting Transformation 
+Spent: 4,809.00
+Impressions: 558,889
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Leaders Igniting Transformation|977.00 USD|Leaders Igniting Transformation|[0](https://www.snap.com/political-ads/asset/7a6c395463be4394c1f239fb34c423b3089ceb6c22aea5dda39bd4d1fcdeb87a?mediaType=png)|108,738||18-35|united states|US||

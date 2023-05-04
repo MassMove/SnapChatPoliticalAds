@@ -1,4 +1,7 @@
 ## 2020 - PFEI 
+Spent: 180,390.00
+Impressions: 24,961,357
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|77,828.00 USD|PFEI|[0](https://www.snap.com/political-ads/asset/2d5d9b4bab629a2e59f0408673eb6e2f3c090498315bcb9bbce6e2c2b83e961d?mediaType=mp4)|16,712,924||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Progress Florida Education Institute|

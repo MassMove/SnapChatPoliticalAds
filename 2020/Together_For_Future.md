@@ -1,4 +1,7 @@
 ## 2020 - Together For Future 
+Spent: 5,740.00
+Impressions: 1,598,869
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DCMN GmbH|1,646.00 EUR|Together For Future|[0](https://www.snap.com/political-ads/asset/9bb90b02530d343a05a1af1f662f2a18803bc65a22fe155f4164d647cfbbf252?mediaType=mp4)|436,657||30+|germany|"Boxhagener Straße 18,Berlin,10245,DE"|Together For Future|

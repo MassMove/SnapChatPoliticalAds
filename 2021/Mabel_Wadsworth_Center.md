@@ -1,4 +1,7 @@
 ## 2021 - Mabel Wadsworth Center 
+Spent: 5,996.00
+Impressions: 1,223,323
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,514.00 USD|Mabel Wadsworth Center|[0](https://www.snap.com/political-ads/asset/ba654f2154a75ffcf10833508955dd59eaf9939b4c53779afddd561cf0cf0721?mediaType=png)|317,412||40-|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

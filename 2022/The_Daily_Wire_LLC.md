@@ -1,4 +1,7 @@
 ## 2022 - The Daily Wire LLC 
+Spent: 66,898.00
+Impressions: 18,370,141
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Daily Wire LLC|4,561.00 USD|The Daily Wire LLC|[0](https://www.snap.com/political-ads/asset/8e4ec88b72a6ed5246a054b186ae8df2ec50831ff51bc0fcfe7ac85146284fb7?mediaType=mp4)|4,571,597|||united states|"1821 12th Avenue South, Suite 460,Nashville,37203,US"||

@@ -1,4 +1,7 @@
 ## 2020 - City of Regina 
+Spent: 1,237.00
+Impressions: 296,704
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Brown Communications Group|378.00 CAD|City of Regina|[0](https://www.snap.com/political-ads/asset/022548e44fab7c99c00c97e1ea298292d5956921b508424c493341fe60d2104f?mediaType=mp4)|106,251||18+|canada|CA|Elections Day|

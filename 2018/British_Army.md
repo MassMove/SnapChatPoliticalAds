@@ -1,4 +1,7 @@
 ## 2018 - British Army 
+Spent: 4,923.00
+Impressions: 2,158,576
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Manning Gottlieb OMD - OmniGOV|2,326.00 GBP|British Army|[0](https://www.snap.com/political-ads/asset/195f22e9e2d4a63a6f9f9ac8206e8d0cef527d6ad2c0f8fd09b715ae733d6bc4?mediaType=mp4)|1,100,436||25+|united kingdom|"10 Regents Wharf, All Saints Stree,London,N1 9RL,GB"||

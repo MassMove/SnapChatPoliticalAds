@@ -1,4 +1,7 @@
 ## 2020 - People for People 
+Spent: 26,532.00
+Impressions: 10,983,006
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vote Like a Woman|4,131.00 USD|People for People|[0](https://www.snap.com/political-ads/asset/58e7bc76e9b9b3f4bcc50e4d0a497d8604b38c91ecb9bcc644999616bb612dc9?mediaType=mp4)|2,599,284|FEMALE||united states|US|Vote Like a Woman|

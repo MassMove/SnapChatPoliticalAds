@@ -1,4 +1,7 @@
 ## 2020 - Thankyou 
+Spent: 8,623.00
+Impressions: 5,936,281
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AudienceX|1,153.00 USD|Thankyou|[0](https://www.snap.com/political-ads/asset/b00832f7a463034ac7e87d72ba7a416763ecb628f9de9f93c437ee8dbd577eee?mediaType=mp4)|895,917||18-40|france|"13468 Beach Ave,Los Angeles,90292,US"||

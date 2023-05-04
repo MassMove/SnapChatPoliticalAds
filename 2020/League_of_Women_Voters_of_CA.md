@@ -1,4 +1,7 @@
 ## 2020 - League of Women Voters of CA 
+Spent: 20,732.00
+Impressions: 6,530,749
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |League of Women Voters of California|832.00 USD|League of Women Voters of CA|[0](https://www.snap.com/political-ads/asset/10021fa4473a162f2483b14fa094e6d2998021fe04ee56f13597ff81fa76e001?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/1f6f564fc17a3c02ea8bc9c68e03a87e6e5b8191dba6039757bb1ab72c45c3fb?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/2205b5bfbb901c25952e766623e2c2bf73efe9f9eb869aaa18d1b5209e3b66b8?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/65b6620af6ec8de2b15d84c716ad02f986db37771f23bd4b8b1f1f4b3641d939?mediaType=mp4)|359,522||18-24|united states|US||

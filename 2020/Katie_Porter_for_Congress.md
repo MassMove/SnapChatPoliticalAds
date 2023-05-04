@@ -1,4 +1,7 @@
 ## 2020 - Katie Porter for Congress 
+Spent: 3,865.00
+Impressions: 372,586
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|372.00 USD|Katie Porter for Congress|[0](https://www.snap.com/political-ads/asset/cf0dbc51ba68a0d61a13c96e2418f1580a3245fb0e0e79ad7defb4fef6bda8fd?mediaType=mp4)|75,512||18+|united states|US|Katie Porter|

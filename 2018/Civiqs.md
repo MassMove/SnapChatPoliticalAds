@@ -1,4 +1,7 @@
 ## 2018 - Civiqs 
+Spent: 395.00
+Impressions: 133,683
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Civiqs|165.00 USD|Civiqs|[0](https://www.snap.com/political-ads/asset/01c85dc3218f03fc705a153a9dad3c487254e8ea10731a46a923ac17d8d4db6a?mediaType=mp4)|58,038||18+|united states|US||

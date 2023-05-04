@@ -1,4 +1,7 @@
 ## 2020 - Future Majority 
+Spent: 309,213.00
+Impressions: 40,831,492
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Assemble The Agency|10,513.00 USD|Future Majority|[0](https://www.snap.com/political-ads/asset/2336421e54f25a8478d9d7e599d7eea67a6ffd9fc22c8254eebc75e65fccabe4?mediaType=mp4)|2,267,176||18-29|united states|"1001 Connecticut Ave NW Suite 350,Washington,20036,US"||

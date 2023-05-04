@@ -1,4 +1,7 @@
 ## 2022 - Electoral Commission 
+Spent: 68,413.00
+Impressions: 23,034,631
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Walk In Media|13,593.00 GBP|Electoral Commission|[0](https://www.snap.com/political-ads/asset/17299d7e8ee6440b0126baf8abe5a5a3417172ad66f3d7b038cc0bc269000cdb?mediaType=mp4)|3,398,737||18-34|united kingdom|"34 Bow Street,London,WC2E 7AU,GB"||

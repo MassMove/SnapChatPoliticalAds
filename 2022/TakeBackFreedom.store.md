@@ -1,4 +1,7 @@
 ## 2022 - TakeBackFreedom.store 
+Spent: 96.00
+Impressions: 23,659
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Take Back Freedom Store|25.00 CAD|TakeBackFreedom.store|[0](https://www.snap.com/political-ads/asset/4dff083b0b584862ae0c52cbe575841c5682fdbf1c7e9612dfdc7ff27afbdd65?mediaType=png)|6,613||18+|canada|CA|Trucker Protesters|

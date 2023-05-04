@@ -1,4 +1,7 @@
 ## 2022 - Leader of the Opposition 
+Spent: 6,998.00
+Impressions: 832,621
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Pivotus WA|2,070.00 AUD|Leader of the Opposition|[0](https://www.snap.com/political-ads/asset/14ba5be8491588f873d73d6cb2e96564cfec7b7f01f11850e60808e279cdd399?mediaType=mp4)|307,436||18-34|australia|"205 Railway Road,Subiaco,6008,AU"||

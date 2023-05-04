@@ -1,4 +1,7 @@
 ## 2019 - DNB 
+Spent: 111,957.00
+Impressions: 29,844,629
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DNB Bank ASA|20,783.00 EUR|DNB|[0](https://www.snap.com/political-ads/asset/dfdb06e524ce30e8e88abc731cf4547e7a4f7d416f7bbbaa91db8390d61e2898?mediaType=mp4)|7,693,533||18-34|norway|"Dronning Eufemias Gate 30,Oslo,0191,NO"||

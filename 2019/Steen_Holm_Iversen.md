@@ -1,4 +1,7 @@
 ## 2019 - Steen Holm Iversen 
+Spent: 2,049.00
+Impressions: 888,193
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Steen Holm Iversen|957.00 USD|Steen Holm Iversen|[0](https://www.snap.com/political-ads/asset/533cb1c3237ce9ef5f9097a7700aea01703722b3a545fdf5beccff4f8256bcdb?mediaType=mov)|411,820||18+|denmark|DK||

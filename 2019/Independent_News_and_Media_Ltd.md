@@ -1,4 +1,7 @@
 ## 2019 - Independent News and Media Ltd 
+Spent: 2,980.00
+Impressions: 2,147,102
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Independent News and Media Limited|809.00 GBP|Independent News and Media Ltd|[0](https://www.snap.com/political-ads/asset/05d68516bd23fcf153b352ef86d0a0828a7758d79e119237fd9556df8a5a1149?mediaType=png)|566,566||18-34|united kingdom|"Northcliffe House,London,W8 5HF,GB"||

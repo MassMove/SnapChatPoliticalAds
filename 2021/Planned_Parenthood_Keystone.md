@@ -1,4 +1,7 @@
 ## 2021 - Planned Parenthood Keystone 
+Spent: 197.00
+Impressions: 75,119
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Planned Parenthood Keystone|120.00 USD|Planned Parenthood Keystone|[0](https://www.snap.com/political-ads/asset/4742e15882873c8a73706c3a97427e1830745e104642f6492eda8b9faa568ee9?mediaType=mp4)|41,438||21-|united states|"610 Louis Drive, STE 300,Warminster,18974,US"||

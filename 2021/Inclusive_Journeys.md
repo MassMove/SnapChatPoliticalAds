@@ -1,4 +1,7 @@
 ## 2021 - Inclusive Journeys 
+Spent: 499.00
+Impressions: 101,790
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marble Trout Media|259.00 USD|Inclusive Journeys|[0](https://www.snap.com/political-ads/asset/80d86fdbde866b23cc236976b3dde2d6fedbacb222e7f2a8d2c2c41bdfaf248b?mediaType=mp4)|55,003||18+|united states|US||

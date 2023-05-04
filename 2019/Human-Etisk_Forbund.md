@@ -1,4 +1,7 @@
 ## 2019 - Human-Etisk Forbund 
+Spent: 2,787.00
+Impressions: 898,863
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Synlighet AS|1,970.00 USD|Human-Etisk Forbund|[0](https://www.snap.com/political-ads/asset/804c10b86cada26c929630dad83f1ae5ae370f4a011422cb563fa6945bc2ef60?mediaType=mp4)|690,179||18+|norway|"Møllendalsveien 1a,Bergen,5009,NO"||

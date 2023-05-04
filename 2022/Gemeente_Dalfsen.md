@@ -1,4 +1,7 @@
 ## 2022 - Gemeente Dalfsen 
+Spent: 1,354.00
+Impressions: 564,170
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SocialMediaMen|376.00 EUR|Gemeente Dalfsen|[0](https://www.snap.com/political-ads/asset/4ddd407d524622c3d7411737abe7642f2ed5871a1ad1e4d987a444f03c4f021f?mediaType=mov)|194,701||16-25|netherlands|"Rozengracht 104-2,Amsterdam,1016 NG,NL"||

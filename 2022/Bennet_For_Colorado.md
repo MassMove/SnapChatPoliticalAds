@@ -1,4 +1,7 @@
 ## 2022 - Bennet For Colorado 
+Spent: 61,555.00
+Impressions: 14,794,822
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,737.00 USD|Bennet For Colorado|[0](https://www.snap.com/political-ads/asset/b65109975522cf6105f50c1a63f85917fd789209ef51e16e848cd937ecd9b024?mediaType=png)|420,633||18+|united states|US||

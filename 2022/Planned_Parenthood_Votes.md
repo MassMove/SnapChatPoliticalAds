@@ -1,4 +1,7 @@
 ## 2022 - Planned Parenthood Votes 
+Spent: 20,428.00
+Impressions: 688,338
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|7,230.00 USD|Planned Parenthood Votes|[0](https://www.snap.com/political-ads/asset/79818d09fe13ea18a6f21bc54b47383ecbf710ef7b9fa22a48269a4a7f988b28?mediaType=mp4)|229,831||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

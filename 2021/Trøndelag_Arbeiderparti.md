@@ -1,4 +1,7 @@
 ## 2021 - Trøndelag Arbeiderparti 
+Spent: 15,000.00
+Impressions: 173,312
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trøndelag Arbeiderparti|10,000.00 NOK|Trøndelag Arbeiderparti|[0](https://www.snap.com/political-ads/asset/839e2f33f5ebaf446b3b6eadbbbb419d37fb6d0c6602d5aa0dd2c5757a0f9e0f?mediaType=mp4)|122,385||17+|norway|NO|Trondelag Arbeiderparti|

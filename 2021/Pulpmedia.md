@@ -1,4 +1,7 @@
 ## 2021 - Pulpmedia 
+Spent: 10,000.00
+Impressions: 4,540,377
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Httpool Online Marketing GmbH|1,000.00 EUR|Pulpmedia|[0](https://www.snap.com/political-ads/asset/6b2294f010e6b5953ca2414d1ab5d88bef1688f3b68412c8bd4270f665719e2e?mediaType=mp4)|707,815||16+|austria|"Taborstraße 7/8,Vienna,1020,AT"||

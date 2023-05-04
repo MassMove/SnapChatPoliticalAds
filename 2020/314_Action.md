@@ -1,4 +1,7 @@
 ## 2020 - 314 Action 
+Spent: 69,300.00
+Impressions: 6,313,915
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|12,764.00 USD|314 Action|[0](https://www.snap.com/political-ads/asset/4b73c18da50e60267daacacc7c174d67aeb3f321b3d0074758a7d30f9546b0bf?mediaType=mp4)|1,108,888||18+|united states|US|314 Action|

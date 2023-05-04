@@ -1,4 +1,7 @@
 ## 2020 - Mohammed aljabri 
+Spent: 498.00
+Impressions: 311,262
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DMC|453.00 USD|Mohammed aljabri|[0](https://www.snap.com/political-ads/asset/f7a8b78f2678a516b256bc5a45fb285c5b86d563fcff2f934b9b26ddf746c261?mediaType=jpeg)|282,311||20+|kuwait|KW||

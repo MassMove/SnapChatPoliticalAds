@@ -1,4 +1,7 @@
 ## 2020 - Faisal Khalid Bin Hethlain 
+Spent: 1,937.00
+Impressions: 1,065,923
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bin Hethlain|742.00 USD|Faisal Khalid Bin Hethlain|[0](https://www.snap.com/political-ads/asset/ee9e80129de8f3512e7d64b9c1bc74f4652bc1ddf12108de3ea098411c0ef0e7?mediaType=mp4)|659,595||18+|kuwait|KW|Faisal Khalid Bin Hethlain|

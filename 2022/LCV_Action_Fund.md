@@ -1,4 +1,7 @@
 ## 2022 - LCV Action Fund 
+Spent: 32,928.00
+Impressions: 1,654,236
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|9,400.00 USD|LCV Action Fund|[0](https://www.snap.com/political-ads/asset/68e8c6136d8f1bd4f70b833eba9c3eccc607f1de2bdc47de262440d32594d42e?mediaType=mp4)|548,788|||united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2022 - Sullivan Jones Senate Campaign 
+Spent: 16.00
+Impressions: 6,012
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sullivan Jones Senate Campaign|11.00 USD|Sullivan Jones Senate Campaign|[0](https://www.snap.com/political-ads/asset/0834a1178a0f4e63c0700c2b9c87e8460df9842d8e6b2b0fa3422778face1e06?mediaType=png)|4,153|||united states|US||

@@ -1,4 +1,7 @@
 ## 2022 - Mullenlowe Blu 
+Spent: 1,500.00
+Impressions: 366,047
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mullenlowe Blu|1,000.00 USD|Mullenlowe Blu|[0](https://www.snap.com/political-ads/asset/1e821e6939ab09bcbd1b83d38a5b63e904bea12a4ef470548f6535522236f9bd?mediaType=mp4)|209,893||21+|kuwait|"Qibla, Kuwait City, Block 14, Building 17 ,Kuwait ,14004,KW"||

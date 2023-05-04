@@ -1,4 +1,7 @@
 ## 2018 - House Victory Committee 
+Spent: 387.00
+Impressions: 158,971
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |House Victory Committee|77.00 USD|House Victory Committee|[0](https://www.snap.com/political-ads/asset/c496e835d4265542c90cb6c96109b6ce89d0daf9eee5c82a7d86570cd240d01d?mediaType=mp4)|31,856||18+|united states|US||

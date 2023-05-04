@@ -1,4 +1,7 @@
 ## 2020 - Preserve the Good Life 
+Spent: 8,372.00
+Impressions: 2,399,659
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|2,550.00 USD|Preserve the Good Life|[0](https://www.snap.com/political-ads/asset/f4966002e33b0666e96c780904289f7f7de3d8d618d69c4d90b63d93ddc93b67?mediaType=jpg)|807,924||18+|united states|"919 Central Ave,Auburn,68305,US"|Blood Weber Bostar Hester|

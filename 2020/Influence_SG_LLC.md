@@ -1,4 +1,7 @@
 ## 2020 - Influence SG LLC 
+Spent: 59,991.00
+Impressions: 21,432,504
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Assembly|32,068.00 USD|Influence SG LLC|[0](https://www.snap.com/political-ads/asset/892035e8fad87bbf852baec45fe0972cd16c06cce907217e0c2d815179cb1c1c?mediaType=mp4)|12,863,838||20-|united states|"711 3rd Ave, New York, NY 10017,new york city,10017,US"||

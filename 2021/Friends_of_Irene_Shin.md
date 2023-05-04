@@ -1,4 +1,7 @@
 ## 2021 - Friends of Irene Shin 
+Spent: 604.00
+Impressions: 40,877
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|164.00 USD|Friends of Irene Shin|[0](https://www.snap.com/political-ads/asset/3224bf2ce45ded0d669ab55aa1926d1bdd20136668415e65d6971456d836b3a3?mediaType=mp4)|14,539||25+|united states|"1324 Spaight St,Madison,53703,US"|Irene Shin for Delegate|

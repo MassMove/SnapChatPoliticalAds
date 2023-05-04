@@ -1,4 +1,7 @@
 ## 2020 - Florida Democratic Party 
+Spent: 7,237.00
+Impressions: 1,457,582
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Florida Democratic Party|2,291.00 USD|Florida Democratic Party|[0](https://www.snap.com/political-ads/asset/ec9ae89beb473549e8350466c078402c7d33c018c0f88bfad01bbc885c7c68a2?mediaType=mp4)|399,024||18-25|united states|US|Florida Democratic Party|

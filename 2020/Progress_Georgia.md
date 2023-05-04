@@ -1,4 +1,7 @@
 ## 2020 - Progress Georgia 
+Spent: 29,552.00
+Impressions: 3,569,303
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Winning Mark|10,073.00 USD|Progress Georgia|[0](https://www.snap.com/political-ads/asset/0a9e8f3b4988ba5617c2c654df00ec370fa77883488b3370a0cbb30cd2466faf?mediaType=mp4)|1,266,090||18+|united states|"1220 SW Morrison St Suite 910,,Portland ,97205,US"||

@@ -1,4 +1,7 @@
 ## 2022 - National Australia Day Council 
+Spent: 72,590.00
+Impressions: 12,628,361
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|15,662.00 AUD|National Australia Day Council|[0](https://www.snap.com/political-ads/asset/0eaa41ff8e7c6d7b7b44889b18af54ebc5d26e23e0043c169508f6ae351319de?mediaType=mp4)|2,652,392||18-34|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

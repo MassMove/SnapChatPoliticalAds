@@ -1,4 +1,7 @@
 ## 2022 - Raise the Wage Nebraska 
+Spent: 26,246.00
+Impressions: 1,190,044
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|9,619.00 USD|Raise the Wage Nebraska|[0](https://www.snap.com/political-ads/asset/d183603b3374f4815a3c5c09a4f358f1540bdd860a52a83421ff6d1c74e90b24?mediaType=mp4)|436,160||18+|united states|"1901 L St NW,Washington,20036,US"|Nebraska Initiative 433|

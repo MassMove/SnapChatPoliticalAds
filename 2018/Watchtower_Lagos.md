@@ -1,4 +1,7 @@
 ## 2018 - Watchtower Lagos 
+Spent: 301.00
+Impressions: 214,523
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sponge Limited|292.00 USD|Watchtower Lagos|[0](https://www.snap.com/political-ads/asset/622e17e9c2a926e01d714e671f7aae4be57fbbbef7629320b0d6827a4a24bad2?mediaType=jpg)|208,211||18+|nigeria|"333 Fremont Street ,San Francisco,94105,US"||

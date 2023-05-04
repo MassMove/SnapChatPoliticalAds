@@ -1,4 +1,7 @@
 ## 2020 - Bader Al Mulla 
+Spent: 2,250.00
+Impressions: 2,002,321
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Local Flavor Marketing & PR|1,500.00 USD|Bader Al Mulla|[0](https://www.snap.com/political-ads/asset/cef0ea898dd99b9544da1d80a36dfb3a186106eaf5a87eebb27662c7cd7c6de6?mediaType=jpg)|1,298,781|||kuwait|"Mohammad Thunayyan Al-Ghanem St,Salhiya,00000,KW"|Bader Al Mulla|

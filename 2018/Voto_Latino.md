@@ -1,4 +1,7 @@
 ## 2018 - Voto Latino 
+Spent: 8,380.00
+Impressions: 2,553,800
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mothership Strategies|1,429.00 USD|Voto Latino|[0](https://www.snap.com/political-ads/asset/c224c1890d8418cabfeb9595f1098a367bcfc826a302ba66dbe820a2af084db7?mediaType=png)|453,853||18-25|united states|"1328 Florida Avenue NW, Building C, Washington, DC,Washington,20009,US"||

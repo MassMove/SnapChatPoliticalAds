@@ -1,4 +1,7 @@
 ## 2019 - Oxfam GB 
+Spent: 4,338.00
+Impressions: 2,147,498
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Oxfam GB|1,450.00 GBP|Oxfam GB|[0](https://www.snap.com/political-ads/asset/2a3b6784e38f0523804a8c01f98ac3a4cd48904e97539da2c92cacd09e441f34?mediaType=mp4)|605,887|FEMALE|25+|united kingdom|"John Smith Drive, Cowley,Oxford,OX4 2JY,GB"||

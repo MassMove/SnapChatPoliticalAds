@@ -1,4 +1,7 @@
 ## 2020 - Dr. Hesham AlSaleh 
+Spent: 3,199.00
+Impressions: 2,130,600
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Raybal Group|1,964.00 USD|Dr. Hesham AlSaleh|[0](https://www.snap.com/political-ads/asset/f98571f6e14a46b22776d02592a73d1d88bf81b520e07766cc5ef2b4897e24c8?mediaType=mp4)|1,373,520||18+|kuwait|"Abdullah AlMubarak St,Murqab,15000,KW"|Dr Hesham AlSaleh|

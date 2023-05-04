@@ -1,4 +1,7 @@
 ## 2020 - Prager University 
+Spent: 14,282.00
+Impressions: 6,638,610
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Prager University|4,751.00 USD|Prager University|[0](https://www.snap.com/political-ads/asset/a6354017e545d3c1b4b149487356615711777edd81ec5c04c4d65e8261055d2d?mediaType=mp4)|2,491,424||16-30|united states|US||

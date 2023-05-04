@@ -1,4 +1,7 @@
 ## 2020 - Wild Montana Action Fund 
+Spent: 6,078.00
+Impressions: 1,193,934
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wild Montana Action|860.00 USD|Wild Montana Action Fund|[0](https://www.snap.com/political-ads/asset/d786a6d5d237312c8770e297fd0049edac6e685550d74f474fd49d0310de7536?mediaType=png)|155,525||18-40|united states|US||

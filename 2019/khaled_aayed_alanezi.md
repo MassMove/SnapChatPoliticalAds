@@ -1,4 +1,7 @@
 ## 2019 - khaled aayed alanezi 
+Spent: 259.00
+Impressions: 441,760
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Flater_q8|180.00 USD|khaled aayed alanezi|[0](https://www.snap.com/political-ads/asset/5da8baa00ea18e6a84d0bf6f7f8df82ec3c3047c5dc791b183358b32674fbbbc?mediaType=png)|361,343||21+|kuwait|"Hateen,Hawally ,00965,KW"||

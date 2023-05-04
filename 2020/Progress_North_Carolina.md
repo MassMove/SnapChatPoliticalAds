@@ -1,4 +1,7 @@
 ## 2020 - Progress North Carolina 
+Spent: 109,917.00
+Impressions: 22,713,958
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,200.00 USD|Progress North Carolina|[0](https://www.snap.com/political-ads/asset/23c1d637a3c826e4b77f80c89695262da50a547eb3417bbf999f345abcb2a7f5?mediaType=png)|809,742||18+|united states|US|Progress North Carolina|

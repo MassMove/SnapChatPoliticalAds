@@ -1,4 +1,7 @@
 ## 2021 - Die Grünen Oberösterreich 
+Spent: 17,440.00
+Impressions: 4,252,530
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |506 Data & Performance GmbH|1,798.00 EUR|Die Grünen Oberösterreich|[0](https://www.snap.com/political-ads/asset/916140dc4afa5e762b1afab6ca7b2d7a75fe97ebb89f085b61ef7dbfe221aba3?mediaType=mp4)|454,794||16-18|austria|"Peter-Behrens-Platz 9,Linz,4020,AT"|Bezahlt von Den Gruenen OOE|

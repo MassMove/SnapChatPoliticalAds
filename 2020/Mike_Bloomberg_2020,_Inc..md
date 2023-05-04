@@ -1,4 +1,7 @@
 ## 2020 - Mike Bloomberg 2020, Inc. 
+Spent: 1,037,149.00
+Impressions: 261,986,265
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Hawkfish LLC|75,000.00 USD|Mike Bloomberg 2020, Inc.|[0](https://www.snap.com/political-ads/asset/32891d3b7dbe4989fcdc5193ac1ca4a650864e2e4f6366da5e145eee04dd2e68?mediaType=mp4)|30,938,595||18-34|united states|"909 Third Avenue,New York,10022,US"|Mike Bloomberg 2020 Inc|

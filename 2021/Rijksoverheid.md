@@ -1,4 +1,7 @@
 ## 2021 - Rijksoverheid 
+Spent: 4,720.00
+Impressions: 2,349,537
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Initiative Media B.V|4,000.00 EUR|Rijksoverheid|[0](https://www.snap.com/political-ads/asset/9071b6a77ec5c2a8a2f6efe53b39293634d3dcd22ca77e28753bba0972c76a22?mediaType=MP4)|1,764,906||17-|netherlands|"Peter van Anrooystraat 7,Amsterdam,1101 BA,NL"||

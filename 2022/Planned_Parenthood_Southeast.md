@@ -1,4 +1,7 @@
 ## 2022 - Planned Parenthood Southeast 
+Spent: 3,957.00
+Impressions: 217,587
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,550.00 USD|Planned Parenthood Southeast|[0](https://www.snap.com/political-ads/asset/b3aabfd82f613b0208d937d989cbb77984dc3dd2b464743492aabf155fb11422?mediaType=png)|89,775||18-23|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

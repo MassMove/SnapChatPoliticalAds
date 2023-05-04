@@ -1,4 +1,7 @@
 ## 2022 - MomsRising Education Fund 
+Spent: 45,242.00
+Impressions: 1,395,233
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|5,584.00 USD|MomsRising Education Fund|[0](https://www.snap.com/political-ads/asset/533cbfe14694559b2b16275963f8b3e0b53fb4c89ff50c8d8b8bf571dbff0300?mediaType=mp4)|172,195|FEMALE|18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Fair Start for Kids signups|

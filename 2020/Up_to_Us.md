@@ -1,4 +1,7 @@
 ## 2020 - Up to Us 
+Spent: 8,637.00
+Impressions: 2,642,599
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Up to Us|2,450.00 USD|Up to Us|[0](https://www.snap.com/political-ads/asset/cf069108015703aa7d005df9d15040f5059bbf751dd7ab75e990eb1222e20c67?mediaType=mp4)|992,794||18-24|united states|"1333 Broadway, Suite 250,Oakland,94612,US"||

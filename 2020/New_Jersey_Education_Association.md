@@ -1,4 +1,7 @@
 ## 2020 - New Jersey Education Association 
+Spent: 14,677.00
+Impressions: 3,977,186
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|4,908.00 USD|New Jersey Education Association|[0](https://www.snap.com/political-ads/asset/513a245a4c05873cf482ac00c34ab7830bd5f5ec58707ebaded96ea9f5403a08?mediaType=mp4)|1,272,339||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Ch 78|

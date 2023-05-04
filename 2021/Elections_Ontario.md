@@ -1,4 +1,7 @@
 ## 2021 - Elections Ontario 
+Spent: 14,000.00
+Impressions: 2,205,148
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|13,300.00 CAD|Elections Ontario|[0](https://www.snap.com/political-ads/asset/ea0df377cd33569332b9d25e5bbe8930ef55f588e86367c3e384565df07b56eb?mediaType=mp4)|2,084,903||18+|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

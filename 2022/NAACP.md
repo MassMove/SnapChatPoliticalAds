@@ -1,4 +1,7 @@
 ## 2022 - NAACP 
+Spent: 17,533.00
+Impressions: 5,453,313
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|4,711.00 USD|NAACP|[0](https://www.snap.com/political-ads/asset/0ae35ad8afc651597cc645db7f0bde4d8295712e8a428f6be9a94d0bddf568a1?mediaType=png)|1,473,387||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

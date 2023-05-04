@@ -1,4 +1,7 @@
 ## 2020 - Foot Locker 
+Spent: 18,602.00
+Impressions: 4,523,268
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|4,274.00 USD|Foot Locker|[0](https://www.snap.com/political-ads/asset/ba5e2d9015ba6557a7624a4e74c6164d0584ccb4d4ef2b81d681e5fc1a9db7bf?mediaType=mp4)|1,342,527||18-38|united states|"195 Broadway, 5th Floor,New York,10007,US"||

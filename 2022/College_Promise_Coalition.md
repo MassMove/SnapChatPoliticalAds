@@ -1,4 +1,7 @@
 ## 2022 - College Promise Coalition 
+Spent: 8,076.00
+Impressions: 1,066,057
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |College Promise Coalition|4,429.00 USD|College Promise Coalition|[0](https://www.snap.com/political-ads/asset/8accbb86903277320fbf75b3497ff77b2ed7bf6a5719504a3bd290f135f7bb32?mediaType=mp4)|554,857||18-25|united states|US|College Promise Coalition|

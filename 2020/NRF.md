@@ -1,4 +1,7 @@
 ## 2020 - NRF 
+Spent: 24,317.00
+Impressions: 4,615,142
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|3,434.00 USD|NRF|[0](https://www.snap.com/political-ads/asset/966cc4ef307cd264c0c32e3a6c121acc398b28a1d05784e979773e9a83b39d94?mediaType=mp4)|694,985||18+|united states|US|National Redistricting Foundation|

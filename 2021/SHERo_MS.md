@@ -1,4 +1,7 @@
 ## 2021 - SHERo MS 
+Spent: 4,993.00
+Impressions: 593,298
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,158.00 USD|SHERo MS|[0](https://www.snap.com/political-ads/asset/ac52c3ae66927de4ccf5b77b07d550554c1f80e89b4541c44820428d50a98a70?mediaType=png)|142,009||18-30|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2022 - Voto Latino 
+Spent: 26,389.00
+Impressions: 6,611,017
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Rising Tide Interactive LLC|7,554.00 USD|Voto Latino|[0](https://www.snap.com/political-ads/asset/2d2b74d6d9bf637d10d6428213a283bff478556e12ce691284079a4b4f5d8b48?mediaType=mp4)|2,271,789||18-29|united states|"1250 H St. NW,Washington,20005,US"||

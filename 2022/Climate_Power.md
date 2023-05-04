@@ -1,4 +1,7 @@
 ## 2022 - Climate Power 
+Spent: 47,074.00
+Impressions: 12,969,203
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blue State Digital|2,263.00 USD|Climate Power|[0](https://www.snap.com/political-ads/asset/0e5f79f0fa7235318551239816105762d09480c05cdba82cc9fdd05af71b0ef6?mediaType=png)|642,487||18-24|united states|"101 Avenue of the Americas, 12th Floor,New York,10013,US"||

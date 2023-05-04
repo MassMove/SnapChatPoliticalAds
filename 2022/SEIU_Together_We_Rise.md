@@ -1,4 +1,7 @@
 ## 2022 - SEIU Together We Rise 
+Spent: 3,517.00
+Impressions: 102,147
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|1,269.00 USD|SEIU Together We Rise|[0](https://www.snap.com/political-ads/asset/85545f9a56c6c1e314dfbd406c2b056a78fcbc3d16dc052565d6b4a64d3af42f?mediaType=png)|35,575||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||

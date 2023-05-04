@@ -1,4 +1,7 @@
 ## 2022 - Courier Newsroom 
+Spent: 108,911.00
+Impressions: 24,372,577
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SBDigital|25,940.00 USD|Courier Newsroom|[0](https://www.snap.com/political-ads/asset/1e82fe22664945d809657afe4c756863aa6be4c75922d7f9ac24179efb6275a9?mediaType=mp4)|7,382,321||18+|united states|US||

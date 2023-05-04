@@ -1,4 +1,7 @@
 ## 2020 - Paid for by FL Dept. of Health 
+Spent: 83,966.00
+Impressions: 44,378,660
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|33,351.00 USD|Paid for by FL Dept. of Health|[0](https://www.snap.com/political-ads/asset/53ee6186d7429f6421960ea3c293165a01812e53428ea5715d06fc716d8c52cb?mediaType=mp4)|19,221,863||17-|united states|"225 N Michigan Avenue Suite 820,,,Chicago,60601,US"||

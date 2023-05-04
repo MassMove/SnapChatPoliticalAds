@@ -1,4 +1,7 @@
 ## 2019 - Fire45.Club 
+Spent: 94.00
+Impressions: 94,745
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fire45.club|88.00 USD|Fire45.Club|[0](https://www.snap.com/political-ads/asset/8c6275845d677d9123d16b7dcca17c5bc86badcd25a1fd6b1c03ec250c07ed49?mediaType=mp4)|86,752|FEMALE|17-40|united states|US||

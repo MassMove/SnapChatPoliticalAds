@@ -1,4 +1,7 @@
 ## 2018 - Socialdemokraterna - Kalmar Län 
+Spent: 249.00
+Impressions: 108,315
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Context Media|244.00 EUR|Socialdemokraterna - Kalmar Län|[0](https://www.snap.com/political-ads/asset/77e44b0ff85e108c2899f47cc99cfa3666b2b587e63cf50f45b446e1501913e1?mediaType=mp4)|105,055||18-24|sweden|"Västra Norrlandsgatan 7 ,UMEÅ,90327,SE"||

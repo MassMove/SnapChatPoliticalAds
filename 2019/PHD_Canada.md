@@ -1,4 +1,7 @@
 ## 2019 - PHD Canada 
+Spent: 83,797.00
+Impressions: 41,885,554
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |PHD Canada|26,927.00 CAD|PHD Canada|[0](https://www.snap.com/political-ads/asset/b3c3d9eb9001158664eb6b5e5df00a964e2ac4acd9a7dcb48e43fdc6439df536?mediaType=mp4)|13,426,964||19-34|canada|"96 Spadina Avenue, Suite 700,Toronto,M5V2J6,CA"||

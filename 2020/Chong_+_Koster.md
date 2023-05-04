@@ -1,4 +1,7 @@
 ## 2020 - Chong + Koster 
+Spent: 1,103.00
+Impressions: 238,497
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|327.00 USD|Chong + Koster|[0](https://www.snap.com/political-ads/asset/a8f4891a353e4baadaf74fce1c46d75326b9483109642680cce5b64dedd80774?mediaType=mp4)|77,858|FEMALE|18-35|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

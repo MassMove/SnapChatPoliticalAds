@@ -1,4 +1,7 @@
 ## 2020 - Dr. Obaid Alenezi 
+Spent: 565.00
+Impressions: 139,317
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |pragency|250.00 USD|Dr. Obaid Alenezi|[0](https://www.snap.com/political-ads/asset/acf3956159167b57d7ae914581bc027809f1b4b74a073a2269907deb1248ac8f?mediaType=mp4)|66,357||21+|kuwait|KW|Dr Obaid Alenezi|

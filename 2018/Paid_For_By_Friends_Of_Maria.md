@@ -1,4 +1,7 @@
 ## 2018 - Paid For By Friends Of Maria 
+Spent: 1,860.00
+Impressions: 608,578
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Maria Cantwell United States Senator for Washington|561.00 USD|Paid For By Friends Of Maria|[0](https://www.snap.com/political-ads/asset/8c8b0315ae0fd61a9e1c5a7cdf944a7f2047d577cbc059b497d526585e71db29?mediaType=mp4)|166,462||18-30|united states|US||

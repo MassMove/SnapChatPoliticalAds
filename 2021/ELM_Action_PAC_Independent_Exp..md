@@ -1,4 +1,7 @@
 ## 2021 - ELM Action PAC Independent Exp. 
+Spent: 3,691.00
+Impressions: 774,638
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|997.00 USD|ELM Action PAC Independent Exp.|[0](https://www.snap.com/political-ads/asset/8a3d870b20bffb1a995407004b2c5f0c28a1d180682f6cecb025fe350ef19d23?mediaType=mp4)|110,459||18+|united states|"One, World Trade Center ,new york,10007,US"||

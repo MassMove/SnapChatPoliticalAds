@@ -1,4 +1,7 @@
 ## 2019 - Éducation nationale 
+Spent: 2,500.00
+Impressions: 5,901,638
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|1,500.00 EUR|Éducation nationale|[0](https://www.snap.com/political-ads/asset/ba218e459f3f31f401304f59459ee1b5312a6ef893246c7b6b59fa70e02480f6?mediaType=mp4)|4,402,020||15-18|france|"67 Av. de Wagram,Paris,75017,FR"||

@@ -1,4 +1,7 @@
 ## 2022 - Centerpartiets Ungdomsförbund 
+Spent: 78,955.00
+Impressions: 2,964,274
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Centerpartiets Ungdomsförbund|8,000.00 SEK|Centerpartiets Ungdomsförbund|[0](https://www.snap.com/political-ads/asset/9c6d7002e791f3388041c9fa8f3408729d0084f9e21a5e2c6ba6e28dc2b26dcf?mediaType=mp4)|392,870|||sweden|SE||

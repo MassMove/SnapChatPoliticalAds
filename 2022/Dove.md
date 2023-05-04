@@ -1,4 +1,7 @@
 ## 2022 - Dove 
+Spent: 32,757.00
+Impressions: 6,916,061
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - Mindshare|3,024.00 USD|Dove|[0](https://www.snap.com/political-ads/asset/871c85eeebf9959e288f253c58b10a40464274910208dc4f718175581ecf8c29?mediaType=mp4)|1,089,491|FEMALE|18-49|united states|"PO Box 4614 GCS,New York,10163,US"||

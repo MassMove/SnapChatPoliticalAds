@@ -1,4 +1,7 @@
 ## 2022 - Val Demings for U.S. Senate 
+Spent: 1,497.00
+Impressions: 154,977
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Val Demings for U.S. Senate|198.00 USD|Val Demings for U.S. Senate|[0](https://www.snap.com/political-ads/asset/296ca294bf82553e9a20ce1d5cf32e02747328dffcda1e6d2854a2425e6e27be?mediaType=mp4)|27,495||18+|united states|US|Val Demings for US Senate|

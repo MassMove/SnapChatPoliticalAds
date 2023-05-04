@@ -1,4 +1,7 @@
 ## 2019 - Voto Latino 
+Spent: 4,472.00
+Impressions: 1,534,868
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Authentic Campaigns Inc|2,206.00 USD|Voto Latino|[0](https://www.snap.com/political-ads/asset/ab7756b1c461e436040c939294006720c4b824b30ee6e1fb6154cda2f87fc6c6?mediaType=png)|689,850||18+|united states|"1211 Connecticut Ave,Washington,20036,US"||

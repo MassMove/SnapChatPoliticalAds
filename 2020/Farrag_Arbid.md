@@ -1,4 +1,7 @@
 ## 2020 - Farrag Arbid 
+Spent: 1,195.00
+Impressions: 673,532
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Senyar Group Agency|373.00 USD|Farrag Arbid|[0](https://www.snap.com/political-ads/asset/1c19d8742413c265989d06444a9bdc561427fe18bf8c49c85c66e48224dac4e3?mediaType=jpeg)|308,858||19+|kuwait|"Press Street,Shewikh,11111,KW"|Farrag Arbid|

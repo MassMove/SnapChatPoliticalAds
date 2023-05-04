@@ -1,4 +1,7 @@
 ## 2021 - ACLU Arizona 
+Spent: 1,877.00
+Impressions: 334,111
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Colibri Collective|935.00 USD|ACLU Arizona|[0](https://www.snap.com/political-ads/asset/fb4689226cce61c18f6a92f98b2dac3620934715c36711c07734c84461ff5e9a?mediaType=png)|163,223||18+|united states|"1425 N 1st St #100,Phoenix,85004,US"||

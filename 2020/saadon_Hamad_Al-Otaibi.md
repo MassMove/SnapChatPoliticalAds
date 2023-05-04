@@ -1,4 +1,7 @@
 ## 2020 - saadon Hamad Al-Otaibi 
+Spent: 323.00
+Impressions: 260,455
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jassem Production|55.00 USD|saadon Hamad Al-Otaibi|[0](https://www.snap.com/political-ads/asset/c2cf5b031b72b33e59f0edb17c7c4b2babc4e75f5e6278c759cb299fdb672ffb?mediaType=png)|99,270|||kuwait|KW||

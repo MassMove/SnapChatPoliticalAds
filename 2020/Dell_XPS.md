@@ -1,4 +1,7 @@
 ## 2020 - Dell XPS 
+Spent: 1,436.00
+Impressions: 617,787
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SpringHill Company|594.00 USD|Dell XPS|[0](https://www.snap.com/political-ads/asset/6f7b6fe6c3f19fc20145603f6e334f9c39248e593523266952d42a6975c807d5?mediaType=mp4)|227,831||18+|united states|"1575 N Gower St,Los Angeles,90028,US"||

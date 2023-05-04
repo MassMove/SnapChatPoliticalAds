@@ -1,4 +1,7 @@
 ## 2020 - National Australia Day Council 
+Spent: 59,802.00
+Impressions: 24,789,002
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|25,197.00 AUD|National Australia Day Council|[0](https://www.snap.com/political-ads/asset/15d60b6119bb41ef15b3b0f5240e3182f4adb75089592adfa6438c42d9cb4426?mediaType=mp4)|10,567,943||18+|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

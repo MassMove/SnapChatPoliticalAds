@@ -1,4 +1,7 @@
 ## 2022 - Reproductive Freedom for All 
+Spent: 79,478.00
+Impressions: 14,636,518
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reproductive Freedom for All|55,802.00 USD|Reproductive Freedom for All|[0](https://www.snap.com/political-ads/asset/09b7bf4105f3bcd2028c7dbe3bd026858f378f8c03d4b930e5fa168ff826a7a3?mediaType=mp4)|9,985,752||18+|united states|US||

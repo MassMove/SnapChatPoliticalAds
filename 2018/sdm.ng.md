@@ -1,4 +1,7 @@
 ## 2018 - sdm.ng 
+Spent: 225.00
+Impressions: 78,077
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LPM|127.00 USD|sdm.ng|[0](https://www.snap.com/political-ads/asset/c4f81dcfdb87963c39929b8f5d5feef58f2c2be75b5686f49399b535bd077120?mediaType=jpg)|41,016|MALE|30+|nigeria|GB||

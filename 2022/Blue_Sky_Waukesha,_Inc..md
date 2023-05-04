@@ -1,4 +1,7 @@
 ## 2022 - Blue Sky Waukesha, Inc. 
+Spent: 3,077.00
+Impressions: 235,409
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blue Sky Waukesha|1,200.00 USD|Blue Sky Waukesha, Inc.|[0](https://www.snap.com/political-ads/asset/fc44bb4e34bbeead30437f06ccde0d44e9c23a3c9ff55572e487ac9ae92a612e?mediaType=png)|93,365||18+|united states|US||

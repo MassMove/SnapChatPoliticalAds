@@ -1,4 +1,7 @@
 ## 2020 - Sock Fancy 
+Spent: 2,040.00
+Impressions: 1,149,648
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sock Fancy|677.00 USD|Sock Fancy|[0](https://www.snap.com/political-ads/asset/9b806246009efc95abd0c1c34be24f8a0914d7f957d12565852a7085f7e2891a?mediaType=mp4)|562,840|||united states|US||
