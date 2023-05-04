@@ -46,9 +46,8 @@
 |T/A Opt|126.00 NOK|AUF|[42](https://www.snap.com/political-ads/asset/e18dc49bec4cfdb8abc4134585d83eee01413ec21f15f62a8c5d578ce067f2ec?mediaType=png)|7,226||18-25|norway|"Øvre Slottsgate 8,Oslo,0157,NO"||
 |AUF Norge|54.00 EUR|AUF|[43](https://www.snap.com/political-ads/asset/939c40effd7862e56076b25777503f37bcf1969f22a8e1eab3756d1e15d4b39b?mediaType=mp4)|6,811||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
 |AUF Norge|55.00 EUR|AUF|[44](https://www.snap.com/political-ads/asset/a580181ae80f84a8fa2e44f9caffc9fbf6eb731a97470a490e3da6c7a0c4cb25?mediaType=mp4)|6,647||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
-|AUF Norge|52.00 EUR|AUF|[45](https://www.snap.com/political-ads/asset/7ab7835c326a9e48d0b7bf7a2cdd2bd770d0cee03ee894ab5a02f1fdee283bce?mediaType=mp4)|6,365||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
-|AUF Norge|24.00 EUR|AUF|[46](https://www.snap.com/political-ads/asset/a5c1b09a6504b6519f16bf7e750d80e146b1a522b5996d56dd19894263390218?mediaType=mp4)|5,179||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
-|AUF Norge|40.00 EUR|AUF|[47](https://www.snap.com/political-ads/asset/ead1340ce96338a9a59ea4bd4d7e8814e460a6c6c815c0b4a2ae270133cebd20?mediaType=mp4)|5,097||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
-|AUF Norge|22.00 EUR|AUF|[48](https://www.snap.com/political-ads/asset/2ff70326fea6b54af54b85aac02b47971e68bde070bc1a9613f4c3a8e3440d61?mediaType=mp4)|4,547||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
-|AUF Norge|18.00 EUR|AUF|[49](https://www.snap.com/political-ads/asset/9ccf14307f3a02ae83c55767c0d3b6dd53726d5c6d7917e30c3f46bcf61344f0?mediaType=mp4)|3,971||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
-|AUF Norge|16.00 EUR|AUF|[50](https://www.snap.com/political-ads/asset/6e4470a7ce79534028761244845c1726365ab7074b17418f266f43761b670b57?mediaType=mp4)|3,314||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
+|AUF Norge|24.00 EUR|AUF|[45](https://www.snap.com/political-ads/asset/a5c1b09a6504b6519f16bf7e750d80e146b1a522b5996d56dd19894263390218?mediaType=mp4)|5,179||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
+|AUF Norge|40.00 EUR|AUF|[46](https://www.snap.com/political-ads/asset/ead1340ce96338a9a59ea4bd4d7e8814e460a6c6c815c0b4a2ae270133cebd20?mediaType=mp4)|5,097||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
+|AUF Norge|22.00 EUR|AUF|[47](https://www.snap.com/political-ads/asset/2ff70326fea6b54af54b85aac02b47971e68bde070bc1a9613f4c3a8e3440d61?mediaType=mp4)|4,547||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
+|AUF Norge|18.00 EUR|AUF|[48](https://www.snap.com/political-ads/asset/9ccf14307f3a02ae83c55767c0d3b6dd53726d5c6d7917e30c3f46bcf61344f0?mediaType=mp4)|3,971||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
+|AUF Norge|16.00 EUR|AUF|[49](https://www.snap.com/political-ads/asset/6e4470a7ce79534028761244845c1726365ab7074b17418f266f43761b670b57?mediaType=mp4)|3,314||18-25|norway|"Yongstorget 2A,Oslo,0028,NO"||
