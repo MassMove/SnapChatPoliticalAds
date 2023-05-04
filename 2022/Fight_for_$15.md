@@ -1,8 +1,8 @@
 ## 2022 - Fight for $15 
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|M&R Strategic Services  Inc.|32,377.00 USD|Fight for $15|[0](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|6,541,117||16+|united states|"1901 L St NW,Washington,20036,US"||
-|M&R Strategic Services  Inc.|30,325.00 USD|Fight for $15|[1](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|6,361,067||16+|united states|"1901 L St NW,Washington,20036,US"||
+|M&R Strategic Services  Inc.|33,886.00 USD|Fight for $15|[0](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|6,792,729||16+|united states|"1901 L St NW,Washington,20036,US"||
+|M&R Strategic Services  Inc.|31,134.00 USD|Fight for $15|[1](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|6,489,663||16+|united states|"1901 L St NW,Washington,20036,US"||
 |M&R Strategic Services  Inc.|2,764.00 USD|Fight for $15|[2](https://www.snap.com/political-ads/asset/ae696f1bbc488a374acc4646f5851eb5af167db56758d8edeab8276b086857b2?mediaType=mp4)|568,811||16+|united states|"1901 L St NW,Washington,20036,US"||
 |M&R Strategic Services  Inc.|533.00 USD|Fight for $15|[3](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|351,750||16+|united states|"1901 L St NW,Washington,20036,US"||
 |M&R Strategic Services  Inc.|2,005.00 USD|Fight for $15|[4](https://www.snap.com/political-ads/asset/d7123a30dc62ddf17148d346ea9136231cae6b114a71b503df4a3d688ed47ca3?mediaType=mp4)|346,279||16+|united states|"1901 L St NW,Washington,20036,US"||

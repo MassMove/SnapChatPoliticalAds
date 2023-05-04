@@ -50,4 +50,3 @@
 |Search for Businesses  LLC|0.00 USD|The Outrage|[46](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|76|FEMALE|25+|united states|US||
 |Search for Businesses  LLC|1.00 USD|The Outrage|[47](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|75|FEMALE|25+|united states|US||
 |Search for Businesses  LLC|0.00 USD|The Outrage|[48](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|75|FEMALE|25+|united states|US||
-|Search for Businesses  LLC|0.00 USD|The Outrage|[49](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|53|FEMALE|25+|united states|US||
