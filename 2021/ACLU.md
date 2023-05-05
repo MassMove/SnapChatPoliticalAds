@@ -1,4 +1,7 @@
 ## 2021 - ACLU 
+Spent: 36,054.00
+Impressions: 3,117,943
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|6,639.00 USD|ACLU|[0](https://www.snap.com/political-ads/asset/7406d4ed592917dc69a556647577a1be58c40dd1e90c3472ef34e97248a4aeee?mediaType=mp4)|453,089||18-49|united states|US|ACLU|

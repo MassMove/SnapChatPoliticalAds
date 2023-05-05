@@ -1,4 +1,7 @@
 ## 2020 - March For Our Lives 
+Spent: 11,996.00
+Impressions: 2,223,601
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|2,620.00 USD|March For Our Lives|[0](https://www.snap.com/political-ads/asset/9e8893c9f889b9416343f5231c9c998674f20606244d4ad6d89e0f15e8bc5dca?mediaType=mp4)|439,274||18-25|united states|"1121 14th Street NW Suite 700,Washington,20005,US"|March For Our Lives GOTV|

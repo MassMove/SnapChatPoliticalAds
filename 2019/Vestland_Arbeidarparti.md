@@ -1,4 +1,7 @@
 ## 2019 - Vestland Arbeidarparti 
+Spent: 8,391.00
+Impressions: 6,110,782
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arbeiderpartiet i Bergen|1,235.00 GBP|Vestland Arbeidarparti|[0](https://www.snap.com/political-ads/asset/8d4e8608b82304adc8c28b10d923916b41799c6c7f89f02bb180b1309d9194e8?mediaType=mp4)|832,599|||norway|NO||

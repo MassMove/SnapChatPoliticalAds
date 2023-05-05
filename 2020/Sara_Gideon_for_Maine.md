@@ -1,4 +1,7 @@
 ## 2020 - Sara Gideon for Maine 
+Spent: 32,552.00
+Impressions: 4,452,664
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|10,273.00 USD|Sara Gideon for Maine|[0](https://www.snap.com/political-ads/asset/195df6293850817bd7b720d56b03ab99449ed6489720f748eb056623e2a6ffd2?mediaType=mp4)|1,358,453||18+|united states|"1445 New York Ave NW,Washington,20005,US"|Sara Gideon|

@@ -1,4 +1,7 @@
 ## 2022 - Blueprint Interactive 
+Spent: 35,197.00
+Impressions: 1,341,241
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|12,201.00 USD|Blueprint Interactive|[0](https://www.snap.com/political-ads/asset/badd2b51423bf0e74e25b4315aea8a0c3d4e632c4116221a53602f806228ce70?mediaType=mp4)|494,488||18-44|united states|"1220 19th Street NW,Washington,20036,US"||

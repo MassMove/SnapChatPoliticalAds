@@ -1,4 +1,7 @@
 ## 2021 - Fund Texas Choice 
+Spent: 42,498.00
+Impressions: 3,205,497
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BerlinRosen|18,671.00 USD|Fund Texas Choice|[0](https://www.snap.com/political-ads/asset/cfcd0ce7517a7e01e3c883cafb6988557025cf3f31bcae797ede4bb4ecfe880b?mediaType=jpg)|1,612,548||35-|united states|"15 Maiden Lane #16,New York,10038,US"||

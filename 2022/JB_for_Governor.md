@@ -1,4 +1,7 @@
 ## 2022 - JB for Governor 
+Spent: 40,281.00
+Impressions: 2,430,321
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gambit Strategies|20,751.00 USD|JB for Governor|[0](https://www.snap.com/political-ads/asset/2c20b38b84960bec471c2edfd5ed4dad570fd7243bbc0813c305b792b866ecec?mediaType=mp4)|1,334,287||18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"||

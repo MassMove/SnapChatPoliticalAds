@@ -1,4 +1,7 @@
 ## 2022 - Saleh almutairi 
+Spent: 6,930.00
+Impressions: 1,383,433
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |new camp|3,000.00 USD|Saleh almutairi|[0](https://www.snap.com/political-ads/asset/6ae4a0d811a531fbe14c7145e30d7d87201eb76f344a1306ecef6d6b76bb48a7?mediaType=mp4)|549,684||18+|kuwait|"riqqa,ahmadi,00965,KW"|Dr Saleh Almutairi|

@@ -1,4 +1,7 @@
 ## 2019 - Nye Drammen kommune 
+Spent: 516.00
+Impressions: 127,658
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Geelmuyden Kiese AS|371.00 EUR|Nye Drammen kommune|[0](https://www.snap.com/political-ads/asset/525f51a90db95e725f5049b68bdd417a74ed9ce9515941374a1e3376cade67e4?mediaType=mp4)|82,270||18+|norway|"St. Olavs Plass 5,Oslo,0164,NO"||

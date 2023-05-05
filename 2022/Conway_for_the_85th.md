@@ -1,4 +1,7 @@
 ## 2022 - Conway for the 85th 
+Spent: 778.00
+Impressions: 76,054
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Conwayforthe85th|250.00 USD|Conway for the 85th|[0](https://www.snap.com/political-ads/asset/7c3520cf9143a73a3b6aa6065ed0a562008638ddb677404c67434dea58a02d06?mediaType=mp4)|23,335|||united states|US|Conway for the 85th|

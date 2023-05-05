@@ -1,4 +1,7 @@
 ## 2019 - Abdullah Ahmad Alkandari 
+Spent: 846.00
+Impressions: 464,669
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Greetings|581.00 USD|Abdullah Ahmad Alkandari|[0](https://www.snap.com/political-ads/asset/28cf09d3e78d95bd0060e245e97d51aeb591d2387e5be5c7758631f9b72fbb0f?mediaType=mp4)|313,832||21+|kuwait|"aladan b2 st50 h4,aladan,23005,KW"||

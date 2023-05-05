@@ -1,4 +1,7 @@
 ## 2022 - Democrats for the Illinois House 
+Spent: 26,994.00
+Impressions: 4,520,996
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dover Group|3,500.00 USD|Democrats for the Illinois House|[0](https://www.snap.com/political-ads/asset/f1bdef5fe098ab4dcec0c170a293535ad913ffc2aba0e2dfcdb1959c3bc73135?mediaType=JPG)|925,570|FEMALE|18+|united states|US|Democrats for the Illinois House|

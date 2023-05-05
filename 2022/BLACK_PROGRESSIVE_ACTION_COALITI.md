@@ -1,4 +1,7 @@
 ## 2022 - Black Progressive Action Coaliti 
+Spent: 14,651.00
+Impressions: 1,737,493
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|1,700.00 USD|Black Progressive Action Coaliti|[0](https://www.snap.com/political-ads/asset/5a299e95e920342ebbfef416e69c39ce5c3830b400b227b0b79158f4939fb178?mediaType=mp4)|643,236||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|Black Progressive Action Coalition|

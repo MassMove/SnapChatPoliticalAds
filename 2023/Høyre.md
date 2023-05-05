@@ -1,4 +1,7 @@
 ## 2023 - Høyre 
+Spent: 60,428.00
+Impressions: 936,835
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amidays|3,040.00 NOK|Høyre|[0](https://www.snap.com/political-ads/asset/0783404a7d26535855fa0db1db63382b9a83854c30601188d0b07c5b0d7347fc?mediaType=mp4)|36,229||18+|norway|"Bygdøy Alle 1,OSLO,0257,NO"||

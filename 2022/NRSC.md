@@ -1,4 +1,7 @@
 ## 2022 - NRSC 
+Spent: 4,686.00
+Impressions: 649,860
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |National Republican Senatorial Committee|785.00 USD|NRSC|[0](https://www.snap.com/political-ads/asset/797b99fbb91a61a4b90f31ba7109ff9904ef90f25236c388aae683a62647bdcf?mediaType=png)|188,041||18+|united states|"425 2ND STREET NE,WASHINGTON,20002,US"|NRSC|

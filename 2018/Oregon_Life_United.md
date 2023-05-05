@@ -1,4 +1,7 @@
 ## 2018 - Oregon Life United 
+Spent: 1,524.00
+Impressions: 304,107
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chakra Strategies|1,018.00 USD|Oregon Life United|[0](https://www.snap.com/political-ads/asset/7dbb6c557638e0d27e563277d1424f632e913f4e03a26830d834107fd318a8fe?mediaType=mp4)|221,203||20+|united states|"40101 Booth Kelly Road,Springfield,97478,US"||

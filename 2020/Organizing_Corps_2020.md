@@ -1,4 +1,7 @@
 ## 2020 - Organizing Corps 2020 
+Spent: 1,159.00
+Impressions: 787,885
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Organizing Corps 2020|500.00 USD|Organizing Corps 2020|[0](https://www.snap.com/political-ads/asset/918337c79e5a003dfbd9ac40986e8ecf8ecfa68261577b20365b1992749e9b90?mediaType=jpeg)|320,696||18-29|united states|US|Organizing Corps 2020|

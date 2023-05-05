@@ -1,4 +1,7 @@
 ## 2021 - Grønn Ungdom 
+Spent: 6,404.00
+Impressions: 1,465,225
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Grønn Ungdom|368.00 USD|Grønn Ungdom|[0](https://www.snap.com/political-ads/asset/102c179fb672cc69470b1f2678e07c4c15e1171795d6c73579815e0bd4659614?mediaType=mp4)|208,977||28-|norway|"Hausmanns gate 19,OSLO,0182,NO"||

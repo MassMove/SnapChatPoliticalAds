@@ -1,4 +1,7 @@
 ## 2022 - ILDCC 
+Spent: 850.00
+Impressions: 227,837
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|440.00 USD|ILDCC|[0](https://www.snap.com/political-ads/asset/3979b68983cb53db153a0592cdf546ae5b303b16d579bebe58672cd2354c3170?mediaType=mp4)|119,920||18+|united states|"1324 Spaight St,Madison,53703,US"|ILDCC|

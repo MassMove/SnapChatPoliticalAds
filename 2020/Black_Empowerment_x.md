@@ -1,4 +1,7 @@
 ## 2020 - Black Empowerment x 
+Spent: 43.00
+Impressions: 26,719
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Black Empowerment X|38.00 USD|Black Empowerment x|[0](https://www.snap.com/political-ads/asset/b5b9d30c192433938ef8855112d69193b2291851807896caf928341028be8053?mediaType=png)|22,362|||united states|"1124 E89 ST,Brooklyn,11236,US"||

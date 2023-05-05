@@ -1,4 +1,7 @@
 ## 2020 - Hoosiers For Hale 
+Spent: 2,121.00
+Impressions: 618,182
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|614.00 USD|Hoosiers For Hale|[0](https://www.snap.com/political-ads/asset/48042e374f90b4bb50364803ee8da3b8854a013ac6ae70ad98fdbc8932d1bf2b?mediaType=mp4)|164,807||18-24|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Christina Hale|

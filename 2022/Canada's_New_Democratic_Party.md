@@ -1,4 +1,7 @@
 ## 2022 - Canada's New Democratic Party 
+Spent: 9,996.00
+Impressions: 1,307,990
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Metric|2,716.00 CAD|Canada's New Democratic Party|[0](https://www.snap.com/political-ads/asset/df6d84ee01b71429df3db50d4e8a2b74cd3b3ceceb32a395bdef51e8261b3430?mediaType=png)|295,364||18+|canada|"2148 Eton St,Vancouver,V5L1C7,CA"|New Democratic Party of Canada|

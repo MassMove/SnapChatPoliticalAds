@@ -1,4 +1,7 @@
 ## 2022 - Helen Raikes 
+Spent: 1,188.00
+Impressions: 204,493
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|282.00 USD|Helen Raikes|[0](https://www.snap.com/political-ads/asset/fee0adead4eb19b5c0f38b5f11336f3559e9917f6ada1c38b23c1b0f7a58a40b?mediaType=jpeg)|59,518||18+|united states|"919 Central Ave,Auburn,68305,US"|Helen Raikes for State Board of Education|

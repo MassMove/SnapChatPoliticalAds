@@ -1,4 +1,7 @@
 ## 2022 - Vote YES For Kids 
+Spent: 13,998.00
+Impressions: 1,008,429
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Semilla Strategies LLC|999.00 USD|Vote YES For Kids|[0](https://www.snap.com/political-ads/asset/5568f756f6e461471b7ba8d453fb32838ddf24984f4602b7377da66c770118e6?mediaType=mp4)|204,299||17-45|united states|"737 Georgia St SE,Albuquerque,87108,US"|New Mexico Constitutional Amendment 1|

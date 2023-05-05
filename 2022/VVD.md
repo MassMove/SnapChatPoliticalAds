@@ -1,4 +1,7 @@
 ## 2022 - VVD 
+Spent: 2,358.00
+Impressions: 1,734,509
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Volkspartij voor Vrijheid en Democratie|911.00 EUR|VVD|[0](https://www.snap.com/political-ads/asset/749a9abc66b80f0266e36fff5be4de2e922ed7902da134387cf2029888925f94?mediaType=mp4)|397,563||18+||NL|VVD|

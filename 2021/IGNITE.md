@@ -1,4 +1,7 @@
 ## 2021 - IGNITE 
+Spent: 9,106.00
+Impressions: 1,840,666
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |IGNITE|4,107.00 USD|IGNITE|[0](https://www.snap.com/political-ads/asset/31a279ea25ea0836548f8afb7b8b5a4c2c17a299efe42cdbd795345e3c944af4?mediaType=mp4)|779,212|FEMALE|18-30|united states|"510 16th Street,Oakland,94612,US"||

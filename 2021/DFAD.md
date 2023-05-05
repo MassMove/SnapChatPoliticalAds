@@ -1,4 +1,7 @@
 ## 2021 - DFAD 
+Spent: 4,127.00
+Impressions: 1,833,275
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|235.00 USD|DFAD|[0](https://www.snap.com/political-ads/asset/efa29d0e2a8e26f012b7f6b1d06b02fedff9ed49955e096d56c64ad5f9a8b479?mediaType=jpg)|103,807||18+|united states|"PO Box 128,Mill Valley,94942,US"||

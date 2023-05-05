@@ -1,4 +1,7 @@
 ## 2021 - Voter Formation Project 
+Spent: 27,127.00
+Impressions: 2,383,651
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Voter Formation Project|1,598.00 USD|Voter Formation Project|[0](https://www.snap.com/political-ads/asset/e54223ca937375338e924b623c27d1abcd30a31f55514844d5150588014f415d?mediaType=mp4)|114,873|FEMALE|18-34|united states|"712 H St NE PMB 41,Washington,20002,US"||

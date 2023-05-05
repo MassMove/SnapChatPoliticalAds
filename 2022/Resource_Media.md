@@ -1,4 +1,7 @@
 ## 2022 - Resource Media 
+Spent: 1,291.00
+Impressions: 255,558
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |RESOURCE MEDIA A NONPROFIT CORPORATION|768.00 USD|Resource Media|[0](https://www.snap.com/political-ads/asset/0ad69aa7ba722dcbda434c6a7d742e287bdb876d7e10bccae87cd775f630bb0f?mediaType=mp4)|161,493|FEMALE|18-40|united states|US||

@@ -1,4 +1,7 @@
 ## 2021 - Planned Parenthood 
+Spent: 46,160.00
+Impressions: 6,552,361
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|9,554.00 USD|Planned Parenthood|[0](https://www.snap.com/political-ads/asset/dec38200751cd86ec519ae1ac0603322eb12885608d399c385dad9a5c3281526?mediaType=mp4)|942,758||18+|united states|"1901 L St NW,Washington,20036,US"||

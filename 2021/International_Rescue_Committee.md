@@ -1,4 +1,7 @@
 ## 2021 - International Rescue Committee 
+Spent: 1,476.00
+Impressions: 748,824
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |International Rescue Committee|981.00 GBP|International Rescue Committee|[0](https://www.snap.com/political-ads/asset/d7b9bbe890fa4acccfe35ddcdf9f7db89529b0a6a9d338524df64dd22aca23ad?mediaType=mp4)|468,467||18+|united kingdom|"122 E 42nd Street,New York,10168-1289,US"||

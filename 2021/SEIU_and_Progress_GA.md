@@ -1,4 +1,7 @@
 ## 2021 - SEIU and Progress GA 
+Spent: 4,672.00
+Impressions: 750,515
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|2,374.00 USD|SEIU and Progress GA|[0](https://www.snap.com/political-ads/asset/cad0d01679aa894a87f46277fbba7edeceaf49e82e43f1c3f90777cab22bfa1f?mediaType=jpg)|384,618||17+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

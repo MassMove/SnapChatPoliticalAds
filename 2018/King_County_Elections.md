@@ -1,4 +1,7 @@
 ## 2018 - King County Elections 
+Spent: 2,551.00
+Impressions: 1,196,776
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mammoth|486.00 USD|King County Elections|[0](https://www.snap.com/political-ads/asset/8b7203998de96b433bbce93b968898a823018dbd91f0e3900b3282c8f78e5934?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/23b0797f9318e980ca75225b40c044426540932648f80455f5aa4d1d8290c022?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/accf2510541c75802417096ebdacd0775a63f2f7753ce46873e47c6053db8ab1?mediaType=mp4)|289,305||18+|united states|"1525 11th Ave Suite 2-126,Seattle,98122,US"||

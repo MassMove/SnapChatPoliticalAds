@@ -1,4 +1,7 @@
 ## 2021 - MARK KELLY FOR SENATE 
+Spent: 1,550.00
+Impressions: 117,535
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Aisle 518 Strategies LLC|520.00 USD|MARK KELLY FOR SENATE|[0](https://www.snap.com/political-ads/asset/d0e540ecf96600c03670e4856351f6a31c1c192eb95f0b3c281bfcb7a478daad?mediaType=png)|37,292||18+|united states|"1133 15th St NW,Washington,20005,US"|Mark Kelly|

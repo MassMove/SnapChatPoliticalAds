@@ -1,4 +1,7 @@
 ## 2020 - Spokane County Elections 
+Spent: 2,498.00
+Impressions: 1,198,806
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Desautel Hege|1,021.00 USD|Spokane County Elections|[0](https://www.snap.com/political-ads/asset/96d789cbb1f2ec4daa7defd92d67ceba6b7ad31519fc9d78aba16f98af8a62c5?mediaType=png)|490,594|||united states|"315 W Riverside,Spokane,99201,US"|Voter Registration and Education|

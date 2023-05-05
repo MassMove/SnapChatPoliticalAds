@@ -1,4 +1,7 @@
 ## 2021 - Norske Samers Riksforbund - NSR 
+Spent: 14,099.00
+Impressions: 244,452
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Norske Samers Riksforbund – NSR|5,000.00 NOK|Norske Samers Riksforbund - NSR|[0](https://www.snap.com/political-ads/asset/743e473c6ff3b9cd261c09eb052704dcf6e316d9bf9b643c9f31393d532aadd7?mediaType=mp4)|90,406||16+|norway|"Bredbuktnesveien 50 B,,Guovdageaidnu,9520,NO"|NSR|

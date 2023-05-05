@@ -1,4 +1,7 @@
 ## 2020 - ProgressNow Arizona Federal PAC 
+Spent: 17,092.00
+Impressions: 1,982,876
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|8,631.00 USD|ProgressNow Arizona Federal PAC|[0](https://www.snap.com/political-ads/asset/2adadf075751628dcb5afec9bb383551dd51001689591526ed7dc7f3078e0bbe?mediaType=mp4)|968,638||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Joe Biden and Kamala Harris|

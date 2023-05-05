@@ -1,4 +1,7 @@
 ## 2020 - Think Forward Clothing 
+Spent: 120.00
+Impressions: 50,394
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Think Forward Clothing|71.00 USD|Think Forward Clothing|[0](https://www.snap.com/political-ads/asset/b1c47a835198c40a400040f29da2797e7539e9d2f16f8b5f2db37e0d231d102c?mediaType=mp4)|30,738||18-35|united states|"2111 HUNTINGTON DR,South Pasadena,91030,US"|Biden for President|

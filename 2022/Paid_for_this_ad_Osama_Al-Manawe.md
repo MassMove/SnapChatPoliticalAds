@@ -1,4 +1,7 @@
 ## 2022 - Paid for this ad Osama Al-Manawe 
+Spent: 401.00
+Impressions: 268,114
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |المرشح أسامة المناور|307.00 USD|Paid for this ad Osama Al-Manawe|[0](https://www.snap.com/political-ads/asset/10fb67cdba0aa2b789e5a565f1a03e1d4ee5b464f098be01d9c390d9e338b160?mediaType=mp4)|210,937|FEMALE|21+|kuwait|KW||

@@ -1,4 +1,7 @@
 ## 2019 - Ak Parti 
+Spent: 8,654.00
+Impressions: 6,130,918
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Goodroll Dijital Video Reklam Pazarlama Tic. A.Ş.|2,865.00 USD|Ak Parti|[0](https://www.snap.com/political-ads/asset/e4c67fb68170179bfd4ec1a856e07dbe2a5ae91263c888bc98607a9dfff1e706?mediaType=mp4)|2,616,033|||turkey|"Emniyetevler Mah. Yamaç Sok. No:6 Kat:2,İstanbul/Kağıthane,34415,TR"||

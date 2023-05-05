@@ -1,4 +1,7 @@
 ## 2022 - One Georgia, Inc. 
+Spent: 235,192.00
+Impressions: 16,862,152
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|18,249.00 USD|One Georgia, Inc.|[0](https://www.snap.com/political-ads/asset/d3e09682e555823ccabfd0a06d32b486d41699d0ba10d33914ace077226ab3ab?mediaType=mp4)|1,140,619||18-34|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|One Georgia|

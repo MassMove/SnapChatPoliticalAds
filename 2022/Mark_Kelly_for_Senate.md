@@ -1,4 +1,7 @@
 ## 2022 - Mark Kelly for Senate 
+Spent: 238,333.00
+Impressions: 23,109,280
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|4,103.00 USD|Mark Kelly for Senate|[0](https://www.snap.com/political-ads/asset/d4fc0fd67587f1cd9036da9717866312ea48a923c67d0012e2a589d58999eb89?mediaType=mp4)|646,028||18+|united states|US|Mark Kelly|

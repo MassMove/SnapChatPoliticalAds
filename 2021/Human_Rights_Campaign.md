@@ -1,4 +1,7 @@
 ## 2021 - Human Rights Campaign 
+Spent: 5,951.00
+Impressions: 802,828
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|884.00 USD|Human Rights Campaign|[0](https://www.snap.com/political-ads/asset/75facf471a7e496e31741ed292872dba5a4d091cc0cef1c2d5f3ffc5ee8a296a?mediaType=png)|133,492||18+|united states|"1445 New York Ave NW,Washington,20005,US"||

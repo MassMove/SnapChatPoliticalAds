@@ -1,4 +1,7 @@
 ## 2019 - InTheNumber 
+Spent: 400.00
+Impressions: 112,920
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |In the Number|250.00 USD|InTheNumber|[0](https://www.snap.com/political-ads/asset/56944b59d20626a5266af6a31dd4224f484c623e710e387e86b51d169b3b17c3?mediaType=jpg)|72,668||21+|united states|US||

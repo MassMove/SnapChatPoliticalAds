@@ -1,4 +1,7 @@
 ## 2023 - Mijente PAC 
+Spent: 2,513.00
+Impressions: 272,941
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|538.00 USD|Mijente PAC|[0](https://www.snap.com/political-ads/asset/3271608e6a3d15ab0866c5058dc6feba3bb55472689e66e520e6f674013c6443?mediaType=jpg)|51,952||18+|united states|"Po Box 21600,Washington,20009,US"||

@@ -1,4 +1,7 @@
 ## 2020 - Peter Cruz for La Habra 
+Spent: 74.00
+Impressions: 18,151
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NewWave Strategies|67.00 USD|Peter Cruz for La Habra|[0](https://www.snap.com/political-ads/asset/88b800010c1894cf7d2d034637007e89b3c6cf9903ffc211a7fa853e86914088?mediaType=png)|16,290||18+|united states|US|Peter Cruz|

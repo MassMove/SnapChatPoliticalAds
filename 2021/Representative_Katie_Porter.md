@@ -1,4 +1,7 @@
 ## 2021 - Representative Katie Porter 
+Spent: 5,735.00
+Impressions: 509,441
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,921.00 USD|Representative Katie Porter|[0](https://www.snap.com/political-ads/asset/3d0e48a71c70a528e74c7ae701ad887788e4a17396ec1af059f71aa6a0e79ce5?mediaType=jpg)|162,516||18+|united states|US||

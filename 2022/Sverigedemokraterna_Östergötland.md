@@ -1,4 +1,7 @@
 ## 2022 - Sverigedemokraterna Östergötland 
+Spent: 10,199.00
+Impressions: 324,839
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Östgöta Media|5,832.00 SEK|Sverigedemokraterna Östergötland|[0](https://www.snap.com/political-ads/asset/3f0e04e5cb086dbbce4a8da8978db4050e03742b920522bb792d364514e9406a?mediaType=png)|182,993||18-45|sweden|"Stohagsgatan 2,Norrköping,60183,SE"||

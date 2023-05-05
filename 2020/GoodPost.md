@@ -1,4 +1,7 @@
 ## 2020 - GoodPost 
+Spent: 36.00
+Impressions: 83,213
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GoodPost|19.00 USD|GoodPost|[0](https://www.snap.com/political-ads/asset/e1257cc7e2e3d4f7e3efc7a3ac018e129d3424207efd2de411b0ce3dfa639b47?mediaType=MP4),[1](https://www.snap.com/political-ads/asset/e13dea5208f143552863468d68c855e8bebc061fa1b742317b6942b2d38b952a?mediaType=MP4),[2](https://www.snap.com/political-ads/asset/3a4f81f4ca199ad3ec06da92a6ac0b8557c613b43b277b7e6f56625137005f93?mediaType=MP4),[3](https://www.snap.com/political-ads/asset/2cc53a84be3b183b88fc5efe2d77591d82c44de3c2fb68f5b20d39502714b1cd?mediaType=MP4),[4](https://www.snap.com/political-ads/asset/16a86d0af7379289a204ce8a979f8b3ac19b53ed0b4dda0ebdf30fdb415796bc?mediaType=MP4),[5](https://www.snap.com/political-ads/asset/5e9a5f4404d0be99518ca043340e2b368444af4c4297eb99bd44b8475017d23f?mediaType=MP4)|43,122|||united states|"1366 Berkley Court,Buffalo Grove,60613,US"||

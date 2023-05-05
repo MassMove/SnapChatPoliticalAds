@@ -1,4 +1,7 @@
 ## 2019 - Trump MAGA Committee 
+Spent: 41,450.00
+Impressions: 25,901,768
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Realtime Media|29,215.00 USD|Trump MAGA Committee|[0](https://www.snap.com/political-ads/asset/23de395ec9527d94ad0065db38aabc295326dff9f018602b0224c1ebeaa1b82c?mediaType=mp4)|21,883,130||18+|united states|"P.O. Box 13410,Arlington,22219,US"||

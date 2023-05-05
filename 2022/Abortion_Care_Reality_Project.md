@@ -1,4 +1,7 @@
 ## 2022 - Abortion Care Reality Project 
+Spent: 3,573.00
+Impressions: 132,408
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|153.00 USD|Abortion Care Reality Project|[0](https://www.snap.com/political-ads/asset/b45210162daa2743a0548ea502f96b5d3d7d922887c69032cb264c4a0a3d6761?mediaType=mp4)|5,998|FEMALE|18+|united states|"1324 Spaight St,Madison,53703,US"|Abortion Care Reality Project|

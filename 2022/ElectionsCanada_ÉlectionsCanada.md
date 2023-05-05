@@ -1,4 +1,7 @@
 ## 2022 - ElectionsCanada/ÉlectionsCanada 
+Spent: 9,497.00
+Impressions: 1,590,208
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|4,956.00 CAD|ElectionsCanada/ÉlectionsCanada|[0](https://www.snap.com/political-ads/asset/040ab60bdb5cae38cee0ec7982eee40157e7c0cc5eaaf507b785d208a2d208ad?mediaType=mp4)|823,145||18-24|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

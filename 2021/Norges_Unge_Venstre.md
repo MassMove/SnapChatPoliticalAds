@@ -1,4 +1,7 @@
 ## 2021 - Norges Unge Venstre 
+Spent: 49,427.00
+Impressions: 1,311,827
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Norges Unge Venstre|9,000.00 NOK|Norges Unge Venstre|[0](https://www.snap.com/political-ads/asset/05002eaa9666e60fcb25d46801069badbc3cec19e130248c41ea947e68a2b423?mediaType=mp4)|364,530||17-24|norway|"Møllergata 16,Oslo,0179,NO"|Venstre|

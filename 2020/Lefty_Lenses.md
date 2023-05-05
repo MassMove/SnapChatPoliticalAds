@@ -1,4 +1,7 @@
 ## 2020 - Lefty Lenses 
+Spent: 198.00
+Impressions: 41,332
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bigtent Creative  LLC|48.00 USD|Lefty Lenses|[0](https://www.snap.com/political-ads/asset/428142f9f40b6305199d34f3679b4e29177594b51ca2b11eb4677b890098964e?mediaType=mp4)|10,658||16+|united states|US||

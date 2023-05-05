@@ -1,4 +1,7 @@
 ## 2019 - Make Good Decisions 
+Spent: 13,247.00
+Impressions: 6,207,858
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Emmis Communcations|8,748.00 USD|Make Good Decisions|[0](https://www.snap.com/political-ads/asset/eb6f5f7d1b611e6d80880c6337a301cef92972de32e01008ee5bfe4319bebc2a?mediaType=mp4)|4,126,044||17-21|united states|US||

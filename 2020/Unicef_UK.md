@@ -1,4 +1,7 @@
 ## 2020 - Unicef UK 
+Spent: 5,062.00
+Impressions: 3,424,915
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unicef UK|1,048.00 GBP|Unicef UK|[0](https://www.snap.com/political-ads/asset/49c402b768c5efb322a8be86f19316c55eee791602836677e2ebdcea15947f5a?mediaType=mp4)|765,671||18+|united kingdom|"1 Westfield Avenue,London,E20 1HZ,GB"||

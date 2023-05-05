@@ -1,4 +1,7 @@
 ## 2019 - Liberal National Party 
+Spent: 3,803.00
+Impressions: 857,619
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mymediatradingdesk|1,904.00 AUD|Liberal National Party|[0](https://www.snap.com/political-ads/asset/393d732b7511f5e6fe7839432f538241172ad3a9fe70d56145ad1974d9394294?mediaType=mp4)|387,357||18+|australia|AU||

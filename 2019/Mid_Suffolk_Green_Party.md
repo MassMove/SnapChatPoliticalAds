@@ -1,4 +1,7 @@
 ## 2019 - Mid Suffolk Green Party 
+Spent: 954.00
+Impressions: 356,615
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mid Suffolk Green Party|223.00 GBP|Mid Suffolk Green Party|[0](https://www.snap.com/political-ads/asset/26206cd9e98c76f29c17a80f14de51c018885b06c517b5c8a863104f10a5351e?mediaType=png)|80,181||18+|united kingdom|GB|Helen Geake|

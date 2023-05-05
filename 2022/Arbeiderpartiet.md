@@ -1,4 +1,7 @@
 ## 2022 - Arbeiderpartiet 
+Spent: 65,999.00
+Impressions: 2,492,936
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arbeiderpartiet|10,000.00 NOK|Arbeiderpartiet|[0](https://www.snap.com/political-ads/asset/939095e3eedf0028c8c45a822e747f2ea18a445d6fd0b94ea4af99b3323ef993?mediaType=mp4)|1,091,016||17-19|norway|"Youngstorget 2A,Oslo,0028,NO"||

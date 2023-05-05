@@ -1,4 +1,7 @@
 ## 2019 - Luton Council 
+Spent: 337.00
+Impressions: 239,445
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Luton Council|71.00 GBP|Luton Council|[0](https://www.snap.com/political-ads/asset/884b5cb68f213304e47e25e66beedd17cef4b228360b021ee44c21510b19d26c?mediaType=mp4)|52,418||17-30|united kingdom|"Town Hall, George St,Luton,LU1 2BQ,GB"||

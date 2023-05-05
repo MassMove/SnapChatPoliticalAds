@@ -1,4 +1,7 @@
 ## 2018 - Mejeriforeningen 
+Spent: 15,072.00
+Impressions: 8,682,085
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reprise Media|1,281.00 EUR|Mejeriforeningen|[0](https://www.snap.com/political-ads/asset/39264d0897db29b773c8b12366de41ebf94fdcd7f3e2c59a2d74327e1ff70130?mediaType=mp4)|762,206||20-29|denmark|"Skt. Petri Passage 52 ,København K,1165,DK"||

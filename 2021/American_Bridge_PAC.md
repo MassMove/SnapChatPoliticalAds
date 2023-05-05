@@ -1,4 +1,7 @@
 ## 2021 - American Bridge PAC 
+Spent: 10,202.00
+Impressions: 1,688,581
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|4,136.00 USD|American Bridge PAC|[0](https://www.snap.com/political-ads/asset/541d2bbdf5dafa5e2a1e9bb6d44276eedde89540c42ad1e04d51a37708fa3a6c?mediaType=mp4)|798,545|FEMALE|18+|united states|US||

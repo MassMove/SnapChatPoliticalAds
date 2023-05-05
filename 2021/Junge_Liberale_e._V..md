@@ -1,4 +1,7 @@
 ## 2021 - Junge Liberale e. V. 
+Spent: 6,098.00
+Impressions: 1,779,122
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Steffen und Bach GmbH|1,348.00 EUR|Junge Liberale e. V.|[0](https://www.snap.com/political-ads/asset/74c82a26ce2e5f8acf36db6691a7760dee59e4a1d2211c77d96d7def39542634?mediaType=png)|508,150||18-25|germany|"Friedrich-Wilhelm-Platz 3a,Braunschweig,38100,DE"||

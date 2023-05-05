@@ -1,4 +1,7 @@
 ## 2021 - Middlesex County, NJ 
+Spent: 5,592.00
+Impressions: 756,997
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marketing Doctor Inc|980.00 USD|Middlesex County, NJ|[0](https://www.snap.com/political-ads/asset/e99330f9257854ab7d161c151474b9aefb7a786551317e682eb450605c8faa91?mediaType=png)|159,487||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Middlesex County Voting|

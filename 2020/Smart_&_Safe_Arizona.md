@@ -1,4 +1,7 @@
 ## 2020 - Smart & Safe Arizona 
+Spent: 9,572.00
+Impressions: 2,538,112
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Strategies 360|2,100.00 USD|Smart & Safe Arizona|[0](https://www.snap.com/political-ads/asset/9bf9bebcf5611c5449fe7457a17f9f3a913033d016d401dfb0d10ac710963803?mediaType=mp4)|912,653||18+|united states|"1505 Westlake Ave N Suite 1000,Seattle,98109,US"|Smart and Safe Arizona|

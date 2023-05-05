@@ -1,4 +1,7 @@
 ## 2022 - Feminist Women's Health Center 
+Spent: 5,149.00
+Impressions: 808,622
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,508.00 USD|Feminist Women's Health Center|[0](https://www.snap.com/political-ads/asset/58392c8eff38e2ed4588f032a8fe733d70bcd7cfc0ef16774d5e5a6000758335?mediaType=mp4)|240,067||18-45|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

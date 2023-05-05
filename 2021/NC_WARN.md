@@ -1,4 +1,7 @@
 ## 2021 - NC WARN 
+Spent: 19,168.00
+Impressions: 4,979,121
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |New Path Digital|1,663.00 USD|NC WARN|[0](https://www.snap.com/political-ads/asset/774e8c800ede29e2f0ee09a4bf1930d480329e967cbfc52c2eda603a181310cd?mediaType=mp4)|462,463||18+|united states|"113 Gatewood Ave.,High Point,27262,US"|NC Climate Emergency|

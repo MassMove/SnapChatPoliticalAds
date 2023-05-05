@@ -1,4 +1,7 @@
 ## 2019 - Donald J. Trump For President 
+Spent: 5,982.00
+Impressions: 570,160
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Realtime Media|762.00 USD|Donald J. Trump For President|[0](https://www.snap.com/political-ads/asset/a22d1ec202ed3b6990be611099507c8e475a25346217945c847a23cd1b5d5cb5?mediaType=mp4)|136,757||35++|united states|"P.O. Box 13410,Arlington,22219,US"||

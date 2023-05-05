@@ -1,4 +1,7 @@
 ## 2018 - Progressive Turnout Project 
+Spent: 4,645.00
+Impressions: 668,671
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mothership Strategies|585.00 USD|Progressive Turnout Project|[0](https://www.snap.com/political-ads/asset/2e4d67a25dabf148acbf7b443b26ab9de7eb19253043feab22291f40e22570e8?mediaType=mp4)|84,750||18+|united states|"1328 Florida Avenue NW, Building C, Washington, DC,Washington,20009,US"||

@@ -1,4 +1,7 @@
 ## 2021 - Fremskrittspartiet 
+Spent: 65,987.00
+Impressions: 12,260,552
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Los & Co|6,386.00 EUR|Fremskrittspartiet|[0](https://www.snap.com/political-ads/asset/ca5c1256cb8f1bd5cff9f164d03d82d231748e177708f727c0515ce9ca56e895?mediaType=mp4)|1,975,765|FEMALE|18-33|norway|"Skur 41 Vippetangen,Oslo,0150 ,NO"||

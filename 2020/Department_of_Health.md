@@ -1,4 +1,7 @@
 ## 2020 - Department of Health 
+Spent: 56,767.00
+Impressions: 20,736,335
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|10,000.00 AUD|Department of Health|[0](https://www.snap.com/political-ads/asset/7f9068e75ae18e5d84cef648e7fb8fdf70806fcafb6c65c1ae70f0ffe12deb3c?mediaType=mp4)|7,955,015||15-19|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

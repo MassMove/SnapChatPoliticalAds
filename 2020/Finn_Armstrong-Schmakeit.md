@@ -1,4 +1,7 @@
 ## 2020 - Finn Armstrong-Schmakeit 
+Spent: 92.00
+Impressions: 13,726
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Finnforbulimba|57.00 AUD|Finn Armstrong-Schmakeit|[0](https://www.snap.com/political-ads/asset/3a9191fdc45e92b00899ffb14695f6718b661a82da82f4e5f1ee7eb1188cf94a?mediaType=png)|9,005||18-22|australia|"37 Wyandra St,Newstead ,4005,AU"|Finn ArmstrongSchmakeit|

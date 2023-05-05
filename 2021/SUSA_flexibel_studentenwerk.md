@@ -1,4 +1,7 @@
 ## 2021 - SUSA flexibel studentenwerk 
+Spent: 149.00
+Impressions: 141,034
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SUSA flexibel studentenwerk|50.00 EUR|SUSA flexibel studentenwerk|[0](https://www.snap.com/political-ads/asset/d9d0d5cb9957593f2ba5f584e28462c80d4756a21d9e7d02b111d3ad51d26f7d?mediaType=mp4)|51,288||18-28|netherlands|NL||

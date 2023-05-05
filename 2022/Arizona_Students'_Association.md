@@ -1,4 +1,7 @@
 ## 2022 - Arizona Students' Association 
+Spent: 3,914.00
+Impressions: 893,745
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SPM - LLC|849.00 USD|Arizona Students' Association|[0](https://www.snap.com/political-ads/asset/ecdc110f291ee40d3c2be5fc96ec8ef93ccc7979d2b76cff5e7fd13a47b9b8c4?mediaType=png)|196,031||18-28|united states|US||

@@ -1,4 +1,7 @@
 ## 2022 - Katie Porter for Congress 
+Spent: 105,566.00
+Impressions: 8,800,566
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|7,935.00 USD|Katie Porter for Congress|[0](https://www.snap.com/political-ads/asset/7dcaacea8fbe433ee7f98624994d4e4299936579633c944608116e6e9600bf6c?mediaType=mp4)|722,624||18+|united states|US|Katie Porter for Congress|

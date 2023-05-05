@@ -1,4 +1,7 @@
 ## 2022 - Elections Ontario 
+Spent: 8,711.00
+Impressions: 3,867,298
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OMD Canada|4,260.00 CAD|Elections Ontario|[0](https://www.snap.com/political-ads/asset/8fec00bff684351e7cb20dba0d97b7d9d4f9710f02e3717b44ae6be70ccb831f?mediaType=mp4)|1,808,984||16-17|canada|"1300-33 Bloor St E,Toronto,M4W 3H1,CA"||

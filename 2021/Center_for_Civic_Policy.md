@@ -1,4 +1,7 @@
 ## 2021 - Center for Civic Policy 
+Spent: 1,078.00
+Impressions: 391,808
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Center for Civic Policy|350.00 USD|Center for Civic Policy|[0](https://www.snap.com/political-ads/asset/894919ea40bde3af98a43af2c599c3def906d2cd4059620ce6f6e83fa0a3cad0?mediaType=mp4)|163,769||17-35|united states|US|HB297 NM Workforce and Economic Prosperity Act|

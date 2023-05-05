@@ -1,4 +1,7 @@
 ## 2022 - Fackförbundet ST 
+Spent: 38,956.00
+Impressions: 590,626
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Reform Society|10,639.00 SEK|Fackförbundet ST|[0](https://www.snap.com/political-ads/asset/f593b5a7752ed6048d991946563274b81a026ce9dde386531567c2d5653eb90e?mediaType=mp4)|184,309||18-49|sweden|"Kungsgatan 18,Stockholm,111 35,SE"||

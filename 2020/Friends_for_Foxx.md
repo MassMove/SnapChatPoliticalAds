@@ -1,4 +1,7 @@
 ## 2020 - Friends for Foxx 
+Spent: 11,998.00
+Impressions: 4,059,752
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|3,121.00 USD|Friends for Foxx|[0](https://www.snap.com/political-ads/asset/f5d20711267b1ab8121b613e7a38d879fa03b568f02f71dd426f71d66784f615?mediaType=mp4)|1,102,447||25-40|united states|"3050 K Street,Washington,20007,US"|Friends for Foxx|

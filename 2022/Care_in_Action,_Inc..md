@@ -1,4 +1,7 @@
 ## 2022 - Care in Action, Inc. 
+Spent: 13,173.00
+Impressions: 692,475
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|351.00 USD|Care in Action, Inc.|[0](https://www.snap.com/political-ads/asset/9ab1322c6320ac30760c83565e4bc7ac45edf5c1bed661f5febc13621ead5975?mediaType=mp4)|27,231|FEMALE|18+|united states|US|Care in Action Inc|

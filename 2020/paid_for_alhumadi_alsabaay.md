@@ -1,4 +1,7 @@
 ## 2020 - paid for alhumadi alsabaay 
+Spent: 4,659.00
+Impressions: 2,724,006
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |شركه بيتا ادز|758.00 USD|paid for alhumadi alsabaay|[0](https://www.snap.com/political-ads/asset/40684c833677f3710d4345d03f3c0123059ab22ee0934c082ce756d1b8633839?mediaType=mp4)|585,820|||kuwait|"7 Khalid Ibn Al Waleed St , Kuwait City - Sawaber Tower 6 , Floor 6, Office No.13,Sharq,15300,KW"|paid for by Alhumadi alsabaey|

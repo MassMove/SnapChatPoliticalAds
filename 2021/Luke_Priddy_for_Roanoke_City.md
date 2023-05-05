@@ -1,4 +1,7 @@
 ## 2021 - Luke Priddy for Roanoke City 
+Spent: 381.00
+Impressions: 63,170
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Luke Priddy for Roanoke City|155.00 USD|Luke Priddy for Roanoke City|[0](https://www.snap.com/political-ads/asset/9cbd5e3e5585af82f8954d32ade392a4debce4e4455341c0390301eb264e76eb?mediaType=mp4)|25,851||18+|united states|"302 5th St SW, Ste A,Roanoke,24016,US"|Referendum to Elect or Appoint RCPS School Board|

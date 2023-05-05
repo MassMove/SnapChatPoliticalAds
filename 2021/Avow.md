@@ -1,4 +1,7 @@
 ## 2021 - Avow 
+Spent: 18,949.00
+Impressions: 1,597,248
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Authentic Campaigns Inc|2,820.00 USD|Avow|[0](https://www.snap.com/political-ads/asset/b6fe47d0576e8d71a8705d81124225e8a50a6a0b95dc0d9bee760edc806353b9?mediaType=mp4)|392,469|FEMALE|18-25|united states|"1211 Connecticut Ave,Washington,20036,US"||

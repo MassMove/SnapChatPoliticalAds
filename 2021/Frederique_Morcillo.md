@@ -1,4 +1,7 @@
 ## 2021 - Frederique Morcillo 
+Spent: 24,605.00
+Impressions: 5,663,137
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|819.00 EUR|Frederique Morcillo|[0](https://www.snap.com/political-ads/asset/ac9631257bd5024753c8ec3fdfb27a2834934d6c0ef9ccb73ee1720d97a69c1f?mediaType=png)|365,963||18-30|spain|"67 Av. de Wagram,Paris,75017,FR"||

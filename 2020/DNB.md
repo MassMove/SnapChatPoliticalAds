@@ -1,4 +1,7 @@
 ## 2020 - DNB 
+Spent: 630.00
+Impressions: 127,545
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DNB Bank ASA|432.00 EUR|DNB|[0](https://www.snap.com/political-ads/asset/865dca62ffa051bf8b2701b8b14fb52f30de168bb9dc83761f8c1c378ca9a982?mediaType=mp4)|82,645|FEMALE|20-49|norway|"Dronning Eufemias Gate 30,Oslo,0191,NO"||

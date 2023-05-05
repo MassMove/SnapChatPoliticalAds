@@ -1,4 +1,7 @@
 ## 2021 - FLHSMV 
+Spent: 471.00
+Impressions: 340,813
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Avanza Advertising  LLC|252.00 USD|FLHSMV|[0](https://www.snap.com/political-ads/asset/4759045eeffea769d483c8bb02b381ee2dea82396502d84500a226a38f6a5ed3?mediaType=png)|182,395||14-42|united states|"5465 NW 36th St. Ste 100,Miami Springs,33166,US"|Put it Down|

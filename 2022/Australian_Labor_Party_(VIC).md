@@ -1,4 +1,7 @@
 ## 2022 - Australian Labor Party (VIC) 
+Spent: 9,089.00
+Impressions: 1,192,503
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Labor Party|396.00 AUD|Australian Labor Party (VIC)|[0](https://www.snap.com/political-ads/asset/aa5ae4d5beb1517a42f3bd5770b62220d25eb6e2e555d0cc757a08ac2e4350a1?mediaType=png)|248,622||25-|australia|AU|Australian Labor Party|

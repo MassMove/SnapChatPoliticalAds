@@ -1,4 +1,7 @@
 ## 2019 - Tønsberg/Re Høyre 
+Spent: 367.00
+Impressions: 136,225
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Tønsberg Blad|130.00 USD|Tønsberg/Re Høyre|[0](https://www.snap.com/political-ads/asset/8ae3691cab2c83fe63bd55cad0ee6374efdb757e498feb5a5df03efe4ab3fdc9?mediaType=jpg)|75,539||18+|norway|"Nedre Langgate 20,TØNSBERG,3126,NO"||

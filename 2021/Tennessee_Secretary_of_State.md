@@ -1,4 +1,7 @@
 ## 2021 - Tennessee Secretary of State 
+Spent: 8,424.00
+Impressions: 1,727,734
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Tennessee Secretary of State|3,579.00 USD|Tennessee Secretary of State|[0](https://www.snap.com/political-ads/asset/cd84d5712d23cf7e4c9fc84b9fff6689ddebbc6fc0fcb9753f740cfbcbc472f7?mediaType=mp4)|885,797||18+|united states|US||

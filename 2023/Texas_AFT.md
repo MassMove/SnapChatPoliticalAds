@@ -1,4 +1,7 @@
 ## 2023 - Texas AFT 
+Spent: 1,920.00
+Impressions: 928,091
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Corsair Campaigns|1,186.00 USD|Texas AFT|[0](https://www.snap.com/political-ads/asset/0266962d4dd24915d66e0b74a0666737c567886218553bd32933fea544ca06a2?mediaType=mp4)|606,589||18+|united states|US||

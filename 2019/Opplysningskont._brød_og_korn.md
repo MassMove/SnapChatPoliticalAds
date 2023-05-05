@@ -1,4 +1,7 @@
 ## 2019 - Opplysningskont. brød og korn 
+Spent: 3,443.00
+Impressions: 1,758,294
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Opplysningskontoret for Brød og Korn|2,172.00 USD|Opplysningskont. brød og korn|[0](https://www.snap.com/political-ads/asset/ce82fcebeb177d24f72c2610d9a59da953045244721bf94bff339337f8eba926?mediaType=mp4)|1,379,141|||norway|"Skokleheia 32,NESODDTANGEN,1452,NO"||

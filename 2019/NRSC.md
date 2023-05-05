@@ -1,4 +1,7 @@
 ## 2019 - NRSC 
+Spent: 8,156.00
+Impressions: 2,106,617
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Targeted Victory  LLC|2,960.00 USD|NRSC|[0](https://www.snap.com/political-ads/asset/434d52ad8d082364d3857609a4c49ef2e3927e12e869b526a3c15eac18dcab8a?mediaType=mp4)|794,956||18+|united states|"1100 Wilson Blvd, 10th Floor,Arlington,22209,US"||

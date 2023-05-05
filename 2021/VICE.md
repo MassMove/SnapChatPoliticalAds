@@ -1,4 +1,7 @@
 ## 2021 - VICE 
+Spent: 5,303.00
+Impressions: 3,754,816
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |VICE|936.00 EUR|VICE|[0](https://www.snap.com/political-ads/asset/bbf05b6e81438d538dfa85aa7be69f6c1d0808783978b38d3e27b083276a3379?mediaType=mp4)|855,976||18-35|netherlands|"Reguliersdwarsstraat 90,Amsterdam,1017BN,NL"|Helping young people choosing who they vote on|

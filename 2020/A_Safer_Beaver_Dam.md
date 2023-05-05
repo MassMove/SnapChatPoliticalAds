@@ -1,4 +1,7 @@
 ## 2020 - A Safer Beaver Dam 
+Spent: 892.00
+Impressions: 192,639
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |A Safer Beaver Dam|350.00 USD|A Safer Beaver Dam|[0](https://www.snap.com/political-ads/asset/37f7544d6db35504bc56b4d042d835cf1dd8e47141d0ed6cb7ae77019ada516d?mediaType=jpeg)|67,602||17+|united states|US|Beaver Dam Public Safety Referendum|

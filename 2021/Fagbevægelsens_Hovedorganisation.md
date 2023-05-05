@@ -1,4 +1,7 @@
 ## 2021 - Fagbevægelsens Hovedorganisation 
+Spent: 144,995.00
+Impressions: 4,840,723
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mercantila A/S|19,783.00 DKK|Fagbevægelsens Hovedorganisation|[0](https://www.snap.com/political-ads/asset/9199029f01c4aa286b57c3cefd22f0c92190e001313f27786fccabc22697c890?mediaType=mp4)|1,508,503|||denmark|"Borgergade 6, 5. sal,København S,1300,DK"||

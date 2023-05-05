@@ -1,4 +1,7 @@
 ## 2020 - Unicorn Wealth 
+Spent: 173.00
+Impressions: 84,940
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |RxB Marketing Agency|49.00 USD|Unicorn Wealth|[0](https://www.snap.com/political-ads/asset/21a6575db2df1188668f2daf2909935e2cf0c9a3b9020403548417a42f9c5e0f?mediaType=png)|33,114||21+|united states|"4850 Libby Court,North Port,34287,US"||

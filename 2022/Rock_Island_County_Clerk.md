@@ -1,4 +1,7 @@
 ## 2022 - Rock Island County clerk 
+Spent: 595.00
+Impressions: 249,197
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Media Link  Inc.|207.00 USD|Rock Island County clerk|[0](https://www.snap.com/political-ads/asset/94d3ca88c259583544ab2c5862df1136aafd07cd37c34949570e2b2423868cbe?mediaType=mp4)|90,671||17+|united states|"1902 17th Street,Rock Island,61201,US"||

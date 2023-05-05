@@ -1,4 +1,7 @@
 ## 2020 - CDHS Office of Behavioral Health 
+Spent: 12,180.00
+Impressions: 2,652,433
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|1,141.00 USD|CDHS Office of Behavioral Health|[0](https://www.snap.com/political-ads/asset/7599940ec08acb8005beca1e4d6c3f3a59161ad5399730245947f897b9526a42?mediaType=mp4)|279,416||18+|united states|"1575 Sherman St,Denver,80203,US"||

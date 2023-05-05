@@ -1,4 +1,7 @@
 ## 2021 - Canada's New Democratic Party 
+Spent: 64,894.00
+Impressions: 29,081,712
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Metric|42,770.00 CAD|Canada's New Democratic Party|[0](https://www.snap.com/political-ads/asset/f6300eb2df2b1590993f71f6e32b81d8e91361294d7d022590e6003a10a98dd2?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/8dd6b4210e04285794c0fbf27fb88db3c459a47ceec623163d9f0e3143fbc93b?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/5e990ebae12af84ce9ff1bbe17bd10ca7c63e8e7d44192b03f2c9bb9537e77fe?mediaType=png),[3](https://www.snap.com/political-ads/asset/3d65706894d4eab61dc7d83f7c67aac2684b41c06841a4e6d56f0d0bb1b0b112?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/c14fc302166e6c10e39d0608773d0f39ccabc301eeefa621a4bd0f3bff2d14e3?mediaType=mp4),[5](https://www.snap.com/political-ads/asset/6f5b02cfca495f5df03bf2fffe08d54a043a54c17a92706095213cad6879b5a0?mediaType=mp4),[6](https://www.snap.com/political-ads/asset/eb1189feca48fd880abb3bbdf6ab48596e02a884efe87ae6af2a89a36ae96f4e?mediaType=mp4)|22,643,568||39-|canada|"2148 Eton St,Vancouver,V5L1C7,CA"|New Democratic Party of Canada|

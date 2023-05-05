@@ -1,4 +1,7 @@
 ## 2021 - Fight for $15 
+Spent: 10,921.00
+Impressions: 5,387,674
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|5,098.00 USD|Fight for $15|[0](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|3,003,316||16+|united states|"1901 L St NW,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2021 - Sorenson for Sheboygan 
+Spent: 341.00
+Impressions: 59,250
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sorenson for Sheboygan|173.00 USD|Sorenson for Sheboygan|[0](https://www.snap.com/political-ads/asset/48815bee6d648ea41ff8c25619f6b4b46bbdd7bbf2dd6190f243c31141a257e7?mediaType=jpeg)|29,741||18+|united states|US|Ryan Sorenson|

@@ -1,4 +1,7 @@
 ## 2022 - Building Back Together 
+Spent: 13,128.00
+Impressions: 626,499
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|1,486.00 USD|Building Back Together|[0](https://www.snap.com/political-ads/asset/036b220d2f44a076fc1deae3b6b518af47d1478600cf5b306ab50389e0d99c67?mediaType=mp4)|136,389||18-35|united states|US|Student Debt Relief|

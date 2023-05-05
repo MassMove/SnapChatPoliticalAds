@@ -1,4 +1,7 @@
 ## 2021 - Supermajority 
+Spent: 2,186.00
+Impressions: 294,836
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|426.00 USD|Supermajority|[0](https://www.snap.com/political-ads/asset/7ea6ce9cf83536aca5b201933aad43c7bb412b56fc130b6c69d5bdef4eb64d75?mediaType=jpg)|40,787|FEMALE|18+|united states|"PO Box 128,Mill Valley,94942,US"|Supermajority|

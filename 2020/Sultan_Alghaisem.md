@@ -1,4 +1,7 @@
 ## 2020 - Sultan Alghaisem 
+Spent: 1,382.00
+Impressions: 812,881
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sultan Alshammari|483.00 USD|Sultan Alghaisem|[0](https://www.snap.com/political-ads/asset/4e444409d8cb85c9d51c4f7331f60e81f373f7c0dbb90cef6579469d5be01f5d?mediaType=jpeg)|478,485|||kuwait|"B2 S7 H28,Oyun,00121,KW"|Sultan Algaisem|

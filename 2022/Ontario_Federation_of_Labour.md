@@ -1,4 +1,7 @@
 ## 2022 - Ontario Federation of Labour 
+Spent: 5,753.00
+Impressions: 710,586
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Point Blank Creative|2,214.00 CAD|Ontario Federation of Labour|[0](https://www.snap.com/political-ads/asset/802a3644f3abc3b2616b9a511480da010f0431d9a8dcca8ba4901e91cef65d42?mediaType=png)|299,201|FEMALE|18-35|canada|"505 Hamilton St., Room 301,Vancouver,V6B 2R1,CA"||

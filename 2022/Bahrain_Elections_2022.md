@@ -1,4 +1,7 @@
 ## 2022 - Bahrain Elections 2022 
+Spent: 744.00
+Impressions: 3,311,069
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bahrain Elections|300.00 USD|Bahrain Elections 2022|[0](https://www.snap.com/political-ads/asset/454b256c28bc0626240d8f6b80798024914dfc46638bbb5fec2a0bcdec3cbda9?mediaType=mp4)|1,934,580||21+|bahrain|SA||

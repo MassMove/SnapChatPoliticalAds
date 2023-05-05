@@ -1,4 +1,7 @@
 ## 2021 - Gretchen Whitmer for Governor 
+Spent: 133.00
+Impressions: 23,953
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|19.00 USD|Gretchen Whitmer for Governor|[0](https://www.snap.com/political-ads/asset/c4b6583d619560ef85135bdc88155fe0ee911d8b102ca9e9fc0c6cdd20be9b6f?mediaType=mp4)|5,787||18+|united states|"1324 Spaight St,Madison,53703,US"||

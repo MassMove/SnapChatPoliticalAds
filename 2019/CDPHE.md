@@ -1,4 +1,7 @@
 ## 2019 - CDPHE 
+Spent: 32,795.00
+Impressions: 12,240,003
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|1,746.00 USD|CDPHE|[0](https://www.snap.com/political-ads/asset/e0db9d283b5a0c1e433cb7ea0ad5cd98807114b416a2f7942613ed5e27efe038?mediaType=mp4)|905,217||16-|united states|"4300 Cherry Creek S Dr,Denver,80246,US"||

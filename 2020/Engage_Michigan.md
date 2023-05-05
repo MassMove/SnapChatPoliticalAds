@@ -1,4 +1,7 @@
 ## 2020 - Engage Michigan 
+Spent: 94,465.00
+Impressions: 12,666,311
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|39,117.00 USD|Engage Michigan|[0](https://www.snap.com/political-ads/asset/2ad5a84e3fad05dd1168d8050b9f856f53317b157610fb7cd20301f2110cc59f?mediaType=mp4)|4,142,739||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Engage Michigan|

@@ -1,4 +1,7 @@
 ## 2018 - Paid For by Trooien For USSenate 
+Spent: 10,555.00
+Impressions: 4,159,265
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LoudDoor  LLC|3,248.00 USD|Paid For by Trooien For USSenate|[0](https://www.snap.com/political-ads/asset/9ff8ee20d0aaf12c42e6fce2f19cf2d241480963d343ff2faaaaed6bc80fd4ac?mediaType=mp4)|1,526,677||18+|united states|"1 MONCKTON BLVD,Columbia,29206,US"||

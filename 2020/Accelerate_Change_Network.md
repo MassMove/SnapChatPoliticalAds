@@ -1,4 +1,7 @@
 ## 2020 - Accelerate Change Network 
+Spent: 777.00
+Impressions: 325,045
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Accelerate Change|60.00 USD|Accelerate Change Network|[0](https://www.snap.com/political-ads/asset/ebd56525ac3f1bb41fd17dcef8a3f1502de618963627bd704c3e6d14a7dda5bd?mediaType=mp4)|36,192||18+|united states|US||

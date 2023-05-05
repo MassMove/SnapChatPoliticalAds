@@ -1,4 +1,7 @@
 ## 2022 - MAJORITY FORWARD FUND 
+Spent: 106,749.00
+Impressions: 26,483,037
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MVAR Media|27,575.00 USD|MAJORITY FORWARD FUND|[0](https://www.snap.com/political-ads/asset/7723b68e176609e4dc8e486a9920fb5a869822926b0a4e338408332dfd908ca1?mediaType=png)|6,904,306||18-45|united states|"1421 Prince St Suite 320,Alexandria,22314,US"|Majority Forward|

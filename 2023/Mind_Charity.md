@@ -1,4 +1,7 @@
 ## 2023 - Mind Charity 
+Spent: 920.00
+Impressions: 821,785
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Medialab Group|178.00 GBP|Mind Charity|[0](https://www.snap.com/political-ads/asset/d380f672a7b6db8a037b3544d32378fd0fd52f5e2d43c6082d8511044072a60d?mediaType=mp4)|234,241||18-24|united kingdom|"3-4a Little Portland Street,London,W1W 7JB,GB"||

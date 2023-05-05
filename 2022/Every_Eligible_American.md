@@ -1,4 +1,7 @@
 ## 2022 - Every Eligible American 
+Spent: 156,179.00
+Impressions: 8,467,916
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Every Eligible American|32,545.00 USD|Every Eligible American|[0](https://www.snap.com/political-ads/asset/65c1946b28c77bb89590573174853cf148dbed14c1737d74f124e75758f96414?mediaType=mp4)|1,880,898||18+|united states|"600 Pennsylvania Ave SE #15180  ,Washington,20003,US"||

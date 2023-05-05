@@ -1,4 +1,7 @@
 ## 2022 - Gouvernement 
+Spent: 88,703.00
+Impressions: 41,202,300
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|10,792.00 EUR|Gouvernement|[0](https://www.snap.com/political-ads/asset/6894355ecb28c930ab861aaf486f043d6f2618829d107e5aae893abb1debf107?mediaType=mp4)|5,881,377||18+|france|"67 Av. de Wagram,Paris,75017,FR"||

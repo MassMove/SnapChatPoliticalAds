@@ -1,4 +1,7 @@
 ## 2020 - Venstre 
+Spent: 2,032.00
+Impressions: 1,341,637
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Venstre|353.00 USD|Venstre|[0](https://www.snap.com/political-ads/asset/fec02485253e49e6caf908ede87637f74438a047725861d729295075b650c0a1?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/842fd6d96386dbf4ff59b1cb5ab8bca29a05365ca884f06c5458ff5a24704c88?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/71f04541d776a57f5686e501b55da1b7a93f5407af1ef850ca3aa135b4001e0b?mediaType=mp4)|907,044||17-24|norway|NO||

@@ -1,4 +1,7 @@
 ## 2022 - Leanne for PA 
+Spent: 2,973.00
+Impressions: 121,456
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|1,349.00 USD|Leanne for PA|[0](https://www.snap.com/political-ads/asset/d6d7c7e1bd495e96bac0084e99be72302ff425ab3075298f7ea32051d364bf45?mediaType=png)|54,995||18+|united states|"919 Central Ave,Auburn,68305,US"|Leanne for PA|

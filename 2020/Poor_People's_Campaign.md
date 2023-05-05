@@ -1,4 +1,7 @@
 ## 2020 - Poor People's Campaign 
+Spent: 14,031.00
+Impressions: 1,896,712
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|9,999.00 USD|Poor People's Campaign|[0](https://www.snap.com/political-ads/asset/4e606931ef1b515e5b8931434aaa3d1586e0acbfa6a61252a6b6c68e713d2c97?mediaType=mp4)|1,004,259||18+|united states|US||

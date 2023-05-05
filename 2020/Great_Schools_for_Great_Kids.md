@@ -1,4 +1,7 @@
 ## 2020 - Great Schools for Great Kids 
+Spent: 3,364.00
+Impressions: 1,227,166
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|325.00 USD|Great Schools for Great Kids|[0](https://www.snap.com/political-ads/asset/b0c84fb8149854b45897e231c36ad3368896f201cbb27971e9480ae04cdba0fe?mediaType=jpg)|123,822||18+|united states|"919 Central Ave,Auburn,68305,US"||

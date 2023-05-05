@@ -1,4 +1,7 @@
 ## 2020 - Hussein Mazeed AlMutairi 
+Spent: 573.00
+Impressions: 255,046
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Raybal Group|473.00 USD|Hussein Mazeed AlMutairi|[0](https://www.snap.com/political-ads/asset/52d63c3475fecad9877da6d369cd3a2fa8141a9341d8c1e1715d4665d66fcc66?mediaType=mov)|225,883||20+|kuwait|"Abdullah AlMubarak St,Murqab,15000,KW"|Hussein Mazeed AlMutairi|

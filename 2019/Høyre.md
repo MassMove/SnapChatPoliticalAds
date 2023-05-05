@@ -1,4 +1,7 @@
 ## 2019 - Høyre 
+Spent: 6,985.00
+Impressions: 3,436,476
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Høyre|2,473.00 EUR|Høyre|[0](https://www.snap.com/political-ads/asset/a78e6ad7120dec666436b30f3b2bf19a45c50f08b2d990c918a10feb51db4a05?mediaType=mp4)|1,685,324||16+|norway|"Stortingsgaten 20,Oslo,0161,NO"||

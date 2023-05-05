@@ -1,4 +1,7 @@
 ## 2020 - Wisconsin Conservation Voters 
+Spent: 11,357.00
+Impressions: 1,678,634
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,865.00 USD|Wisconsin Conservation Voters|[0](https://www.snap.com/political-ads/asset/8c0699e5b70aaf1ec26d3a70a37503a01d0219f8fcb9b6087e15df041c1e2126?mediaType=jpg)|301,376||18+|united states|US||

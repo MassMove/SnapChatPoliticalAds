@@ -1,4 +1,7 @@
 ## 2022 - PPNCS 
+Spent: 9,468.00
+Impressions: 1,228,868
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Happy Medium|1,471.00 USD|PPNCS|[0](https://www.snap.com/political-ads/asset/8be8c98f31f747988b9c379b192ca75709d6e6c003855a923cc1bd6413cd50c2?mediaType=png)|368,984||18-24|united states|"104 SW 4th St,, Des Moines,50309,US"||

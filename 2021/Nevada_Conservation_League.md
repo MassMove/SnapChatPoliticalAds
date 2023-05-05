@@ -1,4 +1,7 @@
 ## 2021 - Nevada Conservation League 
+Spent: 1,542.00
+Impressions: 266,965
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Spake Media|722.00 USD|Nevada Conservation League|[0](https://www.snap.com/political-ads/asset/d0508d1f0fce69e885b651c8feed48d27f47f760d27aaea33d8c0a03efb0a7c0?mediaType=jpg)|135,343||18+|united states|CA||

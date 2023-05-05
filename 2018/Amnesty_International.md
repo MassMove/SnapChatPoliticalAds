@@ -1,4 +1,7 @@
 ## 2018 - Amnesty International 
+Spent: 866.00
+Impressions: 760,564
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amnesty International Switzerland|349.00 EUR|Amnesty International|[0](https://www.snap.com/political-ads/asset/c302d8757d04c452ae3c1d036b7b597212837482571d50d2c4ac92f7aa43f085?mediaType=mp4)|295,307||18+|switzerland|CH||

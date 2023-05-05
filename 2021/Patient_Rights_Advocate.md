@@ -1,4 +1,7 @@
 ## 2021 - Patient Rights Advocate 
+Spent: 9,823.00
+Impressions: 1,557,816
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|7,061.00 USD|Patient Rights Advocate|[0](https://www.snap.com/political-ads/asset/f73f6a1148e3b84ff82865fce455aa746a60b38dc7b0a942fdd9cb54a1c93a38?mediaType=png)|1,098,399||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

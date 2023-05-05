@@ -1,4 +1,7 @@
 ## 2022 - Murat Kalmis FDP 
+Spent: 793.00
+Impressions: 86,319
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MSO Medien-Service GmbH & Co. KG|261.00 EUR|Murat Kalmis FDP|[0](https://www.snap.com/political-ads/asset/ac908ee71aa7339c7cd2f61346204e306e11174d71c6e3e4a5731f8a48ec19ed?mediaType=png)|31,097||18-25|germany|DE|Murat Kalmis|

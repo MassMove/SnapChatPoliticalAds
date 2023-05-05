@@ -1,4 +1,7 @@
 ## 2020 - Government of Canada 
+Spent: 54,666.00
+Impressions: 7,776,625
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|6,634.00 CAD|Government of Canada|[0](https://www.snap.com/political-ads/asset/26f2993a39d83ab5eb05e74f9a48b7fb886943bf547c4e93fc11871c91c19d35?mediaType=mp4)|2,615,770||18-34|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

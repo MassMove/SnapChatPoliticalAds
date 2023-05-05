@@ -1,4 +1,7 @@
 ## 2021 - Vote No to Protect Maine 
+Spent: 50,292.00
+Impressions: 4,198,435
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|5,921.00 USD|Vote No to Protect Maine|[0](https://www.snap.com/political-ads/asset/753cbb83ec1d34bd8ccf22a222240aaaeaf90d7b04931c01572c342214b218c4?mediaType=mp4)|496,460||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Vote No To Protect Maine|

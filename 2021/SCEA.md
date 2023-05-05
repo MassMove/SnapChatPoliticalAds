@@ -1,4 +1,7 @@
 ## 2021 - SCEA 
+Spent: 5,401.00
+Impressions: 876,708
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|1,093.00 USD|SCEA|[0](https://www.snap.com/political-ads/asset/a12cdb9d0134d7344b8382847b8293bfc563b08c87cf068331bebf5be3a6d35f?mediaType=mp4)|294,386|||united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"||

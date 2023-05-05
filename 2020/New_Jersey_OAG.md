@@ -1,4 +1,7 @@
 ## 2020 - New Jersey OAG 
+Spent: 1,420.00
+Impressions: 540,456
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Park Circle Technologies|331.00 USD|New Jersey OAG|[0](https://www.snap.com/political-ads/asset/d528a3347cc9c883da9d63a2596119279beb59f8eb3c7489a76949b249da806e?mediaType=jpg)|196,390||20-|united states|"16 Park Cir,Short Hills,07078,US"||

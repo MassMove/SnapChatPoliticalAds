@@ -1,4 +1,7 @@
 ## 2022 - Pennsylvania Department of State 
+Spent: 24,997.00
+Impressions: 1,518,171
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Red House Communications|7,956.00 USD|Pennsylvania Department of State|[0](https://www.snap.com/political-ads/asset/3d3757c341f0706fc5bee67548d86b348077650732a50c4b614739a0287c8fc6?mediaType=mp4)|477,144||18-35|united states|"1908 Sarah Street ,Pittsburgh ,15203,US"|Pennsylvania General Election 2022|

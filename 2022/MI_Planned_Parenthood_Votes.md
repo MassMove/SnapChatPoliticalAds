@@ -1,4 +1,7 @@
 ## 2022 - MI Planned Parenthood Votes 
+Spent: 57,892.00
+Impressions: 5,925,412
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|1,903.00 USD|MI Planned Parenthood Votes|[0](https://www.snap.com/political-ads/asset/fef23a8dc4c2f877e7a70db5f129492ee69dfe03eee4ed35b928fcf084f5bd50?mediaType=mp4)|276,255||18+|united states|"1901 L St NW,Washington,20036,US"|Dana Nessel|

@@ -1,4 +1,7 @@
 ## 2020 - When We All Vote 
+Spent: 16,313.00
+Impressions: 8,074,895
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |When We Vote|4,193.00 USD|When We All Vote|[0](https://www.snap.com/political-ads/asset/aeecf2a4b68718094734967f78a2ef947811c52e39dc3c8021a32766e6e8684d?mediaType=mp4)|1,989,076||18-29|united states|"1156 15th Street NW,Washington,20005,US"|When We All Vote|

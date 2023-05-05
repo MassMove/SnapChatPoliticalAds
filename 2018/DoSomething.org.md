@@ -1,4 +1,7 @@
 ## 2018 - DoSomething.org 
+Spent: 2,420.00
+Impressions: 823,055
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Something  Inc.|639.00 USD|DoSomething.org|[0](https://www.snap.com/political-ads/asset/f03bbe3bac5d97bb6a961fd40e10e71768355137cce77cb979c872dbba51d6a0?mediaType=mp4)|221,449||18-20|united states|"19 West 21st Street, 8th Floor,New York,10010,US"||

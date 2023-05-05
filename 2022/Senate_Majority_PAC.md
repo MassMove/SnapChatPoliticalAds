@@ -1,4 +1,7 @@
 ## 2022 - Senate Majority PAC 
+Spent: 10,797.00
+Impressions: 2,739,276
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|3,751.00 USD|Senate Majority PAC|[0](https://www.snap.com/political-ads/asset/f8742223ec40e185ede996a707a40fb36f7f3d79f6a3f6a104c2a7889d7e8381?mediaType=mp4)|957,189||18+|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2022 - greg urban for mayor 
+Spent: 447.00
+Impressions: 35,459
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Greg Urban For Vadnais Heights Mayor|275.00 USD|greg urban for mayor|[0](https://www.snap.com/political-ads/asset/5d4f4b6852fb2e78f09df0bd6dede0a3efc902e6e0f06d75699a7f84eb150598?mediaType=jpeg)|21,050||18+|united states|US||

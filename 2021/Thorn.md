@@ -1,4 +1,7 @@
 ## 2021 - Thorn 
+Spent: 100,650.00
+Impressions: 42,751,107
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Thorn|10,121.00 USD|Thorn|[0](https://www.snap.com/political-ads/asset/a51d3d78b3610d6b2f9d4b483edc6c9533478427b0f1084bf77d499d3f655c3a?mediaType=mp4)|6,131,755||17-|united states|"222 N. Pacific Coast Highway, 10th Floor,El Segundo,90245,US"||

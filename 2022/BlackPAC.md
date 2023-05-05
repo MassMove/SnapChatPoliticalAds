@@ -1,4 +1,7 @@
 ## 2022 - BlackPAC 
+Spent: 12,600.00
+Impressions: 1,712,773
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|9,232.00 USD|BlackPAC|[0](https://www.snap.com/political-ads/asset/7835f7b2a5df7a398990e84f3bb19013a527c6a526c9ce33d499b6a61e024b76?mediaType=mp4)|1,585,603||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|Georgia 7th District Democratic Primary|

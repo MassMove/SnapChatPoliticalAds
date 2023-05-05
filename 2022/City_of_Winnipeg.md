@@ -1,4 +1,7 @@
 ## 2022 - City of Winnipeg 
+Spent: 1,024.00
+Impressions: 219,589
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |City of Winnipeg|900.00 CAD|City of Winnipeg|[0](https://www.snap.com/political-ads/asset/d83c2a0949312a6779e7c238f4f31250350d9ea609b7c6d89ca0eee3ec18b8df?mediaType=png)|190,453||18+|canada|"510 Main St.,Winnipeg,R3B 1B9,CA"|City of Winnipeg Election 2022|

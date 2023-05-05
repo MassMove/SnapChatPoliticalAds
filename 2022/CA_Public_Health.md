@@ -1,4 +1,7 @@
 ## 2022 - CA Public Health 
+Spent: 40,648.00
+Impressions: 9,990,111
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unified|26,404.00 USD|CA Public Health|[0](https://www.snap.com/political-ads/asset/424f524fa68ded729b779146d120a9c9e1a82a1d1cc80c50353e76f8c314ba3f?mediaType=jpg)|6,911,219||18+||"180 Madison Ave New York,New York,10016,US"||

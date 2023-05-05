@@ -1,4 +1,7 @@
 ## 2022 - Citizens for Al Stirpe 
+Spent: 1,581.00
+Impressions: 258,118
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veracity Media|1,435.00 USD|Citizens for Al Stirpe|[0](https://www.snap.com/political-ads/asset/b7b6a33b94c06b81ff946e65cad0d808e4cf3da663f4c198a87e4e489df7aec2?mediaType=mp4)|233,525||18+|united states|US|Al Stirpe|

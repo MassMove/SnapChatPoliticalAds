@@ -1,4 +1,7 @@
 ## 2020 - Angie Craig for Congress 
+Spent: 5,579.00
+Impressions: 1,093,039
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,518.00 USD|Angie Craig for Congress|[0](https://www.snap.com/political-ads/asset/884e7593449e82d47f0a6afc7cce354e17d5cd1ec158583a30a66dfcca6acf6e?mediaType=mp4)|281,159|MALE|18-28|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Angie Craig for Congress|

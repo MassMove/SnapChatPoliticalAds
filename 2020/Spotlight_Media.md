@@ -1,4 +1,7 @@
 ## 2020 - Spotlight Media 
+Spent: 32.00
+Impressions: 21,948
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Spotlight Media  LLC|20.00 USD|Spotlight Media|[0](https://www.snap.com/political-ads/asset/7329f73675376b61151103aec59666be49b44c5d602d329b228ffbffbcc1e31e?mediaType=mp4)|16,329||25+|united states|"4763 Pescadero Ave,San Diego,92107,US"||

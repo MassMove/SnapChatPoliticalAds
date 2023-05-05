@@ -1,4 +1,7 @@
 ## 2020 - Mokah for Georgia 
+Spent: 434.00
+Impressions: 131,479
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Committee to elect Mokah Jasmine Johnson|293.00 USD|Mokah for Georgia|[0](https://www.snap.com/political-ads/asset/37aea49bc53068bbcec22da0d9ff530e06d4e0bd6fb22f7d94e867fa9e4d499e?mediaType=png)|91,447||18-27|united states|US||

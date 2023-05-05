@@ -1,4 +1,7 @@
 ## 2020 - FRIENDS OF MARK WARNER 
+Spent: 15,566.00
+Impressions: 3,462,368
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Big Lens|3,904.00 USD|FRIENDS OF MARK WARNER|[0](https://www.snap.com/political-ads/asset/f90802bab84bef9bbc07e2c501f52891d8ba5140d8c108ff41205d245e34956f?mediaType=mp4)|1,084,181||18+|united states|"1370 Park Garden Lane,Reston,20194,US"|Senator Mark Warner|

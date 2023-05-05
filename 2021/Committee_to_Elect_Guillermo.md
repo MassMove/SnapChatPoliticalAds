@@ -1,4 +1,7 @@
 ## 2021 - Committee to Elect Guillermo 
+Spent: 249.00
+Impressions: 71,574
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Committee to Elect Guillermo Creamer|100.00 USD|Committee to Elect Guillermo|[0](https://www.snap.com/political-ads/asset/3ed1f90645caadd54556d98a6300fe143de532e6d2d41c861b4a78448459c11b?mediaType=jpeg)|43,440||35-|united states|US|Guillermo Creamer for Worcester City Council|

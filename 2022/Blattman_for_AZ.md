@@ -1,4 +1,7 @@
 ## 2022 - Blattman for AZ 
+Spent: 1,084.00
+Impressions: 67,327
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|367.00 USD|Blattman for AZ|[0](https://www.snap.com/political-ads/asset/0b889fac2b8672cebe0402e8c25fc4a4449f9c8e9cd88b024dfdaf61b1ebc367?mediaType=mp4)|24,033||18+|united states|"1324 Spaight St,Madison,53703,US"|Seth Blattman|

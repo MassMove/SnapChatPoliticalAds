@@ -1,4 +1,7 @@
 ## 2020 - Deplorable T-Shirts 
+Spent: 924.00
+Impressions: 659,460
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GetItOut Industries|123.00 USD|Deplorable T-Shirts|[0](https://www.snap.com/political-ads/asset/4fa0f443ffba9cbe58d6219c800a5717cf787889794167986a517381b03bc207?mediaType=jpeg)|121,623|FEMALE|16+|united states|US||

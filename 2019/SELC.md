@@ -1,4 +1,7 @@
 ## 2019 - SELC 
+Spent: 14,896.00
+Impressions: 23,414,782
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Southern Environmental Law Center|2,200.00 USD|SELC|[0](https://www.snap.com/political-ads/asset/0613eb69b2d729d309e3f4516439b330aa59ee902ce7707c40322175a5f664bc?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/bdf066b7424201575c3592220c512258bd88e1f191805b7a8554a7948a5f809a?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/ec7af4fddbfd3968334bea7180b1bfbbbaf340031c4aad1970d878c831f0a4eb?mediaType=mp4)|2,544,679|||united states|US||

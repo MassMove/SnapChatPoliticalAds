@@ -1,4 +1,7 @@
 ## 2021 - Live Action Inc. 
+Spent: 86,775.00
+Impressions: 11,684,427
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Live Action|8,671.00 USD|Live Action Inc.|[0](https://www.snap.com/political-ads/asset/7d24d2da9574f96e5007c2edd49fdea1ee7f82cdda23e14e898fc01d8d29c1b6?mediaType=jpg)|1,391,610||25-39|united states|US||

@@ -1,4 +1,7 @@
 ## 2019 - Greater Half 
+Spent: 678.00
+Impressions: 105,338
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Greater Half|383.00 USD|Greater Half|[0](https://www.snap.com/political-ads/asset/ce0e285d9718da0c178da5a0479bd88c60ee4e96a8f266bbf44db94f450db6e9?mediaType=mp4)|59,234|||united states|US|Greater Half|

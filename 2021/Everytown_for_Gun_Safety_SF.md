@@ -1,4 +1,7 @@
 ## 2021 - Everytown for Gun Safety SF 
+Spent: 4,499.00
+Impressions: 1,372,095
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,894.00 USD|Everytown for Gun Safety SF|[0](https://www.snap.com/political-ads/asset/dafc9a393a27c5589aa117f3fb64ca85a162fa0dc5032b7516e4b29b295083a3?mediaType=png)|579,036|||united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

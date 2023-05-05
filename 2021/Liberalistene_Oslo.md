@@ -1,4 +1,7 @@
 ## 2021 - Liberalistene Oslo 
+Spent: 18,997.00
+Impressions: 362,710
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Liberalistene Oslo|9,998.00 NOK|Liberalistene Oslo|[0](https://www.snap.com/political-ads/asset/ed014b3e1b86a4654dd849fddf08f6c0632658075cc7a33c191fbd98f81d47aa?mediaType=jpeg)|192,394||18+|norway|NO|Per Sandberg|

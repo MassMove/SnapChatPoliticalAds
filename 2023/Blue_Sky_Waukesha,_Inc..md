@@ -1,4 +1,7 @@
 ## 2023 - Blue Sky Waukesha, Inc. 
+Spent: 5,749.00
+Impressions: 650,350
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blue Sky Waukesha|1,750.00 USD|Blue Sky Waukesha, Inc.|[0](https://www.snap.com/political-ads/asset/52a69cfb007a6a4a37444d91f4cc529d93e638f9a50fec5db8446fb91d59a788?mediaType=mp4)|148,421||18+|united states|US|Wisconsin 2023 General Election|

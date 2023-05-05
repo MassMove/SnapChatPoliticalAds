@@ -1,4 +1,7 @@
 ## 2023 - Provincie Noord-Brabant 
+Spent: 3,740.00
+Impressions: 2,684,392
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Provincie Noord-Brabant|989.00 EUR|Provincie Noord-Brabant|[0](https://www.snap.com/political-ads/asset/cbca43a339b8b5fcda8d422d47f15e34419e287ffaf7dd9569cce6b4a2292e6a?mediaType=mp4)|713,912||18-25|netherlands|"Brabantlaan 1,Den Bosch,5217 TV,NL"|Provincie Noord Brabant|

@@ -1,4 +1,7 @@
 ## 2018 - Melissa Moore4MNHouse Committee 
+Spent: 184.00
+Impressions: 85,008
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Melissa Moore 4 MN House|100.00 USD|Melissa Moore4MNHouse Committee|[0](https://www.snap.com/political-ads/asset/10b5bdd641f4895000379265f7a281ea6219436019eca1c830363a02f9d97b03?mediaType=png)|48,199||18+|united states|US||

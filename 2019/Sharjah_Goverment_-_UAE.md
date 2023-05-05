@@ -1,4 +1,7 @@
 ## 2019 - Sharjah Goverment - UAE 
+Spent: 1,476.00
+Impressions: 559,131
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sharjah Broadcasting Authority|993.00 USD|Sharjah Goverment - UAE|[0](https://www.snap.com/political-ads/asset/c283dcff1b64e9f24c87bcec76d7eacdaf44686f76ca81154bcbf1fb6ccf0fcb?mediaType=png)|382,851|||united arab emirates|"sharjah,sharjah,00971,AE"||

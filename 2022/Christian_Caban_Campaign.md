@@ -1,4 +1,7 @@
 ## 2022 - Christian Caban Campaign 
+Spent: 5,607.00
+Impressions: 528,786
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Christian Caban Campaign|1,454.00 USD|Christian Caban Campaign|[0](https://www.snap.com/political-ads/asset/44ad06246301a459376d490c1ab5093e88b651351ce04f38d22528dc33b4d554?mediaType=mp4)|143,955||20-30|united states|US|Christian Caban|

@@ -1,4 +1,7 @@
 ## 2022 - Socialdemokraterna - Kalmar Län 
+Spent: 1,791.00
+Impressions: 415,277
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Context Media|436.00 EUR|Socialdemokraterna - Kalmar Län|[0](https://www.snap.com/political-ads/asset/6d667e6be249e759cd021840a7c9f806da1cde7077f05b665892b7a6a74d99cf?mediaType=mp4)|87,051||17+|sweden|"Västra Norrlandsgatan 7 ,UMEÅ,90327,SE"||

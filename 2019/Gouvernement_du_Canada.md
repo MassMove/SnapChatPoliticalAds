@@ -1,4 +1,7 @@
 ## 2019 - Gouvernement du Canada 
+Spent: 124,115.00
+Impressions: 48,643,887
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|18,612.00 CAD|Gouvernement du Canada|[0](https://www.snap.com/political-ads/asset/e07463c2c8a4049d007be7035ea2de2441c930955ff1566449a1ce9c016407f9?mediaType=mp4)|8,418,822||18-|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

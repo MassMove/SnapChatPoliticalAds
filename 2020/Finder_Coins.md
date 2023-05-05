@@ -1,4 +1,7 @@
 ## 2020 - Finder Coins 
+Spent: 91.00
+Impressions: 23,959
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Media Sting|9.00 USD|Finder Coins|[0](https://www.snap.com/political-ads/asset/8c41bdebd81abc825af5ed8b26f33bf76f4917f8de78082e3d89ddecd7716beb?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/8ba8311339d3c73f39ae3f80fdd18871df8ff43dc930ad4e64f80dbf68b7227e?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/55340be6ed555fdefcf6b60e75a47325d83d07519961a89e7dc547c04d56d0c6?mediaType=mp4)|3,933||20+|united states|NZ|Joe Biden|

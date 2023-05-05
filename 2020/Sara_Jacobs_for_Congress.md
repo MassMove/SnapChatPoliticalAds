@@ -1,4 +1,7 @@
 ## 2020 - Sara Jacobs for Congress 
+Spent: 10,689.00
+Impressions: 1,627,053
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|3,312.00 USD|Sara Jacobs for Congress|[0](https://www.snap.com/political-ads/asset/c34cb1d601613c012899f434efabb1d54404f1ec9726095004e411fec72a2ed0?mediaType=mp4)|603,066||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Sara Jacobs|

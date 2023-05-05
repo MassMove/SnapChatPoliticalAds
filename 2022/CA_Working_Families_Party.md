@@ -1,4 +1,7 @@
 ## 2022 - CA Working Families Party 
+Spent: 4,648.00
+Impressions: 1,198,257
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Momentum Campaigns  LLC|700.00 USD|CA Working Families Party|[0](https://www.snap.com/political-ads/asset/e643522a04aa1bfc279856a453c6bcc733f5f4e3eb7e7191aa823143a4c46be3?mediaType=png)|281,986||18-30|united states|"1835 7th St. NE, #272,Washington,20001,US"|Alex Lee for State Assembly|

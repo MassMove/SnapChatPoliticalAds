@@ -1,4 +1,7 @@
 ## 2020 - University of British Columbia 
+Spent: 4,967.00
+Impressions: 1,729,778
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MediaCom Canada|3,320.00 CAD|University of British Columbia|[0](https://www.snap.com/political-ads/asset/1307b507c2414ccfa468b85c25454a03e4cdbed11b6539f37c086bf48fcbe75d?mediaType=mp4)|1,121,298||16-25|united states|"155 Queens Quay East,Toronto,M5A 0W4,CA"||

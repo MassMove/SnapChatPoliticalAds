@@ -1,4 +1,7 @@
 ## 2022 - Supermajority 
+Spent: 4,997.00
+Impressions: 219,231
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|882.00 USD|Supermajority|[0](https://www.snap.com/political-ads/asset/66b0541bec320b0d3a3ce3bcc62152c938343daa5d6385c689009173c9daf81c?mediaType=mov)|40,489|FEMALE|18-35|united states|"1901 L St NW,Washington,20036,US"||

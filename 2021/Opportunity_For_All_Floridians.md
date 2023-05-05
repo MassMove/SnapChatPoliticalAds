@@ -1,4 +1,7 @@
 ## 2021 - Opportunity For All Floridians 
+Spent: 969.00
+Impressions: 301,210
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Opportunity For All Floridians|600.00 USD|Opportunity For All Floridians|[0](https://www.snap.com/political-ads/asset/42de012c3e2f26bd78008a33d4ebe862e74dfdf36a681aea7977cb05be48cd9a?mediaType=mp4)|156,532|||united states|"1430 S Dixie Highway, STE 104 #144,Coral Gables,33146,US"||

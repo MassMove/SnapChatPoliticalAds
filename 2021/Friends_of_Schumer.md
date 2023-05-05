@@ -1,4 +1,7 @@
 ## 2021 - Friends of Schumer 
+Spent: 52,741.00
+Impressions: 3,755,984
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|11,123.00 USD|Friends of Schumer|[0](https://www.snap.com/political-ads/asset/9762048ce6f86ede75e9c6489a7418164973d67a574088f59e02ef62f937246c?mediaType=mp4)|768,727||18-39|united states|"2054 University Ave STE 600,Berkeley,94704,US"|Chuck Schumer|

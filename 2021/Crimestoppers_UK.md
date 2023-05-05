@@ -1,4 +1,7 @@
 ## 2021 - Crimestoppers UK 
+Spent: 4,023.00
+Impressions: 2,579,775
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Edison Media|3,292.00 GBP|Crimestoppers UK|[0](https://www.snap.com/political-ads/asset/e9c50d9a9355849c834171d39e6e898b3ac6ba047af7ded785c4880fab216cc2?mediaType=mp4)|2,153,391|||united kingdom|GB||

@@ -1,4 +1,7 @@
 ## 2019 - Justdiggit 
+Spent: 90.00
+Impressions: 73,093
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Timm & Pimm|23.00 EUR|Justdiggit|[0](https://www.snap.com/political-ads/asset/74132c661d5b392c3e4bbdc6a987792dbe5794d9165d47eec63b8861636a6a83?mediaType=mp4)|24,467||34-|united kingdom|NL||

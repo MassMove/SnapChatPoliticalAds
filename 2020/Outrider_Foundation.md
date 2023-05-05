@@ -1,4 +1,7 @@
 ## 2020 - Outrider Foundation 
+Spent: 8,778.00
+Impressions: 1,060,310
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Outrider Foundation|1,043.00 USD|Outrider Foundation|[0](https://www.snap.com/political-ads/asset/cafaad811fb9cdd1f08d24ef94d4943ace8c61dbfb9d59ea606924890a30c835?mediaType=mp4)|142,438||18-24|united states|US|Mail in Voting|

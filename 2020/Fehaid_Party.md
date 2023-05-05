@@ -1,4 +1,7 @@
 ## 2020 - Fehaid Party 
+Spent: 444.00
+Impressions: 289,267
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fehaid Party|294.00 USD|Fehaid Party|[0](https://www.snap.com/political-ads/asset/8a9cc75d1e3d311e534fd8245c7c00559caab83a7f1f7e2f81a4138b7797d3bb?mediaType=mp4)|185,923||21+|kuwait|"Block 1 street 139 house2,Jaber Alahmad,00000,KW"|Fehaid Party|

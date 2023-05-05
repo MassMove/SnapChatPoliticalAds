@@ -1,4 +1,7 @@
 ## 2020 - Unsmoke Canada 
+Spent: 21,517.00
+Impressions: 8,382,305
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Data Sciences|11,525.00 CAD|Unsmoke Canada|[0](https://www.snap.com/political-ads/asset/4d87e9c313563658ef5164cf241d2a70525c7344de73b645d98f8854d0a497fb?mediaType=png)|5,074,769||19+|canada|"423 rue St-Nicolas suite 400,Montreal,H2Y2P4,CA"||

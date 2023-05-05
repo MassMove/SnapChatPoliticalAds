@@ -1,4 +1,7 @@
 ## 2021 - Project 55 
+Spent: 76.00
+Impressions: 44,785
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Project 55|50.00 USD|Project 55|[0](https://www.snap.com/political-ads/asset/a3d1619636e61b29bf0935675c34b7b13128ce0903f26e1a20fac2ad8baa5a2f?mediaType=jpeg)|25,082|||united states|"251 brandon 411,san jose,95134,US"|Give Demorats the tools to pass legislation|

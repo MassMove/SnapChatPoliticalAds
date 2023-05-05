@@ -1,4 +1,7 @@
 ## 2020 - Progress For North Carolina 
+Spent: 7,997.00
+Impressions: 3,547,980
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BuzzFeed Inc.|2,654.00 USD|Progress For North Carolina|[0](https://www.snap.com/political-ads/asset/bb1a4911d6ed2b7662fba6a4610c1773859fae7bdf03b4c3c9119afa163768ca?mediaType=mp4)|1,145,022||18+|united states|"111 E 18th St.,,,New York,10003,US"|Progress NC|

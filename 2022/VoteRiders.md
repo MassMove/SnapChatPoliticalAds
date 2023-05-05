@@ -1,4 +1,7 @@
 ## 2022 - VoteRiders 
+Spent: 23,630.00
+Impressions: 1,883,137
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |VoteRiders|4,824.00 USD|VoteRiders|[0](https://www.snap.com/political-ads/asset/591dd69f7b2def5cd23a8ddf79953df9a75bb1b80f04480d5e4bbd15f4c26092?mediaType=mp4)|374,832||18-29|united states|US||

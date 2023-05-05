@@ -1,4 +1,7 @@
 ## 2022 - Iowa Secretary of State 
+Spent: 999.00
+Impressions: 430,273
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Group C|518.00 USD|Iowa Secretary of State|[0](https://www.snap.com/political-ads/asset/11ae28803b2761d643a49fc32b6d1322232ab4c8fc7978151b2ec468086afd12?mediaType=jpg)|227,938||18+|united states|US|Iowa Secretary of State|

@@ -1,4 +1,7 @@
 ## 2020 - Elad Gross for Missouri 
+Spent: 388.00
+Impressions: 175,088
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Elad Gross for Missouri|135.00 USD|Elad Gross for Missouri|[0](https://www.snap.com/political-ads/asset/34543caea59b573090172a18042e21fca49298ab088f2d4ba658a465549acdbb?mediaType=jpeg)|66,413||18-39|united states|US|Elad Gross|

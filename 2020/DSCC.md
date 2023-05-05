@@ -1,4 +1,7 @@
 ## 2020 - DSCC 
+Spent: 57,619.00
+Impressions: 11,290,895
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|26,290.00 USD|DSCC|[0](https://www.snap.com/political-ads/asset/baf4e607cbee107a44eab0c07f1f3529cba8d1125002cc3cce814cba1be383e1?mediaType=jpg)|6,153,891||18-40|united states|US||

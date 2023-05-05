@@ -1,4 +1,7 @@
 ## 2019 - Den Norske Kirke 
+Spent: 5,798.00
+Impressions: 3,999,362
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|3,000.00 EUR|Den Norske Kirke|[0](https://www.snap.com/political-ads/asset/d1ac2f3540c088e0fecf11d9f096f2a9db8fb8b2bae14ade954bbd00838b8a1c?mediaType=png)|1,904,856||18+|norway|"Kongens gate 6,Oslo,0153,NO"||

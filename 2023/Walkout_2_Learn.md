@@ -1,4 +1,7 @@
 ## 2023 - Walkout 2 Learn 
+Spent: 58.00
+Impressions: 31,833
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Walkout 2 Learn|14.00 USD|Walkout 2 Learn|[0](https://www.snap.com/political-ads/asset/d18783dee350a3fc147010b9f7f87b976b994a9fc4efeecbeaa0a2f320e6d444?mediaType=mp4)|8,075||22-|united states|"1302 Waugh Dr ,Houston,77019,US"||

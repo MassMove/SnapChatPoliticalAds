@@ -1,4 +1,7 @@
 ## 2020 - Eastbay 
+Spent: 18,602.00
+Impressions: 3,720,777
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|4,594.00 USD|Eastbay|[0](https://www.snap.com/political-ads/asset/b991f37bfb170e557119643be502120698750691df153467d3a381e6b74c811f?mediaType=mp4)|1,042,110||18-38|united states|"195 Broadway, 5th Floor,New York,10007,US"||

@@ -1,4 +1,7 @@
 ## 2022 - Chris4Arizona 
+Spent: 2,074.00
+Impressions: 84,215
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|824.00 USD|Chris4Arizona|[0](https://www.snap.com/political-ads/asset/d704b5ae4db2e65ad03e608208c81e1f7aa8b27aba4277effa887e4ec7819fd5?mediaType=mp4)|32,580||18+|united states|"1324 Spaight St,Madison,53703,US"|Christine Marsh|

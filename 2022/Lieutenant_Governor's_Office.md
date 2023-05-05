@@ -1,4 +1,7 @@
 ## 2022 - Lieutenant Governor's Office 
+Spent: 23,537.00
+Impressions: 2,855,520
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Penna Powers|3,618.00 USD|Lieutenant Governor's Office|[0](https://www.snap.com/political-ads/asset/db274b5d4f1f89f7a8227c0a91ae9a2fc94b7d9276f67d78d2528d2a8f5b513f?mediaType=mp4)|534,965||18-24|united states|"1706 S Major St.,Salt Lake City,84115,US"||

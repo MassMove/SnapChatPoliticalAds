@@ -1,4 +1,7 @@
 ## 2019 - Un trop grand prix 
+Spent: 171.00
+Impressions: 80,142
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |bête féroce|72.00 CAD|Un trop grand prix|[0](https://www.snap.com/political-ads/asset/24a799dd126ae02c39c37b26fd3cd8b38ee3f233b0bf117fc7e07941d1fd85b1?mediaType=mp4)|35,185|FEMALE|14-20|canada|"2032 avenue Bourbonnière,Montréal,H1W 3N9,CA"||

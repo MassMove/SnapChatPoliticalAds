@@ -1,4 +1,7 @@
 ## 2022 - YES on 26, NO on 27 
+Spent: 95,112.00
+Impressions: 4,726,154
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bask Digital Media|27,861.00 USD|YES on 26, NO on 27|[0](https://www.snap.com/political-ads/asset/2e1356013a6807956663f8e5742ddc38874b42e99c433e8c6e412665f9da715e?mediaType=mp4)|1,061,068|FEMALE|18-34|united states|US|Proposition 27|

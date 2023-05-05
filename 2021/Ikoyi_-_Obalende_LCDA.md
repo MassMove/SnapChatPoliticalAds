@@ -1,4 +1,7 @@
 ## 2021 - Ikoyi - Obalende LCDA 
+Spent: 28.00
+Impressions: 37,440
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |La Vida Brand Exhibition|15.00 USD|Ikoyi - Obalende LCDA|[0](https://www.snap.com/political-ads/asset/7a3525bca400f42787d5a922e52681ae3dabdf2b30f0590ef53d8e1717e6beb6?mediaType=jpg)|20,038||20+|nigeria|"333 Fremont Street,San Francisco,94105,US"|Fuad Atanda Lawal|

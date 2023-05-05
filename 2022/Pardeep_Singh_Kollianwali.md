@@ -1,4 +1,7 @@
 ## 2022 - Pardeep Singh Kollianwali 
+Spent: 151.00
+Impressions: 36,664
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Pardeep Singh Kollianwali|65.00 INR|Pardeep Singh Kollianwali|[0](https://www.snap.com/political-ads/asset/6d21e997a5b0d7d8625c238a06892c9165dd448ee72739e02956ac915963c7dc?mediaType=jpeg)|21,045|||india|"Kollianwali Fillling Station,Malout,152107,IN"|Pardeep Singh Kollianwali|

@@ -1,4 +1,7 @@
 ## 2020 - Mubarak Alarou 
+Spent: 3,047.00
+Impressions: 2,444,979
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ANAS SA|754.00 USD|Mubarak Alarou|[0](https://www.snap.com/political-ads/asset/ae3a9a90dbb9330473ae40d2b28d708dbe2877d96df4b2d96eb3e8f31875469c?mediaType=mp4)|623,036||18+|kuwait|KW|Mubarak Alarou|

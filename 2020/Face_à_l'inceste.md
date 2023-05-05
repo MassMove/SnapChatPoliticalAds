@@ -1,4 +1,7 @@
 ## 2020 - Face à l'inceste 
+Spent: 2,499.00
+Impressions: 1,786,277
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |PUBLICIS MEDIA FRANCE|1,359.00 EUR|Face à l'inceste|[0](https://www.snap.com/political-ads/asset/1c2ed1947c93c6ce45bc94d0d36d2eff34bcc114b14cfb8b775af98d8209b309?mediaType=jpg)|1,016,757||18+|france|"C/O Resources France A l’attention du service BILLING 94 avenue Gambetta,Paris,75020,FR"||

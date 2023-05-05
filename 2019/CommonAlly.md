@@ -1,4 +1,7 @@
 ## 2019 - CommonAlly 
+Spent: 197.00
+Impressions: 147,582
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CommonAlly PBC|128.00 USD|CommonAlly|[0](https://www.snap.com/political-ads/asset/deae16904d104d26a0e5fa7b8a91b76c6b1c926ded220f0a2deafa059012368d?mediaType=mp4)|109,377||17-34|united states|US||

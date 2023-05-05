@@ -1,4 +1,7 @@
 ## 2022 - Adam for Colorado 
+Spent: 2,940.00
+Impressions: 237,443
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Adam For Colorado|1,440.00 USD|Adam for Colorado|[0](https://www.snap.com/political-ads/asset/ed803398ecb78b99c7376bca0985e6af70ff04af67bd13c7942aa9a8871ace2d?mediaType=mp4)|130,859||18-29|united states|"821 East Hopkins Ave,Aspen,81611,US"|Adam for Colorado|

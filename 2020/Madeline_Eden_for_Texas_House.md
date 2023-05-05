@@ -1,4 +1,7 @@
 ## 2020 - Madeline Eden for Texas House 
+Spent: 79.00
+Impressions: 30,530
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NewWave Strategies|76.00 USD|Madeline Eden for Texas House|[0](https://www.snap.com/political-ads/asset/49b1764aa4fafc24cefc36d6e845aa4f431af1dd7b2f17a3f11e175b1715a550?mediaType=png)|29,803||18+|united states|US|Madeline Eden|

@@ -1,4 +1,7 @@
 ## 2022 - Akshar for Sheriff 
+Spent: 964.00
+Impressions: 183,787
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ad Elements|280.00 USD|Akshar for Sheriff|[0](https://www.snap.com/political-ads/asset/6efb4bc39e6e162bae81c205ee0758bc2ee84c984d3a0b986bd13df6582e6f66?mediaType=mp4)|83,551||18+|united states|US|Akshar for Sheriff|

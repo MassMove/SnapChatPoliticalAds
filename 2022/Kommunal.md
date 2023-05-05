@@ -1,4 +1,7 @@
 ## 2022 - Kommunal 
+Spent: 80,961.00
+Impressions: 1,065,644
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Scream Mediabyrå Stockholm|34,748.00 SEK|Kommunal|[0](https://www.snap.com/political-ads/asset/8910bf7548cc6f3f146053da7c4661d4cb3bf7c04f49dc203bad9b923a42e058?mediaType=mp4)|464,339|FEMALE|20-29|sweden|"Birger Jarlsgatan 25,Stockholm,11145,SE"||

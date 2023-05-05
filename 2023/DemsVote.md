@@ -1,4 +1,7 @@
 ## 2023 - DemsVote 
+Spent: 550.00
+Impressions: 217,072
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Seda Custom Design LLC|300.00 USD|DemsVote|[0](https://www.snap.com/political-ads/asset/1d7a3bbd0a17b1f1587ed877732e5c0f21608f7a742c001336b89f1e1c56881d?mediaType=png)|129,499|FEMALE|18-35|united states|"6048 Via Casitas,CARMICHAEL,95608,US"|Everett Mitchell Janet Protasiewicz|

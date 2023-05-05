@@ -1,4 +1,7 @@
 ## 2022 - Socialdemokraterna i Växjö 
+Spent: 593.00
+Impressions: 116,732
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Context Media|150.00 EUR|Socialdemokraterna i Växjö|[0](https://www.snap.com/political-ads/asset/0f069c040796ecb8684b8b3d3adbb5835630fe311029b305406af4d1644d3274?mediaType=jpeg)|24,806|FEMALE|18-35|sweden|"Västra Norrlandsgatan 7 ,UMEÅ,90327,SE"|Socialdemokraterna i Vaxjo|

@@ -1,4 +1,7 @@
 ## 2020 - Māori Party 
+Spent: 1,151.00
+Impressions: 176,992
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Acquire Online|114.00 AUD|Māori Party|[0](https://www.snap.com/political-ads/asset/6d1fb15c77f7b630d3ab6f6b0e76af554488650a777298b0cb8e6cb9f354a9f5?mediaType=mp4)|34,690|FEMALE|16-30|new zealand|"196, Great North Road, Grey Lynn,Auckland,1021,NZ"||

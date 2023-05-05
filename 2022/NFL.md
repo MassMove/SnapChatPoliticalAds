@@ -1,4 +1,7 @@
 ## 2022 - NFL 
+Spent: 41,747.00
+Impressions: 4,121,608
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |NFL|20,937.00 USD|NFL|[0](https://www.snap.com/political-ads/asset/2c2da50dd275ed0b5921229ce853c0adb08b40c3e029dbcc83393571e0e45c9e?mediaType=mp4)|2,253,155||18-24|united states|"121 S. 13th Street,Philadelphia,19107,US"||

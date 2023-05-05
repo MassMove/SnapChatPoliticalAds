@@ -1,4 +1,7 @@
 ## 2020 - Detroit Action 
+Spent: 5,306.00
+Impressions: 1,562,551
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|4,152.00 USD|Detroit Action|[0](https://www.snap.com/political-ads/asset/97e6c22a5a7b81e6b2c30d451a681d769297f8a3c683353f079f0422119fa329?mediaType=mp4)|1,142,397||18-25|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Detroit Action|

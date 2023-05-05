@@ -1,4 +1,7 @@
 ## 2019 - Action Canada SHR 
+Spent: 17,090.00
+Impressions: 11,008,850
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Point Blank Creative|1,005.00 CAD|Action Canada SHR|[0](https://www.snap.com/political-ads/asset/ff5d0fb390dc5ea4f5d74a412df9d3ae79557b507a59e98e5547647311d511d4?mediaType=mp4)|854,197|FEMALE|16-19|canada|"505 Hamilton St., Room 301,Vancouver,V6B 2R1,CA"||

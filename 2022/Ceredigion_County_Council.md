@@ -1,4 +1,7 @@
 ## 2022 - Ceredigion County Council 
+Spent: 579.00
+Impressions: 249,050
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Golley Slater Ltd.|350.00 GBP|Ceredigion County Council|[0](https://www.snap.com/political-ads/asset/20551d63c97fcaae33f387594111ccfed94bb82706966680e7ab9c6f6216b770?mediaType=mp4)|177,650||16+|united kingdom|"Wharton Place, 13 Wharton Street,Cardiff,CF10 1GS,GB"||

@@ -1,4 +1,7 @@
 ## 2019 - Avaaz Campaigns UK 
+Spent: 39,320.00
+Impressions: 27,190,452
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Avaaz Campaigns UK|6,861.00 GBP|Avaaz Campaigns UK|[0](https://www.snap.com/political-ads/asset/bd4c9a3628a8c5d39acdc1fce55eab9365e5932e6a7af5bff810b96ea8b637e5?mediaType=mp4)|4,772,071||18+|united kingdom|GB||

@@ -1,4 +1,7 @@
 ## 2020 - Community Change Voters 
+Spent: 9,550.00
+Impressions: 1,789,465
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Boulder Strategies LLC|7,500.00 USD|Community Change Voters|[0](https://www.snap.com/political-ads/asset/6eba8d9636dae9480bfb285cb43159c6777c377925912efe72e963551933b395?mediaType=mp4)|1,633,778||18-39|united states|US|Georgia Runoff Election Register to Vote|

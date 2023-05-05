@@ -1,4 +1,7 @@
 ## 2019 - Nat'l Domestic Workers Alliance 
+Spent: 1,205.00
+Impressions: 349,521
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M&R Strategic Services  Inc.|429.00 USD|Nat'l Domestic Workers Alliance|[0](https://www.snap.com/political-ads/asset/eedc5750e31bfba566d7c3f8c1c1251288b081a4f0fd87447b23ea463bea3ecf?mediaType=jpg)|130,975|FEMALE|18+|united states|"1901 L St NW,Washington,20036,US"||

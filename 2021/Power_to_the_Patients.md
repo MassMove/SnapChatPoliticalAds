@@ -1,4 +1,7 @@
 ## 2021 - Power to the Patients 
+Spent: 5,049.00
+Impressions: 848,577
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|3,474.00 USD|Power to the Patients|[0](https://www.snap.com/political-ads/asset/06d9b89fd591b2fe0dd7d51b5dbbe25aacc1583315ad2e2774503ebc949380ee?mediaType=png)|563,045||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"||

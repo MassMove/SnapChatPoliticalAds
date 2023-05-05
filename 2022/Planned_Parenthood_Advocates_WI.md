@@ -1,4 +1,7 @@
 ## 2022 - Planned Parenthood Advocates WI 
+Spent: 104,047.00
+Impressions: 29,352,879
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Planned Parenthood Advocates of Wisconsin|29,000.00 USD|Planned Parenthood Advocates WI|[0](https://www.snap.com/political-ads/asset/b3e3b088596f59cfc2204bc0409a435cc124d4cb30d61b870803c246f8383405?mediaType=jpeg)|6,409,687||18+|united states|"302 N Jackson St,Milwaukee,53211,US"||

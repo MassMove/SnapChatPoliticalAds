@@ -1,4 +1,7 @@
 ## 2021 - The Wu Committee 
+Spent: 9,128.00
+Impressions: 1,231,955
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|1,660.00 USD|The Wu Committee|[0](https://www.snap.com/political-ads/asset/01b493c0b164fc965530983b6672b607eb79feae20e6d6b32995ac0a7424b131?mediaType=mp4)|267,894||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|Michelle Wu|

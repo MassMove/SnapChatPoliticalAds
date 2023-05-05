@@ -1,4 +1,7 @@
 ## 2023 - RepresentUs 
+Spent: 1,178.00
+Impressions: 135,270
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|528.00 USD|RepresentUs|[0](https://www.snap.com/political-ads/asset/c562d4a9607e6687daf54d0a530aee413322e6b01d76006f42248ff98b742b51?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f38723796a3b3a3cd71e3325214b14830abc6a5eceb366d8dab3a64d7545b6c2?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/14987672e573363fedf2efefa5ce6e8394d41eb09a9b30dde1e2604df799366d?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/e3c4f41ab9f4d88d6bee5e90d765e43a26598fb1d1a6e3dc8238320b1656ce14?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/81f353c0ded2beecc45067e3463855796b9016cddc435f90087c17cbf38ac331?mediaType=mp4)|66,005||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"||

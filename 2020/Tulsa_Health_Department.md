@@ -1,4 +1,7 @@
 ## 2020 - Tulsa Health Department 
+Spent: 1,368.00
+Impressions: 610,520
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Southwest Media Group|630.00 USD|Tulsa Health Department|[0](https://www.snap.com/political-ads/asset/fd2909cd8f2884dbd518474dbed5dd66743ac73a76b82f4f3beda9921b4f0237?mediaType=mp4)|277,679||29-|united states|"1717 Main Street, Suite 4000,Dallas,75201,US"||

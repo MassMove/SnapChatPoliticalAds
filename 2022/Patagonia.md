@@ -1,4 +1,7 @@
 ## 2022 - Patagonia 
+Spent: 154,334.00
+Impressions: 31,786,680
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|8,500.00 USD|Patagonia|[0](https://www.snap.com/political-ads/asset/023038af15e29568f6d81bf6db154575b2b963469a45d5f889148a6c4cbbb742?mediaType=mp4)|2,102,140||18+|united states|"1445 New York Ave NW,Washington,20005,US"||

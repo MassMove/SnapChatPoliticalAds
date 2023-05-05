@@ -1,4 +1,7 @@
 ## 2020 - Progress Now 
+Spent: 6,722.00
+Impressions: 468,096
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|1,679.00 USD|Progress Now|[0](https://www.snap.com/political-ads/asset/21f8e02024e9a8fd8f82b65d19f104217d0666155084679c0a52c2073051df63?mediaType=mp4)|280,348||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Progress Virginia|

@@ -1,4 +1,7 @@
 ## 2019 - Vote For Your Future 
+Spent: 63,027.00
+Impressions: 30,111,070
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vote For Your Future|4,200.00 GBP|Vote For Your Future|[0](https://www.snap.com/political-ads/asset/f9a2c729a41a6dad6f99fec90f33458082c913adc5c1887191ccc4ce4f41d04c?mediaType=mp4)|3,097,185||18-24||GB|General Election|

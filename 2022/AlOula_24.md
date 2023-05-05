@@ -1,4 +1,7 @@
 ## 2022 - AlOula 24 
+Spent: 3,686.00
+Impressions: 769,595
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AlOual 24|1,847.00 USD|AlOula 24|[0](https://www.snap.com/political-ads/asset/8d52ff2e9e42b951b883831bc069029e4bc5d6cd4ec8099e0b55fbd5a96f263f?mediaType=mp4)|406,097||21+|kuwait|"Salmiya,Salmiya,0000,KW"|Faisal Mohammed AlKandari|

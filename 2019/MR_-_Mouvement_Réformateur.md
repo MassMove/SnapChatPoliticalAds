@@ -1,4 +1,7 @@
 ## 2019 - MR - Mouvement Réformateur 
+Spent: 3,479.00
+Impressions: 4,657,523
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mouvement Réformateur|2,467.00 EUR|MR - Mouvement Réformateur|[0](https://www.snap.com/political-ads/asset/94d9d4be2c17fd49f20ddc4f1130b1a014418843ea3c4afc0ea5ab933299f598?mediaType=mp4)|3,346,593||17-24|belgium|"Avenue de la Toison d'Or 84,Bruxelles,1060,BE"||

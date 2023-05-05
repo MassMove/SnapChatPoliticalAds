@@ -1,4 +1,7 @@
 ## 2020 - good hYOUman 
+Spent: 1,072.00
+Impressions: 193,225
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |good hYOUman.|225.00 USD|good hYOUman|[0](https://www.snap.com/political-ads/asset/ef239412fca233ce18b135ce6bfaffa798fb5111a63f7e57eb2f55feb78d6033?mediaType=png)|54,705|FEMALE|17+|united states|US||

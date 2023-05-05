@@ -1,4 +1,7 @@
 ## 2020 - Dreams In Action NM 
+Spent: 6,360.00
+Impressions: 1,717,623
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dreams In Action NM|3,400.00 USD|Dreams In Action NM|[0](https://www.snap.com/political-ads/asset/7795c359251fd26b1a262346d336ab6430c9502de0d6b170a24ae811e5b3dee4?mediaType=mp4)|1,008,376||17-40|united states|US|2020 General Election Act GOTV|

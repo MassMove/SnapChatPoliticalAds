@@ -1,4 +1,7 @@
 ## 2021 - Trossamfundet Svenska kyrkan 
+Spent: 9,809.00
+Impressions: 5,261,363
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Emerse Sverige AB|1,571.00 USD|Trossamfundet Svenska kyrkan|[0](https://www.snap.com/political-ads/asset/fa70061785c59a4e445ed048ce903167464afc7baa516945c783deef3a10e43a?mediaType=png)|1,036,340||16-20|sweden|"Hyllie Boulevard 32, Vintrie, 215 32,SE"||

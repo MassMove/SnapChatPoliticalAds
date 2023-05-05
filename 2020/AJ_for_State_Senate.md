@@ -1,4 +1,7 @@
 ## 2020 - AJ for State Senate 
+Spent: 685.00
+Impressions: 46,517
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|309.00 USD|AJ for State Senate|[0](https://www.snap.com/political-ads/asset/90258bc8edc707eef473660eea05d8f6e8f5246abdb9da5c67346b96ddc71f34?mediaType=mp4)|16,540||18+|united states|"1324 Spaight St,Madison,53703,US"|AJ Kurdoglu|

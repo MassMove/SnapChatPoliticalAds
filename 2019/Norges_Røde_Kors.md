@@ -1,4 +1,7 @@
 ## 2019 - Norges Røde Kors 
+Spent: 3,865.00
+Impressions: 3,046,068
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|480.00 EUR|Norges Røde Kors|[0](https://www.snap.com/political-ads/asset/eae7891273d3b81327514920025df5c61658f03341bceff3b45d620900215162?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/3a23521a33827159b70cb23c1a5b1f0866df610e05652c147fe1e3af3ce87622?mediaType=png),[2](https://www.snap.com/political-ads/asset/2a05a7b6277f8811fa4419375b529f0819a3e6a444501f149360b0caa58dc32a?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/65e5d087a2057098de22bd2bad0632f366f9cb88b6e01c37baa7dd7a1fe32652?mediaType=png),[4](https://www.snap.com/political-ads/asset/e433ce58d4b1e332c56a2b09c12a5715dec0ee25baae65b2fb162ffd9d4209a4?mediaType=png),[5](https://www.snap.com/political-ads/asset/456b26d3af7e1af98f630b2032536147e61bbbe14edd6bf5ecc21b7d5209376b?mediaType=mp4)|1,349,502||20+|norway|"Kongens gate 6,Oslo,0153,NO"||

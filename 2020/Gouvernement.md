@@ -1,4 +1,7 @@
 ## 2020 - Gouvernement 
+Spent: 14,616.00
+Impressions: 12,584,573
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|3,984.00 EUR|Gouvernement|[0](https://www.snap.com/political-ads/asset/6a9911b19175a1d785cadd24032c3d5923211a5ca9a73cb890c108310d8aaf6c?mediaType=mp4)|3,364,985||18-24|france|"67 Av. de Wagram,Paris,75017,FR"||

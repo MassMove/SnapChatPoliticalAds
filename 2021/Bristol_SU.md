@@ -1,4 +1,7 @@
 ## 2021 - Bristol SU 
+Spent: 22.00
+Impressions: 15,161
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bristol SU|7.00 GBP|Bristol SU|[0](https://www.snap.com/political-ads/asset/c3e534e27f61b72c705614e442ea103f688be191864fae69fc3e370bc565d6c2?mediaType=mp4)|4,902||18-23|united kingdom|GB||

@@ -1,4 +1,7 @@
 ## 2021 - Republican National Committee 
+Spent: 32,718.00
+Impressions: 4,653,494
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Republican National Committee|3,568.00 USD|Republican National Committee|[0](https://www.snap.com/political-ads/asset/1ab5622a47a945e6b3563319cb7afbea0046f0775abf5504ecafb81a7b7c24d0?mediaType=mp4)|699,953||18-24|united states|"310 FIRST STREET SE,WASHINGTON,20003,US"|Republican National Committee|

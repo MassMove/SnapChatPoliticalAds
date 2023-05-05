@@ -1,4 +1,7 @@
 ## 2021 - Andrea Campbell for Mayor 
+Spent: 11,036.00
+Impressions: 1,741,247
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,019.00 USD|Andrea Campbell for Mayor|[0](https://www.snap.com/political-ads/asset/3bf02cdbfd71b143288f4703a23ae6c5dfa8734efd1afc6962c5db3115d92e34?mediaType=mp4)|209,959||18+|united states|US|Andrea Campbell|

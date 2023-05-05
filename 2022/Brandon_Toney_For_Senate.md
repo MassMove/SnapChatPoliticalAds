@@ -1,4 +1,7 @@
 ## 2022 - Brandon Toney For Senate 
+Spent: 740.00
+Impressions: 131,011
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Brandon Toney For Senate|490.00 USD|Brandon Toney For Senate|[0](https://www.snap.com/political-ads/asset/466eb5ea96717d3a36a736d35fcbaf374eca9aff0374305daae4d12866190efc?mediaType=jpeg)|82,874||18+|united states|US|Brandon Toney For Senate|

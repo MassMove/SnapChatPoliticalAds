@@ -1,4 +1,7 @@
 ## 2019 - ACT NOW ON CLIMATE 
+Spent: 111,886.00
+Impressions: 40,047,086
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|8,244.00 USD|ACT NOW ON CLIMATE|[0](https://www.snap.com/political-ads/asset/bcbda396ccbf1e9d135aae43b3c1cfd40e7d7b68eff838db0b2cb51e873dda89?mediaType=mp4)|3,334,431||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

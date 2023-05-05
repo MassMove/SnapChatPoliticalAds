@@ -1,4 +1,7 @@
 ## 2020 - Spotify 
+Spent: 15,890.00
+Impressions: 4,695,675
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |WhoSay Inc.|1,046.00 USD|Spotify|[0](https://www.snap.com/political-ads/asset/43fb4834d992459544aecc22855cf9f2803b35d65284c582da4c089f3626c782?mediaType=mp4)|508,309||18-24|united states|"333 Park Avenue South, Unit 2B,New York,10010,US"||

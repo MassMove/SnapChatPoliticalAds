@@ -1,4 +1,7 @@
 ## 2020 - Warnock for Georgia 
+Spent: 305,680.00
+Impressions: 70,757,283
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|88,587.00 USD|Warnock for Georgia|[0](https://www.snap.com/political-ads/asset/4d45ae5c37175a1a3c3af82736329111892baa92a01b83720cac3ab441040ece?mediaType=mp4)|18,655,581||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|Raphael Warnock|

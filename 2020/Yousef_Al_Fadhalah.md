@@ -1,4 +1,7 @@
 ## 2020 - Yousef Al Fadhalah 
+Spent: 955.00
+Impressions: 323,857
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Senyar Group Agency|105.00 USD|Yousef Al Fadhalah|[0](https://www.snap.com/political-ads/asset/15cdbd030fe99d4e24088e55c6170e6495f6fb6aa733c41f36b958c44bb2bf30?mediaType=mp4)|30,858||18+|kuwait|"Press Street,Shewikh,11111,KW"|Yousef Al Fadhalah|

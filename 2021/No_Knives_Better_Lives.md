@@ -1,4 +1,7 @@
 ## 2021 - No Knives Better Lives 
+Spent: 26.00
+Impressions: 16,267
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sunshine Communications|5.00 GBP|No Knives Better Lives|[0](https://www.snap.com/political-ads/asset/3524b6c436b53ad432fc61129901ca350f64f0cccc1ce6580962e890037c14c9?mediaType=mp4)|6,008||25-|united kingdom|GB||

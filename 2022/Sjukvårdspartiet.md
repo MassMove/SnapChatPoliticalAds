@@ -1,4 +1,7 @@
 ## 2022 - Sjukvårdspartiet 
+Spent: 41,894.00
+Impressions: 1,835,342
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Östgöta Media|5,981.00 SEK|Sjukvårdspartiet|[0](https://www.snap.com/political-ads/asset/d44a816e1b86c582827963280ed4cc3251b193a1268bf9a5ad2befe30d033189?mediaType=mp4)|271,007||18-30|sweden|"Stohagsgatan 2,Norrköping,60183,SE"|Sjukvardspartiet|

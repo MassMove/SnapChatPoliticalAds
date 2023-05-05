@@ -1,4 +1,7 @@
 ## 2022 - Socialdemokraterna Region Sthlm 
+Spent: 40,285.00
+Impressions: 854,735
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Socialdemokraterna i Stockholmsregionen|24,587.00 SEK|Socialdemokraterna Region Sthlm|[0](https://www.snap.com/political-ads/asset/402ad85184199faaeea7cf2cb39d74d34f3d6a0d0ebd6ddefab3c1a59a8548eb?mediaType=mp4)|505,852||18+|sweden|"Sveavägen 68,Stockholm,112 15,SE"||

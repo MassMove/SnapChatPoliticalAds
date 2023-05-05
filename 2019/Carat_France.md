@@ -1,4 +1,7 @@
 ## 2019 - Carat France 
+Spent: 5,999.00
+Impressions: 18,451,131
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network France|5,773.00 EUR|Carat France|[0](https://www.snap.com/political-ads/asset/8d492f51654dc9001e103d2ca9a6fdff6511fca6c2d559ccecd485026a7b6936?mediaType=png)|18,045,836|||france|"67 Av. de Wagram,Paris,75017,FR"||

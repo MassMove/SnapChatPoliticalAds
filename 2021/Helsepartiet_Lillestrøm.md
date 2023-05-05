@@ -1,4 +1,7 @@
 ## 2021 - Helsepartiet Lillestrøm 
+Spent: 13,544.00
+Impressions: 379,775
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Helsepartiet|2,000.00 NOK|Helsepartiet Lillestrøm|[0](https://www.snap.com/political-ads/asset/00c089ca9950fa083fb5a2a8bacc5948cd6c01d372a6a7c1b3c332af84e07b21?mediaType=mp4)|122,576||18+|norway|NO||

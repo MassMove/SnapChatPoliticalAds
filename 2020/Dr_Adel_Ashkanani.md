@@ -1,4 +1,7 @@
 ## 2020 - Dr Adel Ashkanani 
+Spent: 2.00
+Impressions: 3,684
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yaser Masoud Rateeb Jeed|1.00 USD|Dr Adel Ashkanani|[0](https://www.snap.com/political-ads/asset/e4d0b5f0f2cfe9a5d4ce700b0d16397ffa00103e7ddd78c250fae24d80ef433b?mediaType=mp4)|1,344|||kuwait|"Salmiya, 1 st,Kuwait,00965,KW"||

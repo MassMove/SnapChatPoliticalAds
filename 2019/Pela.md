@@ -1,4 +1,7 @@
 ## 2019 - Pela 
+Spent: 45,625.00
+Impressions: 49,203,807
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Open Mind Developments Corporation Inc.|11,845.00 USD|Pela|[0](https://www.snap.com/political-ads/asset/69745f141ea9f43787bb7d0cac662a43b9cafae808944881f26c2bb99b66cef8?mediaType=mp4)|18,892,850|||united states|"604-460 Doyle Ave,Kelowna,V1Y0C2,CA"||

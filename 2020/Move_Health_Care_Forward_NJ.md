@@ -1,4 +1,7 @@
 ## 2020 - Move Health Care Forward NJ 
+Spent: 17,470.00
+Impressions: 5,339,740
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|2,393.00 USD|Move Health Care Forward NJ|[0](https://www.snap.com/political-ads/asset/737ded1ac63f8cc06ddaffc468d9e6bce90afe0d4230fb06602113275f543e04?mediaType=mp4)|908,681|||united states|"One, World Trade Center ,new york,10007,US"|Move Health Care Forward NJ|

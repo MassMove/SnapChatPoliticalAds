@@ -1,4 +1,7 @@
 ## 2022 - DEMOCRATIC PARTY OF WISCONSIN 
+Spent: 12,324.00
+Impressions: 3,895,234
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fourthwall Media|4,082.00 USD|DEMOCRATIC PARTY OF WISCONSIN|[0](https://www.snap.com/political-ads/asset/c838c8fc8f437814cf2ceeb5e7d5c67e4ae7783d76e1678f13a9594ea9ec8308?mediaType=mp4)|1,311,088||18-23|united states|US||

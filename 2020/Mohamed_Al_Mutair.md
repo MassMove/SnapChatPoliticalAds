@@ -1,4 +1,7 @@
 ## 2020 - Mohamed Al Mutair 
+Spent: 13,453.00
+Impressions: 5,112,549
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mohammed Al Mutair|3,189.00 USD|Mohamed Al Mutair|[0](https://www.snap.com/political-ads/asset/12b65390f8243f7d3721ee81f33a58c7e35447780f13ee1ee52ec1bbdaa60b4d?mediaType=mp4)|1,449,347||21+|kuwait|KW|Mohamed Al Mutair|

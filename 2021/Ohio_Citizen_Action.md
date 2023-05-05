@@ -1,4 +1,7 @@
 ## 2021 - Ohio Citizen Action 
+Spent: 248.00
+Impressions: 38,858
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ohio Citizen Action|118.00 USD|Ohio Citizen Action|[0](https://www.snap.com/political-ads/asset/16235fbb78c39aa599389ca7f768abf53a4df302d7f74e0432d0d586c329bcd3?mediaType=png)|18,756||18+|united states|"1511 Brookpark Rd,Cleveland,44109,US"||

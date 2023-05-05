@@ -1,4 +1,7 @@
 ## 2021 - New Georgia Project 
+Spent: 21,885.00
+Impressions: 3,130,424
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Panowatch  LLC|8,240.00 USD|New Georgia Project|[0](https://www.snap.com/political-ads/asset/dd326fe02e5d8f41118bd3087ba6d89e239f23a3029ec654aee75ac3ca94911c?mediaType=mp4)|1,503,431||18+|united states|"8207 Taunton Pl,West Springfield,22152,US"|Voter Turnout|

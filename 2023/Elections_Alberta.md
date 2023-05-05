@@ -1,4 +1,7 @@
 ## 2023 - Elections Alberta 
+Spent: 711.00
+Impressions: 287,756
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DDB Edmonton Media|356.00 CAD|Elections Alberta|[0](https://www.snap.com/political-ads/asset/d3030edb01b2150c134bd5fd526249dd0025cdf2facdc5ef870326e199f2df5e?mediaType=mp4)|144,145||18+|canada|"Suite 1900, 10025 - 102A Avenue,Edmonton,T5J 2Z2,CA"||

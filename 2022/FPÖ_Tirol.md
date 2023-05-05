@@ -1,4 +1,7 @@
 ## 2022 - FPÖ Tirol 
+Spent: 699.00
+Impressions: 254,282
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Freiheitliche Jugend Tirol|304.00 EUR|FPÖ Tirol|[0](https://www.snap.com/political-ads/asset/c23282b6b030498bcf5c048201c639eecb960fc5c32df43ab0861427bda60c48?mediaType=mp4)|106,104||16+|austria|"Leopoldstraße 72,Innsbruck,6020,AT"|Markus Abwerzger|

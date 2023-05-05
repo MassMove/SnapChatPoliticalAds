@@ -1,4 +1,7 @@
 ## 2021 - Live Action, Inc 
+Spent: 5,123.00
+Impressions: 2,752,722
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Live Action|1,880.00 USD|Live Action, Inc|[0](https://www.snap.com/political-ads/asset/d28239156638cd28207f0c0d1070c60bddc19bea5aa881e2f0b627bbcb2ce6e5?mediaType=jpg)|1,118,247|||united states|US|Meet Baby Olivia|

@@ -1,4 +1,7 @@
 ## 2020 - CHNGE 
+Spent: 61,931.00
+Impressions: 18,174,431
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CHNGE|7,865.00 USD|CHNGE|[0](https://www.snap.com/political-ads/asset/bae97bbc5b86c9ef6ae000f3bed95a846fc8fcd017daa2a8a9a544850e95fad3?mediaType=mp4)|2,652,132|FEMALE|30-|united states|US||

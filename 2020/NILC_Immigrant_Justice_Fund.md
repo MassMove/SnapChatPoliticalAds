@@ -1,4 +1,7 @@
 ## 2020 - NILC Immigrant Justice Fund 
+Spent: 416.00
+Impressions: 273,757
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|57.00 USD|NILC Immigrant Justice Fund|[0](https://www.snap.com/political-ads/asset/6fefc64e884cc11572a0d4350cc7ec38f3b045e43a52ab1b83f8941641e24e26?mediaType=mp4)|55,694||16-30|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2023 - Negotia 
+Spent: 0.00
+Impressions: 23
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Negotia|0.00 USD|Negotia|[0](https://www.snap.com/political-ads/asset/ddcf29ac6f685d5bd10d2a878dd65f04558b3e525f9467166898c4d7b5ee6b92?mediaType=mp4)|16||20+|norway|NO||

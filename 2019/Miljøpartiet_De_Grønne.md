@@ -1,4 +1,7 @@
 ## 2019 - Miljøpartiet de Grønne 
+Spent: 299.00
+Impressions: 118,432
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |oslomdg|206.00 EUR|Miljøpartiet de Grønne|[0](https://www.snap.com/political-ads/asset/dea8b8a7ad7c19840625f4eadd1396e6f3632ab34296e7753ed139b1e845111f?mediaType=mp4)|79,127||18-25|norway|NO||

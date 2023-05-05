@@ -1,4 +1,7 @@
 ## 2022 - NYC Racial Justice Commission 
+Spent: 22,832.00
+Impressions: 3,062,863
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|5,287.00 USD|NYC Racial Justice Commission|[0](https://www.snap.com/political-ads/asset/6a0120d87fb35f1b2e6ab938941f44e361499084999924f3e88eeca246a27a71?mediaType=png)|1,455,103||18+|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

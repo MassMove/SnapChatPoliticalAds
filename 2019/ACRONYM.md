@@ -1,4 +1,7 @@
 ## 2019 - ACRONYM 
+Spent: 18,894.00
+Impressions: 3,008,464
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ACRONYM|717.00 USD|ACRONYM|[0](https://www.snap.com/political-ads/asset/230ae2d9adaa26a21bbd300b64d8dcd300d32f94237c76e1225559f1916ea867?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/fa3934834b076c14b038f36eba7e86f029d10f9b4ac605b87c1af6b748c67d30?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/625b943ccc6580b431264efeca145a770c6978cf0242a8b6d6743af4015b22b5?mediaType=mp4)|245,065||18+|united states|US|Get out the vote|

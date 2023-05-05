@@ -1,4 +1,7 @@
 ## 2018 - BSBT 
+Spent: 499.00
+Impressions: 265,739
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Luton Borough Council|255.00 GBP|BSBT|[0](https://www.snap.com/political-ads/asset/8a8cb3485665378989afaaeeccfadb10ed195be7b85d98e1c045fecd04caf75d?mediaType=mp4)|142,929|||united kingdom|"36 Golden Square,London,w1f 9jx,GB"||

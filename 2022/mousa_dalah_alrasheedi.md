@@ -1,4 +1,7 @@
 ## 2022 - mousa dalah alrasheedi 
+Spent: 716.00
+Impressions: 356,865
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mousa alrasheedi|165.00 USD|mousa dalah alrasheedi|[0](https://www.snap.com/political-ads/asset/3b7f665978e1fdc5958d8bb484739ba7fd13f535b1ef36e9f8d9a9b4a9e467d2?mediaType=jpeg)|129,055||21+|kuwait|"423,FAHAD AL-AHMAED,53804,KW"||

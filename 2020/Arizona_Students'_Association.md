@@ -1,4 +1,7 @@
 ## 2020 - Arizona Students' Association 
+Spent: 14,300.00
+Impressions: 4,169,954
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arizona Students' Association|2,240.00 USD|Arizona Students' Association|[0](https://www.snap.com/political-ads/asset/09094a6a7676377e614a481b2a6940bcf7304cfc03fd60a9cf0ecf30dd48193b?mediaType=mp4)|567,871||18-22|united states|"4622 East Wilshire Drive ,Phoenix,85008,US"|AZ Students Association|

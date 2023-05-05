@@ -1,4 +1,7 @@
 ## 2022 - Socialdemokraterna Kalmar kommun 
+Spent: 1,185.00
+Impressions: 296,590
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Context Media|146.00 EUR|Socialdemokraterna Kalmar kommun|[0](https://www.snap.com/political-ads/asset/cd29e85e58dcc107b545cb70bf16ae227ff1332b6e024f07e1e146145bdfe3f3?mediaType=mp4)|44,088||17+|sweden|"Västra Norrlandsgatan 7 ,UMEÅ,90327,SE"||

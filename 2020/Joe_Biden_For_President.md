@@ -1,4 +1,7 @@
 ## 2020 - Joe Biden For President 
+Spent: 19,284.00
+Impressions: 1,372,588
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Barstool Sports|5,026.00 USD|Joe Biden For President|[0](https://www.snap.com/political-ads/asset/3ab1e9d1f49c14a97855e6c1d4e086bfd23ed5a826efde60586d143e74f8ef5e?mediaType=mp4)|326,862||18+|united states|"333 7th Ave,New York,10001,US"|Joe Biden for President|

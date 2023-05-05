@@ -1,4 +1,7 @@
 ## 2022 - Dreams In Action NM 
+Spent: 450.00
+Impressions: 212,807
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dreams In Action NM|150.00 USD|Dreams In Action NM|[0](https://www.snap.com/political-ads/asset/30eb05dd3f44c4b1b37d4fe8557f9ee2170afcd8242a603e43cb3ba62eaaff84?mediaType=mp4)|126,281||17-44|united states|US|Michelle Lujan Grisham for NM Governor|

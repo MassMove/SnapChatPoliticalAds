@@ -1,4 +1,7 @@
 ## 2018 - Alberta Health Services 
+Spent: 3,973.00
+Impressions: 2,125,332
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kick Media Inc.|2,558.00 CAD|Alberta Health Services|[0](https://www.snap.com/political-ads/asset/b41619ede2aea8b692d7d1d7dde58beffd8f3b8ec40ba5ffcd8a97e03d347573?mediaType=jpg)|1,424,973||16-25|canada|"12420 - 104 Avenue,Edmonton,T5N 3Z9,CA"||

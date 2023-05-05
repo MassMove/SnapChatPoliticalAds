@@ -1,4 +1,7 @@
 ## 2023 - NSW Electoral Commission 
+Spent: 49,369.00
+Impressions: 9,956,696
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group (Australia) Pty Ltd|4,419.00 AUD|NSW Electoral Commission|[0](https://www.snap.com/political-ads/asset/d7c08b2eb0a9d66c1d9139e76f3a32ed52843f0b7bdb9a48db9027b1069b61fe?mediaType=mp4)|707,635||18+|australia|"32 Pyrmont Bridge Road Pyrmont NSW 2009 PO Box 66, Pyrmont NSW 2009,,,Sydney,2009,AU"||

@@ -1,4 +1,7 @@
 ## 2020 - GoTrump 2020 
+Spent: 38.00
+Impressions: 19,330
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GoTrump 2020|19.00 USD|GoTrump 2020|[0](https://www.snap.com/political-ads/asset/95acdeb0af46267c2f98d5c2c82d379490a57e0cdeffde1c9e36921776dd7369?mediaType=mp4)|9,438|MALE|35+|united states|US|Donald J Trump|

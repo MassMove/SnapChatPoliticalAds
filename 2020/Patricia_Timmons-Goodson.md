@@ -1,4 +1,7 @@
 ## 2020 - Patricia Timmons-Goodson 
+Spent: 8,318.00
+Impressions: 1,805,813
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,938.00 USD|Patricia Timmons-Goodson|[0](https://www.snap.com/political-ads/asset/0f86d72b5b0f7bd4e42d808e95567d98abd2518ad93a4b028154ede0ef34c131?mediaType=mp4)|474,183||18-49|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Patricia Timmons Goodson for Congress|

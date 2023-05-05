@@ -1,4 +1,7 @@
 ## 2019 - National Education Association 
+Spent: 2,021.00
+Impressions: 1,122,771
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,365.00 USD|National Education Association|[0](https://www.snap.com/political-ads/asset/8bc4a9c02b9bc5e7b214acc10cbf5df47aa95cae3c80c7c44eaa13d57557ee3a?mediaType=png)|741,903|||united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

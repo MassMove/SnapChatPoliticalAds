@@ -1,4 +1,7 @@
 ## 2021 - Patients for Affordable Drugs 
+Spent: 2,360.00
+Impressions: 1,352,780
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|1,106.00 USD|Patients for Affordable Drugs|[0](https://www.snap.com/political-ads/asset/34e5b8d06935c28fb5d3aa7da221b72fd61b363555c92dc4f3476357e4e12761?mediaType=mp4)|687,517|||united states|"2054 University Ave STE 600,Berkeley,94704,US"|P4AD NOW|

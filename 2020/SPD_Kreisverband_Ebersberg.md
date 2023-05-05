@@ -1,4 +1,7 @@
 ## 2020 - SPD Kreisverband Ebersberg 
+Spent: 215.00
+Impressions: 80,744
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omid Atai - Ihr Landrat für Ebersberg|55.00 EUR|SPD Kreisverband Ebersberg|[0](https://www.snap.com/political-ads/asset/8497600a883b8d31a4e0e1b34a8b5f9da5d6ec6015ebf7963ba49a21c64ba90a?mediaType=jpeg)|20,619||16+|germany|"Blumenstr. 70,Poing,85586,DE"|Omid Atai|

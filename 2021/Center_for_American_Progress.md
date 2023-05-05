@@ -1,4 +1,7 @@
 ## 2021 - Center for American Progress 
+Spent: 18,957.00
+Impressions: 4,998,742
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Media Cause|8,000.00 USD|Center for American Progress|[0](https://www.snap.com/political-ads/asset/aa1fd9be86f3c5c661ec44f2c2c971bd6031dd7597e768768dc041e64ceb173b?mediaType=mp4)|1,678,096||18-29|united states|US|Student Debt Relief|

@@ -1,4 +1,7 @@
 ## 2022 - Planned Parenthood Action Fund 
+Spent: 73,029.00
+Impressions: 4,488,469
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|7,920.00 USD|Planned Parenthood Action Fund|[0](https://www.snap.com/political-ads/asset/ccd6fc89329aa3225f8210f068d5f6c007d096a6776832899144996ffed50ba5?mediaType=mp4)|1,196,056||18-44|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

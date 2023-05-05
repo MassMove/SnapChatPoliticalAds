@@ -1,4 +1,7 @@
 ## 2023 - David Landis 
+Spent: 484.00
+Impressions: 63,139
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |David Landis for Arrowhead School Board|268.00 USD|David Landis|[0](https://www.snap.com/political-ads/asset/a0a511f130050fba5a44995974301acf3166e5800589ec56764ea425aac549db?mediaType=jpeg)|42,458|||united states|"N73W27278 Kettle Cove Ln,Sussex,53089,US"|David Landis for Arrowhead School Board|

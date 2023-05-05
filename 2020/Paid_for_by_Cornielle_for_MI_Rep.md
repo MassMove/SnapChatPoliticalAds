@@ -1,4 +1,7 @@
 ## 2020 - Paid for by Cornielle for MI Rep 
+Spent: 280.00
+Impressions: 131,576
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vote Cornielle for 88|99.00 USD|Paid for by Cornielle for MI Rep|[0](https://www.snap.com/political-ads/asset/edd9222b4330409b7152bd87a8b33ac495080cde8921b46e67dc94b95e2d0b52?mediaType=png)|89,379|||united states|US|Franklin Cornielle for MI State Rep|

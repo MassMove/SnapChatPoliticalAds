@@ -1,4 +1,7 @@
 ## 2022 - Kellen for City Council 
+Spent: 2,078.00
+Impressions: 532,694
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Monsoon Studios  LLC|1,293.00 USD|Kellen for City Council|[0](https://www.snap.com/political-ads/asset/557953fa85d04551f540b38f8379e427c9146c4efb4d2c639c3a38f1c1f2746d?mediaType=mp4)|421,606|FEMALE|18+|united states|"2009 N 11th St,Phoenix,85006,US"|Kellen For City Council|

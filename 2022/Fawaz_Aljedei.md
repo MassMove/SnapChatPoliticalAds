@@ -1,4 +1,7 @@
 ## 2022 - Fawaz Aljedei 
+Spent: 5,056.00
+Impressions: 1,134,914
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |د. فواز الجدعي|600.00 USD|Fawaz Aljedei|[0](https://www.snap.com/political-ads/asset/695ba8070e6586584dbb552b5a78ad2ba05c8b71768c6695e988fa8db4f859b2?mediaType=jpeg)|182,584||18+|kuwait|KW|Fawaz Aljedei|

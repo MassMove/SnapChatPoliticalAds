@@ -1,4 +1,7 @@
 ## 2022 - Botkyrka Kommun 
+Spent: 2,998.00
+Impressions: 35,726
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Always On Media|1,272.00 SEK|Botkyrka Kommun|[0](https://www.snap.com/political-ads/asset/2a3eefa4d4342518aa56ba03e44719d1e93e8814f8f5fa83907489b45a155259?mediaType=mp4)|13,175||27-35|sweden|"Döbelnsgatan 21,Stockholm,11140,SE"||

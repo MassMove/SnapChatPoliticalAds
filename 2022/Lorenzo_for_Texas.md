@@ -1,4 +1,7 @@
 ## 2022 - Lorenzo for Texas 
+Spent: 433.00
+Impressions: 106,623
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mycorrhiza Digital|107.00 USD|Lorenzo for Texas|[0](https://www.snap.com/political-ads/asset/7de09118b35d34d829179a9ff5a05d72e108bc7bfd08e8e74d3c2d2b08240783?mediaType=png)|31,231||18+|united states|US|Lorenzo Sanchez for Texas State House District 70|

@@ -1,4 +1,7 @@
 ## 2022 - GOTVax 
+Spent: 10,854.00
+Impressions: 379,634
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|5,660.00 USD|GOTVax|[0](https://www.snap.com/political-ads/asset/2dd0e77fc549160c20c7c52b4946dd7571f588b743f490b8ac98c8cc3f9a93a4?mediaType=mp4)|218,376||18-30|united states|"1220 19th Street NW,Washington,20036,US"||

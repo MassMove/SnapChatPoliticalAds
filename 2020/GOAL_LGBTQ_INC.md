@@ -1,4 +1,7 @@
 ## 2020 - GOAL LGBTQ INC 
+Spent: 434.00
+Impressions: 184,037
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GOAL LGBTQ|150.00 USD|GOAL LGBTQ INC|[0](https://www.snap.com/political-ads/asset/b2b1da906ffb113e23c550bb27f9046b000f82a2a4ecc8cc2a42c492ef3f343f?mediaType=mp4)|64,004||18-34|united states|"300 Buchanan St #504,San Francisco,94102,US"|Vote|

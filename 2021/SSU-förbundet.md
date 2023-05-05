@@ -1,4 +1,7 @@
 ## 2021 - SSU-förbundet 
+Spent: 17,822.00
+Impressions: 1,082,094
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SSU|4,610.00 SEK|SSU-förbundet|[0](https://www.snap.com/political-ads/asset/555a08fc9846359332adeaeafe31746f5c84ecaf1e42da3e9129323cbadb6d38?mediaType=mp4)|364,061|||sweden|"FE1026-PAG09400 Scancloud,ÖSTERSUND,SE-831 90,SE"|SSU|

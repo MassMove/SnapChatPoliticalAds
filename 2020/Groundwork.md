@@ -1,4 +1,7 @@
 ## 2020 - Groundwork 
+Spent: 123.00
+Impressions: 180,665
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Groundwork|69.00 GBP|Groundwork|[0](https://www.snap.com/political-ads/asset/4d0106551105b322c4ae33b34c1c24c5b4aba05a181555456818425e5dec7844?mediaType=mp4)|99,969||18-|united kingdom|"Trafford Ecology Park,Manchester,M17 1TU,GB"|Groundwork Greater Manchester|

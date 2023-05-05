@@ -1,4 +1,7 @@
 ## 2020 - Purpose 
+Spent: 2,151.00
+Impressions: 543,832
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BerlinRosen|535.00 USD|Purpose|[0](https://www.snap.com/political-ads/asset/eb971b88628fdfa11added2c16e8bfa3286d3e17601a96a6ca1e332dd5182789?mediaType=png),[1](https://www.snap.com/political-ads/asset/cf1b49ce5a57db0240a474a69ca9318a8b2df3d3ca9fe5d9783c36296f61de32?mediaType=png),[2](https://www.snap.com/political-ads/asset/0e162dc6dcdd5a8befaacabf9ab3c0399a2709e07b923dab3e6c7985bbdb819e?mediaType=png),[3](https://www.snap.com/political-ads/asset/59728d4dcc41574fdf7bfab0050c74f0ac068f85a9df2364c4bbd20ad58b2d73?mediaType=png)|152,608||18+|united states|"15 Maiden Lane #16,New York,10038,US"||

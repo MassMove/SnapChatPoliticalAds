@@ -1,4 +1,7 @@
 ## 2021 - Canadian Wildlife Federation 
+Spent: 8,466.00
+Impressions: 2,171,650
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Canadian Wildlife Federation|2,143.00 CAD|Canadian Wildlife Federation|[0](https://www.snap.com/political-ads/asset/e763cf8a88564197856b04d8330fa7911fae41d9045a11ae4dc8a014f53ce879?mediaType=jpg)|569,738|MALE|18-30|canada|CA||

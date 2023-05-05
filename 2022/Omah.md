@@ -1,4 +1,7 @@
 ## 2022 - Omah 
+Spent: 526.00
+Impressions: 257,622
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |TANAMI MEDIA|198.00 USD|Omah|[0](https://www.snap.com/political-ads/asset/e0230de05f4fc634c02b51e207d964117e86f36c89e390e8955d2afcdc395213?mediaType=mp4)|105,940||18+|kuwait|KW||

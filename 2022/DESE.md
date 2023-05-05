@@ -1,4 +1,7 @@
 ## 2022 - DESE 
+Spent: 2,590.00
+Impressions: 261,469
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|595.00 AUD|DESE|[0](https://www.snap.com/political-ads/asset/dfaa037d357406409e2bfa596a3006dd69ec2aa79349d3346a82ca09838e7573?mediaType=mp4)|108,374||15-17|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

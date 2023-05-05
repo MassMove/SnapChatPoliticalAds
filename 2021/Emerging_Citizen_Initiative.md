@@ -1,4 +1,7 @@
 ## 2021 - Emerging Citizen Initiative 
+Spent: 281.00
+Impressions: 116,655
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Emerging Citizen Initiative|155.00 USD|Emerging Citizen Initiative|[0](https://www.snap.com/political-ads/asset/aa8dc43bae53ae415b12358c8adb9b4e34e5e5a8dd5609c34bf1db8ec6841dfe?mediaType=mp4)|67,946||18-28|united states|US||

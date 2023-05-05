@@ -1,4 +1,7 @@
 ## 2022 - Family Friendly Action PAC 
+Spent: 37,607.00
+Impressions: 9,834,035
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|14,569.00 USD|Family Friendly Action PAC|[0](https://www.snap.com/political-ads/asset/22ca0f8ef59b829b406f3949c051283642cf0bc56d4ea3606d786ca3a011b2d7?mediaType=mp4)|4,210,605||18-45|united states|"3050 K Street,Washington,20007,US"|Senate Majority PAC|

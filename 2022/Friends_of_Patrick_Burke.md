@@ -1,4 +1,7 @@
 ## 2022 - Friends of Patrick Burke 
+Spent: 1,958.00
+Impressions: 342,563
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veracity Media|1,585.00 USD|Friends of Patrick Burke|[0](https://www.snap.com/political-ads/asset/17f573332b1c89f3523cde69c218b9fd86c7528ae54dc47afdb1b9a5b46ca2ec?mediaType=mp4)|312,976||18+|united states|US|Patrick Burke|

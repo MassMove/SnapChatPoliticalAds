@@ -1,4 +1,7 @@
 ## 2022 - PPFA 
+Spent: 552,416.00
+Impressions: 108,699,176
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|48,548.00 USD|PPFA|[0](https://www.snap.com/political-ads/asset/747eda882f5abb3ba4c22e074982f7db69989b051d5385498beccb8a0cbf2188?mediaType=mp4)|12,378,467|FEMALE|18-35|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

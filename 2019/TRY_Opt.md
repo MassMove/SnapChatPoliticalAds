@@ -1,4 +1,7 @@
 ## 2019 - TRY Opt 
+Spent: 731.00
+Impressions: 339,537
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |T/A Opt|605.00 EUR|TRY Opt|[0](https://www.snap.com/political-ads/asset/76edb83e728bb0fb72925e36febd6472b1ce2bc71e610e6c3abccdf56efda42e?mediaType=mp4)|269,030||20+|norway|"Øvre Slottsgate 8,Oslo,0157,NO"||

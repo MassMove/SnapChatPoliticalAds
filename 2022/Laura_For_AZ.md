@@ -1,4 +1,7 @@
 ## 2022 - Laura For AZ 
+Spent: 2,073.00
+Impressions: 85,549
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|828.00 USD|Laura For AZ|[0](https://www.snap.com/political-ads/asset/12a2e25af4021c6fc47e968b7f061d1d1203bb3a6403f1f0778860dda83b25c6?mediaType=mp4)|32,431||18+|united states|"1324 Spaight St,Madison,53703,US"|Laura Terech|

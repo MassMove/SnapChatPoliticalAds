@@ -1,4 +1,7 @@
 ## 2022 - NextGen Climate Action Committee 
+Spent: 50,997.00
+Impressions: 12,507,235
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|4,687.00 USD|NextGen Climate Action Committee|[0](https://www.snap.com/political-ads/asset/28e8510803059ab440f66344744a2c3f35ae2a724dc4c3b6741627c3bbd3fd4d?mediaType=mp4)|1,147,802||18+|united states|"1445 New York Ave NW,Washington,20005,US"||

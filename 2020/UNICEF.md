@@ -1,4 +1,7 @@
 ## 2020 - UNICEF 
+Spent: 2,347.00
+Impressions: 1,703,028
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |UNICEF|675.00 USD|UNICEF|[0](https://www.snap.com/political-ads/asset/e49eb50ec0aca167675084dd18a28dc13e861fea526b7fd18e0129588bf68a21?mediaType=mp4)|529,749||25+|saudi arabia|"3 United Nations Plaza,New York,10017,US"||

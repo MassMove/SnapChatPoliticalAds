@@ -1,4 +1,7 @@
 ## 2020 - Democratic Party of Wisconsin 
+Spent: 188.00
+Impressions: 30,145
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democratic Party of Wisconsin|64.00 USD|Democratic Party of Wisconsin|[0](https://www.snap.com/political-ads/asset/c7603b910f3e05f7664cd7a526d98479bc95d45510cac0f370e490d72f94c753?mediaType=png)|7,653|||united states|"P.O. Box 1686 ,Madison,53701,US"|2020 Election|

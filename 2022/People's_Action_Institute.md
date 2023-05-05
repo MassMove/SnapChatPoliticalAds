@@ -1,4 +1,7 @@
 ## 2022 - People's Action Institute 
+Spent: 16,416.00
+Impressions: 922,072
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Where We Live Films|7,500.00 USD|People's Action Institute|[0](https://www.snap.com/political-ads/asset/bfe428a2ec57448920617d690085050f0c4740ea72d5f24daefdd2fcdd92f83f?mediaType=mp4)|437,870||18-28|united states|"38 Meserole Street, 2d,Brooklyn,11206,US"|Pro Voting|

@@ -1,4 +1,7 @@
 ## 2022 - Fuse Washington 
+Spent: 100.00
+Impressions: 23,969
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fuse Washington|50.00 USD|Fuse Washington|[0](https://www.snap.com/political-ads/asset/65b9ee7175939816bbba9ed3192b3a5f99cb98efec23c38969db9cf243508794?mediaType=mp4)|13,122||18+|united states|US|VRR Celebration|

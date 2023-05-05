@@ -1,4 +1,7 @@
 ## 2021 - Government of British Columbia 
+Spent: 38,601.00
+Impressions: 7,439,441
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vizeum Canada|10,000.00 CAD|Government of British Columbia|[0](https://www.snap.com/political-ads/asset/e1a755724caffdbe3cab60ff83058f8ba2a96291c069c7524b291502236532b2?mediaType=mp4)|1,362,824||18-49|canada|"1 University Avenue, 8th Floor,Toronto,M5J 2P1,CA"||

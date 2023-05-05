@@ -1,4 +1,7 @@
 ## 2020 - ahmed alenezi 
+Spent: 532.00
+Impressions: 277,250
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omma 2020|170.00 USD|ahmed alenezi|[0](https://www.snap.com/political-ads/asset/b1dbe543c16f7d69dd5062de681a3a8d6473029492711bfb3b661e2a9251f690?mediaType=jpeg)|142,011||21+|kuwait|KW||

@@ -1,4 +1,7 @@
 ## 2020 - paid for by Abdullah fahhad 
+Spent: 1,089.00
+Impressions: 355,879
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |شركه بيتا ادز|496.00 USD|paid for by Abdullah fahhad|[0](https://www.snap.com/political-ads/asset/b8a32783a43c3d2fbed7852fc1c9f4f300107d2e40e732d2e7c81c8394f4085a?mediaType=mp4)|172,222||21+|kuwait|"7 Khalid Ibn Al Waleed St , Kuwait City - Sawaber Tower 6 , Floor 6, Office No.13,Sharq,15300,KW"|paid for by Abdullah Fahhad|

@@ -1,4 +1,7 @@
 ## 2020 - Ministère du Conseil Exécutif 
+Spent: 11,177.00
+Impressions: 4,568,049
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|9,350.00 CAD|Ministère du Conseil Exécutif|[0](https://www.snap.com/political-ads/asset/c90edbd6f5ff627d1898751e787e7812493f13cbec1f2546b8d545b1d2cc0dca?mediaType=jpg)|3,517,189||18-34|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

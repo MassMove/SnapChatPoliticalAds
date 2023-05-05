@@ -1,4 +1,7 @@
 ## 2019 - Citizens for a Successful CB 
+Spent: 671.00
+Impressions: 304,906
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|125.00 USD|Citizens for a Successful CB|[0](https://www.snap.com/political-ads/asset/9da2e282bbfa2c856cbda0bbbcf40962c7f32d71dfc77109590d781ae76cfc1e?mediaType=jpg)|59,628||18+|united states|"919 Central Ave,Auburn,68305,US"||

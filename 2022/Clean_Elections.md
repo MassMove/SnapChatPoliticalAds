@@ -1,4 +1,7 @@
 ## 2022 - Clean Elections 
+Spent: 17,998.00
+Impressions: 1,538,296
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |RIESTER Sonoran LLC|6,472.00 USD|Clean Elections|[0](https://www.snap.com/political-ads/asset/f871fe1951b179f83c5dea5b55ccf9825d3edccc275bb645b1b1412cc40acf62?mediaType=mp4)|753,261||18+|united states|"3344 E. Camelback Rd.,Phoenix,85018,US"|Level Up Your Voting|

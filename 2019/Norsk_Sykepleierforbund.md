@@ -1,4 +1,7 @@
 ## 2019 - Norsk Sykepleierforbund 
+Spent: 1,162.00
+Impressions: 289,844
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kikkut kommunikasjon as|530.00 USD|Norsk Sykepleierforbund|[0](https://www.snap.com/political-ads/asset/dfe7436d52ce0b7a2e4cde7932ad626796ff71514d148f62b5562ac1473b802e?mediaType=mp4)|135,524||25+|norway|"Kristian Augusts Gate 13 ,Oslo,0164 ,NO"||

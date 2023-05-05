@@ -1,4 +1,7 @@
 ## 2018 - ItAllCounts Pty Ltd 
+Spent: 619.00
+Impressions: 152,633
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ItAllCounts Pty Ltd|404.00 AUD|ItAllCounts Pty Ltd|[0](https://www.snap.com/political-ads/asset/ff20b940a4ecf20f0761557b69cd6645c506cbb24b85884a1fc52025f16f1bfa?mediaType=mp4)|110,433|MALE|30+|australia|AU||

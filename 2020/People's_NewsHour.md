@@ -1,4 +1,7 @@
 ## 2020 - People's NewsHour 
+Spent: 50.00
+Impressions: 56,275
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |People's News Hour|11.00 USD|People's NewsHour|[0](https://www.snap.com/political-ads/asset/76d3e849e24df33160b2ac5311f6e9a9dcf522232bf05a3026d7faba2df92237?mediaType=jpeg)|12,194|||united states|"420 W 118th St #1410,New York,10027,US"|Reproductive Rights|

@@ -1,4 +1,7 @@
 ## 2021 - RAY MCGUIRE FOR MAYOR, INC. 
+Spent: 1,319.00
+Impressions: 131,744
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Assemble The Agency|406.00 USD|RAY MCGUIRE FOR MAYOR, INC.|[0](https://www.snap.com/political-ads/asset/2c84c9241af97882c2841d2bf9ea5df250d203865c145df11bb4667555bcd1a8?mediaType=mp4)|41,256||18+|united states|"1001 Connecticut Ave NW Suite 350,Washington,20036,US"|Ray McGuire for Mayor|

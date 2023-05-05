@@ -1,4 +1,7 @@
 ## 2019 - Dansk Magisterforening 
+Spent: 6,573.00
+Impressions: 2,258,249
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group DK|2,698.00 EUR|Dansk Magisterforening|[0](https://www.snap.com/political-ads/asset/c8e4d805716fc85152726f288c10633099db8e9e86aec8f795563a15d3d8a386?mediaType=mp4)|1,287,625||18-25|denmark|"OMD Danmark A/S - Midtermolen 3,København Ø,2100,DK"||

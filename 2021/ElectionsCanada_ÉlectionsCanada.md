@@ -1,4 +1,7 @@
 ## 2021 - ElectionsCanada/ÉlectionsCanada 
+Spent: 163,821.00
+Impressions: 39,734,775
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|13,478.00 CAD|ElectionsCanada/ÉlectionsCanada|[0](https://www.snap.com/political-ads/asset/609a862ad551edec184b93f3140c97b5c301ac3dd64d76d08fb4bc071747e3b7?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/d31d2d13e97e9ba12d7d4abe9d0b6dc2e27396950dd0f6bbab7c4be15826831e?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/4d368bb5759db2e0b8fac7fd8368c14fef3903e8b1df62b838071b2a6800f58f?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/bc6ec000dcf03f86767c8419b2ac3f08976dc3fdc19836b073a642646bb47e8f?mediaType=mp4)|8,885,847||18+|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

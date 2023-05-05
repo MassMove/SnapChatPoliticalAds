@@ -1,4 +1,7 @@
 ## 2022 - Electoral Commission NI 
+Spent: 1,332.00
+Impressions: 420,226
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Belfast Metropolitan College|312.00 GBP|Electoral Commission NI|[0](https://www.snap.com/political-ads/asset/ef5f158a9a547eb4182b09a34cd450f035603d0847d130b31602fbc281357529?mediaType=mp4)|143,463||18-34|united kingdom|"Holywood Road,Belfast,BT42GU,GB"||

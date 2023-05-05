@@ -1,4 +1,7 @@
 ## 2021 - Revitalize Arizona 
+Spent: 1,957.00
+Impressions: 351,922
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Colibri Collective|414.00 USD|Revitalize Arizona|[0](https://www.snap.com/political-ads/asset/4ed6405c8cbaf42e6c9a2706e005621deca0ab4dd5d8f4343ca78e28c48c0c12?mediaType=mp4)|85,489||18-32|united states|"1425 N 1st St #100,Phoenix,85004,US"|Yassamin Ansari|

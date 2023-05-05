@@ -1,4 +1,7 @@
 ## 2023 - Social Democratic Party 
+Spent: 4,995.00
+Impressions: 784,738
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OMD Finland Oy|1,617.00 EUR|Social Democratic Party|[0](https://www.snap.com/political-ads/asset/d398c8313c88558949b269c831b46cb71fc109637eea09a3cc0b5d8c9b270179?mediaType=mp4)|178,983||18-34|finland|"Lintulahdenkatu 3,Helsinki,00530,FI"||

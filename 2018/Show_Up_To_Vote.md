@@ -1,4 +1,7 @@
 ## 2018 - Show Up To Vote 
+Spent: 66,733.00
+Impressions: 16,455,877
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ACRONYM|21,993.00 USD|Show Up To Vote|[0](https://www.snap.com/political-ads/asset/b1ea328dd6d04a8b930c088fc2a67003c5eac3508b3e83cab8f0eeedb3cc1660?mediaType=mp4)|4,477,090||18+|united states|US||

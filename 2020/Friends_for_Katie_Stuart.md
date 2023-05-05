@@ -1,4 +1,7 @@
 ## 2020 - Friends for Katie Stuart 
+Spent: 18.00
+Impressions: 4,047
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Friends for Katie Stuart|9.00 USD|Friends for Katie Stuart|[0](https://www.snap.com/political-ads/asset/29311b9b28ec7d724b91858aec8bab88800eaaa6c0b49745b063a8a7279912b4?mediaType=png)|3,055|||united states|US|Katie Stuart|

@@ -1,4 +1,7 @@
 ## 2021 - National Education Association 
+Spent: 943.00
+Impressions: 105,441
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|823.00 USD|National Education Association|[0](https://www.snap.com/political-ads/asset/8c9c83d6c33a5e9622274f1331fdfbe9d882c9a4eacc110cdba4956185c221ec?mediaType=mp4)|91,581||18-35|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

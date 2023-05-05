@@ -1,4 +1,7 @@
 ## 2022 - Høyre 
+Spent: 43,861.00
+Impressions: 441,635
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amidays|2,842.00 NOK|Høyre|[0](https://www.snap.com/political-ads/asset/3cf0242094bebfb72f37cd20131d127c8cbda39b5a3a0248a671a7fc7e419846?mediaType=mp4)|31,651||18-30|norway|"Bygdøy Alle 1,OSLO,0257,NO"||

@@ -1,4 +1,7 @@
 ## 2023 - Provincie Utrecht 
+Spent: 3,492.00
+Impressions: 911,404
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Provincie Utrecht|1,065.00 EUR|Provincie Utrecht|[0](https://www.snap.com/political-ads/asset/e9f5cedd44d8a48df8f75c59fc0e12da4764e100e682068e18df91ab99b385c9?mediaType=png)|335,417||18-35|netherlands|NL||

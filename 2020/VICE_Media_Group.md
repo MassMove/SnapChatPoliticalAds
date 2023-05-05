@@ -1,4 +1,7 @@
 ## 2020 - VICE Media Group 
+Spent: 16,678.00
+Impressions: 2,305,301
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |VICE Media LLC|6,388.00 USD|VICE Media Group|[0](https://www.snap.com/political-ads/asset/f8236f02db4df9b9013556f16e32b7f6ff4b45c7c5cd6c6307b10ae672113f39?mediaType=mp4)|894,438||18-34|united states|"49 South 2nd Street,Brooklyn,11249,US"|Register to Vote in 2020|

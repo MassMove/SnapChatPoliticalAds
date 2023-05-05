@@ -1,4 +1,7 @@
 ## 2020 - Fair Fight 
+Spent: 8,000.00
+Impressions: 3,227,441
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BuzzFeed Inc.|5,000.00 USD|Fair Fight|[0](https://www.snap.com/political-ads/asset/40795fb886331f8b57d07d16b6517ef7545250e5922113e6168aef8e5999a483?mediaType=mp4)|1,885,511|FEMALE|18+|united states|"111 E 18th St.,,,New York,10003,US"|Fair Fight|

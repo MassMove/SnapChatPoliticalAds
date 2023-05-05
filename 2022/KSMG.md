@@ -1,4 +1,7 @@
 ## 2022 - KSMG 
+Spent: 9,999.00
+Impressions: 127,668
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |KSMG AB|4,933.00 SEK|KSMG|[0](https://www.snap.com/political-ads/asset/6a0e47c9ead896115803c2f08989465cb0005a390fb05fda4d2c3edfe60ae599?mediaType=mp4)|64,946||18-35|sweden|"Grevturegatan 11 A,Stockholm,11446,SE"||

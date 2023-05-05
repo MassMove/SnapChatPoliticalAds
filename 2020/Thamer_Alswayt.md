@@ -1,4 +1,7 @@
 ## 2020 - Thamer Alswayt 
+Spent: 5,167.00
+Impressions: 2,951,590
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Thamer_info|1,168.00 USD|Thamer Alswayt|[0](https://www.snap.com/political-ads/asset/1e4ca67aed79a29193d46581d34c6e0c01b43cc88e119a58299022ebb51cb388?mediaType=mp4)|891,335||17+|kuwait|"Ardiya ,Farwaniya,2001,KW"||

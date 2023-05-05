@@ -1,4 +1,7 @@
 ## 2020 - Ready By Five 
+Spent: 14.00
+Impressions: 4,385
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yes On Prop R|2.00 USD|Ready By Five|[0](https://www.snap.com/political-ads/asset/c619f6587aec4ec90b41ca21407c5c54348553abc0a7838ae6696b9e022d4270?mediaType=mp4)|636||18+|united states|US|Proposition R|

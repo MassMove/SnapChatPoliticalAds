@@ -1,4 +1,7 @@
 ## 2020 - Elect Ryan Berman 
+Spent: 2,746.00
+Impressions: 828,535
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Elect Ryan Berman|1,157.00 USD|Elect Ryan Berman|[0](https://www.snap.com/political-ads/asset/593a1830f37c3b151877cbc4013e51138cd33b3bbc88faa503224e03010c8c84?mediaType=jpg)|370,322||18+|united states|"P.O. Box 906,Union Lake,48387,US"|Ryan Berman|

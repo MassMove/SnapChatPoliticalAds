@@ -1,4 +1,7 @@
 ## 2021 - Høyre 
+Spent: 1,651,985.00
+Impressions: 29,623,054
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Høyre|230,000.00 NOK|Høyre|[0](https://www.snap.com/political-ads/asset/f01ecf087334e1caca720058e5fe1efd3e3a951c3ffbae198bda92f222cc069e?mediaType=mp4)|4,166,209||17+|norway|"Stortingsgaten 20,Oslo,0161,NO"||

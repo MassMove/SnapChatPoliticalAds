@@ -1,4 +1,7 @@
 ## 2020 - Champs Sports 
+Spent: 18,601.00
+Impressions: 4,157,146
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|3,440.00 USD|Champs Sports|[0](https://www.snap.com/political-ads/asset/2d68104d3cdae84438f8161a5049f35b6091b811a335b42cfc84f0b9dca94362?mediaType=mp4)|797,670||18-38|united states|"195 Broadway, 5th Floor,New York,10007,US"||

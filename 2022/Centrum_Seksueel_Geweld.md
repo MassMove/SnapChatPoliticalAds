@@ -1,4 +1,7 @@
 ## 2022 - Centrum Seksueel Geweld 
+Spent: 633.00
+Impressions: 279,832
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Go eMarketing|217.00 EUR|Centrum Seksueel Geweld|[0](https://www.snap.com/political-ads/asset/ac272081083bd06364cb6981fb3b0960950234787863994ed2374643ea431745?mediaType=mp4)|130,772|FEMALE|18-34|netherlands|"Zwarterweg 10,Naarden,1412 GD,NL"||

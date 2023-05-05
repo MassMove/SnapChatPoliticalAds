@@ -1,4 +1,7 @@
 ## 2022 - Paid by Saeed Al-Qahtani 
+Spent: 17.00
+Impressions: 13,619
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ssaeedalqahtan|17.00 USD|Paid by Saeed Al-Qahtani|[0](https://www.snap.com/political-ads/asset/b799adddcabea1e7215d262a05ce2976fd715ce4f786f4d556933629dfa38192?mediaType=mp4)|13,444||21+|kuwait|US|ssaeedalqahtani|

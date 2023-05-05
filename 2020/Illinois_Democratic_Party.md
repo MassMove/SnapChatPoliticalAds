@@ -1,4 +1,7 @@
 ## 2020 - Illinois Democratic Party 
+Spent: 3,043.00
+Impressions: 688,182
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|1,864.00 USD|Illinois Democratic Party|[0](https://www.snap.com/political-ads/asset/fb0c923184deb5e85846428b494dd84dc8ca8f5729ca9cb43789529755039151?mediaType=mp4)|411,155||18-29|united states|"3050 K Street,Washington,20007,US"||

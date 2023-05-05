@@ -1,4 +1,7 @@
 ## 2022 - Gemeente Raalte 
+Spent: 294.00
+Impressions: 47,147
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gemeente Raalte|150.00 EUR|Gemeente Raalte|[0](https://www.snap.com/political-ads/asset/f355c284c9032a5d8a813b98dc9242cb718d5deea92a2ee4b86f813cccedf68d?mediaType=mp4)|31,895||25-|netherlands|NL||

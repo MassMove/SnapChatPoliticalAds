@@ -1,4 +1,7 @@
 ## 2020 - Republican National Committee 
+Spent: 20,284.00
+Impressions: 5,644,005
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Realtime Media|3,145.00 USD|Republican National Committee|[0](https://www.snap.com/political-ads/asset/5910c04ed5183757fbea8bb8a8a786ce0d1ec9ae6cbad9048c89d78010703c48?mediaType=mp4)|1,145,716||18+|united states|"P.O. Box 13410,Arlington,22219,US"|Republican National Committee|

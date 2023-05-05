@@ -1,4 +1,7 @@
 ## 2019 - Brady Campaign 
+Spent: 8,139.00
+Impressions: 2,327,153
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|2,346.00 USD|Brady Campaign|[0](https://www.snap.com/political-ads/asset/faa3ea3b18597175c84c09b798f282cffef5b0d7066fc34c85749983dddb9a69?mediaType=jpg)|924,916||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

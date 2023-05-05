@@ -1,4 +1,7 @@
 ## 2019 - Fuul 
+Spent: 2,537.00
+Impressions: 872,364
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trumpet Advertising|961.00 USD|Fuul|[0](https://www.snap.com/political-ads/asset/97c6f0507cffd814c527c6fdc915453581fa38501816b94c5d8eb979f24f77f0?mediaType=jpg)|343,455||18+|united states|"2083 St. Philip Street,New Orleans,70119,US"||

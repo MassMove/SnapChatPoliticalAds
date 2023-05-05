@@ -1,4 +1,7 @@
 ## 2020 - Victoria's Secret 
+Spent: 181,486.00
+Impressions: 29,692,893
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DigitasLBi|140,787.00 USD|Victoria's Secret|[0](https://www.snap.com/political-ads/asset/60ae6ff2ed22c704f2a38850989e7b456d9171a4676b8a215b7143bc0d8e39fd?mediaType=mp4)|23,034,514|FEMALE|18-24|united states|"375 Hudson Street,New York,10014,US"|Presidential Election|

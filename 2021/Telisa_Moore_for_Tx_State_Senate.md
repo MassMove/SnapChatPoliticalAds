@@ -1,4 +1,7 @@
 ## 2021 - Telisa Moore for Tx State Senate 
+Spent: 135.00
+Impressions: 39,783
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Telisa for Tx State Senate District 23|57.00 USD|Telisa Moore for Tx State Senate|[0](https://www.snap.com/political-ads/asset/9904cbe3d562ee0f7dfa7f03136b0ca1c4d5be7805923917ac807a5ce5808f05?mediaType=jpeg)|31,509|||united states|US||

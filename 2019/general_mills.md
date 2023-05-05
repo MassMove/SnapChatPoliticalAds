@@ -1,4 +1,7 @@
 ## 2019 - general mills 
+Spent: 1,683,056.00
+Impressions: 512,909,841
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |General Mills|451,244.00 USD|general mills|[0](https://www.snap.com/political-ads/asset/3f0e1f59038c8456de3f9a10f1cab317cf1ef3b02db6d7ccfdd9475e2f2f6ff3?mediaType=mp4)|234,901,755||18-|united states|"P.O. Box 4614 Grand Central Station,New York,10163,US"||

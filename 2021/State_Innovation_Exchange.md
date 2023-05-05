@@ -1,4 +1,7 @@
 ## 2021 - State Innovation Exchange 
+Spent: 998.00
+Impressions: 110,517
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |State Innovation Exchange|333.00 USD|State Innovation Exchange|[0](https://www.snap.com/political-ads/asset/80719146ca06b21de5f45cb0f53b6e03e232f6754e978440441ec69d09936747?mediaType=mp4)|41,499||19+|united states|US|State Innovation Exchange|

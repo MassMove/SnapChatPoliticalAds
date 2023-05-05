@@ -1,4 +1,7 @@
 ## 2021 - Sierra Club 
+Spent: 25,956.00
+Impressions: 4,356,094
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sierra Club|1,990.00 USD|Sierra Club|[0](https://www.snap.com/political-ads/asset/f439c107184ea7b32ba8bd0fc633dbb511fa72b68e75ffeeb20b9686566f1665?mediaType=mp4)|352,927|||united states|"2101 Webster St Suite 1300,Oakland,94612,US"||

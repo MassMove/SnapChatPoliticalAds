@@ -1,4 +1,7 @@
 ## 2023 - Planned Parenthood 
+Spent: 24,406.00
+Impressions: 7,493,969
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ZAMBEZI|1,122.00 USD|Planned Parenthood|[0](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|448,433|FEMALE|18-29|united states|US||

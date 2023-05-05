@@ -1,4 +1,7 @@
 ## 2021 - American Civil Liberties Union 
+Spent: 576,240.00
+Impressions: 152,827,837
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|101,072.00 USD|American Civil Liberties Union|[0](https://www.snap.com/political-ads/asset/104e321849ebeaaed05f6511ecc681d52fc1bfc817db373de8194e0e5f570bea?mediaType=png)|34,405,808||18+|united states|"1445 New York Ave NW,Washington,20005,US"||

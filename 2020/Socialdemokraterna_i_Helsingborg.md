@@ -1,4 +1,7 @@
 ## 2020 - Socialdemokraterna i Helsingborg 
+Spent: 180.00
+Impressions: 36,901
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jakobsson Addemotion AB|173.00 EUR|Socialdemokraterna i Helsingborg|[0](https://www.snap.com/political-ads/asset/e5bed251b34e40e3386eda36c8ecf866d3c50628fb9d616f012205ad1ad29e11?mediaType=png)|34,805||18-35|sweden|"Kullagatan 3,Helsingborg,25220,SE"|Folkomrostning Helsingborg|

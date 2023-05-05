@@ -1,4 +1,7 @@
 ## 2023 - Gemeente Amsterdam 
+Spent: 1,404.00
+Impressions: 394,466
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Media Enzo B.V.|325.00 EUR|Gemeente Amsterdam|[0](https://www.snap.com/political-ads/asset/31f01ac836f892a7110106a30d7caa179faf720a74da6f9f57b826e9fe7f01b0?mediaType=mp4)|92,788||18-25|netherlands|"Wibautstraat 131-D,Amsterdam,1091GL,NL"||

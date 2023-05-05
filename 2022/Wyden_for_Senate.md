@@ -1,4 +1,7 @@
 ## 2022 - Wyden for Senate 
+Spent: 21,245.00
+Impressions: 1,586,400
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|6,723.00 USD|Wyden for Senate|[0](https://www.snap.com/political-ads/asset/2223039362c32d3c9697f3e0f0fb8dc58d5b783036db674de62ed7f3003dc7cc?mediaType=mp4)|502,367||18-35|united states|"3050 K Street,Washington,20007,US"|Wyden for Senate|

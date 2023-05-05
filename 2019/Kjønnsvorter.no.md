@@ -1,4 +1,7 @@
 ## 2019 - Kjønnsvorter.no 
+Spent: 1,441.00
+Impressions: 1,206,453
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Synlighet AS|528.00 USD|Kjønnsvorter.no|[0](https://www.snap.com/political-ads/asset/d79383e427256812565ada1630c24a3d823260a3641d3d9f8de96259aa045a38?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f6646786ce6ab6c759df255305e0c82d61889f05c3903bd720518c88c91a646b?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/36afb01d929b7a45dc7b16a454fc3cb0eaf7a450a811dcec23054ed356678d31?mediaType=mp4)|672,800||18-20|norway|"Møllendalsveien 1a,Bergen,5009,NO"||

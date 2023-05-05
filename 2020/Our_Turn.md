@@ -1,4 +1,7 @@
 ## 2020 - Our Turn 
+Spent: 1,698.00
+Impressions: 749,100
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Our Turn|468.00 USD|Our Turn|[0](https://www.snap.com/political-ads/asset/aac0494f32a0f99131a8d0ae0cddd31208b51cd590dc484fa6cd7580a09d2516?mediaType=mp4)|206,817||18-49|united states|"116 Nassau Street - Suite 519,New York,10038,US"||

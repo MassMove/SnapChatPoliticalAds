@@ -1,4 +1,7 @@
 ## 2022 - DCCS Action IEC 
+Spent: 38,215.00
+Impressions: 9,576,881
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |DCCS Action IEC|14,720.00 USD|DCCS Action IEC|[0](https://www.snap.com/political-ads/asset/e22925f94cbfc5c7b423be7b1ddf1b11212c79e27120115e6ee3408b09d36062?mediaType=mp4)|4,413,181||18+|united states|US|Phil Mendelson|

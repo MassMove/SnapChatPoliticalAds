@@ -1,4 +1,7 @@
 ## 2022 - Friends of the Earth 
+Spent: 3,532.00
+Impressions: 2,198,994
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Friends of the Earth|885.00 GBP|Friends of the Earth|[0](https://www.snap.com/political-ads/asset/8e34b0f041ed95af29d348cf93b52ebb7972a4164b8e3c0e532f4ef382b9ce92?mediaType=mp4)|856,960||18+|united kingdom|GB||

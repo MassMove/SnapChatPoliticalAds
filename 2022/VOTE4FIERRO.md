@@ -1,4 +1,7 @@
 ## 2022 - VOTE4FIERRO 
+Spent: 296.00
+Impressions: 22,462
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |VOTE4NICKFIERRO|59.00 USD|VOTE4FIERRO|[0](https://www.snap.com/political-ads/asset/5d477b00f7db7fc338b14e9f2a798417051d43633ab52534c13646eb00ddc54f?mediaType=mp4)|3,960||18+|united states|US||

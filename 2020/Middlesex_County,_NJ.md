@@ -1,4 +1,7 @@
 ## 2020 - Middlesex County, NJ 
+Spent: 9,761.00
+Impressions: 2,722,735
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Marketing Doctor Inc|1,925.00 USD|Middlesex County, NJ|[0](https://www.snap.com/political-ads/asset/ee440d13f5ac60f90356e63aa4683c62e44d75417719b38a07b38b4faf5b5bab?mediaType=jpg)|728,153||18+|united states|"55 Damon Rd Suite 1,Northampton,01060,US"|Vote 2020|

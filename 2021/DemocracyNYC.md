@@ -1,4 +1,7 @@
 ## 2021 - DemocracyNYC 
+Spent: 78,000.00
+Impressions: 7,179,692
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|38,000.00 USD|DemocracyNYC|[0](https://www.snap.com/political-ads/asset/1638a0af1fe7ab8fef989338b130408ae8367dc7ca9ba88f5755c714f718dfa2?mediaType=mp4)|2,703,705||18+|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

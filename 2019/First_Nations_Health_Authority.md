@@ -1,4 +1,7 @@
 ## 2019 - First Nations Health Authority 
+Spent: 12,941.00
+Impressions: 4,635,541
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |First Nations Health Authority|3,880.00 CAD|First Nations Health Authority|[0](https://www.snap.com/political-ads/asset/7cdfde61b1ffd65ab675b5d31dcf8923570970cca6276b5ec76f174040fb92dd?mediaType=mp4)|1,333,683||19+|canada|"501-100 Park Royal South,Vancouver,V7T 1A2,CA"||

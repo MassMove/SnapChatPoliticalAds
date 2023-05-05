@@ -1,4 +1,7 @@
 ## 2020 - Leadership MKE 
+Spent: 2,974.00
+Impressions: 1,032,780
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|2,503.00 USD|Leadership MKE|[0](https://www.snap.com/political-ads/asset/cec3d7e11c4deb41557d56979b19ce1c776b742f1d7a52e29558f0f27e0610c2?mediaType=mp4)|886,114||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Leadership MKE|

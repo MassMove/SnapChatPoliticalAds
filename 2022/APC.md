@@ -1,4 +1,7 @@
 ## 2022 - APC 
+Spent: 2,557.00
+Impressions: 4,162,933
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LPM|2,182.00 USD|APC|[0](https://www.snap.com/political-ads/asset/dfa3fa89c076dd050a7f2cb74761d128b5c62b1e061c96030b0d94d083fc9924?mediaType=mp4)|3,908,974||19-44|nigeria|GB|Jide Sanwo olu|

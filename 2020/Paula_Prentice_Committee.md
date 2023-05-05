@@ -1,4 +1,7 @@
 ## 2020 - Paula Prentice Committee 
+Spent: 151.00
+Impressions: 47,008
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Invitucs LLP|106.00 USD|Paula Prentice Committee|[0](https://www.snap.com/political-ads/asset/9dbfcc16acd6f2540373a4cb2fd87d91e74b1777deebc443f6a5109861065092?mediaType=mp4)|34,058||18+|united states|US|Paula Prentice|

@@ -1,4 +1,7 @@
 ## 2019 - IEC South Africa 
+Spent: 3,422.00
+Impressions: 246,400
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ad Dynamo|823.00 USD|IEC South Africa|[0](https://www.snap.com/political-ads/asset/6abc28dcb9bb987101ba239803078f58f106e0315882111241bdc4ad5fc9fbdc?mediaType=png)|93,612||18+|south africa|"The Clock Tower, Waterfront, Cape Town, 8001, South Africa,Cape Town,8001,ZA"||

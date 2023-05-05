@@ -1,4 +1,7 @@
 ## 2021 - Hotel Association of NYC 
+Spent: 15,894.00
+Impressions: 2,004,048
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Pythia Public|1,642.00 USD|Hotel Association of NYC|[0](https://www.snap.com/political-ads/asset/6a48814d92ff30fbb726723480d992dcb7017abaec39fc9969369127be981ec8?mediaType=png)|217,364||21+|united states|"214 N 11th Street  6N,Brooklyn,11211,US"|Save the NYC Hotel Industry|

@@ -1,4 +1,7 @@
 ## 2021 - Kimbo For Aspen City Council 
+Spent: 237.00
+Impressions: 44,858
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kimbo For Aspen|188.00 USD|Kimbo For Aspen City Council|[0](https://www.snap.com/political-ads/asset/64fdbe67acfc6a21135bb7b45dcf14214bd251e3e5fcc2eb04bee99d5179a093?mediaType=png)|36,286||18+|united states|US|Kimbo For Aspen|

@@ -1,4 +1,7 @@
 ## 2019 - RTE 
+Spent: 2,463.00
+Impressions: 4,314,615
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network Ireland|1,410.00 EUR|RTE|[0](https://www.snap.com/political-ads/asset/e5b69f5c1196674787d46ac674f6a1e8a22de96a24997c65abf12e347cd179b7?mediaType=mp4)|2,656,979||17-|ireland|"Two Haddington Buildings 20-38 Haddington Road,, Dublin ,D04HE94,IE"||

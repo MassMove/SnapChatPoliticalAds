@@ -1,4 +1,7 @@
 ## 2023 - Peoples Democratic Party 
+Spent: 1,998.00
+Impressions: 1,156,623
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ad Dynamo|1,485.00 USD|Peoples Democratic Party|[0](https://www.snap.com/political-ads/asset/7ccb5c0319cf18a598f5bad530cdfabadf4bdb3ebae51dbf1a671ad66529fd47?mediaType=png)|803,809||18+|nigeria|"The Clock Tower, Waterfront, Cape Town, 8001, South Africa,Cape Town,8001,ZA"|AtikuOkowa2023|

@@ -1,4 +1,7 @@
 ## 2020 - Hyresgästföreningen Stockholm 
+Spent: 1,992.00
+Impressions: 1,609,338
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trickle|404.00 EUR|Hyresgästföreningen Stockholm|[0](https://www.snap.com/political-ads/asset/af480308086643161519d3198afd54ce2aee6a8d69bd09bbe47db39132f04dbc?mediaType=mp4)|377,084||20-30|sweden|"Lillbrogatan 8,PITEÅ, 941 32,SE"||

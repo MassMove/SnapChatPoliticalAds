@@ -1,4 +1,7 @@
 ## 2020 - UW-Madison 
+Spent: 1,157.00
+Impressions: 236,082
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |UW-Madison Division of Continuing Studies|327.00 USD|UW-Madison|[0](https://www.snap.com/political-ads/asset/e1e7152e4d5b89f9f511a5296acb34ce307b49132dada94757793c711c9470c2?mediaType=png)|63,646||18-24|united states|"21 N Park St., 7th Floor,Madison,53715,US"||

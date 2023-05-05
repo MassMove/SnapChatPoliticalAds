@@ -1,4 +1,7 @@
 ## 2022 - Venstre, Danmarks Liberale Parti 
+Spent: 12,817.00
+Impressions: 5,528,758
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Venstre - Danmarks Liberale Parti|2,274.00 EUR|Venstre, Danmarks Liberale Parti|[0](https://www.snap.com/political-ads/asset/aa03e6ecab4ffaf07dd6aae69fe177805f09b113e7aad8513b15684b638fe2b6?mediaType=jpg)|3,178,626||16-25|denmark|"Søllerødvej 30,Holte,2840,DK"|Venstre|

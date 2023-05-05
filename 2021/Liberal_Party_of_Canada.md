@@ -1,4 +1,7 @@
 ## 2021 - Liberal Party of Canada 
+Spent: 35,244.00
+Impressions: 2,057,812
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Data Sciences|1,811.00 CAD|Liberal Party of Canada|[0](https://www.snap.com/political-ads/asset/8398a08f1dde384e67c1cfc8cfae1f51ebcba2e1fdde63a943c5eecfdbd1341e?mediaType=mp4)|137,422||18+|canada|"423 rue St-Nicolas suite 400,Montreal,H2Y2P4,CA"|Liberal Party of Canada|

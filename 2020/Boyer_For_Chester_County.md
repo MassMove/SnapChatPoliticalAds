@@ -1,4 +1,7 @@
 ## 2020 - Boyer For Chester County 
+Spent: 462.00
+Impressions: 241,704
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Boyer For Chester County|150.00 USD|Boyer For Chester County|[0](https://www.snap.com/political-ads/asset/8911113134e04e64df03ffc33e5a5d25469febe22d9bc7f1ac02e02e650d1502?mediaType=jpeg)|77,502||18+|united states|US|Kyle J Boyer for PA Senate District 19|

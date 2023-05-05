@@ -1,4 +1,7 @@
 ## 2020 - Mid-America Regional Council 
+Spent: 505.00
+Impressions: 190,719
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Y Associates LLC|140.00 USD|Mid-America Regional Council|[0](https://www.snap.com/political-ads/asset/76f4178494b1eacd24bbd6c504b6a980d9e08b02e6619a0b7d9c14eb71c3ff1f?mediaType=jpg)|54,001||18+|united states|"249 Ranger Drive,Pittsburgh,15236,US"||

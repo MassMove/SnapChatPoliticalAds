@@ -1,4 +1,7 @@
 ## 2020 - Yaqub Alsaneaa 
+Spent: 508.00
+Impressions: 459,426
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kuwait Media|402.00 USD|Yaqub Alsaneaa|[0](https://www.snap.com/political-ads/asset/7b55daca6cacf697df87b369de1c3828fe97ef01876aab08ea9356d06bd46972?mediaType=png)|367,205||20+|kuwait|KW|Ahmed Hamad Albdayeh|

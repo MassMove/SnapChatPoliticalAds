@@ -1,4 +1,7 @@
 ## 2021 - LCCHR 
+Spent: 10,802.00
+Impressions: 2,648,905
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|3,588.00 USD|LCCHR|[0](https://www.snap.com/political-ads/asset/5d7395539a400c852780347212b6f0c2bda514627480e6a7251d4a1309202364?mediaType=jpeg)|1,146,954||18+|united states|"1445 New York Ave NW,Washington,20005,US"||

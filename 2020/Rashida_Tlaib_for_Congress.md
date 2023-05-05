@@ -1,4 +1,7 @@
 ## 2020 - Rashida Tlaib for Congress 
+Spent: 11,248.00
+Impressions: 1,372,231
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|6,854.00 USD|Rashida Tlaib for Congress|[0](https://www.snap.com/political-ads/asset/f6f59058d2266960dbd826fc3226f4353c53913b1f2df012b5975b911082682f?mediaType=mp4)|966,382||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Rashida Tlaib for Congress|

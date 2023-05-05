@@ -1,4 +1,7 @@
 ## 2022 - City of Chicago 
+Spent: 67,925.00
+Impressions: 6,926,936
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ogilvy & Mather Chicago|12,768.00 USD|City of Chicago|[0](https://www.snap.com/political-ads/asset/4559a30759ef90120b80c715997ec50661b022508fc1f7b0f4536c2cd7ada83b?mediaType=png)|1,901,083||18+|united states|"333 N Green St, Floor 15,Chicago,60607,US"||

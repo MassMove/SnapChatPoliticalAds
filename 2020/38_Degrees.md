@@ -1,4 +1,7 @@
 ## 2020 - 38 Degrees 
+Spent: 5,986.00
+Impressions: 7,126,227
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |38 Degrees|1,549.00 GBP|38 Degrees|[0](https://www.snap.com/political-ads/asset/8f5ac536fa43dc107f1b20e8a486e2f767dcf859accad142594768f12b482a54?mediaType=mp4)|1,234,194||18+|united kingdom|GB||

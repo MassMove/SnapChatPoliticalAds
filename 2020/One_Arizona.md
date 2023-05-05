@@ -1,4 +1,7 @@
 ## 2020 - One Arizona 
+Spent: 28,901.00
+Impressions: 4,069,763
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Colibri Collective|2,967.00 USD|One Arizona|[0](https://www.snap.com/political-ads/asset/87472603a59e649f05fb8b1d269469f4fc1c3464d14c067bce96b5142e1d6990?mediaType=png)|862,234||18-34|united states|"1425 N 1st St #100,Phoenix,85004,US"||

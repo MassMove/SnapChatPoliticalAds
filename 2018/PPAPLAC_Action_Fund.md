@@ -1,4 +1,7 @@
 ## 2018 - PPAPLAC Action Fund 
+Spent: 2,246.00
+Impressions: 405,212
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Open Hand Media|988.00 USD|PPAPLAC Action Fund|[0](https://www.snap.com/political-ads/asset/d396d9032f8ac0bc6c3210950072b24d8ea1352ea95ea73cc59bbe9a8c4b906c?mediaType=mov)|179,410|FEMALE|18+|united states|"235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US"||

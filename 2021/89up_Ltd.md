@@ -1,4 +1,7 @@
 ## 2021 - 89up Ltd 
+Spent: 2,437.00
+Impressions: 1,397,925
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |HOPE not hate Charitable Trust|485.00 GBP|89up Ltd|[0](https://www.snap.com/political-ads/asset/97be0aef64c87d66ee452551822312e4676c596840976392c5a1dff6f67289a7?mediaType=mp4)|285,138||18-25|united kingdom|"1 Clothier St,London,E1 POA,GB"||

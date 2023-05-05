@@ -1,4 +1,7 @@
 ## 2022 - Florida Planned Parenthood PAC 
+Spent: 9,856.00
+Impressions: 1,442,409
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|3,439.00 USD|Florida Planned Parenthood PAC|[0](https://www.snap.com/political-ads/asset/9985bcd6078650ffcff210ea47f6677f570e9e4bd93211edcd89e365f77ab61a?mediaType=png)|589,366|||united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"|Charlie Crist|

@@ -1,4 +1,7 @@
 ## 2022 - Kingston Council 
+Spent: 98.00
+Impressions: 32,915
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Royal Borough of Kingston Council|54.00 GBP|Kingston Council|[0](https://www.snap.com/political-ads/asset/02b966e0f9c5a0f9e5b3966574db457ca7cd0d3358f6a3d8cf2121fd251f2505?mediaType=jpg)|18,430||18+|united kingdom|GB||

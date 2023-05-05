@@ -1,4 +1,7 @@
 ## 2020 - Rise, Inc. 
+Spent: 27,695.00
+Impressions: 6,123,969
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Veracity Media|10,703.00 USD|Rise, Inc.|[0](https://www.snap.com/political-ads/asset/7a786c8477f7dd16d0a212a2a6fce7c0d76149b2466ab9d332672eb223a2cbe7?mediaType=mp4)|2,337,980||18+|united states|US||

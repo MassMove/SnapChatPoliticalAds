@@ -1,4 +1,7 @@
 ## 2019 - NRDC 
+Spent: 937.00
+Impressions: 249,346
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|605.00 USD|NRDC|[0](https://www.snap.com/political-ads/asset/161fa287620a0e78a054767b0867d89751ceb38fb4ca1f9499562e06d8f37799?mediaType=mp4)|150,072||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

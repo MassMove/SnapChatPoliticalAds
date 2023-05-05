@@ -1,4 +1,7 @@
 ## 2019 - Kristiansand Høyre 
+Spent: 317.00
+Impressions: 135,368
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kristiansand Høyre|138.00 USD|Kristiansand Høyre|[0](https://www.snap.com/political-ads/asset/f3ef0fad4285ff97cb33bbc9d2da351f91308de52293fca8cb985982977dc408?mediaType=mp4)|49,487|||norway|"Kongens gate 29,Kristiansand ,N4610,NO"||

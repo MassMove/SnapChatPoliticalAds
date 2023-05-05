@@ -1,4 +1,7 @@
 ## 2022 - Opportunity For All Floridians 
+Spent: 2,651.00
+Impressions: 672,050
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Opportunity For All Floridians|311.00 USD|Opportunity For All Floridians|[0](https://www.snap.com/political-ads/asset/00b825e7f3a87dae791d4e9f8d2efe5ee9c3fd2678886a423e4938dc88cf7b2d?mediaType=mp4)|207,764|||united states|"1430 S Dixie Highway, STE 104 #144,Coral Gables,33146,US"|SB 620 Puppy Mills|

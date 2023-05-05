@@ -1,4 +1,7 @@
 ## 2020 - Millions of Michiganians 
+Spent: 42,448.00
+Impressions: 7,084,843
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|22,335.00 USD|Millions of Michiganians|[0](https://www.snap.com/political-ads/asset/daa02c78e22692bcec08700de880cc2207ccc49eee258a977a4ef30b5dd7b3a8?mediaType=mp4)|3,014,673||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|IE Supporting Senator Gary Peters|

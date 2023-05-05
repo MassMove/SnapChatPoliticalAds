@@ -1,4 +1,7 @@
 ## 2020 - Colorado Dept. of Transportation 
+Spent: 2,249.00
+Impressions: 235,180
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vladimir Jones|814.00 USD|Colorado Dept. of Transportation|[0](https://www.snap.com/political-ads/asset/6caeab9cbf4b55fb8b4c6195003de1d11de78158c4f74091a913a6a6734efbbb?mediaType=mp4)|85,090||21-34|united states|"6 N Tejon St. 4th Floor,Colorado Springs,80903,US"||

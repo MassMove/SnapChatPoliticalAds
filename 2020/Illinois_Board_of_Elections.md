@@ -1,4 +1,7 @@
 ## 2020 - Illinois Board of Elections 
+Spent: 2,035.00
+Impressions: 500,729
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Learfield IMG College  LLC|300.00 USD|Illinois Board of Elections|[0](https://www.snap.com/political-ads/asset/3fb2c89ce812bbb0135426c8cdf59999bf04d2f3f94fb1d51cd54da286eeeb0d?mediaType=mp4)|113,464||18+|united states|"540 Trade St NW,Winston-Salem,27101,US"|Register to Vote|

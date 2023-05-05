@@ -1,4 +1,7 @@
 ## 2019 - Planned Parenthood Action Fund 
+Spent: 972.00
+Impressions: 318,579
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|861.00 USD|Planned Parenthood Action Fund|[0](https://www.snap.com/political-ads/asset/025823ffd4bc80d3414d2882a88b1f34ff4e61ec7fd1afeded33bcc9d82049e0?mediaType=mp4)|281,991|FEMALE|18-34|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"||

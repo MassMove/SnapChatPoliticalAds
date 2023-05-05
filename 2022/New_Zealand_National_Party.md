@@ -1,4 +1,7 @@
 ## 2022 - New Zealand National Party 
+Spent: 1,177.00
+Impressions: 364,990
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Rainmakers MSA|541.00 USD|New Zealand National Party|[0](https://www.snap.com/political-ads/asset/04200bbc0d7a4f3581c9c6964fc8f7e30241d88f2c81a50a8f45fde31c2d90d7?mediaType=mp4)|239,486|FEMALE|18-24|new zealand|"5 Eglon Street, Parnell,Auckland,1052,NZ"||

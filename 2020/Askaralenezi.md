@@ -1,4 +1,7 @@
 ## 2020 - Askaralenezi 
+Spent: 1,207.00
+Impressions: 651,227
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |photo and video|591.00 USD|Askaralenezi|[0](https://www.snap.com/political-ads/asset/6986c1be51d70517b39a096f36ab1895e64f8e47f5b3070d658162b34d5a9c70?mediaType=mp4)|287,286||20+|kuwait|KW|Askaralenezi|

@@ -1,4 +1,7 @@
 ## 2022 - Priorities USA & Somos Votantes 
+Spent: 27,608.00
+Impressions: 1,933,295
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gambit Strategies|8,465.00 USD|Priorities USA & Somos Votantes|[0](https://www.snap.com/political-ads/asset/af2adcb0ceb3958bc4b53af6d690b4cd8f3e39c0dfcaeed8997c0a6f39a9fb04?mediaType=mp4)|587,057||18-34|united states|"2939 Van Ness St NW #1006,Washington,20008,US"||

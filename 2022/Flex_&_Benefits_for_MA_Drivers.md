@@ -1,4 +1,7 @@
 ## 2022 - Flex & Benefits for MA Drivers 
+Spent: 32,980.00
+Impressions: 1,627,788
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|17,994.00 USD|Flex & Benefits for MA Drivers|[0](https://www.snap.com/political-ads/asset/5742dcdc557f74576e0ea3886b97f470d73e1cf0ac5ba7f7b31899b92e5cf720?mediaType=mp4)|868,390||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"|Yes for MA Drivers|

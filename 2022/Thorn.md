@@ -1,4 +1,7 @@
 ## 2022 - Thorn 
+Spent: 64,498.00
+Impressions: 33,099,881
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Thorn|15,977.00 USD|Thorn|[0](https://www.snap.com/political-ads/asset/8ae3a563e579e5fd5671edd02c781c80582a8f779f03387f96b0faf9caa7f3fd?mediaType=mp4)|8,471,090||17-|united states|"222 N. Pacific Coast Highway, 10th Floor,El Segundo,90245,US"||

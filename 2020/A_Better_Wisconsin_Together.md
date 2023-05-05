@@ -1,4 +1,7 @@
 ## 2020 - A Better Wisconsin Together 
+Spent: 76,097.00
+Impressions: 8,992,034
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|23,629.00 USD|A Better Wisconsin Together|[0](https://www.snap.com/political-ads/asset/1e6afdc0234ca3ba61c6978ff098233a3dab15a125fc9305ce55e5527c42a816?mediaType=mp4)|3,858,359||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|A Better Wisconsin Together Political Fund|

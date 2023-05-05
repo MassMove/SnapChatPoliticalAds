@@ -1,4 +1,7 @@
 ## 2022 - CDU Solingen 
+Spent: 48.00
+Impressions: 8,798
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mats Büser - Webdesign & Beratung|27.00 EUR|CDU Solingen|[0](https://www.snap.com/political-ads/asset/9fbb482d5fb2879b366735fb5de3c29f58fc0517254ac6dbb4afa024b8a51f61?mediaType=mp4)|5,180||18+|germany|"Unnersberger Allee 15,Solingen,42659,DE"|Sebastian Haug|

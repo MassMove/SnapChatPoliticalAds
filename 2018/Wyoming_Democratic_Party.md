@@ -1,4 +1,7 @@
 ## 2018 - Wyoming Democratic Party 
+Spent: 473.00
+Impressions: 147,933
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wyoming Democratic Party|349.00 USD|Wyoming Democratic Party|[0](https://www.snap.com/political-ads/asset/ff2000b92e3ba57ef7caa934bbe17a80fd3f4dd7579bd1034ba703cada7b6fd4?mediaType=mp4)|109,669||18+|united states|US||

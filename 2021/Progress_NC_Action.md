@@ -1,4 +1,7 @@
 ## 2021 - Progress NC Action 
+Spent: 5,272.00
+Impressions: 713,933
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|554.00 USD|Progress NC Action|[0](https://www.snap.com/political-ads/asset/07f4c770c7d069906e0c0d6daf1115c474b7833d8556d0204ff047f21f931856?mediaType=png)|85,463||18+|united states|US||

@@ -1,4 +1,7 @@
 ## 2022 - Preserve the Good Life 
+Spent: 4,978.00
+Impressions: 780,177
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|629.00 USD|Preserve the Good Life|[0](https://www.snap.com/political-ads/asset/b8f31305fde14acdce1a2b1e32667a51ebd6064171a862741747ce4c57f370d4?mediaType=png)|118,657||18+|united states|"919 Central Ave,Auburn,68305,US"|Preserve the Good Life|

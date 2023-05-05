@@ -1,4 +1,7 @@
 ## 2019 - SPÖ NÖ 
+Spent: 999.00
+Impressions: 1,597,273
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SPÖ Niederösterreich|333.00 EUR|SPÖ NÖ|[0](https://www.snap.com/political-ads/asset/45615ef5af1b14ea2b2519273563d92c361c70e0341600a0cdfabfbf24756ecc?mediaType=mp4)|556,380|||austria|AT|SPOE NOE|

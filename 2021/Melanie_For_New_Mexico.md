@@ -1,4 +1,7 @@
 ## 2021 - Melanie For New Mexico 
+Spent: 14,993.00
+Impressions: 1,742,766
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |New Blue Interactive|5,482.00 USD|Melanie For New Mexico|[0](https://www.snap.com/political-ads/asset/ae91b6d64b47133f76a4428004af5b6e3bb2f767ab696e843fc62a019cbdb764?mediaType=png)|694,389||18-40|united states|"1146 Connecticut Ave,Washington,20036,US"|Melanie Stansbury|

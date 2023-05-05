@@ -1,4 +1,7 @@
 ## 2023 - MSEA 
+Spent: 2,544.00
+Impressions: 180,483
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|627.00 USD|MSEA|[0](https://www.snap.com/political-ads/asset/6fa322b541bb1a796b1e55dfa8e8781acf857d1d21b5b52ad67a54aa1b58fee8?mediaType=jpg)|81,649||18+|united states|US||

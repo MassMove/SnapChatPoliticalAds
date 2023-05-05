@@ -1,4 +1,7 @@
 ## 2021 - University of California 
+Spent: 2,422.00
+Impressions: 517,643
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Parcon Media|542.00 USD|University of California|[0](https://www.snap.com/political-ads/asset/f06299972e6d201183825c9b01683a667408fa382ef91629f509fd398a8f2594?mediaType=mp4)|97,760||18-24|united states|US||

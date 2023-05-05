@@ -1,4 +1,7 @@
 ## 2022 - Maryland Highway Safety Office 
+Spent: 3,175.00
+Impressions: 929,055
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Resolute Digital DC|1,359.00 USD|Maryland Highway Safety Office|[0](https://www.snap.com/political-ads/asset/9f026072e2ae92493c25d9fc15d181e798b5b5abaff74343fcd7ee3c532714b0?mediaType=jpeg)|460,086|||united states|"PO Box 542008,Omaha,68154,US"||

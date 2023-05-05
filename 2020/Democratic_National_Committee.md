@@ -1,4 +1,7 @@
 ## 2020 - Democratic National Committee 
+Spent: 168,549.00
+Impressions: 59,676,524
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democratic National Committee|8,708.00 USD|Democratic National Committee|[0](https://www.snap.com/political-ads/asset/bc0b88a68d8770ac51ca5e13e59b6024f42a35de1d03bdbbfe0c8e0c6422b48c?mediaType=png)|4,610,251||18+|united states|"131 16th Street NE,Washington,20003,US"|Democratic National Committee|

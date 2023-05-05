@@ -1,4 +1,7 @@
 ## 2021 - Brian Botterill 
+Spent: 39.00
+Impressions: 5,358
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Brian Botterill|24.00 CAD|Brian Botterill|[0](https://www.snap.com/political-ads/asset/c870c6e629080e4916c1210a9b0bf6ba38859a600e80acc2bea38963f9e4b648?mediaType=mp4)|3,509||18+|canada|CA|Brian Botterill for Strathcona County  Ward 3|

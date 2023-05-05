@@ -1,4 +1,7 @@
 ## 2020 - Planned Parenthood 
+Spent: 204,116.00
+Impressions: 129,357,823
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |R/GA|13,284.00 USD|Planned Parenthood|[0](https://www.snap.com/political-ads/asset/c1f9dd8b79984e24eec545cc71942c72ea8916db56997c36d7b3d5c82d3c9fb5?mediaType=mov)|13,336,816||17-|united states|"450 W 33rd St,New York,10001,US"||

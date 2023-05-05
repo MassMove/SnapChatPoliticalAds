@@ -1,4 +1,7 @@
 ## 2021 - Collective Future 
+Spent: 6,703.00
+Impressions: 341,441
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |New Blue Interactive|1,814.00 USD|Collective Future|[0](https://www.snap.com/political-ads/asset/178b20546431f1df404c32197a9708eebb8b0dc2e4519e6422246e745026d914?mediaType=png)|90,140||18+|united states|"1146 Connecticut Ave,Washington,20036,US"|Collective Future|

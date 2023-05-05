@@ -1,4 +1,7 @@
 ## 2022 - Turnout Activism Inc. 
+Spent: 97,300.00
+Impressions: 8,539,789
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Turnout Activism Inc.|14,099.00 USD|Turnout Activism Inc.|[0](https://www.snap.com/political-ads/asset/35b3498d9a405d61f605addcb6226f51788a8b7ef4d248173543de62bacddc1d?mediaType=mp4)|1,165,018|FEMALE|18-29|united states|"35 Walden St #3g,Cambridge,02140,US"|TurnUp Activism|

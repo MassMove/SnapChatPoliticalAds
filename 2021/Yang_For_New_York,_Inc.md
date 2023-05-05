@@ -1,4 +1,7 @@
 ## 2021 - Yang For New York, Inc 
+Spent: 5,629.00
+Impressions: 1,331,170
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|2,135.00 USD|Yang For New York, Inc|[0](https://www.snap.com/political-ads/asset/14a9110a73edb867096bf988c1c79102d28924e26b1e79c2f6c647a4414a0e68?mediaType=jpg)|619,091||18+|united states|US|Yang For New York Inc|

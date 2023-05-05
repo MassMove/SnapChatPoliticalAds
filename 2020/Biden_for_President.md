@@ -1,4 +1,7 @@
 ## 2020 - Biden For President 
+Spent: 7,998.00
+Impressions: 3,994,259
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BuzzFeed Inc.|3,092.00 USD|Biden For President|[0](https://www.snap.com/political-ads/asset/fb9bd7c5bdb0bb41547617458faeb824662184b5249a8661a6bb816a8bc6b343?mediaType=mp4)|1,543,899||18+|united states|"111 E 18th St.,,,New York,10003,US"|Joe Biden|

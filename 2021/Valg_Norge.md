@@ -1,4 +1,7 @@
 ## 2021 - Valg Norge 
+Spent: 24,439.00
+Impressions: 3,360,841
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Norge AS|5,246.00 EUR|Valg Norge|[0](https://www.snap.com/political-ads/asset/33f050f3441464f4c9a4de1df2ec03ebde9fb428f5c4d858f7919d3015df0c3e?mediaType=mp4)|884,702||18+|norway|"Kristian Augusts gate 23, OSLO,0164 ,NO"||

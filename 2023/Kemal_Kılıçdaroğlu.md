@@ -1,4 +1,7 @@
 ## 2023 - Kemal Kılıçdaroğlu 
+Spent: 476.00
+Impressions: 655,933
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Goodroll Dijital Video Reklam Pazarlama Tic. A.Ş.|263.00 USD|Kemal Kılıçdaroğlu|[0](https://www.snap.com/political-ads/asset/322ee91437c15ed7be6a0257bd5ebd63167b5a0378dac66f6fa698a23519878d?mediaType=mp4)|358,029||18-24|turkey|"Emniyetevler Mah. Yamaç Sok. No:6 Kat:2,İstanbul/Kağıthane,34415,TR"|Kemal Kilicdaroglu|

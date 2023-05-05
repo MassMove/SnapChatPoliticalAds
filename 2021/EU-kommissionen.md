@@ -1,4 +1,7 @@
 ## 2021 - EU-kommissionen 
+Spent: 20,158.00
+Impressions: 8,130,685
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Adsup AB|790.00 EUR|EU-kommissionen|[0](https://www.snap.com/political-ads/asset/ed04dcc2fba77e6781556e135de98dee48c997952e060a25feb30742102c116f?mediaType=mp4)|1,266,869||18-24|sweden|"KÄMPEGATAN 6,Göteborg,41104,SE"||

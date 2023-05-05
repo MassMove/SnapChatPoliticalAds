@@ -1,4 +1,7 @@
 ## 2021 - Alberta Federation of Labour 
+Spent: 2,307.00
+Impressions: 299,730
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Point Blank Creative|854.00 CAD|Alberta Federation of Labour|[0](https://www.snap.com/political-ads/asset/cb91c0d1586adbea06198710aadae12d3cefb6e2ba506a876d76521816c0366b?mediaType=png)|141,410||25+|canada|"505 Hamilton St., Room 301,Vancouver,V6B 2R1,CA"||

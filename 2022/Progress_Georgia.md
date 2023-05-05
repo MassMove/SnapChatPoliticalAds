@@ -1,4 +1,7 @@
 ## 2022 - Progress Georgia 
+Spent: 3,932.00
+Impressions: 586,130
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Progress Georgia|500.00 USD|Progress Georgia|[0](https://www.snap.com/political-ads/asset/f27cf21aa76e423c1e7f8d81bdee93806b9b63a7634590d77967f2119c492d0f?mediaType=mp4)|135,816|||united states|US|Darlene Taylor|

@@ -1,4 +1,7 @@
 ## 2020 - Rise Above Colorado 
+Spent: 20,550.00
+Impressions: 29,663,051
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Huddled Masses|5,000.00 USD|Rise Above Colorado|[0](https://www.snap.com/political-ads/asset/8e846f0023e2606c620b6e644975508b39f8077160f388bd15ec03eabf55f482?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/056f5e6dc0845f347a2f4c2dfe7742c5fcb3b9a0887848d7c0ff094e5c9ccae8?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/121dd2de6e744ee39d9e098cb9edf6aadf15b13e403cb7814cff876073acd1c9?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/cea5b5fca59efd638e570f8b7c46e5d549d73e5274f6e07a81cdb09eb3b60b10?mediaType=mp4)|7,793,725||17-|united states|"27 E 28th Street,New York ,10016,US"||

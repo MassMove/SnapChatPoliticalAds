@@ -1,4 +1,7 @@
 ## 2021 - Threshold 
+Spent: 372.00
+Impressions: 435,873
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Threshold|124.00 EUR|Threshold|[0](https://www.snap.com/political-ads/asset/f392036ce546e06d74873ef22b20fcd7d317145928a98c4a0ac16919b0bd96d3?mediaType=jpeg)|151,733||18+|ireland|"25 Great Strand Street, Dublin 1,Dublin,D01 XP04,IE"||

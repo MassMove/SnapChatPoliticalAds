@@ -1,4 +1,7 @@
 ## 2022 - House Majority PAC 
+Spent: 78,961.00
+Impressions: 5,984,081
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|2,679.00 USD|House Majority PAC|[0](https://www.snap.com/political-ads/asset/3e8bf5406b78f6240b6cf00af5f224efff4df0cbb090b2baa8837695f173a9f0?mediaType=mp4)|704,579||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"||

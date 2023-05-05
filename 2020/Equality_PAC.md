@@ -1,4 +1,7 @@
 ## 2020 - Equality PAC 
+Spent: 8,287.00
+Impressions: 1,022,395
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,646.00 USD|Equality PAC|[0](https://www.snap.com/political-ads/asset/d777e7ea1703c162d31a1984796aaa74fd522f79157557df96a5fb65d7e9edc0?mediaType=jpg)|334,160||18+|united states|US|Equality PAC|

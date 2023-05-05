@@ -1,4 +1,7 @@
 ## 2020 - National Wildlife Federation 
+Spent: 352.00
+Impressions: 180,821
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |National Wildlife Federation|52.00 USD|National Wildlife Federation|[0](https://www.snap.com/political-ads/asset/4d7caef9212bebd4ee71ee6253dcaa50bf5967448a4e018304dbfa3d4e53728c?mediaType=png)|23,270||25-45|united states|"11100 Wildlife Center Dr,Reston,20190,US"||

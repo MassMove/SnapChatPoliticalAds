@@ -1,4 +1,7 @@
 ## 2023 - Planned Parenthood Advocates WI 
+Spent: 178.00
+Impressions: 39,485
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Planned Parenthood Advocates of Wisconsin|89.00 USD|Planned Parenthood Advocates WI|[0](https://www.snap.com/political-ads/asset/580075930b8512524fa6336e77d621ff5805d259700c6b491d545b59bfc93f8b?mediaType=mp4)|31,382||18+|united states|"302 N Jackson St,Milwaukee,53211,US"|AG Kaul Lawsuit|

@@ -1,4 +1,7 @@
 ## 2019 - Frelsesarmeen 
+Spent: 13,203.00
+Impressions: 7,166,878
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Opptur|724.00 EUR|Frelsesarmeen|[0](https://www.snap.com/political-ads/asset/e3334bbdeb91327d3c44b647fb3a7492eb61f244d62c2aa5c599d0e049b0848b?mediaType=mp4)|647,223||15-35|norway|"Edvard Storms gate 2,OSLO,0166,NO"|Julegryta|

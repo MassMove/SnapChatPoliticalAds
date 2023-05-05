@@ -1,4 +1,7 @@
 ## 2022 - Kevin Porter for Congress 
+Spent: 38.00
+Impressions: 3,557
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Kevin Porter For Congress|8.00 USD|Kevin Porter for Congress|[0](https://www.snap.com/political-ads/asset/cbe01975bedd77bdd626f22261e1e406d6f44ff99c7a095cc69c9f6afe1d95d5?mediaType=mp4)|891||18-25|united states|US||

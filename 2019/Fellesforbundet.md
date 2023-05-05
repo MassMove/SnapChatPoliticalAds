@@ -1,4 +1,7 @@
 ## 2019 - Fellesforbundet 
+Spent: 3,203.00
+Impressions: 770,106
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Idium 1881 AS|244.00 EUR|Fellesforbundet|[0](https://www.snap.com/political-ads/asset/37c4a08530cfa6311f5ab75fb3c919c24fdb071259959c74e24a068cc60bf704?mediaType=png)|66,918||18+|norway|"Rolf Wickstrøms vei 15,Oslo,0484,NO"||

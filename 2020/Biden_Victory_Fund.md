@@ -1,4 +1,7 @@
 ## 2020 - Biden Victory Fund 
+Spent: 27,242.00
+Impressions: 9,312,666
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Biden Victory Fund|3,102.00 USD|Biden Victory Fund|[0](https://www.snap.com/political-ads/asset/d95e1d5dde98baa3f626d103ccd83d41a7a952434d83823c3875fc55f99d2b14?mediaType=png)|947,412||20+|united states|"430 South Capitol Street SE,Washington,20003,US"|Biden Victory Fund|

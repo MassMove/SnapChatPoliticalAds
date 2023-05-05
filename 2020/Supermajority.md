@@ -1,4 +1,7 @@
 ## 2020 - Supermajority 
+Spent: 10,496.00
+Impressions: 980,938
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|3,309.00 USD|Supermajority|[0](https://www.snap.com/political-ads/asset/828d63de505fddaee3fa515907102860e5af37153524ebdffdc0ace369768675?mediaType=png)|352,364|FEMALE|18+|united states|"PO Box 128,Mill Valley,94942,US"|Supermajority PAC|

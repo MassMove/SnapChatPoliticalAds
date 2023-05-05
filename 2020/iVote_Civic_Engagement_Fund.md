@@ -1,4 +1,7 @@
 ## 2020 - iVote Civic Engagement Fund 
+Spent: 23,444.00
+Impressions: 2,274,139
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|16,489.00 USD|iVote Civic Engagement Fund|[0](https://www.snap.com/political-ads/asset/cc3b6e65a95abdc74d6fbc9d296f40b4430108c7e6b856ec1c1ad3c324ba0565?mediaType=mp4)|1,697,741||18+|united states|US|iVote Civic Engagement Fund|

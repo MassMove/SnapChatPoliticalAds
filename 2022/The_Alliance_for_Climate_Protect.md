@@ -1,4 +1,7 @@
 ## 2022 - The Alliance for Climate Protect 
+Spent: 1,204.00
+Impressions: 110,959
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MissionWired|822.00 USD|The Alliance for Climate Protect|[0](https://www.snap.com/political-ads/asset/7ea5e79882ca79eca11125d42dca59e8ac32f59b5ca83ff656fd76db9df0c57d?mediaType=mp4)|81,078||30+|united states|US||

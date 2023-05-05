@@ -1,4 +1,7 @@
 ## 2022 - Better Nevada PAC 
+Spent: 23,528.00
+Impressions: 1,353,075
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Majority Strategies|12,185.00 USD|Better Nevada PAC|[0](https://www.snap.com/political-ads/asset/947eacebad0d6a3440835fe25f84fbacef5e3cf997ed93257a0c3c24f9fd80bf?mediaType=mp4)|688,346||18+|united states|US|Better Nevada PAC|

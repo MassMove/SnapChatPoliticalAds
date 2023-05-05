@@ -1,4 +1,7 @@
 ## 2020 - Arapahoe County Colorado 
+Spent: 999.00
+Impressions: 430,133
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|500.00 USD|Arapahoe County Colorado|[0](https://www.snap.com/political-ads/asset/a67074cc848398e0977c3741d88ae2ea1bc15914b9a4430c3fe6e14d7d5b50c0?mediaType=jpg),[1](https://www.snap.com/political-ads/asset/4558aabd72d9f08d1bea51d8a7160f03912e042d95d0f4f2ba709b329921b2b1?mediaType=jpg),[2](https://www.snap.com/political-ads/asset/4f93c788f7902ec04e86a31aab477694ea58e8a453be49ac4d28034fa4430230?mediaType=jpg),[3](https://www.snap.com/political-ads/asset/ea233ad5d4c1047bf79464aec8e0303bf97f47c0d9b61095513848264f88823b?mediaType=jpg),[4](https://www.snap.com/political-ads/asset/e55d18e0e43cd3209f7e09bb7047bf76b6fafbad060780f6dd4e12192c311ef2?mediaType=jpg)|215,262||18+|united states|"5334 S Prince St,Littleton,80120,US"||

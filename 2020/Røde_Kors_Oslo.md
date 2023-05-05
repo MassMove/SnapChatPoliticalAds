@@ -1,4 +1,7 @@
 ## 2020 - Røde Kors Oslo 
+Spent: 1,782.00
+Impressions: 1,002,205
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Papaya design & marketing|273.00 USD|Røde Kors Oslo|[0](https://www.snap.com/political-ads/asset/45894d3519a03d68d222d0e8ab60a2bc7dbaeb25aa54b9196e4a05cee6e45d8f?mediaType=mp4)|179,806|FEMALE|17-|norway|"Saltboveien 25,Larkollen,1560,NO"||

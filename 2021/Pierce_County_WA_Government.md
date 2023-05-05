@@ -1,4 +1,7 @@
 ## 2021 - Pierce County WA Government 
+Spent: 2,399.00
+Impressions: 801,158
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Mark Group|1,555.00 USD|Pierce County WA Government|[0](https://www.snap.com/political-ads/asset/e1249dd65bc11025f1bcaec6d82b692aca466b498319e1405a950494a7e69228?mediaType=jpg)|522,878|||united states|"17933 NW Evergreen Place, Ste 360,Beaverton,97006,US"||

@@ -1,4 +1,7 @@
 ## 2020 - GOOD PARTY 
+Spent: 8,524.00
+Impressions: 3,830,153
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Division-D|894.00 USD|GOOD PARTY|[0](https://www.snap.com/political-ads/asset/dd3d3d1cab2e500f6f8991ffa806db3c2325a419dc0a64a921ac867bf8c272c3?mediaType=png)|429,283||18+|united states|"602 Fay Street,Columbia,65201,US"|GOOD PARTY|

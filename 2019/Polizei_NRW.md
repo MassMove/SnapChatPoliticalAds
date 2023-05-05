@@ -1,4 +1,7 @@
 ## 2019 - Polizei NRW 
+Spent: 35,949.00
+Impressions: 6,508,554
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |grapevine gmbh|25,000.00 EUR|Polizei NRW|[0](https://www.snap.com/political-ads/asset/cf4110ed66642dee9e810b2c3ee566758a3203523731c96bd3b3431f698a2b65?mediaType=mp4)|4,058,455|||germany|"Tengstraße 9,München,80798,DE"||

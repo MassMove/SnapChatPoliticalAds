@@ -1,4 +1,7 @@
 ## 2023 - Världsnaturfonden WWF 
+Spent: 3,678.00
+Impressions: 110,791
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |2XL Online|564.00 SEK|Världsnaturfonden WWF|[0](https://www.snap.com/political-ads/asset/18f20952759f58c97104549b5d008862007a28aa71bfb662420b02e58176cb47?mediaType=png)|18,103||25+|sweden|"Johanna Wolls Väg 18, 2XL Online,Kävlinge,24436,SE"||

@@ -1,4 +1,7 @@
 ## 2020 - Education Now 
+Spent: 34,631.00
+Impressions: 2,532,660
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,369.00 USD|Education Now|[0](https://www.snap.com/political-ads/asset/1a19ac1b688c65e131ee9fd3301d94ab9236fa767a8d73ce02c21f48bc1acd05?mediaType=mp4)|162,351||18+|united states|US|Education Now|

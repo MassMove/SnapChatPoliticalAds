@@ -1,4 +1,7 @@
 ## 2020 - Priorities USA 
+Spent: 0.00
+Impressions: 257
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Priorities USA|0.00 USD|Priorities USA|[0](https://www.snap.com/political-ads/asset/5784c59d7b6f2dc2c8d55943684dfe5544f9611466bcd5f9d092fab69122996d?mediaType=mp4)|132|||united states|US||

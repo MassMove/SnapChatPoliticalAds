@@ -1,4 +1,7 @@
 ## 2022 - Kathy Hochul for NY 
+Spent: 258,466.00
+Impressions: 40,959,794
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|5,757.00 USD|Kathy Hochul for NY|[0](https://www.snap.com/political-ads/asset/eccb27e7f1c6b966e5fb796507a9ef4355478332f275b79fb019ec05181df49d?mediaType=jpg)|1,406,804||18+|united states|US||

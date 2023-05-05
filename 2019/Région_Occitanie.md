@@ -1,4 +1,7 @@
 ## 2019 - Région Occitanie 
+Spent: 212.00
+Impressions: 167,136
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cospirit Groupe|20.00 EUR|Région Occitanie|[0](https://www.snap.com/political-ads/asset/77d89c1ab1ae720dd7163a81f03c5281206c075fa7e0819fbbecef739e84a992?mediaType=mp4)|35,633||15-30|france|"28 rue Feydeau,Paris,75002 ,FR"||

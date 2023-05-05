@@ -1,4 +1,7 @@
 ## 2020 - University of California 
+Spent: 12,782.00
+Impressions: 2,970,238
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Parcon Media|1,600.00 USD|University of California|[0](https://www.snap.com/political-ads/asset/8120b9e65c8e85ea4576757d40dbf28d79dda322571ea6807afcda5939b921ea?mediaType=mp4)|597,029||18-24|united states|US||

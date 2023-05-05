@@ -1,4 +1,7 @@
 ## 2018 - NextGen America 
+Spent: 98,636.00
+Impressions: 18,590,894
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|8,723.00 USD|NextGen America|[0](https://www.snap.com/political-ads/asset/7126ea89b1caf196e78cabab7a0cce525855cf69244c91ee53514de9b6a00673?mediaType=mp4)|2,413,753||18-34|united states|"1445 New York Ave NW,Washington,20005,US"||

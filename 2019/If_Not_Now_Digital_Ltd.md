@@ -1,4 +1,7 @@
 ## 2019 - If Not Now Digital Ltd 
+Spent: 9,840.00
+Impressions: 5,733,345
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |If Not Now Digital Ltd|1,846.00 GBP|If Not Now Digital Ltd|[0](https://www.snap.com/political-ads/asset/bd205ed9ab2ed60141ecaacbdc4107c5159c996ce3814f423183ee5a0f78527e?mediaType=mp4)|1,485,236||16-30|united kingdom|GB|Register to vote|

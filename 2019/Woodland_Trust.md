@@ -1,4 +1,7 @@
 ## 2019 - Woodland Trust 
+Spent: 6,428.00
+Impressions: 3,298,746
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MediaCom North|662.00 GBP|Woodland Trust|[0](https://www.snap.com/political-ads/asset/8f4c0b0ca36cbe78079d63d20d3bad293a379a61fee263805bd07080f1a697f1?mediaType=mp4)|334,833||18+|united kingdom|"1 Hardman Street,Manchester,M33HF,GB"||

@@ -1,4 +1,7 @@
 ## 2019 - Élections Canada 
+Spent: 20,717.00
+Impressions: 13,324,087
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Cossette Media Inc|2,500.00 CAD|Élections Canada|[0](https://www.snap.com/political-ads/asset/1ce44b8bb90c36f2056677b143db4157c35547200b07763c535550ece1f29e69?mediaType=MP4),[1](https://www.snap.com/political-ads/asset/0613b631c925e10e4dc2490525d62d8964766b30c60cf83d1ffa7d0bffe5b36e?mediaType=MP4),[2](https://www.snap.com/political-ads/asset/97b6a53e94f5084474d2e8859a3dd4c9ed94ba9a7c2aae7a6c9787367b7418a8?mediaType=MP4),[3](https://www.snap.com/political-ads/asset/6ce514bc2120da5682af00b64d8b6d643f57f1e349eb645c04408a69ee742ff5?mediaType=MP4),[4](https://www.snap.com/political-ads/asset/9b2f5fc0e0b44dfdd5bb8cf15f12ef1476b8dde8f09203e0f94239a8302d012c?mediaType=MP4)|4,289,387||18+|canada|"P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA"||

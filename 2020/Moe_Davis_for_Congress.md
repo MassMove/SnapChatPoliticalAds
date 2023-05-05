@@ -1,4 +1,7 @@
 ## 2020 - Moe Davis for Congress 
+Spent: 2,505.00
+Impressions: 1,229,866
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Moe Davis for Congress|746.00 USD|Moe Davis for Congress|[0](https://www.snap.com/political-ads/asset/d0b39ac01a1e2200011cc842d1a768de401563e4c9a6b0e082f902209a7ebff5?mediaType=png)|419,691||17-25|united states|US|Moe Davis|

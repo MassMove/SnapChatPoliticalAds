@@ -1,4 +1,7 @@
 ## 2021 - CSSJ 
+Spent: 2,330.00
+Impressions: 303,237
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|178.00 USD|CSSJ|[0](https://www.snap.com/political-ads/asset/465fc2c3f3216759cfad74c3cd7c43246127070312d06431c84634913e8ff541?mediaType=png)|48,884||18+||"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

@@ -1,4 +1,7 @@
 ## 2020 - AbdAllah Mehdi AlAjmi 
+Spent: 89.00
+Impressions: 69,384
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |عبدالله مهدي العجمي|79.00 USD|AbdAllah Mehdi AlAjmi|[0](https://www.snap.com/political-ads/asset/61ac32655f4442a180a1604cfcb7f28c8f46d276f0ef4e2e0a7ca6383c80b6c6?mediaType=mp4)|63,069||18+|kuwait|KW||

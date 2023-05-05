@@ -1,4 +1,7 @@
 ## 2023 - My Future Approved 
+Spent: 160.00
+Impressions: 44,642
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Choose Life Marketing|101.00 USD|My Future Approved|[0](https://www.snap.com/political-ads/asset/11a888a0c101301e7ab3cbacb4c326702879459814fe6d9ab370726c2b59304a?mediaType=mp4)|29,768|FEMALE|30-|united states|US||

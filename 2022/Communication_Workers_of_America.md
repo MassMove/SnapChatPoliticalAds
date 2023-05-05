@@ -1,4 +1,7 @@
 ## 2022 - Communication Workers of America 
+Spent: 4,501.00
+Impressions: 759,239
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Seat Consulting  LLC|2,802.00 USD|Communication Workers of America|[0](https://www.snap.com/political-ads/asset/1563a49dcd4e57f8d55d90830153f9dc085b61347d3998e67abe2bdac518e0d5?mediaType=png)|483,291||18+|united states|"Po Box 21600,Washington,20009,US"||

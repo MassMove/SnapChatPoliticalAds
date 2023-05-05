@@ -1,4 +1,7 @@
 ## 2021 - Centerlink 
+Spent: 959.00
+Impressions: 421,207
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|218.00 USD|Centerlink|[0](https://www.snap.com/political-ads/asset/b50c4ef60010e55e697bef7cad5c8a55fbc80a01033d04cce8f16bab5869e76c?mediaType=png)|95,313||17-|united states|"1220 19th Street NW,Washington,20036,US"||

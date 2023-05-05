@@ -1,4 +1,7 @@
 ## 2022 - Cindy for AZ 
+Spent: 1,514.00
+Impressions: 98,642
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|374.00 USD|Cindy for AZ|[0](https://www.snap.com/political-ads/asset/012b46a220ea44c9fec47785a146962c74571f0836403a38a18c15d371f58b0c?mediaType=mp4)|30,158||18+|united states|"1324 Spaight St,Madison,53703,US"|Cindy Hans|

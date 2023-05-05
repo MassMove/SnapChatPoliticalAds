@@ -1,4 +1,7 @@
 ## 2020 - BDG Media, Inc. 
+Spent: 31,961.00
+Impressions: 8,106,790
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bustle Digital Group|8,159.00 USD|BDG Media, Inc.|[0](https://www.snap.com/political-ads/asset/03f1bcba4d063a603dcad4f512f1b24046a3dea046c84cafab462e88d76c9546?mediaType=mp4)|3,910,622||18+|united states|"315 Park Ave S Fl 12,New York,10010,US"||

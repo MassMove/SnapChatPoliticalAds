@@ -1,4 +1,7 @@
 ## 2021 - Hillel International 
+Spent: 7,194.00
+Impressions: 1,728,427
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Electric Symphony Media|1,309.00 USD|Hillel International|[0](https://www.snap.com/political-ads/asset/d55a6b25ede8f357b03db3763277111e3395dfea4abfc2e4bb3dc070c500034b?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/5467f680625ebae96d79d0d01e1ca377125835a7667a04c71028c17d1c4c2300?mediaType=png),[2](https://www.snap.com/political-ads/asset/04eaac6372e033216777ad9fb3428aee16a45483fffe553c5c8849e38535468f?mediaType=png)|389,915||18-25|united states|"70 Hudson St,Hoboken,07030,US"||

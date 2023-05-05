@@ -1,4 +1,7 @@
 ## 2022 - Suraj Patel 2022 
+Spent: 153.00
+Impressions: 19,170
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|141.00 USD|Suraj Patel 2022|[0](https://www.snap.com/political-ads/asset/0a350e97f5512ad2e898810510f369f789e1cc981ae510acef9d1123299e0764?mediaType=mp4)|17,526||18-45|united states|US|Suraj Patel|

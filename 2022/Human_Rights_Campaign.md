@@ -1,4 +1,7 @@
 ## 2022 - Human Rights Campaign 
+Spent: 14,786.00
+Impressions: 2,537,555
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|3,402.00 USD|Human Rights Campaign|[0](https://www.snap.com/political-ads/asset/dc504ba87c1b72ccfe9eca32843b55d96ced94763223b580040eddbf61095523?mediaType=mp4)|666,605||18+|united states|"1445 New York Ave NW,Washington,20005,US"|Human Rights Campaign|

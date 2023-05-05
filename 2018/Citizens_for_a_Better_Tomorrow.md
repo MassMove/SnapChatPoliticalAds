@@ -1,4 +1,7 @@
 ## 2018 - Citizens for a Better Tomorrow 
+Spent: 872.00
+Impressions: 217,488
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|453.00 USD|Citizens for a Better Tomorrow|[0](https://www.snap.com/political-ads/asset/a2ce2b74794235f5644c9f1018a30812485d72a3ac70929860140235ff1508ca?mediaType=jpg)|106,896||18+|united states|"919 Central Ave,Auburn,68305,US"||

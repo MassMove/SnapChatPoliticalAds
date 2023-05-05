@@ -1,4 +1,7 @@
 ## 2022 - Valmyndigheten 
+Spent: 32,994.00
+Impressions: 8,657,579
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nowa Kommunikation AB|4,216.00 USD|Valmyndigheten|[0](https://www.snap.com/political-ads/asset/4bdda589b4c5eeb2318238a268493217705dd2959abf8c3570306fd69218c6ab?mediaType=mp4)|1,222,484||18-29|sweden|"Södra Hamngatan 35,Göteborg,41114,SE"|Valmyndigheten|

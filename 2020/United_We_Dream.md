@@ -1,4 +1,7 @@
 ## 2020 - United We Dream 
+Spent: 35,364.00
+Impressions: 7,559,245
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|3,389.00 USD|United We Dream|[0](https://www.snap.com/political-ads/asset/9449ce12cae037abb8f8046380bbd24f32e2852b444564fedd1cdcc0106f1a8c?mediaType=mp4)|2,308,621||39-|united states|"1445 New York Ave NW,Washington,20005,US"||

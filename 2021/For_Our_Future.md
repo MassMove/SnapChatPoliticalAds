@@ -1,4 +1,7 @@
 ## 2021 - For Our Future 
+Spent: 499.00
+Impressions: 177,379
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |For Our Future Michigan|100.00 USD|For Our Future|[0](https://www.snap.com/political-ads/asset/785ef08b1eb0c0ba4328e7f56365ffafcf86fa3cd6fec3ba63a0ec24ce6073a1?mediaType=mp4)|40,722||18+|united states|"435 R St NW,Apt 102 ,20001,US"|President Biden|

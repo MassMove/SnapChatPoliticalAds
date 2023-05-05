@@ -1,4 +1,7 @@
 ## 2022 - University of California 
+Spent: 24,238.00
+Impressions: 2,772,361
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Parcon Media|1,677.00 USD|University of California|[0](https://www.snap.com/political-ads/asset/4869cb82b1f84823a50757d911525c7b31dcf6f6827bed742fc96fe5a0f764a9?mediaType=jpg)|295,699||18+|united states|US||

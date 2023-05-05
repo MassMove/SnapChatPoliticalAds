@@ -1,4 +1,7 @@
 ## 2020 - Mecklenburg County Government 
+Spent: 1,998.00
+Impressions: 1,109,566
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MeckCounts2020|649.00 USD|Mecklenburg County Government|[0](https://www.snap.com/political-ads/asset/cc202286eca7888115292bcd681ccb294297ebdaaa6a9636b8c215136c588396?mediaType=jpeg)|484,658|||united states|US|General Neighbors|

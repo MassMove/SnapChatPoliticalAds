@@ -1,4 +1,7 @@
 ## 2020 - AHA Foundation 
+Spent: 512.00
+Impressions: 76,543
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Model B|311.00 USD|AHA Foundation|[0](https://www.snap.com/political-ads/asset/5b3057a164a897c62d428f895ca480bae375c0c7fb70ba58199be00a9ceda7be?mediaType=jpg)|42,898||21+|united states|"305 Harrison St SE,Leesburg,20175,US"||

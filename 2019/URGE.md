@@ -1,4 +1,7 @@
 ## 2019 - URGE 
+Spent: 2,816.00
+Impressions: 1,065,292
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|716.00 USD|URGE|[0](https://www.snap.com/political-ads/asset/59a3c77e116f5a70a87a406013907e1f84bb6f339aa513b1cbb13f4d4cfd5e4d?mediaType=png)|278,498||17+|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

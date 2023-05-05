@@ -1,4 +1,7 @@
 ## 2019 - Middle Enterprises Pty Ltd 
+Spent: 24.00
+Impressions: 5,953
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Middle Enterprises Pty Ltd|12.00 AUD|Middle Enterprises Pty Ltd|[0](https://www.snap.com/political-ads/asset/69a5ed38cdf135b225686b723055ac4f4a2c63d54622cc41ece079bbb6c017e6?mediaType=png)|3,132|||united states|AU||

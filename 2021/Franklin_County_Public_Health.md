@@ -1,4 +1,7 @@
 ## 2021 - Franklin County Public Health 
+Spent: 6,622.00
+Impressions: 2,828,703
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Amélie Company|723.00 USD|Franklin County Public Health|[0](https://www.snap.com/political-ads/asset/2e2da18fd8c94c9459e57b7714840edae99cea2aad2b98c0602a430332c250fe?mediaType=mp4)|407,017||16+|united states|"280 E Broad St,Columbus,43215,US"||

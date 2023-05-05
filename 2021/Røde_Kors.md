@@ -1,4 +1,7 @@
 ## 2021 - Røde Kors 
+Spent: 44,968.00
+Impressions: 1,024,406
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mindshare Norway AS|2,889.00 NOK|Røde Kors|[0](https://www.snap.com/political-ads/asset/3fe979f4f188bdc915d765f5b16459d9b573ef93985cc38b6d67e6a93dc6c4ac?mediaType=png),[1](https://www.snap.com/political-ads/asset/c972484ef022ee19d3ccad4660dc02b5217de6907feacac4ffba3cbab329568b?mediaType=png),[2](https://www.snap.com/political-ads/asset/4f8f186d5ed9a321f39f1c02fcf2d623d37cd27c5db052a94626a1e277efb131?mediaType=png),[3](https://www.snap.com/political-ads/asset/17e457a0ac72042f14ee830705819eae43f708dc423b27fd512cd39231a8b353?mediaType=png)|208,348||20+|norway|"Kongens gate 6,Oslo,0153,NO"||

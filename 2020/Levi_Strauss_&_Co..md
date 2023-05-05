@@ -1,4 +1,7 @@
 ## 2020 - Levi Strauss & Co. 
+Spent: 726,998.00
+Impressions: 101,115,858
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Universal McCann New York|160,000.00 USD|Levi Strauss & Co.|[0](https://www.snap.com/political-ads/asset/6b8e3433b70c31dae472787ab33be0fdf636d2663151576630ab9f2b3931c28c?mediaType=mp4)|46,576,061||18-34|united states|"PO Box 542026,Omaha,68154,US"||

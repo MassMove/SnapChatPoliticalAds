@@ -1,4 +1,7 @@
 ## 2020 - Patriots Represent 
+Spent: 175.00
+Impressions: 140,870
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Patriots Represent|48.00 USD|Patriots Represent|[0](https://www.snap.com/political-ads/asset/946769762c73868efaae61a23cf68b52b6fbdc4b5cfa7402e1ec4bcaf6cbed13?mediaType=png)|44,834|||united states|US||

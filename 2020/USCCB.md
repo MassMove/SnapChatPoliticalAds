@@ -1,4 +1,7 @@
 ## 2020 - USCCB 
+Spent: 1,295.00
+Impressions: 2,024,134
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yellow Line Digital|346.00 USD|USCCB|[0](https://www.snap.com/political-ads/asset/a0ad617db64027ae66696b58bfc88e17b6ad38f123c1188c457da922a8849ca2?mediaType=png)|1,060,832||18-30|united states|"237 W. Grand Ave,Escondido,92025,US"|United States Conference of Catholic Bishops|

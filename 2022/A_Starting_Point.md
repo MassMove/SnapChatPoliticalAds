@@ -1,4 +1,7 @@
 ## 2022 - A Starting Point 
+Spent: 3,344.00
+Impressions: 1,573,525
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |A Starting Point|1,412.00 USD|A Starting Point|[0](https://www.snap.com/political-ads/asset/eb2096a54f0f8e47c53dbecad7d4e862232a7732bb652d813480d0dfef23698f?mediaType=mp4)|804,482||30-|united states|"1626 Wilcox Ave,Los Angeles ,90028-6206,US"|Register For a Free Account with ASP|

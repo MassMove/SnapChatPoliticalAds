@@ -1,4 +1,7 @@
 ## 2022 - GEORGIA HONOR 
+Spent: 44,952.00
+Impressions: 6,402,368
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MVAR Media|4,370.00 USD|GEORGIA HONOR|[0](https://www.snap.com/political-ads/asset/5559a4521ca433c4ed054468e1d381c5cb9bff4f1827db564c328ad25e5278a9?mediaType=png)|892,423||18-49|united states|"1421 Prince St Suite 320,Alexandria,22314,US"||

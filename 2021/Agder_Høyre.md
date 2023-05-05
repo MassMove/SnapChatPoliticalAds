@@ -1,4 +1,7 @@
 ## 2021 - Agder Høyre 
+Spent: 6,941.00
+Impressions: 133,732
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Markussen Consulting|1,000.00 NOK|Agder Høyre|[0](https://www.snap.com/political-ads/asset/c398171f5a79dc308479aeeb7664cd16626b93273ea8cd9db1eb0e74a6325983?mediaType=mp4)|48,678||35-|norway|"Kongens gate 29,Kristiansand ,4610,NO"|Amalie Kollstrand|

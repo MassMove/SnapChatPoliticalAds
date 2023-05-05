@@ -1,4 +1,7 @@
 ## 2020 - Pasha Baker for FL House 28 
+Spent: 245.00
+Impressions: 63,023
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |You Should Run|215.00 USD|Pasha Baker for FL House 28|[0](https://www.snap.com/political-ads/asset/76da447ad3bee9c0afbd8a349841b9ae4fc989976decf2d6ad1ea433c89bae88?mediaType=mp4)|54,758||18+|united states|US|Pasha Baker|

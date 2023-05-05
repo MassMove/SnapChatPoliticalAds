@@ -1,4 +1,7 @@
 ## 2022 - American Civil Liberties Union 
+Spent: 26,988.00
+Impressions: 3,874,782
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|3,447.00 USD|American Civil Liberties Union|[0](https://www.snap.com/political-ads/asset/d59b1127c96738573f7d3365ea01cae8e5d62164050e92a09e969ffbc0dc9696?mediaType=mp4)|381,001||18+|united states|"1445 New York Ave NW,Washington,20005,US"|ACLU|

@@ -1,4 +1,7 @@
 ## 2022 - Hassan mohammadd 
+Spent: 322.00
+Impressions: 58,156
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |bch|66.00 USD|Hassan mohammadd|[0](https://www.snap.com/political-ads/asset/66c96d45c8d82b4990c9d0b56cda59266298c090d2c68eddc5147a91dc64a746?mediaType=mp4)|12,759||21-45|kuwait|"hawalli,salmiya,30000,KW"|Hasan Ali|

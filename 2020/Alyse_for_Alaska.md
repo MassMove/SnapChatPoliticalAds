@@ -1,4 +1,7 @@
 ## 2020 - Alyse for Alaska 
+Spent: 1,749.00
+Impressions: 208,897
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|801.00 USD|Alyse for Alaska|[0](https://www.snap.com/political-ads/asset/0fcb99e59ca7fd0b637e8c6875fb3b18b268420f3c33094ad842a1d003787f9e?mediaType=mp4)|91,434||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Alyse Galvin|

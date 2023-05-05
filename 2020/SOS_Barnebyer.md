@@ -1,4 +1,7 @@
 ## 2020 - SOS Barnebyer 
+Spent: 84,033.00
+Impressions: 4,756,541
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Norge AS|28,667.00 NOK|SOS Barnebyer|[0](https://www.snap.com/political-ads/asset/e049d5b623267365210ee2676511fb6cf9b1c0412abb30cc067bd1888d659e05?mediaType=mp4)|1,623,462||30+|norway|"Kristian Augusts gate 23, OSLO,0164 ,NO"||

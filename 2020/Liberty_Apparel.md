@@ -1,4 +1,7 @@
 ## 2020 - Liberty Apparel 
+Spent: 49.00
+Impressions: 50,953
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |M-Strategies|30.00 USD|Liberty Apparel|[0](https://www.snap.com/political-ads/asset/3edd114c680f99ce8e571301a105227121b36053d044ff633cef2f7c78c47f43?mediaType=png)|27,231||15+|united states|US|Donald J Trump|

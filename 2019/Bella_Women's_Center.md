@@ -1,4 +1,7 @@
 ## 2019 - Bella Women's Center 
+Spent: 1,212.00
+Impressions: 487,634
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bella Women's Center|833.00 USD|Bella Women's Center|[0](https://www.snap.com/political-ads/asset/e59d080c0ccab014a5964380b3d487cc86639e4d7c5363a33fd0eafc1e076338?mediaType=mp4)|279,765|||united states|US|Bella Womens Center|

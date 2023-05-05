@@ -1,4 +1,7 @@
 ## 2020 - Mayor Lightfoot 
+Spent: 4,995.00
+Impressions: 2,519,837
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Havas Media Group USA LLC|2,005.00 USD|Mayor Lightfoot|[0](https://www.snap.com/political-ads/asset/cc6e2195b7237d423f465ad33163c8fcb31afab57ec85b1444e1d681376d56dc?mediaType=mp4)|1,108,569||18+|united states|"200 HUDSON STREET,New York,10013-1807,US"||

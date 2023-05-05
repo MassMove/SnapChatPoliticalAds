@@ -1,4 +1,7 @@
 ## 2020 - NextGen Climate Action Committee 
+Spent: 137,692.00
+Impressions: 11,470,562
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|2,576.00 USD|NextGen Climate Action Committee|[0](https://www.snap.com/political-ads/asset/b9913f7ab40f24ac896671abbc1190125f02ec6f003280686b9abf24772edd6d?mediaType=jpeg)|745,795||18-35|united states|"1445 New York Ave NW,Washington,20005,US"||

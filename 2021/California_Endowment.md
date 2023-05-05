@@ -1,4 +1,7 @@
 ## 2021 - California Endowment 
+Spent: 3,575.00
+Impressions: 489,332
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The Creative Space Group|2,445.00 USD|California Endowment|[0](https://www.snap.com/political-ads/asset/79d3e6ac9a827c919f25616bad66d7a2de1ba1037ee90bcb8473dfd8178d18b8?mediaType=mp4)|325,087||18+|united states|US|TCE Youth Awards English Video|

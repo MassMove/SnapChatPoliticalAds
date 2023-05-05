@@ -1,4 +1,7 @@
 ## 2020 - Let America Vote PAC and NDRC 
+Spent: 4,388.00
+Impressions: 2,763,619
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|799.00 USD|Let America Vote PAC and NDRC|[0](https://www.snap.com/political-ads/asset/80ff6ffdf688a7d5c260c206941f3c39c522ac544a943b194453d1c8889929e5?mediaType=mp4)|504,726|||united states|US|Let America Vote and NDRC|

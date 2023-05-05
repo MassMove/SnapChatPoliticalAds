@@ -1,4 +1,7 @@
 ## 2022 - Friends of Jen Jordan, Inc. 
+Spent: 764.00
+Impressions: 63,677
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|191.00 USD|Friends of Jen Jordan, Inc.|[0](https://www.snap.com/political-ads/asset/b4df6a31021e1ee4e60deb00c508cb0372711f2570383aad1f927a0d44340a0e?mediaType=mp4)|15,992||18+|united states|"1324 Spaight St,Madison,53703,US"|Jen Jordan|

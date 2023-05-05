@@ -1,4 +1,7 @@
 ## 2021 - Stand Up America 
+Spent: 1,396.00
+Impressions: 761,102
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Stand Up America|207.00 USD|Stand Up America|[0](https://www.snap.com/political-ads/asset/c31c9c85a3000bd06d98e52fb529763fee634efd313220c82edbeaefaa7f2f7f?mediaType=mp4)|143,561||35-|united states|US||

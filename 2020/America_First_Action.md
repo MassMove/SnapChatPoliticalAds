@@ -1,4 +1,7 @@
 ## 2020 - America First Action 
+Spent: 79,009.00
+Impressions: 7,073,009
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |America First Action|7,941.00 USD|America First Action|[0](https://www.snap.com/political-ads/asset/b4f88cd42dcb6ad8f816add1a826338366ce5c20f83a6007b172593ee4e9f6d4?mediaType=mp4)|1,467,095||18+|united states|US|America First Action|

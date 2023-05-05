@@ -1,4 +1,7 @@
 ## 2019 - Valmyndigheten 
+Spent: 4,995.00
+Impressions: 3,173,250
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Nowa Kommunikation AB|736.00 USD|Valmyndigheten|[0](https://www.snap.com/political-ads/asset/cc81df959d7a9fd68293cda8889782ea81bdc0034458bc28a8c2887be4790c64?mediaType=mov)|465,424|||sweden|"Södra Hamngatan 35,Göteborg,41114,SE"||

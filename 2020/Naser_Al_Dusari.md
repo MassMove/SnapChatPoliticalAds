@@ -1,4 +1,7 @@
 ## 2020 - Naser Al Dusari 
+Spent: 495.00
+Impressions: 413,576
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Media Services FZ-LLC|262.00 USD|Naser Al Dusari|[0](https://www.snap.com/political-ads/asset/e26055cb8ff511e51172f0b477a2f9261101600875efe5ffa1cedb03ab700829?mediaType=png)|218,788||21+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"||

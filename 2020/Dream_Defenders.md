@@ -1,4 +1,7 @@
 ## 2020 - Dream Defenders 
+Spent: 8,907.00
+Impressions: 4,414,830
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dream Defenders|714.00 USD|Dream Defenders|[0](https://www.snap.com/political-ads/asset/65c4649a23424f5fd7918080d4b71005433285e43621f04c3f85e9cd458da2bc?mediaType=mp4)|434,019|||united states|US||

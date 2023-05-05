@@ -1,4 +1,7 @@
 ## 2020 - Schupp for Congress 
+Spent: 7,194.00
+Impressions: 1,770,695
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|2,785.00 USD|Schupp for Congress|[0](https://www.snap.com/political-ads/asset/40353d6c68d15ec97e7536daf56df1f0e88c4397bc04fd1cacd9583654b335a8?mediaType=mp4)|588,302||18-30|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Jill Schupp for Congress|

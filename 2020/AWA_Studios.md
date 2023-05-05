@@ -1,4 +1,7 @@
 ## 2020 - AWA Studios 
+Spent: 3,663.00
+Impressions: 971,113
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AWA Studios|645.00 USD|AWA Studios|[0](https://www.snap.com/political-ads/asset/899a756339d8a9b601091a1c562584820c20cabfdb03c4a1e75f5854b20fff7d?mediaType=mp4)|215,884||18+|united states|US||

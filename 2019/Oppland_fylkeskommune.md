@@ -1,4 +1,7 @@
 ## 2019 - Oppland fylkeskommune 
+Spent: 2,164.00
+Impressions: 1,078,171
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ferskvann Reklamebyrå AS|312.00 USD|Oppland fylkeskommune|[0](https://www.snap.com/political-ads/asset/ce727bc99117bf5528a30901ecbc4cee3ca0cb33e9c26cc3b0664d124bda77d9?mediaType=mp4)|194,358||15-25|norway|"Stangeveien 111,Hamar,2321,NO"||

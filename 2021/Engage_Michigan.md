@@ -1,4 +1,7 @@
 ## 2021 - Engage Michigan 
+Spent: 3,357.00
+Impressions: 956,100
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|549.00 USD|Engage Michigan|[0](https://www.snap.com/political-ads/asset/e1b1b80b83246a07ebc9ef05eff66064f891d042c4604b2614c0bf2b8eccb9ba?mediaType=png)|157,873||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Engage Michigan|

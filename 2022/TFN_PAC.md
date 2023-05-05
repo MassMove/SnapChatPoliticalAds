@@ -1,4 +1,7 @@
 ## 2022 - TFN PAC 
+Spent: 10,825.00
+Impressions: 755,177
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |COMPETE Digital LLC|1,767.00 USD|TFN PAC|[0](https://www.snap.com/political-ads/asset/b1c14cd42e6745ce8efe83d22ba840dc9739753a1c8bf1d013535c19b2bf4859?mediaType=mp4)|152,520||18+|united states|"1317 Potomac Ave SE,Washington,20003,US"|TFN PAC|

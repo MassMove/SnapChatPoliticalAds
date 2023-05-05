@@ -1,4 +1,7 @@
 ## 2022 - Tasmanian Electoral Office 
+Spent: 2,498.00
+Impressions: 579,576
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group (Australia) Pty Ltd|833.00 AUD|Tasmanian Electoral Office|[0](https://www.snap.com/political-ads/asset/0519f0b99be621e5313429911147ba82f77e3b57600361c34ca1e7db4fc5a228?mediaType=mp4)|219,064||18+|australia|"32 Pyrmont Bridge Road Pyrmont NSW 2009 PO Box 66, Pyrmont NSW 2009,,,Sydney,2009,AU"||

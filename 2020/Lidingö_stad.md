@@ -1,4 +1,7 @@
 ## 2020 - Lidingö stad 
+Spent: 336.00
+Impressions: 124,655
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Lidingö stad|194.00 EUR|Lidingö stad|[0](https://www.snap.com/political-ads/asset/3c881077433f48171241fe50ffcab3cd720a8a4c371c23383e9ff8dce799f77f?mediaType=mp4)|87,697||20-|sweden|SE||

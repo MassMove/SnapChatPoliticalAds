@@ -1,4 +1,7 @@
 ## 2020 - NRDC Action Votes 
+Spent: 6,227.00
+Impressions: 896,743
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|3,975.00 USD|NRDC Action Votes|[0](https://www.snap.com/political-ads/asset/242dd58cea3a1a02863be1052641f921f74519665b49ced4a980ebd611c42616?mediaType=mp4)|587,334||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|NRDC Action Votes|

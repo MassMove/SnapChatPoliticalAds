@@ -1,4 +1,7 @@
 ## 2020 - America First Policies 
+Spent: 22,243.00
+Impressions: 3,729,408
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |America First Action|4,142.00 USD|America First Policies|[0](https://www.snap.com/political-ads/asset/1b7ca12649a7b6ecb75c0958784530c00f9aeaf313ea075a3722f4c1ce089198?mediaType=mp4)|807,025||18+|united states|US|America First Policies|

@@ -1,4 +1,7 @@
 ## 2020 - Unicorn Wealth, LLC 
+Spent: 1,741.00
+Impressions: 717,304
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unicorn Wealth  LLC|152.00 USD|Unicorn Wealth, LLC|[0](https://www.snap.com/political-ads/asset/43f7a5cebd68401a3877f5756ccbc8189df3a4b99ae90cd5858dbdc4cd706f2c?mediaType=mp4)|146,652|||united states|US||

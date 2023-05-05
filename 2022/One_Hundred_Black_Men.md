@@ -1,4 +1,7 @@
 ## 2022 - One Hundred Black Men 
+Spent: 2,249.00
+Impressions: 808,395
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mower|1,424.00 USD|One Hundred Black Men|[0](https://www.snap.com/political-ads/asset/175d0ee582a667ae8257cfe354cae1ff28ad1339822e04319d6c1bd068fa8f31?mediaType=mp4)|522,324||14-24|united states|"211 W Jefferson Street,Syracuse,13202,US"||

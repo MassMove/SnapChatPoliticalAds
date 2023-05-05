@@ -1,4 +1,7 @@
 ## 2021 - Green Party NZ 
+Spent: 4,695.00
+Impressions: 1,701,232
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Uprise Solutions|1,319.00 AUD|Green Party NZ|[0](https://www.snap.com/political-ads/asset/0821e220133a8b62470c333944225ffb4e2085a9b701eed013fad84b7170d2a6?mediaType=mp4)|492,419||18-30|new zealand|NZ|Green Party Housing|

@@ -1,4 +1,7 @@
 ## 2021 - Namsos kommune 
+Spent: 982.00
+Impressions: 135,979
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Mystory Norge AS|431.00 EUR|Namsos kommune|[0](https://www.snap.com/political-ads/asset/b782913e5d2d2951ce013715b3f8de3a6965c1c74e75f8b98c50fe49aa84ef7c?mediaType=mp4)|64,609||18+|norway|"Verftsgata 11,NAMSOS,7800,NO"||

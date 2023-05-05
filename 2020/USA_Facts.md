@@ -1,4 +1,7 @@
 ## 2020 - USA Facts 
+Spent: 37,608.00
+Impressions: 10,464,111
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Targeted Victory  LLC|20,147.00 USD|USA Facts|[0](https://www.snap.com/political-ads/asset/06c83d14a89e0e9e87c0251371164efbcadafbd61e129035969a11d4f3b29ce1?mediaType=mp4)|5,308,421||18-35|united states|"1100 Wilson Blvd, 10th Floor,Arlington,22209,US"||

@@ -1,4 +1,7 @@
 ## 2022 - Tanami media , ebrahem alhajri 
+Spent: 142.00
+Impressions: 95,658
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |TANAMI MEDIA|40.00 USD|Tanami media , ebrahem alhajri|[0](https://www.snap.com/political-ads/asset/ab1b25e1209f72426bce7ba14600c285bf727c6bb99c0ba97ee3c325457a482f?mediaType=jpeg)|65,537||18+|kuwait|KW||

@@ -1,4 +1,7 @@
 ## 2021 - Friends of the Earth 
+Spent: 290.00
+Impressions: 162,098
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Friends of the Earth|194.00 GBP|Friends of the Earth|[0](https://www.snap.com/political-ads/asset/fca6fa34ab3563c777eac546fc7923e59805813731283db0c5304582500bb838?mediaType=mp4)|104,186||18+|united kingdom|GB||

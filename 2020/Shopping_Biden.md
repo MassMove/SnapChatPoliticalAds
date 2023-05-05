@@ -1,4 +1,7 @@
 ## 2020 - Shopping Biden 
+Spent: 60.00
+Impressions: 15,583
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Shopping Biden|30.00 USD|Shopping Biden|[0](https://www.snap.com/political-ads/asset/7f5206674cf98b73b6d3818a842656a5d7e786cb75e483dc34570911667451d3?mediaType=png)|6,577|MALE|19+|united states|"4802 Shadowbend Dr,Corpus Christi,78413,US"|Joe Biden|

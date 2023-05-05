@@ -1,4 +1,7 @@
 ## 2022 - Patty for Congress 
+Spent: 2,892.00
+Impressions: 168,053
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|1,200.00 USD|Patty for Congress|[0](https://www.snap.com/political-ads/asset/21b0e120c12edcb8f37356964c10e1be663c3edd7877a31afea28cf50b586018?mediaType=mp4)|74,565||18+|united states|"919 Central Ave,Auburn,68305,US"|Patty for Congress|

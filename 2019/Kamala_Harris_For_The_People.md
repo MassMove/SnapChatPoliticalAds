@@ -1,4 +1,7 @@
 ## 2019 - Kamala Harris For The People 
+Spent: 4,869.00
+Impressions: 1,137,820
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Authentic Campaigns Inc|3,548.00 USD|Kamala Harris For The People|[0](https://www.snap.com/political-ads/asset/568ec39471595b2eb938c5d1bc2dceadfc0971b5ae1ca119ec5c8314d3932e27?mediaType=mp4)|906,376||30+|united states|"1211 Connecticut Ave,Washington,20036,US"||

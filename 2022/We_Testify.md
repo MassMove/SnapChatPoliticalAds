@@ -1,4 +1,7 @@
 ## 2022 - We Testify 
+Spent: 14,996.00
+Impressions: 1,067,832
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|4,073.00 USD|We Testify|[0](https://www.snap.com/political-ads/asset/cc75e24831c38b3d4936e22bf633d512fd6c99aa5abee6026236391a45eadd57?mediaType=mp4)|195,701||18-29|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

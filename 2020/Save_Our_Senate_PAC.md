@@ -1,4 +1,7 @@
 ## 2020 - Save Our Senate PAC 
+Spent: 25,001.00
+Impressions: 7,272,964
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Break Something|9,901.00 USD|Save Our Senate PAC|[0](https://www.snap.com/political-ads/asset/55730738ba201340acb09c4be5c811a80e17651c3d2957864224500717aed2eb?mediaType=mp4)|2,850,390||18+|united states|"1768 Columbia Road NW #3,Washington,20009,US"|Georgia Senate Runoff Election|

@@ -1,4 +1,7 @@
 ## 2020 - DHDC 
+Spent: 6,187.00
+Impressions: 796,263
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|2,105.00 USD|DHDC|[0](https://www.snap.com/political-ads/asset/1295aa642d016527eca5e7111c68a8ae86d68e2eec35a25300ff8c504e085859?mediaType=mp4)|256,032||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Detroit Hispanic Development Council|

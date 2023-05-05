@@ -1,4 +1,7 @@
 ## 2022 - Priorities USA Action 
+Spent: 155,739.00
+Impressions: 11,560,903
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gambit Strategies|15,106.00 USD|Priorities USA Action|[0](https://www.snap.com/political-ads/asset/cb6fdef77dbde8a27b2a5eec4726da504c145acd8dc1843fe5bb774d18fd5429?mediaType=mp4)|820,623||18-34|united states|"2939 Van Ness St NW #1006,Washington,20008,US"||

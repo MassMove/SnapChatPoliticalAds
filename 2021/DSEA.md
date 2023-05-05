@@ -1,4 +1,7 @@
 ## 2021 - DSEA 
+Spent: 5,440.00
+Impressions: 654,324
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|2,548.00 USD|DSEA|[0](https://www.snap.com/political-ads/asset/edaf56882284d335e6a2dfb0001500305d82038fe472f1c1daeffdf493e2ecff?mediaType=mp4)|313,592||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|DSEA Advocacy Fund for Children and Public Schools|

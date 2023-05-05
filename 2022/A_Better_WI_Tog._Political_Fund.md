@@ -1,4 +1,7 @@
 ## 2022 - A Better WI Tog. Political Fund 
+Spent: 83,596.00
+Impressions: 3,524,625
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|13,284.00 USD|A Better WI Tog. Political Fund|[0](https://www.snap.com/political-ads/asset/969a96b7c93c31b09e6e8f448441086170ee74c93dfc2c54d22340ffdf130f9c?mediaType=mp4)|710,209||18-34|united states|"1220 19th Street NW,Washington,20036,US"||

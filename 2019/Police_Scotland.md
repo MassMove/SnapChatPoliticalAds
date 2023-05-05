@@ -1,4 +1,7 @@
 ## 2019 - Police Scotland 
+Spent: 3,797.00
+Impressions: 2,627,872
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Republic of Media Ltd.|1,500.00 GBP|Police Scotland|[0](https://www.snap.com/political-ads/asset/1798e7ec61efe50168d8bc00d48c964d3b4f976e5a547b3dff4604e937c0eeb8?mediaType=mp4)|1,041,008|MALE|18+|united kingdom|"4th Floor, Nova House,Edinburgh,EH3 9QQ,GB"||

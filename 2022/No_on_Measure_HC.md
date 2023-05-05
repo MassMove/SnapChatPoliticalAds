@@ -1,4 +1,7 @@
 ## 2022 - No on Measure HC 
+Spent: 5,939.00
+Impressions: 223,108
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bask Digital Media|886.00 USD|No on Measure HC|[0](https://www.snap.com/political-ads/asset/4e98155b3bd9f7f5780307cbb1f11d46508ca70e368bacf00ea496acbd95b85a?mediaType=mp4)|40,208||18-34|united states|US|Measure HC|

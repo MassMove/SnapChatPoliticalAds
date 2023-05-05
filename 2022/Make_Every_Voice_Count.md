@@ -1,4 +1,7 @@
 ## 2022 - Make Every Voice Count 
+Spent: 4,373.00
+Impressions: 161,078
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Centro LLC|2,925.00 USD|Make Every Voice Count|[0](https://www.snap.com/political-ads/asset/136644796281b26de8e8c32a89b57ce919698ed1737d711ca4c54ad5a731e9a9?mediaType=mp4)|114,461||18+|united states|"11 E. Madison Ave. 6th Floor,,,Chicago,60602,US"|Make Every Voice Count|

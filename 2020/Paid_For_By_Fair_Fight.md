@@ -1,4 +1,7 @@
 ## 2020 - Paid For By Fair Fight 
+Spent: 157,307.00
+Impressions: 19,343,794
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|36,178.00 USD|Paid For By Fair Fight|[0](https://www.snap.com/political-ads/asset/4bba8eb30d933cfda4d0d10e76e99f346053a4f32a76cc0de89a3665739e7f68?mediaType=mp4)|3,712,049||18+|united states|"222 W. Ontario,Chicago,60654,US"||

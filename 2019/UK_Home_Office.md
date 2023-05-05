@@ -1,4 +1,7 @@
 ## 2019 - UK Home Office 
+Spent: 16,405.00
+Impressions: 13,252,062
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Manning Gottlieb OMD - OmniGOV|4,974.00 GBP|UK Home Office|[0](https://www.snap.com/political-ads/asset/62b15b267ff4f565789752fbe3e52cc7e050e5ec6ca81d48c9b4f4c1b05a00de?mediaType=mp4)|4,584,348|MALE|18-24|united kingdom|"10 Regents Wharf, All Saints Stree,London,N1 9RL,GB"||

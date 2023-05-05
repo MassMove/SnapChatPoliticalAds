@@ -1,4 +1,7 @@
 ## 2021 - MEJC 
+Spent: 198.00
+Impressions: 113,332
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Concerted Action|65.00 USD|MEJC|[0](https://www.snap.com/political-ads/asset/e7fbca0b3bf83f5e7f08737ca13a7ee91e049ba362fa569cebe3b4d9b34729d8?mediaType=mp4)|44,118|||united states|US||

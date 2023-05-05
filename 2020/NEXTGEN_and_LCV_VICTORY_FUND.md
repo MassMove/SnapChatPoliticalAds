@@ -1,4 +1,7 @@
 ## 2020 - NEXTGEN and LCV VICTORY FUND 
+Spent: 17,856.00
+Impressions: 1,041,765
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|4,077.00 USD|NEXTGEN and LCV VICTORY FUND|[0](https://www.snap.com/political-ads/asset/b5ee25d63af8481dbf2dc03102998e30417d6a682b1f31a350c9cb534d865c42?mediaType=mp4)|237,625||18-34|united states|"1445 New York Ave NW,Washington,20005,US"|Joe Biden|

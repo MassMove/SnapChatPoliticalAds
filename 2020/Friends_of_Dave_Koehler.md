@@ -1,4 +1,7 @@
 ## 2020 - Friends of Dave Koehler 
+Spent: 1,796.00
+Impressions: 296,521
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Riveter Digital|971.00 USD|Friends of Dave Koehler|[0](https://www.snap.com/political-ads/asset/73c9e73287f1edc7169f4491b5bf442dc7c56eb5ff724524b1c2976eb3017aff?mediaType=mp4)|155,218||18+|united states|US|Dave Koehler for IL State Senate|

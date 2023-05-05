@@ -1,4 +1,7 @@
 ## 2023 - Revde 
+Spent: 134.00
+Impressions: 23,318
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ZELARA TECHNOLOGIES LLC|101.00 USD|Revde|[0](https://www.snap.com/political-ads/asset/434596aca8ec5ad87ad1ff8d03253c9c22369a1281a4ed3497fb49b0cadbc6db?mediaType=mp4)|18,967||18+|united states|US||

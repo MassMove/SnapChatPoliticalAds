@@ -1,4 +1,7 @@
 ## 2022 - Galvanize Action 
+Spent: 80,368.00
+Impressions: 3,304,067
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|5,967.00 USD|Galvanize Action|[0](https://www.snap.com/political-ads/asset/50750069dd5c7d3b5bc8a24812ba5d210d36c29ff85f6800c7ef51f16602acfd?mediaType=mp4)|221,982|FEMALE|18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Galvanize Action|

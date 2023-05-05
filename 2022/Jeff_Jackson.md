@@ -1,4 +1,7 @@
 ## 2022 - Jeff Jackson 
+Spent: 6,474.00
+Impressions: 346,925
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gambit Strategies|3,763.00 USD|Jeff Jackson|[0](https://www.snap.com/political-ads/asset/fae6cd25a59d9931f63022b6bddd191de646e3a40212eb3cbaa4eb74fd43486e?mediaType=mp4)|180,533||18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"||

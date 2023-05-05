@@ -1,4 +1,7 @@
 ## 2021 - Accountability Virginia PAC 
+Spent: 28,874.00
+Impressions: 4,178,713
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Gambit Strategies|6,914.00 USD|Accountability Virginia PAC|[0](https://www.snap.com/political-ads/asset/54866d9661fe4e165c13e5a9be8e6e1c0ce8d67991fd62dde9cff54d0e8ba55f?mediaType=png)|1,240,850||18-49|united states|"2939 Van Ness St NW #1006,Washington,20008,US"||

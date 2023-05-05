@@ -1,4 +1,7 @@
 ## 2020 - Healthy Voting 
+Spent: 201,490.00
+Impressions: 52,147,794
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Panowatch  LLC|12,180.00 USD|Healthy Voting|[0](https://www.snap.com/political-ads/asset/b03fa6ddaefb4705f196a1e1d7e6fb44512f5acdd51b70b14a72bc5d9719c133?mediaType=mp4)|5,080,887||18+|united states|"8207 Taunton Pl,West Springfield,22152,US"|Healthy Voting|

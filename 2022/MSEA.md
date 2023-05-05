@@ -1,4 +1,7 @@
 ## 2022 - MSEA 
+Spent: 9,896.00
+Impressions: 538,796
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,525.00 USD|MSEA|[0](https://www.snap.com/political-ads/asset/b4cc297be744d6f25ec4763d9277e1f4dda0f36e6627a6d2f6518440f2d2b95a?mediaType=jpg)|139,103||18+|united states|US|MSEA|

@@ -1,4 +1,7 @@
 ## 2020 - Unilever 
+Spent: 3,099.00
+Impressions: 582,632
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Learfield IMG College  LLC|500.00 USD|Unilever|[0](https://www.snap.com/political-ads/asset/8e70ba0d56278ef0a6fe021e41cf31c6c48280e97ac5e52dd2534a07ac0b932e?mediaType=jpg)|125,026||18+|united states|"540 Trade St NW,Winston-Salem,27101,US"|National Register to Vote Day|

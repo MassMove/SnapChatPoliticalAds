@@ -1,4 +1,7 @@
 ## 2020 - End Citizens United Non-federal 
+Spent: 13,628.00
+Impressions: 4,123,595
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,776.00 USD|End Citizens United Non-federal|[0](https://www.snap.com/political-ads/asset/32aadc4bf331583620576e1091d41ea263670763f52f1010b29fc07d97633e81?mediaType=mp4)|552,621||18-35|united states|US||

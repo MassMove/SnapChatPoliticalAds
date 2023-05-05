@@ -1,4 +1,7 @@
 ## 2019 - Avaaz Foundation 
+Spent: 2,736.00
+Impressions: 7,415,072
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Avaaz Foundation|250.00 EUR|Avaaz Foundation|[0](https://www.snap.com/political-ads/asset/b0d92b1117e1318c593b8d19b0cecc05bb9a5ff2983f81afbfba29e2ca50d4f6?mediaType=png)|1,640,535|||poland|US||

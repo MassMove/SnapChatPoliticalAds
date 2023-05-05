@@ -1,4 +1,7 @@
 ## 2019 - Alternativets Unge 
+Spent: 239.00
+Impressions: 100,330
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Alternativets Unge|88.00 EUR|Alternativets Unge|[0](https://www.snap.com/political-ads/asset/cef0dd39916c3498364b6f26ce276dbb8af0735ef0307b510f314932bdf6748c?mediaType=png)|37,360||18-30|denmark|DK||

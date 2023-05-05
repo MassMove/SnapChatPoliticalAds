@@ -1,4 +1,7 @@
 ## 2019 - Queen Anne's County Government 
+Spent: 140.00
+Impressions: 77,740
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Queen Anne's County Government|60.00 USD|Queen Anne's County Government|[0](https://www.snap.com/political-ads/asset/7d731740dca5dfaf5fab1a8fb41c48274309310bbf35bbcd31074279081f11a9?mediaType=mp4)|32,687|||united states|US||

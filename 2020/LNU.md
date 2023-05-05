@@ -1,4 +1,7 @@
 ## 2020 - LNU 
+Spent: 2,339.00
+Impressions: 2,065,702
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LNU|1,168.00 EUR|LNU|[0](https://www.snap.com/political-ads/asset/7e0e8285155be80be726384078332f94e01ff15d74e6f3fcc916125d31355bec?mediaType=mp4)|1,261,793||23-|norway|NO|Porno og sexting|

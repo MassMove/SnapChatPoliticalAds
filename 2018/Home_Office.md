@@ -1,4 +1,7 @@
 ## 2018 - Home Office 
+Spent: 11,477.00
+Impressions: 9,255,039
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dentsu Aegis Network|3,106.00 GBP|Home Office|[0](https://www.snap.com/political-ads/asset/ccf976d8eed27e07a1545de0eea19183d2079b3606c206e4a4a27f85aaaf66f3?mediaType=mp4)|3,822,930||18-24|united kingdom|"10 Triton Street,London,NW1 3BF,GB"||

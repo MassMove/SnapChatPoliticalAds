@@ -1,4 +1,7 @@
 ## 2022 - Duty and Honor (SMP WI) 
+Spent: 22,234.00
+Impressions: 6,277,095
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GMMB  Inc|10,000.00 USD|Duty and Honor (SMP WI)|[0](https://www.snap.com/political-ads/asset/be749b4459beda09d6e78314cd09b8efbeb01697b76264ff82f956e44cf2c208?mediaType=mp4)|2,790,356||18-35|united states|"3050 K Street,Washington,20007,US"||

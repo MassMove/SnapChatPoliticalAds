@@ -1,4 +1,7 @@
 ## 2022 - Catherine Cortez Masto 
+Spent: 195,223.00
+Impressions: 13,886,985
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|8,521.00 USD|Catherine Cortez Masto|[0](https://www.snap.com/political-ads/asset/5f95aaf5ba1f670ea195d60c5c0effc974d1f55fafe3cba4748bffeccaa9fb30?mediaType=jpg)|898,409||18+|united states|US|Catherine Cortez Masto for Senate|

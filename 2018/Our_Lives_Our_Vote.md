@@ -1,4 +1,7 @@
 ## 2018 - Our Lives Our Vote 
+Spent: 4,081.00
+Impressions: 1,205,703
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ACRONYM|1,482.00 USD|Our Lives Our Vote|[0](https://www.snap.com/political-ads/asset/ff78549ac6534755a4374224fe42629332d24b07ae1759fe0d3eb111e4cd30d2?mediaType=mp4)|415,129||18-28|united states|US||

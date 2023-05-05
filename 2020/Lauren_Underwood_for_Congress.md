@@ -1,4 +1,7 @@
 ## 2020 - Lauren Underwood for Congress 
+Spent: 10,497.00
+Impressions: 1,959,678
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|6,876.00 USD|Lauren Underwood for Congress|[0](https://www.snap.com/political-ads/asset/e91ea0451b6931d6647933f1307c9c2293460b6ff05dc805960b787c20f6c9fa?mediaType=png)|1,355,913|FEMALE|18-37|united states|"PO Box 128,Mill Valley,94942,US"|Lauren Underwood|

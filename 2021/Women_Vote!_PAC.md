@@ -1,4 +1,7 @@
 ## 2021 - Women Vote! PAC 
+Spent: 33,836.00
+Impressions: 2,214,582
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|6,509.00 USD|Women Vote! PAC|[0](https://www.snap.com/political-ads/asset/21be9fb851dcd1f8b469faaa0e2521099167e3d82f12545db470b2bb5b4a5db5?mediaType=mp4)|430,344||18+|united states|US|Women Vote|

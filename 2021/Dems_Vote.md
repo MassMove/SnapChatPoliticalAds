@@ -1,4 +1,7 @@
 ## 2021 - Dems Vote 
+Spent: 1,276.00
+Impressions: 285,604
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Seda Custom Design LLC|274.00 USD|Dems Vote|[0](https://www.snap.com/political-ads/asset/f35b7fbf3187c02c9e7c7cb535caf84d90587a30d71014db90a59730b849b68c?mediaType=mp4)|96,740|FEMALE|18-30|united states|"6048 Via Casitas,CARMICHAEL,95608,US"|Democrat court judges school superintendent|

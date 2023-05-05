@@ -1,4 +1,7 @@
 ## 2021 - Sandy Hook Promise 
+Spent: 49,996.00
+Impressions: 17,248,106
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Omnicom Media Group Holdings Inc.|5,196.00 USD|Sandy Hook Promise|[0](https://www.snap.com/political-ads/asset/9e4d6d23f74eedae6843022e00071acf351c5901a164f3ffaea8c5a0b8ab8445?mediaType=mp4)|3,739,965||14+|united states|"195 Broadway, 5th Floor,New York,10007,US"||

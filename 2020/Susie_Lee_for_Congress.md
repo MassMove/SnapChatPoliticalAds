@@ -1,4 +1,7 @@
 ## 2020 - Susie Lee for Congress 
+Spent: 12,314.00
+Impressions: 2,202,170
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|1,355.00 USD|Susie Lee for Congress|[0](https://www.snap.com/political-ads/asset/2e3f6d62a9492b64a4c7c6764ec2ead6fad855d2c696859f1dad68def1ffa889?mediaType=mp4)|253,255||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Susie Lee for Congress|

@@ -1,4 +1,7 @@
 ## 2021 - Center For Common Ground 
+Spent: 11,206.00
+Impressions: 3,008,508
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Students For Justice|641.00 USD|Center For Common Ground|[0](https://www.snap.com/political-ads/asset/c2023b5750b4302010fec293e98f82409882d5769a4eba74378640cf299627be?mediaType=png)|173,475|MALE||united states|US||

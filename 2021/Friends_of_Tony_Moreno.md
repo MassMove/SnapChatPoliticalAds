@@ -1,4 +1,7 @@
 ## 2021 - Friends of Tony Moreno 
+Spent: 160.00
+Impressions: 28,034
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Real Steel Mayor|81.00 USD|Friends of Tony Moreno|[0](https://www.snap.com/political-ads/asset/91b606b0b482779eb5ea39f73aa6ab2a96af1377261c3e43b67a9d7df5dc52ba?mediaType=mp4)|14,062||18+|united states|US|Tony Moreno for Pittsburgh Mayor|

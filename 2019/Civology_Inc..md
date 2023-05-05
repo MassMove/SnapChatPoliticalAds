@@ -1,4 +1,7 @@
 ## 2019 - Civology Inc. 
+Spent: 141.00
+Impressions: 41,758
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Civology|35.00 USD|Civology Inc.|[0](https://www.snap.com/political-ads/asset/8618627f2673919202e7e1d6b962b6cb42fbf57e5060348a4422327b25aced53?mediaType=mp4)|11,150||18+|united states|US|Civology|

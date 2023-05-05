@@ -1,4 +1,7 @@
 ## 2021 - Galaxy Labs 
+Spent: 435.00
+Impressions: 120,183
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Galaxy Labs|201.00 USD|Galaxy Labs|[0](https://www.snap.com/political-ads/asset/450b152d728b64622a4ceb324981805a54564c649c642e5e00c3f893fd66f7eb?mediaType=mp4)|57,625||18+|united states|US||

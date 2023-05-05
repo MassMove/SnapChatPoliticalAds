@@ -1,4 +1,7 @@
 ## 2022 - BNNVARA 
+Spent: 1,234.00
+Impressions: 661,030
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BNNVARA|337.00 EUR|BNNVARA|[0](https://www.snap.com/political-ads/asset/85b1db5c29b3e9454fe4d81e24bfd71563cf214c98be93a29d3dc4cc8350c9da?mediaType=mp4)|269,419||18-34|netherlands|"Harderwijkerweg 141,Ermelo,3852AB,NL"||

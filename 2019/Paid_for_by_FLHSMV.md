@@ -1,4 +1,7 @@
 ## 2019 - Paid for by FLHSMV 
+Spent: 2,665.00
+Impressions: 1,603,602
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Avanza Advertising  LLC|1,009.00 USD|Paid for by FLHSMV|[0](https://www.snap.com/political-ads/asset/0640767b60184e59d3f50a0f6e67694f0ebca0d66e0daf229ff39a6ded34dc13?mediaType=mp4)|656,515||14-21|united states|"5465 NW 36th St. Ste 100,Miami Springs,33166,US"|Teen Driver Safety|

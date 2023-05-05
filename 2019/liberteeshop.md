@@ -1,4 +1,7 @@
 ## 2019 - liberteeshop 
+Spent: 3,149.00
+Impressions: 2,519,057
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |liberteeshop.com|255.00 USD|liberteeshop|[0](https://www.snap.com/political-ads/asset/ccade9474ae8863f6aabc61414d46d15fe204f33112070ff7605dc2401c1dc92?mediaType=mp4)|423,240||18+|united states|US||

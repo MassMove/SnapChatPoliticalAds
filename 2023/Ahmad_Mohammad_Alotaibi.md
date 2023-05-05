@@ -1,4 +1,7 @@
 ## 2023 - Ahmad Mohammad Alotaibi 
+Spent: 194.00
+Impressions: 286,638
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |أحمد محمد العتيبي|69.00 USD|Ahmad Mohammad Alotaibi|[0](https://www.snap.com/political-ads/asset/6c2e3a35d9137c18887ade679e26ba39fecba1e0e917d9520f9c718c18735ed8?mediaType=mp4)|127,879||18+|kuwait|KW||

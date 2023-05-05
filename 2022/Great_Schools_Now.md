@@ -1,4 +1,7 @@
 ## 2022 - Great Schools Now 
+Spent: 3,779.00
+Impressions: 322,557
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Strategies 360|710.00 USD|Great Schools Now|[0](https://www.snap.com/political-ads/asset/03beccde71be13a7c5eb7a45544f24ef46354a1211bde031902ff934d3c2c4fb?mediaType=png)|66,046||18+|united states|"1505 Westlake Ave N Suite 1000,Seattle,98109,US"|Great Schools Now|

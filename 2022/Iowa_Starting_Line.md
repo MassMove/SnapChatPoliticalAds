@@ -1,4 +1,7 @@
 ## 2022 - Iowa Starting Line 
+Spent: 38,895.00
+Impressions: 7,845,272
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SBDigital|7,236.00 USD|Iowa Starting Line|[0](https://www.snap.com/political-ads/asset/3e741a4ac3426c58ce2942c25d1dea9047725dc2c85fcb57259b821b8edba1cd?mediaType=mp4)|1,771,172||17-35|united states|US||

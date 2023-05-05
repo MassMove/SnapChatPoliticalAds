@@ -1,4 +1,7 @@
 ## 2020 - The Monroe County DEC 
+Spent: 372.00
+Impressions: 81,223
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Duval Street Media|272.00 USD|The Monroe County DEC|[0](https://www.snap.com/political-ads/asset/868038f9f0ecf7043b8487798813b80bd658e04e481a4e8555e8a83cff7a3af7?mediaType=mp4)|62,567||18-35|united states|US|Monroe County DEC|

@@ -1,4 +1,7 @@
 ## 2021 - Clean Virginia Fund 
+Spent: 21,583.00
+Impressions: 1,044,021
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |COMPETE Digital LLC|930.00 USD|Clean Virginia Fund|[0](https://www.snap.com/political-ads/asset/044e7ea91018f9782ab916758585c507479d6ca95a6d05b6753fa0a2255041cf?mediaType=mp4)|59,731||18+|united states|"1317 Potomac Ave SE,Washington,20003,US"|Jay Jones|

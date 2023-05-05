@@ -1,4 +1,7 @@
 ## 2021 - Patagonia 
+Spent: 52,419.00
+Impressions: 19,188,668
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Patagonia|1,000.00 USD|Patagonia|[0](https://www.snap.com/political-ads/asset/89369c6cdc392735a37a40cf16086897694cd50095599b660ba6fe6b6f55c934?mediaType=mp4)|753,956|||united states|"235 W Santa Clara St,Ventura,93001,US"||

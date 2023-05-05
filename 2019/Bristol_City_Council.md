@@ -1,4 +1,7 @@
 ## 2019 - Bristol City Council 
+Spent: 191.00
+Impressions: 184,302
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bristol City Council|100.00 GBP|Bristol City Council|[0](https://www.snap.com/political-ads/asset/81f814e20b5a3e3e607c48e83b36cb5f8a36553361b75d4e021a20ba869f5821?mediaType=png)|98,023||16-25|united kingdom|GB||

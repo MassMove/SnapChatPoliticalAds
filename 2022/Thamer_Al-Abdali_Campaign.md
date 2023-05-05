@@ -1,4 +1,7 @@
 ## 2022 - Thamer Al-Abdali Campaign 
+Spent: 997.00
+Impressions: 627,982
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Thamer Campaign|634.00 USD|Thamer Al-Abdali Campaign|[0](https://www.snap.com/political-ads/asset/6558e5aadabd96665331fe43c877b4a3c94eb3004ab23a31d42646a77611ad73?mediaType=png)|390,048||21+|kuwait|"Abdullah Almubarak,Farwaniya,00965,KW"|Thamer Al-Abdali|

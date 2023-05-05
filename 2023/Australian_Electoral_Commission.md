@@ -1,4 +1,7 @@
 ## 2023 - Australian Electoral Commission 
+Spent: 1,268.00
+Impressions: 495,399
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|331.00 AUD|Australian Electoral Commission|[0](https://www.snap.com/political-ads/asset/bb721f1a8eaad4cfd5f65aef10972a3913efdf3b3a3039c18fa5aaafe030ab9e?mediaType=mp4)|128,893||16-24|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

@@ -1,4 +1,7 @@
 ## 2022 - Fair Fight Action 
+Spent: 37,284.00
+Impressions: 10,177,481
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Vision Media Services|15,488.00 USD|Fair Fight Action|[0](https://www.snap.com/political-ads/asset/50939c6d78e3512887297568e825b73ba885b4866ae9a90265cb9994c5fd2f7b?mediaType=mp4)|6,222,076||18-35|united states|"PO Box 56081 ,Chicago,60656,US"||

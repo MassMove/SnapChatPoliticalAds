@@ -1,4 +1,7 @@
 ## 2021 - Emerging American Majorities 
+Spent: 14,000.00
+Impressions: 1,517,422
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Emerging American Majorities|5,500.00 USD|Emerging American Majorities|[0](https://www.snap.com/political-ads/asset/ec8b2afa0b23f3b80271553cce21cd76cb1a700cad964924ea9c33835e926cd6?mediaType=mov)|591,422||18+|united states|US||

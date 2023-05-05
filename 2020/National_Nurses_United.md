@@ -1,4 +1,7 @@
 ## 2020 - National Nurses United 
+Spent: 232.00
+Impressions: 104,578
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |National Nurses United|100.00 USD|National Nurses United|[0](https://www.snap.com/political-ads/asset/d2ee72dd082bceb3328239b23d7e6e6e9aa85c3b5fbbce5f20327f660e436a56?mediaType=png)|46,456|||united states|US|Mission Hospital Union Election|

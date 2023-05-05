@@ -1,4 +1,7 @@
 ## 2020 - OH for Justice and Integrity 
+Spent: 76,982.00
+Impressions: 8,351,251
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|42,802.00 USD|OH for Justice and Integrity|[0](https://www.snap.com/political-ads/asset/c4267433a41fee3f3320acc68d7f0a894e459435d0ed90ea056225fbe278912e?mediaType=mp4)|4,892,899||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Judge Jennifer Brunner and Judge John P ODonnell|

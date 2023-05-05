@@ -1,4 +1,7 @@
 ## 2021 - Dreams In Action NM 
+Spent: 1,746.00
+Impressions: 406,548
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dreams In Action NM|500.00 USD|Dreams In Action NM|[0](https://www.snap.com/political-ads/asset/0d64eed00181becfe5f538f55a0611a1c2dbc087c9e9755eaea485d95db2c539?mediaType=mp4)|156,027||17-40|united states|US|2021 Albuquerque Municipal Elections|

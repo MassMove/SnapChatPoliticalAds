@@ -1,4 +1,7 @@
 ## 2021 - Planned Parenthood Advocates WI 
+Spent: 1,500.00
+Impressions: 600,854
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Planned Parenthood Advocates of Wisconsin|500.00 USD|Planned Parenthood Advocates WI|[0](https://www.snap.com/political-ads/asset/304119fa88296b82ba14388f9843825fa027568dc3e578b10747ab62b2a84800?mediaType=png)|210,200||18+|united states|"302 N Jackson St,Milwaukee,53211,US"|Rachel Maes|

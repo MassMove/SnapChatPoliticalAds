@@ -1,4 +1,7 @@
 ## 2022 - David Blair for Montgomery 
+Spent: 8,775.00
+Impressions: 410,821
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|2,383.00 USD|David Blair for Montgomery|[0](https://www.snap.com/political-ads/asset/b35613e570dcdfdd2dee1f0dd4bbc25c799b7521c2405ce5ef8635fd80b926e8?mediaType=mp4)|124,277||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|David Blair for Montgomery|

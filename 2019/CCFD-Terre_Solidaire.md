@@ -1,4 +1,7 @@
 ## 2019 - CCFD-Terre Solidaire 
+Spent: 3,989.00
+Impressions: 4,456,353
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ORIXA MEDIA|543.00 EUR|CCFD-Terre Solidaire|[0](https://www.snap.com/political-ads/asset/fb0ddb1a8f0c6315daf9cfad0f6a4768c6bdf21185968cdd1985c55b45e5ba56?mediaType=mp4)|757,891||17+|france|"79 Boulevard Richard Lenoir,PARIS,75011,FR"||

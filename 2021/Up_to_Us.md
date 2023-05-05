@@ -1,4 +1,7 @@
 ## 2021 - Up to Us 
+Spent: 6,710.00
+Impressions: 679,573
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Up to Us|980.00 USD|Up to Us|[0](https://www.snap.com/political-ads/asset/03fd1796088b4a75c2d62a05edf25fb1936345a3af596a3e490888c67ca97e60?mediaType=mp4)|260,631||19-24|united states|"1333 Broadway, Suite 250,Oakland,94612,US"||

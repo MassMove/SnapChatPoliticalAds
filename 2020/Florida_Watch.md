@@ -1,4 +1,7 @@
 ## 2020 - Florida Watch 
+Spent: 96,418.00
+Impressions: 14,268,624
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |The New Media Firm|16,002.00 USD|Florida Watch|[0](https://www.snap.com/political-ads/asset/9b8a012acd44afe320fb44ac506af9564c231b564293bca6f0f7db7849fcce79?mediaType=mp4)|1,361,406||18+|united states|"1730 Rhode Island Ave, NW Ste 213,Washington,20036,US"|Florida Watch|

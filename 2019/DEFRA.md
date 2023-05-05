@@ -1,4 +1,7 @@
 ## 2019 - DEFRA 
+Spent: 6,373.00
+Impressions: 5,606,975
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Manning Gottlieb OMD - OmniGOV|1,864.00 GBP|DEFRA|[0](https://www.snap.com/political-ads/asset/ebefb8efad516ef7234d6036d65cccaab1467d117c8d38fec71a7eed4749f19a?mediaType=mp4)|1,718,287||16-24|united kingdom|"10 Regents Wharf, All Saints Stree,London,N1 9RL,GB"||

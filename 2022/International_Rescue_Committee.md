@@ -1,4 +1,7 @@
 ## 2022 - International Rescue Committee 
+Spent: 1,974.00
+Impressions: 1,778,516
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |International Rescue Committee|122.00 USD|International Rescue Committee|[0](https://www.snap.com/political-ads/asset/3b0e3d1985f2e4a326fa57d2aff500c1e529cfebaec4298e7cb7a4830240e91f?mediaType=mp4)|314,800|||poland|"122 E 42nd Street,New York,10168-1289,US"||

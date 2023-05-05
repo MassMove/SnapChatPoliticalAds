@@ -1,4 +1,7 @@
 ## 2021 - Union County Dems 
+Spent: 2,946.00
+Impressions: 505,875
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |mv digital group|789.00 USD|Union County Dems|[0](https://www.snap.com/political-ads/asset/0b198d667acb38adfa2ad3a7890cfd14aff625aa198e63ff04f4e694c25eaf81?mediaType=mp4)|137,894||18+|united states|"One, World Trade Center ,new york,10007,US"|Joe Signorello|

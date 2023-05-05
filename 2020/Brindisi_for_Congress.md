@@ -1,4 +1,7 @@
 ## 2020 - Brindisi for Congress 
+Spent: 4,075.00
+Impressions: 852,165
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|3,210.00 USD|Brindisi for Congress|[0](https://www.snap.com/political-ads/asset/a0527e92a7f98c5a0bebdf1cd323ab7fa6d31d7d2e68a7b03b7215401b8673d6?mediaType=mp4)|700,807||18-29|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Anthony Brindisi|

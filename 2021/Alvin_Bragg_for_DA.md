@@ -1,4 +1,7 @@
 ## 2021 - Alvin Bragg for DA 
+Spent: 599.00
+Impressions: 99,021
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|312.00 USD|Alvin Bragg for DA|[0](https://www.snap.com/political-ads/asset/ab361b998cbbbc960584e71ae96163453edaac5a4d80be3e4633aeefbaebf28f?mediaType=mp4)|53,438||18+|united states|US|Alvin Bragg for Manhattan DA|

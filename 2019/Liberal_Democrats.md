@@ -1,4 +1,7 @@
 ## 2019 - Liberal Democrats 
+Spent: 19,706.00
+Impressions: 9,050,458
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Liberal Democrats|7,015.00 GBP|Liberal Democrats|[0](https://www.snap.com/political-ads/asset/65814e746ee1e701679eac6433e41c666ec2760165e54fc7c5529e2c2b4ccd17?mediaType=mp4)|3,484,370||18-35||GB|Liberal Democrats|

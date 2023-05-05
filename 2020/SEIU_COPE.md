@@ -1,4 +1,7 @@
 ## 2020 - SEIU COPE 
+Spent: 1,152.00
+Impressions: 347,023
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|475.00 USD|SEIU COPE|[0](https://www.snap.com/political-ads/asset/bf98a87ce426da3f90df72d3078052c0fabd54a5928e8a062b94c5d7499ebd56?mediaType=mov)|144,076||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"|Joe Biden|

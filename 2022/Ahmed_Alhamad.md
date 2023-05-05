@@ -1,4 +1,7 @@
 ## 2022 - Ahmed Alhamad 
+Spent: 303.00
+Impressions: 80,577
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Yaser Masoud Rateeb Jeed|155.00 USD|Ahmed Alhamad|[0](https://www.snap.com/political-ads/asset/69b2acb48cafa8f32fba525d18a36098042aa58d4a4e57e443dbd56b394c166a?mediaType=mp4)|41,163||25+|kuwait|"Salmiya, 1 st,Kuwait,00965,KW"||

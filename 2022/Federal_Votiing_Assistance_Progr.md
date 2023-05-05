@@ -1,4 +1,7 @@
 ## 2022 - Federal Votiing Assistance Progr 
+Spent: 2,088.00
+Impressions: 680,441
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |LumenAd|141.00 USD|Federal Votiing Assistance Progr|[0](https://www.snap.com/political-ads/asset/c225c5fd62249c93bbb6ebc31609bb8d347dca005f531be8521148c8992f2cec?mediaType=mp4)|68,557||18-29|united states|US|Federal Voting Assistance Program|

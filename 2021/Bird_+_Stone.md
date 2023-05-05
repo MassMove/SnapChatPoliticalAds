@@ -1,4 +1,7 @@
 ## 2021 - Bird + Stone 
+Spent: 380.00
+Impressions: 58,822
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bird & Stone  Inc|275.00 USD|Bird + Stone|[0](https://www.snap.com/political-ads/asset/b4e2eaabc632f45d9fe60c9c38152377aab28dc919bad4453d597f0b756666c3?mediaType=mp4)|44,915|FEMALE|20+|united states|US||

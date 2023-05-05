@@ -1,4 +1,7 @@
 ## 2020 - Cannabis Control Commission 
+Spent: 21,950.00
+Impressions: 7,432,065
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |MORE Advertising|5,880.00 USD|Cannabis Control Commission|[0](https://www.snap.com/political-ads/asset/9530e34cd9b751e3281ba8941b64162f99958acda8f0c6c1e7045eaed3bef95c?mediaType=mp4)|2,454,779||21+|united states|US||

@@ -1,4 +1,7 @@
 ## 2021 - Color of Change PAC 
+Spent: 2,996.00
+Impressions: 1,265,917
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Color of Change PAC|500.00 USD|Color of Change PAC|[0](https://www.snap.com/political-ads/asset/7010bb69d670f8b677ab98441e7f63052ad96f187f6baf3efbb66dba4f47581f?mediaType=jpg)|228,598||18+|united states|"1714 Franklin St,Oakland,94612,US"|Larry Krasner|

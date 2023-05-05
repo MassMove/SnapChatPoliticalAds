@@ -1,4 +1,7 @@
 ## 2020 - Democrats.com 
+Spent: 477.00
+Impressions: 202,549
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democrats.com|167.00 USD|Democrats.com|[0](https://www.snap.com/political-ads/asset/c7def4d71c532df378d255726085439a00768e824f32f38ba0b7a6b1381e58e5?mediaType=png)|97,277|||united states|US|Prochoice Democrats|

@@ -1,4 +1,7 @@
 ## 2020 - Commonwealth Communications 
+Spent: 117,691.00
+Impressions: 18,081,182
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |GPS Impact|10,399.00 USD|Commonwealth Communications|[0](https://www.snap.com/political-ads/asset/33b54f148b7d654e6b803a1efdf24428404261d0fe3fd6141f935782543aa058?mediaType=mp4)|4,176,269||18-35|united states|"220 SE 6th St Suite 330,Des Moines,50309,US"||

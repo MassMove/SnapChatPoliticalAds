@@ -1,4 +1,7 @@
 ## 2021 - Espoon Keskusta 
+Spent: 489.00
+Impressions: 229,015
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Keskustan Espoon kunnallisjärjestö ry|297.00 EUR|Espoon Keskusta|[0](https://www.snap.com/political-ads/asset/f18ce8e78a666cef99a0f1bf67c1ddae45951bd0a5283710776f11e53439da2c?mediaType=png)|130,787||18+|finland|"Takkavitsankuja 6A1,ESPOO,02760,FI"||

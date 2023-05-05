@@ -1,4 +1,7 @@
 ## 2022 - Khaleel Alsaleh 
+Spent: 620.00
+Impressions: 558,470
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |tasaaheel|600.00 USD|Khaleel Alsaleh|[0](https://www.snap.com/political-ads/asset/8129434f1e6c1e334055ddb7b165d7b8a935564d54d592ca071a8adc650a3697?mediaType=mp4)|547,693|||kuwait|"21 H 2ND ST,SHMADI,12313,KW"||

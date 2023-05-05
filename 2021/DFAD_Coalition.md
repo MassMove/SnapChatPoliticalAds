@@ -1,4 +1,7 @@
 ## 2021 - DFAD Coalition 
+Spent: 1,856.00
+Impressions: 385,819
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|344.00 USD|DFAD Coalition|[0](https://www.snap.com/political-ads/asset/093fd4de09ba9edcf5b28b2a0c4a6fc6a5aa30ebbf0f97fbfbad0eb4b27f3522?mediaType=jpg)|76,893||18+|united states|"PO Box 128,Mill Valley,94942,US"||

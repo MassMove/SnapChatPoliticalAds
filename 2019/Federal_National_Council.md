@@ -1,4 +1,7 @@
 ## 2019 - Federal National Council 
+Spent: 32,190.00
+Impressions: 16,323,145
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Around The Clock|4,298.00 USD|Federal National Council|[0](https://www.snap.com/political-ads/asset/066d90f4b0176532ad2cd5989f7b8a8621df714f3cbdeb9a1b6db43f06cda25e?mediaType=png)|7,336,680||18+|united arab emirates|"Business Central Tower A, Office 2304A, Dubai Media City,Dubai,501918,AE"||

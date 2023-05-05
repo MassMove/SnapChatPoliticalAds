@@ -1,4 +1,7 @@
 ## 2022 - ICON MEDIA 
+Spent: 276.00
+Impressions: 41,497
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ICON MEDIA|156.00 USD|ICON MEDIA|[0](https://www.snap.com/political-ads/asset/b3665be8fde51872e8c61de201d0a068b7f58aaf9bc03b9c8c17458a39803b65?mediaType=mp4)|24,084||20+|kuwait|KW||

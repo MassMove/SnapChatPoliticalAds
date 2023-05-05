@@ -1,4 +1,7 @@
 ## 2020 - League of Women Voters-Villages 
+Spent: 927.00
+Impressions: 226,443
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |League of Women Voters-The Villages/Tri-County|247.00 USD|League of Women Voters-Villages|[0](https://www.snap.com/political-ads/asset/6b3d34aa988a1b0afec998e066af193e3c4fb2fa5192900022a9f981880615eb?mediaType=mp4)|46,618|FEMALE|18-40|united states|US||

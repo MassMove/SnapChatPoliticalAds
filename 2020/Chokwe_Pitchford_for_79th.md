@@ -1,4 +1,7 @@
 ## 2020 - Chokwe Pitchford for 79th 
+Spent: 358.00
+Impressions: 86,568
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chokwe Pitchford for 79th|212.00 USD|Chokwe Pitchford for 79th|[0](https://www.snap.com/political-ads/asset/5caeca372d9ae3c5a899ed2af9caf08e1767d8de0ad02313dd4f2df5aeeef4d4?mediaType=mp4)|51,186||18+|united states|US|Chokwe Pitchford|

@@ -1,4 +1,7 @@
 ## 2020 - Fianna Fáil 
+Spent: 2,445.00
+Impressions: 3,061,272
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fianna Fáil|440.00 EUR|Fianna Fáil|[0](https://www.snap.com/political-ads/asset/85eda563900c38977640309ee01da0682689815ea2eaccff540b719bf1ef2dea?mediaType=mp4)|579,461||19-39|ireland|IE|Fianna Fail|

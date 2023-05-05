@@ -1,4 +1,7 @@
 ## 2019 - truth 
+Spent: 803,390.00
+Impressions: 268,204,613
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Assembly|65,626.00 USD|truth|[0](https://www.snap.com/political-ads/asset/4e8c873cf036b5b3ca403a9a6e27d3b137b3de04a42c652622a0ef4f0e44d696?mediaType=mp4)|34,756,819||15-17|united states|"711 3rd Ave, New York, NY 10017,new york city,10017,US"||

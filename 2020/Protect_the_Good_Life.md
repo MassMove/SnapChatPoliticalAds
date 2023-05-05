@@ -1,4 +1,7 @@
 ## 2020 - Protect the Good Life 
+Spent: 4,404.00
+Impressions: 1,253,292
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BCom Solutions|276.00 USD|Protect the Good Life|[0](https://www.snap.com/political-ads/asset/e50245effde1af46c4b4651520baed0cdffe687f52c5ffac8dceba2aa7a5d155?mediaType=jpg)|85,039||18+|united states|"919 Central Ave,Auburn,68305,US"|Day and Royers|

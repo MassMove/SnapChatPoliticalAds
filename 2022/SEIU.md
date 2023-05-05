@@ -1,4 +1,7 @@
 ## 2022 - SEIU 
+Spent: 147,474.00
+Impressions: 26,855,361
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|9,439.00 USD|SEIU|[0](https://www.snap.com/political-ads/asset/dc8896683998f8d955e5c7d899d6d93d97e0c226abb7f5f766616b47a188db74?mediaType=mp4)|2,900,573||18+|united states|"1121 14th Street NW Suite 700,Washington,20005,US"|SEIU|

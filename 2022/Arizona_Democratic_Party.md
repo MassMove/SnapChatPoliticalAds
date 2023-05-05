@@ -1,4 +1,7 @@
 ## 2022 - Arizona Democratic Party 
+Spent: 114,915.00
+Impressions: 16,552,540
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AL Media|39,229.00 USD|Arizona Democratic Party|[0](https://www.snap.com/political-ads/asset/4764ddbb4f6b670e47b81f10b72c7efb515246b4b8c799ad25063d4f5b9c13b6?mediaType=mp4)|1,966,226||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"||

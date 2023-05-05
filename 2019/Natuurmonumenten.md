@@ -1,4 +1,7 @@
 ## 2019 - Natuurmonumenten 
+Spent: 499.00
+Impressions: 352,344
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Jalt|206.00 EUR|Natuurmonumenten|[0](https://www.snap.com/political-ads/asset/4b84e0d0272ce04bf667d009a868cf4fc4ed99f83e374b758647fccae076c827?mediaType=png)|142,020||30+|netherlands|"Krom boomssloot 22-1,Amsterdam,1011GW,NL"||

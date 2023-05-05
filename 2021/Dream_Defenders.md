@@ -1,4 +1,7 @@
 ## 2021 - Dream Defenders 
+Spent: 7,000.00
+Impressions: 2,530,345
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dream Defenders|5,000.00 USD|Dream Defenders|[0](https://www.snap.com/political-ads/asset/0c6e620afc5334f9776817865a8b19b8fe65250161814d683d5013777521830c?mediaType=mp4)|1,501,565||18+|united states|US|DCR|

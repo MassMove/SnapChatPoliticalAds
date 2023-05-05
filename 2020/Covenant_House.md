@@ -1,4 +1,7 @@
 ## 2020 - Covenant House 
+Spent: 16,362.00
+Impressions: 12,330,291
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |SOCIETY@M.E.|4,956.00 CAD|Covenant House|[0](https://www.snap.com/political-ads/asset/b97dd8ae044bb859a41c3156ee977e9c3546842639ef1ad221c5845f3f084558?mediaType=mp4)|3,701,057|FEMALE|15-18|canada|"7236 rue Marconi,Montreal,H2R 2Z5,CA"||

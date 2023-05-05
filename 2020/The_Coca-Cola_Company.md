@@ -1,4 +1,7 @@
 ## 2020 - The Coca-Cola Company 
+Spent: 156,999.00
+Impressions: 67,783,465
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Universal McCann New York|50,664.00 USD|The Coca-Cola Company|[0](https://www.snap.com/political-ads/asset/0852720949bdf98c3c426be1fa6d18c89c0a5abd66144068fa74df8db7b0aebc?mediaType=mp4)|22,629,077||18-24|united states|"100 W 33rd St,New York,10001,US"||

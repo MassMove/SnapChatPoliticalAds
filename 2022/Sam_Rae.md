@@ -1,4 +1,7 @@
 ## 2022 - Sam Rae 
+Spent: 514.00
+Impressions: 63,805
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Sam Rae for Hawke|326.00 AUD|Sam Rae|[0](https://www.snap.com/political-ads/asset/3ecc7226a5733fd0dc4a5fc2d1928a21a9e967106abd9ae50d26558bcee96527?mediaType=mp4)|42,715||18-24|australia|"438 Docklands Drive,Docklands,3008,AU"||

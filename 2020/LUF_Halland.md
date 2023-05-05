@@ -1,4 +1,7 @@
 ## 2020 - LUF Halland 
+Spent: 160.00
+Impressions: 126,189
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Liberala ungdomsförbundet Halland|100.00 EUR|LUF Halland|[0](https://www.snap.com/political-ads/asset/e1e7bc7b69ea9b9cd1f9fdbd661e313d62cbad9fd00834fa9faca6b1427d4b53?mediaType=mp4)|75,096||15-28|sweden|"Västervallvägen 2,Halmstad ,302 50,SE"||

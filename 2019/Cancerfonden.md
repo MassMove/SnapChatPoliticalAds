@@ -1,4 +1,7 @@
 ## 2019 - Cancerfonden 
+Spent: 2,923.00
+Impressions: 723,124
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |All Rise Media AB|574.00 EUR|Cancerfonden|[0](https://www.snap.com/political-ads/asset/83bd8d59fdf4f700795293b4462eaad741352f379d67948b8c7a107123ad1ce6?mediaType=mp4)|127,677|FEMALE|35+|sweden|"Klarabergsgatan 60,Stockholm,11121 ,SE"|Cancerfonden - The Swedish Cancer Society|

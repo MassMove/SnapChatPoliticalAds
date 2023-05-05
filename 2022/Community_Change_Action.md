@@ -1,4 +1,7 @@
 ## 2022 - Community Change Action 
+Spent: 3,816.00
+Impressions: 286,101
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Trilogy Interactive|1,500.00 USD|Community Change Action|[0](https://www.snap.com/political-ads/asset/b7b415517520943603dcb71e97afd1bc32cb6240596197272f3229efd42cd6d6?mediaType=mp4)|130,064||18+|united states|"2054 University Ave STE 600,Berkeley,94704,US"||

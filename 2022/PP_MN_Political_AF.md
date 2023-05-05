@@ -1,4 +1,7 @@
 ## 2022 - PP MN Political AF 
+Spent: 19,358.00
+Impressions: 646,992
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|7,821.00 USD|PP MN Political AF|[0](https://www.snap.com/political-ads/asset/a29ae9ed780b692b8a2095f75957a7c0c0a0aebbcfb5d8fa53b516cb73e7699c?mediaType=mp4)|243,479||18-35|united states|"1220 19th Street NW,Washington,20036,US"||

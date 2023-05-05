@@ -1,4 +1,7 @@
 ## 2021 - CPC PAC 
+Spent: 6,572.00
+Impressions: 1,028,744
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|1,557.00 USD|CPC PAC|[0](https://www.snap.com/political-ads/asset/4402ef328fbfeb2687506667dc90efcba353e8a8f220a91ddf9acde1edfd04ec?mediaType=mp4)|237,424||18+|united states|US|Karen Carter Peterson|

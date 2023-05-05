@@ -1,4 +1,7 @@
 ## 2022 - NY Office of Cannabis Management 
+Spent: 116,843.00
+Impressions: 11,553,842
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |OpAD Media|6,046.00 USD|NY Office of Cannabis Management|[0](https://www.snap.com/political-ads/asset/68e4bcd962d14ac0c072d8dc10c99911e93c551417c5923b45c0dfd6795b66bb?mediaType=jpg)|2,280,102||21+|united states|"275 Madison Avenue, Suite 2200,New York ,10016,US"||

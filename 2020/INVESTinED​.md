@@ -1,4 +1,7 @@
 ## 2020 - INVESTinED​ 
+Spent: 85,048.00
+Impressions: 6,919,253
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Adtaxi|17,713.00 USD|INVESTinED​|[0](https://www.snap.com/political-ads/asset/8e1b170426837784dea306c10b71190a4dd3a0b7c16bf5fbeb2660d6b29dc288?mediaType=jpg)|1,616,831|FEMALE|25+|united states|"101 West Colfax,Denver,80204,US"|INVESTinED|

@@ -1,4 +1,7 @@
 ## 2023 - American Civil Liberties Union 
+Spent: 63,887.00
+Impressions: 6,804,065
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |American Civil Liberties Union  Inc.|7,058.00 USD|American Civil Liberties Union|[0](https://www.snap.com/political-ads/asset/8f4d704a7f79cb9275d1af7d41b903a01696b62ddad4d45b9b9905937114d8a8?mediaType=jpg)|754,656||18+|united states|"125 Broad St., 18th Floor,New York,10004,US"||

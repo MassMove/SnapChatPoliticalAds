@@ -1,4 +1,7 @@
 ## 2020 - Rocky Mountain Values 
+Spent: 16,062.00
+Impressions: 5,144,857
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Blueprint Interactive|9,400.00 USD|Rocky Mountain Values|[0](https://www.snap.com/political-ads/asset/bf2d483a3f7336c2d81afdc644995cc3631daa41398a019afdda3d8d4b885842?mediaType=mp4)|1,830,039||18+|united states|"1730 Rhode Island Ave NW Suite 1014,Washington,20036,US"|Rocky Mountain Values|

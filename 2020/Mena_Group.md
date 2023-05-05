@@ -1,4 +1,7 @@
 ## 2020 - Mena Group 
+Spent: 1,118.00
+Impressions: 532,444
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Senyar Group Agency|575.00 USD|Mena Group|[0](https://www.snap.com/political-ads/asset/c5c6c86e6a8ed1f1e45be2e647c7221cb3eeacd2296d31406835033b3fc5831b?mediaType=jpeg)|172,701||18+|kuwait|"Press Street,Shewikh,11111,KW"|Farrag Arbid|

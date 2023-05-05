@@ -1,4 +1,7 @@
 ## 2019 - JouwGGD 
+Spent: 2,246.00
+Impressions: 2,587,553
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Go eMarketing|700.00 EUR|JouwGGD|[0](https://www.snap.com/political-ads/asset/c5850f863b9f05356c7f67b996d6846808509c01fa6df8714ad48684790e8489?mediaType=mp4)|830,380||15-20|netherlands|"Zwarterweg 10,Naarden,1412 GD,NL"||

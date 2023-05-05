@@ -1,4 +1,7 @@
 ## 2022 - Jared Polis for Colorado 
+Spent: 118,424.00
+Impressions: 9,252,736
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Precision [TEST]|2,597.00 USD|Jared Polis for Colorado|[0](https://www.snap.com/political-ads/asset/5452f291615c7abe3537d1f6f2a0407a09527bfc957c9aa328f5f8d52b6dd233?mediaType=png)|841,668||18-35|united states|"1121 14th Street NW Suite 700,Washington,20005,US"|Polis for Colorado|

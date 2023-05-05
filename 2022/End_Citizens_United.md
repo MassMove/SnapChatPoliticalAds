@@ -1,4 +1,7 @@
 ## 2022 - End Citizens United 
+Spent: 13,442.00
+Impressions: 2,193,453
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|8,900.00 USD|End Citizens United|[0](https://www.snap.com/political-ads/asset/d979014316ccda852d7f6929a893976c3c4ef6b7c8954ecdddcea0f730d09dba?mediaType=mp4)|1,576,643||18+|united states|US||

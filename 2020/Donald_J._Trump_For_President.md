@@ -1,4 +1,7 @@
 ## 2020 - Donald J. Trump for President 
+Spent: 60,760.00
+Impressions: 3,622,804
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Barstool Sports|2,018.00 USD|Donald J. Trump for President|[0](https://www.snap.com/political-ads/asset/583e6c0c694f3df5d23f261499f3f4d5dae0aeab6f793da1a275262398ea5e9e?mediaType=mp4)|183,967||18+|united states|"333 7th Ave,New York,10001,US"|Donald J Trump|

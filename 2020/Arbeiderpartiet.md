@@ -1,4 +1,7 @@
 ## 2020 - Arbeiderpartiet 
+Spent: 1,648.00
+Impressions: 392,663
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arbeiderpartiet|654.00 EUR|Arbeiderpartiet|[0](https://www.snap.com/political-ads/asset/68bab2d5f24f87d099491631c9cf0b3bef92eb5c02f8f62eb717a40d04a22533?mediaType=mp4)|133,605||18+|norway|"Youngstorget 2A,Oslo,0028,NO"||

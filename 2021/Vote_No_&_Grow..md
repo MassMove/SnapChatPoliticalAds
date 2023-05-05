@@ -1,4 +1,7 @@
 ## 2021 - Vote No & Grow. 
+Spent: 39.00
+Impressions: 7,540
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Judd Hoos|15.00 USD|Vote No & Grow.|[0](https://www.snap.com/political-ads/asset/ec9c7fe7575c0f4ce066338f017f67762d82a5678f1acb34f8ca0fc1904ee436?mediaType=mp4)|3,015||18+|united states|"1612 Junction Ave,Sturgis,57785,US"|Vote No And Grow|

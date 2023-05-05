@@ -1,4 +1,7 @@
 ## 2018 - Save Animals Facing Extinction 
+Spent: 21,383.00
+Impressions: 5,766,196
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Centro LLC|4,531.00 USD|Save Animals Facing Extinction|[0](https://www.snap.com/political-ads/asset/2caf6d1a8f425fb3d7068d55ca6a71e875dbf2760d340ee3a3af5fe07c6bc7b2?mediaType=mp4)|1,181,641||18-34|united states|"11 E. Madison Ave. 6th Floor,,,Chicago,60602,US"||

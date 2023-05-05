@@ -1,4 +1,7 @@
 ## 2019 - Scottish Government 
+Spent: 5,092.00
+Impressions: 5,543,645
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Republic of Media Ltd.|1,367.00 GBP|Scottish Government|[0](https://www.snap.com/political-ads/asset/3114467cc6df284ce8da106a937aeb0f8a3830cce4f174eec7115e20e74ac9cc?mediaType=mp4)|1,519,097||16-18|united kingdom|"4th Floor, Nova House,Edinburgh,EH3 9QQ,GB"||

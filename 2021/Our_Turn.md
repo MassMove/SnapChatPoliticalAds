@@ -1,4 +1,7 @@
 ## 2021 - Our Turn 
+Spent: 261.00
+Impressions: 153,823
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Our Turn|102.00 USD|Our Turn|[0](https://www.snap.com/political-ads/asset/4eb4bf0f9400c32216f5bc981e72a66760e448fe849a682081543732f53fce07?mediaType=mp4)|49,787||18-49|united states|"116 Nassau Street - Suite 519,New York,10038,US"||

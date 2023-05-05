@@ -1,4 +1,7 @@
 ## 2021 - Electoral Commission 
+Spent: 40,401.00
+Impressions: 23,970,761
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Walk In Media|13,330.00 GBP|Electoral Commission|[0](https://www.snap.com/political-ads/asset/10d89199c0354dfeb776860cafd4fc3f86af507cd87fc945b09888bb1a7c1de2?mediaType=mp4)|7,384,918||18-34|united kingdom|"34 Bow Street,London,WC2E 7AU,GB"|The Electoral Commission|

@@ -1,4 +1,7 @@
 ## 2020 - Dan Quart for NYC 
+Spent: 180.00
+Impressions: 26,896
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Dan Quart for NYC|72.00 USD|Dan Quart for NYC|[0](https://www.snap.com/political-ads/asset/7b0096b646a0fa9f0b60ec71596ff983e490e99fe0085e02fc96fb4af633616f?mediaType=png)|10,993||25+|united states|US|Dan Quart|

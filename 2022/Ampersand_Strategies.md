@@ -1,4 +1,7 @@
 ## 2022 - Ampersand Strategies 
+Spent: 149.00
+Impressions: 15,091
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |ampersand strategies|104.00 USD|Ampersand Strategies|[0](https://www.snap.com/political-ads/asset/cee883fd713a3806df71c3bf2aa4005e11bd040d7d913bc903248a3898b3ddfd?mediaType=jpeg)|10,081||18+|united states|US|Ruwa Romman for House District 97|

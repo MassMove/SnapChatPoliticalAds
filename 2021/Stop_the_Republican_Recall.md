@@ -1,4 +1,7 @@
 ## 2021 - Stop the Republican Recall 
+Spent: 6,112.00
+Impressions: 1,615,433
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Aisle 518 Strategies LLC|2,591.00 USD|Stop the Republican Recall|[0](https://www.snap.com/political-ads/asset/0b3eb209dc60026ebfc631a513539a04311bada7ddb746694543b9f383296d2e?mediaType=png)|677,552||18-34|united states|"1133 15th St NW,Washington,20005,US"|California Recall|

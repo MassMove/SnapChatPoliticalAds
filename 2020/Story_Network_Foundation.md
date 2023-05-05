@@ -1,4 +1,7 @@
 ## 2020 - Story Network Foundation 
+Spent: 103,179.00
+Impressions: 10,888,616
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Story Network Foundation|53,533.00 USD|Story Network Foundation|[0](https://www.snap.com/political-ads/asset/0bf8003aaf22c05a3d078e3193b4b4503d75b52ab3248b9b500ac0d92849fc3b?mediaType=mp4)|6,564,131||18+|united states|US||

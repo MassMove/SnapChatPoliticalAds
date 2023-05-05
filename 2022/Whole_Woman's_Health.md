@@ -1,4 +1,7 @@
 ## 2022 - Whole Woman's Health 
+Spent: 11,309.00
+Impressions: 1,517,395
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Whole Woman's Health|1,395.00 USD|Whole Woman's Health|[0](https://www.snap.com/political-ads/asset/04020ade8968cfd419b15e6845811eb6f753af09e29a95a1d6dabbcf923f3981?mediaType=mp4)|499,427|FEMALE|24-|united states|"1001 E. Market Street,Charlottesville,22902,US"||

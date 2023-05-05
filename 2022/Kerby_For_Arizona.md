@@ -1,4 +1,7 @@
 ## 2022 - Kerby For Arizona 
+Spent: 1,162.00
+Impressions: 36,016
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Run the World Digital|403.00 USD|Kerby For Arizona|[0](https://www.snap.com/political-ads/asset/16fedab5b3a4d8173477db2e6beb8eab5395ebdcc23d5160cd1010e219b76ab2?mediaType=mp4)|12,811||18+|united states|"1324 Spaight St,Madison,53703,US"|Taylor Kerby|

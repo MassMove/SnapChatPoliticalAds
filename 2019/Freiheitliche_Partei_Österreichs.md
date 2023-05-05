@@ -1,4 +1,7 @@
 ## 2019 - Freiheitliche Partei Österreichs 
+Spent: 4,497.00
+Impressions: 8,562,089
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |KIRCHBAUMER.COM GmbH|2,000.00 EUR|Freiheitliche Partei Österreichs|[0](https://www.snap.com/political-ads/asset/e51c6588c21549e3bf32d7d9081b8c95fd4dd18a4b6782eb69e60f1455738c7e?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/bcd1e99a76eef52d4c9003fa5618912ee3696a912ff6f0dff47c74a93e45a90f?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/ed1e61535ead139a6e8ec6a00862850b6e2762711149559d0e79e6a3ef06d6cc?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/17830be01c8ffd4dacb9274fef24305a297f1f6a98081fa5d7c67b88ad094d68?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/08b504ae633d8dbbb78f9fb71a332c10123cd7e46af00370ae92a6a6b1a539c3?mediaType=mp4)|4,980,733||17+|austria|"Auerspergstraße 17/9,Wien,1080,AT"|Norbert Hofer|

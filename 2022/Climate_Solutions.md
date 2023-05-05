@@ -1,4 +1,7 @@
 ## 2022 - Climate Solutions 
+Spent: 1,423.00
+Impressions: 190,214
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Ravenna Strategies|720.00 USD|Climate Solutions|[0](https://www.snap.com/political-ads/asset/f7983815b4c8ddd627e8d5a71369f4fc32fd07bc4ddbd886e135839ff746d396?mediaType=mp4)|91,847||18+|united states|US|Climate Resiliency Budget|

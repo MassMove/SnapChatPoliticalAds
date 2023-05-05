@@ -1,4 +1,7 @@
 ## 2020 - Advocates for Education 
+Spent: 449.00
+Impressions: 116,901
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Roberts Communications|395.00 USD|Advocates for Education|[0](https://www.snap.com/political-ads/asset/e0c5161878d8d5a6c569de27c3adede882b3d8dcc096bf9576cd292c04b4a274?mediaType=png)|102,794|||united states|US|Vote Yes|

@@ -1,4 +1,7 @@
 ## 2021 - American Bridge Foundation 
+Spent: 7,183.00
+Impressions: 1,121,015
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|2,928.00 USD|American Bridge Foundation|[0](https://www.snap.com/political-ads/asset/7b06d6e491f1f1968221038d10d5a6fcb695fa336a7ca28b628a19d7333f1916?mediaType=mp4)|575,599|FEMALE|18+|united states|US||

@@ -1,4 +1,7 @@
 ## 2022 - Hunter Williams 
+Spent: 1,989.00
+Impressions: 1,968,380
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BIRMINGHAM  CITY OF|745.00 USD|Hunter Williams|[0](https://www.snap.com/political-ads/asset/1f120f720f5a33cb8bc1aafc7bd29e016fc129cfa16c1fdddc1a2c1f69b5f1f9?mediaType=mp4)|993,468|||united states|"2324 2nd Ave. ,Birmingham,35203,US"|Hunter Williams|

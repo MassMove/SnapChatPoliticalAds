@@ -1,4 +1,7 @@
 ## 2018 - Friends of Chris Murphy 
+Spent: 15,051.00
+Impressions: 5,273,151
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Aisle 518 Strategies  LLC|6,538.00 USD|Friends of Chris Murphy|[0](https://www.snap.com/political-ads/asset/0563596765e8954715dd52e890e953f218647c1d58064dda7655549aa89a00a4?mediaType=mp4)|2,512,351||18+|united states|US||

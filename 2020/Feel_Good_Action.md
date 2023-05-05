@@ -1,4 +1,7 @@
 ## 2020 - Feel Good Action 
+Spent: 3,438.00
+Impressions: 689,204
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Feel Good Action|1,202.00 USD|Feel Good Action|[0](https://www.snap.com/political-ads/asset/279f3688936761942544be264e7abbaf372bcd8b85632ede7137e978d3542dcd?mediaType=mp4)|261,476||17-30|united states|US||

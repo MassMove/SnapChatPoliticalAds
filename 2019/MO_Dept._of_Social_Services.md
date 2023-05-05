@@ -1,4 +1,7 @@
 ## 2019 - MO Dept. of Social Services 
+Spent: 7,208.00
+Impressions: 2,641,756
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bucket Media Inc.|1,816.00 USD|MO Dept. of Social Services|[0](https://www.snap.com/political-ads/asset/6064c534a92fbd7704fe05f9a733f9a41a5bcd40604454199942803b5ea9b652?mediaType=mp4)|778,118|FEMALE|16-24|united states|"1123 Wilkes Blvd. Suite 400,Columbia,65201,US"||

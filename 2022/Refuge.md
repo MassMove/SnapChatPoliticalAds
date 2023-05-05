@@ -1,4 +1,7 @@
 ## 2022 - Refuge 
+Spent: 3,512.00
+Impressions: 887,933
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Refuge|608.00 GBP|Refuge|[0](https://www.snap.com/political-ads/asset/64fafe0b44b9f8431c660a1610f4916946aac02aa8cf5ae34509c4a93e8b3980?mediaType=mp4)|162,444|FEMALE|18+|united kingdom|"One America Square, 3rd floor, 17 Crosswall,London,EC3N 2LB,GB"||

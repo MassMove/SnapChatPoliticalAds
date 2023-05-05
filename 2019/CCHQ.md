@@ -1,4 +1,7 @@
 ## 2019 - CCHQ 
+Spent: 3,172.00
+Impressions: 2,325,795
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CCHQ|1,173.00 GBP|CCHQ|[0](https://www.snap.com/political-ads/asset/a34fe4b134b10c378a23c76f2c223398aa1c16ecdf433438b6d69dfa48901465?mediaType=mp4)|862,207||18+|united kingdom|"4 Matthew Parker Street,London,SW1H 9HQ,GB"|Boris Johnson|

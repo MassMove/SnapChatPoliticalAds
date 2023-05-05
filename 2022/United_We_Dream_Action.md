@@ -1,4 +1,7 @@
 ## 2022 - United We Dream Action 
+Spent: 13,273.00
+Impressions: 2,194,022
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |BerlinRosen|713.00 USD|United We Dream Action|[0](https://www.snap.com/political-ads/asset/a8c80590e2c1037c8f3bb39fe69fcb3b5f4c979f929182535be5da5dbd64dc40?mediaType=mp4)|170,632||18-35|united states|"15 Maiden Lane #16,New York,10038,US"||

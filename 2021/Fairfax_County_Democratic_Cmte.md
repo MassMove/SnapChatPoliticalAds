@@ -1,4 +1,7 @@
 ## 2021 - Fairfax County Democratic Cmte 
+Spent: 6,404.00
+Impressions: 594,006
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Fairfax County Democratic Committee|5,313.00 USD|Fairfax County Democratic Cmte|[0](https://www.snap.com/political-ads/asset/c86691abaa3d787e2a173a88e480c4cd01ea415a0b492a1e73e04235012ca909?mediaType=mp4)|486,879||18-30|united states|"8500 Executive Park Ave, Suite 402,Fairfax,22031,US"|November 2 2021 Virginia General Election|

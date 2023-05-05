@@ -1,4 +1,7 @@
 ## 2022 - Department of Social Services 
+Spent: 293,733.00
+Impressions: 71,326,006
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Australian Government Department of Finance|85,444.00 AUD|Department of Social Services|[0](https://www.snap.com/political-ads/asset/48b3d49e21761dd1ad60f21e65769ac68fa38b6c476db402720b4b1c15a8ab57?mediaType=mp4)|22,445,576||15-17|australia|"100 Chalmers Street,Surry Hills,2010,AU"||

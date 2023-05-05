@@ -1,4 +1,7 @@
 ## 2020 - Negotia 
+Spent: 1,649.00
+Impressions: 390,452
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Negotia|150.00 USD|Negotia|[0](https://www.snap.com/political-ads/asset/5144fad29f11979043ef379008875e13ea332296d140db280ad9c89f26bd6ef1?mediaType=mp4)|142,334|||norway|NO||

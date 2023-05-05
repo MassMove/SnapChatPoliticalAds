@@ -1,4 +1,7 @@
 ## 2020 - iHeartMedia 
+Spent: 51,395.00
+Impressions: 6,677,243
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |iHeartMedia Inc.|51,387.00 USD|iHeartMedia|[0](https://www.snap.com/political-ads/asset/15b3c937fb1431ff5b55605ad7b4f585419c62794a19e67494a13683185fd8d8?mediaType=mp4)|6,676,032||18+|united states|"125 55th street,New york,10019,US"|PSA of musicians encouraging users to vote|

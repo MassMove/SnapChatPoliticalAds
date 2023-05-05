@@ -1,4 +1,7 @@
 ## 2020 - Electoral Commission 
+Spent: 56,064.00
+Impressions: 7,639,568
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Y&R NZ|23,765.00 AUD|Electoral Commission|[0](https://www.snap.com/political-ads/asset/f1269ea3c93bc3dd03860605aa7a617f893890df7ca1eddeb069f4102ba05612?mediaType=mp4)|2,757,993||18-34|new zealand|"Shed 4, City Works Depot, 90 Wellesley St West, Auckland NZ,Auckland,1010,NZ"||

@@ -1,4 +1,7 @@
 ## 2022 - Pandora 
+Spent: 14,000.00
+Impressions: 672,073
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Pandora|2,000.00 USD|Pandora|[0](https://www.snap.com/political-ads/asset/3dbbab9f5e668e8ec33d83a1b64312eb4b51efb0689c0bcaf981e1770839deae?mediaType=mp4)|128,646||18+|united states|"2100 Franklin Tower, 7th Floor,Oakland,94612,US"|Register to vote|

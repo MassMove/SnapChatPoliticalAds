@@ -1,4 +1,7 @@
 ## 2022 - I Need An Abortion 
+Spent: 4,531.00
+Impressions: 6,811,426
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|1,828.00 USD|I Need An Abortion|[0](https://www.snap.com/political-ads/asset/f8571caccfc5908866bae6a04f50999b01e1742f7e637b2383aa00bb2db6872a?mediaType=mp4)|2,718,282|FEMALE|25-|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

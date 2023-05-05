@@ -1,4 +1,7 @@
 ## 2019 - PCAPT 
+Spent: 460.00
+Impressions: 167,032
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Great Heights LLC|260.00 USD|PCAPT|[0](https://www.snap.com/political-ads/asset/8ca1dae12890de1f493ad04b45431759530b44bdd5b33049579bc59cc18873cf?mediaType=jpg)|94,753||18-34|united states|US||

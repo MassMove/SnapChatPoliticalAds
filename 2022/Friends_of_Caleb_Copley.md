@@ -1,4 +1,7 @@
 ## 2022 - Friends of Caleb Copley 
+Spent: 524.00
+Impressions: 89,905
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Friends of Caleb Copley|264.00 USD|Friends of Caleb Copley|[0](https://www.snap.com/political-ads/asset/f59db61c13f16f96c8db391c82e70d3960c83b9ce7619d6b930a897cc7de0b23?mediaType=jpg)|74,026||18+|united states|US|Caleb Copley for Scott County Attorney|

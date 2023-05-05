@@ -1,4 +1,7 @@
 ## 2023 - Venstre 
+Spent: 1,490.00
+Impressions: 94,645
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Venstre|590.00 NOK|Venstre|[0](https://www.snap.com/political-ads/asset/2952583a82f73b6e0c8dfcc3fc650129659370261c820f5b5fc21023fd6183fe?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/2097c4148b49a67a0ab4605319e320fffde92ad318a1074521f9ea81f5215d67?mediaType=png)|40,484||18+|norway|"Møllergata 16,Oslo,0179,NO"|Venstre|

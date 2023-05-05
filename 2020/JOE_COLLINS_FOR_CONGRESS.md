@@ -1,4 +1,7 @@
 ## 2020 - JOE COLLINS FOR CONGRESS 
+Spent: 899.00
+Impressions: 239,179
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Campaign Solutions|574.00 USD|JOE COLLINS FOR CONGRESS|[0](https://www.snap.com/political-ads/asset/9fb1108968d8460c689e90cf5c57f273f7702046dc34a6d4760571e503a75e04?mediaType=mp4)|154,262||18+|united states|US|JOE COLLINS FOR CONGRESS|

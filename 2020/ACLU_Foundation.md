@@ -1,4 +1,7 @@
 ## 2020 - ACLU Foundation 
+Spent: 25,182.00
+Impressions: 2,218,796
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bully Pulpit Interactive|5,867.00 USD|ACLU Foundation|[0](https://www.snap.com/political-ads/asset/02fb6bb0ff9530571a8470f79894b6e3b8199b93754a6f4f68393519869c86c0?mediaType=mp4)|514,256||18-45|united states|"1445 New York Ave NW,Washington,20005,US"||

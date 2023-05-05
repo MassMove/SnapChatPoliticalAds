@@ -1,4 +1,7 @@
 ## 2022 - VVD Huizen 
+Spent: 850.00
+Impressions: 199,019
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |51designs|117.00 EUR|VVD Huizen|[0](https://www.snap.com/political-ads/asset/7e8e1592b262d8825055613435411596ea9680e4c1bfe6cd99e05f9ebd1b08d0?mediaType=mp4)|45,141||18+|netherlands|NL|VVD Huizen|

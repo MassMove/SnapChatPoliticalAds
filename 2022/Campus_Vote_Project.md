@@ -1,4 +1,7 @@
 ## 2022 - Campus Vote Project 
+Spent: 91,560.00
+Impressions: 8,784,821
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Technicolor Political|19,358.00 USD|Campus Vote Project|[0](https://www.snap.com/political-ads/asset/1deba130cd6cdf19a01ed807b594ed1fbe95d7fc875c5cb7de7376fc80e35275?mediaType=mp4)|1,808,510||18-24|united states|US|Campus Vote Project|

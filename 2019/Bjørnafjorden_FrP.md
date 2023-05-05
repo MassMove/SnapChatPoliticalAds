@@ -1,4 +1,7 @@
 ## 2019 - Bjørnafjorden FrP 
+Spent: 44.00
+Impressions: 10,263
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Picapoint Studio AS|13.00 EUR|Bjørnafjorden FrP|[0](https://www.snap.com/political-ads/asset/d8f28ffa23569eb881a7257f52c9e0f48d93f5e5e7c3768e3614b91bddf19cfb?mediaType=mp4)|2,313||17-25|norway|"Ulvenvegen 345,Hagavik,5217,NO"||

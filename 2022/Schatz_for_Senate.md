@@ -1,4 +1,7 @@
 ## 2022 - Schatz for Senate 
+Spent: 6,895.00
+Impressions: 1,991,608
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Wavelength Strategy|190.00 USD|Schatz for Senate|[0](https://www.snap.com/political-ads/asset/180ad80105bdc7f88d788daefcf0461849c3565ead23da17f6b3b04e195cfaa3?mediaType=jpg)|59,487||18+|united states|US|Brian Schatz|

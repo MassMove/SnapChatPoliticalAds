@@ -1,4 +1,7 @@
 ## 2020 - CommonAlly, PBC 
+Spent: 58.00
+Impressions: 33,692
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |CommonAlly PBC|10.00 USD|CommonAlly, PBC|[0](https://www.snap.com/political-ads/asset/ee8377ef504d3f2fae65954d7ca0de5001425d54037ad928c30bdff818963d1a?mediaType=png)|7,452||17-35|united states|US||

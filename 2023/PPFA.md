@@ -1,4 +1,7 @@
 ## 2023 - PPFA 
+Spent: 19,102.00
+Impressions: 3,200,698
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Chong and Koster|835.00 USD|PPFA|[0](https://www.snap.com/political-ads/asset/f92c87d7cc7846710435b5bb38b936556983111d06551bef08b476f40f5e3ab2?mediaType=mp4)|98,642|FEMALE|18-35|united states|"1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US"||

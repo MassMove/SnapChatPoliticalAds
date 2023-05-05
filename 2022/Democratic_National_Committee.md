@@ -1,4 +1,7 @@
 ## 2022 - Democratic National Committee 
+Spent: 12,252.00
+Impressions: 759,330
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democratic National Committee|3,594.00 USD|Democratic National Committee|[0](https://www.snap.com/political-ads/asset/7f62db7b26f784a56d46ced95ab8992e038578cdd80acc19c24e27468b33919b?mediaType=mp4)|186,038||18+|united states|"131 16th Street NE,Washington,20003,US"||

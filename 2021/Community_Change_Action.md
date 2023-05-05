@@ -1,4 +1,7 @@
 ## 2021 - Community Change Action 
+Spent: 44,984.00
+Impressions: 7,910,744
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Do Big Things|2,698.00 USD|Community Change Action|[0](https://www.snap.com/political-ads/asset/936a6ae52b5cac73d00080e0b8a41604b0a46b5042aeea8658f32bda35c9f43b?mediaType=jpeg)|1,160,805||18+|united states|"PO Box 128,Mill Valley,94942,US"||

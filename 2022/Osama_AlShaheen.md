@@ -1,4 +1,7 @@
 ## 2022 - Osama AlShaheen 
+Spent: 19,196.00
+Impressions: 14,233,116
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Different Media|7,339.00 USD|Osama AlShaheen|[0](https://www.snap.com/political-ads/asset/e12bae4af5990d14781e2abf4f9b814f34ef3a282836e30ae449669356b35882?mediaType=mp4)|6,788,726||21+|kuwait|"31 St, Shuwaikh Industrial,Shuwaikh,2491,KW"||

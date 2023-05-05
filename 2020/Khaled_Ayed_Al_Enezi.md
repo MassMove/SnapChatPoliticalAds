@@ -1,4 +1,7 @@
 ## 2020 - Khaled Ayed Al Enezi 
+Spent: 2,060.00
+Impressions: 3,693,716
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Digital Media Services FZ-LLC|1,108.00 USD|Khaled Ayed Al Enezi|[0](https://www.snap.com/political-ads/asset/188590314802a8281cf3ef4dd62e20d52fcffcc51d11529d6653f02fea292d61?mediaType=png)|2,905,242||21+|kuwait|"Media City, Knowledge Village, Choueiri Group Building,Dubai ,251589 - Dubai - U.A.E,AE"||

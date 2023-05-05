@@ -1,4 +1,7 @@
 ## 2019 - Oslo Arbeiderparti 
+Spent: 2,428.00
+Impressions: 1,052,950
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Oslo Arbeiderparti|778.00 EUR|Oslo Arbeiderparti|[0](https://www.snap.com/political-ads/asset/1376e863e96776e47172995ef4698b9f314fd476cf23349065d15115ad148fd3?mediaType=mp4)|323,753||18+|norway|NO||

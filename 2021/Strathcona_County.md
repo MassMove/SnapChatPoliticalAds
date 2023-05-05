@@ -1,4 +1,7 @@
 ## 2021 - Strathcona County 
+Spent: 518.00
+Impressions: 109,181
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Strathcona County|140.00 CAD|Strathcona County|[0](https://www.snap.com/political-ads/asset/1fde1b2b2ea26042b979fcccbd29ab989328d1c9de7dcb807fb2fa39b87c8290?mediaType=mov)|29,469||18-25|canada|CA|Strathcona County|

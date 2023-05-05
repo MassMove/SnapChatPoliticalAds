@@ -1,4 +1,7 @@
 ## 2022 - No on Measure J 
+Spent: 2,213.00
+Impressions: 80,325
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Bask Digital Media|452.00 USD|No on Measure J|[0](https://www.snap.com/political-ads/asset/78e46472e67709aa93df1d74f5789e6a355713b6f5e7914aa30238572280395a?mediaType=mp4)|17,443||18-34|united states|US|Measure J|

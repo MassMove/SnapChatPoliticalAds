@@ -1,4 +1,7 @@
 ## 2019 - Arbeiderpartiet 
+Spent: 46,941.00
+Impressions: 11,396,136
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Arbeiderpartiet|22,976.00 EUR|Arbeiderpartiet|[0](https://www.snap.com/political-ads/asset/c349c2ddb2115a9485a396b7c59ec6cc95ee52bfc2bfc42394d57f6131ad63b1?mediaType=mp4)|5,991,403||17+|norway|"Youngstorget 2A,Oslo,0028,NO"||

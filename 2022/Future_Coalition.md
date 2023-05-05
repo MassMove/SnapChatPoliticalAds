@@ -1,4 +1,7 @@
 ## 2022 - Future Coalition 
+Spent: 8,707.00
+Impressions: 811,737
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Van Ness Creative Strategies LLC|2,500.00 USD|Future Coalition|[0](https://www.snap.com/political-ads/asset/b379e3a859df0ff7a5e7dace48c37db9dd8670cf17038341dbede563568161b5?mediaType=mp4)|338,955||18-30|united states|US|Reproductive Rights|

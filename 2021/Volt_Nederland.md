@@ -1,4 +1,7 @@
 ## 2021 - Volt Nederland 
+Spent: 3,049.00
+Impressions: 2,418,528
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Volt Nederland|68.00 EUR|Volt Nederland|[0](https://www.snap.com/political-ads/asset/f6c9c9569d914bbbbd29d80f69e448d7a60b4ca2339147e43e1827f7e6ca36c5?mediaType=mp4)|51,437|FEMALE|18-35|netherlands|NL|Volt Nederland|

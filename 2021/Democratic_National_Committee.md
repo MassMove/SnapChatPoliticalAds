@@ -1,4 +1,7 @@
 ## 2021 - Democratic National Committee 
+Spent: 44,996.00
+Impressions: 7,083,666
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Democratic National Committee|14,808.00 USD|Democratic National Committee|[0](https://www.snap.com/political-ads/asset/16d867a76efab1226c3c76b5d046fd0cc0f6723c6eedd477128cd369902c9b45?mediaType=mp4)|2,287,956||18-35|united states|"131 16th Street NE,Washington,20003,US"|Terry for Virginia|

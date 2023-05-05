@@ -1,4 +1,7 @@
 ## 2020 - Unilever (Seventh Generation) 
+Spent: 63,790.00
+Impressions: 11,841,083
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |Unilever US - Mindshare|37,194.00 USD|Unilever (Seventh Generation)|[0](https://www.snap.com/political-ads/asset/8399114a8f997a04bfed90eee3ecf6d44c9258c5498b11675164eb15303e67d6?mediaType=mp4)|7,054,824||18-44|united states|"PO Box 4614 GCS,New York,10163,US"||

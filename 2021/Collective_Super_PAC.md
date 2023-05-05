@@ -1,4 +1,7 @@
 ## 2021 - Collective Super PAC 
+Spent: 3,048.00
+Impressions: 158,730
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |New Blue Interactive|884.00 USD|Collective Super PAC|[0](https://www.snap.com/political-ads/asset/1c843036dec9240279af261c17d7af27b05bb9532027e39e48402b5406279202?mediaType=png)|46,037||18+|united states|"1146 Connecticut Ave,Washington,20036,US"|Collective Super PAC|

@@ -1,4 +1,7 @@
 ## 2021 - AdNatus 
+Spent: 448.00
+Impressions: 209,306
+
 |OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
 |:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
 |AdNatus SA|113.00 EUR|AdNatus|[0](https://www.snap.com/political-ads/asset/d47a2dd80f4284e68450c3fd290874c96604445f9dffc217cf0db1fc12936751?mediaType=mp4)|57,861||18+|switzerland|"Boulevard Georges-Favon, 43,Genève,1204,CH"|Pierre Maudet|
