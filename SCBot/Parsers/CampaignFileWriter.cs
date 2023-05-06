@@ -90,11 +90,28 @@ namespace SCBot.Parsers
             }
 
             Console.WriteLine("\r\n" + year + " details");
+
+            var advertiserCampaigns = new List<Campaign>();
+            using (TextFieldParser parser = new TextFieldParser(filePath))
+            {
+                parser.TextFieldType = FieldType.Delimited;
+                parser.SetDelimiters(",");
+                parser.ReadFields();
+
+                while (!parser.EndOfData)
+                {
+                    var fields = parser.ReadFields();
+                    Campaign campaign = CampaignFileParser.ParseCampaign(fields);
+                    campaign.creativeUrlsSort = string.Join(",", campaign.creativeUrls);
+                    advertiserCampaigns.Add(campaign);
+                }
+            }
+
             foreach (var campaign in campaigns)
             {
                 readMeYear += FormatLine(campaign, 1, false) + "\r\n";
 
-                var readMeAdvertiser = GenerateAdvertiserTable(filePath, campaign.payingAdvertiserName, year);
+                var readMeAdvertiser = GenerateAdvertiserTable(campaign.payingAdvertiserName, year, advertiserCampaigns);
 
                 var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
                 filename = string.Join("_", filename.Split(" "));
@@ -105,33 +122,11 @@ namespace SCBot.Parsers
             File.WriteAllText("../../../../" + year + "/README.md", readMeYear);
         }
 
-        private string GenerateAdvertiserTable(string filePath, string advertiser, int year)
+        private string GenerateAdvertiserTable(string advertiser, int year, IList<Campaign> advertiserCampaigns)
         {
-            var advertiserCampaigns = new List<Campaign>();
-            var campaigns = new List<Campaign>();
+            urlStartIndex = 0;
 
-            using (TextFieldParser parser = new TextFieldParser(filePath))
-            {
-                parser.TextFieldType = FieldType.Delimited;
-                parser.SetDelimiters(",");
-                parser.ReadFields(); // skip header
-
-                urlStartIndex = 0;
-
-                while (!parser.EndOfData)
-                {
-                    var fields = parser.ReadFields();
-                    if (fields.Contains(advertiser))
-                    {
-                        Campaign campaign = CampaignFileParser.ParseCampaign(fields);
-                        if (campaign.payingAdvertiserName == advertiser)
-                        {
-                            campaign.creativeUrlsSort = string.Join(",", campaign.creativeUrls);
-                            campaigns.Add(campaign);
-                        }
-                    }
-                }
-            }
+            var campaigns = advertiserCampaigns.Where(c => c.payingAdvertiserName == advertiser);
 
             var readMeAdvertiser = "## " + year + " - " + advertiser + " \r\n";
             readMeAdvertiser += $"Spent: {campaigns.Select(c => c.spend).Sum().ToString("N")}\r\n";
