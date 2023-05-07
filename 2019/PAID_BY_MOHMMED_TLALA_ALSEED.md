@@ -1,7 +1,10 @@
 ## 2019 - PAID BY MOHMMED TLALA ALSEED 
-Spent: 94.00
-Impressions: 205,613
+**Spent**: 94.00
 
-|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|
-|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|
-|Flater_q8|94.00 USD|PAID BY MOHMMED TLALA ALSEED|[0](https://www.snap.com/political-ads/asset/7463f01e641b2375cbc1d3951f4bbd4b60e146c420bbd4bcc1321f8638699b7e?mediaType=png)|205,613||18+|kuwait|"Hateen,Hawally ,00965,KW"||
+**Impressions**: 205,613
+
+**Billing Addresses**: Hateen,Hawally ,00965,KW
+
+|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
+|:---|---:|:---|---:|:---|:---|:---|
+|Flater_q8|94.00 USD|[0](https://www.snap.com/political-ads/asset/7463f01e641b2375cbc1d3951f4bbd4b60e146c420bbd4bcc1321f8638699b7e?mediaType=png)|205,613||18+|kuwait|
