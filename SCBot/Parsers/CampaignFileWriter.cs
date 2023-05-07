@@ -58,8 +58,8 @@ namespace SCBot.Parsers
         public string WriteReadMe(IList<Campaign> campaigns, string readMe, int year)
         {
             readMe += $"## [{year}]({year}/README.md) \r\n";
-            readMe += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
-            readMe += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+            readMe += "|Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|\r\n";
+            readMe += "|:---|---:|---:|:---|:---|:---|\r\n";
 
             var top25 = campaigns;
 
@@ -69,7 +69,7 @@ namespace SCBot.Parsers
             }
             foreach (Campaign campaign in top25)
             {
-                readMe += FormatLine(campaign, year, false) + "\r\n";
+                readMe += FormatLine(campaign, year, false, false) + "\r\n";
                 Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
             }
             readMe += "\r\n";
@@ -81,8 +81,8 @@ namespace SCBot.Parsers
         public void WriteReadMeYear(IList<Campaign> campaigns, int year, string filePath)
         {
             var readMeYear = "## " + year + " \r\n";
-            readMeYear += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
-            readMeYear += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+            readMeYear += "|Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|\r\n";
+            readMeYear += "|:---|---:|---:|:---|:---|:---|\r\n";
 
             if (!Directory.Exists("../../../../" + year))
             {
@@ -109,7 +109,7 @@ namespace SCBot.Parsers
 
             foreach (var campaign in campaigns)
             {
-                readMeYear += FormatLine(campaign, 1, false) + "\r\n";
+                readMeYear += FormatLine(campaign, 1, false, false) + "\r\n";
 
                 var readMeAdvertiser = GenerateAdvertiserTable(campaign.payingAdvertiserName, year, advertiserCampaigns);
 
@@ -126,25 +126,81 @@ namespace SCBot.Parsers
         {
             urlStartIndex = 0;
 
-            var campaigns = advertiserCampaigns.Where(c => c.payingAdvertiserName == advertiser);
+            var campaigns = advertiserCampaigns.Where(c => c.payingAdvertiserName == advertiser).ToList();
 
             var readMeAdvertiser = "## " + year + " - " + advertiser + " \r\n";
-            readMeAdvertiser += $"Spent: {campaigns.Select(c => c.spend).Sum().ToString("N")}\r\n";
-            readMeAdvertiser += $"Impressions: {campaigns.Select(c => c.impressions).Sum().ToString("N0")}\r\n";
+            readMeAdvertiser += $"**Spent**: {campaigns.Select(c => c.spend).Sum().ToString("N")}\r\n";
+            readMeAdvertiser += "\r\n";
+            readMeAdvertiser += $"**Impressions**: {campaigns.Select(c => c.impressions).Sum().ToString("N0")}\r\n";
+            readMeAdvertiser += "\r\n";
+            readMeAdvertiser += $"**Billing Addresses**: {FormatAddresses(campaigns)}\r\n";
             readMeAdvertiser += "\r\n";
 
-            readMeAdvertiser += "|OrganizationName|Spent|PayingAdvertiserNames|CreativeUrls|Impressions|Genders|AgeBrackets|CountryCodes|BillingAddresses|CandidateBallotInformation|\r\n";
-            readMeAdvertiser += "|:---|---:|:---|:---|---:|:---|:---|:---|:---|:---|\r\n";
+            var includeAddresses = GetAddressCount(campaigns) > 1 ? true : false;
+
+            readMeAdvertiser += "|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|";
+            if (includeAddresses)
+            {
+                readMeAdvertiser += "Billing Addresses|";
+            }
+            readMeAdvertiser += "\r\n";
+            readMeAdvertiser += "|:---|---:|:---|---:|:---|:---|:---|";
+            if (includeAddresses)
+            {
+                readMeAdvertiser += ":---|";
+            }
+            readMeAdvertiser += "\r\n";
 
             foreach (var campaign in campaigns.
                 OrderByDescending(c => c.impressions).
                 ThenByDescending(c => c.spend).
                 ThenBy(c => c.creativeUrlsSort))
             {
-                readMeAdvertiser += FormatLine(campaign, 0, true) + "\r\n";
+                readMeAdvertiser += FormatLine(campaign, 0, true, includeAddresses) + "\r\n";
             }
 
             return readMeAdvertiser;
+        }
+
+        private static string FormatAddresses(IList<Campaign> campaigns)
+        {
+            var billingAddresses = new List<string>();
+
+            foreach (var campaign in campaigns)
+            {
+                foreach (var billingAddress in campaign.billingAddresses)
+                {
+                    if (!billingAddresses.Contains(billingAddress))
+                    {
+                        billingAddresses.Add(billingAddress);
+                    }
+                }
+            }
+
+            if (billingAddresses.Count > 1)
+            {                
+                return "\r\n- " + string.Join("\r\n- ", billingAddresses.Distinct());
+            }
+
+            return string.Join(", ", billingAddresses.Distinct());
+        }
+
+        private static int GetAddressCount(IList<Campaign> campaigns)
+        {
+            var billingAddresses = new List<string>();
+
+            foreach (var campaign in campaigns)
+            {
+                foreach (var billingAddress in campaign.billingAddresses)
+                {
+                    if (!billingAddresses.Contains(billingAddress))
+                    {
+                        billingAddresses.Add(billingAddress);
+                    }
+                }
+            }
+
+            return billingAddresses.Count;
         }
 
         private static string FormatItem(string item)
@@ -158,42 +214,59 @@ namespace SCBot.Parsers
             return item;
         }
 
-        private string FormatLine(Campaign campaign, int year, bool groupUrls)
+        private string FormatLine(Campaign campaign, int year, bool groupUrls, bool includeAddresses)
         {
-            var line = "|" + FormatItem(campaign.organizationName) + "|";
-            line += campaign.spend.ToString("N") + " " + FormatList(campaign.currencyCodes) + "|";
-
             var filename = string.Join("_", campaign.payingAdvertiserName.Split(Path.GetInvalidFileNameChars()));
             filename = string.Join("_", filename.Split(" "));
 
+            var line = "|";
+
             if (year == 0)
             {
-                line += campaign.payingAdvertiserName + "|";
+                line += FormatItem(campaign.organizationName);
             }
             else if (year == 1)
             {
-                line += "[" + campaign.payingAdvertiserName + "](" + filename + ".md)|";
+                line += "[" + campaign.payingAdvertiserName + "](" + filename + ".md)";
+                line += " - " + FormatItem(campaign.organizationName);
             }
             else
             {
-                line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)|";
+                line += "[" + campaign.payingAdvertiserName + "](" + year + "/" + filename + ".md)";
+                line += " - " + FormatItem(campaign.organizationName);
             }
-            if (groupUrls)
+
+            var ballotNames = FormatList(campaign.candidateBallotNames);
+            if (ballotNames != "")
             {
-                var formattedUrls = FormatUrls(campaign.creativeUrls, urlStartIndex) + "|";
-                urlStartIndex += formattedUrls.Split(",").Length;
-                line += formattedUrls;
+                line += ": " + FormatList(campaign.candidateBallotNames);
             }
-            else
+
+            line += "|";
+
+            line += campaign.spend.ToString("N") + " " + FormatList(campaign.currencyCodes) + "|";
+
+            if (year == 0)
             {
-                line += FormatUrls(campaign.creativeUrls, 0) + "|";
+                if (groupUrls)
+                {
+                    var formattedUrls = FormatUrls(campaign.creativeUrls, urlStartIndex) + "|";
+                    urlStartIndex += formattedUrls.Split(",").Length;
+                    line += formattedUrls;
+                }
+                else
+                {
+                    line += FormatUrls(campaign.creativeUrls, 0) + "|";
+                }
             }
             line += campaign.impressions.ToString("N0") + "|";
             line += FormatList(campaign.genders) + "|";
             line += FormatList(campaign.ageBrackets) + "|";
             line += FormatList(campaign.countryCodes) + "|";
-            line += FormatList(campaign.billingAddresses) + "|";
-            line += FormatList(campaign.candidateBallotNames) + "|";
+            if (includeAddresses)
+            {
+                line += FormatList(campaign.billingAddresses) + "|";
+            }
             return line;
         }
 
