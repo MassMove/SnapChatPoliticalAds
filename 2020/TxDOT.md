@@ -4,8 +4,8 @@
 **Impressions**: 1,439,010
 
 **Billing Addresses**: 
-- 221 W Poplar,SAN ANTONIO,78231,US
 - 200 South Congress Ave,Austin,78704,US
+- 221 W Poplar,SAN ANTONIO,78231,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

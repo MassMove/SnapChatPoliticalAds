@@ -1,7 +1,7 @@
 ## 2021 - Arbeiderpartiet 
-**Spent**: 913,131.00
+**Spent**: 913,139.00
 
-**Impressions**: 34,734,753
+**Impressions**: 34,734,838
 
 **Billing Addresses**: Youngstorget 2A,Oslo,0028,NO
 
@@ -78,3 +78,4 @@
 |Arbeiderpartiet|12.00 EUR|[74](https://www.snap.com/political-ads/asset/3ac3d8bb660ed4274f9c6ce05cc624976df1e5426881181cb2b5b4615084a1b8?mediaType=png)|2,384||18+|norway|
 |Arbeiderpartiet|79.00 NOK|[75](https://www.snap.com/political-ads/asset/1b17b2435f5b409786b83bd6dd9136c54089fd3f40e49a87b3fb4e5c12eeff07?mediaType=mp4)|780||18+|norway|
 |Arbeiderpartiet|13.00 NOK|[76](https://www.snap.com/political-ads/asset/1b17b2435f5b409786b83bd6dd9136c54089fd3f40e49a87b3fb4e5c12eeff07?mediaType=mp4)|139||18+|norway|
+|Arbeiderpartiet|8.00 NOK|[77](https://www.snap.com/political-ads/asset/e2ec321ecc18318525415c31fa7d451e8d4a3764b3e8ae66fb31efa0fbf90242?mediaType=mp4)|85||18+|norway|
