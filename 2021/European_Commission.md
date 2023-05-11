@@ -4,8 +4,8 @@
 **Impressions**: 229,268,182
 
 **Billing Addresses**: 
-- I. Vandammestraat 5-7 D ,Hoeilaart,1560,BE
 - Square Victoria Regina 1 ,Brussels,1210,BE
+- I. Vandammestraat 5-7 D ,Hoeilaart,1560,BE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

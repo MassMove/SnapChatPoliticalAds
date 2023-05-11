@@ -5,8 +5,8 @@
 
 **Billing Addresses**: 
 - 1901 L St NW,Washington,20036,US
-- 11 E. Madison Ave. 6th Floor,,,Chicago,60602,US
 - 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
+- 11 E. Madison Ave. 6th Floor,,,Chicago,60602,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

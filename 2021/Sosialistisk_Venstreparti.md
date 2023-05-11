@@ -4,8 +4,8 @@
 **Impressions**: 2,587,662
 
 **Billing Addresses**: 
-- NO
 - Hagegata 22,Oslo,0653,NO
+- NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
