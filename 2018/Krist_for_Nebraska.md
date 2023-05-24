@@ -4,8 +4,8 @@
 **Impressions**: 408,578
 
 **Billing Addresses**: 
-- 919 Central Ave,Auburn,68305,US
 - 919 Central Avenue,Lincoln,68305,US
+- 919 Central Ave,Auburn,68305,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

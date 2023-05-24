@@ -1,7 +1,7 @@
 ## 2023 - American Heart Association 
-**Spent**: 2,989.00
+**Spent**: 3,036.00
 
-**Impressions**: 249,829
+**Impressions**: 256,202
 
 **Billing Addresses**: PO Box 128,Mill Valley,94942,US
 
@@ -21,5 +21,8 @@
 |Do Big Things|60.00 USD|[11](https://www.snap.com/political-ads/asset/354573f65aeac953dbf8c04e9c3d4a146528fae5a913a8bb46e8762374a8ae03?mediaType=jpeg)|6,642||18-35|united states|
 |Do Big Things|52.00 USD|[12](https://www.snap.com/political-ads/asset/0f2f08130b5af9def55516c6f0f30b6376a8db94c24f6b04d6d4737748d829c7?mediaType=jpeg)|6,129||18-35|united states|
 |Do Big Things: Advocacy for kids health|47.00 USD|[13](https://www.snap.com/political-ads/asset/0f2f08130b5af9def55516c6f0f30b6376a8db94c24f6b04d6d4737748d829c7?mediaType=jpeg)|4,543||18-35|united states|
-|Do Big Things: Advocacy for kids health|40.00 USD|[14](https://www.snap.com/political-ads/asset/0f2f08130b5af9def55516c6f0f30b6376a8db94c24f6b04d6d4737748d829c7?mediaType=jpeg)|3,476||18-35|united states|
-|Do Big Things: Advocacy for kids health|38.00 USD|[15](https://www.snap.com/political-ads/asset/af6b936577ed6b1e831da7e6e0d231dea89f14dc3a4a705145db5a6b6296cf80?mediaType=jpeg)|2,946||18-35|united states|
+|Do Big Things|30.00 USD|[14](https://www.snap.com/political-ads/asset/71b86abd24b7f30ee22823c555f4edee3d7ac6fb871c9152d2ac75e7b1b7368d?mediaType=png)|3,889||18-35|united states|
+|Do Big Things: Advocacy for kids health|40.00 USD|[15](https://www.snap.com/political-ads/asset/0f2f08130b5af9def55516c6f0f30b6376a8db94c24f6b04d6d4737748d829c7?mediaType=jpeg)|3,476||18-35|united states|
+|Do Big Things: Advocacy for kids health|38.00 USD|[16](https://www.snap.com/political-ads/asset/af6b936577ed6b1e831da7e6e0d231dea89f14dc3a4a705145db5a6b6296cf80?mediaType=jpeg)|2,946||18-35|united states|
+|Do Big Things|11.00 USD|[17](https://www.snap.com/political-ads/asset/40a01ad7470e3cbc5a4cfe0dc87bbfa27bc69ad95690860fc48cadf3238d1c89?mediaType=png)|1,652||18-35|united states|
+|Do Big Things|6.00 USD|[18](https://www.snap.com/political-ads/asset/40a01ad7470e3cbc5a4cfe0dc87bbfa27bc69ad95690860fc48cadf3238d1c89?mediaType=png)|832||18-35|united states|

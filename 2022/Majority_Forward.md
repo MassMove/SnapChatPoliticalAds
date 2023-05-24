@@ -4,8 +4,8 @@
 **Impressions**: 12,552,858
 
 **Billing Addresses**: 
-- 222 W Ontario, Suite 600,,Chicago,60654,US
 - 1220 19th Street NW,Washington,20036,US
+- 222 W Ontario, Suite 600,,Chicago,60654,US
 - 3050 K Street,Washington,20007,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|

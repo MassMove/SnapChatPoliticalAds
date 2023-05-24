@@ -3,7 +3,7 @@
 
 **Impressions**: 392,663
 
-**Billing Addresses**: Youngstorget 2A,Oslo,0028,NO
+**Billing Addresses**: Youngstorget 2A,OSLO,0028,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

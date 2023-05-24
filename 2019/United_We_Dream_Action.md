@@ -1,7 +1,7 @@
 ## 2019 - United We Dream Action 
-**Spent**: 1,293.00
+**Spent**: 1,292.00
 
-**Impressions**: 334,670
+**Impressions**: 334,152
 
 **Billing Addresses**: 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
 
@@ -88,5 +88,4 @@
 |Blueprint Interactive|5.00 USD|[78](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|827||18-29|united states|
 |Blueprint Interactive|2.00 USD|[79](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|702||18-29|united states|
 |Blueprint Interactive|2.00 USD|[80](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|644||18-29|united states|
-|Blueprint Interactive|1.00 USD|[81](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|518||18-29|united states|
-|Blueprint Interactive|2.00 USD|[82](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|456||18-29|united states|
+|Blueprint Interactive|2.00 USD|[81](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|456||18-29|united states|

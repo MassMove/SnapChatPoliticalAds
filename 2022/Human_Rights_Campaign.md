@@ -4,8 +4,8 @@
 **Impressions**: 2,537,555
 
 **Billing Addresses**: 
-- 79 Madison,New York City,10016,US
 - 1445 New York Ave NW,Washington,20005,US
+- 79 Madison,New York City,10016,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
