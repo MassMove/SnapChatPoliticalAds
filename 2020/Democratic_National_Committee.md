@@ -4,9 +4,9 @@
 **Impressions**: 59,685,857
 
 **Billing Addresses**: 
-- 909 Third Avenue,New York,10022,US
-- 1445 New York Ave NW,Washington,20005,US
 - 131 16th Street NE,Washington,20003,US
+- 1445 New York Ave NW,Washington,20005,US
+- 909 Third Avenue,New York,10022,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
