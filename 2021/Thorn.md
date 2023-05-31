@@ -1,7 +1,7 @@
 ## 2021 - Thorn 
-**Spent**: 100,650.00
+**Spent**: 100,263.00
 
-**Impressions**: 42,751,107
+**Impressions**: 42,672,323
 
 **Billing Addresses**: 222 N. Pacific Coast Highway, 10th Floor,El Segundo,90245,US
 
@@ -49,41 +49,40 @@
 |Thorn|161.00 USD|[39](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|90,960||17-|united states|
 |Thorn|300.00 USD|[40](https://www.snap.com/political-ads/asset/592f2f7cb245a91228f25a00deaf059c82791804d8f1706289a5a0251a09d1f4?mediaType=mp4)|87,334||17-|united states|
 |Thorn|241.00 USD|[41](https://www.snap.com/political-ads/asset/45abb6ac42ca6608014ecd1d4a9ae31865eaa43133c2fdd634ee8e934510492b?mediaType=mp4)|82,423||17-|united states|
-|Thorn|387.00 USD|[42](https://www.snap.com/political-ads/asset/4cffa666004d1d667ff6a293052b24fdd3dc1751a2cdd42ffc6ac8a95bfdac88?mediaType=mp4)|78,784||17-|united states|
-|Thorn|389.00 USD|[43](https://www.snap.com/political-ads/asset/e6af27c64986de1aacd5140e5fb4cab28dac576f7c44f44b7769cfe80f309934?mediaType=mp4)|73,707||17-|united states|
-|Thorn|328.00 USD|[44](https://www.snap.com/political-ads/asset/01735470bd8d0ac8d0a9c415476a530463d02015ac3e8082f0111df0d8b68fd1?mediaType=mp4)|62,804||17-|united states|
-|Thorn|292.00 USD|[45](https://www.snap.com/political-ads/asset/c082fe31ac9ad5c8c5085b96f229340ba0ed049d35f13281115b35852d5603b1?mediaType=mp4)|53,666||17-|united states|
-|Thorn|300.00 USD|[46](https://www.snap.com/political-ads/asset/21f793aca5a67d7f0b2a4a3239639cb445663b44cb403a3a2ff3a51bb1966ba5?mediaType=mp4)|52,224||17-|united states|
-|Thorn|257.00 USD|[47](https://www.snap.com/political-ads/asset/8f8d77052a2a1bda8f0689ec8d3b73c1ca134a597ee4616465708e36071c1439?mediaType=mp4)|50,750||17-|united states|
-|Thorn|212.00 USD|[48](https://www.snap.com/political-ads/asset/01735470bd8d0ac8d0a9c415476a530463d02015ac3e8082f0111df0d8b68fd1?mediaType=mp4)|47,084||17-|united states|
-|Thorn|200.00 USD|[49](https://www.snap.com/political-ads/asset/a8ec26f6c92b14687a12d4eae3f69a8ac91714d50782b159e075b5a210a882c0?mediaType=mp4)|46,149||17-|united states|
-|Thorn|80.00 USD|[50](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|44,751||17-|united states|
-|Thorn|85.00 USD|[51](https://www.snap.com/political-ads/asset/0c3138ee952e801cfc9a4bbaa0dc08a9c988cafe58632da4dbbb789b6b328a26?mediaType=mp4)|42,454||17-|united states|
-|Thorn|178.00 USD|[52](https://www.snap.com/political-ads/asset/45abb6ac42ca6608014ecd1d4a9ae31865eaa43133c2fdd634ee8e934510492b?mediaType=mp4)|39,587||17-|united states|
-|Thorn|63.00 USD|[53](https://www.snap.com/political-ads/asset/cc8f97ecfb072a23d2d56ea886f1ee5eac0516978f425ee9eee122701377e53d?mediaType=mp4)|37,961||17-|united states|
-|Thorn|78.00 USD|[54](https://www.snap.com/political-ads/asset/0c3138ee952e801cfc9a4bbaa0dc08a9c988cafe58632da4dbbb789b6b328a26?mediaType=mp4)|36,037||17-|united states|
-|Thorn|84.00 USD|[55](https://www.snap.com/political-ads/asset/e6fc0318c811e95921f66638cdaa66d5ac74fb6a636722d573e7ff18f96c9f25?mediaType=mp4)|33,072||17-|united states|
-|Thorn|66.00 USD|[56](https://www.snap.com/political-ads/asset/ebf218488a3b84be66593e70edad6f4606497bcb4c4974fbc279052f8f7034a4?mediaType=mp4)|30,551||17-|united states|
-|Thorn|71.00 USD|[57](https://www.snap.com/political-ads/asset/a6a94bf25eb7d3c3116cea09d0c690bb9a7b56cc8731267f13de09e7f8718a66?mediaType=mp4)|30,220||17-|united states|
-|Thorn|156.00 USD|[58](https://www.snap.com/political-ads/asset/33db1370c2bdfc2744ab483cd1eb7386e694bb4ab4dd100be228e37befb7812b?mediaType=mp4)|27,126||17-|united states|
-|Thorn|94.00 USD|[59](https://www.snap.com/political-ads/asset/a6a94bf25eb7d3c3116cea09d0c690bb9a7b56cc8731267f13de09e7f8718a66?mediaType=mp4)|24,846||17-|united states|
-|Thorn|53.00 USD|[60](https://www.snap.com/political-ads/asset/dcfbead54555d5e47d24482bcd39bcf5e0ed50eb620bc06b8d0456e08768d79e?mediaType=mp4)|22,689||17-|united states|
-|Thorn|105.00 USD|[61](https://www.snap.com/political-ads/asset/592f2f7cb245a91228f25a00deaf059c82791804d8f1706289a5a0251a09d1f4?mediaType=mp4)|22,284||17-|united states|
-|Thorn|128.00 USD|[62](https://www.snap.com/political-ads/asset/0e24e0070dd595e46700f22c866280541099e2b05386350befa12e9281f236db?mediaType=mp4)|21,931||17-|united states|
-|Thorn|49.00 USD|[63](https://www.snap.com/political-ads/asset/7b0efd1687b2e4b3c182401e73ca7e7fb5856e70266698103bc2d6b37587966b?mediaType=mp4)|21,055||17-|united states|
-|Thorn|46.00 USD|[64](https://www.snap.com/political-ads/asset/97f45ffcdf1aa3f28cb89d8562981644815e9b33796c59f9fbdc3a9f08ac709b?mediaType=mp4)|19,470||17-|united states|
-|Thorn|38.00 USD|[65](https://www.snap.com/political-ads/asset/42407eb30a5cdeeab5583c26772ce28afe1602a14ba2b8d50f72f7ae0ba28a59?mediaType=mp4)|19,072||17-|united states|
-|Thorn|42.00 USD|[66](https://www.snap.com/political-ads/asset/ebf218488a3b84be66593e70edad6f4606497bcb4c4974fbc279052f8f7034a4?mediaType=mp4)|15,252||17-|united states|
-|Thorn|73.00 USD|[67](https://www.snap.com/political-ads/asset/a8ec26f6c92b14687a12d4eae3f69a8ac91714d50782b159e075b5a210a882c0?mediaType=mp4)|14,984||17-|united states|
-|Thorn|28.00 USD|[68](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|13,085||17-|united states|
-|Thorn|67.00 USD|[69](https://www.snap.com/political-ads/asset/39246337bda664fa88d82cc23856fa5b9b90956f53eda4da0e6c8910783f4220?mediaType=mp4)|11,321||17-|united states|
-|Thorn|53.00 USD|[70](https://www.snap.com/political-ads/asset/0b3ec3c54f9b79e322ca2a4a4f788a7399d7e3d29d68d507dfd7f0ebbcc0d1f1?mediaType=mp4)|11,059||17-|united states|
-|Thorn|29.00 USD|[71](https://www.snap.com/political-ads/asset/0d3cfcbabd22498c7cc5667f1c770b9ccb30fc58374b1c8f6b59ad587bbb463d?mediaType=mp4)|10,652||17-|united states|
-|Thorn|29.00 USD|[72](https://www.snap.com/political-ads/asset/0c3138ee952e801cfc9a4bbaa0dc08a9c988cafe58632da4dbbb789b6b328a26?mediaType=mp4)|9,967||17-|united states|
-|Thorn|26.00 USD|[73](https://www.snap.com/political-ads/asset/01735470bd8d0ac8d0a9c415476a530463d02015ac3e8082f0111df0d8b68fd1?mediaType=mp4)|9,912||17-|united states|
-|Thorn|38.00 USD|[74](https://www.snap.com/political-ads/asset/0e24e0070dd595e46700f22c866280541099e2b05386350befa12e9281f236db?mediaType=mp4)|9,198||17-|united states|
-|Thorn|41.00 USD|[75](https://www.snap.com/political-ads/asset/45abb6ac42ca6608014ecd1d4a9ae31865eaa43133c2fdd634ee8e934510492b?mediaType=mp4)|8,212||17-|united states|
-|Thorn|25.00 USD|[76](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|8,009||17-|united states|
-|Thorn|24.00 USD|[77](https://www.snap.com/political-ads/asset/e6fc0318c811e95921f66638cdaa66d5ac74fb6a636722d573e7ff18f96c9f25?mediaType=mp4)|6,590||17-|united states|
-|Thorn|11.00 USD|[78](https://www.snap.com/political-ads/asset/39246337bda664fa88d82cc23856fa5b9b90956f53eda4da0e6c8910783f4220?mediaType=mp4)|3,241||17-|united states|
-|Thorn|12.00 USD|[79](https://www.snap.com/political-ads/asset/dcfbead54555d5e47d24482bcd39bcf5e0ed50eb620bc06b8d0456e08768d79e?mediaType=mp4)|3,147||17-|united states|
+|Thorn|389.00 USD|[42](https://www.snap.com/political-ads/asset/e6af27c64986de1aacd5140e5fb4cab28dac576f7c44f44b7769cfe80f309934?mediaType=mp4)|73,707||17-|united states|
+|Thorn|328.00 USD|[43](https://www.snap.com/political-ads/asset/01735470bd8d0ac8d0a9c415476a530463d02015ac3e8082f0111df0d8b68fd1?mediaType=mp4)|62,804||17-|united states|
+|Thorn|292.00 USD|[44](https://www.snap.com/political-ads/asset/c082fe31ac9ad5c8c5085b96f229340ba0ed049d35f13281115b35852d5603b1?mediaType=mp4)|53,666||17-|united states|
+|Thorn|300.00 USD|[45](https://www.snap.com/political-ads/asset/21f793aca5a67d7f0b2a4a3239639cb445663b44cb403a3a2ff3a51bb1966ba5?mediaType=mp4)|52,224||17-|united states|
+|Thorn|257.00 USD|[46](https://www.snap.com/political-ads/asset/8f8d77052a2a1bda8f0689ec8d3b73c1ca134a597ee4616465708e36071c1439?mediaType=mp4)|50,750||17-|united states|
+|Thorn|212.00 USD|[47](https://www.snap.com/political-ads/asset/01735470bd8d0ac8d0a9c415476a530463d02015ac3e8082f0111df0d8b68fd1?mediaType=mp4)|47,084||17-|united states|
+|Thorn|200.00 USD|[48](https://www.snap.com/political-ads/asset/a8ec26f6c92b14687a12d4eae3f69a8ac91714d50782b159e075b5a210a882c0?mediaType=mp4)|46,149||17-|united states|
+|Thorn|80.00 USD|[49](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|44,751||17-|united states|
+|Thorn|85.00 USD|[50](https://www.snap.com/political-ads/asset/0c3138ee952e801cfc9a4bbaa0dc08a9c988cafe58632da4dbbb789b6b328a26?mediaType=mp4)|42,454||17-|united states|
+|Thorn|178.00 USD|[51](https://www.snap.com/political-ads/asset/45abb6ac42ca6608014ecd1d4a9ae31865eaa43133c2fdd634ee8e934510492b?mediaType=mp4)|39,587||17-|united states|
+|Thorn|63.00 USD|[52](https://www.snap.com/political-ads/asset/cc8f97ecfb072a23d2d56ea886f1ee5eac0516978f425ee9eee122701377e53d?mediaType=mp4)|37,961||17-|united states|
+|Thorn|78.00 USD|[53](https://www.snap.com/political-ads/asset/0c3138ee952e801cfc9a4bbaa0dc08a9c988cafe58632da4dbbb789b6b328a26?mediaType=mp4)|36,037||17-|united states|
+|Thorn|84.00 USD|[54](https://www.snap.com/political-ads/asset/e6fc0318c811e95921f66638cdaa66d5ac74fb6a636722d573e7ff18f96c9f25?mediaType=mp4)|33,072||17-|united states|
+|Thorn|66.00 USD|[55](https://www.snap.com/political-ads/asset/ebf218488a3b84be66593e70edad6f4606497bcb4c4974fbc279052f8f7034a4?mediaType=mp4)|30,551||17-|united states|
+|Thorn|71.00 USD|[56](https://www.snap.com/political-ads/asset/a6a94bf25eb7d3c3116cea09d0c690bb9a7b56cc8731267f13de09e7f8718a66?mediaType=mp4)|30,220||17-|united states|
+|Thorn|156.00 USD|[57](https://www.snap.com/political-ads/asset/33db1370c2bdfc2744ab483cd1eb7386e694bb4ab4dd100be228e37befb7812b?mediaType=mp4)|27,126||17-|united states|
+|Thorn|94.00 USD|[58](https://www.snap.com/political-ads/asset/a6a94bf25eb7d3c3116cea09d0c690bb9a7b56cc8731267f13de09e7f8718a66?mediaType=mp4)|24,846||17-|united states|
+|Thorn|53.00 USD|[59](https://www.snap.com/political-ads/asset/dcfbead54555d5e47d24482bcd39bcf5e0ed50eb620bc06b8d0456e08768d79e?mediaType=mp4)|22,689||17-|united states|
+|Thorn|105.00 USD|[60](https://www.snap.com/political-ads/asset/592f2f7cb245a91228f25a00deaf059c82791804d8f1706289a5a0251a09d1f4?mediaType=mp4)|22,284||17-|united states|
+|Thorn|128.00 USD|[61](https://www.snap.com/political-ads/asset/0e24e0070dd595e46700f22c866280541099e2b05386350befa12e9281f236db?mediaType=mp4)|21,931||17-|united states|
+|Thorn|49.00 USD|[62](https://www.snap.com/political-ads/asset/7b0efd1687b2e4b3c182401e73ca7e7fb5856e70266698103bc2d6b37587966b?mediaType=mp4)|21,055||17-|united states|
+|Thorn|46.00 USD|[63](https://www.snap.com/political-ads/asset/97f45ffcdf1aa3f28cb89d8562981644815e9b33796c59f9fbdc3a9f08ac709b?mediaType=mp4)|19,470||17-|united states|
+|Thorn|38.00 USD|[64](https://www.snap.com/political-ads/asset/42407eb30a5cdeeab5583c26772ce28afe1602a14ba2b8d50f72f7ae0ba28a59?mediaType=mp4)|19,072||17-|united states|
+|Thorn|42.00 USD|[65](https://www.snap.com/political-ads/asset/ebf218488a3b84be66593e70edad6f4606497bcb4c4974fbc279052f8f7034a4?mediaType=mp4)|15,252||17-|united states|
+|Thorn|73.00 USD|[66](https://www.snap.com/political-ads/asset/a8ec26f6c92b14687a12d4eae3f69a8ac91714d50782b159e075b5a210a882c0?mediaType=mp4)|14,984||17-|united states|
+|Thorn|28.00 USD|[67](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|13,085||17-|united states|
+|Thorn|67.00 USD|[68](https://www.snap.com/political-ads/asset/39246337bda664fa88d82cc23856fa5b9b90956f53eda4da0e6c8910783f4220?mediaType=mp4)|11,321||17-|united states|
+|Thorn|53.00 USD|[69](https://www.snap.com/political-ads/asset/0b3ec3c54f9b79e322ca2a4a4f788a7399d7e3d29d68d507dfd7f0ebbcc0d1f1?mediaType=mp4)|11,059||17-|united states|
+|Thorn|29.00 USD|[70](https://www.snap.com/political-ads/asset/0d3cfcbabd22498c7cc5667f1c770b9ccb30fc58374b1c8f6b59ad587bbb463d?mediaType=mp4)|10,652||17-|united states|
+|Thorn|29.00 USD|[71](https://www.snap.com/political-ads/asset/0c3138ee952e801cfc9a4bbaa0dc08a9c988cafe58632da4dbbb789b6b328a26?mediaType=mp4)|9,967||17-|united states|
+|Thorn|26.00 USD|[72](https://www.snap.com/political-ads/asset/01735470bd8d0ac8d0a9c415476a530463d02015ac3e8082f0111df0d8b68fd1?mediaType=mp4)|9,912||17-|united states|
+|Thorn|38.00 USD|[73](https://www.snap.com/political-ads/asset/0e24e0070dd595e46700f22c866280541099e2b05386350befa12e9281f236db?mediaType=mp4)|9,198||17-|united states|
+|Thorn|41.00 USD|[74](https://www.snap.com/political-ads/asset/45abb6ac42ca6608014ecd1d4a9ae31865eaa43133c2fdd634ee8e934510492b?mediaType=mp4)|8,212||17-|united states|
+|Thorn|25.00 USD|[75](https://www.snap.com/political-ads/asset/3c82f3712d907a0fbac55d73f96c77de52c0bba7b0372cdebc184c881d4884df?mediaType=mp4)|8,009||17-|united states|
+|Thorn|24.00 USD|[76](https://www.snap.com/political-ads/asset/e6fc0318c811e95921f66638cdaa66d5ac74fb6a636722d573e7ff18f96c9f25?mediaType=mp4)|6,590||17-|united states|
+|Thorn|11.00 USD|[77](https://www.snap.com/political-ads/asset/39246337bda664fa88d82cc23856fa5b9b90956f53eda4da0e6c8910783f4220?mediaType=mp4)|3,241||17-|united states|
+|Thorn|12.00 USD|[78](https://www.snap.com/political-ads/asset/dcfbead54555d5e47d24482bcd39bcf5e0ed50eb620bc06b8d0456e08768d79e?mediaType=mp4)|3,147||17-|united states|

@@ -6,8 +6,8 @@
 **Billing Addresses**: 
 - US
 - 430 S Capitol St SE,Washington,20003,US
-- 228 E BROADWAY,LONG BEACH,90802,US
 - 2054 University Ave STE 600,Berkeley,94704,US
+- 228 E BROADWAY,LONG BEACH,90802,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

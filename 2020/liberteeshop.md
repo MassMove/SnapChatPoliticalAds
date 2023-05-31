@@ -1,7 +1,7 @@
 ## 2020 - liberteeshop 
-**Spent**: 875.00
+**Spent**: 871.00
 
-**Impressions**: 500,897
+**Impressions**: 498,002
 
 **Billing Addresses**: US
 
@@ -24,7 +24,5 @@
 |liberteeshop.com|8.00 USD|[14](https://www.snap.com/political-ads/asset/277c7024193ac96f46e4d7d6dab8ebca442544fb02bfbc86a7215ab7bb01f978?mediaType=mp4)|5,189||21+|united states|
 |liberteeshop.com|10.00 USD|[15](https://www.snap.com/political-ads/asset/277c7024193ac96f46e4d7d6dab8ebca442544fb02bfbc86a7215ab7bb01f978?mediaType=mp4)|4,519||21+|united states|
 |liberteeshop.com|5.00 USD|[16](https://www.snap.com/political-ads/asset/277c7024193ac96f46e4d7d6dab8ebca442544fb02bfbc86a7215ab7bb01f978?mediaType=mp4)|3,257||21+|united states|
-|liberteeshop.com|4.00 USD|[17](https://www.snap.com/political-ads/asset/3c0eb2396965abeeddf728f9408abd832db076e31cf2750aff665514c3ccdb28?mediaType=mp4)|2,593||21+|united states|
-|liberteeshop.com|4.00 USD|[18](https://www.snap.com/political-ads/asset/695b6fd9311d6d50dc402b8cd1bbe69e914fff2c3cd02daf69b5b39bd5771c80?mediaType=mp4)|2,421||21+|united states|
-|liberteeshop.com|1.00 USD|[19](https://www.snap.com/political-ads/asset/695b6fd9311d6d50dc402b8cd1bbe69e914fff2c3cd02daf69b5b39bd5771c80?mediaType=mp4)|1,033||21+|united states|
-|liberteeshop.com|0.00 USD|[20](https://www.snap.com/political-ads/asset/277c7024193ac96f46e4d7d6dab8ebca442544fb02bfbc86a7215ab7bb01f978?mediaType=mp4)|302||21+|united states|
+|liberteeshop.com|4.00 USD|[17](https://www.snap.com/political-ads/asset/695b6fd9311d6d50dc402b8cd1bbe69e914fff2c3cd02daf69b5b39bd5771c80?mediaType=mp4)|2,421||21+|united states|
+|liberteeshop.com|1.00 USD|[18](https://www.snap.com/political-ads/asset/695b6fd9311d6d50dc402b8cd1bbe69e914fff2c3cd02daf69b5b39bd5771c80?mediaType=mp4)|1,033||21+|united states|

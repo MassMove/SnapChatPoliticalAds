@@ -3,7 +3,7 @@
 
 **Impressions**: 424,194
 
-**Billing Addresses**: Dronningens gate 8B,Blindern, Oslo,0151,NO
+**Billing Addresses**: Jernbanetorget 4a,Oslo,0154,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

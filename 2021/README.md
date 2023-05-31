@@ -1,107 +1,107 @@
 ## 2021 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[Høyre](Høyre.md) - Høyre|1,651,985.00 NOK|29,623,054||"18+, 35+, 20-39, 18-40, 30+, 17+, 22+, 18-35"|norway|
-|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||"18-40, 17-22, 17-40, 17-45, 17+, 18-30, 18-29, 17-30, 28-40, 30-40, 18+, 20-29, 35+, 20-30, 31+, 18-45"|norway|
-|[The Climate Pledge](The_Climate_Pledge.md) - Initiative Media GmbH: The Climate Pledge|945,825.00 "EUR, GBP, USD"|184,599,180||18+|"germany, united kingdom, united states, france"|
-|[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Akershus Arbeiderparti|913,139.00 "NOK, EUR"|34,734,838|FEMALE|"30-45, 18+, 18-35, 18-30, 26+, 18-29, 18-23, 30-40, 18-28"|norway|
-|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: "St Louis Mayoral Race 2021, St Louis Mayoral Primary Election"|576,240.00 USD|152,827,837|FEMALE|"18+, 18-45, 26-34, 18-29, 18-25, 18-49, 30-49"|united states|
-|[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||"16-24, 16-34, 16-29"|"croatia, belgium, finland, romania, france, greece, slovakia (slovak republic), slovenia, czech republic, germany, luxembourg, lithuania, italy, austria"|
+|[Høyre](Høyre.md) - Høyre|1,651,985.00 NOK|29,623,054||"35+, 18+, 18-40, 17+, 30+, 22+, 20-39, 18-35"|norway|
+|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,388,073.00 NOK|19,694,321||"17-40, 17+, 17-30, 28-40, 18+, 35+, 31+, 18-40, 18-29, 30-40, 20-30, 20-29, 17-45, 18-30, 18-45, 17-22"|norway|
+|[The Climate Pledge](The_Climate_Pledge.md) - IPG Mediabrands Ltd: The Climate Pledge|945,825.00 "GBP, EUR, USD"|184,599,180||18+|"united kingdom, france, united states, germany"|
+|[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Akershus Arbeiderparti|913,139.00 "NOK, EUR"|34,734,838|FEMALE|"18+, 18-35, 30-45, 18-28, 18-23, 18-30, 26+, 18-29, 30-40"|norway|
+|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: "St Louis Mayoral Race 2021, St Louis Mayoral Primary Election"|575,241.00 USD|152,614,005|FEMALE|"18+, 18-49, 26-34, 30-49, 18-45, 18-25, 18-29"|united states|
+|[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||"16-24, 16-34, 16-29"|"finland, slovakia (slovak republic), croatia, belgium, slovenia, austria, czech republic, luxembourg, greece, italy, romania, germany, france, lithuania"|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
 |[Fair Fight Action](Fair_Fight_Action.md) - AL Media: Fair Fight Action|327,862.00 USD|41,644,985||"18+, 18-34"|united states|
-|[End Citizens United](End_Citizens_United.md) - Wavelength Strategy|240,736.00 USD|26,296,891||18+|united states|
-|[Venstre](Venstre.md) - Venstre: "frihet og muligheter, Guri Melby, internasjonalt samarbeid, Rusreformen, Oljeleting, Like muligheter for alle, Velge Venstre, rusreform"|229,237.00 NOK|7,879,651|FEMALE|"17-30, 17+, 17-45, 35+, 17-35, 17-34, 17-40, 17-25, 28+, 17-49, 18-49"|norway|
+|[End Citizens United](End_Citizens_United.md) - Wavelength Strategy|239,130.00 USD|26,151,228||18+|united states|
+|[Venstre](Venstre.md) - Venstre: "Guri Melby, frihet og muligheter, Oljeleting, internasjonalt samarbeid, Velge Venstre, rusreform, Rusreformen, Like muligheter for alle"|229,237.00 NOK|7,879,651|FEMALE|"17+, 28+, 17-35, 17-34, 17-45, 17-30, 35+, 17-49, 17-40, 18-49, 17-25"|norway|
 |[Helsedirektoratet](Helsedirektoratet.md) - Mindshare Norway AS|195,229.00 NOK|4,896,020||15-17|norway|
 |[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|163,821.00 CAD|39,734,775||"18+, 16-20"|canada|
-|[Fagbevægelsens Hovedorganisation](Fagbevægelsens_Hovedorganisation.md) - Mercantila A/S|144,995.00 DKK|4,840,723||"18+, 15-45"|denmark|
-|[Fackförbundet ST](Fackförbundet_ST.md) - Reform Society|139,908.00 SEK|2,980,752||"25-34, 20-49, 20-40"|sweden|
+|[Fagbevægelsens Hovedorganisation](Fagbevægelsens_Hovedorganisation.md) - Mercantila A/S|144,995.00 DKK|4,840,723||"15-45, 18+"|denmark|
+|[Fackförbundet ST](Fackförbundet_ST.md) - Reform Society|139,908.00 SEK|2,980,752||"25-34, 20-40, 20-49"|sweden|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|130,479.00 USD|16,742,016||18-34|united states|
 |[Sixteen Thirty Fund](Sixteen_Thirty_Fund.md) - Story Network Foundation|119,734.00 USD|29,665,264||18+|united states|
-|[Thorn](Thorn.md) - Thorn|100,650.00 USD|42,751,107||17-|united states|
+|[Thorn](Thorn.md) - Thorn|100,263.00 USD|42,672,323||17-|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
-|[Care in Action](Care_in_Action.md) - Precision [TEST]: "Care in Action, Virginia Election"|96,121.00 USD|8,924,344|FEMALE|18+|united states|
+|[Care in Action](Care_in_Action.md) - Precision [TEST]: "Virginia Election, Care in Action"|96,121.00 USD|8,924,344|FEMALE|18+|united states|
 |[Live Action Inc.](Live_Action_Inc..md) - Live Action|87,805.00 USD|11,797,378||"25-39, 18+"|united states|
-|[Terry for Virginia](Terry_for_Virginia.md) - Terry for Virginia: Terry for Virginia|84,980.00 USD|6,556,269|FEMALE|"23+, 18+, 24+"|united states|
+|[Terry for Virginia](Terry_for_Virginia.md) - Terry for Virginia: Terry for Virginia|84,980.00 USD|6,556,269|FEMALE|"18+, 23+, 24+"|united states|
 |[DemocracyNYC](DemocracyNYC.md) - OpAD Media|78,000.00 USD|7,179,692||18+|united states|
 |[Progress Now](Progress_Now.md) - The New Media Firm: Progress Virginia|77,573.00 USD|6,313,911||18+|united states|
-|[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co: Fremskrittspartiet|65,987.00 EUR|12,260,552|"MALE, FEMALE"|"25+, 18-33, 18-30"|norway|
-|[Canada's New Democratic Party](Canada's_New_Democratic_Party.md) - Metric: New Democratic Party of Canada|64,894.00 CAD|29,081,712||"18+, 18-39, 40-, 39-, 18-40"|canada|
+|[Canada's New Democratic Party](Canada's_New_Democratic_Party.md) - Metric: New Democratic Party of Canada|64,894.00 CAD|29,081,712||"40-, 18-39, 39-, 18-40, 18+"|canada|
+|[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co: Fremskrittspartiet|64,566.00 EUR|11,935,505|"FEMALE, MALE"|"18-33, 18-30, 25+"|norway|
 |[Dove](Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sosialistisk Venstreparti](Sosialistisk_Venstreparti.md) - Sosialistisk Venstreparti|60,617.00 "NOK, USD"|2,587,662||"18-45, 18+"|norway|
 |[Friends of Schumer](Friends_of_Schumer.md) - Trilogy Interactive: Chuck Schumer|52,741.00 USD|3,755,984||18-39|united states|
-|[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 "USD, EUR"|19,188,668||"18-44, 18-34, 18+, 18-35, 21+"|"united states, germany, netherlands, italy, united kingdom"|
-|[Planned Parenthood Virginia PAC](Planned_Parenthood_Virginia_PAC.md) - Blueprint Interactive|51,478.00 USD|5,453,705||"18-35, 18+, 18-34"|united states|
+|[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 "USD, EUR"|19,188,668||"18-35, 18+, 18-44, 18-34, 21+"|"united states, germany, netherlands, italy, united kingdom"|
+|[Planned Parenthood Virginia PAC](Planned_Parenthood_Virginia_PAC.md) - Blueprint Interactive|51,478.00 USD|5,453,705||"18-34, 18-35, 18+"|united states|
 |[Vote No to Protect Maine](Vote_No_to_Protect_Maine.md) - The New Media Firm: Vote No To Protect Maine|50,292.00 USD|4,198,435||18+|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
-|[Norges Unge Venstre](Norges_Unge_Venstre.md) - Norges Unge Venstre: Venstre|49,427.00 NOK|1,311,827||"17-24, 17-25, 15-20, 17-20"|norway|
+|[Norges Unge Venstre](Norges_Unge_Venstre.md) - Norges Unge Venstre: Venstre|49,427.00 NOK|1,311,827||"17-24, 17-20, 17-25, 15-20"|norway|
 |[Maggie for New Hampshire](Maggie_for_New_Hampshire.md) - Wavelength Strategy: Maggie Hassan|47,790.00 USD|3,056,848|FEMALE|18+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|46,160.00 USD|6,552,361|FEMALE|"18-24, 18+, 16-24, 18-29"|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|46,160.00 USD|6,552,361|FEMALE|"18+, 18-24, 16-24, 18-29"|united states|
 |[CA Public Health](CA_Public_Health.md) - Unified|45,199.00 USD|13,437,171||18+|united states|
 |[Democratic National Committee](Democratic_National_Committee.md) - Democratic National Committee: Terry for Virginia|44,996.00 USD|7,083,666|FEMALE|18-35|united states|
-|[Community Change Action](Community_Change_Action.md) - Do Big Things: "immigration refrom, Presidential Inauguration"|44,984.00 USD|7,910,744||"17+, 18+"|united states|
-|[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|44,968.00 NOK|1,024,406||"25+, 20+, 18-30"|norway|
+|[Community Change Action](Community_Change_Action.md) - Community Change Action: "Presidential Inauguration, immigration refrom"|44,984.00 USD|7,910,744||"18+, 17+"|united states|
+|[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|44,968.00 NOK|1,024,406||"25+, 18-30, 20+"|norway|
 |[Fund Texas Choice](Fund_Texas_Choice.md) - BerlinRosen|42,498.00 USD|3,205,497||35-|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|41,459.00 CAD|4,795,864||18-34|canada|
-|[Electoral Commission](Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||"18-34, 16-17"|united kingdom|
-|[Andreas Hus](Andreas_Hus.md) - Pressure|40,000.00 NOK|1,130,767||"35+, 25+"|norway|
+|[Electoral Commission](Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||"16-17, 18-34"|united kingdom|
+|[Andreas Hus](Andreas_Hus.md) - Pressure|40,000.00 NOK|1,130,767||"25+, 35+"|norway|
 |[CHNGE](CHNGE.md) - CHNGE|39,757.00 USD|11,300,532|FEMALE|"30-, 24-, 32-, 16-30"|united states|
 |[Vote for NYC's Future](Vote_for_NYC's_Future.md) - Wavelength Strategy|39,710.00 USD|4,863,334||18+|united states|
-|[Government of British Columbia](Government_of_British_Columbia.md) - Vizeum Canada|38,601.00 CAD|7,439,441||"18-30, 19+, 18+, 18-49"|canada|
-|[The Labour Party](The_Labour_Party.md) - The Labour Party: "The Labour Party, Kim Leadbeater"|38,583.00 GBP|15,253,082||"18-25, 18+, 18-24"|united kingdom|
+|[Government of British Columbia](Government_of_British_Columbia.md) - Vizeum Canada|38,601.00 CAD|7,439,441||"18-30, 18+, 19+, 18-49"|canada|
+|[The Labour Party](The_Labour_Party.md) - The Labour Party: "The Labour Party, Kim Leadbeater"|38,230.00 GBP|15,086,099||"18-24, 18+, 18-25"|united kingdom|
 |[NRCC](NRCC.md) - Targeted Victory  LLC: NRCC|37,996.00 USD|6,488,434||18+|united states|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - M&R Strategic Services  Inc.|37,566.00 USD|5,054,450||18-24|united states|
-|[ACLU](ACLU.md) - Wavelength Strategy: ACLU|36,054.00 USD|3,117,943|FEMALE|"18-40, 18-49, 18+"|united states|
+|[ACLU](ACLU.md) - Wavelength Strategy: ACLU|36,054.00 USD|3,117,943|FEMALE|"18-49, 18+, 18-40"|united states|
 |[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Liberal Party of Canada](Liberal_Party_of_Canada.md) - Data Sciences: Liberal Party of Canada|35,244.00 CAD|2,057,812||18+|canada|
 |[Women Vote! PAC](Women_Vote!_PAC.md) - Wavelength Strategy: Women Vote|33,836.00 USD|2,214,582||18+|united states|
-|[Republican National Committee](Republican_National_Committee.md) - Republican National Committee: Republican National Committee|32,718.00 USD|4,653,494||"18-24, 25+, 18+, 18-25"|united states|
+|[Republican National Committee](Republican_National_Committee.md) - Republican National Committee: Republican National Committee|32,718.00 USD|4,653,494||"25+, 18+, 18-24, 18-25"|united states|
 |[NRDC Action](NRDC_Action.md) - Wavelength Strategy: NRDC Action|31,781.00 USD|2,666,117||30+|united states|
 |[Accountability Virginia PAC](Accountability_Virginia_PAC.md) - Gambit Strategies|28,874.00 USD|4,178,713||18-49|united states|
 |[NYC Campaign Finance Board](NYC_Campaign_Finance_Board.md) - Miller Advertising Agency  Inc.|28,775.00 USD|5,946,229||18-29|united states|
-|[Human Rights Campaign Foundation](Human_Rights_Campaign_Foundation.md) - Bully Pulpit Interactive|27,899.00 USD|3,155,090||"18-30, 18-35, 18-25"|"puerto rico, united states"|
+|[Human Rights Campaign Foundation](Human_Rights_Campaign_Foundation.md) - Bully Pulpit Interactive|27,899.00 USD|3,155,090||"18-25, 18-35, 18-30"|"united states, puerto rico"|
 |[NDRC](NDRC.md) - Wavelength Strategy|27,589.00 USD|4,684,868||18+|united states|
-|[AUF](AUF.md) - T/A Opt|27,242.00 "NOK, EUR"|4,753,189||"18-25, 16-17"|norway|
-|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|27,127.00 USD|2,383,651|"FEMALE, MALE"|"18-34, 18+"|united states|
-|[ONE Campaign](ONE_Campaign.md) - TouchPoint Integrated Communications|26,336.00 USD|10,413,126||18-34|"canada, france, nigeria, south africa, united kingdom, germany, united states"|
+|[AUF](AUF.md) - AUF Norge|27,242.00 "EUR, NOK"|4,753,189||"18-25, 16-17"|norway|
+|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|27,127.00 USD|2,383,651|"FEMALE, MALE"|"18+, 18-34"|united states|
+|[ONE Campaign](ONE_Campaign.md) - TouchPoint Integrated Communications|26,336.00 USD|10,413,126||18-34|"nigeria, germany, canada, south africa, united kingdom, france, united states"|
 |[Sierra Club](Sierra_Club.md) - Sierra Club|25,956.00 USD|4,356,094|||united states|
 |[The People's Lawsuit](The_People's_Lawsuit.md) - Chong and Koster|24,985.00 USD|7,877,440||18-29|united states|
-|[Frederique Morcillo](Frederique_Morcillo.md) - Dentsu Aegis Network France|24,605.00 EUR|5,663,137||"18-30, 18+"|"spain, united states, germany, united kingdom, italy"|
+|[Frederique Morcillo](Frederique_Morcillo.md) - Dentsu Aegis Network France|24,605.00 EUR|5,663,137||"18+, 18-30"|"germany, united states, spain, italy, united kingdom"|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS|24,439.00 EUR|3,360,841||18+|norway|
 |[LCV & Priorities USA](LCV_&_Priorities_USA.md) - Gambit Strategies|23,499.00 USD|3,283,479||18+|united states|
 |[New Georgia Project](New_Georgia_Project.md) - Panowatch  LLC: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
-|[Clean Virginia Fund](Clean_Virginia_Fund.md) - COMPETE Digital LLC: "Jennifer Carroll Foy, Clean Virginia Fund, Jay Jones"|21,583.00 USD|1,044,021||18+|united states|
-|[EU-kommissionen](EU-kommissionen.md) - Adsup AB|20,158.00 EUR|8,130,685||"18-24, 25-29"|sweden|
+|[Clean Virginia Fund](Clean_Virginia_Fund.md) - COMPETE Digital LLC: "Clean Virginia Fund, Jay Jones, Jennifer Carroll Foy"|21,583.00 USD|1,044,021||18+|united states|
+|[EU-kommissionen](EU-kommissionen.md) - Adsup AB|20,158.00 EUR|8,130,685||"25-29, 18-24"|sweden|
 |[Eric Adams 2021](Eric_Adams_2021.md) - Do Big Things: "Eric Adams, Eric Adams for NYC"|19,995.00 USD|7,095,548||18+|united states|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: Turnout Activism Inc|19,463.00 USD|2,635,135||17-29|united states|
 |[Groen Links](Groen_Links.md) - M2Media & More B.V|19,229.00 EUR|11,269,633||"18-30, 18+"|netherlands|
 |[NC WARN](NC_WARN.md) - New Path Digital: NC Climate Emergency|19,168.00 USD|4,979,121||18+|united states|
 |[Liberalistene Oslo](Liberalistene_Oslo.md) - Liberalistene Oslo: Per Sandberg|18,997.00 NOK|362,710||18+|norway|
-|[Center for American Progress](Center_for_American_Progress.md) - Media Cause: "Build Back Better, Student Debt Relief"|18,957.00 USD|4,998,742||"25+, 18-29"|united states|
 |[Avow](Avow.md) - Authentic Campaigns Inc|18,949.00 USD|1,597,248|FEMALE|18-25|united states|
-|[NATO](NATO.md) - Maximum Media GmbH|18,571.00 EUR|13,914,326||"18-24, 16-24"|"france, spain, united states, united kingdom"|
+|[Center for American Progress](Center_for_American_Progress.md) - Media Cause: "Build Back Better, Student Debt Relief"|18,708.00 USD|4,965,319||"25+, 18-29"|united states|
+|[NATO](NATO.md) - Maximum Media GmbH|18,571.00 EUR|13,914,326||"18-24, 16-24"|"spain, united states, france, united kingdom"|
 |[Lotteri- og stiftelsestilsynet](Lotteri-_og_stiftelsestilsynet.md) - Trigger|18,281.00 NOK|179,280|MALE|18-39|norway|
-|[Illinois Clean Jobs Coalition](Illinois_Clean_Jobs_Coalition.md) - We Bridge Consulting LLC: Illinois Clean Jobs Coalition|18,000.00 USD|9,105,909||"30+, 16+, 29-"|united states|
+|[Illinois Clean Jobs Coalition](Illinois_Clean_Jobs_Coalition.md) - We Bridge Consulting LLC: Illinois Clean Jobs Coalition|18,000.00 USD|9,105,909||"29-, 16+, 30+"|united states|
 |[SEIU](SEIU.md) - Fight for $15: Fight for 15|17,999.00 USD|3,825,753||18+|united states|
-|[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|17,822.00 SEK|1,082,094||"15-23, 25-, 21-, 20-, 16-25"|sweden|
-|[Die Grünen Oberösterreich](Die_Grünen_Oberösterreich.md) - 506 Data & Performance GmbH: Bezahlt von Den Gruenen OOE|17,440.00 EUR|4,252,530||"25-40, 16-18, 19-24"|austria|
-|[Min. Solidarités et Santé](Min._Solidarités_et_Santé.md) - Dentsu Aegis Network France|16,500.00 EUR|5,179,055||"26-35, 16-25"|france|
+|[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|17,822.00 SEK|1,082,094||"20-, 21-, 25-, 15-23, 16-25"|sweden|
+|[Die Grünen Oberösterreich](Die_Grünen_Oberösterreich.md) - 506 Data & Performance GmbH: Bezahlt von Den Gruenen OOE|17,440.00 EUR|4,252,530||"16-18, 25-40, 19-24"|austria|
+|[Min. Solidarités et Santé](Min._Solidarités_et_Santé.md) - Dentsu Aegis Network France|16,500.00 EUR|5,179,055||"16-25, 26-35"|france|
 |[NNAF](NNAF.md) - Chong and Koster|16,030.00 USD|675,015|FEMALE|18-40|united states|
 |[Commonwealth Communications](Commonwealth_Communications.md) - The New Media Firm: Commonwealth Communications|15,959.00 USD|718,680||18+|united states|
-|[Hotel Association of NYC](Hotel_Association_of_NYC.md) - Pythia Public: Save the NYC Hotel Industry|15,894.00 USD|2,004,048||21+|united states|
 |[VVD](VVD.md) - VVD: VVD|15,748.00 EUR|9,142,726||18+|netherlands|
-|[Norske Samers Riksforbund - NSR](Norske_Samers_Riksforbund_-_NSR.md) - Norske Samers Riksforbund – NSR: "Norske Samers Riksforbund, NSR"|15,599.00 NOK|273,205|MALE|"18-40, 18-35, 15+, 16+, 18-46"|norway|
+|[Norske Samers Riksforbund - NSR](Norske_Samers_Riksforbund_-_NSR.md) - Norske Samers Riksforbund – NSR: "Norske Samers Riksforbund, NSR"|15,599.00 NOK|273,205|MALE|"18-40, 16+, 15+, 18-46, 18-35"|norway|
+|[Hotel Association of NYC](Hotel_Association_of_NYC.md) - Pythia Public: Save the NYC Hotel Industry|15,326.00 USD|1,940,664||21+|united states|
 |[Fair Elections Center](Fair_Elections_Center.md) - Panowatch  LLC: Virginia Youth Voter Turnout|15,298.00 USD|3,777,956||18-25|united states|
 |[New Jersey Education Association](New_Jersey_Education_Association.md) - The New Media Firm: New Jersey Education Association|15,034.00 USD|2,036,398||18+|united states|
 |[Trøndelag Arbeiderparti](Trøndelag_Arbeiderparti.md) - Trøndelag Arbeiderparti: Trondelag Arbeiderparti|15,000.00 NOK|173,312|FEMALE|"30+, 17+"|norway|
 |[Melanie For New Mexico](Melanie_For_New_Mexico.md) - New Blue Interactive: Melanie Stansbury|14,993.00 USD|1,742,766||18-40|united states|
 |[NSW Electoral Commission](NSW_Electoral_Commission.md) - Wavemaker Sydney|14,821.00 AUD|7,231,273||17-24|australia|
-|[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,210.00 USD|1,360,075||"26+, 16-21, 30+"|united states|
+|[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,210.00 USD|1,360,075||"16-21, 26+, 30+"|united states|
 |[Emerging American Majorities](Emerging_American_Majorities.md) - Emerging American Majorities|14,000.00 USD|1,517,422||18+|united states|
 |[Elections Ontario](Elections_Ontario.md) - Cossette Media Inc|14,000.00 CAD|2,205,148||18+|canada|
 |[Helsepartiet Lillestrøm](Helsepartiet_Lillestrøm.md) - Helsepartiet|13,544.00 NOK|379,775|FEMALE|"18+, 20+"|norway|
 |[PACT Coalition](PACT_Coalition.md) - Nexstar Digital|12,667.00 USD|1,401,731||25+|united states|
 |[TxDOT](TxDOT.md) - GDC Marketing & Ideation|12,276.00 USD|2,772,621||17-|united states|
-|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|12,115.00 USD|1,030,166|FEMALE|"18-35, 18+"|united states|
+|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|12,115.00 USD|1,030,166|FEMALE|"18+, 18-35"|united states|
 |[ACRONYM](ACRONYM.md) - ACRONYM|11,359.00 USD|1,217,279||18+|united states|
 |[Center For Common Ground](Center_For_Common_Ground.md) - Students For Justice|11,206.00 USD|3,008,508|"MALE, FEMALE"|18+|united states|
 |[Lucy Lang for NY](Lucy_Lang_for_NY.md) - Wavelength Strategy: Lucy Lang|11,043.00 USD|1,446,545||35+|united states|
@@ -112,9 +112,9 @@
 |[Pulpmedia](Pulpmedia.md) - Httpool Online Marketing GmbH|10,000.00 EUR|4,540,377||16+|austria|
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC|10,000.00 USD|1,729,079||18-23|united states|
 |[Fagforbundet](Fagforbundet.md) - T/A Opt|10,000.00 NOK|472,872||18+|norway|
-|[NSSF](NSSF.md) - Red Edge LLC|9,988.00 USD|537,007|FEMALE|"24+, 23+, 22-40, 25+"|united states|
+|[NSSF](NSSF.md) - Red Edge LLC|9,988.00 USD|537,007|FEMALE|"24+, 23+, 25+, 22-40"|united states|
 |[Patient Rights Advocate](Patient_Rights_Advocate.md) - Precision [TEST]|9,823.00 USD|1,557,816||18+|united states|
-|[Trossamfundet Svenska kyrkan](Trossamfundet_Svenska_kyrkan.md) - Emerse Sverige AB|9,809.00 USD|5,261,363||"21-44, 16-20"|sweden|
+|[Trossamfundet Svenska kyrkan](Trossamfundet_Svenska_kyrkan.md) - Emerse Sverige AB|9,809.00 USD|5,261,363||"16-20, 21-44"|sweden|
 |[Dream Corps](Dream_Corps.md) - Townsquare Ignite|9,580.00 USD|1,877,941||"18-35, 18+"|united states|
 |[MESRI](MESRI.md) - Dentsu Aegis Network France|9,259.00 EUR|7,582,846||17-25|france|
 |[The Wu Committee](The_Wu_Committee.md) - AL Media: Michelle Wu|9,128.00 USD|1,231,955||18+|united states|
@@ -133,50 +133,49 @@
 |[American Bridge Foundation](American_Bridge_Foundation.md) - Wavelength Strategy|7,183.00 USD|1,121,015|FEMALE|18+|united states|
 |[Greenpeace USA, Inc.](Greenpeace_USA,_Inc..md) - Chong and Koster|7,169.00 USD|1,427,228||18+|united states|
 |[Dream Defenders](Dream_Defenders.md) - Dream Defenders: "Stop HB1, DCR"|7,000.00 USD|2,530,345||18+|united states|
-|[Agder Høyre](Agder_Høyre.md) - Markussen Consulting: "Nicolai Osteby fra Kristiansand, Aase Marthe Horrigmo, Amalie Gunnufsen, Ingunn Foss, Amalie Kollstrand, Svein Harberg"|6,941.00 NOK|133,732|FEMALE|"30+, 19+, 17-35, 17+, 35-"|norway|
-|[Plan International Canada](Plan_International_Canada.md) - The Aber Group|6,816.00 CAD|2,080,085||"18+, 24-, 35+"|canada|
+|[Agder Høyre](Agder_Høyre.md) - Markussen Consulting: "Svein Harberg, Nicolai Osteby fra Kristiansand, Aase Marthe Horrigmo, Amalie Gunnufsen, Amalie Kollstrand, Ingunn Foss"|6,941.00 NOK|133,732|FEMALE|"17+, 30+, 17-35, 35-, 19+"|norway|
+|[Plan International Canada](Plan_International_Canada.md) - The Aber Group|6,816.00 CAD|2,080,085||"24-, 18+, 35+"|canada|
 |[PPNCS](PPNCS.md) - Happy Medium|6,787.00 USD|1,264,326||18-24|united states|
-|[Up to Us](Up_to_Us.md) - Up to Us|6,710.00 USD|679,573||"18-24, 19-24"|united states|
+|[Up to Us](Up_to_Us.md) - Up to Us|6,710.00 USD|679,573||"19-24, 18-24"|united states|
 |[Collective Future](Collective_Future.md) - New Blue Interactive: Collective Future|6,703.00 USD|341,441||18+|united states|
 |[Color Of Change](Color_Of_Change.md) - Color Of Change: Justice for Keyon|6,645.00 USD|3,741,935|||united states|
 |[Franklin County Public Health](Franklin_County_Public_Health.md) - Amélie Company|6,622.00 USD|2,828,703||"16+, 18+"|united states|
 |[CPC PAC](CPC_PAC.md) - Wavelength Strategy: Karen Carter Peterson|6,572.00 USD|1,028,744||18+|united states|
-|[Grønn Ungdom](Grønn_Ungdom.md) - Grønn Ungdom|6,404.00 USD|1,465,225||"17-28, 18-28, 28-"|norway|
+|[Grønn Ungdom](Grønn_Ungdom.md) - Grønn Ungdom|6,404.00 USD|1,465,225||"17-28, 28-, 18-28"|norway|
 |[Fairfax County Democratic Cmte](Fairfax_County_Democratic_Cmte.md) - Fairfax County Democratic Committee: November 2 2021 Virginia General Election|6,404.00 USD|594,006||18-30|united states|
 |[League of Conservation Voters](League_of_Conservation_Voters.md) - Blueprint Interactive: League of Conservation Voters|6,159.00 USD|1,644,727||18+|united states|
 |[Stop the Republican Recall](Stop_the_Republican_Recall.md) - Aisle 518 Strategies LLC: California Recall|6,112.00 USD|1,615,433||18-34|united states|
-|[Junge Liberale e. V.](Junge_Liberale_e._V..md) - Steffen und Bach GmbH|6,098.00 EUR|1,779,122||"15-24, 18-25, 18-24"|germany|
+|[Junge Liberale e. V.](Junge_Liberale_e._V..md) - Steffen und Bach GmbH|6,098.00 EUR|1,779,122||"18-25, 15-24, 18-24"|germany|
 |[World Vision Deutschland e.V.](World_Vision_Deutschland_e.V..md) - Mindshare GmbH|5,999.00 EUR|512,095||20+|germany|
 |[Mabel Wadsworth Center](Mabel_Wadsworth_Center.md) - Chong and Koster|5,996.00 USD|1,223,323||40-|united states|
 |[Human Rights Campaign](Human_Rights_Campaign.md) - Bully Pulpit Interactive|5,951.00 USD|802,828||18+|united states|
-|[Doctors Without Borders](Doctors_Without_Borders.md) - Doctors Without Borders|5,944.00 USD|1,048,126||"18+, 25+"|united states|
+|[Doctors Without Borders](Doctors_Without_Borders.md) - Doctors Without Borders|5,944.00 USD|1,048,126||"25+, 18+"|united states|
 |[Representative Katie Porter](Representative_Katie_Porter.md) - Wavelength Strategy|5,735.00 USD|509,441||18+|united states|
 |[Yang For New York, Inc](Yang_For_New_York,_Inc.md) - Van Ness Creative Strategies LLC: Yang For New York Inc|5,629.00 USD|1,331,170||18+|united states|
 |[Middlesex County, NJ](Middlesex_County,_NJ.md) - Marketing Doctor Inc: Middlesex County Voting|5,592.00 USD|756,997||18+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|5,576.00 GBP|3,120,115||18-30|united kingdom|
-|[City of Edmonton](City_of_Edmonton.md) - DDB Edmonton Media|5,497.00 CAD|983,689||18+|canada|
 |[NA](NA.md) - Run for Something PAC|5,464.00 USD|2,813,544||16-35|united states|
 |[DSEA](DSEA.md) - The New Media Firm: DSEA Advocacy Fund for Children and Public Schools|5,440.00 USD|654,324||18+|united states|
 |[SCEA](SCEA.md) - The New Media Firm|5,401.00 USD|876,708|||united states|
 |[Detroiters to Protect Our Future](Detroiters_to_Protect_Our_Future.md) - Well & Lighthouse: Detroiters to Protect Our Future|5,398.00 USD|334,215||18+|united states|
-|[Scottish Government](Scottish_Government.md) - Republic of Media Ltd.|5,337.00 GBP|752,544||"18-24, 18+"|united kingdom|
-|[VICE](VICE.md) - VICE: Helping young people choosing who they vote on|5,303.00 EUR|3,754,816||18-35|netherlands|
+|[Scottish Government](Scottish_Government.md) - Republic of Media Ltd.|5,337.00 GBP|752,544||"18+, 18-24"|united kingdom|
 |[Metropolitan Police Service](Metropolitan_Police_Service.md) - Wavemaker UK|5,287.00 GBP|1,317,896||18-26|united kingdom|
 |[Progress NC Action](Progress_NC_Action.md) - Wavelength Strategy|5,272.00 USD|713,933||18+|united states|
 |[Progressive Turnout Project](Progressive_Turnout_Project.md) - Progressive Turnout Project: Progressive Turnout Project|5,260.00 USD|1,005,888||18-34|united states|
+|[VICE](VICE.md) - VICE: Helping young people choosing who they vote on|5,224.00 EUR|3,695,503||18-35|netherlands|
 |[Live Action, Inc](Live_Action,_Inc.md) - Live Action: Meet Baby Olivia|5,123.00 USD|2,752,722|||united states|
-|[Monumental Change](Monumental_Change.md) - Bohemia Group|5,091.00 AUD|1,199,796||"18+, 17-"|australia|
+|[Monumental Change](Monumental_Change.md) - Bohemia Group|5,091.00 AUD|1,199,796||"17-, 18+"|australia|
 |[Power to the Patients](Power_to_the_Patients.md) - Precision [TEST]|5,049.00 USD|848,577||18+|united states|
-|[March For Our Lives](March_For_Our_Lives.md) - Precision [TEST]|4,999.00 USD|1,927,873||25-|united states|
 |[Advocates for Youth](Advocates_for_Youth.md) - Chong and Koster|4,999.00 USD|758,091||18-24|united states|
+|[March For Our Lives](March_For_Our_Lives.md) - Precision [TEST]|4,999.00 USD|1,927,873||25-|united states|
 |[SHERo MS](SHERo_MS.md) - Chong and Koster|4,993.00 USD|593,298||"18-30, 18+"|united states|
 |[Mind Charity](Mind_Charity.md) - Medialab Group|4,840.00 GBP|2,620,994||18-30|united kingdom|
 |[Greater Half](Greater_Half.md) - Greater Half|4,803.00 USD|768,584||18+|united states|
-|[Rijksoverheid](Rijksoverheid.md) - Initiative Media B.V|4,720.00 EUR|2,349,537||"17-, 18-"|netherlands|
+|[Rijksoverheid](Rijksoverheid.md) - Initiative Media B.V|4,720.00 EUR|2,349,537||"18-, 17-"|netherlands|
 |[Green Party NZ](Green_Party_NZ.md) - Uprise Solutions: Green Party Housing|4,695.00 AUD|1,701,232||"18+, 18-30"|new zealand|
 |[SEIU and Progress GA](SEIU_and_Progress_GA.md) - Precision [TEST]|4,672.00 USD|750,515||17+|united states|
 |[ISTA](ISTA.md) - The New Media Firm: Indiana State Teachers Association|4,515.00 USD|628,385||18+|united states|
-|[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne|4,510.00 USD|1,243,419|FEMALE|"17+, 17-22, 28-45, 18+, 20-30, 17-34, 30-42, 35+"|norway|
+|[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne|4,510.00 USD|1,243,419|FEMALE|"17-22, 17+, 18+, 28-45, 20-30, 30-42, 35+, 17-34"|norway|
 |[Everytown for Gun Safety SF](Everytown_for_Gun_Safety_SF.md) - Chong and Koster|4,499.00 USD|1,372,095|||united states|
 |[Scottish National Party](Scottish_National_Party.md) - Scottish National Party: Scottish National Party|4,482.00 GBP|1,938,875|"MALE, FEMALE"|"16+, 16-24"|united kingdom|
 |[The Scottish Labour Party](The_Scottish_Labour_Party.md) - The Labour Party: Scottish Labour|4,351.00 GBP|1,552,028||17+|united kingdom|
@@ -192,20 +191,21 @@
 |[League of Women Voters of CA](League_of_Women_Voters_of_CA.md) - League of Women Voters of California: Get out the vote|3,578.00 USD|438,675||"18-30, 18-28, 18-25"|united states|
 |[California Endowment](California_Endowment.md) - The Creative Space Group: "Multicultural, TCE Youth Awards English Video"|3,575.00 USD|489,332||18+|united states|
 |[Bayerisches Justizministerium](Bayerisches_Justizministerium.md) - neusprech Kommunikation Pasimeni & Sorger GbR|3,498.00 EUR|1,547,564||18-|germany|
-|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.: Right to Vote|3,375.00 GBP|1,061,177||"15-17, 15-25, 18-25"|"united kingdom, united states"|
+|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.: Right to Vote|3,375.00 GBP|1,061,177||"15-17, 18-25, 15-25"|"united kingdom, united states"|
 |[Engage Michigan](Engage_Michigan.md) - The New Media Firm: Engage Michigan|3,357.00 USD|956,100||18+|united states|
 |[MN 350](MN_350.md) - Minnesota 350: Big Oil has been lying to Minnesotans for decades|3,349.00 USD|719,293|||united states|
-|[BIJ1](BIJ1.md) - BIJ1: "Jeanette Chedda BIJ1, BIJ1, Sylvana Simons BIJ1"|3,279.00 EUR|2,755,822||"18-35, 18+"|netherlands|
+|[BIJ1](BIJ1.md) - BIJ1: "Sylvana Simons BIJ1, BIJ1, Jeanette Chedda BIJ1"|3,279.00 EUR|2,755,822||"18+, 18-35"|netherlands|
 |[BlackPAC](BlackPAC.md) - Break Something: Georgia Senate Runoff Election|3,124.00 USD|483,759||18+|united states|
-|[Volt Nederland](Volt_Nederland.md) - Volt Nederland: Volt Nederland|3,049.00 EUR|2,418,528|"MALE, FEMALE"|18-35|netherlands|
+|[Volt Nederland](Volt_Nederland.md) - Volt Nederland: Volt Nederland|3,049.00 EUR|2,418,528|"FEMALE, MALE"|18-35|netherlands|
 |[Collective Super PAC](Collective_Super_PAC.md) - New Blue Interactive: Collective Super PAC|3,048.00 USD|158,730||18+|united states|
 |[Die Grazer Grünen](Die_Grazer_Grünen.md) - Cloudthinkn Werbeagentur KG: Judith Schwentner|3,003.00 EUR|2,068,741||16+|austria|
-|[Hamar Arbeiderblad](Hamar_Arbeiderblad.md) - Hamar Media: Hamar Arbeiderblad|2,999.00 NOK|42,877||18-35|norway|
 |[Progress Georgia](Progress_Georgia.md) - Progress Georgia: Build Back Better|2,999.00 USD|344,214||18+|united states|
-|[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: "Minneapolis City Question 2, Larry Krasner"|2,996.00 USD|1,265,917||18+|united states|
+|[Hamar Arbeiderblad](Hamar_Arbeiderblad.md) - Hamar Media: Hamar Arbeiderblad|2,999.00 NOK|42,877||18-35|norway|
+|[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: "Larry Krasner, Minneapolis City Question 2"|2,996.00 USD|1,265,917||18+|united states|
 |[Community Change](Community_Change.md) - Do Big Things|2,994.00 USD|325,402||18+|united states|
 |[Colorado Dept. of Transportation](Colorado_Dept._of_Transportation.md) - Vladimir Jones|2,992.00 USD|1,018,203||21-34|united states|
 |[Union County Dems](Union_County_Dems.md) - mv digital group: Joe Signorello|2,946.00 USD|505,875||18+|united states|
+|[City of Edmonton](City_of_Edmonton.md) - DDB Edmonton Media|2,644.00 CAD|461,981||18+|canada|
 |[PPFA](PPFA.md) - Chong and Koster|2,611.00 USD|493,173|FEMALE|18-35|united states|
 |[89up Ltd](89up_Ltd.md) - HOPE not hate Charitable Trust|2,437.00 GBP|1,397,925||"18-25, 18+"|united kingdom|
 |[University of California](University_of_California.md) - Parcon Media|2,422.00 USD|517,643||"21+, 18-24"|united states|
@@ -226,68 +226,68 @@
 |[Revitalize Arizona](Revitalize_Arizona.md) - The Colibri Collective: Yassamin Ansari|1,957.00 USD|351,922||"18-32, 25-49"|united states|
 |[ACLU Arizona](ACLU_Arizona.md) - The Colibri Collective|1,877.00 USD|334,111||18+|united states|
 |[DFAD Coalition](DFAD_Coalition.md) - Do Big Things|1,856.00 USD|385,819||18+|united states|
-|[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|1,765.00 CAD|301,597||18+|canada|
+|[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|1,765.00 CAD|301,480||18+|canada|
 |[GOOD Political Party](GOOD_Political_Party.md) - Ad Dynamo|1,762.00 USD|1,731,162||18+|south africa|
 |[RepresentUs](RepresentUs.md) - Trilogy Interactive|1,760.00 USD|147,984||18-35|united states|
 |[Welsh Labour](Welsh_Labour.md) - Welsh Labour: Welsh Labour|1,756.00 GBP|1,090,499||16-23|united kingdom|
-|[Dreams In Action NM](Dreams_In_Action_NM.md) - Dreams In Action NM: "2021 Albuquerque Runoff Elections, 2021 Elections Albuquerque and Las Cruces, 2021 Albuquerque Municipal Elections, 2021 Municipal GOTV Albuquerque and Las Cruces, 2021 Elections Albuquerque Runoff"|1,746.00 USD|406,548||"17-40, 18-40, 17-35"|united states|
+|[Dreams In Action NM](Dreams_In_Action_NM.md) - Dreams In Action NM: "2021 Elections Albuquerque and Las Cruces, 2021 Albuquerque Runoff Elections, 2021 Albuquerque Municipal Elections, 2021 Elections Albuquerque Runoff, 2021 Municipal GOTV Albuquerque and Las Cruces"|1,746.00 USD|406,548||"17-40, 17-35, 18-40"|united states|
 |[Chris Hurst for Delegate](Chris_Hurst_for_Delegate.md) - Blueprint Interactive: Chris Hurst|1,699.00 USD|338,941||18-34|united states|
 |[THEFIRE.ORG](THEFIRE.ORG.md) - The Foundation for Individual Rights in Education|1,644.00 USD|1,171,304||16+|united states|
 |[Parole Justice NY](Parole_Justice_NY.md) - mv digital group: Peoples Campaign for Parole Justice|1,596.00 USD|261,480|||united states|
-|[MARK KELLY FOR SENATE](MARK_KELLY_FOR_SENATE.md) - Aisle 518 Strategies LLC: "Mark Kelly for Senate, Mark Kelly"|1,550.00 USD|117,535||18+|united states|
+|[MARK KELLY FOR SENATE](MARK_KELLY_FOR_SENATE.md) - Aisle 518 Strategies LLC: "Mark Kelly, Mark Kelly for Senate"|1,550.00 USD|117,535||18+|united states|
 |[Nevada Conservation League](Nevada_Conservation_League.md) - Spake Media|1,542.00 USD|266,965||18+|united states|
 |[Senedd Welsh Parliament](Senedd_Welsh_Parliament.md) - Golley Slater Ltd.|1,504.00 GBP|1,030,253||"18-45, 15+, 15-17"|united kingdom|
-|[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: "Angela Cunningham, Rachel Maes"|1,500.00 USD|600,854||18+|united states|
-|[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee|1,476.00 "USD, GBP"|748,824||"20+, 18+"|"hong kong, australia, italy, finland, canada, mexico, united kingdom, new zealand, france, spain, portugal"|
+|[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: "Rachel Maes, Angela Cunningham"|1,500.00 USD|600,854||18+|united states|
+|[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee|1,476.00 "USD, GBP"|748,824||"20+, 18+"|"france, spain, australia, united kingdom, hong kong, canada, portugal, new zealand, italy, mexico, finland"|
 |[Protect the Promise](Protect_the_Promise.md) - LoudDoor  LLC|1,440.00 USD|140,234||35+|united states|
 |[Stand Up America](Stand_Up_America.md) - Stand Up America|1,396.00 USD|761,102||35-|united states|
 |[STMGP](STMGP.md) - OMD München GmbH|1,332.00 EUR|191,804||16-25|germany|
 |[RAY MCGUIRE FOR MAYOR, INC.](RAY_MCGUIRE_FOR_MAYOR,_INC..md) - Assemble The Agency: Ray McGuire for Mayor|1,319.00 USD|131,744||18+|united states|
-|[Dems Vote](Dems_Vote.md) - Seda Custom Design LLC: "Senator Manchin West Virginia, Raphael Warnock and Jon Ossoff, AZ Senator Sinema, Democrat court judges school superintendent, Wisconsin Primary"|1,276.00 USD|285,604|FEMALE|"18-35, 18-30"|united states|
+|[Dems Vote](Dems_Vote.md) - Seda Custom Design LLC: "Senator Manchin West Virginia, Raphael Warnock and Jon Ossoff, AZ Senator Sinema, Wisconsin Primary, Democrat court judges school superintendent"|1,276.00 USD|285,604|FEMALE|"18-35, 18-30"|united states|
 |[Resource Media](Resource_Media.md) - RESOURCE MEDIA A NONPROFIT CORPORATION|1,261.00 USD|139,705||18+|united states|
 |[Accountable Tech](Accountable_Tech.md) - Wavelength Strategy|1,150.00 USD|129,334||18+|united states|
 |[Blåkors](Blåkors.md) - Digital Opptur: Bla Kors|1,147.00 EUR|223,582||18+|norway|
-|[Center for Civic Policy](Center_for_Civic_Policy.md) - Center for Civic Policy: "New Mexico Senate Bill 112, HB297 NM Workforce and Economic Prosperity Act, Peoples Power Peoples Map Day of Action, 2021 New Mexico Redistricting"|1,078.00 USD|391,808||"17-35, 18+, 18-35"|united states|
+|[Center for Civic Policy](Center_for_Civic_Policy.md) - Center for Civic Policy: "Peoples Power Peoples Map Day of Action, HB297 NM Workforce and Economic Prosperity Act, New Mexico Senate Bill 112, 2021 New Mexico Redistricting"|1,078.00 USD|391,808||"18+, 17-35, 18-35"|united states|
 |[Dekalb County Georgia](Dekalb_County_Georgia.md) - AJC Advertising: Register To Vote|1,050.00 USD|160,681||18+|united states|
-|[VoteCaribbean.org](VoteCaribbean.org.md) - VoteCaribbean.Org: Georgia Senate Runoff|1,000.00 USD|457,231||18+|united states|
 |[Government of Ontario](Government_of_Ontario.md) - ONgov|1,000.00 CAD|515,614||14-25|canada|
+|[VoteCaribbean.org](VoteCaribbean.org.md) - VoteCaribbean.Org: Georgia Senate Runoff|1,000.00 USD|457,231||18+|united states|
 |[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Spitz Digital|998.00 EUR|628,199||18-25|netherlands|
 |[State Innovation Exchange](State_Innovation_Exchange.md) - State Innovation Exchange: State Innovation Exchange|998.00 USD|110,517||19+|united states|
 |[LNU](LNU.md) - LNU: Trygg|996.00 EUR|787,415||"16-26, 25-"|norway|
 |[Namsos kommune](Namsos_kommune.md) - Mystory Norge AS|982.00 EUR|135,979||18+|norway|
 |[Opportunity For All Floridians](Opportunity_For_All_Floridians.md) - Opportunity For All Floridians: Dont Lower FL Minimum Wage|969.00 USD|301,210||"17+, 18+"|united states|
 |[Centerlink](Centerlink.md) - Blueprint Interactive|959.00 USD|421,207||17-|united states|
-|[National Education Association](National_Education_Association.md) - Blueprint Interactive|943.00 USD|105,441||"18-35, 35-"|united states|
+|[National Education Association](National_Education_Association.md) - Blueprint Interactive|943.00 USD|105,441||"35-, 18-35"|united states|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|929.00 USD|850,141|||united states|
-|[ACLU of Maryland](ACLU_of_Maryland.md) - American Civil Liberties Union of Maryland: "Women history, WHM2, LEOBR 1, weed, Parole, no Talbot boys, LEOBR 2, Police Reform 2021"|900.00 USD|416,745||"18-45, 35-, 40-, 16-35, 18-40"|united states|
+|[ACLU of Maryland](ACLU_of_Maryland.md) - American Civil Liberties Union of Maryland: "no Talbot boys, Police Reform 2021, LEOBR 2, weed, LEOBR 1, Parole, Women history, WHM2"|900.00 USD|416,745||"40-, 18-40, 16-35, 35-, 18-45"|united states|
 |[Conservation Colorado](Conservation_Colorado.md) - Blueprint Interactive|773.00 USD|158,373||18+|united states|
 |[Lauren Folkerts for Boulder](Lauren_Folkerts_for_Boulder.md) - Lauren Folkerts for Boulder: Lauren Folkerts for Boulder City Council|744.00 USD|205,529||18+|united states|
 |[SPÖ Linz-Stadt](SPÖ_Linz-Stadt.md) - Silverman & Baer GmbH: Klaus Luger|719.00 EUR|183,217||16+|austria|
 |[Ali Yahya](Ali_Yahya.md) - AliYahyaSF: Ali Yahya|700.00 DKK|51,580||17+|denmark|
 |[Friends of Irene Shin](Friends_of_Irene_Shin.md) - Run the World Digital: Irene Shin for Delegate|604.00 USD|40,877|FEMALE|25+|united states|
-|[Hoylman 2021](Hoylman_2021.md) - Van Ness Creative Strategies LLC: Hoylman for Manhattan Borough President|600.00 USD|101,277||18+|united states|
 |[KS Independent College Assoc.](KS_Independent_College_Assoc..md) - Cohort.digital|600.00 USD|48,308||35+|united states|
+|[Hoylman 2021](Hoylman_2021.md) - Van Ness Creative Strategies LLC: Hoylman for Manhattan Borough President|600.00 USD|101,277||18+|united states|
 |[Alvin Bragg for DA](Alvin_Bragg_for_DA.md) - Van Ness Creative Strategies LLC: Alvin Bragg for Manhattan DA|599.00 USD|99,021||18+|united states|
-|[Better Utah Institute](Better_Utah_Institute.md) - Better Utah Institute: "Civic Engagement Toolkit, Ballots are in the mail learn more about here, RCV"|590.00 USD|260,172||"40-, 18+, 17+"|united states|
-|[4b.World](4b.World.md) - SemNexus|563.00 USD|428,954||"18+, 18-26"|united states|
+|[Better Utah Institute](Better_Utah_Institute.md) - Better Utah Institute: "RCV, Civic Engagement Toolkit, Ballots are in the mail learn more about here"|590.00 USD|260,172||"17+, 40-, 18+"|united states|
+|[4b.World](4b.World.md) - SemNexus|563.00 USD|428,954||"18-26, 18+"|united states|
 |[Timo Kataja](Timo_Kataja.md) - Timo Kataja: Timo Kataja|559.00 EUR|219,185||"18-35, 18-32"|finland|
-|[Ampersand Strategies](Ampersand_Strategies.md) - ampersand strategies: "Jason Dozier for City Council, Jason Dozier for Atlanta"|545.00 USD|51,887||18+|united states|
+|[Ampersand Strategies](Ampersand_Strategies.md) - ampersand strategies: "Jason Dozier for Atlanta, Jason Dozier for City Council"|545.00 USD|51,887||18+|united states|
 |[Invest in Arizona](Invest_in_Arizona.md) - Strategies 360|542.00 USD|224,993|||united states|
-|[Campax Community](Campax_Community.md) - Campax|529.00 EUR|240,155||"18-40, 18+"|switzerland|
+|[Campax Community](Campax_Community.md) - Campax|529.00 EUR|240,155||"18+, 18-40"|switzerland|
 |[Strathcona County](Strathcona_County.md) - Strathcona County: Strathcona County|518.00 CAD|109,181||18-25|canada|
-|[Birmingham Safety Committee](Birmingham_Safety_Committee.md) - BIRMINGHAM  CITY OF|500.00 USD|211,983|||united states|
 |[Kristina Keneally](Kristina_Keneally.md) - Senator Kristina Keneally: Kristina Keneally|500.00 AUD|116,082||18+|australia|
+|[Birmingham Safety Committee](Birmingham_Safety_Committee.md) - BIRMINGHAM  CITY OF|500.00 USD|211,983|||united states|
 |[Dyrevernalliansen](Dyrevernalliansen.md) - Dyrevernalliansen|500.00 EUR|115,982||23+|norway|
 |[For Our Future](For_Our_Future.md) - For Our Future Michigan: "President Biden, Minimum Wage"|499.00 USD|177,379||18+|united states|
 |[Inclusive Journeys](Inclusive_Journeys.md) - Marble Trout Media|499.00 USD|101,790||18+|united states|
-|[Calgary's Future](Calgary's_Future.md) - Point Blank Creative|499.00 CAD|150,835||16-30|canada|
 |[Tommi Halkosaari candidate](Tommi_Halkosaari_candidate.md) - Keskustan Espoon kunnallisjärjestö ry: Tommi Halkosaari|499.00 EUR|273,247|||finland|
+|[Calgary's Future](Calgary's_Future.md) - Point Blank Creative|499.00 CAD|150,835||16-30|canada|
 |[Zentrum fir Political Building](Zentrum_fir_Political_Building.md) - Concept Factory|498.00 EUR|873,934||23-|luxembourg|
 |[Espoon Keskusta](Espoon_Keskusta.md) - Keskustan Espoon kunnallisjärjestö ry|489.00 EUR|229,015||18+|finland|
 |[Build NY Fund](Build_NY_Fund.md) - mv digital group: Scott Stringer for NYC Mayor|474.00 USD|46,601||18+|united states|
 |[FLHSMV](FLHSMV.md) - Avanza Advertising  LLC: Put it Down|471.00 USD|340,813||14-42|united states|
 |[AdNatus](AdNatus.md) - AdNatus SA: Pierre Maudet|448.00 EUR|209,306||18+|switzerland|
-|[Hampshire County Council](Hampshire_County_Council.md) - Hampshire County Council|444.00 GBP|146,510|FEMALE|"18-40, 18-34"|united kingdom|
+|[Hampshire County Council](Hampshire_County_Council.md) - Hampshire County Council|444.00 GBP|146,510|FEMALE|"18-34, 18-40"|united kingdom|
 |[Bridgend County Borough Council](Bridgend_County_Borough_Council.md) - Bridgend County Borough Council: Senedd and PCC Election|443.00 GBP|259,254||14-25|united kingdom|
 |[Opportunity Wisconsin](Opportunity_Wisconsin.md) - GPS Impact: Opportunity Wisconsin|438.00 USD|131,067|||united states|
 |[Galaxy Labs](Galaxy_Labs.md) - Galaxy Labs|435.00 USD|120,183||18+|united states|
@@ -299,16 +299,15 @@
 |[Bird + Stone](Bird_+_Stone.md) - Bird & Stone  Inc|380.00 USD|58,822|FEMALE|20+|united states|
 |[Threshold](Threshold.md) - Threshold|372.00 EUR|435,873||18+|ireland|
 |[Wyrick 4 Loveland](Wyrick_4_Loveland.md) - Wyrick4Loveland: Caitlin Wyrick for  Loveland City Council|350.00 USD|110,011||18+|united states|
+|[Gemeente Raalte](Gemeente_Raalte.md) - Gemeente Raalte: Gemeente Raalte|350.00 EUR|103,103||"27-, 24-, 22-, 20-24, 18-19"|netherlands|
 |[Committee to Elect Matt Brown](Committee_to_Elect_Matt_Brown.md) - Committee to Elect Matt Brown: Matt Brown|350.00 USD|57,012||18+|united states|
-|[Gemeente Raalte](Gemeente_Raalte.md) - Gemeente Raalte: Gemeente Raalte|350.00 EUR|103,103||"24-, 18-19, 22-, 27-, 20-24"|netherlands|
 |[Sosialidemokraatit SDP](Sosialidemokraatit_SDP.md) - Sosialidemokraatit SDP|350.00 EUR|110,363||18+|finland|
-|[Victory for Collingswood](Victory_for_Collingswood.md) - Blueprint Interactive: Victory for Collingswood|349.00 USD|71,633||18-35|united states|
 |[Cardiff Council](Cardiff_Council.md) - Hello Starling|349.00 GBP|182,855||14-17|united kingdom|
+|[Victory for Collingswood](Victory_for_Collingswood.md) - Blueprint Interactive: Victory for Collingswood|349.00 USD|71,633||18-35|united states|
 |[Sorenson for Sheboygan](Sorenson_for_Sheboygan.md) - Sorenson for Sheboygan: Ryan Sorenson|341.00 USD|59,250||18+|united states|
-|[& Authorized by Wyden for Senate](&_Authorized_by_Wyden_for_Senate.md) - Mandate Media: "Senator Ron Wyden, Ron Wyden for Senate"|310.00 USD|71,894||18+|united states|
-|[Boulder Is For People](Boulder_Is_For_People.md) - Boulder Is For People: Boulder City Council Election|303.00 USD|65,152||18+|united states|
+|[& Authorized by Wyden for Senate](&_Authorized_by_Wyden_for_Senate.md) - Mandate Media: "Ron Wyden for Senate, Senator Ron Wyden"|307.00 USD|70,782||18+|united states|
 |[Friends of the Earth](Friends_of_the_Earth.md) - Friends of the Earth|290.00 GBP|162,098||18+|united kingdom|
-|[Emerging Citizen Initiative](Emerging_Citizen_Initiative.md) - Emerging Citizen Initiative|281.00 USD|116,655||"18-28, 18-25"|united states|
+|[Emerging Citizen Initiative](Emerging_Citizen_Initiative.md) - Emerging Citizen Initiative|281.00 USD|116,655||"18-25, 18-28"|united states|
 |[Brent and Harrow Labour Party](Brent_and_Harrow_Labour_Party.md) - Brent and Harrow Labour: Krupesh Hirani|275.00 GBP|151,883||18+|united kingdom|
 |[350.org](350.org.md) - Middle Seat Consulting  LLC|274.00 USD|38,664||25+|united states|
 |[City of Sioux Falls](City_of_Sioux_Falls.md) - Fresh Produce  LLC|267.00 USD|60,977||18-45|united states|
@@ -316,14 +315,14 @@
 |[WWF Världsnaturfonden](WWF_Världsnaturfonden.md) - Heep Agency|265.00 EUR|194,602||18-24|sweden|
 |[Our Turn](Our_Turn.md) - Our Turn|261.00 USD|153,823||18-49|united states|
 |[Act Svenska kyrkan](Act_Svenska_kyrkan.md) - Act Svenska kyrkan: Agerautbildning 2 2021|250.00 EUR|185,622||16-30|sweden|
-|[Committee to Elect Guillermo](Committee_to_Elect_Guillermo.md) - Committee to Elect Guillermo Creamer: Guillermo Creamer for Worcester City Council|249.00 USD|71,574||"18-35, 23-40, 35-"|united states|
+|[Committee to Elect Guillermo](Committee_to_Elect_Guillermo.md) - Committee to Elect Guillermo Creamer: Guillermo Creamer for Worcester City Council|249.00 USD|71,574||"23-40, 18-35, 35-"|united states|
 |[Ohio Citizen Action](Ohio_Citizen_Action.md) - Ohio Citizen Action|248.00 USD|38,858||18+|united states|
 |[Kimbo For Aspen City Council](Kimbo_For_Aspen_City_Council.md) - Kimbo For Aspen: Kimbo For Aspen|237.00 USD|44,858||18+|united states|
 |[Gabrielle Battiste for O-day'min](Gabrielle_Battiste_for_O-day'min.md) - Gabrielle Battiste for Ward O-day'min: Gabrielle Battiste|231.00 CAD|91,369||18-35|canada|
 |[Progress MI Pol Action Fund](Progress_MI_Pol_Action_Fund.md) - The New Media Firm: Progress Michigan|231.00 USD|79,373||18+|united states|
 |[Porin Demarit ry](Porin_Demarit_ry.md) - Veli-Matti Oksanen: Veli Matti Oksanen|215.00 EUR|73,275||18-40|finland|
-|[Student Reporting Labs](Student_Reporting_Labs.md) - Greater Washington Educational Telecommunications Association|199.00 USD|149,585|||united states|
 |[Cecilia Rönn](Cecilia_Rönn.md) - Cecilia Rönn Liberal|199.00 SEK|7,982||17+|sweden|
+|[Student Reporting Labs](Student_Reporting_Labs.md) - Greater Washington Educational Telecommunications Association|199.00 USD|149,585|||united states|
 |[Official Agent for Connie Cody](Official_Agent_for_Connie_Cody.md) - Connie Cody|199.00 CAD|35,857||18+|canada|
 |[MEJC](MEJC.md) - Concerted Action|198.00 USD|113,332|||united states|
 |[Planned Parenthood Keystone](Planned_Parenthood_Keystone.md) - Planned Parenthood Keystone|197.00 USD|75,119||"21-, 14-21"|united states|
@@ -332,22 +331,22 @@
 |[Alliance for a Better Utah](Alliance_for_a_Better_Utah.md) - Alliance for a Better Utah: "Utah Redistricting, Redistricting"|190.00 USD|75,221||17+|united states|
 |[First Nations Health Authority](First_Nations_Health_Authority.md) - First Nations Health Authority|183.00 CAD|59,182||24-|canada|
 |[DeFazio for Congress](DeFazio_for_Congress.md) - Mandate Media: Peter DeFazio for Congress|175.00 USD|19,217||18+|united states|
-|[Authorized by Doug Johnstone FA](Authorized_by_Doug_Johnstone_FA.md) - Florio For Mayor: Florio Vassilakakis|175.00 CAD|15,622||"18+, 17+"|canada|
+|[Authorized by Doug Johnstone FA](Authorized_by_Doug_Johnstone_FA.md) - Florio For Mayor: Florio Vassilakakis|175.00 CAD|15,622||"17+, 18+"|canada|
 |[Friends of Tony Moreno](Friends_of_Tony_Moreno.md) - Real Steel Mayor: Tony Moreno for Pittsburgh Mayor|160.00 USD|28,034||18+|united states|
-|[Telisa Moore for Tx State Senate](Telisa_Moore_for_Tx_State_Senate.md) - Telisa for Tx State Senate District 23: "Telisa Moore for Tx State Senate, Telisa Moore"|156.00 USD|43,248||"25+, 30+, 18+"|united states|
+|[Telisa Moore for Tx State Senate](Telisa_Moore_for_Tx_State_Senate.md) - Telisa for Tx State Senate District 23: "Telisa Moore for Tx State Senate, Telisa Moore"|156.00 USD|43,248||"25+, 18+, 30+"|united states|
 |[Working Partnerships USA](Working_Partnerships_USA.md) - Gig Workers Rising|151.00 USD|42,074||20-45|united states|
-|[SUSA flexibel studentenwerk](SUSA_flexibel_studentenwerk.md) - SUSA flexibel studentenwerk|149.00 EUR|141,034||"18-28, 18-30"|netherlands|
+|[SUSA flexibel studentenwerk](SUSA_flexibel_studentenwerk.md) - SUSA flexibel studentenwerk|149.00 EUR|141,034||"18-30, 18-28"|netherlands|
 |[Oscar Smith](Oscar_Smith.md) - Oscar Smith: Oscar Smith|143.00 EUR|43,847||"18-29, 18-25, 18-20"|finland|
 |[Abram Benedict](Abram_Benedict.md) - Abram Benedict: Abram Benedict|141.00 CAD|26,855||18+|canada|
 |[Gretchen Whitmer for Governor](Gretchen_Whitmer_for_Governor.md) - Run the World Digital: Gretchen for Governor|133.00 USD|23,953||"18+, 25+"|united states|
-|[Boomerang Ideas GmbH](Boomerang_Ideas_GmbH.md) - Boomerang Ideas GmbH: Boomerang Ideas GmbH|131.00 EUR|51,513|"FEMALE, MALE"|"18-24, 25-34"|switzerland|
+|[Boomerang Ideas GmbH](Boomerang_Ideas_GmbH.md) - BoomSociety: Boomerang Ideas GmbH|131.00 EUR|51,513|"FEMALE, MALE"|"25-34, 18-24"|switzerland|
 |[Sunrise Movement](Sunrise_Movement.md) - Aisle 518: Sunrise Movement|120.00 USD|93,903||34-|united states|
 |[Dane Bland](Dane_Bland.md) - AdSkope: Dane Bland Provincial Liberal Nomination Ptbo|114.00 CAD|104,863||21+|canada|
 |[Progress Michigan](Progress_Michigan.md) - The New Media Firm: Progress Michigan|103.00 USD|33,684||18+|united states|
+|[Louise McPhater](Louise_McPhater.md) - Louise McPhater for Cunninghame South: Louise McPhater for Cunninghame South|100.00 GBP|58,766|||united kingdom|
+|[Fuse Washington](Fuse_Washington.md) - Fuse Washington|100.00 USD|13,893||18-40|united states|
 |[Harrison Cooper](Harrison_Cooper.md) - Harrison Cooper for Senator|100.00 USD|19,128||18-23|united states|
 |[Mo Brooks for Senate Committee](Mo_Brooks_for_Senate_Committee.md) - Mo Brooks for Senate: Mo Brooks For Senate|100.00 USD|19,033||24+|united states|
-|[Fuse Washington](Fuse_Washington.md) - Fuse Washington|100.00 USD|13,893||18-40|united states|
-|[Louise McPhater](Louise_McPhater.md) - Louise McPhater for Cunninghame South: Louise McPhater for Cunninghame South|100.00 GBP|58,766|||united kingdom|
 |[Hunter Williams](Hunter_Williams.md) - BIRMINGHAM  CITY OF|99.00 USD|49,808|||united states|
 |[Building Back Together](Building_Back_Together.md) - Building Back Together|93.00 USD|41,327|||united states|
 |[Medha Joshi Campaign](Medha_Joshi_Campaign.md) - Medha Joshi Campaign|86.00 CAD|25,784||17-29|canada|
@@ -355,7 +354,7 @@
 |[The Algerian National Front](The_Algerian_National_Front.md) - Liste 20 FNA Sud France: Liste 20 FNA Sud France|82.00 EUR|63,126|MALE|18+|france|
 |[السياسيين](السياسيين.md) - سكرين ستور|81.00 USD|67,631||18+|saudi arabia|
 |[Toronto Centre Greens](Toronto_Centre_Greens.md) - Toronto Centre Greens: Annamie Paul|79.00 CAD|16,595||18-24|canada|
-|[Project 55](Project_55.md) - Project 55: "Add2, Give Demorats the tools to pass legislation"|76.00 USD|44,785|||united states|
+|[Project 55](Project_55.md) - Project 55: "Give Demorats the tools to pass legislation, Add2"|76.00 USD|44,785|||united states|
 |[RWDSU](RWDSU.md) - RWDSU Mid-South Council: Union election in Alabama|75.00 USD|17,013||18-40|united states|
 |[Byron Vass for Papastew](Byron_Vass_for_Papastew.md) - Byron Vass for Ward papa stew: Byron Vass for papastew|73.00 CAD|13,207||18+|canada|
 |[Peter Kobak for Council](Peter_Kobak_for_Council.md) - Central States Media|69.00 USD|18,723||18+|united states|
@@ -387,6 +386,6 @@
 |[Carbon Neutral Britain](Carbon_Neutral_Britain.md) - Carbon Neutral Britain: Carbon Offsetting|13.00 GBP|8,138||19+|united kingdom|
 |[حبيب مهدي بو عباس](حبيب_مهدي_بو_عباس.md) - optimize advertising & marketing company wll|10.00 USD|8,640||18+|kuwait|
 |[JOSH PAC](JOSH_PAC.md) - Authentic Campaigns Inc: JOSH PAC|3.00 USD|1,285|||united states|
-|[Rise, Inc.](Rise,_Inc..md) - Veracity Media|0.00 USD|51||18-29|united states|
 |[Handel og Kontor i Norge](Handel_og_Kontor_i_Norge.md) - Handel og Kontor i Norge: HK i Norge|0.00 NOK|16||18+|norway|
+|[Rise, Inc.](Rise,_Inc..md) - Veracity Media|0.00 USD|51||18-29|united states|
 

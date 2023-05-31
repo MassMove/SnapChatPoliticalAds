@@ -4,8 +4,8 @@
 **Impressions**: 31,794,708
 
 **Billing Addresses**: 
-- 1445 New York Ave NW,Washington,20005,US
 - 235 W Santa Clara St,Ventura,93001,US
+- 1445 New York Ave NW,Washington,20005,US
 - Jollemanhof 11,Amsterdam,1061TJ,NL
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|

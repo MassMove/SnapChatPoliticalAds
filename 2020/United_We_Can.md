@@ -1,7 +1,7 @@
 ## 2020 - United We Can 
-**Spent**: 31,592.00
+**Spent**: 31,471.00
 
-**Impressions**: 7,767,832
+**Impressions**: 7,752,632
 
 **Billing Addresses**: 1121 14th Street NW Suite 700,Washington,20005,US
 
@@ -41,14 +41,13 @@
 |Precision [TEST]: Georgia Runoff|445.00 USD|[31](https://www.snap.com/political-ads/asset/8c1eff8854b5e95daa0ab136317ba2c1df930bd81d8dbd7139a8f28cf1a03eb2?mediaType=mp4)|23,740||18+|united states|
 |Precision [TEST]: Georgia Runoff|110.00 USD|[32](https://www.snap.com/political-ads/asset/531ac1b8214a9fbe22f09fcf84878acd99e65e42ba7f55170bc367e1581b3440?mediaType=mp4)|21,742||18+|united states|
 |Precision [TEST]: Georgia Runoff|103.00 USD|[33](https://www.snap.com/political-ads/asset/ca8273fd61aac447a13e683e9108319c64cf46116f27e63c2883f873f395f1ad?mediaType=mp4)|19,815||18+|united states|
-|Precision [TEST]: Georgia Runoff|121.00 USD|[34](https://www.snap.com/political-ads/asset/5ccb5ec953325fcaa417b4dfd5b1c5c21ae1d4fd9c447f734531ce6e118309e7?mediaType=mp4)|15,200||18+|united states|
-|Precision [TEST]: Georgia Runoff|195.00 USD|[35](https://www.snap.com/political-ads/asset/70a65516d9eb30f116cd8840161918fb1ef301bfeec582d9e5cb46f7ba6526cf?mediaType=mp4)|13,518||18+|united states|
-|Precision [TEST]: Georgia Runoff|90.00 USD|[36](https://www.snap.com/political-ads/asset/ab0e8f232bbff6f228f64b67b6d9b7faa2e69e122a65ac44524730ba6be0948f?mediaType=mp4)|6,186||18+|united states|
-|Precision [TEST]: Georgia Runoff|52.00 USD|[37](https://www.snap.com/political-ads/asset/70a65516d9eb30f116cd8840161918fb1ef301bfeec582d9e5cb46f7ba6526cf?mediaType=mp4)|5,749||18+|united states|
-|Precision [TEST]: Georgia Runoff|49.00 USD|[38](https://www.snap.com/political-ads/asset/136f8b0782bb9547e5b661953be9f0c5be3ff982eda5e2cc3c3226b37abc2fd8?mediaType=mp4)|4,945||18+|united states|
-|Precision [TEST]: Georgia Runoff|52.00 USD|[39](https://www.snap.com/political-ads/asset/712188baf2f1c42f0ac10405eaea8fb32cf45a2d6a6e39800ed1276521329721?mediaType=mp4)|3,936||18+|united states|
-|Precision [TEST]: Georgia Runoff|16.00 USD|[40](https://www.snap.com/political-ads/asset/108137fe50bb3c36a90633792fbee3a369e98dd8737c7b0da70d21a338373c4c?mediaType=mp4)|1,688||18+|united states|
-|Precision [TEST]: Georgia Runoff|12.00 USD|[41](https://www.snap.com/political-ads/asset/545228fc51df44e0be6e9ca42c5ede22b15c92b8b8d05528249e8824bd49fee7?mediaType=mp4)|1,112||18+|united states|
-|Precision [TEST]: Georgia Runoff|11.00 USD|[42](https://www.snap.com/political-ads/asset/712188baf2f1c42f0ac10405eaea8fb32cf45a2d6a6e39800ed1276521329721?mediaType=mp4)|1,051||18+|united states|
-|Precision [TEST]: Georgia Runoff|8.00 USD|[43](https://www.snap.com/political-ads/asset/24723eecbf1bbb7116dd75f2c9a7c22eeed0d7cdf1027b09972ca5c506c5fa4f?mediaType=mp4)|882||18+|united states|
-|Precision [TEST]: Georgia Runoff|7.00 USD|[44](https://www.snap.com/political-ads/asset/ea69e750813e8cf1ab03ad1bed6e5aa650b4601eeaf3107c23c55de47b19c0b6?mediaType=mp4)|767||18+|united states|
+|Precision [TEST]: Georgia Runoff|195.00 USD|[34](https://www.snap.com/political-ads/asset/70a65516d9eb30f116cd8840161918fb1ef301bfeec582d9e5cb46f7ba6526cf?mediaType=mp4)|13,518||18+|united states|
+|Precision [TEST]: Georgia Runoff|90.00 USD|[35](https://www.snap.com/political-ads/asset/ab0e8f232bbff6f228f64b67b6d9b7faa2e69e122a65ac44524730ba6be0948f?mediaType=mp4)|6,186||18+|united states|
+|Precision [TEST]: Georgia Runoff|52.00 USD|[36](https://www.snap.com/political-ads/asset/70a65516d9eb30f116cd8840161918fb1ef301bfeec582d9e5cb46f7ba6526cf?mediaType=mp4)|5,749||18+|united states|
+|Precision [TEST]: Georgia Runoff|49.00 USD|[37](https://www.snap.com/political-ads/asset/136f8b0782bb9547e5b661953be9f0c5be3ff982eda5e2cc3c3226b37abc2fd8?mediaType=mp4)|4,945||18+|united states|
+|Precision [TEST]: Georgia Runoff|52.00 USD|[38](https://www.snap.com/political-ads/asset/712188baf2f1c42f0ac10405eaea8fb32cf45a2d6a6e39800ed1276521329721?mediaType=mp4)|3,936||18+|united states|
+|Precision [TEST]: Georgia Runoff|16.00 USD|[39](https://www.snap.com/political-ads/asset/108137fe50bb3c36a90633792fbee3a369e98dd8737c7b0da70d21a338373c4c?mediaType=mp4)|1,688||18+|united states|
+|Precision [TEST]: Georgia Runoff|12.00 USD|[40](https://www.snap.com/political-ads/asset/545228fc51df44e0be6e9ca42c5ede22b15c92b8b8d05528249e8824bd49fee7?mediaType=mp4)|1,112||18+|united states|
+|Precision [TEST]: Georgia Runoff|11.00 USD|[41](https://www.snap.com/political-ads/asset/712188baf2f1c42f0ac10405eaea8fb32cf45a2d6a6e39800ed1276521329721?mediaType=mp4)|1,051||18+|united states|
+|Precision [TEST]: Georgia Runoff|8.00 USD|[42](https://www.snap.com/political-ads/asset/24723eecbf1bbb7116dd75f2c9a7c22eeed0d7cdf1027b09972ca5c506c5fa4f?mediaType=mp4)|882||18+|united states|
+|Precision [TEST]: Georgia Runoff|7.00 USD|[43](https://www.snap.com/political-ads/asset/ea69e750813e8cf1ab03ad1bed6e5aa650b4601eeaf3107c23c55de47b19c0b6?mediaType=mp4)|767||18+|united states|

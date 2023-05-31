@@ -1,7 +1,7 @@
 ## 2022 - Run for Something Action Fund 
-**Spent**: 57,040.00
+**Spent**: 61,542.00
 
-**Impressions**: 7,674,005
+**Impressions**: 8,022,155
 
 **Billing Addresses**: 8207 Taunton Pl,West Springfield,22152,US
 
@@ -19,7 +19,9 @@
 |Panowatch  LLC: Run for Something|2,324.00 USD|[9](https://www.snap.com/political-ads/asset/139ce78e4fb9e71c39497c74153a2075434cb3597c20a4447a96fdce7d653ca2?mediaType=mp4)|324,781||18-39|united states|
 |Panowatch  LLC: Run for Something|1,826.00 USD|[10](https://www.snap.com/political-ads/asset/139ce78e4fb9e71c39497c74153a2075434cb3597c20a4447a96fdce7d653ca2?mediaType=mp4)|246,360||18-39|united states|
 |Panowatch  LLC: Run for Something|1,441.00 USD|[11](https://www.snap.com/political-ads/asset/767125a262a8bddc3c89494f46d9d193ce22488f106da8a98ee5229dd365814c?mediaType=mp4)|205,305||18-39|united states|
-|Panowatch  LLC: Run for Something|2,329.00 USD|[12](https://www.snap.com/political-ads/asset/3a83ab727917f00b3c3026057401c1a562a170d7cad2a972438e6265bc17f8a6?mediaType=mp4)|197,209||18-44|united states|
-|Panowatch  LLC: Run for Something|3,712.00 USD|[13](https://www.snap.com/political-ads/asset/767125a262a8bddc3c89494f46d9d193ce22488f106da8a98ee5229dd365814c?mediaType=mp4)|166,304||18-39|united states|
-|Panowatch  LLC: Run for Something|2,288.00 USD|[14](https://www.snap.com/political-ads/asset/ecb3ff31b97391972b1d1f7bddc531d3b6b26273a3dd8834e2dcef63954d308f?mediaType=mp4)|144,077||18-44|united states|
-|Panowatch  LLC: Run for Something|666.00 USD|[15](https://www.snap.com/political-ads/asset/767125a262a8bddc3c89494f46d9d193ce22488f106da8a98ee5229dd365814c?mediaType=mp4)|110,351||18-39|united states|
+|Panowatch  LLC: Run for Something|1,215.00 USD|[12](https://www.snap.com/political-ads/asset/139ce78e4fb9e71c39497c74153a2075434cb3597c20a4447a96fdce7d653ca2?mediaType=mp4)|202,003||18-39|united states|
+|Panowatch  LLC: Run for Something|2,329.00 USD|[13](https://www.snap.com/political-ads/asset/3a83ab727917f00b3c3026057401c1a562a170d7cad2a972438e6265bc17f8a6?mediaType=mp4)|197,209||18-44|united states|
+|Panowatch  LLC: Run for Something|3,712.00 USD|[14](https://www.snap.com/political-ads/asset/767125a262a8bddc3c89494f46d9d193ce22488f106da8a98ee5229dd365814c?mediaType=mp4)|166,304||18-39|united states|
+|Panowatch  LLC: Run for Something|3,287.00 USD|[15](https://www.snap.com/political-ads/asset/139ce78e4fb9e71c39497c74153a2075434cb3597c20a4447a96fdce7d653ca2?mediaType=mp4)|146,147||18-39|united states|
+|Panowatch  LLC: Run for Something|2,288.00 USD|[16](https://www.snap.com/political-ads/asset/ecb3ff31b97391972b1d1f7bddc531d3b6b26273a3dd8834e2dcef63954d308f?mediaType=mp4)|144,077||18-44|united states|
+|Panowatch  LLC: Run for Something|666.00 USD|[17](https://www.snap.com/political-ads/asset/767125a262a8bddc3c89494f46d9d193ce22488f106da8a98ee5229dd365814c?mediaType=mp4)|110,351||18-39|united states|

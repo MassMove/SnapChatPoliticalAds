@@ -1,7 +1,7 @@
 ## 2022 - David Blair for Montgomery 
-**Spent**: 8,748.00
+**Spent**: 8,775.00
 
-**Impressions**: 409,465
+**Impressions**: 410,821
 
 **Billing Addresses**: 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
 
@@ -17,4 +17,5 @@
 |Blueprint Interactive: David Blair for Montgomery|73.00 USD|[7](https://www.snap.com/political-ads/asset/3245b71e61745bb138fcf486380d0d8614ef1a4cf63a5c6d6c2f19f436377ce0?mediaType=mp4)|3,684||18+|united states|
 |Blueprint Interactive: David Blair for Montgomery|49.00 USD|[8](https://www.snap.com/political-ads/asset/4edca8680f3e1476d0b9e58befab87bf87fb18cc73c0e7ea77a992c13d5084e7?mediaType=mp4)|2,034||18+|united states|
 |Blueprint Interactive: David Blair for Montgomery|27.00 USD|[9](https://www.snap.com/political-ads/asset/20936962e67575ef38424fa8ddabda248ffda4d2500fcd8c7c8a772c1de034da?mediaType=mp4)|1,360||18+|united states|
-|Blueprint Interactive: David Blair for Montgomery|28.00 USD|[10](https://www.snap.com/political-ads/asset/e741de7fc46793112d96b43295ac9ea3fde2ce08bded1e97ff4cc7c770edc0d2?mediaType=mp4)|1,256||18+|united states|
+|Blueprint Interactive: David Blair for Montgomery|27.00 USD|[10](https://www.snap.com/political-ads/asset/9182c228a6f433eb023412ee995bdeb4ae8ea9d09c05b1c3fcb59c051f31aa0b?mediaType=mp4)|1,356||18+|united states|
+|Blueprint Interactive: David Blair for Montgomery|28.00 USD|[11](https://www.snap.com/political-ads/asset/e741de7fc46793112d96b43295ac9ea3fde2ce08bded1e97ff4cc7c770edc0d2?mediaType=mp4)|1,256||18+|united states|
