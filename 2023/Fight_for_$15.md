@@ -1,11 +1,11 @@
 ## 2023 - Fight for $15 
-**Spent**: 2,069.00
+**Spent**: 2,158.00
 
-**Impressions**: 723,335
+**Impressions**: 754,469
 
 **Billing Addresses**: 1901 L St NW,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|M&R Strategic Services  Inc.|1,204.00 USD|[0](https://www.snap.com/political-ads/asset/d7123a30dc62ddf17148d346ea9136231cae6b114a71b503df4a3d688ed47ca3?mediaType=mp4)|388,981||16+|united states|
-|M&R Strategic Services  Inc.|865.00 USD|[1](https://www.snap.com/political-ads/asset/24feaca7930a545131eb657f94e7dd17329eb54f40e20ee3bdca7c987e37a8d8?mediaType=mp4)|334,354||16+|united states|
+|M&R Strategic Services  Inc.|1,256.00 USD|[0](https://www.snap.com/political-ads/asset/d7123a30dc62ddf17148d346ea9136231cae6b114a71b503df4a3d688ed47ca3?mediaType=mp4)|406,822||16+|united states|
+|M&R Strategic Services  Inc.|902.00 USD|[1](https://www.snap.com/political-ads/asset/24feaca7930a545131eb657f94e7dd17329eb54f40e20ee3bdca7c987e37a8d8?mediaType=mp4)|347,647||16+|united states|
