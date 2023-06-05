@@ -1,7 +1,7 @@
 ## 2022 - Schatz for Senate 
-**Spent**: 6,873.00
+**Spent**: 6,895.00
 
-**Impressions**: 1,985,102
+**Impressions**: 1,991,608
 
 **Billing Addresses**: US
 
@@ -104,22 +104,23 @@
 |Wavelength Strategy: Brian Schatz|23.00 USD|[94](https://www.snap.com/political-ads/asset/7cdbaf3151b3d927cf1f0e38cc366caa56d99f5ce1b417bf4ee9d3320e3a7f2f?mediaType=jpg)|6,644||18+|united states|
 |Wavelength Strategy: Brian Schatz|21.00 USD|[95](https://www.snap.com/political-ads/asset/c8a8630223c7b8cb1c59a38e1aae218e3c8ca8c73f11104ba72d815199c41a58?mediaType=mp4)|6,636||18+|united states|
 |Wavelength Strategy: Brian Schatz|22.00 USD|[96](https://www.snap.com/political-ads/asset/2076cf272d47a593cc6f3305fa54c1f5e80fbe75e4776868c05a1fedb6209e32?mediaType=mp4)|6,615||18+|united states|
-|Wavelength Strategy: Brian Schatz|21.00 USD|[97](https://www.snap.com/political-ads/asset/55c26e7b346670293f085f8b00527aabfb76d781fab45649d0012779cf402c8c?mediaType=mp4)|6,116||18+|united states|
-|Wavelength Strategy: Brian Schatz|31.00 USD|[98](https://www.snap.com/political-ads/asset/180ad80105bdc7f88d788daefcf0461849c3565ead23da17f6b3b04e195cfaa3?mediaType=jpg)|1,237||18+|united states|
-|Wavelength Strategy: Brian Schatz|30.00 USD|[99](https://www.snap.com/political-ads/asset/21fcc2614a476e9321731429488bb32432e368d61a8f41548feb7048577fa395?mediaType=jpg)|1,235||18+|united states|
-|Wavelength Strategy: Brian Schatz|27.00 USD|[100](https://www.snap.com/political-ads/asset/c856ba8a2b57ba2a7f7677a8511562c805ecff96ac3097c22325b7cfbe645801?mediaType=jpg)|1,218||18+|united states|
-|Wavelength Strategy: Brian Schatz|26.00 USD|[101](https://www.snap.com/political-ads/asset/180ad80105bdc7f88d788daefcf0461849c3565ead23da17f6b3b04e195cfaa3?mediaType=jpg)|1,114||18+|united states|
-|Wavelength Strategy: Brian Schatz|28.00 USD|[102](https://www.snap.com/political-ads/asset/c856ba8a2b57ba2a7f7677a8511562c805ecff96ac3097c22325b7cfbe645801?mediaType=jpg)|1,112||18+|united states|
-|Wavelength Strategy: Brian Schatz|25.00 USD|[103](https://www.snap.com/political-ads/asset/ebf79d77354e7f5fa75dc1d68c001e982b752123adc1bcc74a2564cc41c17b4f?mediaType=jpg)|1,003||18+|united states|
-|Wavelength Strategy: Brian Schatz|22.00 USD|[104](https://www.snap.com/political-ads/asset/8c4fe37d229647b3e8f13e2e883e5d4a81cadabb0d411f5948964e6137590749?mediaType=mp4)|972||18+|united states|
-|Wavelength Strategy: Brian Schatz|21.00 USD|[105](https://www.snap.com/political-ads/asset/b7da47f07741eb0de83580a1fb345c8fb49e69d33f73235e8ed3800958fd6aff?mediaType=mp4)|936||18+|united states|
-|Wavelength Strategy: Brian Schatz|22.00 USD|[106](https://www.snap.com/political-ads/asset/2076cf272d47a593cc6f3305fa54c1f5e80fbe75e4776868c05a1fedb6209e32?mediaType=mp4)|930||18+|united states|
-|Wavelength Strategy: Brian Schatz|20.00 USD|[107](https://www.snap.com/political-ads/asset/7cdbaf3151b3d927cf1f0e38cc366caa56d99f5ce1b417bf4ee9d3320e3a7f2f?mediaType=jpg)|894||18+|united states|
-|Wavelength Strategy: Brian Schatz|21.00 USD|[108](https://www.snap.com/political-ads/asset/21fcc2614a476e9321731429488bb32432e368d61a8f41548feb7048577fa395?mediaType=jpg)|890||18+|united states|
-|Wavelength Strategy: Brian Schatz|20.00 USD|[109](https://www.snap.com/political-ads/asset/ebf79d77354e7f5fa75dc1d68c001e982b752123adc1bcc74a2564cc41c17b4f?mediaType=jpg)|875||18+|united states|
-|Wavelength Strategy: Brian Schatz|20.00 USD|[110](https://www.snap.com/political-ads/asset/c8a8630223c7b8cb1c59a38e1aae218e3c8ca8c73f11104ba72d815199c41a58?mediaType=mp4)|789||18+|united states|
-|Wavelength Strategy: Brian Schatz|19.00 USD|[111](https://www.snap.com/political-ads/asset/b7da47f07741eb0de83580a1fb345c8fb49e69d33f73235e8ed3800958fd6aff?mediaType=mp4)|771||18+|united states|
-|Wavelength Strategy: Brian Schatz|17.00 USD|[112](https://www.snap.com/political-ads/asset/c8a8630223c7b8cb1c59a38e1aae218e3c8ca8c73f11104ba72d815199c41a58?mediaType=mp4)|771||18+|united states|
-|Wavelength Strategy: Brian Schatz|19.00 USD|[113](https://www.snap.com/political-ads/asset/7cdbaf3151b3d927cf1f0e38cc366caa56d99f5ce1b417bf4ee9d3320e3a7f2f?mediaType=jpg)|762||18+|united states|
-|Wavelength Strategy: Brian Schatz|19.00 USD|[114](https://www.snap.com/political-ads/asset/2076cf272d47a593cc6f3305fa54c1f5e80fbe75e4776868c05a1fedb6209e32?mediaType=mp4)|753||18+|united states|
-|Wavelength Strategy: Brian Schatz|18.00 USD|[115](https://www.snap.com/political-ads/asset/8c4fe37d229647b3e8f13e2e883e5d4a81cadabb0d411f5948964e6137590749?mediaType=mp4)|727||18+|united states|
+|Wavelength Strategy: Brian Schatz|22.00 USD|[97](https://www.snap.com/political-ads/asset/8c4fe37d229647b3e8f13e2e883e5d4a81cadabb0d411f5948964e6137590749?mediaType=mp4)|6,506||18+|united states|
+|Wavelength Strategy: Brian Schatz|21.00 USD|[98](https://www.snap.com/political-ads/asset/55c26e7b346670293f085f8b00527aabfb76d781fab45649d0012779cf402c8c?mediaType=mp4)|6,116||18+|united states|
+|Wavelength Strategy: Brian Schatz|31.00 USD|[99](https://www.snap.com/political-ads/asset/180ad80105bdc7f88d788daefcf0461849c3565ead23da17f6b3b04e195cfaa3?mediaType=jpg)|1,237||18+|united states|
+|Wavelength Strategy: Brian Schatz|30.00 USD|[100](https://www.snap.com/political-ads/asset/21fcc2614a476e9321731429488bb32432e368d61a8f41548feb7048577fa395?mediaType=jpg)|1,235||18+|united states|
+|Wavelength Strategy: Brian Schatz|27.00 USD|[101](https://www.snap.com/political-ads/asset/c856ba8a2b57ba2a7f7677a8511562c805ecff96ac3097c22325b7cfbe645801?mediaType=jpg)|1,218||18+|united states|
+|Wavelength Strategy: Brian Schatz|26.00 USD|[102](https://www.snap.com/political-ads/asset/180ad80105bdc7f88d788daefcf0461849c3565ead23da17f6b3b04e195cfaa3?mediaType=jpg)|1,114||18+|united states|
+|Wavelength Strategy: Brian Schatz|28.00 USD|[103](https://www.snap.com/political-ads/asset/c856ba8a2b57ba2a7f7677a8511562c805ecff96ac3097c22325b7cfbe645801?mediaType=jpg)|1,112||18+|united states|
+|Wavelength Strategy: Brian Schatz|25.00 USD|[104](https://www.snap.com/political-ads/asset/ebf79d77354e7f5fa75dc1d68c001e982b752123adc1bcc74a2564cc41c17b4f?mediaType=jpg)|1,003||18+|united states|
+|Wavelength Strategy: Brian Schatz|22.00 USD|[105](https://www.snap.com/political-ads/asset/8c4fe37d229647b3e8f13e2e883e5d4a81cadabb0d411f5948964e6137590749?mediaType=mp4)|972||18+|united states|
+|Wavelength Strategy: Brian Schatz|21.00 USD|[106](https://www.snap.com/political-ads/asset/b7da47f07741eb0de83580a1fb345c8fb49e69d33f73235e8ed3800958fd6aff?mediaType=mp4)|936||18+|united states|
+|Wavelength Strategy: Brian Schatz|22.00 USD|[107](https://www.snap.com/political-ads/asset/2076cf272d47a593cc6f3305fa54c1f5e80fbe75e4776868c05a1fedb6209e32?mediaType=mp4)|930||18+|united states|
+|Wavelength Strategy: Brian Schatz|20.00 USD|[108](https://www.snap.com/political-ads/asset/7cdbaf3151b3d927cf1f0e38cc366caa56d99f5ce1b417bf4ee9d3320e3a7f2f?mediaType=jpg)|894||18+|united states|
+|Wavelength Strategy: Brian Schatz|21.00 USD|[109](https://www.snap.com/political-ads/asset/21fcc2614a476e9321731429488bb32432e368d61a8f41548feb7048577fa395?mediaType=jpg)|890||18+|united states|
+|Wavelength Strategy: Brian Schatz|20.00 USD|[110](https://www.snap.com/political-ads/asset/ebf79d77354e7f5fa75dc1d68c001e982b752123adc1bcc74a2564cc41c17b4f?mediaType=jpg)|875||18+|united states|
+|Wavelength Strategy: Brian Schatz|20.00 USD|[111](https://www.snap.com/political-ads/asset/c8a8630223c7b8cb1c59a38e1aae218e3c8ca8c73f11104ba72d815199c41a58?mediaType=mp4)|789||18+|united states|
+|Wavelength Strategy: Brian Schatz|19.00 USD|[112](https://www.snap.com/political-ads/asset/b7da47f07741eb0de83580a1fb345c8fb49e69d33f73235e8ed3800958fd6aff?mediaType=mp4)|771||18+|united states|
+|Wavelength Strategy: Brian Schatz|17.00 USD|[113](https://www.snap.com/political-ads/asset/c8a8630223c7b8cb1c59a38e1aae218e3c8ca8c73f11104ba72d815199c41a58?mediaType=mp4)|771||18+|united states|
+|Wavelength Strategy: Brian Schatz|19.00 USD|[114](https://www.snap.com/political-ads/asset/7cdbaf3151b3d927cf1f0e38cc366caa56d99f5ce1b417bf4ee9d3320e3a7f2f?mediaType=jpg)|762||18+|united states|
+|Wavelength Strategy: Brian Schatz|19.00 USD|[115](https://www.snap.com/political-ads/asset/2076cf272d47a593cc6f3305fa54c1f5e80fbe75e4776868c05a1fedb6209e32?mediaType=mp4)|753||18+|united states|
+|Wavelength Strategy: Brian Schatz|18.00 USD|[116](https://www.snap.com/political-ads/asset/8c4fe37d229647b3e8f13e2e883e5d4a81cadabb0d411f5948964e6137590749?mediaType=mp4)|727||18+|united states|

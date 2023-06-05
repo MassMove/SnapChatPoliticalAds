@@ -1,7 +1,7 @@
 ## 2023 - NSSF 
-**Spent**: 11,819.00
+**Spent**: 11,905.00
 
-**Impressions**: 393,248
+**Impressions**: 396,650
 
 **Billing Addresses**: 2300 Clarendon Blvd,Arlington,22201,US
 
@@ -27,3 +27,9 @@
 |Red Edge LLC|279.00 USD|[17](https://www.snap.com/political-ads/asset/2052f6bce23a2545316d5a8897c0495d6bd83760cdcd6f17d833b59dcef4e4a9?mediaType=mp4)|6,958|FEMALE|25-49|united states|
 |Red Edge LLC|177.00 USD|[18](https://www.snap.com/political-ads/asset/5ee293af0bd191b2c87683de0a8a67887f2f419ad86169ec168297b718040da4?mediaType=mp4)|5,760|FEMALE|25-49|united states|
 |Red Edge LLC|128.00 USD|[19](https://www.snap.com/political-ads/asset/55d57d92a2c94901e39082d8cec716b328a387db4ef5ca00c1f999cfbe9e9ffc?mediaType=mp4)|4,470|FEMALE|25-49|united states|
+|Red Edge LLC|39.00 USD|[20](https://www.snap.com/political-ads/asset/5ee293af0bd191b2c87683de0a8a67887f2f419ad86169ec168297b718040da4?mediaType=mp4)|1,346|FEMALE|25-49|united states|
+|Red Edge LLC|16.00 USD|[21](https://www.snap.com/political-ads/asset/2052f6bce23a2545316d5a8897c0495d6bd83760cdcd6f17d833b59dcef4e4a9?mediaType=mp4)|567|FEMALE|25-49|united states|
+|Red Edge LLC|10.00 USD|[22](https://www.snap.com/political-ads/asset/6d2051839055601d9b376a8f8ab4c9cb9b135863fa55d14449309ca69ee324f8?mediaType=mp4)|529|FEMALE|25-49|united states|
+|Red Edge LLC|8.00 USD|[23](https://www.snap.com/political-ads/asset/ed617c658cdd06d0e847d7b2b72bfc86d31e6a774aa60c72d4f94235744104d1?mediaType=mp4)|383|FEMALE|25-49|united states|
+|Red Edge LLC|8.00 USD|[24](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|343|FEMALE|25-49|united states|
+|Red Edge LLC|5.00 USD|[25](https://www.snap.com/political-ads/asset/c27b90e2373b7e6a9eae7c4fea4fe3343fe20fb8c9094f85b12ec3bbe84840e1?mediaType=mp4)|234|FEMALE|25-49|united states|

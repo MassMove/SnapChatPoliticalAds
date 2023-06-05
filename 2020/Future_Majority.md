@@ -1,7 +1,7 @@
 ## 2020 - Future Majority 
-**Spent**: 309,213.00
+**Spent**: 308,863.00
 
-**Impressions**: 40,831,492
+**Impressions**: 40,794,565
 
 **Billing Addresses**: 1001 Connecticut Ave NW Suite 350,Washington,20036,US
 
@@ -133,45 +133,44 @@
 |Assemble The Agency|336.00 USD|[123](https://www.snap.com/political-ads/asset/6628e17fe7251b52f26c7a65966bca0abb622c59044a950926b261868882aab7?mediaType=mp4)|38,977||18-29|united states|
 |Assemble The Agency|317.00 USD|[124](https://www.snap.com/political-ads/asset/80a3e73af1027bf1aba2df9db88464f89122d70f3808bccecf3df1722ba719f9?mediaType=mp4)|38,435||18-29|united states|
 |Assemble The Agency|198.00 USD|[125](https://www.snap.com/political-ads/asset/8053dd73786c216cdffa5d9bc2348e3279b8c36fb0fb4f759a7de0fda1d2e154?mediaType=mp4)|37,292|FEMALE|18-39|united states|
-|Assemble The Agency|350.00 USD|[126](https://www.snap.com/political-ads/asset/685c0a951105269a5e74ae438f40377b7d3d13bcaae9c3b8c1fbd0301b0c9b38?mediaType=mp4)|36,927||18-29|united states|
-|Assemble The Agency|371.00 USD|[127](https://www.snap.com/political-ads/asset/3a04d4ec94acd42908fbbdbe61608d918e8c75307f6c3a0eaebfeb390425339d?mediaType=png)|34,401||18-29|united states|
-|Assemble The Agency|266.00 USD|[128](https://www.snap.com/political-ads/asset/ac3aa36fc37fd0970995bdb28e9a5aa82897ff7c50117f6e80aae7532257b6f1?mediaType=png)|33,688||18-29|united states|
-|Assemble The Agency|243.00 USD|[129](https://www.snap.com/political-ads/asset/5cee1b35a0ae73e2326e2e1d46d86bea7bb02b3eb4fe73d0857df0cb5a310ad5?mediaType=mp4)|29,191||18-29|united states|
-|Assemble The Agency|200.00 USD|[130](https://www.snap.com/political-ads/asset/67305119140ebd031631b40124792f991822da9d3e8807334c82aa3953b3a103?mediaType=png)|26,588||18-29|united states|
-|Assemble The Agency|242.00 USD|[131](https://www.snap.com/political-ads/asset/65f7de05aa80b7669bcdcd064b9398396905733c1edbd42d9b7f4252c778f5b6?mediaType=mp4)|25,751||18-29|united states|
-|Assemble The Agency|201.00 USD|[132](https://www.snap.com/political-ads/asset/05a688a7b8480932cf878a1654a41b2e764a6c86fba1dd793ab7072765013323?mediaType=png)|25,545||18-29|united states|
-|Assemble The Agency|204.00 USD|[133](https://www.snap.com/political-ads/asset/4f15e31b699c1caac6b81d0ed0e4d6f6929ef605d827b243d2603123f0b91f5d?mediaType=mp4)|25,521||18-29|united states|
-|Assemble The Agency|284.00 USD|[134](https://www.snap.com/political-ads/asset/3b6fc86543e4eb022a4487b65a4a6a1c9bd6fd6cae241a2c3e0b2a5f0d05281b?mediaType=mp4)|24,923||18-29|united states|
-|Assemble The Agency|148.00 USD|[135](https://www.snap.com/political-ads/asset/cdb5b9bc7949be3f243a69a536041a104dece58f7149b98757e2c49c78f2ee1a?mediaType=png)|24,597||18-29|united states|
-|Assemble The Agency|221.00 USD|[136](https://www.snap.com/political-ads/asset/5cee1b35a0ae73e2326e2e1d46d86bea7bb02b3eb4fe73d0857df0cb5a310ad5?mediaType=mp4)|23,732||18-29|united states|
-|Assemble The Agency|167.00 USD|[137](https://www.snap.com/political-ads/asset/58857b1820d87424043ab3c2ce09c47c42fc454e9e72a5791c29a417efff461b?mediaType=mp4)|23,172||18-29|united states|
-|Assemble The Agency|164.00 USD|[138](https://www.snap.com/political-ads/asset/5d319b367b8df17661eed9a80e7ffdc14e0d10b2320c6666f67a58484f7fb860?mediaType=png)|22,807||18-29|united states|
-|Assemble The Agency|165.00 USD|[139](https://www.snap.com/political-ads/asset/74fdc1cafc673a0921cfb1d94b43d884ae6e5397e0e62e0ac26931c7aca45e46?mediaType=png)|22,753||18-29|united states|
-|Assemble The Agency|158.00 USD|[140](https://www.snap.com/political-ads/asset/98821503095c1763004398d192dfee697bd3b975e827ca3cacecfe3ba5242e38?mediaType=mp4)|21,824||18-29|united states|
-|Assemble The Agency|169.00 USD|[141](https://www.snap.com/political-ads/asset/6628e17fe7251b52f26c7a65966bca0abb622c59044a950926b261868882aab7?mediaType=mp4)|20,666||18-29|united states|
-|Assemble The Agency|193.00 USD|[142](https://www.snap.com/political-ads/asset/667e107e727bb68ed947445b035f97ef5e398b72d37ecc860a052010a1564f5d?mediaType=mp4)|20,270||18-29|united states|
-|Assemble The Agency|200.00 USD|[143](https://www.snap.com/political-ads/asset/dfb2f0e4c1ee8e369bfde432d650d70dce776cf1561353d808ef6f573211c7ea?mediaType=png)|19,608||18-29|united states|
-|Assemble The Agency|168.00 USD|[144](https://www.snap.com/political-ads/asset/a36c9f695ed5fc13fd03c62735460ab7910715f4d48b6c5d89c3f9f1a6ea0bc1?mediaType=png)|17,480||18-29|united states|
-|Assemble The Agency|131.00 USD|[145](https://www.snap.com/political-ads/asset/70fd5f4712a1f0a4300e143b503873611497f06ed4bf2ea3903d10508be438cf?mediaType=png)|15,419||18-29|united states|
-|Assemble The Agency|194.00 USD|[146](https://www.snap.com/political-ads/asset/6720a0eb273068efc06d0c52a32edfc386407ffa2dce3e101e91bcc22117631e?mediaType=png)|14,323||18-29|united states|
-|Assemble The Agency|96.00 USD|[147](https://www.snap.com/political-ads/asset/6720a0eb273068efc06d0c52a32edfc386407ffa2dce3e101e91bcc22117631e?mediaType=png)|13,225||18-29|united states|
-|Assemble The Agency|94.00 USD|[148](https://www.snap.com/political-ads/asset/59293e183b2eec32f99d0ec8ff38e65b432b824d498569c36915c7e6b9cbe520?mediaType=png)|13,152||18-29|united states|
-|Assemble The Agency|82.00 USD|[149](https://www.snap.com/political-ads/asset/4d51d3aa8e1b97876c3469029fcf1972b03c1c9dfa0a6cfc01eccde5bbb54695?mediaType=png)|12,975||18-29|united states|
-|Assemble The Agency|97.00 USD|[150](https://www.snap.com/political-ads/asset/4f15e31b699c1caac6b81d0ed0e4d6f6929ef605d827b243d2603123f0b91f5d?mediaType=mp4)|12,600||18-29|united states|
-|Assemble The Agency|118.00 USD|[151](https://www.snap.com/political-ads/asset/92d713904bf662c174d6479013a63f9fcf6f965b408b88115203ada1b38e39bc?mediaType=png)|10,494||18-29|united states|
-|Assemble The Agency|66.00 USD|[152](https://www.snap.com/political-ads/asset/67305119140ebd031631b40124792f991822da9d3e8807334c82aa3953b3a103?mediaType=png)|10,396||18-29|united states|
-|Assemble The Agency|87.00 USD|[153](https://www.snap.com/political-ads/asset/3926dcf00009769163774d85af79340629a9d93fa69b97e37aedaf729245d053?mediaType=mp4)|10,068||18-29|united states|
-|Assemble The Agency|66.00 USD|[154](https://www.snap.com/political-ads/asset/5d319b367b8df17661eed9a80e7ffdc14e0d10b2320c6666f67a58484f7fb860?mediaType=png)|9,365||18-29|united states|
-|Assemble The Agency|77.00 USD|[155](https://www.snap.com/political-ads/asset/98821503095c1763004398d192dfee697bd3b975e827ca3cacecfe3ba5242e38?mediaType=mp4)|9,013||18-29|united states|
-|Assemble The Agency|63.00 USD|[156](https://www.snap.com/political-ads/asset/4d51d3aa8e1b97876c3469029fcf1972b03c1c9dfa0a6cfc01eccde5bbb54695?mediaType=png)|8,867||18-29|united states|
-|Assemble The Agency|93.00 USD|[157](https://www.snap.com/political-ads/asset/9cfe21c7ab9aac2bb6da17e94a03454789b45d8ab93996416686f9634e07a006?mediaType=png)|6,294||18-29|united states|
-|Assemble The Agency|61.00 USD|[158](https://www.snap.com/political-ads/asset/74fdc1cafc673a0921cfb1d94b43d884ae6e5397e0e62e0ac26931c7aca45e46?mediaType=png)|6,291||18-29|united states|
-|Assemble The Agency|27.00 USD|[159](https://www.snap.com/political-ads/asset/59293e183b2eec32f99d0ec8ff38e65b432b824d498569c36915c7e6b9cbe520?mediaType=png)|4,790||18-29|united states|
-|Assemble The Agency|66.00 USD|[160](https://www.snap.com/political-ads/asset/fcdde8cc12958498f870ddd7a67954a5d3435485ac3bc0734a20eff5f6c4e395?mediaType=png)|4,124||18-29|united states|
-|Assemble The Agency|33.00 USD|[161](https://www.snap.com/political-ads/asset/6ecf83319cc763d204c8bd915c222116204de1bdad9d7af611e09c629121a793?mediaType=mp4)|3,823||18-29|united states|
-|Assemble The Agency|27.00 USD|[162](https://www.snap.com/political-ads/asset/087a1e66e4b0cb169aa53d8bf0e27a99c1ccb528d83200a51c122a041bab5da7?mediaType=png)|3,376||18-29|united states|
-|Assemble The Agency|23.00 USD|[163](https://www.snap.com/political-ads/asset/e6f79b739764e6fd5bf85a3d315c5b4ff3d10aed7e762d43b34fb0bc9b6b3e28?mediaType=png)|3,212||18-29|united states|
-|Assemble The Agency|30.00 USD|[164](https://www.snap.com/political-ads/asset/667e107e727bb68ed947445b035f97ef5e398b72d37ecc860a052010a1564f5d?mediaType=mp4)|3,055||18-29|united states|
-|Assemble The Agency|26.00 USD|[165](https://www.snap.com/political-ads/asset/d8d5f3532fdce581ed5e7751f04874e0f51fdfa0a0df7e0724e9d17505634087?mediaType=mp4)|2,885||18-29|united states|
-|Assemble The Agency|18.00 USD|[166](https://www.snap.com/political-ads/asset/087a1e66e4b0cb169aa53d8bf0e27a99c1ccb528d83200a51c122a041bab5da7?mediaType=png)|2,641||18-29|united states|
-|Assemble The Agency|11.00 USD|[167](https://www.snap.com/political-ads/asset/e6f79b739764e6fd5bf85a3d315c5b4ff3d10aed7e762d43b34fb0bc9b6b3e28?mediaType=png)|1,318||18-29|united states|
+|Assemble The Agency|371.00 USD|[126](https://www.snap.com/political-ads/asset/3a04d4ec94acd42908fbbdbe61608d918e8c75307f6c3a0eaebfeb390425339d?mediaType=png)|34,401||18-29|united states|
+|Assemble The Agency|266.00 USD|[127](https://www.snap.com/political-ads/asset/ac3aa36fc37fd0970995bdb28e9a5aa82897ff7c50117f6e80aae7532257b6f1?mediaType=png)|33,688||18-29|united states|
+|Assemble The Agency|243.00 USD|[128](https://www.snap.com/political-ads/asset/5cee1b35a0ae73e2326e2e1d46d86bea7bb02b3eb4fe73d0857df0cb5a310ad5?mediaType=mp4)|29,191||18-29|united states|
+|Assemble The Agency|200.00 USD|[129](https://www.snap.com/political-ads/asset/67305119140ebd031631b40124792f991822da9d3e8807334c82aa3953b3a103?mediaType=png)|26,588||18-29|united states|
+|Assemble The Agency|242.00 USD|[130](https://www.snap.com/political-ads/asset/65f7de05aa80b7669bcdcd064b9398396905733c1edbd42d9b7f4252c778f5b6?mediaType=mp4)|25,751||18-29|united states|
+|Assemble The Agency|201.00 USD|[131](https://www.snap.com/political-ads/asset/05a688a7b8480932cf878a1654a41b2e764a6c86fba1dd793ab7072765013323?mediaType=png)|25,545||18-29|united states|
+|Assemble The Agency|204.00 USD|[132](https://www.snap.com/political-ads/asset/4f15e31b699c1caac6b81d0ed0e4d6f6929ef605d827b243d2603123f0b91f5d?mediaType=mp4)|25,521||18-29|united states|
+|Assemble The Agency|284.00 USD|[133](https://www.snap.com/political-ads/asset/3b6fc86543e4eb022a4487b65a4a6a1c9bd6fd6cae241a2c3e0b2a5f0d05281b?mediaType=mp4)|24,923||18-29|united states|
+|Assemble The Agency|148.00 USD|[134](https://www.snap.com/political-ads/asset/cdb5b9bc7949be3f243a69a536041a104dece58f7149b98757e2c49c78f2ee1a?mediaType=png)|24,597||18-29|united states|
+|Assemble The Agency|221.00 USD|[135](https://www.snap.com/political-ads/asset/5cee1b35a0ae73e2326e2e1d46d86bea7bb02b3eb4fe73d0857df0cb5a310ad5?mediaType=mp4)|23,732||18-29|united states|
+|Assemble The Agency|167.00 USD|[136](https://www.snap.com/political-ads/asset/58857b1820d87424043ab3c2ce09c47c42fc454e9e72a5791c29a417efff461b?mediaType=mp4)|23,172||18-29|united states|
+|Assemble The Agency|164.00 USD|[137](https://www.snap.com/political-ads/asset/5d319b367b8df17661eed9a80e7ffdc14e0d10b2320c6666f67a58484f7fb860?mediaType=png)|22,807||18-29|united states|
+|Assemble The Agency|165.00 USD|[138](https://www.snap.com/political-ads/asset/74fdc1cafc673a0921cfb1d94b43d884ae6e5397e0e62e0ac26931c7aca45e46?mediaType=png)|22,753||18-29|united states|
+|Assemble The Agency|158.00 USD|[139](https://www.snap.com/political-ads/asset/98821503095c1763004398d192dfee697bd3b975e827ca3cacecfe3ba5242e38?mediaType=mp4)|21,824||18-29|united states|
+|Assemble The Agency|169.00 USD|[140](https://www.snap.com/political-ads/asset/6628e17fe7251b52f26c7a65966bca0abb622c59044a950926b261868882aab7?mediaType=mp4)|20,666||18-29|united states|
+|Assemble The Agency|193.00 USD|[141](https://www.snap.com/political-ads/asset/667e107e727bb68ed947445b035f97ef5e398b72d37ecc860a052010a1564f5d?mediaType=mp4)|20,270||18-29|united states|
+|Assemble The Agency|200.00 USD|[142](https://www.snap.com/political-ads/asset/dfb2f0e4c1ee8e369bfde432d650d70dce776cf1561353d808ef6f573211c7ea?mediaType=png)|19,608||18-29|united states|
+|Assemble The Agency|168.00 USD|[143](https://www.snap.com/political-ads/asset/a36c9f695ed5fc13fd03c62735460ab7910715f4d48b6c5d89c3f9f1a6ea0bc1?mediaType=png)|17,480||18-29|united states|
+|Assemble The Agency|131.00 USD|[144](https://www.snap.com/political-ads/asset/70fd5f4712a1f0a4300e143b503873611497f06ed4bf2ea3903d10508be438cf?mediaType=png)|15,419||18-29|united states|
+|Assemble The Agency|194.00 USD|[145](https://www.snap.com/political-ads/asset/6720a0eb273068efc06d0c52a32edfc386407ffa2dce3e101e91bcc22117631e?mediaType=png)|14,323||18-29|united states|
+|Assemble The Agency|96.00 USD|[146](https://www.snap.com/political-ads/asset/6720a0eb273068efc06d0c52a32edfc386407ffa2dce3e101e91bcc22117631e?mediaType=png)|13,225||18-29|united states|
+|Assemble The Agency|94.00 USD|[147](https://www.snap.com/political-ads/asset/59293e183b2eec32f99d0ec8ff38e65b432b824d498569c36915c7e6b9cbe520?mediaType=png)|13,152||18-29|united states|
+|Assemble The Agency|82.00 USD|[148](https://www.snap.com/political-ads/asset/4d51d3aa8e1b97876c3469029fcf1972b03c1c9dfa0a6cfc01eccde5bbb54695?mediaType=png)|12,975||18-29|united states|
+|Assemble The Agency|97.00 USD|[149](https://www.snap.com/political-ads/asset/4f15e31b699c1caac6b81d0ed0e4d6f6929ef605d827b243d2603123f0b91f5d?mediaType=mp4)|12,600||18-29|united states|
+|Assemble The Agency|118.00 USD|[150](https://www.snap.com/political-ads/asset/92d713904bf662c174d6479013a63f9fcf6f965b408b88115203ada1b38e39bc?mediaType=png)|10,494||18-29|united states|
+|Assemble The Agency|66.00 USD|[151](https://www.snap.com/political-ads/asset/67305119140ebd031631b40124792f991822da9d3e8807334c82aa3953b3a103?mediaType=png)|10,396||18-29|united states|
+|Assemble The Agency|87.00 USD|[152](https://www.snap.com/political-ads/asset/3926dcf00009769163774d85af79340629a9d93fa69b97e37aedaf729245d053?mediaType=mp4)|10,068||18-29|united states|
+|Assemble The Agency|66.00 USD|[153](https://www.snap.com/political-ads/asset/5d319b367b8df17661eed9a80e7ffdc14e0d10b2320c6666f67a58484f7fb860?mediaType=png)|9,365||18-29|united states|
+|Assemble The Agency|77.00 USD|[154](https://www.snap.com/political-ads/asset/98821503095c1763004398d192dfee697bd3b975e827ca3cacecfe3ba5242e38?mediaType=mp4)|9,013||18-29|united states|
+|Assemble The Agency|63.00 USD|[155](https://www.snap.com/political-ads/asset/4d51d3aa8e1b97876c3469029fcf1972b03c1c9dfa0a6cfc01eccde5bbb54695?mediaType=png)|8,867||18-29|united states|
+|Assemble The Agency|93.00 USD|[156](https://www.snap.com/political-ads/asset/9cfe21c7ab9aac2bb6da17e94a03454789b45d8ab93996416686f9634e07a006?mediaType=png)|6,294||18-29|united states|
+|Assemble The Agency|61.00 USD|[157](https://www.snap.com/political-ads/asset/74fdc1cafc673a0921cfb1d94b43d884ae6e5397e0e62e0ac26931c7aca45e46?mediaType=png)|6,291||18-29|united states|
+|Assemble The Agency|27.00 USD|[158](https://www.snap.com/political-ads/asset/59293e183b2eec32f99d0ec8ff38e65b432b824d498569c36915c7e6b9cbe520?mediaType=png)|4,790||18-29|united states|
+|Assemble The Agency|66.00 USD|[159](https://www.snap.com/political-ads/asset/fcdde8cc12958498f870ddd7a67954a5d3435485ac3bc0734a20eff5f6c4e395?mediaType=png)|4,124||18-29|united states|
+|Assemble The Agency|33.00 USD|[160](https://www.snap.com/political-ads/asset/6ecf83319cc763d204c8bd915c222116204de1bdad9d7af611e09c629121a793?mediaType=mp4)|3,823||18-29|united states|
+|Assemble The Agency|27.00 USD|[161](https://www.snap.com/political-ads/asset/087a1e66e4b0cb169aa53d8bf0e27a99c1ccb528d83200a51c122a041bab5da7?mediaType=png)|3,376||18-29|united states|
+|Assemble The Agency|23.00 USD|[162](https://www.snap.com/political-ads/asset/e6f79b739764e6fd5bf85a3d315c5b4ff3d10aed7e762d43b34fb0bc9b6b3e28?mediaType=png)|3,212||18-29|united states|
+|Assemble The Agency|30.00 USD|[163](https://www.snap.com/political-ads/asset/667e107e727bb68ed947445b035f97ef5e398b72d37ecc860a052010a1564f5d?mediaType=mp4)|3,055||18-29|united states|
+|Assemble The Agency|26.00 USD|[164](https://www.snap.com/political-ads/asset/d8d5f3532fdce581ed5e7751f04874e0f51fdfa0a0df7e0724e9d17505634087?mediaType=mp4)|2,885||18-29|united states|
+|Assemble The Agency|18.00 USD|[165](https://www.snap.com/political-ads/asset/087a1e66e4b0cb169aa53d8bf0e27a99c1ccb528d83200a51c122a041bab5da7?mediaType=png)|2,641||18-29|united states|
+|Assemble The Agency|11.00 USD|[166](https://www.snap.com/political-ads/asset/e6f79b739764e6fd5bf85a3d315c5b4ff3d10aed7e762d43b34fb0bc9b6b3e28?mediaType=png)|1,318||18-29|united states|

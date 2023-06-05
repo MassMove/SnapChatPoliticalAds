@@ -5,8 +5,8 @@
 
 **Billing Addresses**: 
 - US
-- 1445 New York Ave NW,Washington,20005,US
 - 222 W Ontario, Suite 600,,Chicago,60654,US
+- 1445 New York Ave NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

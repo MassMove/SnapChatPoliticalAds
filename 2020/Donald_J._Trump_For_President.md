@@ -1,7 +1,7 @@
 ## 2020 - Donald J. Trump for President 
-**Spent**: 60,737.00
+**Spent**: 60,760.00
 
-**Impressions**: 3,620,403
+**Impressions**: 3,622,804
 
 **Billing Addresses**: 
 - 725 FIFTH AVENUE,NEW YORK,10022,US
@@ -102,6 +102,7 @@
 |Donald J. Trump for President: Donald J Trump for President|64.00 USD|[90](https://www.snap.com/political-ads/asset/297002763e23d7da39fa6762a91b8598db19b84563dce95178b7e8f721636d63?mediaType=mp4)|3,059||18+|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
 |Donald J. Trump for President: Donald J Trump for President|23.00 USD|[91](https://www.snap.com/political-ads/asset/dfc52767e089d399d7eb5255b76c38da29bd3a6df1f66d571eec502182b30801?mediaType=mp4)|2,742||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
 |Donald J. Trump for President: Donald J Trump for President|26.00 USD|[92](https://www.snap.com/political-ads/asset/01106fa9869e12e1a3064580ed1e47ba433426d1df76c6482873e221e4efeb19?mediaType=mp4)|2,601||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
-|Donald J. Trump for President: Donald J Trump for President|20.00 USD|[93](https://www.snap.com/political-ads/asset/dfc52767e089d399d7eb5255b76c38da29bd3a6df1f66d571eec502182b30801?mediaType=mp4)|1,932||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
-|Donald J. Trump for President: Donald J Trump for President|6.00 USD|[94](https://www.snap.com/political-ads/asset/01106fa9869e12e1a3064580ed1e47ba433426d1df76c6482873e221e4efeb19?mediaType=mp4)|964||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
-|Donald J. Trump for President: Donald J Trump for President|4.00 USD|[95](https://www.snap.com/political-ads/asset/dfc52767e089d399d7eb5255b76c38da29bd3a6df1f66d571eec502182b30801?mediaType=mp4)|524||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
+|Donald J. Trump for President: Donald J Trump for President|23.00 USD|[93](https://www.snap.com/political-ads/asset/01106fa9869e12e1a3064580ed1e47ba433426d1df76c6482873e221e4efeb19?mediaType=mp4)|2,401||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
+|Donald J. Trump for President: Donald J Trump for President|20.00 USD|[94](https://www.snap.com/political-ads/asset/dfc52767e089d399d7eb5255b76c38da29bd3a6df1f66d571eec502182b30801?mediaType=mp4)|1,932||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
+|Donald J. Trump for President: Donald J Trump for President|6.00 USD|[95](https://www.snap.com/political-ads/asset/01106fa9869e12e1a3064580ed1e47ba433426d1df76c6482873e221e4efeb19?mediaType=mp4)|964||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|
+|Donald J. Trump for President: Donald J Trump for President|4.00 USD|[96](https://www.snap.com/political-ads/asset/dfc52767e089d399d7eb5255b76c38da29bd3a6df1f66d571eec502182b30801?mediaType=mp4)|524||18-45|united states|"725 FIFTH AVENUE,NEW YORK,10022,US"|

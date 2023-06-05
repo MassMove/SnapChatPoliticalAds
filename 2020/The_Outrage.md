@@ -1,7 +1,7 @@
 ## 2020 - The Outrage 
-**Spent**: 1,466.00
+**Spent**: 1,486.00
 
-**Impressions**: 200,743
+**Impressions**: 205,240
 
 **Billing Addresses**: US
 
@@ -23,36 +23,37 @@
 |Search for Businesses  LLC|31.00 USD|[13](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|4,993|FEMALE|25+|united states|
 |Search for Businesses  LLC|58.00 USD|[14](https://www.snap.com/political-ads/asset/3c9f298aa25077c68d1e681613d1b9b7b9efbe68e65dca8fcadc0c5aff2e7d9a?mediaType=png)|4,987|FEMALE|25+|united states|
 |Search for Businesses  LLC|35.00 USD|[15](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|4,783|FEMALE|25+|united states|
-|Search for Businesses  LLC|40.00 USD|[16](https://www.snap.com/political-ads/asset/0a7f2b05c19687737bb75390906ca232293f0335c731e5a9c9345e255984e586?mediaType=png)|3,824|FEMALE|25+|united states|
-|Search for Businesses  LLC|16.00 USD|[17](https://www.snap.com/political-ads/asset/ae8ba15482b3a739dfc0db46bc6d6a2512b72c2ccda8bc3541e99779f8c11054?mediaType=png)|3,426|FEMALE|25+|united states|
-|Search for Businesses  LLC|20.00 USD|[18](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|3,267|FEMALE|25+|united states|
-|Search for Businesses  LLC|17.00 USD|[19](https://www.snap.com/political-ads/asset/4e34320a0f7a1b5b1d732323563748028d26978cb1090e90f8d8ebaed01a05cf?mediaType=png)|3,024|FEMALE|25+|united states|
-|Search for Businesses  LLC|16.00 USD|[20](https://www.snap.com/political-ads/asset/938f3bff1984b723d68e712b5212c116658a8eddff9f93db4c6eb8a7fafdd383?mediaType=png)|2,980|FEMALE|25+|united states|
-|Search for Businesses  LLC|11.00 USD|[21](https://www.snap.com/political-ads/asset/16fd7fd09ca5c0e80d8932b9545af69f20ee675c91ca468761a391aa36e856cb?mediaType=png)|2,612|FEMALE|25+|united states|
-|Search for Businesses  LLC|14.00 USD|[22](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|2,356|FEMALE|25+|united states|
-|Search for Businesses  LLC|19.00 USD|[23](https://www.snap.com/political-ads/asset/51c244ac8634413c9453561c204ed71cbf42b90cadb126d5e617e9189d88d907?mediaType=png)|2,166|FEMALE|25+|united states|
-|Search for Businesses  LLC|10.00 USD|[24](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|2,068|FEMALE|25+|united states|
-|Search for Businesses  LLC|10.00 USD|[25](https://www.snap.com/political-ads/asset/08c7756ec6c412f0feb45ba46c072183806511218bcb293d62fb8d283ee287c6?mediaType=png)|2,065|FEMALE|25+|united states|
-|Search for Businesses  LLC|21.00 USD|[26](https://www.snap.com/political-ads/asset/a044bdaee693c1d407c4ca83ed9c847d8fe4cc562b85a94dd04eebbe304f674e?mediaType=png)|1,993|FEMALE|25+|united states|
-|Search for Businesses  LLC|9.00 USD|[27](https://www.snap.com/political-ads/asset/79fd37262753970ce657b323c3d7854af0496177ae5a829c008efe0c9dcd0258?mediaType=png)|1,985|FEMALE|25+|united states|
-|Search for Businesses  LLC|10.00 USD|[28](https://www.snap.com/political-ads/asset/4142492806d2500821e532637204ff5da975ef87ba90854e3433777f6ee9a8bd?mediaType=png)|1,967|FEMALE|25+|united states|
-|Search for Businesses  LLC|10.00 USD|[29](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|1,859|FEMALE|25+|united states|
-|Search for Businesses  LLC|12.00 USD|[30](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|1,830|FEMALE|25+|united states|
-|Search for Businesses  LLC|11.00 USD|[31](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|1,322|FEMALE|25+|united states|
-|Search for Businesses  LLC|15.00 USD|[32](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|1,291|FEMALE|25+|united states|
-|Search for Businesses  LLC|6.00 USD|[33](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|970|FEMALE|25+|united states|
-|Search for Businesses  LLC|8.00 USD|[34](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|808|FEMALE|25+|united states|
-|Search for Businesses  LLC|4.00 USD|[35](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|806|FEMALE|25+|united states|
-|Search for Businesses  LLC|4.00 USD|[36](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|763|FEMALE|25+|united states|
-|Search for Businesses  LLC|4.00 USD|[37](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|748|FEMALE|25+|united states|
-|Search for Businesses  LLC|4.00 USD|[38](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|744|FEMALE|25+|united states|
-|Search for Businesses  LLC|6.00 USD|[39](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|707|FEMALE|25+|united states|
-|Search for Businesses  LLC|5.00 USD|[40](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|690|FEMALE|25+|united states|
-|Search for Businesses  LLC|3.00 USD|[41](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|514|FEMALE|25+|united states|
-|Search for Businesses  LLC|3.00 USD|[42](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|399|FEMALE|25+|united states|
-|Search for Businesses  LLC|2.00 USD|[43](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|258|FEMALE|25+|united states|
-|Search for Businesses  LLC|1.00 USD|[44](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|94|FEMALE|25+|united states|
-|Search for Businesses  LLC|0.00 USD|[45](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|76|FEMALE|25+|united states|
-|Search for Businesses  LLC|1.00 USD|[46](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|75|FEMALE|25+|united states|
-|Search for Businesses  LLC|0.00 USD|[47](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|75|FEMALE|25+|united states|
-|Search for Businesses  LLC|0.00 USD|[48](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|53|FEMALE|25+|united states|
+|Search for Businesses  LLC|20.00 USD|[16](https://www.snap.com/political-ads/asset/96ccc32af2f9ab3f5407b00d58173a95fe9160fb075ea98f18abf0189248a7ed?mediaType=png)|4,497|FEMALE|25+|united states|
+|Search for Businesses  LLC|40.00 USD|[17](https://www.snap.com/political-ads/asset/0a7f2b05c19687737bb75390906ca232293f0335c731e5a9c9345e255984e586?mediaType=png)|3,824|FEMALE|25+|united states|
+|Search for Businesses  LLC|16.00 USD|[18](https://www.snap.com/political-ads/asset/ae8ba15482b3a739dfc0db46bc6d6a2512b72c2ccda8bc3541e99779f8c11054?mediaType=png)|3,426|FEMALE|25+|united states|
+|Search for Businesses  LLC|20.00 USD|[19](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|3,267|FEMALE|25+|united states|
+|Search for Businesses  LLC|17.00 USD|[20](https://www.snap.com/political-ads/asset/4e34320a0f7a1b5b1d732323563748028d26978cb1090e90f8d8ebaed01a05cf?mediaType=png)|3,024|FEMALE|25+|united states|
+|Search for Businesses  LLC|16.00 USD|[21](https://www.snap.com/political-ads/asset/938f3bff1984b723d68e712b5212c116658a8eddff9f93db4c6eb8a7fafdd383?mediaType=png)|2,980|FEMALE|25+|united states|
+|Search for Businesses  LLC|11.00 USD|[22](https://www.snap.com/political-ads/asset/16fd7fd09ca5c0e80d8932b9545af69f20ee675c91ca468761a391aa36e856cb?mediaType=png)|2,612|FEMALE|25+|united states|
+|Search for Businesses  LLC|14.00 USD|[23](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|2,356|FEMALE|25+|united states|
+|Search for Businesses  LLC|19.00 USD|[24](https://www.snap.com/political-ads/asset/51c244ac8634413c9453561c204ed71cbf42b90cadb126d5e617e9189d88d907?mediaType=png)|2,166|FEMALE|25+|united states|
+|Search for Businesses  LLC|10.00 USD|[25](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|2,068|FEMALE|25+|united states|
+|Search for Businesses  LLC|10.00 USD|[26](https://www.snap.com/political-ads/asset/08c7756ec6c412f0feb45ba46c072183806511218bcb293d62fb8d283ee287c6?mediaType=png)|2,065|FEMALE|25+|united states|
+|Search for Businesses  LLC|21.00 USD|[27](https://www.snap.com/political-ads/asset/a044bdaee693c1d407c4ca83ed9c847d8fe4cc562b85a94dd04eebbe304f674e?mediaType=png)|1,993|FEMALE|25+|united states|
+|Search for Businesses  LLC|9.00 USD|[28](https://www.snap.com/political-ads/asset/79fd37262753970ce657b323c3d7854af0496177ae5a829c008efe0c9dcd0258?mediaType=png)|1,985|FEMALE|25+|united states|
+|Search for Businesses  LLC|10.00 USD|[29](https://www.snap.com/political-ads/asset/4142492806d2500821e532637204ff5da975ef87ba90854e3433777f6ee9a8bd?mediaType=png)|1,967|FEMALE|25+|united states|
+|Search for Businesses  LLC|10.00 USD|[30](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|1,859|FEMALE|25+|united states|
+|Search for Businesses  LLC|12.00 USD|[31](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|1,830|FEMALE|25+|united states|
+|Search for Businesses  LLC|11.00 USD|[32](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|1,322|FEMALE|25+|united states|
+|Search for Businesses  LLC|15.00 USD|[33](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|1,291|FEMALE|25+|united states|
+|Search for Businesses  LLC|6.00 USD|[34](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|970|FEMALE|25+|united states|
+|Search for Businesses  LLC|8.00 USD|[35](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|808|FEMALE|25+|united states|
+|Search for Businesses  LLC|4.00 USD|[36](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|806|FEMALE|25+|united states|
+|Search for Businesses  LLC|4.00 USD|[37](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|763|FEMALE|25+|united states|
+|Search for Businesses  LLC|4.00 USD|[38](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|748|FEMALE|25+|united states|
+|Search for Businesses  LLC|4.00 USD|[39](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|744|FEMALE|25+|united states|
+|Search for Businesses  LLC|6.00 USD|[40](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|707|FEMALE|25+|united states|
+|Search for Businesses  LLC|5.00 USD|[41](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|690|FEMALE|25+|united states|
+|Search for Businesses  LLC|3.00 USD|[42](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|514|FEMALE|25+|united states|
+|Search for Businesses  LLC|3.00 USD|[43](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|399|FEMALE|25+|united states|
+|Search for Businesses  LLC|2.00 USD|[44](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|258|FEMALE|25+|united states|
+|Search for Businesses  LLC|1.00 USD|[45](https://www.snap.com/political-ads/asset/b9774e7f11e0b2e5976bc29237e6cc011278c40c8b3eca6b2f8a619c6f5c9369?mediaType=png)|94|FEMALE|25+|united states|
+|Search for Businesses  LLC|0.00 USD|[46](https://www.snap.com/political-ads/asset/7a53d75828d7cfe5a37d476f3f01fb01b89a8af068a54700843e7aa4a5bf35dc?mediaType=png)|76|FEMALE|25+|united states|
+|Search for Businesses  LLC|1.00 USD|[47](https://www.snap.com/political-ads/asset/8513d45bb96abaf07bd040347b57aa6c383deb090080cd08bcf1b1bffb8d0525?mediaType=png)|75|FEMALE|25+|united states|
+|Search for Businesses  LLC|0.00 USD|[48](https://www.snap.com/political-ads/asset/d946eb2d287c14349dea69471df9c5dff932f603270c8e59472ec48637b4f2d4?mediaType=png)|75|FEMALE|25+|united states|
+|Search for Businesses  LLC|0.00 USD|[49](https://www.snap.com/political-ads/asset/09ee7385004a2b26853051d86a080a88cec1b0e1a30a96ab227e55714d88d123?mediaType=png)|53|FEMALE|25+|united states|

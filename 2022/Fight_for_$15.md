@@ -1,14 +1,14 @@
 ## 2022 - Fight for $15 
-**Spent**: 94,681.00
+**Spent**: 97,150.00
 
-**Impressions**: 18,719,256
+**Impressions**: 19,167,655
 
 **Billing Addresses**: 1901 L St NW,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|M&R Strategic Services  Inc.|42,417.00 USD|[0](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|8,287,289||16+|united states|
-|M&R Strategic Services  Inc.|35,467.00 USD|[1](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|7,241,346||16+|united states|
+|M&R Strategic Services  Inc.|44,028.00 USD|[0](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|8,540,831||16+|united states|
+|M&R Strategic Services  Inc.|36,325.00 USD|[1](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|7,436,203||16+|united states|
 |M&R Strategic Services  Inc.|2,764.00 USD|[2](https://www.snap.com/political-ads/asset/ae696f1bbc488a374acc4646f5851eb5af167db56758d8edeab8276b086857b2?mediaType=mp4)|568,811||16+|united states|
 |M&R Strategic Services  Inc.|533.00 USD|[3](https://www.snap.com/political-ads/asset/22e599930cdee9bc48f807975debaf5f293bdcf81a1079a45fc6994abf0f13d4?mediaType=mp4)|351,750||16+|united states|
 |M&R Strategic Services  Inc.|2,005.00 USD|[4](https://www.snap.com/political-ads/asset/d7123a30dc62ddf17148d346ea9136231cae6b114a71b503df4a3d688ed47ca3?mediaType=mp4)|346,279||16+|united states|

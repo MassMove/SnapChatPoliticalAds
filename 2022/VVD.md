@@ -4,8 +4,8 @@
 **Impressions**: 1,734,509
 
 **Billing Addresses**: 
-- NL
 - Mauritskade 21,Den Haag,2514 HD,NL
+- NL
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

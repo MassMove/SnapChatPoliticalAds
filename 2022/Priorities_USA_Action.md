@@ -1,7 +1,7 @@
 ## 2022 - Priorities USA Action 
-**Spent**: 155,402.00
+**Spent**: 155,739.00
 
-**Impressions**: 11,545,206
+**Impressions**: 11,560,903
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
@@ -116,34 +116,35 @@
 |Gambit Strategies|261.00 USD|[106](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|18,101||18-34|united states|
 |Gambit Strategies: Plan My Ballot|97.00 USD|[107](https://www.snap.com/political-ads/asset/2b078a4919228526f7cfe051baf5704a2e312719c20af9c59d544f96661a629c?mediaType=mp4)|17,345||18-34|united states|
 |Gambit Strategies: Plan My Ballot|97.00 USD|[108](https://www.snap.com/political-ads/asset/22076188374105e3778d0d1361b53881384178569ec688e4c173dd0bd7eb3a08?mediaType=mp4)|16,429||18-34|united states|
-|Gambit Strategies|279.00 USD|[109](https://www.snap.com/political-ads/asset/ac0424c187bf9cd9be0e8fb31f703d130373a1bf52057542a689b8ec4447b2c2?mediaType=png)|14,861||18-34|united states|
-|Gambit Strategies|244.00 USD|[110](https://www.snap.com/political-ads/asset/35926e15debbbbdf39401ddec276fb0be17992c32c8e2cbd827833192ec10783?mediaType=png)|14,464||18-34|united states|
-|Gambit Strategies|296.00 USD|[111](https://www.snap.com/political-ads/asset/71988499d0c63b64306f59b8ff8378b44e9d2723e145b159c01b7ba7f3c7ce35?mediaType=png)|14,366||18-34|united states|
-|Gambit Strategies|191.00 USD|[112](https://www.snap.com/political-ads/asset/11f9111059db4ce959eeb641825e5a90f928a0e224ab34ed4f7065d3151ee601?mediaType=png)|13,996||18-34|united states|
-|Gambit Strategies|214.00 USD|[113](https://www.snap.com/political-ads/asset/6f060156fd1f96c46a85ab67b61801a4ac2bde160a1b812724983dd0f10e47b2?mediaType=jpeg)|13,939||18-34|united states|
-|Gambit Strategies|183.00 USD|[114](https://www.snap.com/political-ads/asset/542ef67aaabb677091a2215f98d3f375a7b3c84ebede4a302791e7e34537c646?mediaType=mp4)|13,575||18-34|united states|
-|Gambit Strategies|258.00 USD|[115](https://www.snap.com/political-ads/asset/6f060156fd1f96c46a85ab67b61801a4ac2bde160a1b812724983dd0f10e47b2?mediaType=jpeg)|13,431||18-34|united states|
-|Gambit Strategies|237.00 USD|[116](https://www.snap.com/political-ads/asset/010fbd5d4c4cb5bd1fd6ad429909b42e621c591ddf92858fa6acf97f460b5781?mediaType=png)|13,336||18-34|united states|
-|Gambit Strategies: Plan My Ballot|81.00 USD|[117](https://www.snap.com/political-ads/asset/0e144045fb4935e587b65239a70424157c9d82083a639f19b4dfde71650f18ab?mediaType=mp4)|13,202||18-34|united states|
-|Gambit Strategies|193.00 USD|[118](https://www.snap.com/political-ads/asset/a53d1afa132c568ffe7ded6a89e9075c81163baaf8de9fff3bef2dc129c25801?mediaType=png)|12,999||18-34|united states|
-|Gambit Strategies: Plan My Ballot|79.00 USD|[119](https://www.snap.com/political-ads/asset/9f4936b0edcc52cfe308c41d3f6fb3a01414510e23a79f1bc255d2cb9f430448?mediaType=mp4)|12,997||18-34|united states|
-|Gambit Strategies|200.00 USD|[120](https://www.snap.com/political-ads/asset/6f060156fd1f96c46a85ab67b61801a4ac2bde160a1b812724983dd0f10e47b2?mediaType=jpeg)|12,814||18-34|united states|
-|Gambit Strategies|185.00 USD|[121](https://www.snap.com/political-ads/asset/010fbd5d4c4cb5bd1fd6ad429909b42e621c591ddf92858fa6acf97f460b5781?mediaType=png)|12,335||18-34|united states|
-|Gambit Strategies|205.00 USD|[122](https://www.snap.com/political-ads/asset/35926e15debbbbdf39401ddec276fb0be17992c32c8e2cbd827833192ec10783?mediaType=png)|11,930||18-34|united states|
-|Gambit Strategies|175.00 USD|[123](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|11,695||18-34|united states|
-|Gambit Strategies: Plan My Ballot|71.00 USD|[124](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|11,658||18-34|united states|
-|Gambit Strategies|175.00 USD|[125](https://www.snap.com/political-ads/asset/71988499d0c63b64306f59b8ff8378b44e9d2723e145b159c01b7ba7f3c7ce35?mediaType=png)|11,560||18-34|united states|
-|Gambit Strategies|183.00 USD|[126](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|11,390||18-34|united states|
-|Gambit Strategies|157.00 USD|[127](https://www.snap.com/political-ads/asset/35926e15debbbbdf39401ddec276fb0be17992c32c8e2cbd827833192ec10783?mediaType=png)|10,934||18-34|united states|
-|Gambit Strategies|194.00 USD|[128](https://www.snap.com/political-ads/asset/fc8fc816c34d45d4b51aff6ee9ba611f36fcf7ae21bbe2ccaf1699e86979bd74?mediaType=png)|10,898||18-34|united states|
-|Gambit Strategies: Plan My Ballot|62.00 USD|[129](https://www.snap.com/political-ads/asset/9f4936b0edcc52cfe308c41d3f6fb3a01414510e23a79f1bc255d2cb9f430448?mediaType=mp4)|10,697||18-34|united states|
-|Gambit Strategies: Plan My Ballot|63.00 USD|[130](https://www.snap.com/political-ads/asset/11f9111059db4ce959eeb641825e5a90f928a0e224ab34ed4f7065d3151ee601?mediaType=png)|10,687||18-34|united states|
-|Gambit Strategies|189.00 USD|[131](https://www.snap.com/political-ads/asset/ac0424c187bf9cd9be0e8fb31f703d130373a1bf52057542a689b8ec4447b2c2?mediaType=png)|10,523||18-34|united states|
-|Gambit Strategies: Plan My Ballot|61.00 USD|[132](https://www.snap.com/political-ads/asset/11f9111059db4ce959eeb641825e5a90f928a0e224ab34ed4f7065d3151ee601?mediaType=png)|9,713||18-34|united states|
-|Gambit Strategies: Plan My Ballot|54.00 USD|[133](https://www.snap.com/political-ads/asset/22076188374105e3778d0d1361b53881384178569ec688e4c173dd0bd7eb3a08?mediaType=mp4)|9,266||18-34|united states|
-|Gambit Strategies: Plan My Ballot|57.00 USD|[134](https://www.snap.com/political-ads/asset/542ef67aaabb677091a2215f98d3f375a7b3c84ebede4a302791e7e34537c646?mediaType=mp4)|9,140||18-34|united states|
-|Gambit Strategies: Plan My Ballot|48.00 USD|[135](https://www.snap.com/political-ads/asset/2b078a4919228526f7cfe051baf5704a2e312719c20af9c59d544f96661a629c?mediaType=mp4)|8,551||18-34|united states|
-|Gambit Strategies: Plan My Ballot|49.00 USD|[136](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|8,386||18-34|united states|
-|Gambit Strategies: Plan My Ballot|44.00 USD|[137](https://www.snap.com/political-ads/asset/542ef67aaabb677091a2215f98d3f375a7b3c84ebede4a302791e7e34537c646?mediaType=mp4)|7,184||18-34|united states|
-|Gambit Strategies: Plan My Ballot|44.00 USD|[138](https://www.snap.com/political-ads/asset/4bbc3f896616ed870af4320c6614d52c1d6f0abb8541884feb8ac989a3bc2f20?mediaType=mp4)|7,048||18-34|united states|
-|Gambit Strategies: Plan My Ballot|32.00 USD|[139](https://www.snap.com/political-ads/asset/ac0424c187bf9cd9be0e8fb31f703d130373a1bf52057542a689b8ec4447b2c2?mediaType=png)|4,800||18-34|united states|
+|Gambit Strategies|337.00 USD|[109](https://www.snap.com/political-ads/asset/909049dafe76f763e46b7a6a323f1f6aa08a1ba48606418a6ec6cf5f38861b03?mediaType=png)|15,697||18-34|united states|
+|Gambit Strategies|279.00 USD|[110](https://www.snap.com/political-ads/asset/ac0424c187bf9cd9be0e8fb31f703d130373a1bf52057542a689b8ec4447b2c2?mediaType=png)|14,861||18-34|united states|
+|Gambit Strategies|244.00 USD|[111](https://www.snap.com/political-ads/asset/35926e15debbbbdf39401ddec276fb0be17992c32c8e2cbd827833192ec10783?mediaType=png)|14,464||18-34|united states|
+|Gambit Strategies|296.00 USD|[112](https://www.snap.com/political-ads/asset/71988499d0c63b64306f59b8ff8378b44e9d2723e145b159c01b7ba7f3c7ce35?mediaType=png)|14,366||18-34|united states|
+|Gambit Strategies|191.00 USD|[113](https://www.snap.com/political-ads/asset/11f9111059db4ce959eeb641825e5a90f928a0e224ab34ed4f7065d3151ee601?mediaType=png)|13,996||18-34|united states|
+|Gambit Strategies|214.00 USD|[114](https://www.snap.com/political-ads/asset/6f060156fd1f96c46a85ab67b61801a4ac2bde160a1b812724983dd0f10e47b2?mediaType=jpeg)|13,939||18-34|united states|
+|Gambit Strategies|183.00 USD|[115](https://www.snap.com/political-ads/asset/542ef67aaabb677091a2215f98d3f375a7b3c84ebede4a302791e7e34537c646?mediaType=mp4)|13,575||18-34|united states|
+|Gambit Strategies|258.00 USD|[116](https://www.snap.com/political-ads/asset/6f060156fd1f96c46a85ab67b61801a4ac2bde160a1b812724983dd0f10e47b2?mediaType=jpeg)|13,431||18-34|united states|
+|Gambit Strategies|237.00 USD|[117](https://www.snap.com/political-ads/asset/010fbd5d4c4cb5bd1fd6ad429909b42e621c591ddf92858fa6acf97f460b5781?mediaType=png)|13,336||18-34|united states|
+|Gambit Strategies: Plan My Ballot|81.00 USD|[118](https://www.snap.com/political-ads/asset/0e144045fb4935e587b65239a70424157c9d82083a639f19b4dfde71650f18ab?mediaType=mp4)|13,202||18-34|united states|
+|Gambit Strategies|193.00 USD|[119](https://www.snap.com/political-ads/asset/a53d1afa132c568ffe7ded6a89e9075c81163baaf8de9fff3bef2dc129c25801?mediaType=png)|12,999||18-34|united states|
+|Gambit Strategies: Plan My Ballot|79.00 USD|[120](https://www.snap.com/political-ads/asset/9f4936b0edcc52cfe308c41d3f6fb3a01414510e23a79f1bc255d2cb9f430448?mediaType=mp4)|12,997||18-34|united states|
+|Gambit Strategies|200.00 USD|[121](https://www.snap.com/political-ads/asset/6f060156fd1f96c46a85ab67b61801a4ac2bde160a1b812724983dd0f10e47b2?mediaType=jpeg)|12,814||18-34|united states|
+|Gambit Strategies|185.00 USD|[122](https://www.snap.com/political-ads/asset/010fbd5d4c4cb5bd1fd6ad429909b42e621c591ddf92858fa6acf97f460b5781?mediaType=png)|12,335||18-34|united states|
+|Gambit Strategies|205.00 USD|[123](https://www.snap.com/political-ads/asset/35926e15debbbbdf39401ddec276fb0be17992c32c8e2cbd827833192ec10783?mediaType=png)|11,930||18-34|united states|
+|Gambit Strategies|175.00 USD|[124](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|11,695||18-34|united states|
+|Gambit Strategies: Plan My Ballot|71.00 USD|[125](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|11,658||18-34|united states|
+|Gambit Strategies|175.00 USD|[126](https://www.snap.com/political-ads/asset/71988499d0c63b64306f59b8ff8378b44e9d2723e145b159c01b7ba7f3c7ce35?mediaType=png)|11,560||18-34|united states|
+|Gambit Strategies|183.00 USD|[127](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|11,390||18-34|united states|
+|Gambit Strategies|157.00 USD|[128](https://www.snap.com/political-ads/asset/35926e15debbbbdf39401ddec276fb0be17992c32c8e2cbd827833192ec10783?mediaType=png)|10,934||18-34|united states|
+|Gambit Strategies|194.00 USD|[129](https://www.snap.com/political-ads/asset/fc8fc816c34d45d4b51aff6ee9ba611f36fcf7ae21bbe2ccaf1699e86979bd74?mediaType=png)|10,898||18-34|united states|
+|Gambit Strategies: Plan My Ballot|62.00 USD|[130](https://www.snap.com/political-ads/asset/9f4936b0edcc52cfe308c41d3f6fb3a01414510e23a79f1bc255d2cb9f430448?mediaType=mp4)|10,697||18-34|united states|
+|Gambit Strategies: Plan My Ballot|63.00 USD|[131](https://www.snap.com/political-ads/asset/11f9111059db4ce959eeb641825e5a90f928a0e224ab34ed4f7065d3151ee601?mediaType=png)|10,687||18-34|united states|
+|Gambit Strategies|189.00 USD|[132](https://www.snap.com/political-ads/asset/ac0424c187bf9cd9be0e8fb31f703d130373a1bf52057542a689b8ec4447b2c2?mediaType=png)|10,523||18-34|united states|
+|Gambit Strategies: Plan My Ballot|61.00 USD|[133](https://www.snap.com/political-ads/asset/11f9111059db4ce959eeb641825e5a90f928a0e224ab34ed4f7065d3151ee601?mediaType=png)|9,713||18-34|united states|
+|Gambit Strategies: Plan My Ballot|54.00 USD|[134](https://www.snap.com/political-ads/asset/22076188374105e3778d0d1361b53881384178569ec688e4c173dd0bd7eb3a08?mediaType=mp4)|9,266||18-34|united states|
+|Gambit Strategies: Plan My Ballot|57.00 USD|[135](https://www.snap.com/political-ads/asset/542ef67aaabb677091a2215f98d3f375a7b3c84ebede4a302791e7e34537c646?mediaType=mp4)|9,140||18-34|united states|
+|Gambit Strategies: Plan My Ballot|48.00 USD|[136](https://www.snap.com/political-ads/asset/2b078a4919228526f7cfe051baf5704a2e312719c20af9c59d544f96661a629c?mediaType=mp4)|8,551||18-34|united states|
+|Gambit Strategies: Plan My Ballot|49.00 USD|[137](https://www.snap.com/political-ads/asset/dd38c4f2f694d4a869a8c9f742d09c4e1b192e563d0deb22721428ae96b7e431?mediaType=png)|8,386||18-34|united states|
+|Gambit Strategies: Plan My Ballot|44.00 USD|[138](https://www.snap.com/political-ads/asset/542ef67aaabb677091a2215f98d3f375a7b3c84ebede4a302791e7e34537c646?mediaType=mp4)|7,184||18-34|united states|
+|Gambit Strategies: Plan My Ballot|44.00 USD|[139](https://www.snap.com/political-ads/asset/4bbc3f896616ed870af4320c6614d52c1d6f0abb8541884feb8ac989a3bc2f20?mediaType=mp4)|7,048||18-34|united states|
+|Gambit Strategies: Plan My Ballot|32.00 USD|[140](https://www.snap.com/political-ads/asset/ac0424c187bf9cd9be0e8fb31f703d130373a1bf52057542a689b8ec4447b2c2?mediaType=png)|4,800||18-34|united states|
