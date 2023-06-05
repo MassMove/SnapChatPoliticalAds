@@ -4,8 +4,8 @@
 **Impressions**: 586,130
 
 **Billing Addresses**: 
-- 1220 SW Morrison St Suite 910,,Portland ,97205,US
 - US
+- 1220 SW Morrison St Suite 910,,Portland ,97205,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

@@ -4,10 +4,10 @@
 **Impressions**: 75,463,713
 
 **Billing Addresses**: 
-- 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
-- 450 W 33rd St,New York,10001,US
-- 345 Whitney Ave.,New Haven,06511,US
 - 235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US
+- 345 Whitney Ave.,New Haven,06511,US
+- 450 W 33rd St,New York,10001,US
+- 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

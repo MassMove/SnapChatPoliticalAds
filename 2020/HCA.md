@@ -1,7 +1,7 @@
 ## 2020 - HCA 
-**Spent**: 47,391.00
+**Spent**: 48,995.00
 
-**Impressions**: 14,819,950
+**Impressions**: 14,987,383
 
 **Billing Addresses**: 315 W Riverside,Spokane,99201,US
 
@@ -21,14 +21,14 @@
 |Desautel Hege|928.00 USD|[11](https://www.snap.com/political-ads/asset/be381685685c5a738aad5b191041c7455f875313c7f989dd6169dc813fbc6daf?mediaType=mp4)|463,124||18-24|united states|
 |Desautel Hege|600.00 USD|[12](https://www.snap.com/political-ads/asset/182a57e0888f43bc3e494523a8e302ed6122f71e3dfde00599a766a0dd1fa1d6?mediaType=mp4)|300,414||18-24|united states|
 |Desautel Hege|2,568.00 USD|[13](https://www.snap.com/political-ads/asset/21efa158b581455f497e4e262535a8edcc84157cee318f43215391be6ef8f62c?mediaType=mp4)|266,411||18-24|united states|
-|Desautel Hege|2,534.00 USD|[14](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|264,810||18-24|united states|
-|Desautel Hege|2,529.00 USD|[15](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|264,344||18-24|united states|
-|Desautel Hege|2,526.00 USD|[16](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|262,146||18-24|united states|
-|Desautel Hege|2,504.00 USD|[17](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|259,863||18-24|united states|
-|Desautel Hege|2,273.00 USD|[18](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|237,475||18-24|united states|
-|Desautel Hege|2,265.00 USD|[19](https://www.snap.com/political-ads/asset/21efa158b581455f497e4e262535a8edcc84157cee318f43215391be6ef8f62c?mediaType=mp4)|236,635||18-24|united states|
-|Desautel Hege|2,259.00 USD|[20](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|235,985||18-24|united states|
-|Desautel Hege|466.00 USD|[21](https://www.snap.com/political-ads/asset/958f03e0b048887a9369e3f2044a8b3f70432f40e445218220f0f40b68d52ad1?mediaType=mp4)|227,292||18-24|united states|
-|Desautel Hege|935.00 USD|[22](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|97,854||18-24|united states|
-|Desautel Hege|932.00 USD|[23](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|97,593||18-24|united states|
+|Desautel Hege|2,536.00 USD|[14](https://www.snap.com/political-ads/asset/21efa158b581455f497e4e262535a8edcc84157cee318f43215391be6ef8f62c?mediaType=mp4)|265,026||18-24|united states|
+|Desautel Hege|2,534.00 USD|[15](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|264,810||18-24|united states|
+|Desautel Hege|2,529.00 USD|[16](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|264,344||18-24|united states|
+|Desautel Hege|2,526.00 USD|[17](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|262,146||18-24|united states|
+|Desautel Hege|2,504.00 USD|[18](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|259,863||18-24|united states|
+|Desautel Hege|2,273.00 USD|[19](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|237,475||18-24|united states|
+|Desautel Hege|2,265.00 USD|[20](https://www.snap.com/political-ads/asset/21efa158b581455f497e4e262535a8edcc84157cee318f43215391be6ef8f62c?mediaType=mp4)|236,635||18-24|united states|
+|Desautel Hege|2,259.00 USD|[21](https://www.snap.com/political-ads/asset/2884cce15513986090a6fd36d6ca196b90bf46193174d52ffa6f7fad0842cf6a?mediaType=mp4)|235,985||18-24|united states|
+|Desautel Hege|466.00 USD|[22](https://www.snap.com/political-ads/asset/958f03e0b048887a9369e3f2044a8b3f70432f40e445218220f0f40b68d52ad1?mediaType=mp4)|227,292||18-24|united states|
+|Desautel Hege|935.00 USD|[23](https://www.snap.com/political-ads/asset/79566636377c471b07b77a6bc6dc91c7cd3bd6577579f92caddba02efc029c48?mediaType=mp4)|97,854||18-24|united states|
 |Desautel Hege|931.00 USD|[24](https://www.snap.com/political-ads/asset/21efa158b581455f497e4e262535a8edcc84157cee318f43215391be6ef8f62c?mediaType=mp4)|97,524||18-24|united states|

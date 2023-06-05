@@ -1,7 +1,7 @@
 ## 2022 - Clean Virginia Fund 
-**Spent**: 18.00
+**Spent**: 19.00
 
-**Impressions**: 2,672
+**Impressions**: 2,758
 
 **Billing Addresses**: 1317 Potomac Ave SE,Washington,20003,US
 
@@ -15,3 +15,4 @@
 |COMPETE Digital LLC|2.00 USD|[5](https://www.snap.com/political-ads/asset/d47b0901ced96732c2ae898ced947c2f35722725a5065e13813eaaf8f387d9ee?mediaType=jpg)|193||18+|united states|
 |COMPETE Digital LLC|1.00 USD|[6](https://www.snap.com/political-ads/asset/bae8e9e81b4e9126ebf927b7b2a5f3a0f9753bfdbf8047fbacb2c3d8dfc95287?mediaType=jpg)|160||18+|united states|
 |COMPETE Digital LLC|1.00 USD|[7](https://www.snap.com/political-ads/asset/3e4a5ccafba05cedca7dfb605d4fd3244b62fb2b28b7ff7b6c7335a580d721c0?mediaType=jpg)|134||18+|united states|
+|COMPETE Digital LLC|1.00 USD|[8](https://www.snap.com/political-ads/asset/abeeb33367340a66370168cdf6d7b981df4ead6ecd7082760db91452ec3dbe47?mediaType=jpg)|86||18+|united states|

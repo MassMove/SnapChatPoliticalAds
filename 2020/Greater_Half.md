@@ -1,7 +1,7 @@
 ## 2020 - Greater Half 
-**Spent**: 27,274.00
+**Spent**: 27,247.00
 
-**Impressions**: 21,211,328
+**Impressions**: 21,207,523
 
 **Billing Addresses**: US
 
@@ -126,35 +126,34 @@
 |Greater Half|21.00 USD|[116](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|3,973||18+|united states|
 |Greater Half|21.00 USD|[117](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|3,956||18+|united states|
 |Greater Half|8.00 USD|[118](https://www.snap.com/political-ads/asset/6583f48dbb8a0f4ef40079d431d8dfe859e5541fdbca81d2cf6b3aa6c01b49d1?mediaType=png)|3,811||18+|united states|
-|Greater Half|27.00 USD|[119](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|3,805||18+|united states|
-|Greater Half|28.00 USD|[120](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|3,685||18+|united states|
-|Greater Half|25.00 USD|[121](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|3,624||18+|united states|
-|Greater Half|36.00 USD|[122](https://www.snap.com/political-ads/asset/0a3fbb80f3aec4ad964a680ae3938286a09d72e2add5a17013d7fd875ae5e6ff?mediaType=png)|3,552||19+|united states|
-|Greater Half|13.00 USD|[123](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|3,333||18+|united states|
-|Greater Half|20.00 USD|[124](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|3,294||18+|united states|
-|Greater Half|16.00 USD|[125](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|3,288||18+|united states|
-|Greater Half|18.00 USD|[126](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|3,111||18+|united states|
-|Greater Half|22.00 USD|[127](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|3,096||18+|united states|
-|Greater Half|11.00 USD|[128](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|2,905||18+|united states|
-|Greater Half|16.00 USD|[129](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|2,622||18+|united states|
-|Greater Half|24.00 USD|[130](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|2,443||18+|united states|
-|Greater Half|8.00 USD|[131](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|2,420||18+|united states|
-|Greater Half|12.00 USD|[132](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|2,286||18+|united states|
-|Greater Half|7.00 USD|[133](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|2,260||18+|united states|
-|Greater Half|5.00 USD|[134](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|2,202||18+|united states|
-|Greater Half|5.00 USD|[135](https://www.snap.com/political-ads/asset/0a3fbb80f3aec4ad964a680ae3938286a09d72e2add5a17013d7fd875ae5e6ff?mediaType=png)|2,177||18+|united states|
-|Greater Half|8.00 USD|[136](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|2,086||18+|united states|
-|Greater Half|6.00 USD|[137](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|1,970||18+|united states|
-|Greater Half|4.00 USD|[138](https://www.snap.com/political-ads/asset/d28bf38f3f4fd018e861553f90baf2f55f4f5b50e45ef99a4eb0526e80eb5546?mediaType=png)|1,706||18+|united states|
-|Greater Half|4.00 USD|[139](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|1,365||18+|united states|
-|Greater Half|24.00 USD|[140](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|1,109||18+|united states|
-|Greater Half|7.00 USD|[141](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|942||18+|united states|
-|Greater Half|7.00 USD|[142](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|907||18+|united states|
-|Greater Half|7.00 USD|[143](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|806||18+|united states|
-|Greater Half|0.00 USD|[144](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|42||18+|united states|
-|Greater Half|0.00 USD|[145](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|40||18+|united states|
-|Greater Half|0.00 USD|[146](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|28||18+|united states|
-|Greater Half|1.00 USD|[147](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|22||18+|united states|
-|Greater Half|0.00 USD|[148](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|12||18+|united states|
-|Greater Half|0.00 USD|[149](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|12||18+|united states|
-|Greater Half|0.00 USD|[150](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|1||18+|united states|
+|Greater Half|28.00 USD|[119](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|3,685||18+|united states|
+|Greater Half|25.00 USD|[120](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|3,624||18+|united states|
+|Greater Half|36.00 USD|[121](https://www.snap.com/political-ads/asset/0a3fbb80f3aec4ad964a680ae3938286a09d72e2add5a17013d7fd875ae5e6ff?mediaType=png)|3,552||19+|united states|
+|Greater Half|13.00 USD|[122](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|3,333||18+|united states|
+|Greater Half|20.00 USD|[123](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|3,294||18+|united states|
+|Greater Half|16.00 USD|[124](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|3,288||18+|united states|
+|Greater Half|18.00 USD|[125](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|3,111||18+|united states|
+|Greater Half|22.00 USD|[126](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|3,096||18+|united states|
+|Greater Half|11.00 USD|[127](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|2,905||18+|united states|
+|Greater Half|16.00 USD|[128](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|2,622||18+|united states|
+|Greater Half|24.00 USD|[129](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|2,443||18+|united states|
+|Greater Half|8.00 USD|[130](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|2,420||18+|united states|
+|Greater Half|12.00 USD|[131](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|2,286||18+|united states|
+|Greater Half|7.00 USD|[132](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|2,260||18+|united states|
+|Greater Half|5.00 USD|[133](https://www.snap.com/political-ads/asset/6bd6a7b40590efdb5b3ce1c182039f2a2afdbfadfc174164d4a4051cc841e5f4?mediaType=png)|2,202||18+|united states|
+|Greater Half|5.00 USD|[134](https://www.snap.com/political-ads/asset/0a3fbb80f3aec4ad964a680ae3938286a09d72e2add5a17013d7fd875ae5e6ff?mediaType=png)|2,177||18+|united states|
+|Greater Half|8.00 USD|[135](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|2,086||18+|united states|
+|Greater Half|6.00 USD|[136](https://www.snap.com/political-ads/asset/a778270d4190cdcdcfc20e71c821dbf58c48b47ad813dab4eb3b39e59c134bd1?mediaType=png)|1,970||18+|united states|
+|Greater Half|4.00 USD|[137](https://www.snap.com/political-ads/asset/d28bf38f3f4fd018e861553f90baf2f55f4f5b50e45ef99a4eb0526e80eb5546?mediaType=png)|1,706||18+|united states|
+|Greater Half|4.00 USD|[138](https://www.snap.com/political-ads/asset/8c46bdf75447c36f3a3ac0ce9d6fb57b500314cbfe9febc24ff2eb5e1f0da763?mediaType=png)|1,365||18+|united states|
+|Greater Half|24.00 USD|[139](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|1,109||18+|united states|
+|Greater Half|7.00 USD|[140](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|942||18+|united states|
+|Greater Half|7.00 USD|[141](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|907||18+|united states|
+|Greater Half|7.00 USD|[142](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|806||18+|united states|
+|Greater Half|0.00 USD|[143](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|42||18+|united states|
+|Greater Half|0.00 USD|[144](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|40||18+|united states|
+|Greater Half|0.00 USD|[145](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|28||18+|united states|
+|Greater Half|1.00 USD|[146](https://www.snap.com/political-ads/asset/77142a8682e0ba7a4a601e4bdc0a7472d8b8d4b13f2b05b255fbf2fda1e8bee0?mediaType=png)|22||18+|united states|
+|Greater Half|0.00 USD|[147](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|12||18+|united states|
+|Greater Half|0.00 USD|[148](https://www.snap.com/political-ads/asset/e17d5974389fe8694cb3aa049d510f8daeefd262731c9d7208dff7340c59effb?mediaType=png)|12||18+|united states|
+|Greater Half|0.00 USD|[149](https://www.snap.com/political-ads/asset/133d63273473acaa613345aea0d0eff051a994e7ed30a6ce0509a7284425bdc9?mediaType=png)|1||18+|united states|
