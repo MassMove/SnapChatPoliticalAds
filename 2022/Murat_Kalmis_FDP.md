@@ -3,7 +3,7 @@
 
 **Impressions**: 86,319
 
-**Billing Addresses**: DE
+**Billing Addresses**: Große Straße 17–19,Osnabrück,49074 ,DE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

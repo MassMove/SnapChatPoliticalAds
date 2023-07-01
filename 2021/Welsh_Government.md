@@ -4,8 +4,8 @@
 **Impressions**: 1,061,177
 
 **Billing Addresses**: 
-- Wharton Place, 13 Wharton Street,Cardiff,CF10 1GS,GB
 - GB
+- Wharton Place, 13 Wharton Street,Cardiff,CF10 1GS,GB
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

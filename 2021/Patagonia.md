@@ -4,8 +4,8 @@
 **Impressions**: 19,188,668
 
 **Billing Addresses**: 
-- 235 W Santa Clara St,Ventura,93001,US
 - Jollemanhof 11,Amsterdam,1061TJ,NL
+- 235 W Santa Clara St,Ventura,93001,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

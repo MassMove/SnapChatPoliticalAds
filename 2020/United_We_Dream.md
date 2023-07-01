@@ -4,8 +4,8 @@
 **Impressions**: 7,559,245
 
 **Billing Addresses**: 
-- 1445 New York Ave NW,Washington,20005,US
 - 8207 Taunton Pl,West Springfield,22152,US
+- 1445 New York Ave NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

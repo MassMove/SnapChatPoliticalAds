@@ -4,8 +4,8 @@
 **Impressions**: 84,940
 
 **Billing Addresses**: 
-- 4850 Libby Court,North Port,34287,US
 - US
+- 4850 Libby Court,North Port,34287,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

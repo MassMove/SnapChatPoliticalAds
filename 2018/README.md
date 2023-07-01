@@ -2,12 +2,12 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[NextGen America](NextGen_America.md) - Bully Pulpit Interactive|98,636.00 USD|18,590,894||18-34|united states|
-|[Show Up To Vote](Show_Up_To_Vote.md) - ACRONYM|66,733.00 USD|16,455,877|"FEMALE, MALE"|18+|united states|
+|[Show Up To Vote](Show_Up_To_Vote.md) - ACRONYM|66,733.00 USD|16,455,877|"MALE, FEMALE"|18+|united states|
 |[Knock The Vote](Knock_The_Vote.md) - ACRONYM|60,916.00 USD|15,591,968||"18-28, 18-34"|united states|
-|[Beto for Texas](Beto_for_Texas.md) - Middle Seat Consulting  LLC|41,183.00 USD|10,611,356||"18+, 30-"|united states|
+|[Beto for Texas](Beto_for_Texas.md) - Middle Seat Consulting  LLC|41,183.00 USD|10,611,356||"30-, 18+"|united states|
 |[JB for Governor](JB_for_Governor.md) - GMMB  Inc|26,940.00 USD|6,075,282||"18+, 35++"|united states|
 |[Nevada Conservation League PAC](Nevada_Conservation_League_PAC.md) - Break Something|23,742.00 USD|3,452,533||18+|united states|
-|[SIG](SIG.md) - Dentsu Aegis Network France|23,454.00 EUR|20,803,405|FEMALE|"15-24, 18+"|france|
+|[SIG](SIG.md) - Dentsu Aegis Network France|23,454.00 EUR|20,803,405|FEMALE|"18+, 15-24"|france|
 |[Save Animals Facing Extinction](Save_Animals_Facing_Extinction.md) - Centro LLC|21,383.00 USD|5,766,196||18-34|united states|
 |[Change Now](Change_Now.md) - Lockwood Strategy|20,225.00 USD|9,522,456|||united states|
 |[DCCC](DCCC.md) - Democratic Congressional Campaign Committee|18,173.00 USD|2,919,379||18+|united states|
@@ -17,20 +17,20 @@
 |[Friends of Chris Murphy](Friends_of_Chris_Murphy.md) - Aisle 518 Strategies  LLC|15,051.00 USD|5,273,151||18+|united states|
 |[Florida Sheriff's Association](Florida_Sheriff's_Association.md) - Moore|14,631.00 USD|3,084,287||18+|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|12,977.00 CAD|8,853,765|"FEMALE, MALE"|25-29|canada|
-|[Home Office](Home_Office.md) - Dentsu Aegis Network|11,477.00 GBP|9,255,039|"MALE, FEMALE"|18-24|united kingdom|
+|[Home Office](Home_Office.md) - Dentsu Aegis Network|11,477.00 GBP|9,255,039|"FEMALE, MALE"|18-24|united kingdom|
 |[Paid For by Trooien For USSenate](Paid_For_by_Trooien_For_USSenate.md) - LoudDoor  LLC|10,555.00 USD|4,159,265||18+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media|10,282.00 USD|3,590,345|FEMALE|"18+, 25+, 18-24, 18-25, 15-19"|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media|10,282.00 USD|3,590,345|FEMALE|"18+, 18-24, 18-25, 25+, 15-19"|united states|
 |[Department of Justice NI](Department_of_Justice_NI.md) - Ardmore Advertising|10,000.00 GBP|9,981,576||16-24|united kingdom|
 |[Josh Harder for Congress](Josh_Harder_for_Congress.md) - Saguaro Strategies|9,939.00 USD|8,735,197|||united states|
-|[VG](VG.md) - Dentsu Norge AS|9,865.00 EUR|6,743,599||15+|norway|
+|[VG](VG.md) - Dentsu Norge AS – Carat|9,865.00 EUR|6,743,599||15+|norway|
 |[Make Good Decisions](Make_Good_Decisions.md) - Emmis Communcations|8,946.00 USD|5,084,439||18-20|united states|
 |[Pete King for Congress](Pete_King_for_Congress.md) - Congressman Pete King|8,437.00 USD|3,143,956||18+|united states|
-|[Voto Latino](Voto_Latino.md) - Mothership Strategies|8,380.00 USD|2,553,800||"18-25, 18+, 18-34"|united states|
+|[Voto Latino](Voto_Latino.md) - Mothership Strategies|8,380.00 USD|2,553,800||"18-25, 18-34, 18+"|united states|
 |[Lieutenant Governor's Office](Lieutenant_Governor's_Office.md) - Penna Powers|7,992.00 USD|3,335,544||18-34|united states|
 |[The Ohio Democratic Party](The_Ohio_Democratic_Party.md) - Ohio Democratic Party|7,580.00 USD|2,734,832|FEMALE|18-23|united states|
 |[Planned Parenthood Votes](Planned_Parenthood_Votes.md) - Blueprint Interactive|7,033.00 USD|1,968,801|FEMALE|18-34|united states|
-|[CDPHE](CDPHE.md) - Amélie Company|6,825.00 USD|2,272,441|FEMALE|"20-, 15+, 21+"|united states|
-|[NAMI](NAMI.md) - National Alliance on Mental Illness|6,295.00 USD|1,666,871||"21-25, 18-20, 26-30, 31-34, 35++"|united states|
+|[CDPHE](CDPHE.md) - Amélie Company|6,825.00 USD|2,272,441|FEMALE|"21+, 20-, 15+"|united states|
+|[NAMI](NAMI.md) - National Alliance on Mental Illness|6,295.00 USD|1,666,871||"18-20, 35++, 31-34, 26-30, 21-25"|united states|
 |[Scottish Government](Scottish_Government.md) - Republic of Media Ltd.|6,015.00 GBP|8,779,805||15-34|united kingdom|
 |[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media|6,005.00 USD|1,522,367|FEMALE|"18+, 18-25"|united states|
 |[WSPS](WSPS.md) - Cossette Health Inc.|5,000.00 CAD|2,691,949||16-22|canada|
@@ -47,7 +47,7 @@
 |[No On L](No_On_L.md) - The Prosper Group|3,698.00 USD|573,475||18+|united states|
 |[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|3,647.00 USD|725,384|FEMALE|18+|united states|
 |[Columbia/Boone Co Health Dept](Columbia_Boone_Co_Health_Dept.md) - Columbia/Boone County Department of Public Health and Human Services|2,897.00 USD|1,567,430|||united states|
-|[OpenPoll](OpenPoll.md) - OpenPoll Inc|2,723.00 USD|768,749||"18+, 18-23, 17-29, 18-29, 17+"|united states|
+|[OpenPoll](OpenPoll.md) - OpenPoll Inc|2,723.00 USD|768,749||"18-29, 17+, 18-23, 18+, 17-29"|united states|
 |[Friends of Jess King](Friends_of_Jess_King.md) - Friends of Jess King|2,586.00 USD|691,292||"18+, 17+"|united states|
 |[King County Elections](King_County_Elections.md) - Mammoth|2,551.00 USD|1,196,776||18+|united states|
 |[Amnesty International NL](Amnesty_International_NL.md) - Jalt|2,525.00 EUR|2,055,964||18+|netherlands|
@@ -56,7 +56,7 @@
 |[PPAPLAC Action Fund](PPAPLAC_Action_Fund.md) - Open Hand Media|2,246.00 USD|405,212|FEMALE|18+|united states|
 |[Liberal Party](Liberal_Party.md) - Tubemogul  Inc.|2,121.00 USD|700,127|FEMALE||australia|
 |[Sundhedsstyrelsen](Sundhedsstyrelsen.md) - Reprise Media|2,008.00 EUR|804,011||19-19|denmark|
-|[STOPtheWaterGrabCoalition](STOPtheWaterGrabCoalition.md) - The Modesto Bee|1,971.00 USD|453,013||"18+, 25+"|united states|
+|[STOPtheWaterGrabCoalition](STOPtheWaterGrabCoalition.md) - The Modesto Bee|1,971.00 USD|453,013||"25+, 18+"|united states|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - Blueprint Interactive|1,929.00 USD|468,782||18+|united states|
 |[Paid For By Friends Of Maria](Paid_For_By_Friends_Of_Maria.md) - Maria Cantwell United States Senator for Washington|1,860.00 USD|608,578||"18-30, 17-24"|united states|
 |[Missouri Secretary of State](Missouri_Secretary_of_State.md) - Bucket Media Inc.|1,721.00 USD|802,812||18+|united states|
@@ -65,7 +65,7 @@
 |[NASSP](NASSP.md) - NatStuCo|1,498.00 USD|574,892||18-18|united states|
 |[Amnesty International UK](Amnesty_International_UK.md) - Amnesty International UK|1,281.00 GBP|703,862||"25+, 18-24"|united kingdom|
 |[Amnesty International](Amnesty_International.md) - Amnesty International Switzerland|1,214.00 EUR|993,308||"18+, 15-22"|switzerland|
-|[NSEA](NSEA.md) - Nebraska State Education Association|1,078.00 USD|298,472|FEMALE|"18+, 17+, 21-30"|united states|
+|[NSEA](NSEA.md) - Nebraska State Education Association|1,078.00 USD|298,472|FEMALE|"21-30, 18+, 17+"|united states|
 |[Paid for by Terry Withrow](Paid_for_by_Terry_Withrow.md) - The Modesto Bee|1,041.00 USD|212,366||18+|united states|
 |[Canadian Medical Association](Canadian_Medical_Association.md) - Banfield Agency|1,005.00 CAD|603,893||24-|canada|
 |[CDVSA](CDVSA.md) - Council on Domestic Violence and Sexual Assault|1,000.00 USD|359,270||18+|united states|
@@ -98,7 +98,7 @@
 |[Socialdemokraterna - Kalmar Län](Socialdemokraterna_-_Kalmar_Län.md) - Context Media|249.00 EUR|108,315||18-24|sweden|
 |[Committee to Elect Jack Serier](Committee_to_Elect_Jack_Serier.md) - Committee to Elect Jack Serier|245.00 USD|95,651||18+|united states|
 |[Ammar Campa-Najjar for Congress](Ammar_Campa-Najjar_for_Congress.md) - Break Something|238.00 USD|84,037||18+|united states|
-|[sdm.ng](sdm.ng.md) - LPM|225.00 USD|78,077|MALE|"30+, 29+"|nigeria|
+|[sdm.ng](sdm.ng.md) - LPM|225.00 USD|78,077|MALE|"29+, 30+"|nigeria|
 |[Hospital Workers Rising](Hospital_Workers_Rising.md) - SEIU Healthcare PA|217.00 USD|58,544||19-27|united states|
 |[Cort VanOstran for Congress](Cort_VanOstran_for_Congress.md) - Human Agency|210.00 USD|60,557|FEMALE|18-30|united states|
 |[Norsk Studentorganisasjon](Norsk_Studentorganisasjon.md) - Norsk Studentorganisasjon|200.00 EUR|249,707|||norway|
@@ -108,7 +108,7 @@
 |[Murtaugh for Congress](Murtaugh_for_Congress.md) - Murtaugh for Congress|111.00 USD|51,966||18+|united states|
 |[Paid for by Balen Isamel](Paid_for_by_Balen_Isamel.md) - Gorran Election Campaign|102.00 USD|98,863||18+|iraq|
 |[Nadia Ghisolfi](Nadia_Ghisolfi.md) - Nadia Ghisolfi|101.00 EUR|91,043||18+|switzerland|
-|[ResTri Student Advocacy](ResTri_Student_Advocacy.md) - Research Triangle Student Advocacy|81.00 USD|36,069|FEMALE|"18-34, 18+"|united states|
+|[ResTri Student Advocacy](ResTri_Student_Advocacy.md) - Research Triangle Student Advocacy|81.00 USD|36,069|FEMALE|"18+, 18-34"|united states|
 |[Students for Trump](Students_for_Trump.md) - OpenPoll Inc|73.00 USD|22,659||18-26|united states|
 |[Chuck Clemons for FL House](Chuck_Clemons_for_FL_House.md) - Chuck Clemons for Florida House District 21|66.00 USD|22,167||17+|united states|
 |[Texas Democratic Party](Texas_Democratic_Party.md) - Rising Tide Interactive LLC|63.00 USD|839||18-34|united states|
