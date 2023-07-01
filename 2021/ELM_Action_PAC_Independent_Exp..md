@@ -1,7 +1,7 @@
 ## 2021 - ELM Action PAC Independent Exp. 
-**Spent**: 3,687.00
+**Spent**: 3,691.00
 
-**Impressions**: 774,239
+**Impressions**: 774,638
 
 **Billing Addresses**: One, World Trade Center ,new york,10007,US
 
@@ -41,5 +41,6 @@
 |mv digital group: Michelle Wu for Mayor|10.00 USD|[31](https://www.snap.com/political-ads/asset/0a4bf4c12b54efce9e89bac681619c0704ee783e60afabacad0a546d36e9a391?mediaType=jpg)|984||18+|united states|
 |mv digital group: Michelle Wu for Mayor|9.00 USD|[32](https://www.snap.com/political-ads/asset/5389718b07f042024db283c24085ca461ac8d5c4228f9454879c9275f184c6ea?mediaType=jpg)|979||18+|united states|
 |mv digital group: Michelle Wu for Mayor|6.00 USD|[33](https://www.snap.com/political-ads/asset/9084fe5884368442636d2eb2664234c02c0ee26e1d1545aa77dcb6ee9eb424d5?mediaType=mp4)|665||18+|united states|
-|mv digital group: ELM Action PAC Independent Exp|3.00 USD|[34](https://www.snap.com/political-ads/asset/57c6cf2f43a61c34e7fc8c58f7bc3223e446839a2f046b35f5417fe6f67d30b9?mediaType=mp4)|338|||united states|
-|mv digital group: ELM Action PAC Independent Exp|2.00 USD|[35](https://www.snap.com/political-ads/asset/ac329d41e447c9aede4951d5391df0fbeb1f4a13f8c2ac2d85c4b057037415b0?mediaType=mp4)|264|||united states|
+|mv digital group: ELM Action PAC Independent Exp|4.00 USD|[34](https://www.snap.com/political-ads/asset/64437d5b1cb89ee3131f0a4444951482eced93a77c12bbb7c5e450adcf26569b?mediaType=mp4)|399|||united states|
+|mv digital group: ELM Action PAC Independent Exp|3.00 USD|[35](https://www.snap.com/political-ads/asset/57c6cf2f43a61c34e7fc8c58f7bc3223e446839a2f046b35f5417fe6f67d30b9?mediaType=mp4)|338|||united states|
+|mv digital group: ELM Action PAC Independent Exp|2.00 USD|[36](https://www.snap.com/political-ads/asset/ac329d41e447c9aede4951d5391df0fbeb1f4a13f8c2ac2d85c4b057037415b0?mediaType=mp4)|264|||united states|

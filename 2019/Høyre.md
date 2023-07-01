@@ -4,9 +4,9 @@
 **Impressions**: 3,436,476
 
 **Billing Addresses**: 
-- Thormøhlensgate 53D,Bergen,5006,NO
 - Stortingsgaten 20,Oslo,0161,NO
 - NO
+- Thormøhlensgate 53D,Bergen,5006,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

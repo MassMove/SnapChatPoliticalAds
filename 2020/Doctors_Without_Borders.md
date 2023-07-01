@@ -4,8 +4,8 @@
 **Impressions**: 26,687,156
 
 **Billing Addresses**: 
-- 40 rector street,New York,10006,US
 - 315 Wisconsin Ave,Madison,53703,US
+- 40 rector street,New York,10006,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

@@ -1,7 +1,7 @@
 ## 2023 - Dr. Fawaz Aljedei 
-**Spent**: 4,604.00
+**Spent**: 5,404.00
 
-**Impressions**: 2,511,138
+**Impressions**: 2,739,004
 
 **Billing Addresses**: KW
 
@@ -15,4 +15,6 @@
 |د. فواز الجدعي: Fawaz Aljedei|500.00 USD|[5](https://www.snap.com/political-ads/asset/120baa945a6dc289f100fcb06a4d5ae7161daad4279332eb8d78ec111a66222d?mediaType=mp4)|152,422|||kuwait|
 |د. فواز الجدعي: Fawaz Aljedei|500.00 USD|[6](https://www.snap.com/political-ads/asset/1e4a7c64321840484ff8b98eb670a42e98daa12e7dc4e45d72dfa1a564363960?mediaType=png)|148,092||17+|kuwait|
 |د. فواز الجدعي: Fawaz Aljedei|304.00 USD|[7](https://www.snap.com/political-ads/asset/7832a20d32928d068a57254ff6a2c09b92ab40722a32c7245c3b76d809a57cc6?mediaType=jpg)|138,647|||kuwait|
-|د. فواز الجدعي: Fawaz Aljedei|500.00 USD|[8](https://www.snap.com/political-ads/asset/ea6067448352efa130c3f82f78bd27f220e1963fa4141fce80abfac365711a71?mediaType=mp4)|115,700||17+|kuwait|
+|د. فواز الجدعي: Fawaz Ajedei|400.00 USD|[8](https://www.snap.com/political-ads/asset/6ddf80aa9daabd92a2b5b3c112c15a23df5b5664be37466f3dd7f16386dee6fe?mediaType=mp4)|126,139||20+|kuwait|
+|د. فواز الجدعي: Fawaz Aljedei|500.00 USD|[9](https://www.snap.com/political-ads/asset/ea6067448352efa130c3f82f78bd27f220e1963fa4141fce80abfac365711a71?mediaType=mp4)|115,700||17+|kuwait|
+|د. فواز الجدعي: Fawaz Aljedei|400.00 USD|[10](https://www.snap.com/political-ads/asset/7ee41df6342fccfe2bbe81c2ab3d2440325eb971da3a52084c1a69545e54d96e?mediaType=mp4)|101,727||20+|kuwait|
