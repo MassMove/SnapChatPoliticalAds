@@ -4,8 +4,8 @@
 **Impressions**: 139,705
 
 **Billing Addresses**: 
-- US
 - CA
+- US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

@@ -1,27 +1,27 @@
 ## 2023 - Arbeiderpartiet 
-**Spent**: 187,435.00
+**Spent**: 205,590.00
 
-**Impressions**: 7,153,027
+**Impressions**: 8,663,885
 
 **Billing Addresses**: Youngstorget 2A,OSLO,0028,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Arbeiderpartiet|31,112.00 NOK|[0](https://www.snap.com/political-ads/asset/4330cabdd1cb9e91ee784d4addb91d43ee5932241d1e0213331e0bd1263b68d0?mediaType=mp4)|1,349,819||35+|norway|
+|Arbeiderpartiet|40,000.00 NOK|[0](https://www.snap.com/political-ads/asset/4330cabdd1cb9e91ee784d4addb91d43ee5932241d1e0213331e0bd1263b68d0?mediaType=mp4)|2,151,012||35+|norway|
 |Arbeiderpartiet|20,000.00 NOK|[1](https://www.snap.com/political-ads/asset/f5f6fb745c007b78a50112a260397f16394b5b0daec59e1be1ba6e81acf46fbe?mediaType=mp4)|1,085,579||18+|norway|
 |Arbeiderpartiet|30,000.00 NOK|[2](https://www.snap.com/political-ads/asset/3942cc5d004cb76431f68b39ac440b6a6ea5d553877c87d35077bf1d18bf0a70?mediaType=mp4)|986,287||18+|norway|
-|Arbeiderpartiet|8,000.00 NOK|[3](https://www.snap.com/political-ads/asset/3942cc5d004cb76431f68b39ac440b6a6ea5d553877c87d35077bf1d18bf0a70?mediaType=mp4)|239,991||18+|norway|
-|Arbeiderpartiet|4,712.00 NOK|[4](https://www.snap.com/political-ads/asset/6a65b2df1f60ac302bf810f6edc08feafe5fbe7ec095dc8ab5d4fc35576b2acb?mediaType=mp4)|202,829||25-45||
-|Arbeiderpartiet|4,713.00 NOK|[5](https://www.snap.com/political-ads/asset/25fc617ca91c24c55066441b548ed97f8feca757351228bdb3f6164e5eb4c95d?mediaType=mp4)|202,711||25-45||
-|Arbeiderpartiet|3,497.00 NOK|[6](https://www.snap.com/political-ads/asset/e7ab652fe703f97ffd3d27e704e074c7adeb9a9513d6e1ae214ca835f9fb8b42?mediaType=mp4)|163,123||18+||
-|Arbeiderpartiet|3,381.00 NOK|[7](https://www.snap.com/political-ads/asset/7661ea87bc088855c222410dc4b05c09755fa40676975ff0877ae96cb9b22230?mediaType=mp4)|146,911||25-45||
-|Arbeiderpartiet|10,000.00 NOK|[8](https://www.snap.com/political-ads/asset/fd2435e36516550a6fba6ca2698a32ac1c299751242b31341016dd36fd86e964?mediaType=mp4),[9](https://www.snap.com/political-ads/asset/1897df0f6e007949349bb0222d31372536a6351a7acbc63bada28568acb53e75?mediaType=mp4),[10](https://www.snap.com/political-ads/asset/69e0a2d25126f3cceece33bc9b24d31e2687b076e48aa621f541d69fbf469ca5?mediaType=mp4),[11](https://www.snap.com/political-ads/asset/a40f089e674f5a529c12ece7b38fb0a02626fccdd07728a0392365244140fd2d?mediaType=mp4),[12](https://www.snap.com/political-ads/asset/33b0db0fd5a8a6e5e61d0c4d8a8ddf785179c4a4219ca5ce8a284cab2fa3d8e3?mediaType=mp4),[13](https://www.snap.com/political-ads/asset/640455a345fbda0bc805d2ee0830996fe5e7c73c8befacee47f0277770639507?mediaType=mp4),[14](https://www.snap.com/political-ads/asset/0799703575879c2a07407304f5780d404fb9a5d55311ff0470f7842aad174ecc?mediaType=mp4)|146,838||18+||
-|Arbeiderpartiet|3,062.00 NOK|[15](https://www.snap.com/political-ads/asset/cce6759fb9643399f0d6be24644d94b725f14c70c03f39f0dfe2dc2cc5bea51d?mediaType=mp4)|142,854||18+||
-|Arbeiderpartiet|2,996.00 NOK|[16](https://www.snap.com/political-ads/asset/468c63c763a0f44104d7008cce6697b5e075a1f3aef3ff6149b9cd99c67216fc?mediaType=mp4)|139,999||18+||
-|Arbeiderpartiet|3,201.00 NOK|[17](https://www.snap.com/political-ads/asset/9edf18ac5040e0b162046277bff2d994ccbf6b0a856ebf0c3c03dcfef404bfdc?mediaType=mp4)|138,702||25-45||
-|Arbeiderpartiet|2,885.00 NOK|[18](https://www.snap.com/political-ads/asset/3223ff6414da8cb7a23c97455494786556d1c57ad4145331f7039db37d62cf21?mediaType=mp4)|134,616||18+||
-|Arbeiderpartiet|2,728.00 NOK|[19](https://www.snap.com/political-ads/asset/b906ff734a4db3b4a14fc3d0c9703d13df714dd1385ff069c11bc7465d90d2e4?mediaType=mp4)|126,344||18+||
-|Arbeiderpartiet|2,831.00 NOK|[20](https://www.snap.com/political-ads/asset/253bb9e84213620d7bddbae3a3f73c320af4ffad7fa0538c13756cee69d01dfe?mediaType=mp4)|122,537||25-45||
+|Arbeiderpartiet|7,060.00 NOK|[3](https://www.snap.com/political-ads/asset/25fc617ca91c24c55066441b548ed97f8feca757351228bdb3f6164e5eb4c95d?mediaType=mp4)|381,113||25-45||
+|Arbeiderpartiet|6,939.00 NOK|[4](https://www.snap.com/political-ads/asset/6a65b2df1f60ac302bf810f6edc08feafe5fbe7ec095dc8ab5d4fc35576b2acb?mediaType=mp4)|371,219||25-45||
+|Arbeiderpartiet|4,895.00 NOK|[5](https://www.snap.com/political-ads/asset/7661ea87bc088855c222410dc4b05c09755fa40676975ff0877ae96cb9b22230?mediaType=mp4)|262,608||25-45||
+|Arbeiderpartiet|4,726.00 NOK|[6](https://www.snap.com/political-ads/asset/9edf18ac5040e0b162046277bff2d994ccbf6b0a856ebf0c3c03dcfef404bfdc?mediaType=mp4)|254,894||25-45||
+|Arbeiderpartiet|4,377.00 NOK|[7](https://www.snap.com/political-ads/asset/253bb9e84213620d7bddbae3a3f73c320af4ffad7fa0538c13756cee69d01dfe?mediaType=mp4)|240,921||25-45||
+|Arbeiderpartiet|8,000.00 NOK|[8](https://www.snap.com/political-ads/asset/3942cc5d004cb76431f68b39ac440b6a6ea5d553877c87d35077bf1d18bf0a70?mediaType=mp4)|239,991||18+|norway|
+|Arbeiderpartiet|3,497.00 NOK|[9](https://www.snap.com/political-ads/asset/e7ab652fe703f97ffd3d27e704e074c7adeb9a9513d6e1ae214ca835f9fb8b42?mediaType=mp4)|163,123||18+||
+|Arbeiderpartiet|10,000.00 NOK|[10](https://www.snap.com/political-ads/asset/fd2435e36516550a6fba6ca2698a32ac1c299751242b31341016dd36fd86e964?mediaType=mp4),[11](https://www.snap.com/political-ads/asset/1897df0f6e007949349bb0222d31372536a6351a7acbc63bada28568acb53e75?mediaType=mp4),[12](https://www.snap.com/political-ads/asset/69e0a2d25126f3cceece33bc9b24d31e2687b076e48aa621f541d69fbf469ca5?mediaType=mp4),[13](https://www.snap.com/political-ads/asset/a40f089e674f5a529c12ece7b38fb0a02626fccdd07728a0392365244140fd2d?mediaType=mp4),[14](https://www.snap.com/political-ads/asset/33b0db0fd5a8a6e5e61d0c4d8a8ddf785179c4a4219ca5ce8a284cab2fa3d8e3?mediaType=mp4),[15](https://www.snap.com/political-ads/asset/640455a345fbda0bc805d2ee0830996fe5e7c73c8befacee47f0277770639507?mediaType=mp4),[16](https://www.snap.com/political-ads/asset/0799703575879c2a07407304f5780d404fb9a5d55311ff0470f7842aad174ecc?mediaType=mp4)|146,838||18+||
+|Arbeiderpartiet|3,062.00 NOK|[17](https://www.snap.com/political-ads/asset/cce6759fb9643399f0d6be24644d94b725f14c70c03f39f0dfe2dc2cc5bea51d?mediaType=mp4)|142,854||18+||
+|Arbeiderpartiet|2,996.00 NOK|[18](https://www.snap.com/political-ads/asset/468c63c763a0f44104d7008cce6697b5e075a1f3aef3ff6149b9cd99c67216fc?mediaType=mp4)|139,999||18+||
+|Arbeiderpartiet|2,885.00 NOK|[19](https://www.snap.com/political-ads/asset/3223ff6414da8cb7a23c97455494786556d1c57ad4145331f7039db37d62cf21?mediaType=mp4)|134,616||18+||
+|Arbeiderpartiet|2,728.00 NOK|[20](https://www.snap.com/political-ads/asset/b906ff734a4db3b4a14fc3d0c9703d13df714dd1385ff069c11bc7465d90d2e4?mediaType=mp4)|126,344||18+||
 |Arbeiderpartiet|1,849.00 NOK|[21](https://www.snap.com/political-ads/asset/c1024b082e6c0a9bd54c87c0182da1c494bab5776c7a96770498d5699cd62aab?mediaType=mp4)|81,215||18+||
 |Arbeiderpartiet|1,838.00 NOK|[22](https://www.snap.com/political-ads/asset/45c1aae8d560bccf5f0d3d36692d53eb28efa9701836e78bde5006d131d2ae66?mediaType=mp4)|80,552||18+||
 |Arbeiderpartiet|1,809.00 NOK|[23](https://www.snap.com/political-ads/asset/f77ff9a98da8568bddbc23a015b1d7f7fd1e5b9900d1df5cd1e8d47b4160e1e8?mediaType=mp4)|79,647||18+||
@@ -55,3 +55,4 @@
 |Arbeiderpartiet|1,034.00 NOK|[63](https://www.snap.com/political-ads/asset/8abcce5a1f7833cb76e699bc620068717113a97e690e8b40481ab32c611eb952?mediaType=mp4)|35,178||18+|norway|
 |Arbeiderpartiet|1,025.00 NOK|[64](https://www.snap.com/political-ads/asset/a64bf0a286996161feabff5151f343047bebd89f375ceab5c18e4e423c3c1f58?mediaType=mp4)|34,845||18+|norway|
 |Arbeiderpartiet|986.00 NOK|[65](https://www.snap.com/political-ads/asset/a9d9346b861ae2b00e8cf5b4d48a9bf56a9e240b183aab12936a5a74453ce570?mediaType=mp4)|34,558||18+|norway|
+|Arbeiderpartiet: Fylkestingsvalget 2023|108.00 NOK|[66](https://www.snap.com/political-ads/asset/482d80b017fae2426485da4a129b71ae7b7512523bd8fca47588b3370e74d773?mediaType=mp4)|12,600||18+|norway|

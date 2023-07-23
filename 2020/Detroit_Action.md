@@ -4,9 +4,9 @@
 **Impressions**: 1,562,551
 
 **Billing Addresses**: 
-- 440 Burroughs St,Detroit,48202,US
 - 2054 University Ave STE 600,Berkeley,94704,US
 - 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
+- 440 Burroughs St,Detroit,48202,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

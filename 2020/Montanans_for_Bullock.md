@@ -4,8 +4,8 @@
 **Impressions**: 12,243,254
 
 **Billing Addresses**: 
-- 1250 H St. NW,Washington,20005,US
 - US
+- 1250 H St. NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

@@ -4,8 +4,8 @@
 **Impressions**: 538,796
 
 **Billing Addresses**: 
-- US
 - 1121 14th Street NW Suite 700,Washington,20005,US
+- US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
