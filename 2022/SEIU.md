@@ -1,7 +1,7 @@
 ## 2022 - SEIU 
-**Spent**: 147,474.00
+**Spent**: 147,472.00
 
-**Impressions**: 26,855,361
+**Impressions**: 26,854,961
 
 **Billing Addresses**: 1121 14th Street NW Suite 700,Washington,20005,US
 
@@ -192,14 +192,13 @@
 |Precision [TEST]: SEIU|2.00 USD|[182](https://www.snap.com/political-ads/asset/b943f8224caa2a97695210fb6d16490d78bee2011d47720105fbfa1b0dd42d9b?mediaType=mp4)|431||18+|united states|
 |Precision [TEST]: SEIU|2.00 USD|[183](https://www.snap.com/political-ads/asset/22357d1f8ea20c058c4bef38244b9832f6ee26d6869c56574235ee922e1a5320?mediaType=mp4)|423||18+|united states|
 |Precision [TEST]: SEIU|3.00 USD|[184](https://www.snap.com/political-ads/asset/b943f8224caa2a97695210fb6d16490d78bee2011d47720105fbfa1b0dd42d9b?mediaType=mp4)|420||18+|united states|
-|Precision [TEST]: SEIU|2.00 USD|[185](https://www.snap.com/political-ads/asset/bd98bb477a7be9ba78975ec4d3915c8e5e840538f8fd2efa83694bddae389d2f?mediaType=mp4)|400||18+|united states|
-|Precision [TEST]: SEIU|2.00 USD|[186](https://www.snap.com/political-ads/asset/e8c4db05d9f3aa4bb8a7e512eaf3afce141370451be4e3b1ddc2566b9105b7dc?mediaType=mp4)|400||18+|united states|
-|Precision [TEST]: SEIU|3.00 USD|[187](https://www.snap.com/political-ads/asset/131e6b63032b6f87afe9e2193c355c084d4790f19cb41554110c3de633c83683?mediaType=mp4)|383||18+|united states|
-|Precision [TEST]: SEIU|2.00 USD|[188](https://www.snap.com/political-ads/asset/1c59aed443304d2ab16f0d4d52bdeb5054321695e5078f0c15f84f4151f6bb0e?mediaType=mp4)|379||18+|united states|
-|Precision [TEST]: SEIU|1.00 USD|[189](https://www.snap.com/political-ads/asset/3641d7dea7f79e9bc0fd882028a97ee4f7277dce5684a648de428b97a3bfa445?mediaType=mp4)|365||18+|united states|
-|Precision [TEST]: SEIU|2.00 USD|[190](https://www.snap.com/political-ads/asset/1c59aed443304d2ab16f0d4d52bdeb5054321695e5078f0c15f84f4151f6bb0e?mediaType=mp4)|359||18+|united states|
-|Precision [TEST]: SEIU|2.00 USD|[191](https://www.snap.com/political-ads/asset/22357d1f8ea20c058c4bef38244b9832f6ee26d6869c56574235ee922e1a5320?mediaType=mp4)|328||18+|united states|
-|Precision [TEST]: SEIU|2.00 USD|[192](https://www.snap.com/political-ads/asset/c20be65f96928ef84c89ebe4016dbe0fa15a1881b6a097fe732ca705490c9210?mediaType=mp4)|295||18+|united states|
-|Precision [TEST]: SEIU|1.00 USD|[193](https://www.snap.com/political-ads/asset/138a03ab285efcd184c173542d396edfc5c5bc41e141ea76467476c352c55f16?mediaType=mp4)|292||18+|united states|
-|Precision [TEST]: SEIU|1.00 USD|[194](https://www.snap.com/political-ads/asset/95a6119d207069237de341fe4c6524acd0e85b8c303e42804b4e1625491797e1?mediaType=mp4)|260||18+|united states|
-|Precision [TEST]: SEIU|1.00 USD|[195](https://www.snap.com/political-ads/asset/666da978faae8a4f20ee91494d137abc257e919bb5b2b2ead41c1ac3fd5eb2c6?mediaType=mp4)|180||18+|united states|
+|Precision [TEST]: SEIU|2.00 USD|[185](https://www.snap.com/political-ads/asset/e8c4db05d9f3aa4bb8a7e512eaf3afce141370451be4e3b1ddc2566b9105b7dc?mediaType=mp4)|400||18+|united states|
+|Precision [TEST]: SEIU|3.00 USD|[186](https://www.snap.com/political-ads/asset/131e6b63032b6f87afe9e2193c355c084d4790f19cb41554110c3de633c83683?mediaType=mp4)|383||18+|united states|
+|Precision [TEST]: SEIU|2.00 USD|[187](https://www.snap.com/political-ads/asset/1c59aed443304d2ab16f0d4d52bdeb5054321695e5078f0c15f84f4151f6bb0e?mediaType=mp4)|379||18+|united states|
+|Precision [TEST]: SEIU|1.00 USD|[188](https://www.snap.com/political-ads/asset/3641d7dea7f79e9bc0fd882028a97ee4f7277dce5684a648de428b97a3bfa445?mediaType=mp4)|365||18+|united states|
+|Precision [TEST]: SEIU|2.00 USD|[189](https://www.snap.com/political-ads/asset/1c59aed443304d2ab16f0d4d52bdeb5054321695e5078f0c15f84f4151f6bb0e?mediaType=mp4)|359||18+|united states|
+|Precision [TEST]: SEIU|2.00 USD|[190](https://www.snap.com/political-ads/asset/22357d1f8ea20c058c4bef38244b9832f6ee26d6869c56574235ee922e1a5320?mediaType=mp4)|328||18+|united states|
+|Precision [TEST]: SEIU|2.00 USD|[191](https://www.snap.com/political-ads/asset/c20be65f96928ef84c89ebe4016dbe0fa15a1881b6a097fe732ca705490c9210?mediaType=mp4)|295||18+|united states|
+|Precision [TEST]: SEIU|1.00 USD|[192](https://www.snap.com/political-ads/asset/138a03ab285efcd184c173542d396edfc5c5bc41e141ea76467476c352c55f16?mediaType=mp4)|292||18+|united states|
+|Precision [TEST]: SEIU|1.00 USD|[193](https://www.snap.com/political-ads/asset/95a6119d207069237de341fe4c6524acd0e85b8c303e42804b4e1625491797e1?mediaType=mp4)|260||18+|united states|
+|Precision [TEST]: SEIU|1.00 USD|[194](https://www.snap.com/political-ads/asset/666da978faae8a4f20ee91494d137abc257e919bb5b2b2ead41c1ac3fd5eb2c6?mediaType=mp4)|180||18+|united states|

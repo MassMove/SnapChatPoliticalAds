@@ -1,7 +1,7 @@
 ## 2020 - Arizona Students' Association 
-**Spent**: 14,185.00
+**Spent**: 14,300.00
 
-**Impressions**: 4,132,463
+**Impressions**: 4,169,954
 
 **Billing Addresses**: 4622 East Wilshire Drive ,Phoenix,85008,US
 
@@ -33,28 +33,29 @@
 |Arizona Students' Association: AZ Students Association|171.00 USD|[23](https://www.snap.com/political-ads/asset/cba7ef00d58e4c00f0c769350a0f8c0ccd07511bb89b4556d5f0c0f2b34dd496?mediaType=png)|38,562||18-28|united states|
 |Arizona Students' Association: AZ Students Association|168.00 USD|[24](https://www.snap.com/political-ads/asset/1461b926c7d20e2ba95a361bd2cd83db9a755bd190325e408038340a49c9d01c?mediaType=png)|37,939||18-28|united states|
 |Arizona Students' Association: AZ Students Association|121.00 USD|[25](https://www.snap.com/political-ads/asset/4bedb3efe8a7ecd0901f0d84501b1fc14d611887ec2265fa055bfd362a939532?mediaType=png)|37,766||24-|united states|
-|Arizona Students' Association: AZ Students Association|164.00 USD|[26](https://www.snap.com/political-ads/asset/e608cb4b3b913f102dda92481144348242a76b45284720872800fce0a33b0ed5?mediaType=png)|37,069||18-28|united states|
-|Arizona Students' Association: AZ Students Association|164.00 USD|[27](https://www.snap.com/political-ads/asset/334098b021f97b11926c6374f37d2e07621107f116329437e0f65320e14b2144?mediaType=png)|37,059||18-28|united states|
-|Arizona Students' Association: AZ Students Association|159.00 USD|[28](https://www.snap.com/political-ads/asset/fbd06f9e40c4afe72a28225a1696fc2d5c79234b89b0fe76a888aa0342bcb171?mediaType=png)|35,874||18-28|united states|
-|Arizona Students' Association: AZ Students Association|155.00 USD|[29](https://www.snap.com/political-ads/asset/8fd9b1814d30f54dff799c71c79141fb043f6a07ed1c4267b7e5561aaac314b1?mediaType=png)|34,877||18-28|united states|
-|Arizona Students' Association: AZ Students Association|147.00 USD|[30](https://www.snap.com/political-ads/asset/4ca8d4c85a69b18441a7770c9b6108c7a1ed6117f7d97fa5d92d9cb6e9e001bf?mediaType=png)|33,294||18-28|united states|
-|Arizona Students' Association: AZ Students Association|145.00 USD|[31](https://www.snap.com/political-ads/asset/9dc1bf7dafb3b45704dd726b732d2471ba12a0eb75a0c4273d37720844e416e9?mediaType=png)|32,584||18-28|united states|
-|Arizona Students' Association: AZ Students Association|143.00 USD|[32](https://www.snap.com/political-ads/asset/2a18fdf2715ae476a0452cfc396aa6518b13e1d3021a84893a3e2c7938f1aed8?mediaType=png)|32,400||18-28|united states|
-|Arizona Students' Association: AZ Students Association|83.00 USD|[33](https://www.snap.com/political-ads/asset/709f530a0e5f75738fe95917cfa8c7518067d8eca1c0b7c54fecd12c8dbcbd0a?mediaType=mp4)|31,722||18-26|united states|
-|Arizona Students' Association: AZ Students Association|150.00 USD|[34](https://www.snap.com/political-ads/asset/ced9aa2412f8185f1210085c0de45b7a377773f30518ebef25fa444c1b9d56d4?mediaType=mp4)|31,680||18-26|united states|
-|Arizona Students' Association: AZ Students Association|123.00 USD|[35](https://www.snap.com/political-ads/asset/ae81b89fea648bde1a10b0497b00f5e400ff96f0fe6e0be82359799d5d37afa2?mediaType=png)|29,272||18-26|united states|
-|Arizona Students' Association: AZ Students Association|71.00 USD|[36](https://www.snap.com/political-ads/asset/05effc0a4c42e74f9e7bb31276a550fa9032453b07f4155e25cecee0e1542866?mediaType=mp4)|29,058||18-24|united states|
-|Arizona Students' Association: AZ Students Association|96.00 USD|[37](https://www.snap.com/political-ads/asset/131b2329fec79d21318b2382ecfcd68d7843576e8eecfefa1e8e18fec619d968?mediaType=png)|28,793||24-|united states|
-|Arizona Students' Association: AZ Students Association|115.00 USD|[38](https://www.snap.com/political-ads/asset/f1186a9652da6a8cb7da249e42be7499073ba1c5b88f7cab0918641aa5b6f6c1?mediaType=png)|28,244||18-24|united states|
-|Arizona Students' Association: AZ Students Association|113.00 USD|[39](https://www.snap.com/political-ads/asset/d7da154e46ba3b6ebc28643384949dc3168b3fbd899d01ba2ce4990ff30b8c2e?mediaType=png)|27,777||18-24|united states|
-|Arizona Students' Association: AZ Students Association|122.00 USD|[40](https://www.snap.com/political-ads/asset/67dc6384705695d7f868494aca18368ba41947f8cc5827cbc657f697b933f8e9?mediaType=png)|26,598||18-24|united states|
-|Arizona Students' Association: AZ Students Association|119.00 USD|[41](https://www.snap.com/political-ads/asset/964afe3852249393fe08578de689e31d08acaf7d37cf74fb684fabe3c00f1b56?mediaType=mp4)|26,143||18-26|united states|
-|Arizona Students' Association: AZ Students Association|104.00 USD|[42](https://www.snap.com/political-ads/asset/54cc5330b71cc3cb85e7c5c640a1fdd1f2d8e071e5897622623317ab69082615?mediaType=png)|25,157||18-24|united states|
-|Arizona Students' Association: AZ Students Association|96.00 USD|[43](https://www.snap.com/political-ads/asset/5f6dfad1382feca545e80da6a8a3b9aad5d1fed53c58cbfef5363fbea2ea3e83?mediaType=png)|21,227||18-24|united states|
-|Arizona Students' Association: AZ Students Association|51.00 USD|[44](https://www.snap.com/political-ads/asset/709f530a0e5f75738fe95917cfa8c7518067d8eca1c0b7c54fecd12c8dbcbd0a?mediaType=mp4)|20,097||18-24|united states|
-|Arizona Students' Association: AZ Students Association|43.00 USD|[45](https://www.snap.com/political-ads/asset/bf949fe521b22f6fa74a93981dfd85fd6da7a69b43a4416593882525ae479113?mediaType=mp4)|18,409||18-24|united states|
-|Arizona Students' Association: AZ Students Association|68.00 USD|[46](https://www.snap.com/political-ads/asset/ced9aa2412f8185f1210085c0de45b7a377773f30518ebef25fa444c1b9d56d4?mediaType=mp4)|17,264||18-26|united states|
-|Arizona Students' Association: AZ Students Association|62.00 USD|[47](https://www.snap.com/political-ads/asset/43519207eceae24e9c41d60ac93c3a9322c73e24ff29c5fbf79ee67db1ecfa6e?mediaType=mp4)|14,247||18-26|united states|
-|Arizona Students' Association: AZ Students Association|51.00 USD|[48](https://www.snap.com/political-ads/asset/964afe3852249393fe08578de689e31d08acaf7d37cf74fb684fabe3c00f1b56?mediaType=mp4)|13,494||18-26|united states|
-|Arizona Students' Association: AZ Students Association|45.00 USD|[49](https://www.snap.com/political-ads/asset/43519207eceae24e9c41d60ac93c3a9322c73e24ff29c5fbf79ee67db1ecfa6e?mediaType=mp4)|11,612||18-26|united states|
-|Arizona Students' Association: AZ Students Association|19.00 USD|[50](https://www.snap.com/political-ads/asset/1cb2282b290629347196a22c6cfaced2e82295bffa679f8a90e32663c62ccc87?mediaType=png)|2,811||18-26|united states|
+|Arizona Students' Association: AZ Students Association|115.00 USD|[26](https://www.snap.com/political-ads/asset/4ec6b9f4ef507b515777e4807c1e255d72fbc0d676aff2d6c042773249335d0b?mediaType=png)|37,491||24-|united states|
+|Arizona Students' Association: AZ Students Association|164.00 USD|[27](https://www.snap.com/political-ads/asset/e608cb4b3b913f102dda92481144348242a76b45284720872800fce0a33b0ed5?mediaType=png)|37,069||18-28|united states|
+|Arizona Students' Association: AZ Students Association|164.00 USD|[28](https://www.snap.com/political-ads/asset/334098b021f97b11926c6374f37d2e07621107f116329437e0f65320e14b2144?mediaType=png)|37,059||18-28|united states|
+|Arizona Students' Association: AZ Students Association|159.00 USD|[29](https://www.snap.com/political-ads/asset/fbd06f9e40c4afe72a28225a1696fc2d5c79234b89b0fe76a888aa0342bcb171?mediaType=png)|35,874||18-28|united states|
+|Arizona Students' Association: AZ Students Association|155.00 USD|[30](https://www.snap.com/political-ads/asset/8fd9b1814d30f54dff799c71c79141fb043f6a07ed1c4267b7e5561aaac314b1?mediaType=png)|34,877||18-28|united states|
+|Arizona Students' Association: AZ Students Association|147.00 USD|[31](https://www.snap.com/political-ads/asset/4ca8d4c85a69b18441a7770c9b6108c7a1ed6117f7d97fa5d92d9cb6e9e001bf?mediaType=png)|33,294||18-28|united states|
+|Arizona Students' Association: AZ Students Association|145.00 USD|[32](https://www.snap.com/political-ads/asset/9dc1bf7dafb3b45704dd726b732d2471ba12a0eb75a0c4273d37720844e416e9?mediaType=png)|32,584||18-28|united states|
+|Arizona Students' Association: AZ Students Association|143.00 USD|[33](https://www.snap.com/political-ads/asset/2a18fdf2715ae476a0452cfc396aa6518b13e1d3021a84893a3e2c7938f1aed8?mediaType=png)|32,400||18-28|united states|
+|Arizona Students' Association: AZ Students Association|83.00 USD|[34](https://www.snap.com/political-ads/asset/709f530a0e5f75738fe95917cfa8c7518067d8eca1c0b7c54fecd12c8dbcbd0a?mediaType=mp4)|31,722||18-26|united states|
+|Arizona Students' Association: AZ Students Association|150.00 USD|[35](https://www.snap.com/political-ads/asset/ced9aa2412f8185f1210085c0de45b7a377773f30518ebef25fa444c1b9d56d4?mediaType=mp4)|31,680||18-26|united states|
+|Arizona Students' Association: AZ Students Association|123.00 USD|[36](https://www.snap.com/political-ads/asset/ae81b89fea648bde1a10b0497b00f5e400ff96f0fe6e0be82359799d5d37afa2?mediaType=png)|29,272||18-26|united states|
+|Arizona Students' Association: AZ Students Association|71.00 USD|[37](https://www.snap.com/political-ads/asset/05effc0a4c42e74f9e7bb31276a550fa9032453b07f4155e25cecee0e1542866?mediaType=mp4)|29,058||18-24|united states|
+|Arizona Students' Association: AZ Students Association|96.00 USD|[38](https://www.snap.com/political-ads/asset/131b2329fec79d21318b2382ecfcd68d7843576e8eecfefa1e8e18fec619d968?mediaType=png)|28,793||24-|united states|
+|Arizona Students' Association: AZ Students Association|115.00 USD|[39](https://www.snap.com/political-ads/asset/f1186a9652da6a8cb7da249e42be7499073ba1c5b88f7cab0918641aa5b6f6c1?mediaType=png)|28,244||18-24|united states|
+|Arizona Students' Association: AZ Students Association|113.00 USD|[40](https://www.snap.com/political-ads/asset/d7da154e46ba3b6ebc28643384949dc3168b3fbd899d01ba2ce4990ff30b8c2e?mediaType=png)|27,777||18-24|united states|
+|Arizona Students' Association: AZ Students Association|122.00 USD|[41](https://www.snap.com/political-ads/asset/67dc6384705695d7f868494aca18368ba41947f8cc5827cbc657f697b933f8e9?mediaType=png)|26,598||18-24|united states|
+|Arizona Students' Association: AZ Students Association|119.00 USD|[42](https://www.snap.com/political-ads/asset/964afe3852249393fe08578de689e31d08acaf7d37cf74fb684fabe3c00f1b56?mediaType=mp4)|26,143||18-26|united states|
+|Arizona Students' Association: AZ Students Association|104.00 USD|[43](https://www.snap.com/political-ads/asset/54cc5330b71cc3cb85e7c5c640a1fdd1f2d8e071e5897622623317ab69082615?mediaType=png)|25,157||18-24|united states|
+|Arizona Students' Association: AZ Students Association|96.00 USD|[44](https://www.snap.com/political-ads/asset/5f6dfad1382feca545e80da6a8a3b9aad5d1fed53c58cbfef5363fbea2ea3e83?mediaType=png)|21,227||18-24|united states|
+|Arizona Students' Association: AZ Students Association|51.00 USD|[45](https://www.snap.com/political-ads/asset/709f530a0e5f75738fe95917cfa8c7518067d8eca1c0b7c54fecd12c8dbcbd0a?mediaType=mp4)|20,097||18-24|united states|
+|Arizona Students' Association: AZ Students Association|43.00 USD|[46](https://www.snap.com/political-ads/asset/bf949fe521b22f6fa74a93981dfd85fd6da7a69b43a4416593882525ae479113?mediaType=mp4)|18,409||18-24|united states|
+|Arizona Students' Association: AZ Students Association|68.00 USD|[47](https://www.snap.com/political-ads/asset/ced9aa2412f8185f1210085c0de45b7a377773f30518ebef25fa444c1b9d56d4?mediaType=mp4)|17,264||18-26|united states|
+|Arizona Students' Association: AZ Students Association|62.00 USD|[48](https://www.snap.com/political-ads/asset/43519207eceae24e9c41d60ac93c3a9322c73e24ff29c5fbf79ee67db1ecfa6e?mediaType=mp4)|14,247||18-26|united states|
+|Arizona Students' Association: AZ Students Association|51.00 USD|[49](https://www.snap.com/political-ads/asset/964afe3852249393fe08578de689e31d08acaf7d37cf74fb684fabe3c00f1b56?mediaType=mp4)|13,494||18-26|united states|
+|Arizona Students' Association: AZ Students Association|45.00 USD|[50](https://www.snap.com/political-ads/asset/43519207eceae24e9c41d60ac93c3a9322c73e24ff29c5fbf79ee67db1ecfa6e?mediaType=mp4)|11,612||18-26|united states|
+|Arizona Students' Association: AZ Students Association|19.00 USD|[51](https://www.snap.com/political-ads/asset/1cb2282b290629347196a22c6cfaced2e82295bffa679f8a90e32663c62ccc87?mediaType=png)|2,811||18-26|united states|

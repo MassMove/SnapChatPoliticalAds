@@ -1,7 +1,7 @@
 ## 2022 - Climate Power 
-**Spent**: 47,074.00
+**Spent**: 46,231.00
 
-**Impressions**: 12,969,203
+**Impressions**: 12,799,383
 
 **Billing Addresses**: 101 Avenue of the Americas, 12th Floor,New York,10013,US
 
@@ -40,18 +40,17 @@
 |Blue State Digital|625.00 USD|[30](https://www.snap.com/political-ads/asset/735581c4c4952cc74057b8f2fb22aabd891922b642c82789891fcaaca73a8fa6?mediaType=png)|175,095||18-24|united states|
 |Blue State Digital|623.00 USD|[31](https://www.snap.com/political-ads/asset/b4485f2df7559ef020152796b684345effc2e91f2f50d263f10f68c4a6b73db6?mediaType=png)|175,079||18-24|united states|
 |Blue State Digital|611.00 USD|[32](https://www.snap.com/political-ads/asset/43c7aca22dcf374d6e1df5c069c31d26cb6c9bec81c191ed4c903414558a9239?mediaType=png)|171,402||18-24|united states|
-|Blue State Digital|843.00 USD|[33](https://www.snap.com/political-ads/asset/b4fa3cb72e9c794ee2588ada24bc508a5d4bb3263561f30456aa68663cb3c5bd?mediaType=png)|169,820||18-24|united states|
-|Blue State Digital|800.00 USD|[34](https://www.snap.com/political-ads/asset/f15dfdb191af2e9641135a74022c07d2f58789d3b4083dc7dcd21c218294b4e0?mediaType=png)|161,429||18-24|united states|
-|Blue State Digital|779.00 USD|[35](https://www.snap.com/political-ads/asset/6a38c294b39bdde6c336375077fb5b490818c6c075a7aa31f671fd0430802885?mediaType=png)|157,223||18-24|united states|
-|Blue State Digital|556.00 USD|[36](https://www.snap.com/political-ads/asset/acb18a481ee02af4aacf6992a93e5579cf1b4536104510d82db7f1d6a73e5114?mediaType=png)|156,194||18-24|united states|
-|Blue State Digital|728.00 USD|[37](https://www.snap.com/political-ads/asset/a3cc78c24163c39886b269d6ed7b1a82fe71a444b8e696b27a6063da51e51fbb?mediaType=png)|146,554||18-24|united states|
-|Blue State Digital|724.00 USD|[38](https://www.snap.com/political-ads/asset/ae97b05f9e509e4e03e7c12584581c717b4cfd471a94b812fc83543f9851e620?mediaType=png)|146,007||18-24|united states|
-|Blue State Digital|527.00 USD|[39](https://www.snap.com/political-ads/asset/1c6b1b7509fc677ae84546d2e18330b74b911dfd8f2351b80dcd37f0e5420a99?mediaType=mp4)|144,449||18-22|united states|
-|Blue State Digital|479.00 USD|[40](https://www.snap.com/political-ads/asset/57a6ac441edebfbbef0eef36435996cbc0c4898dd5477f36db92df3c4e7f41b5?mediaType=png)|135,763||18-24|united states|
-|Blue State Digital|460.00 USD|[41](https://www.snap.com/political-ads/asset/5273aebda52f9f1ba32e280ec6420f0a12743a65e7e223d9531598b5a981cf45?mediaType=png)|130,847||18-24|united states|
-|Blue State Digital|457.00 USD|[42](https://www.snap.com/political-ads/asset/138fcd112fdc7c5449e665cedfc21088a31aeca53cd0db2547ee6737397dc3a3?mediaType=mp4)|129,452||18-24|united states|
-|Blue State Digital|623.00 USD|[43](https://www.snap.com/political-ads/asset/4e513c5f7591118678e6da95f2095f85857c043e4b23406a34089405bbc576e0?mediaType=mp4)|125,970||18-24|united states|
-|Blue State Digital|425.00 USD|[44](https://www.snap.com/political-ads/asset/b1cca1f5e060808ae06fc12dcf6f40052581762786b2cf092a19bf324392ea0b?mediaType=png)|120,720||18-24|united states|
-|Blue State Digital|408.00 USD|[45](https://www.snap.com/political-ads/asset/c050c19b13090fcccaa6d06cc718dcb29f259304cb0d7d068744fe2247b17c6a?mediaType=png)|115,988||18-24|united states|
-|Blue State Digital|396.00 USD|[46](https://www.snap.com/political-ads/asset/de2e711b2630e74fdc0047c78f44c09b648b4ea8a66f035b63c69ac02274db9b?mediaType=png)|112,836||18-24|united states|
-|Blue State Digital|329.00 USD|[47](https://www.snap.com/political-ads/asset/47a71689b40d6aca39033fedc7c02c4b654ae5e2cf72835fae4f7435387a3024?mediaType=mp4)|94,170||18-24|united states|
+|Blue State Digital|800.00 USD|[33](https://www.snap.com/political-ads/asset/f15dfdb191af2e9641135a74022c07d2f58789d3b4083dc7dcd21c218294b4e0?mediaType=png)|161,429||18-24|united states|
+|Blue State Digital|779.00 USD|[34](https://www.snap.com/political-ads/asset/6a38c294b39bdde6c336375077fb5b490818c6c075a7aa31f671fd0430802885?mediaType=png)|157,223||18-24|united states|
+|Blue State Digital|556.00 USD|[35](https://www.snap.com/political-ads/asset/acb18a481ee02af4aacf6992a93e5579cf1b4536104510d82db7f1d6a73e5114?mediaType=png)|156,194||18-24|united states|
+|Blue State Digital|728.00 USD|[36](https://www.snap.com/political-ads/asset/a3cc78c24163c39886b269d6ed7b1a82fe71a444b8e696b27a6063da51e51fbb?mediaType=png)|146,554||18-24|united states|
+|Blue State Digital|724.00 USD|[37](https://www.snap.com/political-ads/asset/ae97b05f9e509e4e03e7c12584581c717b4cfd471a94b812fc83543f9851e620?mediaType=png)|146,007||18-24|united states|
+|Blue State Digital|527.00 USD|[38](https://www.snap.com/political-ads/asset/1c6b1b7509fc677ae84546d2e18330b74b911dfd8f2351b80dcd37f0e5420a99?mediaType=mp4)|144,449||18-22|united states|
+|Blue State Digital|479.00 USD|[39](https://www.snap.com/political-ads/asset/57a6ac441edebfbbef0eef36435996cbc0c4898dd5477f36db92df3c4e7f41b5?mediaType=png)|135,763||18-24|united states|
+|Blue State Digital|460.00 USD|[40](https://www.snap.com/political-ads/asset/5273aebda52f9f1ba32e280ec6420f0a12743a65e7e223d9531598b5a981cf45?mediaType=png)|130,847||18-24|united states|
+|Blue State Digital|457.00 USD|[41](https://www.snap.com/political-ads/asset/138fcd112fdc7c5449e665cedfc21088a31aeca53cd0db2547ee6737397dc3a3?mediaType=mp4)|129,452||18-24|united states|
+|Blue State Digital|623.00 USD|[42](https://www.snap.com/political-ads/asset/4e513c5f7591118678e6da95f2095f85857c043e4b23406a34089405bbc576e0?mediaType=mp4)|125,970||18-24|united states|
+|Blue State Digital|425.00 USD|[43](https://www.snap.com/political-ads/asset/b1cca1f5e060808ae06fc12dcf6f40052581762786b2cf092a19bf324392ea0b?mediaType=png)|120,720||18-24|united states|
+|Blue State Digital|408.00 USD|[44](https://www.snap.com/political-ads/asset/c050c19b13090fcccaa6d06cc718dcb29f259304cb0d7d068744fe2247b17c6a?mediaType=png)|115,988||18-24|united states|
+|Blue State Digital|396.00 USD|[45](https://www.snap.com/political-ads/asset/de2e711b2630e74fdc0047c78f44c09b648b4ea8a66f035b63c69ac02274db9b?mediaType=png)|112,836||18-24|united states|
+|Blue State Digital|329.00 USD|[46](https://www.snap.com/political-ads/asset/47a71689b40d6aca39033fedc7c02c4b654ae5e2cf72835fae4f7435387a3024?mediaType=mp4)|94,170||18-24|united states|
