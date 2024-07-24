@@ -41,10 +41,10 @@
 |Høyre|4,610.00 NOK|[67](https://www.snap.com/political-ads/asset/7f25f22ff760a9ffe035d88a6c0ce6300f6673f3e5c4858f9ba403584c00b573?mediaType=mp4)|156,892||18+|norway|
 |Høyre|5,764.00 NOK|[68](https://www.snap.com/political-ads/asset/a5548b94c3ea1c2083873f0913a9bacc09698cccab3a66f69777ecb906dee2d0?mediaType=mp4)|150,362||18+|norway|
 |Høyre|13,594.00 NOK|[69](https://www.snap.com/political-ads/asset/829fc32f79a3fa013d0cfcbbf7a815ae87ce69203e499d9a3dbf97ce07a92ca3?mediaType=mp4)|142,686||18+|norway|
-|Høyre|7,728.00 NOK|[70](https://www.snap.com/political-ads/asset/f31740eb71c79a98de52126d658d849c0edda2f7612a158281e32c882b88f7b2?mediaType=mp4)|135,402|||norway|
+|Høyre|7,728.00 NOK|[70](https://www.snap.com/political-ads/asset/f31740eb71c79a98de52126d658d849c0edda2f7612a158281e32c882b88f7b2?mediaType=mp4)|135,402||18+|norway|
 |Høyre|8,714.00 NOK|[71](https://www.snap.com/political-ads/asset/385bc3fd508041a5d756171348d4469fcdc78aca21dea888bc42f8a94b18d81e?mediaType=mp4)|133,664||18+|norway|
 |Høyre|13,667.00 NOK|[72](https://www.snap.com/political-ads/asset/621adc7b6bf28434b38ba56b3e4fb319545af262fd780b68581d385e4ab6c825?mediaType=mp4)|132,693||18+|norway|
-|Høyre|8,025.00 NOK|[73](https://www.snap.com/political-ads/asset/18f36930c8e6b156253f53bda512f7ad0d8ecb91cc1cfbfea599e81da018fee2?mediaType=mp4)|131,678|||norway|
+|Høyre|8,025.00 NOK|[73](https://www.snap.com/political-ads/asset/18f36930c8e6b156253f53bda512f7ad0d8ecb91cc1cfbfea599e81da018fee2?mediaType=mp4)|131,678||18+|norway|
 |Høyre|11,619.00 NOK|[74](https://www.snap.com/political-ads/asset/26f5e4fe9913176f88e60a1f42ac1c05b1b96231d037a1caa1b62e605f60ded8?mediaType=mp4)|131,410||18+|norway|
 |Høyre|8,745.00 NOK|[75](https://www.snap.com/political-ads/asset/c71f475cf48c12f3e073579b818b45d8d5f39b6259885456955d4a459b65973a?mediaType=mp4)|129,100||18+|norway|
 |Høyre|12,718.00 NOK|[76](https://www.snap.com/political-ads/asset/99c1b7ae5ed9ba69d59a0c12ac617c024690cd1d70d9201ae88ab25b0ce1e10c?mediaType=mp4)|126,262||17+|norway|
@@ -56,8 +56,8 @@
 |Høyre|5,868.00 NOK|[82](https://www.snap.com/political-ads/asset/f73abce8c439bffa53265dcec50bc12477323c710e07974d01b46ebd98fa70e8?mediaType=mp4)|112,680||18+|norway|
 |Høyre|4,169.00 NOK|[83](https://www.snap.com/political-ads/asset/a98780f8f045b3609c14ad699ce6396462cb872eb957adce07968536dd44bcc6?mediaType=mp4)|108,992||18+|norway|
 |Høyre|4,162.00 NOK|[84](https://www.snap.com/political-ads/asset/228a2f5790c53b2a3ec19c8ca1f314fe7c838b7a0b12891b0f19e50de9d4500c?mediaType=mp4)|108,829||18+|norway|
-|Høyre|5,449.00 NOK|[85](https://www.snap.com/political-ads/asset/acc4bc4001d44c6592a1f4352b46a6ed16eeb1e15b84ebdda05a5f21e9dee48a?mediaType=mp4)|108,782|||norway|
-|Høyre|6,933.00 NOK|[86](https://www.snap.com/political-ads/asset/a0f7beef1098a424637ff024e88cc2ebbd1f5ef9a7882b5ee37a70b93e3ff073?mediaType=mp4)|107,666|||norway|
+|Høyre|5,449.00 NOK|[85](https://www.snap.com/political-ads/asset/acc4bc4001d44c6592a1f4352b46a6ed16eeb1e15b84ebdda05a5f21e9dee48a?mediaType=mp4)|108,782||18+|norway|
+|Høyre|6,933.00 NOK|[86](https://www.snap.com/political-ads/asset/a0f7beef1098a424637ff024e88cc2ebbd1f5ef9a7882b5ee37a70b93e3ff073?mediaType=mp4)|107,666||18+|norway|
 |Høyre|8,362.00 NOK|[87](https://www.snap.com/political-ads/asset/f64bf38ada6b61ef9f1e00cf107bc2590fb086651f593160a1b857f97c182449?mediaType=mp4)|107,100||18+|norway|
 |Høyre|5,292.00 NOK|[88](https://www.snap.com/political-ads/asset/c6b289d94a32c43a3553ec39bd79d8e13a350836175332f981f77969dd0003b6?mediaType=mp4)|106,646||22+|norway|
 |Høyre|10,753.00 NOK|[89](https://www.snap.com/political-ads/asset/438f62c5b0fe035ccf09820f0080a3b221778714fb641fa21107a4581a5be23e?mediaType=mp4)|106,082||18+|norway|
@@ -83,7 +83,7 @@
 |Høyre|6,378.00 NOK|[109](https://www.snap.com/political-ads/asset/0b628f2ef989c5baa90fb040afb7a6ec5333ffaf8478c204e67d98d7881085fb?mediaType=mp4)|70,024||22+|norway|
 |Høyre|4,238.00 NOK|[110](https://www.snap.com/political-ads/asset/7d805ccfabe54e6ea02a19665242b5c9e933fc1de77be9f0db7a1c96a859c5c4?mediaType=mp4)|69,780||18+|norway|
 |Høyre|3,898.00 NOK|[111](https://www.snap.com/political-ads/asset/d2e505a761d9274c9998de5f65501db0be9cba230dd0286b0eb5d26b466d8207?mediaType=mp4)|69,252||18+|norway|
-|Høyre|4,420.00 NOK|[112](https://www.snap.com/political-ads/asset/bbba4355169a4700609062220ce3440023228972fbfa39f88d66664e9b52e4e5?mediaType=mp4)|69,150|||norway|
+|Høyre|4,420.00 NOK|[112](https://www.snap.com/political-ads/asset/bbba4355169a4700609062220ce3440023228972fbfa39f88d66664e9b52e4e5?mediaType=mp4)|69,150||18+|norway|
 |Høyre|6,243.00 NOK|[113](https://www.snap.com/political-ads/asset/c2be5c73b26c336cf178799ea02fc4d73a61db094b50856b984e0faadb3083af?mediaType=mp4)|68,381||18+|norway|
 |Høyre|5,221.00 NOK|[114](https://www.snap.com/political-ads/asset/e72740a3fc020f6cc4174006ccafe15bbe549fb9a227eea3e1c0daefed0fea99?mediaType=mp4)|68,194||18+|norway|
 |Høyre|4,247.00 NOK|[115](https://www.snap.com/political-ads/asset/3c570875f8c25f754beea1592fc3b942342448c398f3ce5b697f74fcdd349114?mediaType=mp4)|67,860||18+|norway|
@@ -125,7 +125,7 @@
 |Høyre|3,100.00 NOK|[151](https://www.snap.com/political-ads/asset/18acad5c2893a2c095d5b33dd7de08b5c87aa83b89cfa6ddfcdc03c1cf85d209?mediaType=mp4)|44,209||18+|norway|
 |Høyre|2,761.00 NOK|[152](https://www.snap.com/political-ads/asset/25b5f9231684cc51ba01ba854ad08e960cf1aa7ca2ccacb298d0a38fb7d27271?mediaType=mp4)|43,659||18+|norway|
 |Høyre|2,518.00 NOK|[153](https://www.snap.com/political-ads/asset/96f458ca4517521ad0a851346c3b598cf1189115a8a94a6e384196566826fba3?mediaType=mp4)|43,335||18+|norway|
-|Høyre|2,441.00 NOK|[154](https://www.snap.com/political-ads/asset/66cbbb3b41725f48c4cb51728709e8b8a1d884a4f6dd4f7cbf1e64c08e153067?mediaType=mp4)|43,180|||norway|
+|Høyre|2,441.00 NOK|[154](https://www.snap.com/political-ads/asset/66cbbb3b41725f48c4cb51728709e8b8a1d884a4f6dd4f7cbf1e64c08e153067?mediaType=mp4)|43,180||18+|norway|
 |Høyre|3,991.00 NOK|[155](https://www.snap.com/political-ads/asset/4648eb7994ce73770357a05f477a21ac79361f813f7a103ec2fea7776b909873?mediaType=mp4)|43,091||18+|norway|
 |Høyre|3,056.00 NOK|[156](https://www.snap.com/political-ads/asset/bfa5d9eead37de4b49646a07be35351352fd1a7c2a59f8e5043a56b502a9280e?mediaType=mp4)|42,833||18+|norway|
 |Høyre|2,679.00 NOK|[157](https://www.snap.com/political-ads/asset/0eb02a1767bc4bf4e96b51f4be856af69e70b60189992fb46f554232e8dea0f5?mediaType=mp4)|42,624||18+|norway|

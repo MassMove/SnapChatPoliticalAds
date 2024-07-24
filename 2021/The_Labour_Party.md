@@ -19,7 +19,7 @@
 |The Labour Party|678.00 GBP|[9](https://www.snap.com/political-ads/asset/a93d27c3e7fcc742aa5eef82046b19e7327d271b13b353484cfec2688b17467d?mediaType=mp4)|384,112||18+|united kingdom|
 |The Labour Party|1,000.00 GBP|[10](https://www.snap.com/political-ads/asset/754a26137d7eb70932c10697c8b4697b1796c0777a6c758a9d492f48b6bcd3c9?mediaType=mp4)|311,170||18+|united kingdom|
 |The Labour Party|1,000.00 GBP|[11](https://www.snap.com/political-ads/asset/b41c7c6eb84525226bb37fc317563b6e10584857ce33b01136f745cab4175699?mediaType=mp4)|282,091||18+|united kingdom|
-|The Labour Party|500.00 GBP|[12](https://www.snap.com/political-ads/asset/75593c7ae6cad989953f02f2fb9209c75e93bb0b2aa17d232b8a3561c51f9080?mediaType=mp4)|255,180|||united kingdom|
+|The Labour Party|500.00 GBP|[12](https://www.snap.com/political-ads/asset/75593c7ae6cad989953f02f2fb9209c75e93bb0b2aa17d232b8a3561c51f9080?mediaType=mp4)|255,180||18+|united kingdom|
 |The Labour Party|559.00 GBP|[13](https://www.snap.com/political-ads/asset/a2fe1e03e70e0843563a916d497b0c32a2efdc579db03131d84f14d19d942dbe?mediaType=png)|237,437||18+|united kingdom|
 |The Labour Party|541.00 GBP|[14](https://www.snap.com/political-ads/asset/9503c7fcdb6797b23b2f7a016e5b173407fefb682a8971cdc62e6389e6dccb3c?mediaType=png)|229,032||18+|united kingdom|
 |The Labour Party|500.00 GBP|[15](https://www.snap.com/political-ads/asset/e30db586c528f4af9229024e22fe93738e6afef0658e71ff54c906f00f11ec0e?mediaType=png)|228,497||18+|united kingdom|

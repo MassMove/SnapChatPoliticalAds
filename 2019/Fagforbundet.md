@@ -7,8 +7,8 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|T/A Opt|200.00 EUR|[0](https://www.snap.com/political-ads/asset/7328f470292ec4260c2a08ebc52ece6ee021acf2aeff55242994288992fcaf5b?mediaType=mp4)|94,667||25+|norway|
-|T/A Opt|186.00 EUR|[1](https://www.snap.com/political-ads/asset/2c6dd76c1e8787e0f22bab0e31d909fb43dde6bea770cb03b910c74b24ef1a21?mediaType=mp4)|88,297||25+|norway|
-|T/A Opt|70.00 EUR|[2](https://www.snap.com/political-ads/asset/ef96c6e0a2da9d6967f38988ea2d689b874458be4da38822fdcc4c1aaeb1a151?mediaType=mp4)|32,192||25+|norway|
-|T/A Opt|61.00 EUR|[3](https://www.snap.com/political-ads/asset/97f9c7ed0a25d0022810cec48fd806e48f897922fa99999149e7576387304a7e?mediaType=mp4)|28,717||25+|norway|
-|T/A Opt|54.00 EUR|[4](https://www.snap.com/political-ads/asset/607dc6abfd9f38b588b624dd4743d772d3b540e7f7d700cf247dcb4b47193096?mediaType=mp4)|25,028||25+|norway|
+|Try Schjærven Media|200.00 EUR|[0](https://www.snap.com/political-ads/asset/7328f470292ec4260c2a08ebc52ece6ee021acf2aeff55242994288992fcaf5b?mediaType=mp4)|94,667||25+|norway|
+|Try Schjærven Media|186.00 EUR|[1](https://www.snap.com/political-ads/asset/2c6dd76c1e8787e0f22bab0e31d909fb43dde6bea770cb03b910c74b24ef1a21?mediaType=mp4)|88,297||25+|norway|
+|Try Schjærven Media|70.00 EUR|[2](https://www.snap.com/political-ads/asset/ef96c6e0a2da9d6967f38988ea2d689b874458be4da38822fdcc4c1aaeb1a151?mediaType=mp4)|32,192||25+|norway|
+|Try Schjærven Media|61.00 EUR|[3](https://www.snap.com/political-ads/asset/97f9c7ed0a25d0022810cec48fd806e48f897922fa99999149e7576387304a7e?mediaType=mp4)|28,717||25+|norway|
+|Try Schjærven Media|54.00 EUR|[4](https://www.snap.com/political-ads/asset/607dc6abfd9f38b588b624dd4743d772d3b540e7f7d700cf247dcb4b47193096?mediaType=mp4)|25,028||25+|norway|

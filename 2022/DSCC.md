@@ -5,40 +5,40 @@
 
 **Billing Addresses**: 
 - US
+- 2939 Van Ness St NW #1006,Washington,20008,US
 - Po Box 21600,Washington,20009,US
 - 1421 Prince St Suite 320,Alexandria,22314,US
-- 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
-|MVAR Media|21,610.00 USD|[0](https://www.snap.com/political-ads/asset/343f98cb8498fde9da7450c618cdbe5daeba434f45cdc8793f8e206f288ed1d8?mediaType=mp4)|2,216,740||18+|united states|"1421 Prince St Suite 320,Alexandria,22314,US"|
-|Middle Seat Consulting  LLC: DSCC|6,269.00 USD|[1](https://www.snap.com/political-ads/asset/9a4b9bc2b615be4098570346622338b2612aed0fd2475307cc85d36a8f66ca21?mediaType=mp4)|1,979,306||18+|united states|"Po Box 21600,Washington,20009,US"|
-|Middle Seat Consulting  LLC: DSCC|4,387.00 USD|[2](https://www.snap.com/political-ads/asset/9c2daf46cd1ec0ed75d20de3a3baad1b91b16c6546bbb85e71d9437a600c582e?mediaType=mp4)|1,394,269||18+|united states|"Po Box 21600,Washington,20009,US"|
-|Middle Seat Consulting  LLC: DSCC|6,081.00 USD|[3](https://www.snap.com/political-ads/asset/9c2daf46cd1ec0ed75d20de3a3baad1b91b16c6546bbb85e71d9437a600c582e?mediaType=mp4)|1,174,401||18+|united states|"Po Box 21600,Washington,20009,US"|
-|Middle Seat Consulting  LLC: DSCC|5,870.00 USD|[4](https://www.snap.com/political-ads/asset/adb2e393872bc62ca8ee2468c441a7376e1e6ad2d72d73591796d1505e41fd74?mediaType=mp4)|1,137,790||18+|united states|"Po Box 21600,Washington,20009,US"|
-|Middle Seat Consulting  LLC: DSCC|5,636.00 USD|[5](https://www.snap.com/political-ads/asset/9a4b9bc2b615be4098570346622338b2612aed0fd2475307cc85d36a8f66ca21?mediaType=mp4)|1,088,353||18+|united states|"Po Box 21600,Washington,20009,US"|
-|Middle Seat Consulting  LLC: DSCC|3,253.00 USD|[6](https://www.snap.com/political-ads/asset/adb2e393872bc62ca8ee2468c441a7376e1e6ad2d72d73591796d1505e41fd74?mediaType=mp4)|1,035,463||18+|united states|"Po Box 21600,Washington,20009,US"|
-|MVAR Media|8,989.00 USD|[7](https://www.snap.com/political-ads/asset/72c2142525f89e15cb8bc01f7dd78ba6d0d3b1069dbbf7f63932bcd6f6fbd4c5?mediaType=mp4)|953,840||18+|united states|"1421 Prince St Suite 320,Alexandria,22314,US"|
-|Gambit Strategies|2,535.00 USD|[8](https://www.snap.com/political-ads/asset/6758a74b3f538e55a6816f1934b24e408a8c2aa04268c846717c077e2ffb256c?mediaType=mp4)|617,993|FEMALE|18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"|
-|MVAR Media|4,689.00 USD|[9](https://www.snap.com/political-ads/asset/054b42f22499df5b6506c48aec22df439a0f21342c2d5c51fcd9eeb37dd2f024?mediaType=mp4)|204,619||18+|united states|"1421 Prince St Suite 320,Alexandria,22314,US"|
+|MVAR Media|21,610.00 USD|[0](https://www.snap.com/political-ads/asset/343f98cb8498fde9da7450c618cdbe5daeba434f45cdc8793f8e206f288ed1d8?mediaType=mp4)|2,216,740||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|Middle Seat Consulting  LLC: DSCC|6,269.00 USD|[1](https://www.snap.com/political-ads/asset/9a4b9bc2b615be4098570346622338b2612aed0fd2475307cc85d36a8f66ca21?mediaType=mp4)|1,979,306||18+|united states|Po Box 21600,Washington,20009,US|
+|Middle Seat Consulting  LLC: DSCC|4,387.00 USD|[2](https://www.snap.com/political-ads/asset/9c2daf46cd1ec0ed75d20de3a3baad1b91b16c6546bbb85e71d9437a600c582e?mediaType=mp4)|1,394,269||18+|united states|Po Box 21600,Washington,20009,US|
+|Middle Seat Consulting  LLC: DSCC|6,081.00 USD|[3](https://www.snap.com/political-ads/asset/9c2daf46cd1ec0ed75d20de3a3baad1b91b16c6546bbb85e71d9437a600c582e?mediaType=mp4)|1,174,401||18+|united states|Po Box 21600,Washington,20009,US|
+|Middle Seat Consulting  LLC: DSCC|5,870.00 USD|[4](https://www.snap.com/political-ads/asset/adb2e393872bc62ca8ee2468c441a7376e1e6ad2d72d73591796d1505e41fd74?mediaType=mp4)|1,137,790||18+|united states|Po Box 21600,Washington,20009,US|
+|Middle Seat Consulting  LLC: DSCC|5,636.00 USD|[5](https://www.snap.com/political-ads/asset/9a4b9bc2b615be4098570346622338b2612aed0fd2475307cc85d36a8f66ca21?mediaType=mp4)|1,088,353||18+|united states|Po Box 21600,Washington,20009,US|
+|Middle Seat Consulting  LLC: DSCC|3,253.00 USD|[6](https://www.snap.com/political-ads/asset/adb2e393872bc62ca8ee2468c441a7376e1e6ad2d72d73591796d1505e41fd74?mediaType=mp4)|1,035,463||18+|united states|Po Box 21600,Washington,20009,US|
+|MVAR Media|8,989.00 USD|[7](https://www.snap.com/political-ads/asset/72c2142525f89e15cb8bc01f7dd78ba6d0d3b1069dbbf7f63932bcd6f6fbd4c5?mediaType=mp4)|953,840||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|Gambit Strategies|2,535.00 USD|[8](https://www.snap.com/political-ads/asset/6758a74b3f538e55a6816f1934b24e408a8c2aa04268c846717c077e2ffb256c?mediaType=mp4)|617,993|FEMALE|18+|united states|2939 Van Ness St NW #1006,Washington,20008,US|
+|MVAR Media|4,689.00 USD|[9](https://www.snap.com/political-ads/asset/054b42f22499df5b6506c48aec22df439a0f21342c2d5c51fcd9eeb37dd2f024?mediaType=mp4)|204,619||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
 |Wavelength Strategy|2,404.00 USD|[10](https://www.snap.com/political-ads/asset/fe853fbdd02593bb0a6b6af03d4c735bec3af5f808cfc5d35db580571487c044?mediaType=mp4)|170,713||18+|united states|US|
-|Gambit Strategies|1,561.00 USD|[11](https://www.snap.com/political-ads/asset/84a0cdc58d0de33235bfd74976ef30793370b3e4001b263ebe7d89f7a96ccca2?mediaType=mp4)|130,841|FEMALE|18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"|
+|Gambit Strategies|1,561.00 USD|[11](https://www.snap.com/political-ads/asset/84a0cdc58d0de33235bfd74976ef30793370b3e4001b263ebe7d89f7a96ccca2?mediaType=mp4)|130,841|FEMALE|18+|united states|2939 Van Ness St NW #1006,Washington,20008,US|
 |Wavelength Strategy|2,307.00 USD|[12](https://www.snap.com/political-ads/asset/3ad8e90530d790f83608e6b2cb1c6cbbb251bc3e5af6106cd12f9bc6eb198b23?mediaType=png)|130,290||18+|united states|US|
-|Middle Seat Consulting  LLC: DSCC|1,917.00 USD|[13](https://www.snap.com/political-ads/asset/325960e718e15f82d6aee418d6f10df610a982d382735a4e170f0be239c16158?mediaType=mp4)|119,319||18+|united states|"Po Box 21600,Washington,20009,US"|
-|Middle Seat Consulting  LLC: DSCC|1,716.00 USD|[14](https://www.snap.com/political-ads/asset/3b9aff3be99db744961f8a890468c2e53fc534f3992196fd77be8634bdd9fbde?mediaType=mp4)|106,467||18+|united states|"Po Box 21600,Washington,20009,US"|
+|Middle Seat Consulting  LLC: DSCC|1,917.00 USD|[13](https://www.snap.com/political-ads/asset/325960e718e15f82d6aee418d6f10df610a982d382735a4e170f0be239c16158?mediaType=mp4)|119,319||18+|united states|Po Box 21600,Washington,20009,US|
+|Middle Seat Consulting  LLC: DSCC|1,716.00 USD|[14](https://www.snap.com/political-ads/asset/3b9aff3be99db744961f8a890468c2e53fc534f3992196fd77be8634bdd9fbde?mediaType=mp4)|106,467||18+|united states|Po Box 21600,Washington,20009,US|
 |Wavelength Strategy|1,702.00 USD|[15](https://www.snap.com/political-ads/asset/ed58345f2379fdf8682bf8bf3aa9ddaa3d41e7ac728165d5e804e0717a5839d3?mediaType=mp4)|88,792||18+|united states|US|
 |Wavelength Strategy|1,834.00 USD|[16](https://www.snap.com/political-ads/asset/c0d5256f178f56f3c807f891b3b1ac82ab3706deff2061f623c329936106e26e?mediaType=jpg)|84,958||18+|united states|US|
 |Wavelength Strategy|1,411.00 USD|[17](https://www.snap.com/political-ads/asset/1ae1cb23939cf4d195230a70277577f08741caa29da2d0d286b1ff038ba43c80?mediaType=mp4)|82,046||18+|united states|US|
-|Gambit Strategies|2,054.00 USD|[18](https://www.snap.com/political-ads/asset/bd123464f6acfb8341b50c2d011a36c1388c4575992a84d4d5ff809a4f73803a?mediaType=mp4)|81,189|FEMALE|18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"|
+|Gambit Strategies|2,054.00 USD|[18](https://www.snap.com/political-ads/asset/bd123464f6acfb8341b50c2d011a36c1388c4575992a84d4d5ff809a4f73803a?mediaType=mp4)|81,189|FEMALE|18+|united states|2939 Van Ness St NW #1006,Washington,20008,US|
 |Wavelength Strategy|1,450.00 USD|[19](https://www.snap.com/political-ads/asset/1ae1cb23939cf4d195230a70277577f08741caa29da2d0d286b1ff038ba43c80?mediaType=mp4)|80,850||18+|united states|US|
 |Wavelength Strategy|952.00 USD|[20](https://www.snap.com/political-ads/asset/b766ff9750deaf6d75649502b9476f7ea4b4d92d8898d17ef4a1455765eb8d43?mediaType=mp4)|80,759||18+|united states|US|
 |Wavelength Strategy|1,016.00 USD|[21](https://www.snap.com/political-ads/asset/c0d5256f178f56f3c807f891b3b1ac82ab3706deff2061f623c329936106e26e?mediaType=jpg)|79,591||18+|united states|US|
 |Wavelength Strategy|1,905.00 USD|[22](https://www.snap.com/political-ads/asset/fe853fbdd02593bb0a6b6af03d4c735bec3af5f808cfc5d35db580571487c044?mediaType=mp4)|76,683||18+|united states|US|
-|Middle Seat Consulting  LLC: DSCC|924.00 USD|[23](https://www.snap.com/political-ads/asset/7905979bbf6482bf7dbf17a432a195df58f4c9ef27df6412be2be65e1c7f7ff5?mediaType=mp4)|74,616||18+|united states|"Po Box 21600,Washington,20009,US"|
+|Middle Seat Consulting  LLC: DSCC|924.00 USD|[23](https://www.snap.com/political-ads/asset/7905979bbf6482bf7dbf17a432a195df58f4c9ef27df6412be2be65e1c7f7ff5?mediaType=mp4)|74,616||18+|united states|Po Box 21600,Washington,20009,US|
 |Wavelength Strategy|795.00 USD|[24](https://www.snap.com/political-ads/asset/b766ff9750deaf6d75649502b9476f7ea4b4d92d8898d17ef4a1455765eb8d43?mediaType=mp4)|70,487||18+|united states|US|
 |Wavelength Strategy|810.00 USD|[25](https://www.snap.com/political-ads/asset/fe853fbdd02593bb0a6b6af03d4c735bec3af5f808cfc5d35db580571487c044?mediaType=mp4)|63,595||18+|united states|US|
 |Wavelength Strategy|1,491.00 USD|[26](https://www.snap.com/political-ads/asset/3ad8e90530d790f83608e6b2cb1c6cbbb251bc3e5af6106cd12f9bc6eb198b23?mediaType=png)|58,319||18+|united states|US|
-|Gambit Strategies|845.00 USD|[27](https://www.snap.com/political-ads/asset/6758a74b3f538e55a6816f1934b24e408a8c2aa04268c846717c077e2ffb256c?mediaType=mp4)|52,906|FEMALE|18+|united states|"2939 Van Ness St NW #1006,Washington,20008,US"|
+|Gambit Strategies|845.00 USD|[27](https://www.snap.com/political-ads/asset/6758a74b3f538e55a6816f1934b24e408a8c2aa04268c846717c077e2ffb256c?mediaType=mp4)|52,906|FEMALE|18+|united states|2939 Van Ness St NW #1006,Washington,20008,US|
 |Wavelength Strategy|845.00 USD|[28](https://www.snap.com/political-ads/asset/c0d5256f178f56f3c807f891b3b1ac82ab3706deff2061f623c329936106e26e?mediaType=jpg)|52,172||18+|united states|US|
 |Wavelength Strategy|831.00 USD|[29](https://www.snap.com/political-ads/asset/3ad8e90530d790f83608e6b2cb1c6cbbb251bc3e5af6106cd12f9bc6eb198b23?mediaType=png)|48,655||18+|united states|US|
 |Wavelength Strategy|971.00 USD|[30](https://www.snap.com/political-ads/asset/c0d5256f178f56f3c807f891b3b1ac82ab3706deff2061f623c329936106e26e?mediaType=jpg)|44,981||18+|united states|US|
@@ -51,7 +51,7 @@
 |Wavelength Strategy|939.00 USD|[37](https://www.snap.com/political-ads/asset/1ae1cb23939cf4d195230a70277577f08741caa29da2d0d286b1ff038ba43c80?mediaType=mp4)|34,774||18+|united states|US|
 |Wavelength Strategy|557.00 USD|[38](https://www.snap.com/political-ads/asset/b766ff9750deaf6d75649502b9476f7ea4b4d92d8898d17ef4a1455765eb8d43?mediaType=mp4)|34,535||18+|united states|US|
 |Wavelength Strategy|900.00 USD|[39](https://www.snap.com/political-ads/asset/1ae1cb23939cf4d195230a70277577f08741caa29da2d0d286b1ff038ba43c80?mediaType=mp4)|33,153||18+|united states|US|
-|MVAR Media|710.00 USD|[40](https://www.snap.com/political-ads/asset/5085fe97a4785a3d4b3383ed0d17e3d6f40943454857df1de08df8c79140d00c?mediaType=mp4)|31,266||18+|united states|"1421 Prince St Suite 320,Alexandria,22314,US"|
+|MVAR Media|710.00 USD|[40](https://www.snap.com/political-ads/asset/5085fe97a4785a3d4b3383ed0d17e3d6f40943454857df1de08df8c79140d00c?mediaType=mp4)|31,266||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
 |Wavelength Strategy|738.00 USD|[41](https://www.snap.com/political-ads/asset/b766ff9750deaf6d75649502b9476f7ea4b4d92d8898d17ef4a1455765eb8d43?mediaType=mp4)|31,017||18+|united states|US|
 |Wavelength Strategy|490.00 USD|[42](https://www.snap.com/political-ads/asset/fe853fbdd02593bb0a6b6af03d4c735bec3af5f808cfc5d35db580571487c044?mediaType=mp4)|30,551||18+|united states|US|
 |Wavelength Strategy|385.00 USD|[43](https://www.snap.com/political-ads/asset/b766ff9750deaf6d75649502b9476f7ea4b4d92d8898d17ef4a1455765eb8d43?mediaType=mp4)|29,617||18+|united states|US|

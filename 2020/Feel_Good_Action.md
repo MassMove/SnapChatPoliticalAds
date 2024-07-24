@@ -3,7 +3,7 @@
 
 **Impressions**: 689,204
 
-**Billing Addresses**: US
+**Billing Addresses**: 2339 Fairview Ave East #L,Seattle,98102,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

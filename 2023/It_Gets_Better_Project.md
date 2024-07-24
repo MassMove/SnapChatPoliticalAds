@@ -1,21 +1,21 @@
 ## 2023 - It Gets Better Project 
-**Spent**: 15,887.00
+**Spent**: 20,405.00
 
-**Impressions**: 6,845,249
+**Impressions**: 9,361,381
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|It Gets Better Project|2,483.00 USD|[0](https://www.snap.com/political-ads/asset/6b633a54281c5067c77b77da6e6912dae1842accafcc2e6035fc32062f87e7dd?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/85badc2fd4d5e0f106a1e1bc63b7f49d0eaffb20391655f686b0ad17018bdf5e?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/848122fde5020d605fff3896e2b2e5f0250c799899f63e8eb7c07d04630bbaf5?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/5aef91885e2c7cd4d72e5f06626abb8c87e9fd0391b1586564ce20bc6182311c?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/ee3a730e0e10e3e44398f3a59328f6f6d8bbc13d5befd0c74e938cb82ceb231d?mediaType=mp4)|2,779,961||17-|united states|
+|It Gets Better Project|6,927.00 USD|[0](https://www.snap.com/political-ads/asset/6b633a54281c5067c77b77da6e6912dae1842accafcc2e6035fc32062f87e7dd?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/85badc2fd4d5e0f106a1e1bc63b7f49d0eaffb20391655f686b0ad17018bdf5e?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/848122fde5020d605fff3896e2b2e5f0250c799899f63e8eb7c07d04630bbaf5?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/5aef91885e2c7cd4d72e5f06626abb8c87e9fd0391b1586564ce20bc6182311c?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/ee3a730e0e10e3e44398f3a59328f6f6d8bbc13d5befd0c74e938cb82ceb231d?mediaType=mp4)|5,272,536||17-|united states|
 |It Gets Better Project: NA|7,188.00 USD|[5](https://www.snap.com/political-ads/asset/690f713ad2abff6f6915ac1abbc1a6adfd37d9a50e028e62456843291e885777?mediaType=mp4)|2,113,710||14-18|united states|
 |It Gets Better Project: NA|3,528.00 USD|[6](https://www.snap.com/political-ads/asset/1427807dc3e7a326f5e4a066b58e962edba35aff3a16b1289ab8f9f45f2a4555?mediaType=mp4)|1,191,357||14-18|united states|
 |It Gets Better Project: na|709.00 USD|[7](https://www.snap.com/political-ads/asset/b5199cc948f429f69227925a27ab41f4e02a8ac55d53a778f063862d12de77c1?mediaType=mp4)|289,965||30-|united states|
-|It Gets Better Project|515.00 USD|[8](https://www.snap.com/political-ads/asset/6b633a54281c5067c77b77da6e6912dae1842accafcc2e6035fc32062f87e7dd?mediaType=mp4)|144,094||17-|united states|
+|It Gets Better Project|529.00 USD|[8](https://www.snap.com/political-ads/asset/6b633a54281c5067c77b77da6e6912dae1842accafcc2e6035fc32062f87e7dd?mediaType=mp4)|150,047||17-|united states|
 |It Gets Better Project: na|454.00 USD|[9](https://www.snap.com/political-ads/asset/48642c62943c44f1fadd42bea0a7e3e1922f504e4ab74f903e20c804fcf3beb4?mediaType=mp4)|86,836||30-|united states|
-|It Gets Better Project|181.00 USD|[10](https://www.snap.com/political-ads/asset/848122fde5020d605fff3896e2b2e5f0250c799899f63e8eb7c07d04630bbaf5?mediaType=mp4)|64,593||17-|united states|
-|It Gets Better Project|219.00 USD|[11](https://www.snap.com/political-ads/asset/5aef91885e2c7cd4d72e5f06626abb8c87e9fd0391b1586564ce20bc6182311c?mediaType=mp4)|38,482||17-|united states|
-|It Gets Better Project|82.00 USD|[12](https://www.snap.com/political-ads/asset/85badc2fd4d5e0f106a1e1bc63b7f49d0eaffb20391655f686b0ad17018bdf5e?mediaType=mp4)|18,212||17-|united states|
+|It Gets Better Project|201.00 USD|[10](https://www.snap.com/political-ads/asset/848122fde5020d605fff3896e2b2e5f0250c799899f63e8eb7c07d04630bbaf5?mediaType=mp4)|70,593||17-|united states|
+|It Gets Better Project|239.00 USD|[11](https://www.snap.com/political-ads/asset/5aef91885e2c7cd4d72e5f06626abb8c87e9fd0391b1586564ce20bc6182311c?mediaType=mp4)|44,240||17-|united states|
+|It Gets Better Project|102.00 USD|[12](https://www.snap.com/political-ads/asset/85badc2fd4d5e0f106a1e1bc63b7f49d0eaffb20391655f686b0ad17018bdf5e?mediaType=mp4)|24,058||17-|united states|
 |It Gets Better Project: na|128.00 USD|[13](https://www.snap.com/political-ads/asset/032568bc9e0368ab57ea583c6dbc4690ceaa62a154cb8c2efda3b9f2de84c865?mediaType=mp4)|18,056||30-|united states|
 |It Gets Better Project: na|47.00 USD|[14](https://www.snap.com/political-ads/asset/f78db6d0d111fa15619f2f13cc10403101421c22de334bf9e480fa7b4f259a0c?mediaType=mp4)|16,937||30-|united states|
 |It Gets Better Project: na|52.00 USD|[15](https://www.snap.com/political-ads/asset/9d2eda0469aec27261314e041877067eaf80e6f0762c8596a55f33c53e218328?mediaType=mp4)|11,678||30-|united states|
