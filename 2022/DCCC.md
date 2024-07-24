@@ -9,11 +9,11 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
-|AL Media|14,253.00 USD|[0](https://www.snap.com/political-ads/asset/b782dbe7b43de40552cf11ff711a087a727242ed53576cecd598e0be2abd922f?mediaType=mp4)|3,436,191|||united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|
-|AL Media|5,000.00 USD|[1](https://www.snap.com/political-ads/asset/e6cf3c0d02a7b65555bbe6022c6efd162a515ec0f4306f53e1977a1ca5b516b5?mediaType=mp4)|1,049,758|||united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|
+|AL Media|14,253.00 USD|[0](https://www.snap.com/political-ads/asset/b782dbe7b43de40552cf11ff711a087a727242ed53576cecd598e0be2abd922f?mediaType=mp4)|3,436,191|||united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media|5,000.00 USD|[1](https://www.snap.com/political-ads/asset/e6cf3c0d02a7b65555bbe6022c6efd162a515ec0f4306f53e1977a1ca5b516b5?mediaType=mp4)|1,049,758|||united states|222 W Ontario, Suite 600,,Chicago,60654,US|
 |Human Age Digital|1,030.00 USD|[2](https://www.snap.com/political-ads/asset/5b722e6650c37f38c4844cc8724db824f17c00973f8d32b2cd7fa27e84b3bb9a?mediaType=mp4)|304,526||18+|united states|US|
 |Human Age Digital: Rudy Salas para el Congresso|882.00 USD|[3](https://www.snap.com/political-ads/asset/17110f878eb717f6e64880800fcb3cdea8e8c53e382002ac719e1d297230fb5f?mediaType=mp4)|229,318||18+|united states|US|
-|AL Media|746.00 USD|[4](https://www.snap.com/political-ads/asset/94b736ef1038f7e18de66accc564c0c05fbc6f0203c3bce9432c6a06d300cddc?mediaType=mp4)|199,445|||united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|
+|AL Media|746.00 USD|[4](https://www.snap.com/political-ads/asset/94b736ef1038f7e18de66accc564c0c05fbc6f0203c3bce9432c6a06d300cddc?mediaType=mp4)|199,445|||united states|222 W Ontario, Suite 600,,Chicago,60654,US|
 |Human Age Digital|1,500.00 USD|[5](https://www.snap.com/political-ads/asset/191de02254b58e32b3afb966315a41f61e277c598c2274f95f684ba3f99faaf5?mediaType=mp4)|191,924||18+|united states|US|
 |Human Age Digital|502.00 USD|[6](https://www.snap.com/political-ads/asset/5b722e6650c37f38c4844cc8724db824f17c00973f8d32b2cd7fa27e84b3bb9a?mediaType=mp4)|153,608||18+|united states|US|
 |Human Age Digital|497.00 USD|[7](https://www.snap.com/political-ads/asset/4a54d196e1eb315fc944005a6070c3e2cf0cc42ec073b8e3d1175aa728f54c17?mediaType=mp4)|153,034||18+|united states|US|

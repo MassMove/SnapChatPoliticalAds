@@ -9,9 +9,9 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |NHO|398.00 GBP|[0](https://www.snap.com/political-ads/asset/02df9a644adfaf658aca7abc2c474c30b96c73e303e99d814acd5f1dfaa40790?mediaType=mp4)|189,962|FEMALE|18-30|norway|
 |NHO|195.00 GBP|[1](https://www.snap.com/political-ads/asset/efbbff705d8826c0dd45a09f25841f9fb3d1617fe8bd066cdc252247becf90c4?mediaType=mp4)|89,122|FEMALE|18-30|norway|
-|NHO|93.00 GBP|[2](https://www.snap.com/political-ads/asset/13d9739cae53e4280c73f1e7bd1d71b269f14bf28b2f16e90867498122f0e7c2?mediaType=mp4)|85,718|FEMALE|25-|norway|
+|NHO|93.00 GBP|[2](https://www.snap.com/political-ads/asset/13d9739cae53e4280c73f1e7bd1d71b269f14bf28b2f16e90867498122f0e7c2?mediaType=mp4)|85,718|FEMALE|18-25|norway|
 |NHO|142.00 GBP|[3](https://www.snap.com/political-ads/asset/bb7cc3a1d5a6d5e87d66dfb5927cae987055a6954afbe87c732c43efd7b7bb63?mediaType=mp4)|68,914|FEMALE|18-30|norway|
-|NHO|60.00 GBP|[4](https://www.snap.com/political-ads/asset/13d9739cae53e4280c73f1e7bd1d71b269f14bf28b2f16e90867498122f0e7c2?mediaType=mp4)|55,777|FEMALE|25-|norway|
+|NHO|60.00 GBP|[4](https://www.snap.com/political-ads/asset/13d9739cae53e4280c73f1e7bd1d71b269f14bf28b2f16e90867498122f0e7c2?mediaType=mp4)|55,777|FEMALE|18-25|norway|
 |NHO|108.00 GBP|[5](https://www.snap.com/political-ads/asset/2ead29c46ba043c90bb56653056ef69d4d579cd5513e977723978cc5bb961ece?mediaType=mp4)|53,434|FEMALE|18-30|norway|
 |NHO|94.00 GBP|[6](https://www.snap.com/political-ads/asset/88a65e82669d757dfd51619e50e19ccda2a66bdbd753a4a3170134cb0b77d30e?mediaType=mp4)|50,392|FEMALE|18-30|norway|
 |NHO|110.00 GBP|[7](https://www.snap.com/political-ads/asset/2a16b40d8f9f9bb921abaada614a512e368061324b447d8ea91d4a88b8167c53?mediaType=mp4)|49,755|FEMALE|18-30|norway|

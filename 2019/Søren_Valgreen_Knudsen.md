@@ -22,4 +22,4 @@
 |SørenValgreen|24.00 USD|[12](https://www.snap.com/political-ads/asset/8f7fcc376ff43067e154ea9a5d6b30da592571a6d0640bc6aaaa84947b79db8c?mediaType=mp4)|11,455||18-20|denmark|
 |SørenValgreen|24.00 USD|[13](https://www.snap.com/political-ads/asset/47101b67df8728f0a4716d2f993f519cb94d7594cc82537dab1482cbfc4d0cb5?mediaType=mp4)|10,524||26-34|denmark|
 |SørenValgreen|18.00 USD|[14](https://www.snap.com/political-ads/asset/47101b67df8728f0a4716d2f993f519cb94d7594cc82537dab1482cbfc4d0cb5?mediaType=mp4)|8,729||18-20|denmark|
-|SørenValgreen|15.00 USD|[15](https://www.snap.com/political-ads/asset/df33ddd84122b4b29118a4efa96c83e582185662a1fffc0d0dfe530e6395ae37?mediaType=mp4)|6,954||34-|denmark|
+|SørenValgreen|15.00 USD|[15](https://www.snap.com/political-ads/asset/df33ddd84122b4b29118a4efa96c83e582185662a1fffc0d0dfe530e6395ae37?mediaType=mp4)|6,954||18-34|denmark|

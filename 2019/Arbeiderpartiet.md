@@ -7,10 +7,10 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Arbeiderpartiet|22,976.00 EUR|[0](https://www.snap.com/political-ads/asset/c349c2ddb2115a9485a396b7c59ec6cc95ee52bfc2bfc42394d57f6131ad63b1?mediaType=mp4)|5,991,403||17+|norway|
+|Arbeiderpartiet|22,976.00 EUR|[0](https://www.snap.com/political-ads/asset/c349c2ddb2115a9485a396b7c59ec6cc95ee52bfc2bfc42394d57f6131ad63b1?mediaType=mp4)|5,991,403||18+|norway|
 |Arbeiderpartiet|6,762.00 EUR|[1](https://www.snap.com/political-ads/asset/4027affaee0fed55a4fa97fde15e92c69fbdf5a669da3bf6c335664cd280404c?mediaType=mp4)|2,175,842||17+|norway|
 |Arbeiderpartiet|2,807.00 EUR|[2](https://www.snap.com/political-ads/asset/fa6ca32e2ad4e28c702873aa821df8875aa67f609df56eeecbf9eb7da40bf839?mediaType=mp4)|1,001,800||17+|norway|
-|Arbeiderpartiet|3,400.00 EUR|[3](https://www.snap.com/political-ads/asset/0f2e248b76d3827be8866c5b2c1bd6ebdc55466c0068d6f943f96fa6df7bd967?mediaType=mp4)|971,417||17+|norway|
+|Arbeiderpartiet|3,400.00 EUR|[3](https://www.snap.com/political-ads/asset/0f2e248b76d3827be8866c5b2c1bd6ebdc55466c0068d6f943f96fa6df7bd967?mediaType=mp4)|971,417||18+|norway|
 |Arbeiderpartiet|3,120.00 EUR|[4](https://www.snap.com/political-ads/asset/995aed5eb6c031e777db0ab9c28cab7653b01dc345c23fc1fe9059f800e1175a?mediaType=mp4)|311,491||17+|norway|
 |Arbeiderpartiet|2,253.00 EUR|[5](https://www.snap.com/political-ads/asset/22f4e6672b52708ccfe21cc8f59adb29b02b175f9bd8d9bc45889b615ecc993f?mediaType=mp4)|273,210||17+|norway|
 |Arbeiderpartiet|1,400.00 EUR|[6](https://www.snap.com/political-ads/asset/390e87707885ea8eb6fa5d5d9c577b06da4430bd2de5615e3c25021aac1ffc5d?mediaType=mp4)|174,801||17+|norway|

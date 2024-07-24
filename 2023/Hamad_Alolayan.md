@@ -3,7 +3,7 @@
 
 **Impressions**: 418,842
 
-**Billing Addresses**: Mubarak AlKabeer,Sharq,15300,KW
+**Billing Addresses**: KW
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

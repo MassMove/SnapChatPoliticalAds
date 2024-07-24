@@ -7,4 +7,4 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|T/A Opt|10,000.00 NOK|[0](https://www.snap.com/political-ads/asset/31872a8e223bfca4258ad93b78e81966db14d02de299a7d48230f272fc5a0af0?mediaType=mp4)|581,060||25-|norway|
+|Try Schjærven Media|10,000.00 NOK|[0](https://www.snap.com/political-ads/asset/31872a8e223bfca4258ad93b78e81966db14d02de299a7d48230f272fc5a0af0?mediaType=mp4)|581,060||18-25|norway|

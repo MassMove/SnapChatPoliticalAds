@@ -7,9 +7,9 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Mindshare Norway AS|21,673.00 NOK|[0](https://www.snap.com/political-ads/asset/7f0c15e08e6a1b6da245b4b0cd0a8722b7adad9fcbb6e98c47291e7bf6710fe0?mediaType=mp4)|1,657,749||19-|norway|
+|Mindshare Norway AS|21,673.00 NOK|[0](https://www.snap.com/political-ads/asset/7f0c15e08e6a1b6da245b4b0cd0a8722b7adad9fcbb6e98c47291e7bf6710fe0?mediaType=mp4)|1,657,749||18-19|norway|
 |Mindshare Norway AS|18,333.00 NOK|[1](https://www.snap.com/political-ads/asset/6c910084344be31f7c4f4b9d028018f2a9653a76a8f5bb10d62bf40a681cb117?mediaType=png)|625,212||18+|norway|
-|Mindshare Norway AS|9,801.00 NOK|[2](https://www.snap.com/political-ads/asset/17561dbeba46dabf12993e2fe755b8e840811a8bd92df25fa31652e6684cd513?mediaType=mp4)|541,027||19-|norway|
+|Mindshare Norway AS|9,801.00 NOK|[2](https://www.snap.com/political-ads/asset/17561dbeba46dabf12993e2fe755b8e840811a8bd92df25fa31652e6684cd513?mediaType=mp4)|541,027||18-19|norway|
 |Mindshare Norway AS|18,333.00 NOK|[3](https://www.snap.com/political-ads/asset/9d65abc56a908e0fd7a5dcf38cb560e2fbca0e53d5bdea7823c19ff4ecaa1c77?mediaType=mp4)|393,909||18+|norway|
 |Mindshare Norway AS|8,986.00 NOK|[4](https://www.snap.com/political-ads/asset/fed7323f2c6292cdd7f22704d2979a5a7077bcea3f7c947b214f0886fb69ff3b?mediaType=mp4)|356,784||20+|norway|
 |Mindshare Norway AS|8,853.00 NOK|[5](https://www.snap.com/political-ads/asset/62dce0f7c453bb463ed2ec4ff919b333bc4e1b5d088b2ae0d33a28535ca4536c?mediaType=mp4)|350,616||20+|norway|
@@ -20,4 +20,4 @@
 |Mindshare Norway AS|6,493.00 NOK|[10](https://www.snap.com/political-ads/asset/197fb36b71722a0ad3c0ddaca60bce7e0b540d8bbf7807d293f5fb93d94025cb?mediaType=mp4)|204,032||20+|norway|
 |Mindshare Norway AS|5,948.00 NOK|[11](https://www.snap.com/political-ads/asset/ccb40f61916981ec4c857842f732eb3af9ec86fa0b4e271251cb97508ae78a87?mediaType=mp4)|187,219||20+|norway|
 |Mindshare Norway AS|5,890.00 NOK|[12](https://www.snap.com/political-ads/asset/10ba36d3e88a0c7d83381159b78c3e1468695cfc2ee992b5e2bdaf9cb96f98fc?mediaType=mp4)|184,751||20+|norway|
-|Mindshare Norway AS|2,525.00 NOK|[13](https://www.snap.com/political-ads/asset/4e0f6d5abe8f22aef709e9f1241592ebbe064eb4d904e695fbefaad02c0bea83?mediaType=mp4)|91,803||19-|norway|
+|Mindshare Norway AS|2,525.00 NOK|[13](https://www.snap.com/political-ads/asset/4e0f6d5abe8f22aef709e9f1241592ebbe064eb4d904e695fbefaad02c0bea83?mediaType=mp4)|91,803||18-19|norway|

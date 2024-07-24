@@ -7,7 +7,7 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Mouvement Réformateur|2,467.00 EUR|[0](https://www.snap.com/political-ads/asset/94d9d4be2c17fd49f20ddc4f1130b1a014418843ea3c4afc0ea5ab933299f598?mediaType=mp4)|3,346,593||17-24|belgium|
+|Mouvement Réformateur|2,467.00 EUR|[0](https://www.snap.com/political-ads/asset/94d9d4be2c17fd49f20ddc4f1130b1a014418843ea3c4afc0ea5ab933299f598?mediaType=mp4)|3,346,593||18-24|belgium|
 |Mouvement Réformateur|571.00 EUR|[1](https://www.snap.com/political-ads/asset/2041b22ae9dafa812026db7bdc279881292ddf08dc046a73e5ade92098772ba4?mediaType=mp4)|723,637||17-24|belgium|
 |Mouvement Réformateur|132.00 EUR|[2](https://www.snap.com/political-ads/asset/e2cf35fe799e3ca31d278ca2893e9867bbd6706243b9f73b9b802014dc8d06dc?mediaType=mp4)|185,279||17-24|belgium|
 |Mouvement Réformateur|99.00 EUR|[3](https://www.snap.com/political-ads/asset/38e6bf4ab429548e747314760ace8333d4670ef8b076bd76cda22203d0c430e5?mediaType=mp4)|109,920||17-24|belgium|

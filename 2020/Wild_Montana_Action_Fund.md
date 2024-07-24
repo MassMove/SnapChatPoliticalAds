@@ -10,10 +10,10 @@
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
 |Wild Montana Action|860.00 USD|[0](https://www.snap.com/political-ads/asset/d786a6d5d237312c8770e297fd0049edac6e685550d74f474fd49d0310de7536?mediaType=png)|155,525||18-40|united states|US|
-|Wild Montana|393.00 USD|[1](https://www.snap.com/political-ads/asset/8d25da8d9b7f69d8045edbb37da5600da4d6d4d40123e3e24695f174d7a6daa4?mediaType=jpg)|150,788|||united states|"80 S Warren St.,Helena,59601,US"|
+|Wild Montana|393.00 USD|[1](https://www.snap.com/political-ads/asset/8d25da8d9b7f69d8045edbb37da5600da4d6d4d40123e3e24695f174d7a6daa4?mediaType=jpg)|150,788|||united states|80 S Warren St.,Helena,59601,US|
 |Wild Montana Action|690.00 USD|[2](https://www.snap.com/political-ads/asset/cfa176f8785be0bf640483e8eac2fb04512bef89bf1dfd7e0a649ec7ea3f4ffc?mediaType=png)|134,615||18-40|united states|US|
 |Wild Montana Action|458.00 USD|[3](https://www.snap.com/political-ads/asset/cfa176f8785be0bf640483e8eac2fb04512bef89bf1dfd7e0a649ec7ea3f4ffc?mediaType=png)|76,658||18-40|united states|US|
-|Wild Montana|193.00 USD|[4](https://www.snap.com/political-ads/asset/2b56e96d541b24fa52a29805cdaa000bfc4eda83840dc83a0606110b9c9a6b20?mediaType=jpg)|72,368|||united states|"80 S Warren St.,Helena,59601,US"|
+|Wild Montana|193.00 USD|[4](https://www.snap.com/political-ads/asset/2b56e96d541b24fa52a29805cdaa000bfc4eda83840dc83a0606110b9c9a6b20?mediaType=jpg)|72,368|||united states|80 S Warren St.,Helena,59601,US|
 |Wild Montana Action|311.00 USD|[5](https://www.snap.com/political-ads/asset/a2861f6b2b13f106f36f60b8b923ce17062214c55c7d072594144742c6b18c73?mediaType=png)|62,341||18-40|united states|US|
 |Wild Montana Action|248.00 USD|[6](https://www.snap.com/political-ads/asset/b0d9516692092878a80c1b8afc0e101c85f4b368cfb05c13c792e348d3ae07a2?mediaType=png)|41,592||18-40|united states|US|
 |Wild Montana Action|237.00 USD|[7](https://www.snap.com/political-ads/asset/3a75a778323cc4448b38dcdff7daeec8035f7b8b78298a2135d1f3225d2c07d6?mediaType=png)|41,479||18-40|united states|US|

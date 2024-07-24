@@ -7,4 +7,4 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Act Svenska kyrkan: Agerautbildning 2 2021|250.00 EUR|[0](https://www.snap.com/political-ads/asset/4a94aba3f9c63ceb13d7cb701b01d3300acce947eeda12218aac76be78975229?mediaType=mp4)|185,622||16-30|sweden|
+|Act Svenska kyrkan: Agerautbildning 2 2021|250.00 EUR|[0](https://www.snap.com/political-ads/asset/4a94aba3f9c63ceb13d7cb701b01d3300acce947eeda12218aac76be78975229?mediaType=mp4)|185,622||18-30|sweden|

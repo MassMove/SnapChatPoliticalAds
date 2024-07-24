@@ -4,13 +4,13 @@
 **Impressions**: 5,984,081
 
 **Billing Addresses**: 
+- 222 W Ontario, Suite 600,,Chicago,60654,US
 - US
 - 1445 New York Ave NW,Washington,20005,US
-- 222 W Ontario, Suite 600,,Chicago,60654,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
-|AL Media|2,679.00 USD|[0](https://www.snap.com/political-ads/asset/3e8bf5406b78f6240b6cf00af5f224efff4df0cbb090b2baa8837695f173a9f0?mediaType=mp4)|704,579||18+|united states|"222 W Ontario, Suite 600,,Chicago,60654,US"|
+|AL Media|2,679.00 USD|[0](https://www.snap.com/political-ads/asset/3e8bf5406b78f6240b6cf00af5f224efff4df0cbb090b2baa8837695f173a9f0?mediaType=mp4)|704,579||18+|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
 |Wavelength Strategy: House Majority PAC|8,211.00 USD|[1](https://www.snap.com/political-ads/asset/84612749855361741eedc545fea596c16e247707eae379dac79dc52ddd54ff7e?mediaType=jpg)|607,910||18+|united states|US|
 |Wavelength Strategy: House Majority PAC|8,508.00 USD|[2](https://www.snap.com/political-ads/asset/84612749855361741eedc545fea596c16e247707eae379dac79dc52ddd54ff7e?mediaType=jpg)|599,755||18+|united states|US|
 |Wavelength Strategy: House Majority PAC|5,012.00 USD|[3](https://www.snap.com/political-ads/asset/62800fcc6a9a58cb39eb9553a748546912f47397fb03e8d9dcfce6f7ccc094d8?mediaType=jpg)|412,069||18+|united states|US|
@@ -18,8 +18,8 @@
 |Wavelength Strategy: House Majority PAC|6,117.00 USD|[5](https://www.snap.com/political-ads/asset/62800fcc6a9a58cb39eb9553a748546912f47397fb03e8d9dcfce6f7ccc094d8?mediaType=jpg)|381,883||18+|united states|US|
 |Wavelength Strategy|7,254.00 USD|[6](https://www.snap.com/political-ads/asset/c825a4f1670085c5d6e5578422a570e56d0485aca4e5482c16925f41d106ad6a?mediaType=png)|369,132||18+|united states|US|
 |Wavelength Strategy|5,571.00 USD|[7](https://www.snap.com/political-ads/asset/5162897ab3acb99d3888a84121f3014ba68a1523327c1dd8f3b64ca92697ca85?mediaType=mp4)|340,017||18+|united states|US|
-|Bully Pulpit Interactive: House Majority PAC|1,918.00 USD|[8](https://www.snap.com/political-ads/asset/6375e759108b4cf0e71aadb5404534c56ac90e67acc47940e1be417783db4c10?mediaType=mp4)|304,634||18+|united states|"1445 New York Ave NW,Washington,20005,US"|
-|Bully Pulpit Interactive: House Majority PAC|1,681.00 USD|[9](https://www.snap.com/political-ads/asset/c78ddf3ccd22a224d965aeb9230c66515ec6ec45eca87a4ae9e4987d88a83950?mediaType=mp4)|266,760||18+|united states|"1445 New York Ave NW,Washington,20005,US"|
+|Bully Pulpit Interactive: House Majority PAC|1,918.00 USD|[8](https://www.snap.com/political-ads/asset/6375e759108b4cf0e71aadb5404534c56ac90e67acc47940e1be417783db4c10?mediaType=mp4)|304,634||18+|united states|1445 New York Ave NW,Washington,20005,US|
+|Bully Pulpit Interactive: House Majority PAC|1,681.00 USD|[9](https://www.snap.com/political-ads/asset/c78ddf3ccd22a224d965aeb9230c66515ec6ec45eca87a4ae9e4987d88a83950?mediaType=mp4)|266,760||18+|united states|1445 New York Ave NW,Washington,20005,US|
 |Wavelength Strategy: House Majority PAC|3,834.00 USD|[10](https://www.snap.com/political-ads/asset/d841ad366ebc2a014b5112f1151969e16e89f9851133a6efb08774f9c746e4e7?mediaType=mp4)|234,107||18+|united states|US|
 |Wavelength Strategy: House Majority PAC|2,242.00 USD|[11](https://www.snap.com/political-ads/asset/7854d8879aa23e01ff1f16b5a4ecdca82e20d08ac991da06aa5a763dad9d773d?mediaType=mp4)|204,502||18+|united states|US|
 |Wavelength Strategy|2,963.00 USD|[12](https://www.snap.com/political-ads/asset/8cfc787b3ac77cf33daba789b42f9a2ca90a8908753c6775a7453ded6c7ee336?mediaType=png)|204,279||18+|united states|US|

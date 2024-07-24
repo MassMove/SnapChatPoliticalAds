@@ -11,8 +11,8 @@
 |David Säll Centerpartiet|9.00 EUR|[1](https://www.snap.com/political-ads/asset/315b9c25edb570b6e41f9506608f42a0ba578dff268162bc63b870ae3c52c734?mediaType=mp4)|4,232||17-30|sweden|
 |David Säll Centerpartiet|8.00 EUR|[2](https://www.snap.com/political-ads/asset/d69a74e8031a722e6ca0675b60c453904f10efb1aca24d9aca57a22009179223?mediaType=mp4)|3,815||17-30|sweden|
 |David Säll Centerpartiet|7.00 EUR|[3](https://www.snap.com/political-ads/asset/440632097a2bb7cf3291f2f5946a0cbc943e814e1db42de4c5e33e1671cda809?mediaType=mp4)|3,635||17-30|sweden|
-|David Säll Centerpartiet: David Sall nr10 Centerpartiet|10.00 EUR|[4](https://www.snap.com/political-ads/asset/5bf2d6d63b614c2ccabb4c6a9d922563c3a7a215a94056401833e84361f93cfa?mediaType=mp4)|2,567||17-32|sweden|
-|David Säll Centerpartiet: David Sall nr10 Centerpartiet|10.00 EUR|[5](https://www.snap.com/political-ads/asset/b108ae1df661f504619ddaea0d4b9a858fa2f80a72e8a04c98a66134d4562d44?mediaType=mp4)|2,374||17-30|sweden|
+|David Säll Centerpartiet: David Sall nr10 Centerpartiet|10.00 EUR|[4](https://www.snap.com/political-ads/asset/5bf2d6d63b614c2ccabb4c6a9d922563c3a7a215a94056401833e84361f93cfa?mediaType=mp4)|2,567||18-32|sweden|
+|David Säll Centerpartiet: David Sall nr10 Centerpartiet|10.00 EUR|[5](https://www.snap.com/political-ads/asset/b108ae1df661f504619ddaea0d4b9a858fa2f80a72e8a04c98a66134d4562d44?mediaType=mp4)|2,374||18-30|sweden|
 |David Säll Centerpartiet|5.00 EUR|[6](https://www.snap.com/political-ads/asset/869da3a3c9dd059b0cf3628c809f2aa39cf5a6a3c140d0c53040a19300bb3eff?mediaType=mp4)|1,802||18-29|sweden|
 |David Säll Centerpartiet|5.00 EUR|[7](https://www.snap.com/political-ads/asset/90a82feacdbd35b31f4052a8ce6ca9996fa5b242c4c7170c44e4fdbbedd9f537?mediaType=mp4)|1,675||18-29|sweden|
 |David Säll Centerpartiet|5.00 EUR|[8](https://www.snap.com/political-ads/asset/a12c31e78ef1ca539243b819d12699553c41886b85a39b4fcf1789a9211690f8?mediaType=mp4)|1,674||18-29|sweden|

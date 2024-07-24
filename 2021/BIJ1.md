@@ -7,7 +7,7 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|BIJ1: BIJ1|368.00 EUR|[0](https://www.snap.com/political-ads/asset/d8d567cee574b4bdc595422ea5fe9f12ea0461c90704056d180c2128e13709aa?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f590225ee477d546149a06b279b7a5812bdc62c0fc95cd7312462de5c6697096?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/2eb1f6be493cf2da0737aefa3f6aba8cff5127555578ce37923820e3dff5c55e?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/552e0e9c38cf50759a926a1a24f5e70d554cb5fb952d762a450ca8095ddcc89f?mediaType=mp4)|1,165,472|||netherlands|
+|BIJ1: BIJ1|368.00 EUR|[0](https://www.snap.com/political-ads/asset/d8d567cee574b4bdc595422ea5fe9f12ea0461c90704056d180c2128e13709aa?mediaType=mp4),[1](https://www.snap.com/political-ads/asset/f590225ee477d546149a06b279b7a5812bdc62c0fc95cd7312462de5c6697096?mediaType=mp4),[2](https://www.snap.com/political-ads/asset/2eb1f6be493cf2da0737aefa3f6aba8cff5127555578ce37923820e3dff5c55e?mediaType=mp4),[3](https://www.snap.com/political-ads/asset/552e0e9c38cf50759a926a1a24f5e70d554cb5fb952d762a450ca8095ddcc89f?mediaType=mp4)|1,165,472||18+|netherlands|
 |BIJ1|657.00 EUR|[4](https://www.snap.com/political-ads/asset/552e0e9c38cf50759a926a1a24f5e70d554cb5fb952d762a450ca8095ddcc89f?mediaType=mp4)|362,158||18-35|netherlands|
 |BIJ1|472.00 EUR|[5](https://www.snap.com/political-ads/asset/c23d61771df7303a63adc34cac21a549031eb5dcd27d57703534279a14f3faef?mediaType=mp4)|331,225||18-35|netherlands|
 |BIJ1|708.00 EUR|[6](https://www.snap.com/political-ads/asset/552e0e9c38cf50759a926a1a24f5e70d554cb5fb952d762a450ca8095ddcc89f?mediaType=mp4)|329,536||18+|netherlands|
