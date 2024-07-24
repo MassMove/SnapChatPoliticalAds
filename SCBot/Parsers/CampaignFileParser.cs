@@ -90,8 +90,7 @@ namespace SCBot.Parsers
                         }
                         if (existingCampaign.ageBrackets.Find(x => x == campaign.ageBrackets[0]) == null)
                         {
-                            existingCampaign.ageBrackets.Add(campaign.ageBrackets[0
-                                ]);
+                            existingCampaign.ageBrackets.Add(campaign.ageBrackets[0]);
                         }
                         if (existingCampaign.countryCodes.Find(x => x == campaign.countryCodes[0]) == null)
                         {
@@ -112,7 +111,7 @@ namespace SCBot.Parsers
                     }
                 }
 
-                return campaigns.OrderByDescending(c => c.spend).ToList();
+                return campaigns.OrderByDescending(c => c.impressions).ToList();
             }
             catch (IOException)
             {
