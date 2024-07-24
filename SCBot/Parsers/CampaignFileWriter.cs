@@ -69,7 +69,7 @@ namespace SCBot.Parsers
             }
             foreach (Campaign campaign in top25)
             {
-                readMe += FormatLine(campaign, year, false, false) + "\r\n";
+                readMe += FormatLine(campaign, year, false, false).Replace("\"", "") + "\r\n";
                 Console.WriteLine(campaign.payingAdvertiserName + ": " + campaign.spend);
             }
             readMe += "\r\n";
@@ -109,7 +109,7 @@ namespace SCBot.Parsers
 
             foreach (var campaign in campaigns)
             {
-                readMeYear += FormatLine(campaign, 1, false, false) + "\r\n";
+                readMeYear += FormatLine(campaign, 1, false, false).Replace("\"", "") + "\r\n";
 
                 var readMeAdvertiser = GenerateAdvertiserTable(campaign.payingAdvertiserName, year, advertiserCampaigns);
 
@@ -156,7 +156,7 @@ namespace SCBot.Parsers
                 ThenByDescending(c => c.spend).
                 ThenBy(c => c.creativeUrlsSort))
             {
-                readMeAdvertiser += FormatLine(campaign, 0, true, includeAddresses) + "\r\n";
+                readMeAdvertiser += FormatLine(campaign, 0, true, includeAddresses).Replace("\"", "") + "\r\n";
             }
 
             return readMeAdvertiser;
