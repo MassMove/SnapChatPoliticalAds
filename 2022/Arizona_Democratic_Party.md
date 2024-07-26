@@ -4,8 +4,8 @@
 **Impressions**: 16,552,540
 
 **Billing Addresses**: 
-- US
 - 222 W Ontario, Suite 600,,Chicago,60654,US
+- US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

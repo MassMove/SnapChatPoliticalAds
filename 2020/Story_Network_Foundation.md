@@ -4,8 +4,8 @@
 **Impressions**: 10,888,616
 
 **Billing Addresses**: 
-- US
 - 322 8th Avenue Suite 601,New York,10001,US
+- US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

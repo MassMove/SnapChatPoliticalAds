@@ -4,9 +4,9 @@
 **Impressions**: 152,827,837
 
 **Billing Addresses**: 
+- 125 Broad St., 18th Floor,New York,10004,US
 - 1445 New York Ave NW,Washington,20005,US
 - US
-- 125 Broad St., 18th Floor,New York,10004,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

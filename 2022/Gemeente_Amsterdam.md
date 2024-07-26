@@ -4,8 +4,8 @@
 **Impressions**: 267,042
 
 **Billing Addresses**: 
-- Loirestraat 22,Purmerend,1448JL,NL
 - Amstel 1,Amsterdam,1011 PN,NL
+- Loirestraat 22,Purmerend,1448JL,NL
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

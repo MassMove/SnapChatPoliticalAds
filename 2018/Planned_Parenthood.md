@@ -4,9 +4,9 @@
 **Impressions**: 3,590,345
 
 **Billing Addresses**: 
-- 235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US
-- 1901 L St NW,Washington,20036,US
 - 1075 Camino del Rio South,San Diego,92108,US
+- 1901 L St NW,Washington,20036,US
+- 235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

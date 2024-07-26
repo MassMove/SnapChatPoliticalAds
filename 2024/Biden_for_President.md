@@ -1,13 +1,13 @@
 ## 2024 - Biden for President 
 **Spent**: 1,459,637.00
 
-**Impressions**: 225,956,027
+**Impressions**: 225,956,101
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Harris for President: Joe Biden|59,000.00 USD||8,495,101||18+|united states|
+|Harris for President: Joe Biden|59,000.00 USD||8,495,167||18+|united states|
 |Harris for President: Joe Biden|53,577.00 USD|[1](https://www.snap.com/political-ads/asset/084c2b492fe262afe95965b02f5d23411587de19f2723d7d26a3f00beec96d4d?mediaType=mp4)|7,324,620||18+|united states|
 |Harris for President: Joe Biden|53,961.00 USD|[2](https://www.snap.com/political-ads/asset/bbd6e832eda260950d2be25808fb3dd0cd14cd64a28718e48ddea90daaf89e90?mediaType=mp4)|6,796,489||18+|united states|
 |Harris for President: Joe Biden|32,174.00 USD|[3](https://www.snap.com/political-ads/asset/267bcc31e1b918ef791f8a68aeb2f8e00303611e70557462fe16c47909d3f733?mediaType=mp4)|4,336,090||18+|united states|
@@ -64,7 +64,7 @@
 |Harris for President: Joe Biden|6,828.00 USD|[54](https://www.snap.com/political-ads/asset/1a8cb44b252e6bc9579f6bf93ab952ae97841f97c21d76ae5c4f9cbd9c9027cf?mediaType=mp4)|1,162,622||18+|united states|
 |Harris for President: Joe Biden|6,795.00 USD|[55](https://www.snap.com/political-ads/asset/ccb2af393c2aeb6cabd63fa154e5cf5b34c75233681f43216782c1101ec58ed8?mediaType=mp4)|1,155,581||18+|united states|
 |Harris for President: Joe Biden|6,666.00 USD|[56](https://www.snap.com/political-ads/asset/e4c477b8a480c0207c941b83a6ff88cb52d4e691aaff439e2040d78dacb17baf?mediaType=mp4)|1,138,938||18+|united states|
-|Harris for President: Joe Biden|8,000.00 USD||1,135,354|||united states|
+|Harris for President: Joe Biden|8,000.00 USD||1,135,362|||united states|
 |Harris for President: Joe Biden|6,639.00 USD|[58](https://www.snap.com/political-ads/asset/252cd7ae7c02b141c9e30ba9b207f0a0c3794344792fb90207943c44f774db4b?mediaType=mp4)|1,132,483||18+|united states|
 |Harris for President: Joe Biden|6,614.00 USD|[59](https://www.snap.com/political-ads/asset/f8c53a1a1fb08b5b36907e7698f74f813cc2d157dffc81b5019b862633e13caf?mediaType=mp4)|1,125,566||18+|united states|
 |Harris for President: Joe Biden|6,594.00 USD|[60](https://www.snap.com/political-ads/asset/6d12a26e5f8ceeb9450b6f4c590ccc0c9fc392141c77f50618c9a450640fe953?mediaType=mp4)|1,121,786||18+|united states|
