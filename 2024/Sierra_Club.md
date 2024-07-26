@@ -4,8 +4,8 @@
 **Impressions**: 6,081,673
 
 **Billing Addresses**: 
-- 2101 Webster St Suite 1300,Oakland,94612,US
 - 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
+- 2101 Webster St Suite 1300,Oakland,94612,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

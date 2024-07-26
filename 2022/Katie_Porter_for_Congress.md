@@ -1,7 +1,7 @@
 ## 2022 - Katie Porter for Congress 
-**Spent**: 105,566.00
+**Spent**: 105,530.00
 
-**Impressions**: 8,800,566
+**Impressions**: 8,799,578
 
 **Billing Addresses**: US
 
@@ -156,49 +156,48 @@
 |Wavelength Strategy: Katie Porter for Congress|35.00 USD|[146](https://www.snap.com/political-ads/asset/97b11da6adc593e88b95ef56371c8e22eacd06fb341e51a32b1f42815beb5ba2?mediaType=mp4)|1,375||18+|united states|
 |Wavelength Strategy: Katie Porter|9.00 USD|[147](https://www.snap.com/political-ads/asset/899d12521d991d5cbddddb233982a424a53dd17b2e05add78b6aa21b6d766bbf?mediaType=mp4)|1,090||18+|united states|
 |Wavelength Strategy: Katie Porter for Congress|38.00 USD|[148](https://www.snap.com/political-ads/asset/5983afb21fe80b2fef73ecd1fb5cc605e6e09fd194115f6249c2a8dbdca49a9f?mediaType=mp4)|1,073||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|36.00 USD|[149](https://www.snap.com/political-ads/asset/ded5ac249b59087e0eb555a4b91352e1b8ea5d5bbcc3949abf7f030ae1976675?mediaType=mp4)|988||18+|united states|
-|Wavelength Strategy: Katie Porter|8.00 USD|[150](https://www.snap.com/political-ads/asset/fc557aac8d60d51b1a3dcde06f374f40ca8b91e351f6be4aaaf2d31242f276b7?mediaType=jpg)|913||18+|united states|
-|Wavelength Strategy: Katie Porter|7.00 USD|[151](https://www.snap.com/political-ads/asset/bd011c2f3e0be9d09b9e6100a5b4485a03fff69ae5d9daa924bc0e1c10d6a73a?mediaType=jpg)|857||18+|united states|
-|Wavelength Strategy: Katie Porter|7.00 USD|[152](https://www.snap.com/political-ads/asset/34d720735a2b3c91627e3f7807d5c071cd11c2fea539c510bb0916a034ff4e1d?mediaType=mp4)|811||18+|united states|
-|Wavelength Strategy: Katie Porter|6.00 USD|[153](https://www.snap.com/political-ads/asset/6552905e2fed82b08e997ce1d8d3a669f11fcaac7191beaf3b34a971285baa63?mediaType=mp4)|777||18+|united states|
-|Wavelength Strategy: Katie Porter|6.00 USD|[154](https://www.snap.com/political-ads/asset/c2e64b3f3d839515979126b289d221c1193578ca1689b2d0f6d498afd2593ed7?mediaType=jpg)|743||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|20.00 USD|[155](https://www.snap.com/political-ads/asset/a759e6c096cb1d1cc6cbfcd97d27beca1f48fd232626cd22ff1d190a48120f45?mediaType=mp4)|721||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|23.00 USD|[156](https://www.snap.com/political-ads/asset/3bb5516d699a2bd5a716ac4ba2fc766f972f8485f7fa95c318f991d754e29d17?mediaType=mp4)|703||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|19.00 USD|[157](https://www.snap.com/political-ads/asset/b7f325a6b240bc38cda2433c1e5378db7e765800dec9f564e1c34b995fb07762?mediaType=jpg)|697||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|18.00 USD|[158](https://www.snap.com/political-ads/asset/ba0406a73975d3ccf26dfcec8d45611c07e24a0b0642aa000e9992073370f631?mediaType=mp4)|643||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|17.00 USD|[159](https://www.snap.com/political-ads/asset/1e01998d7f119b8ffe3dc0d75adb63e890999c99cae2e70d82d9a6e8992d6e6c?mediaType=mp4)|637||18+|united states|
-|Wavelength Strategy: Katie Porter|5.00 USD|[160](https://www.snap.com/political-ads/asset/a4f39c5fe3736cf88d990c9c72fbfc591eeebccbb7f7ffc8dd7afc2f5bd6bd6f?mediaType=mp4)|626||18+|united states|
-|Wavelength Strategy: Katie Porter|5.00 USD|[161](https://www.snap.com/political-ads/asset/3302df5008394827a48f6e86ccf7c2f57b4305ad5c941caba228dbbfff62a62d?mediaType=mp4)|584||18+|united states|
-|Wavelength Strategy: Katie Porter|5.00 USD|[162](https://www.snap.com/political-ads/asset/b48ce059b343640857541d68284a6200a23cd95679f3e75fccd3a272160093e3?mediaType=mp4)|573||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|5.00 USD|[163](https://www.snap.com/political-ads/asset/250f96e728bd74dbcfddab3fa3a764a95d78063529308dc1f3cb561e1e225f96?mediaType=mp4)|511||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|14.00 USD|[164](https://www.snap.com/political-ads/asset/726377649d855f4506add7660bd579b893a01c96bb19a6f1361613fad5f8268a?mediaType=png)|458||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|12.00 USD|[165](https://www.snap.com/political-ads/asset/2461cb43dbee5ff76a9cd8e3e87b35cc0057b44870de90ed28e299840be7f687?mediaType=mp4)|451||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|15.00 USD|[166](https://www.snap.com/political-ads/asset/987f3ac5054849e62f5ee7b5c6f8380f3756271380a10ebe953309ac3668b743?mediaType=png)|448||18+|united states|
-|Wavelength Strategy: Katie Porter|3.00 USD|[167](https://www.snap.com/political-ads/asset/987f3ac5054849e62f5ee7b5c6f8380f3756271380a10ebe953309ac3668b743?mediaType=png)|394||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|4.00 USD|[168](https://www.snap.com/political-ads/asset/895a7a7bc593656c12accd45e6e37f53b139e5423cae2d05129d76b5580268e8?mediaType=mp4)|374||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|10.00 USD|[169](https://www.snap.com/political-ads/asset/6b1d9abe24be2df079a8ec5e195df8e8d140fdc1fb20d19d59c8763bef7d4532?mediaType=mp4)|321||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|8.00 USD|[170](https://www.snap.com/political-ads/asset/d6f298e1c88afccf38dbb69203102cb14158d2417faeb4a849dd8bedf6216270?mediaType=mp4)|266||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|7.00 USD|[171](https://www.snap.com/political-ads/asset/2cf14a4d0d51e0a75ac26d51011a268ab54001182248a87fe8c4611cd0dfe12b?mediaType=mp4)|258||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|8.00 USD|[172](https://www.snap.com/political-ads/asset/3f4f27e6c469017f70736227aeba5572e91785ac8856d5746ec8a76198c434a4?mediaType=mp4)|250||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|8.00 USD|[173](https://www.snap.com/political-ads/asset/b0e1ea130273b381fdf6d5c9aaf6fa418c45763bcd214f23f563c16c6419c16d?mediaType=mp4)|243||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|6.00 USD|[174](https://www.snap.com/political-ads/asset/cda69bef0a06594a3671b2592c5b128fa569b93d353d5ace0d5ec3343c35fd28?mediaType=mp4)|228||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|6.00 USD|[175](https://www.snap.com/political-ads/asset/2e086c3d02160edd1df0bf57767947e3c994f9b8057e11eea23eb7624fd58b73?mediaType=jpg)|181||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|4.00 USD|[176](https://www.snap.com/political-ads/asset/c17318836229829a3140250ed0b7947b8852897cd16d4456355001a38811e3b2?mediaType=mp4)|125||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|3.00 USD|[177](https://www.snap.com/political-ads/asset/4f272fc6cc1434496d5e72e8f4e7d8960699dfe4bc44d480791dbb58b1c237e6?mediaType=png)|118||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|1.00 USD|[178](https://www.snap.com/political-ads/asset/250f96e728bd74dbcfddab3fa3a764a95d78063529308dc1f3cb561e1e225f96?mediaType=mp4)|109||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|1.00 USD|[179](https://www.snap.com/political-ads/asset/5fe2fde6b951b78c1507870ec4cc4b9830c0436e3ad17ca3ae0162c2968f21ca?mediaType=mp4)|102||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|3.00 USD|[180](https://www.snap.com/political-ads/asset/8b3cc1c551974e7ef7702fcec3421a262f9495c2f9de2f0a300364df1ca628a6?mediaType=jpg)|96||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|2.00 USD|[181](https://www.snap.com/political-ads/asset/1cdaacb7332da4586c313b3e50870da31990f47725b51b8b782a9bbe7341ba52?mediaType=mp4)|63||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[182](https://www.snap.com/political-ads/asset/904aa7a04c323a89f61c9e37ce3f11416e9a381a898b2613def5905fe771941e?mediaType=jpg)|19|MALE|18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[183](https://www.snap.com/political-ads/asset/7d93883b95445547266a8d27085eab3a9e72ee26bba6557242ca6adc6e6129ac?mediaType=jpg)|15|MALE|18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[184](https://www.snap.com/political-ads/asset/1a79278e12b30535d0c5ee7fb2a24956a87b02e9e11e8660d079197837723e82?mediaType=mp4)|6||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[185](https://www.snap.com/political-ads/asset/899d12521d991d5cbddddb233982a424a53dd17b2e05add78b6aa21b6d766bbf?mediaType=mp4)|5|MALE|18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[186](https://www.snap.com/political-ads/asset/8848df8341ecce8f19bbddb0b9997004fc38f4cc73046294ca45f046bfab414f?mediaType=jpg)|3||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[187](https://www.snap.com/political-ads/asset/e42536f191410868de5dab6d143dd71108159394c111c49812ddea902a8ae437?mediaType=mp4)|3|MALE|18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[188](https://www.snap.com/political-ads/asset/fc557aac8d60d51b1a3dcde06f374f40ca8b91e351f6be4aaaf2d31242f276b7?mediaType=jpg)|3|MALE|18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[189](https://www.snap.com/political-ads/asset/9cf488f166177e2d4f5da6beeb98d53fed83ef1da829f7af472bcd4be779aabf?mediaType=mp4)|2||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[190](https://www.snap.com/political-ads/asset/d44024387b9f1752b10ee5374de1dceaf6092992c8e45ef27e81ae82bf2d31e0?mediaType=mp4)|2|MALE|18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[191](https://www.snap.com/political-ads/asset/5a3fb38359dc895a71176e4d50bbc420b15f675ec45d68aeb75e759f16bfca32?mediaType=mp4)|1||18+|united states|
+|Wavelength Strategy: Katie Porter|8.00 USD|[149](https://www.snap.com/political-ads/asset/fc557aac8d60d51b1a3dcde06f374f40ca8b91e351f6be4aaaf2d31242f276b7?mediaType=jpg)|913||18+|united states|
+|Wavelength Strategy: Katie Porter|7.00 USD|[150](https://www.snap.com/political-ads/asset/bd011c2f3e0be9d09b9e6100a5b4485a03fff69ae5d9daa924bc0e1c10d6a73a?mediaType=jpg)|857||18+|united states|
+|Wavelength Strategy: Katie Porter|7.00 USD|[151](https://www.snap.com/political-ads/asset/34d720735a2b3c91627e3f7807d5c071cd11c2fea539c510bb0916a034ff4e1d?mediaType=mp4)|811||18+|united states|
+|Wavelength Strategy: Katie Porter|6.00 USD|[152](https://www.snap.com/political-ads/asset/6552905e2fed82b08e997ce1d8d3a669f11fcaac7191beaf3b34a971285baa63?mediaType=mp4)|777||18+|united states|
+|Wavelength Strategy: Katie Porter|6.00 USD|[153](https://www.snap.com/political-ads/asset/c2e64b3f3d839515979126b289d221c1193578ca1689b2d0f6d498afd2593ed7?mediaType=jpg)|743||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|20.00 USD|[154](https://www.snap.com/political-ads/asset/a759e6c096cb1d1cc6cbfcd97d27beca1f48fd232626cd22ff1d190a48120f45?mediaType=mp4)|721||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|23.00 USD|[155](https://www.snap.com/political-ads/asset/3bb5516d699a2bd5a716ac4ba2fc766f972f8485f7fa95c318f991d754e29d17?mediaType=mp4)|703||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|19.00 USD|[156](https://www.snap.com/political-ads/asset/b7f325a6b240bc38cda2433c1e5378db7e765800dec9f564e1c34b995fb07762?mediaType=jpg)|697||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|18.00 USD|[157](https://www.snap.com/political-ads/asset/ba0406a73975d3ccf26dfcec8d45611c07e24a0b0642aa000e9992073370f631?mediaType=mp4)|643||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|17.00 USD|[158](https://www.snap.com/political-ads/asset/1e01998d7f119b8ffe3dc0d75adb63e890999c99cae2e70d82d9a6e8992d6e6c?mediaType=mp4)|637||18+|united states|
+|Wavelength Strategy: Katie Porter|5.00 USD|[159](https://www.snap.com/political-ads/asset/a4f39c5fe3736cf88d990c9c72fbfc591eeebccbb7f7ffc8dd7afc2f5bd6bd6f?mediaType=mp4)|626||18+|united states|
+|Wavelength Strategy: Katie Porter|5.00 USD|[160](https://www.snap.com/political-ads/asset/3302df5008394827a48f6e86ccf7c2f57b4305ad5c941caba228dbbfff62a62d?mediaType=mp4)|584||18+|united states|
+|Wavelength Strategy: Katie Porter|5.00 USD|[161](https://www.snap.com/political-ads/asset/b48ce059b343640857541d68284a6200a23cd95679f3e75fccd3a272160093e3?mediaType=mp4)|573||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|5.00 USD|[162](https://www.snap.com/political-ads/asset/250f96e728bd74dbcfddab3fa3a764a95d78063529308dc1f3cb561e1e225f96?mediaType=mp4)|511||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|14.00 USD|[163](https://www.snap.com/political-ads/asset/726377649d855f4506add7660bd579b893a01c96bb19a6f1361613fad5f8268a?mediaType=png)|458||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|12.00 USD|[164](https://www.snap.com/political-ads/asset/2461cb43dbee5ff76a9cd8e3e87b35cc0057b44870de90ed28e299840be7f687?mediaType=mp4)|451||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|15.00 USD|[165](https://www.snap.com/political-ads/asset/987f3ac5054849e62f5ee7b5c6f8380f3756271380a10ebe953309ac3668b743?mediaType=png)|448||18+|united states|
+|Wavelength Strategy: Katie Porter|3.00 USD|[166](https://www.snap.com/political-ads/asset/987f3ac5054849e62f5ee7b5c6f8380f3756271380a10ebe953309ac3668b743?mediaType=png)|394||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|4.00 USD|[167](https://www.snap.com/political-ads/asset/895a7a7bc593656c12accd45e6e37f53b139e5423cae2d05129d76b5580268e8?mediaType=mp4)|374||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|10.00 USD|[168](https://www.snap.com/political-ads/asset/6b1d9abe24be2df079a8ec5e195df8e8d140fdc1fb20d19d59c8763bef7d4532?mediaType=mp4)|321||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|8.00 USD|[169](https://www.snap.com/political-ads/asset/d6f298e1c88afccf38dbb69203102cb14158d2417faeb4a849dd8bedf6216270?mediaType=mp4)|266||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|7.00 USD|[170](https://www.snap.com/political-ads/asset/2cf14a4d0d51e0a75ac26d51011a268ab54001182248a87fe8c4611cd0dfe12b?mediaType=mp4)|258||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|8.00 USD|[171](https://www.snap.com/political-ads/asset/3f4f27e6c469017f70736227aeba5572e91785ac8856d5746ec8a76198c434a4?mediaType=mp4)|250||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|8.00 USD|[172](https://www.snap.com/political-ads/asset/b0e1ea130273b381fdf6d5c9aaf6fa418c45763bcd214f23f563c16c6419c16d?mediaType=mp4)|243||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|6.00 USD|[173](https://www.snap.com/political-ads/asset/cda69bef0a06594a3671b2592c5b128fa569b93d353d5ace0d5ec3343c35fd28?mediaType=mp4)|228||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|6.00 USD|[174](https://www.snap.com/political-ads/asset/2e086c3d02160edd1df0bf57767947e3c994f9b8057e11eea23eb7624fd58b73?mediaType=jpg)|181||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|4.00 USD|[175](https://www.snap.com/political-ads/asset/c17318836229829a3140250ed0b7947b8852897cd16d4456355001a38811e3b2?mediaType=mp4)|125||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|3.00 USD|[176](https://www.snap.com/political-ads/asset/4f272fc6cc1434496d5e72e8f4e7d8960699dfe4bc44d480791dbb58b1c237e6?mediaType=png)|118||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|1.00 USD|[177](https://www.snap.com/political-ads/asset/250f96e728bd74dbcfddab3fa3a764a95d78063529308dc1f3cb561e1e225f96?mediaType=mp4)|109||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|1.00 USD|[178](https://www.snap.com/political-ads/asset/5fe2fde6b951b78c1507870ec4cc4b9830c0436e3ad17ca3ae0162c2968f21ca?mediaType=mp4)|102||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|3.00 USD|[179](https://www.snap.com/political-ads/asset/8b3cc1c551974e7ef7702fcec3421a262f9495c2f9de2f0a300364df1ca628a6?mediaType=jpg)|96||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|2.00 USD|[180](https://www.snap.com/political-ads/asset/1cdaacb7332da4586c313b3e50870da31990f47725b51b8b782a9bbe7341ba52?mediaType=mp4)|63||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[181](https://www.snap.com/political-ads/asset/904aa7a04c323a89f61c9e37ce3f11416e9a381a898b2613def5905fe771941e?mediaType=jpg)|19|MALE|18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[182](https://www.snap.com/political-ads/asset/7d93883b95445547266a8d27085eab3a9e72ee26bba6557242ca6adc6e6129ac?mediaType=jpg)|15|MALE|18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[183](https://www.snap.com/political-ads/asset/1a79278e12b30535d0c5ee7fb2a24956a87b02e9e11e8660d079197837723e82?mediaType=mp4)|6||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[184](https://www.snap.com/political-ads/asset/899d12521d991d5cbddddb233982a424a53dd17b2e05add78b6aa21b6d766bbf?mediaType=mp4)|5|MALE|18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[185](https://www.snap.com/political-ads/asset/8848df8341ecce8f19bbddb0b9997004fc38f4cc73046294ca45f046bfab414f?mediaType=jpg)|3||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[186](https://www.snap.com/political-ads/asset/e42536f191410868de5dab6d143dd71108159394c111c49812ddea902a8ae437?mediaType=mp4)|3|MALE|18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[187](https://www.snap.com/political-ads/asset/fc557aac8d60d51b1a3dcde06f374f40ca8b91e351f6be4aaaf2d31242f276b7?mediaType=jpg)|3|MALE|18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[188](https://www.snap.com/political-ads/asset/9cf488f166177e2d4f5da6beeb98d53fed83ef1da829f7af472bcd4be779aabf?mediaType=mp4)|2||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[189](https://www.snap.com/political-ads/asset/d44024387b9f1752b10ee5374de1dceaf6092992c8e45ef27e81ae82bf2d31e0?mediaType=mp4)|2|MALE|18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[190](https://www.snap.com/political-ads/asset/5a3fb38359dc895a71176e4d50bbc420b15f675ec45d68aeb75e759f16bfca32?mediaType=mp4)|1||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[191](https://www.snap.com/political-ads/asset/8848df8341ecce8f19bbddb0b9997004fc38f4cc73046294ca45f046bfab414f?mediaType=jpg)|1||18+|united states|
 |Wavelength Strategy: Katie Porter for Congress|0.00 USD|[192](https://www.snap.com/political-ads/asset/8848df8341ecce8f19bbddb0b9997004fc38f4cc73046294ca45f046bfab414f?mediaType=jpg)|1||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[193](https://www.snap.com/political-ads/asset/8848df8341ecce8f19bbddb0b9997004fc38f4cc73046294ca45f046bfab414f?mediaType=jpg)|1||18+|united states|
-|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[194](https://www.snap.com/political-ads/asset/9cf488f166177e2d4f5da6beeb98d53fed83ef1da829f7af472bcd4be779aabf?mediaType=mp4)|1||18+|united states|
+|Wavelength Strategy: Katie Porter for Congress|0.00 USD|[193](https://www.snap.com/political-ads/asset/9cf488f166177e2d4f5da6beeb98d53fed83ef1da829f7af472bcd4be779aabf?mediaType=mp4)|1||18+|united states|

@@ -4,8 +4,8 @@
 **Impressions**: 2,537,555
 
 **Billing Addresses**: 
-- 285 Fulton St. Floor 71 Suite G,New York City,10007,US
 - 1445 New York Ave NW,Washington,20005,US
+- 285 Fulton St. Floor 71 Suite G,New York City,10007,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

@@ -1,7 +1,7 @@
 ## 2024 - Options for Women - River Falls 
-**Spent**: 1,120.00
+**Spent**: 1,127.00
 
-**Impressions**: 216,147
+**Impressions**: 217,586
 
 **Billing Addresses**: 214 N Main St,River Falls,54022,US
 
@@ -24,7 +24,7 @@
 |Options For Women - River Falls|50.00 USD|[14](https://www.snap.com/political-ads/asset/beb47a57e7bfa612b6af3e053738546dec6be7d8f00020e1f77aa4a396a1c7ae?mediaType=mp4)|10,077|||united states|
 |Options For Women - River Falls|50.00 USD|[15](https://www.snap.com/political-ads/asset/2c4b1c6521a11fe45952444436a947031edc7ba4385300ffb727ddf25debeb92?mediaType=mp4)|10,059|||united states|
 |Options For Women - River Falls|50.00 USD|[16](https://www.snap.com/political-ads/asset/a3482a54b754f0e6b964c611e45209809959e38fd1162c8ee89d1671bdd03f2a?mediaType=mp4)|9,340|||united states|
-|Options For Women - River Falls|25.00 USD|[17](https://www.snap.com/political-ads/asset/50d15b116aae4cbb72ac61641cefdc8122491162c105e04834c2a28c8e197b6b?mediaType=mp4)|4,756|||united states|
+|Options For Women - River Falls|32.00 USD|[17](https://www.snap.com/political-ads/asset/50d15b116aae4cbb72ac61641cefdc8122491162c105e04834c2a28c8e197b6b?mediaType=mp4)|6,195|||united states|
 |Options For Women - River Falls|50.00 USD|[18](https://www.snap.com/political-ads/asset/d6c54c579ea4bc6b62e6f1d9341ab4f32d654342db89ed150f95422dd2d31431?mediaType=mp4)|4,576||30-|united states|
 |Options For Women - River Falls|50.00 USD|[19](https://www.snap.com/political-ads/asset/9e7a3701408b746242144cc81838bae345936eb5c77b27ff142ec724c2ea1adc?mediaType=mp4)|4,110||30-|united states|
 |Options For Women - River Falls|50.00 USD|[20](https://www.snap.com/political-ads/asset/85ccf9fa2d8a1bd5680e444b8f1f9874a86bc0dae8d37539558b4839d0e62aa5?mediaType=mp4)|3,902||30-|united states|

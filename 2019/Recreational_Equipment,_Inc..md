@@ -4,8 +4,8 @@
 **Impressions**: 157,811,807
 
 **Billing Addresses**: 
-- PO BOX 1938,SUMNER,98390,US
 - 375 Hudson Street     Attn: Mailroom,New York,10014,US
+- PO BOX 1938,SUMNER,98390,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

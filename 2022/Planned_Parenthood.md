@@ -4,8 +4,8 @@
 **Impressions**: 10,080,227
 
 **Billing Addresses**: 
-- 235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US
 - 1901 L St NW,Washington,20036,US
+- 235 E. Broadway, Suite 320, Long Beach, CA,Long Beach,90803,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

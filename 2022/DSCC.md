@@ -4,10 +4,10 @@
 **Impressions**: 15,150,166
 
 **Billing Addresses**: 
-- US
+- 1421 Prince St Suite 320,Alexandria,22314,US
 - 2939 Van Ness St NW #1006,Washington,20008,US
 - Po Box 21600,Washington,20009,US
-- 1421 Prince St Suite 320,Alexandria,22314,US
+- US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

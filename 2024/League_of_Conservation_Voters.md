@@ -4,8 +4,8 @@
 **Impressions**: 12,655,898
 
 **Billing Addresses**: 
-- 2054 University Ave STE 600,Berkeley,94704,US
 - 1250 Connecticut Ave NW, Suite 700,Washington,20036,US
+- 2054 University Ave STE 600,Berkeley,94704,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

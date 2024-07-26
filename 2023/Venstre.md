@@ -4,8 +4,8 @@
 **Impressions**: 6,554,166
 
 **Billing Addresses**: 
-- NO
 - Møllergata 16,Oslo,0179,NO
+- NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|

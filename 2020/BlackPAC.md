@@ -4,8 +4,8 @@
 **Impressions**: 34,573,214
 
 **Billing Addresses**: 
-- 909 Third Avenue,New York,10022,US
 - 1768 Columbia Road NW #3,Washington,20009,US
+- 909 Third Avenue,New York,10022,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
