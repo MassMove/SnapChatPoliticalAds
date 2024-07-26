@@ -179,7 +179,7 @@ namespace SCBot.Parsers
 
             if (billingAddresses.Count > 1)
             {                
-                return "\r\n- " + string.Join("\r\n- ", billingAddresses.Distinct());
+                return "\r\n- " + string.Join("\r\n- ", billingAddresses.Distinct().OrderBy(a => a));
             }
 
             return string.Join(", ", billingAddresses.Distinct());
@@ -283,7 +283,7 @@ namespace SCBot.Parsers
             }
 
             var list = string.Empty;
-            foreach (var listItem in listItems)
+            foreach (var listItem in listItems.OrderBy(l => l))
             {
                 if (listItem != "")
                 {
