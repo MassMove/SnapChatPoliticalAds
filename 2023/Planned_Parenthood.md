@@ -1,7 +1,7 @@
 ## 2023 - Planned Parenthood 
-**Spent**: 189,493.00
+**Spent**: 195,007.00
 
-**Impressions**: 44,263,418
+**Impressions**: 44,390,428
 
 **Billing Addresses**: 
 - 1075 Camino del Rio South,San Diego,92108,US
@@ -38,28 +38,28 @@
 |ZAMBEZI|1,708.00 USD|[23](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|613,171|FEMALE|18-29|united states|US|
 |M&R Strategic Services  Inc.|1,546.00 USD|[24](https://www.snap.com/political-ads/asset/750e81cfee10ba0ed53bc4ba72ee3d6fc55d38ccba0123eece350912d6541496?mediaType=mp4)|605,839||18-35|united states|1901 L St NW,Washington,20036,US|
 |M&R Strategic Services  Inc.|1,484.00 USD|[25](https://www.snap.com/political-ads/asset/750e81cfee10ba0ed53bc4ba72ee3d6fc55d38ccba0123eece350912d6541496?mediaType=mp4)|593,083||18-35|united states|1901 L St NW,Washington,20036,US|
-|ZAMBEZI|1,607.00 USD|[26](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|575,739|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,707.00 USD|[27](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|574,552|FEMALE|18-29|united states|US|
-|ZAMBEZI|2,051.00 USD|[28](https://www.snap.com/political-ads/asset/6ed1119db6ed3c8cc4e6d95fde4fa6c668597c4b0eea235a7a895fd9bb78eab9?mediaType=mp4)|554,448|FEMALE|18-29|united states|US|
-|ZAMBEZI|2,051.00 USD|[29](https://www.snap.com/political-ads/asset/8fc011f935ab99a123f5c69f41176a5060e30c3a7571d69381196db5920c24da?mediaType=mp4)|554,219|FEMALE|18-29|united states|US|
-|M&R Strategic Services  Inc.|1,394.00 USD|[30](https://www.snap.com/political-ads/asset/276894325528ceec2e991be0a6a10267508909ebe6f5662b8dfd1ff805321e3a?mediaType=mp4)|550,322||18-35|united states|1901 L St NW,Washington,20036,US|
-|ZAMBEZI|1,522.00 USD|[31](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|542,995|FEMALE|18-29|united states|US|
-|Blueprint Interactive|4,434.00 USD|[32](https://www.snap.com/political-ads/asset/051c35bc0f5167942dc16ccd42b5386d7cd989f45755c16df6802d2e3e35b3e8?mediaType=png)|537,145||18-34|united states|1730 Rhode Island Ave NW Suite 1014,Washington,20036,US|
-|ZAMBEZI|1,521.00 USD|[33](https://www.snap.com/political-ads/asset/5f9e59505b5c8a7089ffa715d6fb37de23527d6f5f9b3f5655eb922590cebd83?mediaType=mp4)|528,775|FEMALE|18-29|united states|US|
-|M&R Strategic Services  Inc.|1,328.00 USD|[34](https://www.snap.com/political-ads/asset/276894325528ceec2e991be0a6a10267508909ebe6f5662b8dfd1ff805321e3a?mediaType=mp4)|528,412||18-35|united states|1901 L St NW,Washington,20036,US|
-|ZAMBEZI|1,896.00 USD|[35](https://www.snap.com/political-ads/asset/f55af86197b84e9b931e5842571faee7680f95661a67acca0e7646ad1fed50d4?mediaType=mp4)|512,258|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,477.00 USD|[36](https://www.snap.com/political-ads/asset/5f9e59505b5c8a7089ffa715d6fb37de23527d6f5f9b3f5655eb922590cebd83?mediaType=mp4)|510,654|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,456.00 USD|[37](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|503,475|FEMALE|18-29|united states|US|
-|M&R Strategic Services  Inc.|4,561.00 USD|[38](https://www.snap.com/political-ads/asset/c7ab886d02be4f82bb25ae0c4f442b25ee15b0d553a25c63d293305fe2aa586f?mediaType=mp4)|500,418||18+|united states|1901 L St NW,Washington,20036,US|
-|M&R Strategic Services  Inc.|5,084.00 USD|[39](https://www.snap.com/political-ads/asset/c26fd5b960c5760b94a27e2262395c6d8e6dc1b55315f38a5a6657b305c28275?mediaType=mp4)|490,559||18+|united states|1901 L St NW,Washington,20036,US|
-|ZAMBEZI|1,392.00 USD|[40](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|480,682|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,381.00 USD|[41](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|480,138|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,386.00 USD|[42](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|479,689|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,707.00 USD|[43](https://www.snap.com/political-ads/asset/5f9e59505b5c8a7089ffa715d6fb37de23527d6f5f9b3f5655eb922590cebd83?mediaType=mp4)|479,077|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,684.00 USD|[44](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|474,660|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,351.00 USD|[45](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|466,911|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,660.00 USD|[46](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|466,724|FEMALE|18-29|united states|US|
-|ZAMBEZI|1,313.00 USD|[47](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|451,595|FEMALE|18-29|united states|US|
+|M&R Strategic Services  Inc.|6,827.00 USD|[26](https://www.snap.com/political-ads/asset/c26fd5b960c5760b94a27e2262395c6d8e6dc1b55315f38a5a6657b305c28275?mediaType=mp4)|578,605||18+|united states|1901 L St NW,Washington,20036,US|
+|ZAMBEZI|1,607.00 USD|[27](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|575,739|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,707.00 USD|[28](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|574,552|FEMALE|18-29|united states|US|
+|ZAMBEZI|2,051.00 USD|[29](https://www.snap.com/political-ads/asset/6ed1119db6ed3c8cc4e6d95fde4fa6c668597c4b0eea235a7a895fd9bb78eab9?mediaType=mp4)|554,448|FEMALE|18-29|united states|US|
+|ZAMBEZI|2,051.00 USD|[30](https://www.snap.com/political-ads/asset/8fc011f935ab99a123f5c69f41176a5060e30c3a7571d69381196db5920c24da?mediaType=mp4)|554,219|FEMALE|18-29|united states|US|
+|M&R Strategic Services  Inc.|1,394.00 USD|[31](https://www.snap.com/political-ads/asset/276894325528ceec2e991be0a6a10267508909ebe6f5662b8dfd1ff805321e3a?mediaType=mp4)|550,322||18-35|united states|1901 L St NW,Washington,20036,US|
+|ZAMBEZI|1,522.00 USD|[32](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|542,995|FEMALE|18-29|united states|US|
+|Blueprint Interactive|4,434.00 USD|[33](https://www.snap.com/political-ads/asset/051c35bc0f5167942dc16ccd42b5386d7cd989f45755c16df6802d2e3e35b3e8?mediaType=png)|537,145||18-34|united states|1730 Rhode Island Ave NW Suite 1014,Washington,20036,US|
+|ZAMBEZI|1,521.00 USD|[34](https://www.snap.com/political-ads/asset/5f9e59505b5c8a7089ffa715d6fb37de23527d6f5f9b3f5655eb922590cebd83?mediaType=mp4)|528,775|FEMALE|18-29|united states|US|
+|M&R Strategic Services  Inc.|1,328.00 USD|[35](https://www.snap.com/political-ads/asset/276894325528ceec2e991be0a6a10267508909ebe6f5662b8dfd1ff805321e3a?mediaType=mp4)|528,412||18-35|united states|1901 L St NW,Washington,20036,US|
+|ZAMBEZI|1,896.00 USD|[36](https://www.snap.com/political-ads/asset/f55af86197b84e9b931e5842571faee7680f95661a67acca0e7646ad1fed50d4?mediaType=mp4)|512,258|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,477.00 USD|[37](https://www.snap.com/political-ads/asset/5f9e59505b5c8a7089ffa715d6fb37de23527d6f5f9b3f5655eb922590cebd83?mediaType=mp4)|510,654|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,456.00 USD|[38](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|503,475|FEMALE|18-29|united states|US|
+|M&R Strategic Services  Inc.|4,561.00 USD|[39](https://www.snap.com/political-ads/asset/c7ab886d02be4f82bb25ae0c4f442b25ee15b0d553a25c63d293305fe2aa586f?mediaType=mp4)|500,418||18+|united states|1901 L St NW,Washington,20036,US|
+|M&R Strategic Services  Inc.|5,084.00 USD|[40](https://www.snap.com/political-ads/asset/c26fd5b960c5760b94a27e2262395c6d8e6dc1b55315f38a5a6657b305c28275?mediaType=mp4)|490,559||18+|united states|1901 L St NW,Washington,20036,US|
+|ZAMBEZI|1,392.00 USD|[41](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|480,682|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,381.00 USD|[42](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|480,138|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,386.00 USD|[43](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|479,689|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,707.00 USD|[44](https://www.snap.com/political-ads/asset/5f9e59505b5c8a7089ffa715d6fb37de23527d6f5f9b3f5655eb922590cebd83?mediaType=mp4)|479,077|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,684.00 USD|[45](https://www.snap.com/political-ads/asset/9bd66d2cbf79002ba78460dfca3508b131f42c4aa9014314bb88d405bf5a51ce?mediaType=mp4)|474,660|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,351.00 USD|[46](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|466,911|FEMALE|18-29|united states|US|
+|ZAMBEZI|1,660.00 USD|[47](https://www.snap.com/political-ads/asset/bb3bd009c099bf086d23dd3ab26a9c44a56ef90f8434b179aade50917f92728a?mediaType=mp4)|466,724|FEMALE|18-29|united states|US|
 |Blueprint Interactive|3,146.00 USD|[48](https://www.snap.com/political-ads/asset/bdf383bc94c3234ff44d13a764b98c33693d1002202ea902d4ec6c92a025645f?mediaType=png)|446,270||18-34|united states|1730 Rhode Island Ave NW Suite 1014,Washington,20036,US|
 |M&R Strategic Services  Inc.|1,121.00 USD|[49](https://www.snap.com/political-ads/asset/276894325528ceec2e991be0a6a10267508909ebe6f5662b8dfd1ff805321e3a?mediaType=mp4)|422,330||18-35|united states|1901 L St NW,Washington,20036,US|
 |ZAMBEZI|1,488.00 USD|[50](https://www.snap.com/political-ads/asset/8b697752f5f7abf5c25be6d5ffe108457f7855943cf06c387b03004a7f8cd7de?mediaType=mp4)|415,596|FEMALE|18-29|united states|US|

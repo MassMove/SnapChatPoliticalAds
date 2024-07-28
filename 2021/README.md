@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
 |[The Climate Pledge](The_Climate_Pledge.md) - Amazon Services LLC: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
-|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
+|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
 |[Thorn](Thorn.md) - Thorn|100,650.00 USD|42,751,107||17-|united states|
 |[Fair Fight Action](Fair_Fight_Action.md) - AL Media: Fair Fight Action|327,862.00 USD|41,644,985||18-34, 18+|united states|
@@ -32,10 +32,10 @@
 |[VVD](VVD.md) - VVD: VVD|15,748.00 EUR|9,142,726||18+|netherlands|
 |[Illinois Clean Jobs Coalition](Illinois_Clean_Jobs_Coalition.md) - We Bridge Consulting LLC: Illinois Clean Jobs Coalition|18,000.00 USD|9,105,909||16+, 29-, 30+|united states|
 |[Care in Action](Care_in_Action.md) - Precision [TEST]: Care in Action, Virginia Election|96,121.00 USD|8,924,344|FEMALE|18+|united states|
-|[EU-kommissionen](EU-kommissionen.md) - Adsup AB|20,158.00 EUR|8,130,685||18-24, 25-29|sweden|
 |[Community Change Action](Community_Change_Action.md) - Do Big Things: immigration refrom, Presidential Inauguration|44,984.00 USD|7,910,744||17+, 18+|united states|
 |[Venstre](Venstre.md) - Venstre: frihet og muligheter, Guri Melby, internasjonalt samarbeid, Like muligheter for alle, Oljeleting, rusreform, Rusreformen, Velge Venstre|229,237.00 NOK|7,879,651|FEMALE|17-30, 17-34, 17-35, 17-45, 17+, 18-25, 18-30, 18-35, 18-40, 18-45, 18-49, 18+, 28+, 35+|norway|
 |[The People's Lawsuit](The_People's_Lawsuit.md) - Chong and Koster|24,985.00 USD|7,877,440||18-29|united states|
+|[EU-kommissionen](EU-kommissionen.md) - Adsup AB|18,380.00 EUR|7,819,655||18-24, 25-29|sweden|
 |[MESRI](MESRI.md) - Dentsu Aegis Network France|9,259.00 EUR|7,582,846||18-25|france|
 |[Government of British Columbia](Government_of_British_Columbia.md) - Vizeum Canada|38,601.00 CAD|7,439,441||18-30, 18-49, 18+, 19+|canada|
 |[NSW Electoral Commission](NSW_Electoral_Commission.md) - Wavemaker Sydney|14,821.00 AUD|7,231,273||17-24|australia|
@@ -158,15 +158,15 @@
 |[American Bridge Foundation](American_Bridge_Foundation.md) - Wavelength Strategy|7,183.00 USD|1,121,015|FEMALE|18+|united states|
 |[Welsh Labour](Welsh_Labour.md) - Welsh Labour: Welsh Labour|1,756.00 GBP|1,090,499||18-23, 18+|united kingdom|
 |[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|17,822.00 SEK|1,082,094||15-23, 18-25, 18+, 20-, 21-|sweden|
-|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
 |[Doctors Without Borders](Doctors_Without_Borders.md) - Doctors Without Borders|5,944.00 USD|1,048,126||18+, 25+|united states|
 |[Presse- und Informationsamt](Presse-_und_Informationsamt.md) - iProspect GmbH|8,631.00 EUR|1,045,306||18-24|germany|
 |[Clean Virginia Fund](Clean_Virginia_Fund.md) - COMPETE Digital LLC: Clean Virginia Fund, Jay Jones, Jennifer Carroll Foy|21,583.00 USD|1,044,021||18+|united states|
 |[Senedd Welsh Parliament](Senedd_Welsh_Parliament.md) - Golley Slater Ltd.|1,504.00 GBP|1,030,253||15-17, 15+, 18-45|united kingdom|
 |[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|12,115.00 USD|1,030,166|FEMALE|18-35, 18+|united states|
 |[CPC PAC](CPC_PAC.md) - Wavelength Strategy: Karen Carter Peterson|6,572.00 USD|1,028,744||18+|united states|
-|[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|44,968.00 NOK|1,024,406||18-30, 20+, 25+|norway|
+|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.|3,343.00 GBP|1,027,390||15-17, 15-25, 18-25|united kingdom|
 |[Colorado Dept. of Transportation](Colorado_Dept._of_Transportation.md) - Vladimir Jones|2,992.00 USD|1,018,203||21-34|united states|
+|[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|44,315.00 NOK|1,016,341||18-30, 20+, 25+|norway|
 |[Fondation Future 3](Fondation_Future_3.md) - 13Arty Consulting SA: Initiative Suisse libre de pesticides de synthese|1,996.00 EUR|1,013,127||18+|switzerland|
 |[Progressive Turnout Project](Progressive_Turnout_Project.md) - Progressive Turnout Project: Progressive Turnout Project|5,260.00 USD|1,005,888||18-34|united states|
 |[City of Edmonton](City_of_Edmonton.md) - DDB Edmonton Media|5,497.00 CAD|983,689||18+|canada|

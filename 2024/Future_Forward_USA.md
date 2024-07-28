@@ -1,18 +1,18 @@
 ## 2024 - Future Forward USA 
-**Spent**: 140,963.00
+**Spent**: 178,409.00
 
-**Impressions**: 11,558,102
+**Impressions**: 13,920,863
 
 **Billing Addresses**: 1445 New York Ave NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Bully Pulpit Interactive|14,860.00 USD|[0](https://www.snap.com/political-ads/asset/38df2fc6dca144a8fe12ad3efb5e189967668c981a4f169c90f4dd54a08dd3e9?mediaType=mp4)|1,340,568||18+|united states|
-|Bully Pulpit Interactive|14,869.00 USD|[1](https://www.snap.com/political-ads/asset/6c40c67a147a42f35ad703cb22bef110e20d69036306cfbd11413cac32629325?mediaType=mp4)|1,194,025||20+|united states|
-|Bully Pulpit Interactive|14,669.00 USD|[2](https://www.snap.com/political-ads/asset/ec26b58fbc0962ed868b18ee91aea7ea4f3186ddc5452363e43496f05a311df8?mediaType=mp4)|1,193,197||18+|united states|
-|Bully Pulpit Interactive|14,601.00 USD|[3](https://www.snap.com/political-ads/asset/76db8a3385064730de9dcc4634d2cfbfa8102dd787c1d6019285e34eaca7f9a8?mediaType=mp4)|1,097,804||18+|united states|
-|Bully Pulpit Interactive|14,568.00 USD|[4](https://www.snap.com/political-ads/asset/3571a7a7848c7e101878f1813c6427cc40902ad03d1ec7728a2bb62b5b960694?mediaType=mp4)|1,067,733||18+|united states|
-|Bully Pulpit Interactive|14,948.00 USD|[5](https://www.snap.com/political-ads/asset/f98e547f8b80f3c36aff22e35c81ead0e8818834b66e369bfc026e51d0135541?mediaType=mp4)|977,902|FEMALE|27-43|united states|
+|Bully Pulpit Interactive|24,125.00 USD|[0](https://www.snap.com/political-ads/asset/6c40c67a147a42f35ad703cb22bef110e20d69036306cfbd11413cac32629325?mediaType=mp4)|1,874,123||20+|united states|
+|Bully Pulpit Interactive|24,125.00 USD|[1](https://www.snap.com/political-ads/asset/ec26b58fbc0962ed868b18ee91aea7ea4f3186ddc5452363e43496f05a311df8?mediaType=mp4)|1,844,324||18+|united states|
+|Bully Pulpit Interactive|24,125.00 USD|[2](https://www.snap.com/political-ads/asset/3571a7a7848c7e101878f1813c6427cc40902ad03d1ec7728a2bb62b5b960694?mediaType=mp4)|1,694,535||18+|united states|
+|Bully Pulpit Interactive|24,125.00 USD|[3](https://www.snap.com/political-ads/asset/f98e547f8b80f3c36aff22e35c81ead0e8818834b66e369bfc026e51d0135541?mediaType=mp4)|1,382,636|FEMALE|27-43|united states|
+|Bully Pulpit Interactive|14,860.00 USD|[4](https://www.snap.com/political-ads/asset/38df2fc6dca144a8fe12ad3efb5e189967668c981a4f169c90f4dd54a08dd3e9?mediaType=mp4)|1,340,568||18+|united states|
+|Bully Pulpit Interactive|14,601.00 USD|[5](https://www.snap.com/political-ads/asset/76db8a3385064730de9dcc4634d2cfbfa8102dd787c1d6019285e34eaca7f9a8?mediaType=mp4)|1,097,804||18+|united states|
 |Bully Pulpit Interactive|14,886.00 USD|[6](https://www.snap.com/political-ads/asset/ad2546429b96574fb515415cd7b1091abda3aa681106e7ab7aa8e77449bbd7b7?mediaType=mp4)|975,639||18+|united states|
 |Bully Pulpit Interactive|11,385.00 USD|[7](https://www.snap.com/political-ads/asset/713fc1ee3473dc512df21cc40ad6fc7ebd95a435ea2d57c1f00d95269913a6ee?mediaType=mp4)|927,604||18+||
 |Bully Pulpit Interactive|9,156.00 USD|[8](https://www.snap.com/political-ads/asset/6aac2671ec3431c1dc169541ad047f2a0e623c79d65cdb913f0980c88288f78c?mediaType=mp4)|871,562||18+||

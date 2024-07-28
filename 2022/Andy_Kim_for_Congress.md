@@ -1,7 +1,7 @@
 ## 2022 - Andy Kim for Congress 
-**Spent**: 18,675.00
+**Spent**: 18,769.00
 
-**Impressions**: 1,619,533
+**Impressions**: 1,626,318
 
 **Billing Addresses**: US
 
@@ -53,21 +53,22 @@
 |Wavelength Strategy: Andy Kim for Congress|108.00 USD|[43](https://www.snap.com/political-ads/asset/9a6d1b0109b3ff3b9128883f581332e9b02840cd5cbe663d15f9587eb2c92e0c?mediaType=mp4)|7,936||18+|united states|
 |Wavelength Strategy: Andy Kim for Congress|101.00 USD|[44](https://www.snap.com/political-ads/asset/7068b25470f29f82e4a3cbffd816f521962f46b20e6f1220395916a79ca85808?mediaType=jpg)|7,642||18+|united states|
 |Wavelength Strategy: Andy Kim for Congress|167.00 USD|[45](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|7,137||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|102.00 USD|[46](https://www.snap.com/political-ads/asset/7068b25470f29f82e4a3cbffd816f521962f46b20e6f1220395916a79ca85808?mediaType=jpg)|6,400|FEMALE|18-49|united states|
-|Wavelength Strategy: Andy Kim for Congress|180.00 USD|[47](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|6,377||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|104.00 USD|[48](https://www.snap.com/political-ads/asset/9a6d1b0109b3ff3b9128883f581332e9b02840cd5cbe663d15f9587eb2c92e0c?mediaType=mp4)|6,078||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|94.00 USD|[49](https://www.snap.com/political-ads/asset/7068b25470f29f82e4a3cbffd816f521962f46b20e6f1220395916a79ca85808?mediaType=jpg)|6,047||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|84.00 USD|[50](https://www.snap.com/political-ads/asset/9a6d1b0109b3ff3b9128883f581332e9b02840cd5cbe663d15f9587eb2c92e0c?mediaType=mp4)|5,803|FEMALE|18-49|united states|
-|Wavelength Strategy: Andy Kim for Congress|130.00 USD|[51](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|5,736||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|110.00 USD|[52](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|5,397|FEMALE|18-49|united states|
-|Wavelength Strategy: Andy Kim for Congress|103.00 USD|[53](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|5,221|FEMALE|18-49|united states|
-|Wavelength Strategy: Andy Kim for Congress|145.00 USD|[54](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|4,988||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|59.00 USD|[55](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|3,254||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|50.00 USD|[56](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|3,227||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|44.00 USD|[57](https://www.snap.com/political-ads/asset/1d354cccdbd66bc288cfa025b45033e45529bc6bb2acea7c8ec4a4352540ec21?mediaType=mp4)|3,131||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|46.00 USD|[58](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|2,717||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|38.00 USD|[59](https://www.snap.com/political-ads/asset/1d354cccdbd66bc288cfa025b45033e45529bc6bb2acea7c8ec4a4352540ec21?mediaType=mp4)|2,503||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|31.00 USD|[60](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|2,107||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|39.00 USD|[61](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|2,045||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|1.00 USD|[62](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|110||18+|united states|
-|Wavelength Strategy: Andy Kim for Congress|0.00 USD|[63](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|80||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|94.00 USD|[46](https://www.snap.com/political-ads/asset/1d354cccdbd66bc288cfa025b45033e45529bc6bb2acea7c8ec4a4352540ec21?mediaType=mp4)|6,785|FEMALE|18-49|united states|
+|Wavelength Strategy: Andy Kim for Congress|102.00 USD|[47](https://www.snap.com/political-ads/asset/7068b25470f29f82e4a3cbffd816f521962f46b20e6f1220395916a79ca85808?mediaType=jpg)|6,400|FEMALE|18-49|united states|
+|Wavelength Strategy: Andy Kim for Congress|180.00 USD|[48](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|6,377||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|104.00 USD|[49](https://www.snap.com/political-ads/asset/9a6d1b0109b3ff3b9128883f581332e9b02840cd5cbe663d15f9587eb2c92e0c?mediaType=mp4)|6,078||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|94.00 USD|[50](https://www.snap.com/political-ads/asset/7068b25470f29f82e4a3cbffd816f521962f46b20e6f1220395916a79ca85808?mediaType=jpg)|6,047||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|84.00 USD|[51](https://www.snap.com/political-ads/asset/9a6d1b0109b3ff3b9128883f581332e9b02840cd5cbe663d15f9587eb2c92e0c?mediaType=mp4)|5,803|FEMALE|18-49|united states|
+|Wavelength Strategy: Andy Kim for Congress|130.00 USD|[52](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|5,736||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|110.00 USD|[53](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|5,397|FEMALE|18-49|united states|
+|Wavelength Strategy: Andy Kim for Congress|103.00 USD|[54](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|5,221|FEMALE|18-49|united states|
+|Wavelength Strategy: Andy Kim for Congress|145.00 USD|[55](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|4,988||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|59.00 USD|[56](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|3,254||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|50.00 USD|[57](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|3,227||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|44.00 USD|[58](https://www.snap.com/political-ads/asset/1d354cccdbd66bc288cfa025b45033e45529bc6bb2acea7c8ec4a4352540ec21?mediaType=mp4)|3,131||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|46.00 USD|[59](https://www.snap.com/political-ads/asset/832a6abe490a9ef370f0e97b8cf57b1464fea3b2263e65cda899f823261036ef?mediaType=jpg)|2,717||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|38.00 USD|[60](https://www.snap.com/political-ads/asset/1d354cccdbd66bc288cfa025b45033e45529bc6bb2acea7c8ec4a4352540ec21?mediaType=mp4)|2,503||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|31.00 USD|[61](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|2,107||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|39.00 USD|[62](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|2,045||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|1.00 USD|[63](https://www.snap.com/political-ads/asset/7f45af40c39d28c5d723faed16734b210f3d799418f05e0752c221a714234ab1?mediaType=png)|110||18+|united states|
+|Wavelength Strategy: Andy Kim for Congress|0.00 USD|[64](https://www.snap.com/political-ads/asset/b307058b72a23d315cb94b00d85d89b27b31339cba6c937c79d490ada699e38d?mediaType=png)|80||18+|united states|

@@ -1,7 +1,7 @@
 ## 2022 - DCCC 
-**Spent**: 64,369.00
+**Spent**: 64,396.00
 
-**Impressions**: 11,325,045
+**Impressions**: 11,332,197
 
 **Billing Addresses**: 
 - 222 W Ontario, Suite 600,,Chicago,60654,US
@@ -163,42 +163,43 @@
 |Human Age Digital|199.00 USD|[151](https://www.snap.com/political-ads/asset/b0a2d281ba493eeaaf7598325193729674676c746595bcd49b677eb9a458cec0?mediaType=mp4)|7,702||18+|united states|US|
 |Human Age Digital: DCCC|114.00 USD|[152](https://www.snap.com/political-ads/asset/4d9581d6b9e2bba3d408323b946d89705354bad561671b27043485701745677e?mediaType=mp4)|7,552||18+|united states|US|
 |Human Age Digital|67.00 USD|[153](https://www.snap.com/political-ads/asset/c56f29898dd87f643ecf35fdcf7313a8076c46e80c3c0b8f56e685a246e02a8c?mediaType=mp4)|7,155||18+|united states|US|
-|Human Age Digital|73.00 USD|[154](https://www.snap.com/political-ads/asset/846d67cb32440c7f511c25633e41dc92632086c5f87f631562b79fb38d0b07e5?mediaType=mp4)|7,129||18+|united states|US|
-|Human Age Digital|24.00 USD|[155](https://www.snap.com/political-ads/asset/a241ce574d4bebfac4a1c333d7ad6f1625563685b0872bd45ff90e48ab69c352?mediaType=mp4)|6,922||18+|united states|US|
-|Human Age Digital|24.00 USD|[156](https://www.snap.com/political-ads/asset/7b3c62f86c776216ba570a54cd80ceafeb4a66f602469bd8504407d9dd6b9c04?mediaType=mp4)|6,787||18+|united states|US|
-|Human Age Digital|20.00 USD|[157](https://www.snap.com/political-ads/asset/aa41908e68ff7778c98a4e37cd9936a3422ee7e069e4158731dfdb999b5ad471?mediaType=mp4)|6,649||18+|united states|US|
-|Human Age Digital|25.00 USD|[158](https://www.snap.com/political-ads/asset/b49ce9b75ca97e0ee4a4915e483af7ade53c118e5b3fecda7c53114d8b272ee8?mediaType=mp4)|6,637||18+|united states|US|
-|Human Age Digital|23.00 USD|[159](https://www.snap.com/political-ads/asset/f66ac1bdc238d38a435701a57c72c1f3455574c77c47213a1dad15755a2c1b12?mediaType=mp4)|6,578||18+|united states|US|
-|Human Age Digital|61.00 USD|[160](https://www.snap.com/political-ads/asset/a241ce574d4bebfac4a1c333d7ad6f1625563685b0872bd45ff90e48ab69c352?mediaType=mp4)|6,529||18+|united states|US|
-|Human Age Digital|174.00 USD|[161](https://www.snap.com/political-ads/asset/b0a2d281ba493eeaaf7598325193729674676c746595bcd49b677eb9a458cec0?mediaType=mp4)|6,404||18+|united states|US|
-|Human Age Digital|162.00 USD|[162](https://www.snap.com/political-ads/asset/aafb0359edaa46434847adb3fef0452f54700525158d2f8333bf11bf2c74cb60?mediaType=mp4)|6,345||18+|united states|US|
-|Human Age Digital|29.00 USD|[163](https://www.snap.com/political-ads/asset/c044999c2bab15980bc914217ac09355710c904c9bcab4129606b96ff4ba4b57?mediaType=mp4)|6,288||18+|united states|US|
-|Human Age Digital|56.00 USD|[164](https://www.snap.com/political-ads/asset/846d67cb32440c7f511c25633e41dc92632086c5f87f631562b79fb38d0b07e5?mediaType=mp4)|6,056||18+|united states|US|
-|Human Age Digital|154.00 USD|[165](https://www.snap.com/political-ads/asset/559b965a7d5ea1ef7733600f1f1671f2b7e1e4740ef49c6276d0b51900323722?mediaType=mp4)|5,937||18+|united states|US|
-|Human Age Digital|55.00 USD|[166](https://www.snap.com/political-ads/asset/9adcf92345a346e9dca0ab7f7f9a376404a995f67bb933e1a79e1f85d44c2379?mediaType=mp4)|5,857||18+|united states|US|
-|Human Age Digital|20.00 USD|[167](https://www.snap.com/political-ads/asset/aa41908e68ff7778c98a4e37cd9936a3422ee7e069e4158731dfdb999b5ad471?mediaType=mp4)|5,693||18+|united states|US|
-|Human Age Digital|52.00 USD|[168](https://www.snap.com/political-ads/asset/34c008366026a8d4a5e3adbf25d7f778a3174066c5f4266988800da5c88d57dc?mediaType=mp4)|5,534||18+|united states|US|
-|Human Age Digital|51.00 USD|[169](https://www.snap.com/political-ads/asset/b49ce9b75ca97e0ee4a4915e483af7ade53c118e5b3fecda7c53114d8b272ee8?mediaType=mp4)|5,451||18+|united states|US|
-|Human Age Digital|56.00 USD|[170](https://www.snap.com/political-ads/asset/b49ce9b75ca97e0ee4a4915e483af7ade53c118e5b3fecda7c53114d8b272ee8?mediaType=mp4)|5,443||18+|united states|US|
-|Human Age Digital|56.00 USD|[171](https://www.snap.com/political-ads/asset/9adcf92345a346e9dca0ab7f7f9a376404a995f67bb933e1a79e1f85d44c2379?mediaType=mp4)|5,414||18+|united states|US|
-|Human Age Digital|55.00 USD|[172](https://www.snap.com/political-ads/asset/a241ce574d4bebfac4a1c333d7ad6f1625563685b0872bd45ff90e48ab69c352?mediaType=mp4)|5,399||18+|united states|US|
-|Human Age Digital|55.00 USD|[173](https://www.snap.com/political-ads/asset/c56f29898dd87f643ecf35fdcf7313a8076c46e80c3c0b8f56e685a246e02a8c?mediaType=mp4)|5,385||18+|united states|US|
-|Human Age Digital|47.00 USD|[174](https://www.snap.com/political-ads/asset/34c008366026a8d4a5e3adbf25d7f778a3174066c5f4266988800da5c88d57dc?mediaType=mp4)|4,595||18+|united states|US|
-|Human Age Digital|81.00 USD|[175](https://www.snap.com/political-ads/asset/424bbc16025a7a51aa147272ab030314492254a2a615488d9585fd33cab1e0be?mediaType=mp4)|4,156||18+|united states|US|
-|Human Age Digital|109.00 USD|[176](https://www.snap.com/political-ads/asset/aafb0359edaa46434847adb3fef0452f54700525158d2f8333bf11bf2c74cb60?mediaType=mp4)|3,940||18+|united states|US|
-|Human Age Digital: DCCC|37.00 USD|[177](https://www.snap.com/political-ads/asset/9c53e15a7c1be41e6aad469e6a25f56bda11013c72c2ecb97de2d4eb4ad112d7?mediaType=mp4)|3,763||18+|united states|US|
-|Human Age Digital|92.00 USD|[178](https://www.snap.com/political-ads/asset/308fabfec2d0eb23edd64100ffad6849911d628a2b43659d6b252424d41013f5?mediaType=mp4)|3,596||18+|united states|US|
-|Human Age Digital: DCCC|41.00 USD|[179](https://www.snap.com/political-ads/asset/9c53e15a7c1be41e6aad469e6a25f56bda11013c72c2ecb97de2d4eb4ad112d7?mediaType=mp4)|3,502||18+|united states|US|
-|Human Age Digital|15.00 USD|[180](https://www.snap.com/political-ads/asset/b8d631bf1adb46f3c3db19e8c93ae8a065994e42c9097f3c9daf5e46051c16b2?mediaType=mp4)|3,323||18+|united states|US|
-|Human Age Digital|28.00 USD|[181](https://www.snap.com/political-ads/asset/846d67cb32440c7f511c25633e41dc92632086c5f87f631562b79fb38d0b07e5?mediaType=mp4)|3,305||18+|united states|US|
-|Human Age Digital|27.00 USD|[182](https://www.snap.com/political-ads/asset/9adcf92345a346e9dca0ab7f7f9a376404a995f67bb933e1a79e1f85d44c2379?mediaType=mp4)|3,106||18+|united states|US|
-|Human Age Digital: Pennsylvania 7th congressional district|58.00 USD|[183](https://www.snap.com/political-ads/asset/cedcdb5feba4b14b32cbf7529eb319b4bd3517ce08d76b94db0cd97d1b69669c?mediaType=mp4)|2,438||18+|united states|US|
-|Human Age Digital: DCCC|28.00 USD|[184](https://www.snap.com/political-ads/asset/9578961580195ce0174f313e7b5a4e87bd54b8c21dda61e9d7c91b7658dfe517?mediaType=mp4)|2,418||18+|united states|US|
-|Human Age Digital|19.00 USD|[185](https://www.snap.com/political-ads/asset/c56f29898dd87f643ecf35fdcf7313a8076c46e80c3c0b8f56e685a246e02a8c?mediaType=mp4)|2,286||18+|united states|US|
-|Human Age Digital: DCCC|20.00 USD|[186](https://www.snap.com/political-ads/asset/4d9581d6b9e2bba3d408323b946d89705354bad561671b27043485701745677e?mediaType=mp4)|1,815||18+|united states|US|
-|Human Age Digital|21.00 USD|[187](https://www.snap.com/political-ads/asset/849c1a9a7423d36cfc2bc5a6eae4c5852d35b88b2b2200df7b257b6207fe90ca?mediaType=mp4)|1,649||25+|united states|US|
-|Human Age Digital: Pennsylvania 7th congressional district|35.00 USD|[188](https://www.snap.com/political-ads/asset/431ef0922266985e49341cfd0594e35da330d85a836816522a5634679a8ca73a?mediaType=mp4)|1,503||18+|united states|US|
-|Human Age Digital: DCCC|15.00 USD|[189](https://www.snap.com/political-ads/asset/9578961580195ce0174f313e7b5a4e87bd54b8c21dda61e9d7c91b7658dfe517?mediaType=mp4)|1,388||18+|united states|US|
-|Human Age Digital|16.00 USD|[190](https://www.snap.com/political-ads/asset/9f765279e67487a47b6bb93ac5bc99e762ddd0810f62ed92fdb59f00754338b7?mediaType=mp4)|1,241||25+|united states|US|
-|Human Age Digital|15.00 USD|[191](https://www.snap.com/political-ads/asset/51dc1aca3b8ae07d0a6cb2c67e95f1a73ec8faf9fa8089aacf44c38282212ae7?mediaType=mp4)|1,191||25+|united states|US|
-|Human Age Digital: DCCC|9.00 USD|[192](https://www.snap.com/political-ads/asset/4d9581d6b9e2bba3d408323b946d89705354bad561671b27043485701745677e?mediaType=mp4)|941||18+|united states|US|
+|Human Age Digital|27.00 USD|[154](https://www.snap.com/political-ads/asset/34c008366026a8d4a5e3adbf25d7f778a3174066c5f4266988800da5c88d57dc?mediaType=mp4)|7,152||18+|united states|US|
+|Human Age Digital|73.00 USD|[155](https://www.snap.com/political-ads/asset/846d67cb32440c7f511c25633e41dc92632086c5f87f631562b79fb38d0b07e5?mediaType=mp4)|7,129||18+|united states|US|
+|Human Age Digital|24.00 USD|[156](https://www.snap.com/political-ads/asset/a241ce574d4bebfac4a1c333d7ad6f1625563685b0872bd45ff90e48ab69c352?mediaType=mp4)|6,922||18+|united states|US|
+|Human Age Digital|24.00 USD|[157](https://www.snap.com/political-ads/asset/7b3c62f86c776216ba570a54cd80ceafeb4a66f602469bd8504407d9dd6b9c04?mediaType=mp4)|6,787||18+|united states|US|
+|Human Age Digital|20.00 USD|[158](https://www.snap.com/political-ads/asset/aa41908e68ff7778c98a4e37cd9936a3422ee7e069e4158731dfdb999b5ad471?mediaType=mp4)|6,649||18+|united states|US|
+|Human Age Digital|25.00 USD|[159](https://www.snap.com/political-ads/asset/b49ce9b75ca97e0ee4a4915e483af7ade53c118e5b3fecda7c53114d8b272ee8?mediaType=mp4)|6,637||18+|united states|US|
+|Human Age Digital|23.00 USD|[160](https://www.snap.com/political-ads/asset/f66ac1bdc238d38a435701a57c72c1f3455574c77c47213a1dad15755a2c1b12?mediaType=mp4)|6,578||18+|united states|US|
+|Human Age Digital|61.00 USD|[161](https://www.snap.com/political-ads/asset/a241ce574d4bebfac4a1c333d7ad6f1625563685b0872bd45ff90e48ab69c352?mediaType=mp4)|6,529||18+|united states|US|
+|Human Age Digital|174.00 USD|[162](https://www.snap.com/political-ads/asset/b0a2d281ba493eeaaf7598325193729674676c746595bcd49b677eb9a458cec0?mediaType=mp4)|6,404||18+|united states|US|
+|Human Age Digital|162.00 USD|[163](https://www.snap.com/political-ads/asset/aafb0359edaa46434847adb3fef0452f54700525158d2f8333bf11bf2c74cb60?mediaType=mp4)|6,345||18+|united states|US|
+|Human Age Digital|29.00 USD|[164](https://www.snap.com/political-ads/asset/c044999c2bab15980bc914217ac09355710c904c9bcab4129606b96ff4ba4b57?mediaType=mp4)|6,288||18+|united states|US|
+|Human Age Digital|56.00 USD|[165](https://www.snap.com/political-ads/asset/846d67cb32440c7f511c25633e41dc92632086c5f87f631562b79fb38d0b07e5?mediaType=mp4)|6,056||18+|united states|US|
+|Human Age Digital|154.00 USD|[166](https://www.snap.com/political-ads/asset/559b965a7d5ea1ef7733600f1f1671f2b7e1e4740ef49c6276d0b51900323722?mediaType=mp4)|5,937||18+|united states|US|
+|Human Age Digital|55.00 USD|[167](https://www.snap.com/political-ads/asset/9adcf92345a346e9dca0ab7f7f9a376404a995f67bb933e1a79e1f85d44c2379?mediaType=mp4)|5,857||18+|united states|US|
+|Human Age Digital|20.00 USD|[168](https://www.snap.com/political-ads/asset/aa41908e68ff7778c98a4e37cd9936a3422ee7e069e4158731dfdb999b5ad471?mediaType=mp4)|5,693||18+|united states|US|
+|Human Age Digital|52.00 USD|[169](https://www.snap.com/political-ads/asset/34c008366026a8d4a5e3adbf25d7f778a3174066c5f4266988800da5c88d57dc?mediaType=mp4)|5,534||18+|united states|US|
+|Human Age Digital|51.00 USD|[170](https://www.snap.com/political-ads/asset/b49ce9b75ca97e0ee4a4915e483af7ade53c118e5b3fecda7c53114d8b272ee8?mediaType=mp4)|5,451||18+|united states|US|
+|Human Age Digital|56.00 USD|[171](https://www.snap.com/political-ads/asset/b49ce9b75ca97e0ee4a4915e483af7ade53c118e5b3fecda7c53114d8b272ee8?mediaType=mp4)|5,443||18+|united states|US|
+|Human Age Digital|56.00 USD|[172](https://www.snap.com/political-ads/asset/9adcf92345a346e9dca0ab7f7f9a376404a995f67bb933e1a79e1f85d44c2379?mediaType=mp4)|5,414||18+|united states|US|
+|Human Age Digital|55.00 USD|[173](https://www.snap.com/political-ads/asset/a241ce574d4bebfac4a1c333d7ad6f1625563685b0872bd45ff90e48ab69c352?mediaType=mp4)|5,399||18+|united states|US|
+|Human Age Digital|55.00 USD|[174](https://www.snap.com/political-ads/asset/c56f29898dd87f643ecf35fdcf7313a8076c46e80c3c0b8f56e685a246e02a8c?mediaType=mp4)|5,385||18+|united states|US|
+|Human Age Digital|47.00 USD|[175](https://www.snap.com/political-ads/asset/34c008366026a8d4a5e3adbf25d7f778a3174066c5f4266988800da5c88d57dc?mediaType=mp4)|4,595||18+|united states|US|
+|Human Age Digital|81.00 USD|[176](https://www.snap.com/political-ads/asset/424bbc16025a7a51aa147272ab030314492254a2a615488d9585fd33cab1e0be?mediaType=mp4)|4,156||18+|united states|US|
+|Human Age Digital|109.00 USD|[177](https://www.snap.com/political-ads/asset/aafb0359edaa46434847adb3fef0452f54700525158d2f8333bf11bf2c74cb60?mediaType=mp4)|3,940||18+|united states|US|
+|Human Age Digital: DCCC|37.00 USD|[178](https://www.snap.com/political-ads/asset/9c53e15a7c1be41e6aad469e6a25f56bda11013c72c2ecb97de2d4eb4ad112d7?mediaType=mp4)|3,763||18+|united states|US|
+|Human Age Digital|92.00 USD|[179](https://www.snap.com/political-ads/asset/308fabfec2d0eb23edd64100ffad6849911d628a2b43659d6b252424d41013f5?mediaType=mp4)|3,596||18+|united states|US|
+|Human Age Digital: DCCC|41.00 USD|[180](https://www.snap.com/political-ads/asset/9c53e15a7c1be41e6aad469e6a25f56bda11013c72c2ecb97de2d4eb4ad112d7?mediaType=mp4)|3,502||18+|united states|US|
+|Human Age Digital|15.00 USD|[181](https://www.snap.com/political-ads/asset/b8d631bf1adb46f3c3db19e8c93ae8a065994e42c9097f3c9daf5e46051c16b2?mediaType=mp4)|3,323||18+|united states|US|
+|Human Age Digital|28.00 USD|[182](https://www.snap.com/political-ads/asset/846d67cb32440c7f511c25633e41dc92632086c5f87f631562b79fb38d0b07e5?mediaType=mp4)|3,305||18+|united states|US|
+|Human Age Digital|27.00 USD|[183](https://www.snap.com/political-ads/asset/9adcf92345a346e9dca0ab7f7f9a376404a995f67bb933e1a79e1f85d44c2379?mediaType=mp4)|3,106||18+|united states|US|
+|Human Age Digital: Pennsylvania 7th congressional district|58.00 USD|[184](https://www.snap.com/political-ads/asset/cedcdb5feba4b14b32cbf7529eb319b4bd3517ce08d76b94db0cd97d1b69669c?mediaType=mp4)|2,438||18+|united states|US|
+|Human Age Digital: DCCC|28.00 USD|[185](https://www.snap.com/political-ads/asset/9578961580195ce0174f313e7b5a4e87bd54b8c21dda61e9d7c91b7658dfe517?mediaType=mp4)|2,418||18+|united states|US|
+|Human Age Digital|19.00 USD|[186](https://www.snap.com/political-ads/asset/c56f29898dd87f643ecf35fdcf7313a8076c46e80c3c0b8f56e685a246e02a8c?mediaType=mp4)|2,286||18+|united states|US|
+|Human Age Digital: DCCC|20.00 USD|[187](https://www.snap.com/political-ads/asset/4d9581d6b9e2bba3d408323b946d89705354bad561671b27043485701745677e?mediaType=mp4)|1,815||18+|united states|US|
+|Human Age Digital|21.00 USD|[188](https://www.snap.com/political-ads/asset/849c1a9a7423d36cfc2bc5a6eae4c5852d35b88b2b2200df7b257b6207fe90ca?mediaType=mp4)|1,649||25+|united states|US|
+|Human Age Digital: Pennsylvania 7th congressional district|35.00 USD|[189](https://www.snap.com/political-ads/asset/431ef0922266985e49341cfd0594e35da330d85a836816522a5634679a8ca73a?mediaType=mp4)|1,503||18+|united states|US|
+|Human Age Digital: DCCC|15.00 USD|[190](https://www.snap.com/political-ads/asset/9578961580195ce0174f313e7b5a4e87bd54b8c21dda61e9d7c91b7658dfe517?mediaType=mp4)|1,388||18+|united states|US|
+|Human Age Digital|16.00 USD|[191](https://www.snap.com/political-ads/asset/9f765279e67487a47b6bb93ac5bc99e762ddd0810f62ed92fdb59f00754338b7?mediaType=mp4)|1,241||25+|united states|US|
+|Human Age Digital|15.00 USD|[192](https://www.snap.com/political-ads/asset/51dc1aca3b8ae07d0a6cb2c67e95f1a73ec8faf9fa8089aacf44c38282212ae7?mediaType=mp4)|1,191||25+|united states|US|
+|Human Age Digital: DCCC|9.00 USD|[193](https://www.snap.com/political-ads/asset/4d9581d6b9e2bba3d408323b946d89705354bad561671b27043485701745677e?mediaType=mp4)|941||18+|united states|US|

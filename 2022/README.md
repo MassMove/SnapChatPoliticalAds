@@ -1,10 +1,10 @@
 ## 2022 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[PPFA](PPFA.md) - Chong and Koster|534,651.00 USD|104,141,954|FEMALE|18-35, 18+|united states|
+|[PPFA](PPFA.md) - Chong and Koster|552,638.00 USD|108,761,626|FEMALE|18-35, 18+|united states|
 |[Google Canada](Google_Canada.md) - Essence Global Canada Inc.: Bill C 11|1,266,085.00 CAD|98,480,618||18-34|canada|
 |[Department of Social Services](Department_of_Social_Services.md) - Australian Government Department of Finance|364,995.00 AUD|90,519,033||15-17, 18-24|australia|
-|[Warnock for Georgia](Warnock_for_Georgia.md) - AL Media: Warnock For Georgia|448,997.00 USD|84,933,928|FEMALE|18-24, 18-40, 18+|united states|
+|[Warnock for Georgia](Warnock_for_Georgia.md) - AL Media: Warnock For Georgia|454,261.00 USD|85,246,384|FEMALE|18-24, 18-40, 18+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|386,997.00 AUD|76,155,777||18-24|australia|
 |[Gouvernement](Gouvernement.md) - Dentsu Aegis Network France|88,703.00 EUR|41,202,300||18-34, 18+|france|
 |[Kathy Hochul for NY](Kathy_Hochul_for_NY.md) - Wavelength Strategy: Kathy Hochul|258,466.00 USD|40,959,794||18-49, 18+|united states|
@@ -16,7 +16,7 @@
 |[SEIU](SEIU.md) - Precision [TEST]: SEIU, Senator Raphael Warnock|147,474.00 USD|26,855,361||18-45, 18+|united states|
 |[MAJORITY FORWARD FUND](MAJORITY_FORWARD_FUND.md) - MVAR Media: Majority Forward|106,749.00 USD|26,483,037||18-45|united states|
 |[Courier Newsroom](Courier_Newsroom.md) - SBDigital|108,911.00 USD|24,372,577||17+, 18+|united states|
-|[Mark Kelly for Senate](Mark_Kelly_for_Senate.md) - Wavelength Strategy: Mark Kelly|238,541.00 USD|23,132,759||18-24, 18-34, 18-35, 18+, 35+|united states|
+|[Mark Kelly for Senate](Mark_Kelly_for_Senate.md) - Wavelength Strategy: Mark Kelly|238,498.00 USD|23,129,810||18-24, 18-34, 18-35, 18+, 35+|united states|
 |[Electoral Commission](Electoral_Commission.md) - Walk In Media|68,413.00 GBP|23,034,631||16-17, 18-34|united kingdom|
 |[Priorities USA](Priorities_USA.md) - Gambit Strategies|281,931.00 USD|20,394,766||18-34, 18-49|united states|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|66,898.00 USD|18,370,141||18+|united states|
@@ -32,25 +32,25 @@
 |[Reproductive Freedom for All](Reproductive_Freedom_for_All.md) - Reproductive Freedom for All|79,478.00 USD|14,636,518||18+|united states|
 |[Osama AlShaheen](Osama_AlShaheen.md) - Different Media|19,196.00 USD|14,233,116|FEMALE|21+|kuwait|
 |[Californians for Solutions](Californians_for_Solutions.md) - Aisle 518 Strategies LLC: Californians for Solutions to Homelessness, Yes on 27 Californians for Solutions to Homeless|200,118.00 USD|14,088,173|FEMALE, MALE|18-44, 18+|united states|
-|[Catherine Cortez Masto](Catherine_Cortez_Masto.md) - Wavelength Strategy: Catherine Cortez Masto for Senate|196,725.00 USD|13,957,619|FEMALE|18-34, 18-49, 18+|united states|
+|[Catherine Cortez Masto](Catherine_Cortez_Masto.md) - Wavelength Strategy: Catherine Cortez Masto for Senate|196,956.00 USD|13,966,485|FEMALE|18-34, 18-49, 18+|united states|
 |[NextGen Climate Action Committee](NextGen_Climate_Action_Committee.md) - Bully Pulpit Interactive|53,414.00 USD|13,098,391||18+|united states|
 |[Climate Power](Climate_Power.md) - Blue State Digital|47,074.00 USD|12,969,203||18-22, 18-24|united states|
 |[VAL DEMINGS FOR U.S. SENATE](VAL_DEMINGS_FOR_U.S._SENATE.md) - AL Media|36,749.00 USD|12,800,842||18+|united states|
 |[National Australia Day Council](National_Australia_Day_Council.md) - Australian Government Department of Finance|72,590.00 AUD|12,628,361||18-34|australia|
-|[Majority Forward](Majority_Forward.md) - AL Media: Majority Forward, Ron Johnson|90,459.00 USD|12,552,858|FEMALE|18-30, 18-34, 18-45, 18+, 34-|united states|
+|[Majority Forward](Majority_Forward.md) - GMMB  Inc: Majority Forward, Ron Johnson|90,459.00 USD|12,552,858|FEMALE|18-30, 18-34, 18-45, 18+, 34-|united states|
 |[NRDC Action Fund](NRDC_Action_Fund.md) - NRDC Action Fund|42,619.00 USD|12,302,222||25+|united states|
 |[Abdulwahab Alessa](Abdulwahab_Alessa.md) - Different Media|38,997.00 USD|11,897,402||21+|kuwait|
 |[Leaders Igniting Transformation](Leaders_Igniting_Transformation.md) - Leaders Igniting Transformation: Online Voter Registration|205,660.00 USD|11,849,779||17-34, 17-35, 18-34, 18-35, 18-49|united states|
 |[Progress MI Pol Action Fund](Progress_MI_Pol_Action_Fund.md) - The New Media Firm: Progress Michigan PAF|195,915.00 USD|11,748,815||18+|united states|
+|[Priorities USA Action](Priorities_USA_Action.md) - Gambit Strategies: Plan My Ballot|155,739.00 USD|11,560,903||18-34|united states|
 |[NY Office of Cannabis Management](NY_Office_of_Cannabis_Management.md) - OpAD Media|116,843.00 USD|11,553,842||21+|united states|
 |[Frederique Morcillo](Frederique_Morcillo.md) - Dentsu Aegis Network France|32,632.00 EUR|11,477,071||18+|germany, italy, spain, united kingdom, united states|
-|[Priorities USA Action](Priorities_USA_Action.md) - Gambit Strategies: Plan My Ballot|154,817.00 USD|11,425,367||18-34|united states|
-|[DCCC](DCCC.md) - Human Age Digital: DCCC, nevada 3rd congressional district, Pennsylvania 7th congressional district, Rudy Salas para el Congresso|64,369.00 USD|11,325,045||18+, 20+, 25+|united states|
+|[DCCC](DCCC.md) - Human Age Digital: DCCC, nevada 3rd congressional district, Pennsylvania 7th congressional district, Rudy Salas para el Congresso|64,396.00 USD|11,332,197||18+, 20+, 25+|united states|
 |[PPAWI Political Fund](PPAWI_Political_Fund.md) - Planned Parenthood Advocates of Wisconsin: Angie Sapik, David Estenson, Donnie Herman, Ed Hibsch, Jeff Smith, Josh Kaul, Laura Gapske, Lori Palmeri, Tim Michels, Tip McGuire|41,751.00 USD|10,860,497||18+|united states|
 |[The 'Gander Newsroom](The_'Gander_Newsroom.md) - SBDigital|177,426.00 USD|10,569,370||17+|united states|
 |[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|72,885.00 SEK|10,356,897||17-25, 18-25, 18-26|sweden|
 |[Fair Fight Action](Fair_Fight_Action.md) - Vision Media Services|37,284.00 USD|10,177,481||18-35, 18+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18-24, 18-25, 18-29, 18-35, 18+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18-24, 18-25, 18-29, 18-35, 18+|united states|
 |[CA Public Health](CA_Public_Health.md) - Unified|40,648.00 USD|9,990,111||18+|united states|
 |[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|74,159.00 USD|9,848,935||18+|united states|
 |[Family Friendly Action PAC](Family_Friendly_Action_PAC.md) - GMMB  Inc: Family Friendly Action PAC, Senate Majority PAC|37,607.00 USD|9,834,035||18-35, 18-45|united states|
@@ -58,7 +58,7 @@
 |[Stacey Abrams for Governor](Stacey_Abrams_for_Governor.md) - AL Media: Stacey Abrams|103,503.00 USD|9,518,961|FEMALE, MALE|18-34, 18-35, 18+|united states|
 |[Jared Polis for Colorado](Jared_Polis_for_Colorado.md) - Precision [TEST]: Jared Polis for Colorado, Polis for Colorado|118,424.00 USD|9,252,736||18-26, 18-35, 18+|united states|
 |[Grön Ungdom](Grön_Ungdom.md) - KSMG AB|100,801.00 EUR, SEK|8,988,561||18-28, 19+|sweden|
-|[Katie Porter for Congress](Katie_Porter_for_Congress.md) - Wavelength Strategy: Katie Porter, Katie Porter for Congress|105,530.00 USD|8,799,578|MALE|18+|united states|
+|[Katie Porter for Congress](Katie_Porter_for_Congress.md) - Wavelength Strategy: Katie Porter, Katie Porter for Congress|105,566.00 USD|8,800,566|MALE|18+|united states|
 |[Campus Vote Project](Campus_Vote_Project.md) - Technicolor Political: Campus Vote Project|91,560.00 USD|8,784,821||18-23, 18-24|united states|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB: Valmyndigheten|32,994.00 USD|8,657,579||18-29, 30+|sweden|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: Turnout Activism Inc, TurnUp, TurnUp Activism|97,300.00 USD|8,539,789|FEMALE|18-25, 18-29|united states|
@@ -127,10 +127,10 @@
 |[Middlesex County, NJ](Middlesex_County,_NJ.md) - Marketing Doctor Inc|14,453.00 USD|2,742,760||18+|united states|
 |[Senate Majority PAC](Senate_Majority_PAC.md) - Chong and Koster|10,797.00 USD|2,739,276||18+|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|23,347.00 AUD|2,718,139||16+|australia|
-|[Fetterman for PA](Fetterman_for_PA.md) - Middle Seat Consulting  LLC: John Fetterman, John Fetterman for PA|20,690.00 USD|2,691,075|MALE|18-30, 18+, 31-49|united states|
+|[Fetterman for PA](Fetterman_for_PA.md) - Middle Seat Consulting  LLC: John Fetterman, John Fetterman for PA|20,529.00 USD|2,682,252|MALE|18-30, 18+, 31-49|united states|
 |[CPLC Action Fund](CPLC_Action_Fund.md) - Latino Loud: We Are CPLC|9,279.00 USD|2,585,488||18-35, 18-39|united states|
 |[Rick Caruso for Mayor 2022](Rick_Caruso_for_Mayor_2022.md) - Aisle 518 Strategies LLC: Rick Caruso for Mayor 2022|29,999.00 USD|2,550,169||18+|united states|
-|[Human Rights Campaign](Human_Rights_Campaign.md) - Whistle: Human Rights Campaign, The Equality Act|14,786.00 USD|2,537,555||18+|united states|
+|[Human Rights Campaign](Human_Rights_Campaign.md) - Bully Pulpit Interactive: Human Rights Campaign, The Equality Act|14,786.00 USD|2,537,555||18+|united states|
 |[Women Vote! PAC](Women_Vote!_PAC.md) - Wavelength Strategy|11,027.00 USD|2,513,824||18+|united states|
 |[Nevada Voters First](Nevada_Voters_First.md) - Bask Digital Media: Question 3|61,996.00 USD|2,511,529||18-34, 34+|united states|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|65,999.00 NOK|2,492,936||17-19, 18-40, 27+|norway|
@@ -141,11 +141,11 @@
 |[Hindi Alhajri](Hindi_Alhajri.md) - Alhajri: Ibrahim Hindi Alhajri|3,232.00 USD|2,261,912||21+|kuwait|
 |[JUSTICE UNITES US PAC](JUSTICE_UNITES_US_PAC.md) - Fireside Campaigns|14,025.00 USD|2,254,110||18+|united states|
 |[WWF Suomi](WWF_Suomi.md) - Marketing Clinic|1,707.00 EUR|2,252,034||18-18|finland|
-|[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media: Al Jabbar for Anaheim City Council, Ashleigh Aitken for Anaheim Mayor, Carlos Leon for Anaheim City Council|37,143.00 USD|2,246,494|FEMALE|18+|united states|
 |[Lasry for Wisconsin](Lasry_for_Wisconsin.md) - AL Media: Lasry for Wisconsin|6,359.00 USD|2,236,880||18+|united states|
 |[Friends of the Earth](Friends_of_the_Earth.md) - Friends of the Earth|3,532.00 GBP|2,198,994||18+|united kingdom|
 |[United We Dream Action](United_We_Dream_Action.md) - BerlinRosen: United We Dream Action|13,273.00 USD|2,194,022||17+, 18-35, 18+|united states|
 |[End Citizens United](End_Citizens_United.md) - Wavelength Strategy: End Citizens United|13,442.00 USD|2,193,453||18+|united states|
+|[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media: Al Jabbar for Anaheim City Council, Ashleigh Aitken for Anaheim Mayor, Carlos Leon for Anaheim City Council|36,247.00 USD|2,192,124|FEMALE|18+|united states|
 |[Fair Fight](Fair_Fight.md) - Vision Media Services|32,925.00 USD|2,115,645||18+|united states|
 |[Unison](Unison.md) - M.i. Media|12,105.00 GBP|2,054,569||18-30, 18+|united kingdom|
 |[STMGP](STMGP.md) - OMD München GmbH|5,600.00 EUR|2,004,224||18-|germany|
@@ -162,6 +162,7 @@
 |[Sjukvårdspartiet](Sjukvårdspartiet.md) - Östgöta Media: Sjukvardspartiet|41,894.00 SEK|1,835,342||18-30|sweden|
 |[Beto for Texas](Beto_for_Texas.md) - Middle Seat Consulting  LLC: Beto for Texas|49,959.00 USD|1,801,748||18+|united states|
 |[WWF Verdens naturfond](WWF_Verdens_naturfond.md) - MediaCom AS|83,216.00 NOK|1,790,664||18-40, 18+|norway|
+|[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee: UK government to welcome refugees|1,974.00 GBP, USD|1,778,516||18+|australia, canada, new zealand, poland, united kingdom|
 |[Black Progressive Action Coaliti](Black_Progressive_Action_Coaliti.md) - Break Something: Black Progressive Action Coalition, C3 GOTV Election Day 2022, C3 GOTV Georgia Senate Runoff 2022|14,651.00 USD|1,737,493||18+|united states|
 |[VVD](VVD.md) - Volkspartij voor Vrijheid en Democratie: VVD|2,358.00 EUR|1,734,509||18+|netherlands|
 |[BlackPAC](BlackPAC.md) - Break Something: Georgia 7th District Democratic Primary|12,600.00 USD|1,712,773||18+|united states|
@@ -170,7 +171,7 @@
 |[LCV Action Fund](LCV_Action_Fund.md) - Blueprint Interactive: LCV Action Votes|32,928.00 USD|1,654,236||18+, 34-|united states|
 |[Planned Parenthood PA Advocates](Planned_Parenthood_PA_Advocates.md) - Blueprint Interactive|35,196.00 USD|1,631,523|FEMALE|18-34, 18-44|united states|
 |[Flex & Benefits for MA Drivers](Flex_&_Benefits_for_MA_Drivers.md) - Trilogy Interactive: Yes for MA Drivers|32,980.00 USD|1,627,788||18+|united states|
-|[Andy Kim for Congress](Andy_Kim_for_Congress.md) - Wavelength Strategy: Andy Kim for Congress|18,675.00 USD|1,619,533|FEMALE|18-49, 18+|united states|
+|[Andy Kim for Congress](Andy_Kim_for_Congress.md) - Wavelength Strategy: Andy Kim for Congress|18,769.00 USD|1,626,318|FEMALE|18-49, 18+|united states|
 |[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|9,497.00 CAD|1,590,208||18-24|canada|
 |[Wyden for Senate](Wyden_for_Senate.md) - GMMB  Inc: Wyden for Senate|21,245.00 USD|1,586,400|FEMALE|18-35, 18+|united states|
 |[A Starting Point](A_Starting_Point.md) - A Starting Point: Follow Your Lawmaker on ASP, Register For a Free Account with ASP, Register to Vote|3,344.00 USD|1,573,525||18-45, 30-|united states|
@@ -178,7 +179,6 @@
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Level Up Your Voting|17,998.00 USD|1,538,296||18+|united states|
 |[Pennsylvania Department of State](Pennsylvania_Department_of_State.md) - Red House Communications: Pennsylvania General Election 2022|24,997.00 USD|1,518,171||18-35, 18-40|united states|
 |[Abdulrahman Hassan AlOtaibi](Abdulrahman_Hassan_AlOtaibi.md) - abdulrahman alotaibi|1,446.00 USD|1,507,206||21+|kuwait|
-|[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee|1,345.00 USD|1,495,660||18+|australia, canada, new zealand, poland|
 |[CPC PAC](CPC_PAC.md) - Wavelength Strategy: Congressional Progressive Caucus PAC|11,295.00 USD|1,490,510||18+|united states|
 |[SOMOS PAC](SOMOS_PAC.md) - Blueprint Interactive|27,496.00 USD|1,477,044||18+|united states|
 |[Mohammed Almutair](Mohammed_Almutair.md) - Digital Media Services FZ-LLC: Mohammed Almutair|3,637.00 USD|1,444,820||18+|kuwait|
@@ -517,8 +517,8 @@
 |[Hassan mohammadd](Hassan_mohammadd.md) - bch: Hasan ali, Hasan Ali, Hassan Ali|322.00 USD|58,156||21-45, 21+|kuwait|
 |[المرشح د. مشاري العيبان الشمري](المرشح_د._مشاري_العيبان_الشمري.md) - optimize advertising & marketing company wll|220.00 USD|55,906||18+|kuwait|
 |[محمد بدر الضاعن](محمد_بدر_الضاعن.md) - nahi|48.00 USD|55,843||21+|kuwait|
+|[American Heart Association](American_Heart_Association.md) - Do Big Things|1,498.00 USD|55,183||18-30|united states|
 |[Charles Fall for New York](Charles_Fall_for_New_York.md) - Charles Fall for New York: Bianca Rajpersaud, Charles Fall for New York|300.00 USD|53,750||23+, 25+|united states|
-|[American Heart Association](American_Heart_Association.md) - Do Big Things|1,456.00 USD|52,031||18-30|united states|
 |[Alliance for a Better Utah](Alliance_for_a_Better_Utah.md) - Alliance for a Better Utah: 2022 Progress Report|120.00 USD|51,486|||united states|
 |[Kelly Kautz Campaign](Kelly_Kautz_Campaign.md) - Vote Kautz for Judge Campaign: Kelly Kautz for School Board|350.00 USD|47,792||18+|united states|
 |[Gemeente Raalte](Gemeente_Raalte.md) - Gemeente Raalte|294.00 EUR|47,147||18-25, 18-30|netherlands|
@@ -526,6 +526,7 @@
 |[Paid for this ad Saeed Al-Qahtan](Paid_for_this_ad_Saeed_Al-Qahtan.md) - sourcemediakw: saeed alqahtani|25.00 USD|43,156||21+|kuwait|
 |[احمد مطيع العازمي](احمد_مطيع_العازمي.md) - kuwaitasd|158.00 USD|43,055||20+, 21+|kuwait|
 |[Victoria County Public Health](Victoria_County_Public_Health.md) - Victoria County Public Health Department|94.00 USD|42,519||18+|united states|
+|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|666.00 USD|41,836||18-35|united states|
 |[ICON MEDIA](ICON_MEDIA.md) - ICON MEDIA|276.00 USD|41,497||20+, 21+|kuwait|
 |[Supermajority](Supermajority.md) - M&R Strategic Services  Inc.|1,017.00 USD|41,055|FEMALE|18-35|united states|
 |[New Mexico Voices for Children](New_Mexico_Voices_for_Children.md) - Semilla Strategies LLC: New Mexico Constitutional Amendment 1|117.00 USD|39,173||17-45|united states|
@@ -540,12 +541,11 @@
 |[Milena Axklo](Milena_Axklo.md) - Milena Axklo: Milena Axklo riksdagskandidat Centerpartiet, Milena Axklo riksdagskandidat nr 3 Centerpartiet|2,000.00 SEK|34,529||18-21, 18+|sweden|
 |[Talalm_camp](Talalm_camp.md) - optimize advertising & marketing company wll|60.00 USD|33,218||18+|kuwait|
 |[Kingston Council](Kingston_Council.md) - Royal Borough of Kingston Council|98.00 GBP|32,915||18+|united kingdom|
-|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|577.00 USD|32,310||18-35|united states|
 |[Civic Power Of Change](Civic_Power_Of_Change.md) - Civic Power Of Change|300.00 USD|31,560||18-34|united states|
 |[Up to Us](Up_to_Us.md) - Up to Us|575.00 USD|30,901||18-24|united states|
 |[Parliamentary Service](Parliamentary_Service.md) - Attivo Limited: David Seymour MP|160.00 USD|28,628||17+, 18-30, 18-40|new zealand|
 |[FVAP](FVAP.md) - LumenAd: Federal Voting Assistance Program|121.00 USD|28,205||18-29|united states|
-|[مشعل راشد الجويسري](مشعل_راشد_الجويسري.md) - kuwainationalads|169.00 USD|27,952||20+, 21+|kuwait|
+|[مشعل راشد الجويسري](مشعل_راشد_الجويسري.md) - kuwaitasd|169.00 USD|27,952||20+, 21+|kuwait|
 |[عسكر عويد العنزي](عسكر_عويد_العنزي.md) - Askar alenezi: ASKAR ALENEZI|86.00 USD|26,788||20+|kuwait|
 |[committee to keep akers judge](committee_to_keep_akers_judge.md) - Keep Akers Judge|70.00 USD|25,961|||united states|
 |[Lara Bruner for CUSD](Lara_Bruner_for_CUSD.md) - Monsoon Studios  LLC: Lara Bruner for CUSD|486.00 USD|25,925||18+|united states|
