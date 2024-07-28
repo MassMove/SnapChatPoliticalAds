@@ -1,7 +1,7 @@
 ## 2024 - The YEARS Project 
-**Spent**: 1,870.00
+**Spent**: 2,095.00
 
-**Impressions**: 266,849
+**Impressions**: 275,976
 
 **Billing Addresses**: US
 
@@ -12,8 +12,8 @@
 |The YEARS Project|313.00 USD|[2](https://www.snap.com/political-ads/asset/76446b5f7770a49b8b40aabdd5cdcb7e5c907e9fb9635954158cc0396d45fc9e?mediaType=mp4)|25,083|||united states|
 |The YEARS Project|73.00 USD|[3](https://www.snap.com/political-ads/asset/1b0bca76374d4b3675bf3281049124798cdae33af1b521ae30398c612081ff80?mediaType=mp4)|12,969|||united states|
 |The YEARS Project|134.00 USD|[4](https://www.snap.com/political-ads/asset/1b0bca76374d4b3675bf3281049124798cdae33af1b521ae30398c612081ff80?mediaType=mp4)|11,176|||united states|
-|The YEARS Project|66.00 USD|[5](https://www.snap.com/political-ads/asset/12f20042e1f9276b24ee44c5d2dacb2acc6aa814baa79497d19edd4eadee9dea?mediaType=mp4)|4,239||20+|united states|
-|The YEARS Project|40.00 USD|[6](https://www.snap.com/political-ads/asset/09d8a081921d79c399d315eeaa1c0ad88981b733e81560c65f2efc91b38b63e4?mediaType=mp4)|2,380||20+|united states|
-|The YEARS Project|34.00 USD|[7](https://www.snap.com/political-ads/asset/09d8a081921d79c399d315eeaa1c0ad88981b733e81560c65f2efc91b38b63e4?mediaType=mp4)|1,589||20+|united states|
-|The YEARS Project|16.00 USD|[8](https://www.snap.com/political-ads/asset/6a5170d582876a5ef4e65d14fffdb1085cc86633c4c21864be607de820005cb1?mediaType=mp4)|994||20+|united states|
-|The YEARS Project|19.00 USD|[9](https://www.snap.com/political-ads/asset/6a5170d582876a5ef4e65d14fffdb1085cc86633c4c21864be607de820005cb1?mediaType=mp4)|805||20+|united states|
+|The YEARS Project|121.00 USD|[5](https://www.snap.com/political-ads/asset/12f20042e1f9276b24ee44c5d2dacb2acc6aa814baa79497d19edd4eadee9dea?mediaType=mp4)|6,647||20+|united states|
+|The YEARS Project|117.00 USD|[6](https://www.snap.com/political-ads/asset/09d8a081921d79c399d315eeaa1c0ad88981b733e81560c65f2efc91b38b63e4?mediaType=mp4)|5,804||20+|united states|
+|The YEARS Project|80.00 USD|[7](https://www.snap.com/political-ads/asset/09d8a081921d79c399d315eeaa1c0ad88981b733e81560c65f2efc91b38b63e4?mediaType=mp4)|3,056||20+|united states|
+|The YEARS Project|34.00 USD|[8](https://www.snap.com/political-ads/asset/6a5170d582876a5ef4e65d14fffdb1085cc86633c4c21864be607de820005cb1?mediaType=mp4)|1,975||20+|united states|
+|The YEARS Project|48.00 USD|[9](https://www.snap.com/political-ads/asset/6a5170d582876a5ef4e65d14fffdb1085cc86633c4c21864be607de820005cb1?mediaType=mp4)|1,652||20+|united states|

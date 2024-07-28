@@ -1,7 +1,7 @@
 ## 2022 - Warnock for Georgia 
-**Spent**: 448,997.00
+**Spent**: 454,261.00
 
-**Impressions**: 84,933,928
+**Impressions**: 85,246,384
 
 **Billing Addresses**: 222 W Ontario, Suite 600,,Chicago,60654,US
 
@@ -71,24 +71,26 @@
 |AL Media: Warnock For Georgia|2,938.00 USD|[61](https://www.snap.com/political-ads/asset/66bb0cdb5fe4675c0ec099495110ec04cdd74afef44ce6cc45ab15cd66d7f684?mediaType=mp4)|310,627||18+|united states|
 |AL Media: Warnock For Georgia|8,603.00 USD|[62](https://www.snap.com/political-ads/asset/cac48df7b44c1f6c1654441bf8abc74bfc488de216af6cb5fd90c7bf4128b9aa?mediaType=mp4)|293,316||18+|united states|
 |AL Media: Warnock For Georgia|1,692.00 USD|[63](https://www.snap.com/political-ads/asset/b4c19dda062468740e6225ce980ebc37e6cf770e6a6e36652808d8999315fc61?mediaType=mp4)|287,757||18+|united states|
-|AL Media: Warnock For Georgia|7,228.00 USD|[64](https://www.snap.com/political-ads/asset/8ee42e0327a8e14fbef879ea731253af4ec2f49d088100df08ee3df49d5802a6?mediaType=mp4)|254,824||18+|united states|
-|AL Media: Warnock For Georgia|1,498.00 USD|[65](https://www.snap.com/political-ads/asset/84a772b3236c7438b69f7ccdb984a8dc6130517f2136b1d14ca8fefcf4fa06c9?mediaType=mp4)|230,587||18+|united states|
-|AL Media: Warnock For Georgia|1,460.00 USD|[66](https://www.snap.com/political-ads/asset/cfd76e76c6bb576d2619bc7c781fa99853973ad5eb8edbe7b396270296afdfb9?mediaType=mp4)|220,683||18+|united states|
-|AL Media: Warnock For Georgia|6,916.00 USD|[67](https://www.snap.com/political-ads/asset/755f6de2f65a42b8dcb6285e401c386367082b72831148153177fe51eb4a4122?mediaType=mp4)|213,999||18+|united states|
-|AL Media: Warnock For Georgia|3,524.00 USD|[68](https://www.snap.com/political-ads/asset/c70cdd6177c52708734fe837b1e33571f4add2f6267267da4821d065e3537445?mediaType=mp4)|192,283||18+|united states|
-|AL Media: Warnock For Georgia|3,151.00 USD|[69](https://www.snap.com/political-ads/asset/cfd76e76c6bb576d2619bc7c781fa99853973ad5eb8edbe7b396270296afdfb9?mediaType=mp4)|187,689||18+|united states|
-|AL Media: Warnock For Georgia|4,389.00 USD|[70](https://www.snap.com/political-ads/asset/623ed7717e4fbb03a82a73077380e599b1bd99d56ea8bfb8c2b75bb9ee9a1587?mediaType=mp4)|162,973||18+|united states|
-|AL Media: Warnock For Georgia|2,864.00 USD|[71](https://www.snap.com/political-ads/asset/3feae61f1aa349d4900ffd44b49e84017cbe229c11ef2d62c2b031d7c63581d6?mediaType=mp4)|162,042||18+|united states|
-|AL Media: Warnock For Georgia|443.00 USD|[72](https://www.snap.com/political-ads/asset/a34c90f38d8d03a8a2ae2709201f8e2e63dca985a5042192b79296d2e9efbe7b?mediaType=mp4)|161,307||18+|united states|
-|AL Media: Warnock For Georgia|2,365.00 USD|[73](https://www.snap.com/political-ads/asset/5de2fc074f65f2250c38d140cd8c0a956676f81bc009f3ab5f9b0d778f87aec7?mediaType=mp4)|154,292||18+|united states|
-|AL Media: Warnock For Georgia|2,342.00 USD|[74](https://www.snap.com/political-ads/asset/11d31cae9eae42824d5b937bc345ef91f49b77aa43d34d5f484d7937603e788d?mediaType=mp4)|141,135||18+|united states|
-|AL Media: Warnock For Georgia|2,097.00 USD|[75](https://www.snap.com/political-ads/asset/d9a74faac2bb2a551b7e10287545b610d4042efe22b72266ee199f9da830933c?mediaType=mp4)|136,744||18+|united states|
-|AL Media: Warnock For Georgia|2,033.00 USD|[76](https://www.snap.com/political-ads/asset/3b965e79e925feffc0c57742d6a664a4827fcf3933d5ddd751de7be3822fd442?mediaType=mp4)|132,838||18+|united states|
-|AL Media: Warnock For Georgia|1,750.00 USD|[77](https://www.snap.com/political-ads/asset/aa6949dca0f50013a11c7af3d9e254c572828c316ccb38f13c1067c2adf9babe?mediaType=mp4)|127,463||18+|united states|
-|AL Media: Warnock For Georgia|245.00 USD|[78](https://www.snap.com/political-ads/asset/7cb06bf2a02b46f2fa4821fd75845d739b1e02481e09ad8f5e66b02b6023520d?mediaType=mp4)|89,754||18+|united states|
-|AL Media: Warnock For Georgia|2,375.00 USD|[79](https://www.snap.com/political-ads/asset/e5c6c0691d26c840672e3d29215950d41c7314acb4ac9a6b384c0e4743b56b6c?mediaType=mp4)|85,950||18+|united states|
-|AL Media: Warnock For Georgia|1,081.00 USD|[80](https://www.snap.com/political-ads/asset/7a7345529e2e1432a95bc4db12f2cd65b6caeb26ca8b48193db0fcc7911df0bb?mediaType=mp4)|74,079||18+|united states|
-|AL Media: Warnock For Georgia|925.00 USD|[81](https://www.snap.com/political-ads/asset/25a0cd7f30a77f89b8d339466ddd91a63191fdc7ea96bc91746609e82db77ad9?mediaType=mp4)|64,285||18+|united states|
-|AL Media: Warnock For Georgia|1,155.00 USD|[82](https://www.snap.com/political-ads/asset/b1482e147a0d177d866052e1a738fbd2077a752feedf2d3a44cb4cdf95c7d759?mediaType=mp4)|42,692||18+|united states|
-|AL Media: Warnock For Georgia|1,055.00 USD|[83](https://www.snap.com/political-ads/asset/85cee3b2f81f9658bf72d2058b8ad161483ce105bca8e9033f15309471e61a32?mediaType=mp4)|39,073||18+|united states|
-|AL Media: Warnock For Georgia|238.00 USD|[84](https://www.snap.com/political-ads/asset/47cb469680ef737a173f076323060be32634b05b5430bd99b9179be9bca11612?mediaType=mp4)|14,253||18+|united states|
+|AL Media: Warnock For Georgia|4,472.00 USD|[64](https://www.snap.com/political-ads/asset/1a2d7b1744c190ba8d165a1c420d4e46e02bf333887402e44036537efda75a1a?mediaType=mp4)|274,724||18+|united states|
+|AL Media: Warnock For Georgia|7,228.00 USD|[65](https://www.snap.com/political-ads/asset/8ee42e0327a8e14fbef879ea731253af4ec2f49d088100df08ee3df49d5802a6?mediaType=mp4)|254,824||18+|united states|
+|AL Media: Warnock For Georgia|1,498.00 USD|[66](https://www.snap.com/political-ads/asset/84a772b3236c7438b69f7ccdb984a8dc6130517f2136b1d14ca8fefcf4fa06c9?mediaType=mp4)|230,587||18+|united states|
+|AL Media: Warnock For Georgia|1,460.00 USD|[67](https://www.snap.com/political-ads/asset/cfd76e76c6bb576d2619bc7c781fa99853973ad5eb8edbe7b396270296afdfb9?mediaType=mp4)|220,683||18+|united states|
+|AL Media: Warnock For Georgia|6,916.00 USD|[68](https://www.snap.com/political-ads/asset/755f6de2f65a42b8dcb6285e401c386367082b72831148153177fe51eb4a4122?mediaType=mp4)|213,999||18+|united states|
+|AL Media: Warnock For Georgia|3,524.00 USD|[69](https://www.snap.com/political-ads/asset/c70cdd6177c52708734fe837b1e33571f4add2f6267267da4821d065e3537445?mediaType=mp4)|192,283||18+|united states|
+|AL Media: Warnock For Georgia|3,151.00 USD|[70](https://www.snap.com/political-ads/asset/cfd76e76c6bb576d2619bc7c781fa99853973ad5eb8edbe7b396270296afdfb9?mediaType=mp4)|187,689||18+|united states|
+|AL Media: Warnock For Georgia|4,389.00 USD|[71](https://www.snap.com/political-ads/asset/623ed7717e4fbb03a82a73077380e599b1bd99d56ea8bfb8c2b75bb9ee9a1587?mediaType=mp4)|162,973||18+|united states|
+|AL Media: Warnock For Georgia|2,864.00 USD|[72](https://www.snap.com/political-ads/asset/3feae61f1aa349d4900ffd44b49e84017cbe229c11ef2d62c2b031d7c63581d6?mediaType=mp4)|162,042||18+|united states|
+|AL Media: Warnock For Georgia|443.00 USD|[73](https://www.snap.com/political-ads/asset/a34c90f38d8d03a8a2ae2709201f8e2e63dca985a5042192b79296d2e9efbe7b?mediaType=mp4)|161,307||18+|united states|
+|AL Media: Warnock For Georgia|2,365.00 USD|[74](https://www.snap.com/political-ads/asset/5de2fc074f65f2250c38d140cd8c0a956676f81bc009f3ab5f9b0d778f87aec7?mediaType=mp4)|154,292||18+|united states|
+|AL Media: Warnock For Georgia|2,342.00 USD|[75](https://www.snap.com/political-ads/asset/11d31cae9eae42824d5b937bc345ef91f49b77aa43d34d5f484d7937603e788d?mediaType=mp4)|141,135||18+|united states|
+|AL Media: Warnock For Georgia|2,097.00 USD|[76](https://www.snap.com/political-ads/asset/d9a74faac2bb2a551b7e10287545b610d4042efe22b72266ee199f9da830933c?mediaType=mp4)|136,744||18+|united states|
+|AL Media: Warnock For Georgia|2,033.00 USD|[77](https://www.snap.com/political-ads/asset/3b965e79e925feffc0c57742d6a664a4827fcf3933d5ddd751de7be3822fd442?mediaType=mp4)|132,838||18+|united states|
+|AL Media: Warnock For Georgia|1,750.00 USD|[78](https://www.snap.com/political-ads/asset/aa6949dca0f50013a11c7af3d9e254c572828c316ccb38f13c1067c2adf9babe?mediaType=mp4)|127,463||18+|united states|
+|AL Media: Warnock For Georgia|245.00 USD|[79](https://www.snap.com/political-ads/asset/7cb06bf2a02b46f2fa4821fd75845d739b1e02481e09ad8f5e66b02b6023520d?mediaType=mp4)|89,754||18+|united states|
+|AL Media: Warnock For Georgia|2,375.00 USD|[80](https://www.snap.com/political-ads/asset/e5c6c0691d26c840672e3d29215950d41c7314acb4ac9a6b384c0e4743b56b6c?mediaType=mp4)|85,950||18+|united states|
+|AL Media: Warnock For Georgia|1,081.00 USD|[81](https://www.snap.com/political-ads/asset/7a7345529e2e1432a95bc4db12f2cd65b6caeb26ca8b48193db0fcc7911df0bb?mediaType=mp4)|74,079||18+|united states|
+|AL Media: Warnock For Georgia|925.00 USD|[82](https://www.snap.com/political-ads/asset/25a0cd7f30a77f89b8d339466ddd91a63191fdc7ea96bc91746609e82db77ad9?mediaType=mp4)|64,285||18+|united states|
+|AL Media: Warnock For Georgia|1,155.00 USD|[83](https://www.snap.com/political-ads/asset/b1482e147a0d177d866052e1a738fbd2077a752feedf2d3a44cb4cdf95c7d759?mediaType=mp4)|42,692||18+|united states|
+|AL Media: Warnock For Georgia|1,055.00 USD|[84](https://www.snap.com/political-ads/asset/85cee3b2f81f9658bf72d2058b8ad161483ce105bca8e9033f15309471e61a32?mediaType=mp4)|39,073||18+|united states|
+|AL Media: Warnock For Georgia|792.00 USD|[85](https://www.snap.com/political-ads/asset/1496e535de5cffa6672d3010a84c3c51270be4c079eb93f58dc3e1bf5a54777e?mediaType=mp4)|37,732||18+|united states|
+|AL Media: Warnock For Georgia|238.00 USD|[86](https://www.snap.com/political-ads/asset/47cb469680ef737a173f076323060be32634b05b5430bd99b9179be9bca11612?mediaType=mp4)|14,253||18+|united states|

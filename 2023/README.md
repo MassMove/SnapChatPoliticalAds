@@ -3,14 +3,14 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
-|[Patagonia](Patagonia.md) - Patagonia|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
-|[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|189,493.00 USD|44,263,418|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
+|[Patagonia](Patagonia.md) - Patagonia Europe|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|195,007.00 USD|44,390,428|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
-|[OURR](OURR.md) - Wavelength Strategy: OURR|254,183.00 USD|33,311,405|FEMALE|18-44, 18+, 25+|united states|
+|[OURR](OURR.md) - Wavelength Strategy: OURR|254,339.00 USD|33,332,984|FEMALE|18-44, 18+, 25+|united states|
 |[MESRI](MESRI.md) - Dentsu Aegis Network France|23,375.00 EUR|25,279,314||20-30|france|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|47,500.00 EUR|21,605,615||18-26, 18+|norway|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Fylkestingsvalget 2023, Hoda skolemat|527,188.00 NOK|19,930,616|FEMALE, MALE|16-23, 17+, 18-30, 18-40, 18-45, 18+, 25-45, 30-, 30+, 35+|norway|
-|[Høyre](Høyre.md) - Amidays|1,437,774.00 NOK|19,655,696||18-25, 18-30, 18+, 25-45, 25+, 30-49, 30+|norway|
+|[Høyre](Høyre.md) - Amidays|1,436,647.00 NOK|19,641,681||18-25, 18-30, 18+, 25-45, 25+, 30-49, 30+|norway|
 |[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|92,900.00 USD|16,532,955||16+, 18-24, 18+|united states|
 |[PPFA](PPFA.md) - Chong and Koster|137,292.00 USD|16,482,492|FEMALE|18-35, 20-49|united states|
 |[The Body Shop UK](The_Body_Shop_UK.md) - The Body Shop Intl Plc|9,611.00 GBP|13,174,259||15-17|united kingdom|
@@ -43,7 +43,7 @@
 |[ثامر سعد السويط الظفيري](ثامر_سعد_السويط_الظفيري.md) - zainhassan: thamer saad, Thamer saad|3,349.00 USD|4,986,322||18+|kuwait|
 |[Fagforbundet](Fagforbundet.md) - Try Schjærven Media|561,591.00 NOK|4,725,829||18+|norway|
 |[Freedom Virginia](Freedom_Virginia.md) - Saguaro Strategies LLC: Freedom Virginia|13,593.00 USD|4,722,525||18+|united states|
-|[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co|35,621.00 EUR|4,673,164||18+|norway|
+|[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co|36,268.00 EUR|4,717,308||18+|norway|
 |[Ministerie v. Binnenlandse Zaken](Ministerie_v._Binnenlandse_Zaken.md) - Initiative Media B.V|26,971.00 EUR|4,335,983||18-25, 18+|netherlands|
 |[Osama AlShaheen](Osama_AlShaheen.md) - Different Media|7,969.00 USD|4,269,718||18+|kuwait|
 |[SOS-Kinderdörfer weltweit](SOS-Kinderdörfer_weltweit.md) - OMD München GmbH|15,983.00 EUR|4,117,506||18-25|germany|
@@ -52,14 +52,14 @@
 |[Priorities USA & Comms2](Priorities_USA_&_Comms2.md) - Priorities USA|38,087.00 USD|3,551,286||18+|united states|
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,994.00 USD|3,340,093||17-, 18-22|united states|
 |[alihsan charity](alihsan_charity.md) - alihsancharity|10,337.00 USD|3,332,372||24+, 25+|united arab emirates|
+|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|10,884.00 USD|3,309,399|FEMALE|18-34, 44-|united states|
 |[Green Party NZ](Green_Party_NZ.md) - Uprise Solutions: Green Party|6,215.00 AUD|3,300,951||18-24|new zealand|
-|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|10,781.00 USD|3,294,458|FEMALE|18-34, 44-|united states|
 |[Natural Resources Defense Counci](Natural_Resources_Defense_Counci.md) - Natural Resources Defense Council|7,258.00 USD|2,789,308||18+|united states|
 |[Dr. Fawaz Aljedei](Dr._Fawaz_Aljedei.md) - د. فواز الجدعي: Fawaz Ajedei, Fawaz Aljedei|5,404.00 USD|2,739,004||17+, 20+|kuwait|
 |[Provincie Noord-Brabant](Provincie_Noord-Brabant.md) - Provincie Noord-Brabant: Provincie Noord Brabant|3,740.00 EUR|2,684,392||18-25|netherlands|
 |[Hamed Mohry Albathali](Hamed_Mohry_Albathali.md) - تطبيق حجز: Hamed Mohry Albahtali, Hamed Mohry Albathali|5,498.00 USD|2,665,323|||kuwait|
 |[SEO Lead Consulting LLC](SEO_Lead_Consulting_LLC.md) - ElBadeel: ElBadeel App|956.00 USD|2,648,321|||egypt|
-|[MOA2A](MOA2A.md) - Choose Life Marketing|11,460.00 USD|2,619,065|FEMALE|35-|united states|
+|[MOA2A](MOA2A.md) - Choose Life Marketing|11,525.00 USD|2,630,420|FEMALE|35-|united states|
 |[Mohammad Jowhar Hayat](Mohammad_Jowhar_Hayat.md) - Abbas Marketing|1,749.00 USD|2,462,730||18+|kuwait|
 |[Courier Newsroom](Courier_Newsroom.md) - SBDigital: Wisconsin Supreme Court|35,197.00 USD|2,362,762||18+|united states|
 |[Fan Fairness Coalition](Fan_Fairness_Coalition.md) - Precision [TEST]|22,877.00 USD|2,343,393|||united states|
@@ -88,11 +88,11 @@
 |[Refuge](Refuge.md) - Refuge|5,565.00 GBP|1,346,859|FEMALE|18+|united kingdom|
 |[NRDC](NRDC.md) - Blueprint Interactive|16,997.00 USD|1,316,346||18-40, 18+|united states|
 |[IEC South Africa](IEC_South_Africa.md) - Ad Dynamo|7,245.00 USD|1,298,337||18-35|south africa|
+|[BHARTIYA JANTA PARTY](BHARTIYA_JANTA_PARTY.md) - Smile Internet Technologies Private Limited|422,709.00 INR|1,257,906||18+|india|
 |[Orange County](Orange_County.md) - Search for Businesses  LLC: Orange County Registrar of Voters|6,112.00 USD|1,246,689||18-24, 18-49|united states|
 |[Ahmad Mohammad Alotaibi](Ahmad_Mohammad_Alotaibi.md) - أحمد محمد العتيبي: ahmad mohammad alotaibi|531.00 USD|1,204,618||18+|kuwait|
 |[ineedana.com](ineedana.com.md) - ineedana.com|5,201.00 USD|1,182,749||40-|united states|
 |[Peoples Democratic Party](Peoples_Democratic_Party.md) - Ad Dynamo: AtikuOkowa2023|1,998.00 USD|1,156,623||18+|nigeria|
-|[BHARTIYA JANTA PARTY](BHARTIYA_JANTA_PARTY.md) - Smile Internet Technologies Private Limited|391,655.00 INR|1,156,240||18+|india|
 |[Plan C Pills](Plan_C_Pills.md) - Unified/IHM Local|2,686.00 USD|1,150,573|FEMALE|18-34|united states|
 |[NSSF](NSSF.md) - Red Edge LLC|36,703.00 USD|1,130,776|FEMALE|25-49|united states|
 |[Avow](Avow.md) - Chong and Koster|11,351.00 USD|1,129,425||18-30, 30-|united states|
@@ -123,7 +123,7 @@
 |[Mind Charity](Mind_Charity.md) - Medialab Group|920.00 GBP|821,785||18-24, 18-30|united kingdom|
 |[Polity](Polity.md) - LoKnow: Polity Election Marketplace|3,749.00 CAD|801,221||18+|canada|
 |[Vasemmistoliitto](Vasemmistoliitto.md) - Oy Dagmar Ab: Vasemmistoliitto|1,999.00 EUR|798,154||18-35|finland|
-|[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,995.00 EUR|784,738||18-34|finland|
+|[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,843.00 EUR|740,430||18-34|finland|
 |[First Media](First_Media.md) - First Media V|11,149.00 USD|739,617||23+|united states|
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
 |[Texas State Teachers Association](Texas_State_Teachers_Association.md) - Corsair Campaigns|1,499.00 USD|726,654||18+|united states|
@@ -139,7 +139,7 @@
 |[Wenatchee Right To Life](Wenatchee_Right_To_Life.md) - Townsquare Ignite: Right To Life|1,283.00 USD|650,184||24-, 30-|united states|
 |[DrAbdulhadiAjmi](DrAbdulhadiAjmi.md) - Digital Media Services FZ-LLC: Dr Abdulhadi Ajmi|3,198.00 USD|633,589||21+|kuwait|
 |[Options Pregnancy Center](Options_Pregnancy_Center.md) - Marketron|1,560.00 USD|628,537|FEMALE|34-|united states|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,228.00 USD|621,273|FEMALE|30-|united states|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,245.00 USD|624,922|FEMALE|30-|united states|
 |[Fagforbundet Oslo](Fagforbundet_Oslo.md) - Try Schjærven Media|14,998.00 NOK|619,807||18+|norway|
 |[Electoral Commission NI](Electoral_Commission_NI.md) - Belfast Metropolitan College|1,990.00 GBP|615,471||18-34, 35+|united kingdom|
 |[Life Choices Center](Life_Choices_Center.md) - Ad Elements: Life Choices Center|1,169.00 USD|605,303|FEMALE|30-, 32-, 33-|united states|
@@ -213,13 +213,13 @@
 |[Världsnaturfonden WWF](Världsnaturfonden_WWF.md) - 2XL Online|5,809.00 SEK|188,802|FEMALE|25+|sweden|
 |[Lily for Delegate](Lily_for_Delegate.md) - BattleAxe Digital: Lily Franklin|911.00 USD|188,582||18-24|united states|
 |[سعود عبدالعزيز العصفور](سعود_عبدالعزيز_العصفور.md) - الحملة الانتخابية سعود العصفور: Saud Alasfoor|500.00 USD|186,810|||kuwait|
-|[Options for Women - River Falls](Options_for_Women_-_River_Falls.md) - Options For Women - River Falls|1,188.00 USD|185,483||30-, 32-|united states|
 |[فيصل الكندري](فيصل_الكندري.md) - Almajlles|163.00 USD|181,312||20+|kuwait|
 |[MSEA](MSEA.md) - Wavelength Strategy|2,544.00 USD|180,483||18-30, 18+|united states|
 |[فهد حجاب جريوى الحيان](فهد_حجاب_جريوى_الحيان.md) - Optimize Advertising and marketing company LLC|592.00 USD|178,611||18+|kuwait|
 |[Islamic Relief Worldwide](Islamic_Relief_Worldwide.md) - islamic relief|247.00 GBP|178,169||20+|bahrain, kuwait, oman, qatar, saudi arabia|
 |[DR ahmed Failkawy](DR_ahmed_Failkawy.md) - ahmed failkawy elections: Dr ahmed Failkawy|758.00 USD|175,594||19+, 20+, 22+|kuwait|
 |[Local government](Local_government.md) - Kirklees Council|499.00 GBP|174,704||18+|united kingdom|
+|[Options for Women - River Falls](Options_for_Women_-_River_Falls.md) - Options For Women - River Falls|1,138.00 USD|173,912||30-, 32-|united states|
 |[WFP NATIONAL PAC–NON-CONTRIBUTIO](WFP_NATIONAL_PAC–NON-CONTRIBUTIO.md) - Duplicate-Dover Group: Joshua Cole for Delegate|1,044.00 USD|173,390||18+|united states|
 |[Coeur d'Alene Public Schools](Coeur_d'Alene_Public_Schools.md) - Coeur d'Alene Public Schools: CDA School District March Levy 2023|2,285.00 USD|172,508||49-|united states|
 |[A Starting Point](A_Starting_Point.md) - A Starting Point|464.00 USD|169,147|||united states|
