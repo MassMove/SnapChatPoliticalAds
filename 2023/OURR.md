@@ -1,7 +1,7 @@
 ## 2023 - OURR 
-**Spent**: 254,339.00
+**Spent**: 254,437.00
 
-**Impressions**: 33,332,984
+**Impressions**: 33,336,048
 
 **Billing Addresses**: US
 
@@ -269,26 +269,27 @@
 |Wavelength Strategy: OURR|69.00 USD|[259](https://www.snap.com/political-ads/asset/9a2d5b536825bd0ddfebdff42d3a511337d7567efe06dbe5741c5503ac961cf7?mediaType=jpeg)|3,581||18+|united states|
 |Wavelength Strategy: OURR|45.00 USD|[260](https://www.snap.com/political-ads/asset/7f1a1f41477315ad15c79d79beb39f61e6e0cd82a4bc4e26c1cd57eb2c0d295e?mediaType=jpeg)|3,464||18+|united states|
 |Wavelength Strategy: OURR|39.00 USD|[261](https://www.snap.com/political-ads/asset/6bcd0bf7ad0dad95d74aa90534932032b881ed09577c5719d00cd6fed964fa93?mediaType=mp4)|3,075||18+|united states|
-|Wavelength Strategy: OURR|74.00 USD|[262](https://www.snap.com/political-ads/asset/6d353e1744a2d6f21f143f50424f9dc71a8205075b32de943e66382879c60505?mediaType=jpeg)|2,982||18+|united states|
-|Wavelength Strategy: OURR|67.00 USD|[263](https://www.snap.com/political-ads/asset/4ce14ad3b1727c98c626a14a39406c03dd7c3055e88620e53183ec4b5bfafccf?mediaType=mp4)|2,980||18+|united states|
-|Wavelength Strategy: OURR|54.00 USD|[264](https://www.snap.com/political-ads/asset/f85c3028f879afef59edc728c4f5289db29fcfda6b857642b8e6c0f6cd83c277?mediaType=jpeg)|2,926||18+|united states|
-|Wavelength Strategy: OURR|53.00 USD|[265](https://www.snap.com/political-ads/asset/7bdfc28bf53edde75ebf476279c1cfeb69e8fabb529ae04b941d0d0a71cf695b?mediaType=mp4)|2,764||18+|united states|
-|Wavelength Strategy: OURR|25.00 USD|[266](https://www.snap.com/political-ads/asset/639ba5729344d95fcbe48e08dcbb0e006abac851d7ae23f625763f62d050317c?mediaType=jpeg)|2,491||18+|united states|
-|Wavelength Strategy: OURR|42.00 USD|[267](https://www.snap.com/political-ads/asset/cf2b3674c4515897ff3b2b4507f41b83a3a3ebfc36c2f4795f15ac6a8c707342?mediaType=mp4)|2,478||18+|united states|
-|Wavelength Strategy: OURR|38.00 USD|[268](https://www.snap.com/political-ads/asset/4ce14ad3b1727c98c626a14a39406c03dd7c3055e88620e53183ec4b5bfafccf?mediaType=mp4)|2,465||18+|united states|
-|Wavelength Strategy: OURR|56.00 USD|[269](https://www.snap.com/political-ads/asset/6d353e1744a2d6f21f143f50424f9dc71a8205075b32de943e66382879c60505?mediaType=jpeg)|2,455||18+|united states|
-|Wavelength Strategy: OURR|51.00 USD|[270](https://www.snap.com/political-ads/asset/fac5b6c8c7ad9c23933a6d865fe3517a944bec790f7c74334d30dc2f9eac6ebc?mediaType=jpeg)|2,324||18+|united states|
-|Wavelength Strategy: OURR|68.00 USD|[271](https://www.snap.com/political-ads/asset/639ba5729344d95fcbe48e08dcbb0e006abac851d7ae23f625763f62d050317c?mediaType=jpeg)|2,308||18+|united states|
-|Wavelength Strategy: OURR|61.00 USD|[272](https://www.snap.com/political-ads/asset/639ba5729344d95fcbe48e08dcbb0e006abac851d7ae23f625763f62d050317c?mediaType=jpeg)|2,119||18+|united states|
-|Wavelength Strategy: OURR|33.00 USD|[273](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|1,952||18+|united states|
-|Wavelength Strategy: OURR|47.00 USD|[274](https://www.snap.com/political-ads/asset/f85c3028f879afef59edc728c4f5289db29fcfda6b857642b8e6c0f6cd83c277?mediaType=jpeg)|1,853||18+|united states|
-|Wavelength Strategy: OURR|33.00 USD|[275](https://www.snap.com/political-ads/asset/6d353e1744a2d6f21f143f50424f9dc71a8205075b32de943e66382879c60505?mediaType=jpeg)|1,849||18+|united states|
-|Wavelength Strategy: OURR|25.00 USD|[276](https://www.snap.com/political-ads/asset/767d0da4c2fdd864de8824e5ea4db5d8471d9ba1d77af9d3d951dd72a1d2fe68?mediaType=jpeg)|1,716||18+|united states|
-|Wavelength Strategy: OURR|24.00 USD|[277](https://www.snap.com/political-ads/asset/2b5d01ce215c73be1242745f2a5691270733f61d4d2d39cf584e8e4a6f5a6db8?mediaType=jpeg)|1,267||18+|united states|
-|Wavelength Strategy: OURR|17.00 USD|[278](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|1,006||18+|united states|
-|Wavelength Strategy: OURR|12.00 USD|[279](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|935||18+|united states|
-|Wavelength Strategy: OURR|14.00 USD|[280](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|620||18+|united states|
-|Wavelength Strategy: OURR|10.00 USD|[281](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|559||18+|united states|
-|Wavelength Strategy: OURR|8.00 USD|[282](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|399||18+|united states|
-|Wavelength Strategy: OURR|5.00 USD|[283](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|244||18+|united states|
-|Wavelength Strategy: OURR|2.00 USD|[284](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|119||18+|united states|
+|Wavelength Strategy: OURR|98.00 USD|[262](https://www.snap.com/political-ads/asset/cf2b3674c4515897ff3b2b4507f41b83a3a3ebfc36c2f4795f15ac6a8c707342?mediaType=mp4)|3,064||18+|united states|
+|Wavelength Strategy: OURR|74.00 USD|[263](https://www.snap.com/political-ads/asset/6d353e1744a2d6f21f143f50424f9dc71a8205075b32de943e66382879c60505?mediaType=jpeg)|2,982||18+|united states|
+|Wavelength Strategy: OURR|67.00 USD|[264](https://www.snap.com/political-ads/asset/4ce14ad3b1727c98c626a14a39406c03dd7c3055e88620e53183ec4b5bfafccf?mediaType=mp4)|2,980||18+|united states|
+|Wavelength Strategy: OURR|54.00 USD|[265](https://www.snap.com/political-ads/asset/f85c3028f879afef59edc728c4f5289db29fcfda6b857642b8e6c0f6cd83c277?mediaType=jpeg)|2,926||18+|united states|
+|Wavelength Strategy: OURR|53.00 USD|[266](https://www.snap.com/political-ads/asset/7bdfc28bf53edde75ebf476279c1cfeb69e8fabb529ae04b941d0d0a71cf695b?mediaType=mp4)|2,764||18+|united states|
+|Wavelength Strategy: OURR|25.00 USD|[267](https://www.snap.com/political-ads/asset/639ba5729344d95fcbe48e08dcbb0e006abac851d7ae23f625763f62d050317c?mediaType=jpeg)|2,491||18+|united states|
+|Wavelength Strategy: OURR|42.00 USD|[268](https://www.snap.com/political-ads/asset/cf2b3674c4515897ff3b2b4507f41b83a3a3ebfc36c2f4795f15ac6a8c707342?mediaType=mp4)|2,478||18+|united states|
+|Wavelength Strategy: OURR|38.00 USD|[269](https://www.snap.com/political-ads/asset/4ce14ad3b1727c98c626a14a39406c03dd7c3055e88620e53183ec4b5bfafccf?mediaType=mp4)|2,465||18+|united states|
+|Wavelength Strategy: OURR|56.00 USD|[270](https://www.snap.com/political-ads/asset/6d353e1744a2d6f21f143f50424f9dc71a8205075b32de943e66382879c60505?mediaType=jpeg)|2,455||18+|united states|
+|Wavelength Strategy: OURR|51.00 USD|[271](https://www.snap.com/political-ads/asset/fac5b6c8c7ad9c23933a6d865fe3517a944bec790f7c74334d30dc2f9eac6ebc?mediaType=jpeg)|2,324||18+|united states|
+|Wavelength Strategy: OURR|68.00 USD|[272](https://www.snap.com/political-ads/asset/639ba5729344d95fcbe48e08dcbb0e006abac851d7ae23f625763f62d050317c?mediaType=jpeg)|2,308||18+|united states|
+|Wavelength Strategy: OURR|61.00 USD|[273](https://www.snap.com/political-ads/asset/639ba5729344d95fcbe48e08dcbb0e006abac851d7ae23f625763f62d050317c?mediaType=jpeg)|2,119||18+|united states|
+|Wavelength Strategy: OURR|33.00 USD|[274](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|1,952||18+|united states|
+|Wavelength Strategy: OURR|47.00 USD|[275](https://www.snap.com/political-ads/asset/f85c3028f879afef59edc728c4f5289db29fcfda6b857642b8e6c0f6cd83c277?mediaType=jpeg)|1,853||18+|united states|
+|Wavelength Strategy: OURR|33.00 USD|[276](https://www.snap.com/political-ads/asset/6d353e1744a2d6f21f143f50424f9dc71a8205075b32de943e66382879c60505?mediaType=jpeg)|1,849||18+|united states|
+|Wavelength Strategy: OURR|25.00 USD|[277](https://www.snap.com/political-ads/asset/767d0da4c2fdd864de8824e5ea4db5d8471d9ba1d77af9d3d951dd72a1d2fe68?mediaType=jpeg)|1,716||18+|united states|
+|Wavelength Strategy: OURR|24.00 USD|[278](https://www.snap.com/political-ads/asset/2b5d01ce215c73be1242745f2a5691270733f61d4d2d39cf584e8e4a6f5a6db8?mediaType=jpeg)|1,267||18+|united states|
+|Wavelength Strategy: OURR|17.00 USD|[279](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|1,006||18+|united states|
+|Wavelength Strategy: OURR|12.00 USD|[280](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|935||18+|united states|
+|Wavelength Strategy: OURR|14.00 USD|[281](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|620||18+|united states|
+|Wavelength Strategy: OURR|10.00 USD|[282](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|559||18+|united states|
+|Wavelength Strategy: OURR|8.00 USD|[283](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|399||18+|united states|
+|Wavelength Strategy: OURR|5.00 USD|[284](https://www.snap.com/political-ads/asset/7f1a91c81fa6c0652fe38eeeaad27d4cc328cc63b50272fa5a1e4be26acfb693?mediaType=mp4)|244||18+|united states|
+|Wavelength Strategy: OURR|2.00 USD|[285](https://www.snap.com/political-ads/asset/46ef35a03dd1964092be5992399f9f7862e22cbd66f5947188f0d93c0bf85c38?mediaType=jpeg)|119||18+|united states|

@@ -1,11 +1,11 @@
 ## 2024 - ABC Pregnancy Care 
-**Spent**: 504.00
+**Spent**: 516.00
 
-**Impressions**: 42,031
+**Impressions**: 42,861
 
 **Billing Addresses**: 4509 Kings Lake Ct,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Stories Marketing: ABC Care Center|370.00 USD|[0](https://www.snap.com/political-ads/asset/80ed76349b892373935bc084cef32c7811405882ca00e1b305e3f6588b56fbbb?mediaType=mp4)|30,758|FEMALE|18-38|united states|
-|Stories Marketing: We do not provide free abortion sevices|134.00 USD|[1](https://www.snap.com/political-ads/asset/3b556dd1fc0675707e1e4db8361457c23dfec3ca7be0fce8a3a9251d3b439e90?mediaType=mp4)|11,273|FEMALE|18-38|united states|
+|Stories Marketing: We do not provide free abortion sevices|146.00 USD|[1](https://www.snap.com/political-ads/asset/3b556dd1fc0675707e1e4db8361457c23dfec3ca7be0fce8a3a9251d3b439e90?mediaType=mp4)|12,103|FEMALE|18-38|united states|
