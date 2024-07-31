@@ -16,7 +16,7 @@
 |[SEIU](SEIU.md) - Precision [TEST]: SEIU, Senator Raphael Warnock|147,474.00 USD|26,855,361||18-45, 18+|united states|
 |[MAJORITY FORWARD FUND](MAJORITY_FORWARD_FUND.md) - MVAR Media: Majority Forward|106,749.00 USD|26,483,037||18-45|united states|
 |[Courier Newsroom](Courier_Newsroom.md) - SBDigital|108,911.00 USD|24,372,577||17+, 18+|united states|
-|[Mark Kelly for Senate](Mark_Kelly_for_Senate.md) - Wavelength Strategy: Mark Kelly|238,498.00 USD|23,129,810||18-24, 18-34, 18-35, 18+, 35+|united states|
+|[Mark Kelly for Senate](Mark_Kelly_for_Senate.md) - Wavelength Strategy: Mark Kelly|238,541.00 USD|23,132,759||18-24, 18-34, 18-35, 18+, 35+|united states|
 |[Electoral Commission](Electoral_Commission.md) - Walk In Media|68,413.00 GBP|23,034,631||16-17, 18-34|united kingdom|
 |[Priorities USA](Priorities_USA.md) - Gambit Strategies|281,931.00 USD|20,394,766||18-34, 18-49|united states|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|66,898.00 USD|18,370,141||18+|united states|
@@ -127,10 +127,10 @@
 |[Middlesex County, NJ](Middlesex_County,_NJ.md) - Marketing Doctor Inc|14,453.00 USD|2,742,760||18+|united states|
 |[Senate Majority PAC](Senate_Majority_PAC.md) - Chong and Koster|10,797.00 USD|2,739,276||18+|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|23,347.00 AUD|2,718,139||16+|australia|
-|[Fetterman for PA](Fetterman_for_PA.md) - Middle Seat Consulting  LLC: John Fetterman, John Fetterman for PA|20,529.00 USD|2,682,252|MALE|18-30, 18+, 31-49|united states|
+|[Fetterman for PA](Fetterman_for_PA.md) - Middle Seat Consulting  LLC: John Fetterman, John Fetterman for PA|20,690.00 USD|2,691,075|MALE|18-30, 18+, 31-49|united states|
 |[CPLC Action Fund](CPLC_Action_Fund.md) - Latino Loud: We Are CPLC|9,279.00 USD|2,585,488||18-35, 18-39|united states|
 |[Rick Caruso for Mayor 2022](Rick_Caruso_for_Mayor_2022.md) - Aisle 518 Strategies LLC: Rick Caruso for Mayor 2022|29,999.00 USD|2,550,169||18+|united states|
-|[Human Rights Campaign](Human_Rights_Campaign.md) - Bully Pulpit Interactive: Human Rights Campaign, The Equality Act|14,786.00 USD|2,537,555||18+|united states|
+|[Human Rights Campaign](Human_Rights_Campaign.md) - Whistle: Human Rights Campaign, The Equality Act|14,786.00 USD|2,537,555||18+|united states|
 |[Women Vote! PAC](Women_Vote!_PAC.md) - Wavelength Strategy|11,027.00 USD|2,513,824||18+|united states|
 |[Nevada Voters First](Nevada_Voters_First.md) - Bask Digital Media: Question 3|61,996.00 USD|2,511,529||18-34, 34+|united states|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|65,999.00 NOK|2,492,936||17-19, 18-40, 27+|norway|
@@ -141,11 +141,11 @@
 |[Hindi Alhajri](Hindi_Alhajri.md) - Alhajri: Ibrahim Hindi Alhajri|3,232.00 USD|2,261,912||21+|kuwait|
 |[JUSTICE UNITES US PAC](JUSTICE_UNITES_US_PAC.md) - Fireside Campaigns|14,025.00 USD|2,254,110||18+|united states|
 |[WWF Suomi](WWF_Suomi.md) - Marketing Clinic|1,707.00 EUR|2,252,034||18-18|finland|
+|[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media: Al Jabbar for Anaheim City Council, Ashleigh Aitken for Anaheim Mayor, Carlos Leon for Anaheim City Council|37,143.00 USD|2,246,494|FEMALE|18+|united states|
 |[Lasry for Wisconsin](Lasry_for_Wisconsin.md) - AL Media: Lasry for Wisconsin|6,359.00 USD|2,236,880||18+|united states|
 |[Friends of the Earth](Friends_of_the_Earth.md) - Friends of the Earth|3,532.00 GBP|2,198,994||18+|united kingdom|
-|[United We Dream Action](United_We_Dream_Action.md) - BerlinRosen: United We Dream Action|13,273.00 USD|2,194,022||17+, 18-35, 18+|united states|
+|[United We Dream Action](United_We_Dream_Action.md) - Authentic Campaigns Inc: United We Dream Action|13,273.00 USD|2,194,022||17+, 18-35, 18+|united states|
 |[End Citizens United](End_Citizens_United.md) - Wavelength Strategy: End Citizens United|13,442.00 USD|2,193,453||18+|united states|
-|[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media: Al Jabbar for Anaheim City Council, Ashleigh Aitken for Anaheim Mayor, Carlos Leon for Anaheim City Council|36,247.00 USD|2,192,124|FEMALE|18+|united states|
 |[Fair Fight](Fair_Fight.md) - Vision Media Services|32,925.00 USD|2,115,645||18+|united states|
 |[Unison](Unison.md) - M.i. Media|12,105.00 GBP|2,054,569||18-30, 18+|united kingdom|
 |[STMGP](STMGP.md) - OMD München GmbH|5,600.00 EUR|2,004,224||18-|germany|
@@ -164,7 +164,7 @@
 |[WWF Verdens naturfond](WWF_Verdens_naturfond.md) - MediaCom AS|83,216.00 NOK|1,790,664||18-40, 18+|norway|
 |[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee: UK government to welcome refugees|1,974.00 GBP, USD|1,778,516||18+|australia, canada, new zealand, poland, united kingdom|
 |[Black Progressive Action Coaliti](Black_Progressive_Action_Coaliti.md) - Break Something: Black Progressive Action Coalition, C3 GOTV Election Day 2022, C3 GOTV Georgia Senate Runoff 2022|14,651.00 USD|1,737,493||18+|united states|
-|[VVD](VVD.md) - Volkspartij voor Vrijheid en Democratie: VVD|2,358.00 EUR|1,734,509||18+|netherlands|
+|[VVD](VVD.md) - VVD: VVD|2,358.00 EUR|1,734,509||18+|netherlands|
 |[BlackPAC](BlackPAC.md) - Break Something: Georgia 7th District Democratic Primary|12,600.00 USD|1,712,773||18+|united states|
 |[Friends of Tina Kotek PAC 4792](Friends_of_Tina_Kotek_PAC_4792.md) - Winning Mark: Tina Kotek|13,317.00 USD|1,679,031|FEMALE, MALE|18+|united states|
 |[California Endowment](California_Endowment.md) - The Creative Space Group|4,545.00 USD|1,666,090||18-40, 18+, 40-|united states|
@@ -263,7 +263,7 @@
 |[Detroit Action](Detroit_Action.md) - Detroit Action: General Election 2022|4,033.00 USD|754,760||17-, 18-30, 18-35, 35-|united states|
 |[WFP National PAC](WFP_National_PAC.md) - Middle Seat Consulting  LLC: WFP National PAC|5,838.00 USD|752,882|FEMALE|18-49, 18+|united states|
 |[League of Women Voters of CA](League_of_Women_Voters_of_CA.md) - League of Women Voters of California|7,820.00 USD|752,132||18-24|united states|
-|[الصيفي مبارك الصيفي](الصيفي_مبارك_الصيفي.md) - ads alwaan|1,463.00 USD|744,341||20+, 21+|kuwait|
+|[الصيفي مبارك الصيفي](الصيفي_مبارك_الصيفي.md) - Tocaan|1,463.00 USD|744,341||20+, 21+|kuwait|
 |[Rubio for Senate](Rubio_for_Senate.md) - Targeted Victory  LLC: Marco Rubio|2,015.00 USD|731,910||18+|united states|
 |[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|5,753.00 CAD|710,586|FEMALE|18-35|canada|
 |[Care in Action, Inc.](Care_in_Action,_Inc..md) - Van Ness Creative Strategies LLC: Care in Action Inc|13,173.00 USD|692,475|FEMALE|18+|united states|
@@ -373,7 +373,7 @@
 |[PlanBørnefonden](PlanBørnefonden.md) - GroupM Search A/S|9,815.00 DKK|275,696||18+|denmark|
 |[City of Adelaide](City_of_Adelaide.md) - MEC Adelaide|1,500.00 AUD|272,185||18-35|australia|
 |[Paid for this ad Osama Al-Manawe](Paid_for_this_ad_Osama_Al-Manawe.md) - المرشح أسامة المناور: osama almenwer|401.00 USD|268,114|FEMALE|21+|kuwait|
-|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Spitz Digital|633.00 EUR|267,042||18-22, 18-25|netherlands|
+|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Gemeente Amsterdam|633.00 EUR|267,042||18-22, 18-25|netherlands|
 |[Janet Mills for Maine](Janet_Mills_for_Maine.md) - AL Media: Janet Mills|7,336.00 USD|266,441|FEMALE|18+|united states|
 |[DESE](DESE.md) - Australian Government Department of Finance|2,590.00 AUD|261,469||15-17, 18-24|australia|
 |[Coalition for Safe, Responsible](Coalition_for_Safe,_Responsible.md) - Bask Digital Media: Proposition 27|4,372.00 USD|260,963||25-49|united states|
@@ -545,7 +545,7 @@
 |[Up to Us](Up_to_Us.md) - Up to Us|575.00 USD|30,901||18-24|united states|
 |[Parliamentary Service](Parliamentary_Service.md) - Attivo Limited: David Seymour MP|160.00 USD|28,628||17+, 18-30, 18-40|new zealand|
 |[FVAP](FVAP.md) - LumenAd: Federal Voting Assistance Program|121.00 USD|28,205||18-29|united states|
-|[مشعل راشد الجويسري](مشعل_راشد_الجويسري.md) - kuwaitasd|169.00 USD|27,952||20+, 21+|kuwait|
+|[مشعل راشد الجويسري](مشعل_راشد_الجويسري.md) - kuwainationalads|169.00 USD|27,952||20+, 21+|kuwait|
 |[عسكر عويد العنزي](عسكر_عويد_العنزي.md) - Askar alenezi: ASKAR ALENEZI|86.00 USD|26,788||20+|kuwait|
 |[committee to keep akers judge](committee_to_keep_akers_judge.md) - Keep Akers Judge|70.00 USD|25,961|||united states|
 |[Lara Bruner for CUSD](Lara_Bruner_for_CUSD.md) - Monsoon Studios  LLC: Lara Bruner for CUSD|486.00 USD|25,925||18+|united states|

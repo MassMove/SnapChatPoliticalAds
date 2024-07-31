@@ -1,15 +1,15 @@
 ## 2024 - League of Women Voters EF 
-**Spent**: 6,160.00
+**Spent**: 6,425.00
 
-**Impressions**: 399,076
+**Impressions**: 414,981
 
 **Billing Addresses**: 1233 20th ST NW,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|League of Women Voter of the United States|863.00 USD|[0](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|54,411|FEMALE|18-34|united states|
-|League of Women Voter of the United States|500.00 USD|[1](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|53,002|FEMALE|18-34|united states|
-|League of Women Voter of the United States|696.00 USD|[2](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|44,068|FEMALE|18-34|united states|
+|League of Women Voter of the United States|961.00 USD|[0](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|59,973|FEMALE|18-34|united states|
+|League of Women Voter of the United States|863.00 USD|[1](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|54,411|FEMALE|18-34|united states|
+|League of Women Voter of the United States|500.00 USD|[2](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|53,002|FEMALE|18-34|united states|
 |League of Women Voter of the United States|875.00 USD|[3](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|43,023|FEMALE|18-34|united states|
 |League of Women Voter of the United States: VOTE411|500.00 USD|[4](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|39,030|FEMALE|18-34|united states|
 |League of Women Voter of the United States|500.00 USD|[5](https://www.snap.com/political-ads/asset/96dbf641d4fa35f5b81cdc35ddb74784b556f7d00133657a40671f40501017d4?mediaType=mp4)|38,849|FEMALE|18-34|united states|

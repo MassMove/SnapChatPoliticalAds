@@ -1,7 +1,7 @@
 ## 2020 - REPUBLICAN RED LLC 
-**Spent**: 3,629.00
+**Spent**: 3,658.00
 
-**Impressions**: 613,873
+**Impressions**: 616,906
 
 **Billing Addresses**: 816 Big Woods Rd,Longview,75605,US
 
@@ -24,9 +24,10 @@
 |Vici Media Group|51.00 USD|[14](https://www.snap.com/political-ads/asset/d7509e99af626c1dae631ac9c51bfc4898ebaac79923dc51fdd4249149d6cc36?mediaType=jpg)|7,668||21+|united states|
 |Vici Media Group|40.00 USD|[15](https://www.snap.com/political-ads/asset/7e96f43b58a61edccf55942240a064bb42c2b70d3ef2f77609aae9a8fb580bbc?mediaType=jpg)|4,608||21+|united states|
 |Vici Media Group|22.00 USD|[16](https://www.snap.com/political-ads/asset/25cc77dac2973c6f4c1600a9054acada3e68cc560fbd6a1ea7fc4c50e1274772?mediaType=jpg)|3,816||21+|united states|
-|Vici Media Group|18.00 USD|[17](https://www.snap.com/political-ads/asset/67c9792ed20ccb0aea21f90ef936dbfffb6c6465fef9341e30bcb6a148688650?mediaType=jpg)|2,081||21+|united states|
-|Vici Media Group|16.00 USD|[18](https://www.snap.com/political-ads/asset/55dd74d3af2e8a9d1359bd12f6a5a21f4c1ad6862ca8ad93c9503a9697bb7030?mediaType=jpg)|2,031||21+|united states|
-|Vici Media Group|9.00 USD|[19](https://www.snap.com/political-ads/asset/7e96f43b58a61edccf55942240a064bb42c2b70d3ef2f77609aae9a8fb580bbc?mediaType=jpg)|1,335||21+|united states|
-|Vici Media Group|5.00 USD|[20](https://www.snap.com/political-ads/asset/67c9792ed20ccb0aea21f90ef936dbfffb6c6465fef9341e30bcb6a148688650?mediaType=jpg)|983||21+|united states|
-|Vici Media Group|5.00 USD|[21](https://www.snap.com/political-ads/asset/955048c5d1256e214a2642002156682162c0aea93fa07131bb979f843ad24941?mediaType=mp4)|894||21+|united states|
-|Vici Media Group|5.00 USD|[22](https://www.snap.com/political-ads/asset/55dd74d3af2e8a9d1359bd12f6a5a21f4c1ad6862ca8ad93c9503a9697bb7030?mediaType=jpg)|873||21+|united states|
+|Vici Media Group|29.00 USD|[17](https://www.snap.com/political-ads/asset/955048c5d1256e214a2642002156682162c0aea93fa07131bb979f843ad24941?mediaType=mp4)|3,033||21+|united states|
+|Vici Media Group|18.00 USD|[18](https://www.snap.com/political-ads/asset/67c9792ed20ccb0aea21f90ef936dbfffb6c6465fef9341e30bcb6a148688650?mediaType=jpg)|2,081||21+|united states|
+|Vici Media Group|16.00 USD|[19](https://www.snap.com/political-ads/asset/55dd74d3af2e8a9d1359bd12f6a5a21f4c1ad6862ca8ad93c9503a9697bb7030?mediaType=jpg)|2,031||21+|united states|
+|Vici Media Group|9.00 USD|[20](https://www.snap.com/political-ads/asset/7e96f43b58a61edccf55942240a064bb42c2b70d3ef2f77609aae9a8fb580bbc?mediaType=jpg)|1,335||21+|united states|
+|Vici Media Group|5.00 USD|[21](https://www.snap.com/political-ads/asset/67c9792ed20ccb0aea21f90ef936dbfffb6c6465fef9341e30bcb6a148688650?mediaType=jpg)|983||21+|united states|
+|Vici Media Group|5.00 USD|[22](https://www.snap.com/political-ads/asset/955048c5d1256e214a2642002156682162c0aea93fa07131bb979f843ad24941?mediaType=mp4)|894||21+|united states|
+|Vici Media Group|5.00 USD|[23](https://www.snap.com/political-ads/asset/55dd74d3af2e8a9d1359bd12f6a5a21f4c1ad6862ca8ad93c9503a9697bb7030?mediaType=jpg)|873||21+|united states|
