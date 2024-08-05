@@ -1,7 +1,7 @@
 ## 2022 - Socialdemokraterna - Kalmar Län 
-**Spent**: 1,791.00
+**Spent**: 1,772.00
 
-**Impressions**: 415,277
+**Impressions**: 411,307
 
 **Billing Addresses**: Västra Norrlandsgatan 7 ,UMEÅ,90327,SE
 
@@ -20,10 +20,9 @@
 |Context Media|75.00 EUR|[10](https://www.snap.com/political-ads/asset/7fa5d2b35d870cc61e172e95ad1bc91313fb6e842c36c934df39cbf0e7c11900?mediaType=mp4)|12,510||18+|sweden|
 |Context Media|31.00 EUR|[11](https://www.snap.com/political-ads/asset/adae4ac32b136c9a332a9f1e54b5ed0e6abdcf987a3732450739a095d155e7d9?mediaType=mp4)|12,254||18+|sweden|
 |Context Media|37.00 EUR|[12](https://www.snap.com/political-ads/asset/4e46a8329b12637626c88718f873ec3bdfd6fe62f787d6c6fccff6367223963b?mediaType=mp4)|7,099||18+|sweden|
-|Context Media|19.00 EUR|[13](https://www.snap.com/political-ads/asset/42908a05f84603860e489ce9283dbfc082dbaf1559fb94ddeea57cc41e064225?mediaType=mp4)|3,970||18+|sweden|
-|Context Media|21.00 EUR|[14](https://www.snap.com/political-ads/asset/42908a05f84603860e489ce9283dbfc082dbaf1559fb94ddeea57cc41e064225?mediaType=mp4)|3,727||18+|sweden|
-|Context Media|18.00 EUR|[15](https://www.snap.com/political-ads/asset/28a89556851979dfb488b0095619765b1bdff176f14fbf65d5c4c549b26e403b?mediaType=mp4)|3,579||18+|sweden|
-|Context Media|22.00 EUR|[16](https://www.snap.com/political-ads/asset/7e99959485a61631cbf6032aa0f0804a2e12e8d9504359d85abc54f75d6acfee?mediaType=mp4)|3,570||18+|sweden|
-|Context Media|22.00 EUR|[17](https://www.snap.com/political-ads/asset/28a89556851979dfb488b0095619765b1bdff176f14fbf65d5c4c549b26e403b?mediaType=mp4)|3,490||18+|sweden|
-|Context Media|14.00 EUR|[18](https://www.snap.com/political-ads/asset/7fa5d2b35d870cc61e172e95ad1bc91313fb6e842c36c934df39cbf0e7c11900?mediaType=mp4)|2,837||18+|sweden|
-|Context Media|12.00 EUR|[19](https://www.snap.com/political-ads/asset/4e46a8329b12637626c88718f873ec3bdfd6fe62f787d6c6fccff6367223963b?mediaType=mp4)|2,700||18+|sweden|
+|Context Media|21.00 EUR|[13](https://www.snap.com/political-ads/asset/42908a05f84603860e489ce9283dbfc082dbaf1559fb94ddeea57cc41e064225?mediaType=mp4)|3,727||18+|sweden|
+|Context Media|18.00 EUR|[14](https://www.snap.com/political-ads/asset/28a89556851979dfb488b0095619765b1bdff176f14fbf65d5c4c549b26e403b?mediaType=mp4)|3,579||18+|sweden|
+|Context Media|22.00 EUR|[15](https://www.snap.com/political-ads/asset/7e99959485a61631cbf6032aa0f0804a2e12e8d9504359d85abc54f75d6acfee?mediaType=mp4)|3,570||18+|sweden|
+|Context Media|22.00 EUR|[16](https://www.snap.com/political-ads/asset/28a89556851979dfb488b0095619765b1bdff176f14fbf65d5c4c549b26e403b?mediaType=mp4)|3,490||18+|sweden|
+|Context Media|14.00 EUR|[17](https://www.snap.com/political-ads/asset/7fa5d2b35d870cc61e172e95ad1bc91313fb6e842c36c934df39cbf0e7c11900?mediaType=mp4)|2,837||18+|sweden|
+|Context Media|12.00 EUR|[18](https://www.snap.com/political-ads/asset/4e46a8329b12637626c88718f873ec3bdfd6fe62f787d6c6fccff6367223963b?mediaType=mp4)|2,700||18+|sweden|

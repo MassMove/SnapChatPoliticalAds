@@ -65,7 +65,7 @@
 |[No On L](No_On_L.md) - The Prosper Group|3,698.00 USD|573,475||18+|united states|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - Blueprint Interactive|1,929.00 USD|468,782||18+|united states|
 |[STOPtheWaterGrabCoalition](STOPtheWaterGrabCoalition.md) - The Modesto Bee|1,971.00 USD|453,013||18+, 25+|united states|
-|[Krist for Nebraska](Krist_for_Nebraska.md) - Krist for Nebraska|883.00 USD|408,578||18+|united states|
+|[Krist for Nebraska](Krist_for_Nebraska.md) - BCom Solutions|883.00 USD|408,578||18+|united states|
 |[PPAPLAC Action Fund](PPAPLAC_Action_Fund.md) - Open Hand Media|2,246.00 USD|405,212|FEMALE|18+|united states|
 |[Maryland Democratic Party](Maryland_Democratic_Party.md) - Blueprint Interactive|815.00 USD|374,923||18+|united states|
 |[CDVSA](CDVSA.md) - Council on Domestic Violence and Sexual Assault|1,000.00 USD|359,270||18+|united states|

@@ -1,7 +1,7 @@
 ## 2022 - Kathy Hochul for NY 
-**Spent**: 258,466.00
+**Spent**: 258,443.00
 
-**Impressions**: 40,959,794
+**Impressions**: 40,956,868
 
 **Billing Addresses**: US
 
@@ -412,39 +412,38 @@
 |Wavelength Strategy: Kathy Hochul|25.00 USD|[402](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|3,208||18+|united states|
 |Wavelength Strategy|25.00 USD|[403](https://www.snap.com/political-ads/asset/a904b7963908e03004c726e6e15984eb7ebea4e299c3e7de1e0a6febe93bbd40?mediaType=jpg)|3,187||18+|united states|
 |Wavelength Strategy: Kathy Hochul|20.00 USD|[404](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|3,002||18+|united states|
-|Wavelength Strategy|23.00 USD|[405](https://www.snap.com/political-ads/asset/a904b7963908e03004c726e6e15984eb7ebea4e299c3e7de1e0a6febe93bbd40?mediaType=jpg)|2,926||18+|united states|
-|Wavelength Strategy: Kathy Hochul|21.00 USD|[406](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|2,913||18+|united states|
-|Wavelength Strategy: Kathy Hochul|40.00 USD|[407](https://www.snap.com/political-ads/asset/dce930bd97d1d943daf452962ffcb45870a41ac7acb06529cd34cc009eb870d5?mediaType=jpg)|2,883||18+|united states|
-|Wavelength Strategy: Kathy Hochul|57.00 USD|[408](https://www.snap.com/political-ads/asset/2dc2a044acdb2a212eca976d5a4b60be2196d91f492e3a89a469be3b7af4e230?mediaType=jpg)|2,795||18+|united states|
-|Wavelength Strategy: Kathy Hochul|60.00 USD|[409](https://www.snap.com/political-ads/asset/b68302c18d713021b1eed1e2e43a6ea59894e8884a8e9be954b829c8b7e8653f?mediaType=mp4)|2,775||18+|united states|
-|Wavelength Strategy: Kathy Hochul|32.00 USD|[410](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|2,677||18+|united states|
-|Wavelength Strategy|22.00 USD|[411](https://www.snap.com/political-ads/asset/44fe322ce30805f3a8aecf414c62c6a45c423d043b9a8fa5201ab154d02d1840?mediaType=png)|2,397||18+|united states|
-|Wavelength Strategy: Kathy Hochul|19.00 USD|[412](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|2,197||18+|united states|
-|Wavelength Strategy: Kathy Hochul|16.00 USD|[413](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|2,144||18+|united states|
-|Wavelength Strategy: Kathy Hochul|20.00 USD|[414](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|1,936||18+|united states|
-|Wavelength Strategy: Kathy Hochul|11.00 USD|[415](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,573||18+|united states|
-|Wavelength Strategy: Kathy Hochul|17.00 USD|[416](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,541||18+|united states|
-|Wavelength Strategy: Kathy Hochul|16.00 USD|[417](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,528||18+|united states|
-|Wavelength Strategy|45.00 USD|[418](https://www.snap.com/political-ads/asset/44fe322ce30805f3a8aecf414c62c6a45c423d043b9a8fa5201ab154d02d1840?mediaType=png)|1,460||18+|united states|
-|Wavelength Strategy: Kathy Hochul|23.00 USD|[419](https://www.snap.com/political-ads/asset/3c32c5499ef738f44ca6de56ed20ae5afc3f5cef896372ac0522f48885268a34?mediaType=jpg)|1,228||18+|united states|
-|Wavelength Strategy: Kathy Hochul|8.00 USD|[420](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|1,183||18+|united states|
-|Wavelength Strategy: Kathy Hochul|7.00 USD|[421](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,049||18+|united states|
-|Wavelength Strategy|4.00 USD|[422](https://www.snap.com/political-ads/asset/78f85045cb17d490dbf291c5bb92af1ed586006dd7d4d8a23326c106a542df83?mediaType=jpg)|1,028||18-49|united states|
-|Wavelength Strategy: Kathy Hochul|7.00 USD|[423](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|1,012||18+|united states|
-|Wavelength Strategy: Kathy Hochul|10.00 USD|[424](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|1,002||18+|united states|
-|Wavelength Strategy: Kathy Hochul|7.00 USD|[425](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|965||18+|united states|
-|Wavelength Strategy|27.00 USD|[426](https://www.snap.com/political-ads/asset/a904b7963908e03004c726e6e15984eb7ebea4e299c3e7de1e0a6febe93bbd40?mediaType=jpg)|901||18+|united states|
-|Wavelength Strategy: Kathy Hochul|12.00 USD|[427](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|839||18+|united states|
-|Wavelength Strategy|3.00 USD|[428](https://www.snap.com/political-ads/asset/8a50f5cb42f761c662396c41ae9314fffbfafe191819173a41a9b57cce0d9787?mediaType=mp4)|768||18-49|united states|
-|Wavelength Strategy: Kathy Hochul|6.00 USD|[429](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|695||18+|united states|
-|Wavelength Strategy: Kathy Hochul|6.00 USD|[430](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|555||18+|united states|
-|Wavelength Strategy: Kathy Hochul|3.00 USD|[431](https://www.snap.com/political-ads/asset/15a0e18d7cb3decc815a34bde4a7607040a7eb2b5e6e259f71e78e67a1d20338?mediaType=mp4)|331||18+|united states|
-|Wavelength Strategy: Kathy Hochul|3.00 USD|[432](https://www.snap.com/political-ads/asset/15a0e18d7cb3decc815a34bde4a7607040a7eb2b5e6e259f71e78e67a1d20338?mediaType=mp4)|316||18+|united states|
-|Wavelength Strategy: Kathy Hochul|2.00 USD|[433](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|298||18+|united states|
-|Wavelength Strategy: Kathy Hochul|2.00 USD|[434](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|205||18+|united states|
-|Wavelength Strategy: Kathy Hochul|1.00 USD|[435](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|164||18+|united states|
-|Wavelength Strategy: Kathy Hochul|1.00 USD|[436](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|75||18+|united states|
-|Wavelength Strategy: Kathy Hochul|1.00 USD|[437](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|61||18+|united states|
-|Wavelength Strategy: Kathy Hochul|0.00 USD|[438](https://www.snap.com/political-ads/asset/15a0e18d7cb3decc815a34bde4a7607040a7eb2b5e6e259f71e78e67a1d20338?mediaType=mp4)|36||18+|united states|
-|Wavelength Strategy: Kathy Hochul|0.00 USD|[439](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|30||18+|united states|
-|Wavelength Strategy: Kathy Hochul|0.00 USD|[440](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|23||18+|united states|
+|Wavelength Strategy: Kathy Hochul|21.00 USD|[405](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|2,913||18+|united states|
+|Wavelength Strategy: Kathy Hochul|40.00 USD|[406](https://www.snap.com/political-ads/asset/dce930bd97d1d943daf452962ffcb45870a41ac7acb06529cd34cc009eb870d5?mediaType=jpg)|2,883||18+|united states|
+|Wavelength Strategy: Kathy Hochul|57.00 USD|[407](https://www.snap.com/political-ads/asset/2dc2a044acdb2a212eca976d5a4b60be2196d91f492e3a89a469be3b7af4e230?mediaType=jpg)|2,795||18+|united states|
+|Wavelength Strategy: Kathy Hochul|60.00 USD|[408](https://www.snap.com/political-ads/asset/b68302c18d713021b1eed1e2e43a6ea59894e8884a8e9be954b829c8b7e8653f?mediaType=mp4)|2,775||18+|united states|
+|Wavelength Strategy: Kathy Hochul|32.00 USD|[409](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|2,677||18+|united states|
+|Wavelength Strategy|22.00 USD|[410](https://www.snap.com/political-ads/asset/44fe322ce30805f3a8aecf414c62c6a45c423d043b9a8fa5201ab154d02d1840?mediaType=png)|2,397||18+|united states|
+|Wavelength Strategy: Kathy Hochul|19.00 USD|[411](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|2,197||18+|united states|
+|Wavelength Strategy: Kathy Hochul|16.00 USD|[412](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|2,144||18+|united states|
+|Wavelength Strategy: Kathy Hochul|20.00 USD|[413](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|1,936||18+|united states|
+|Wavelength Strategy: Kathy Hochul|11.00 USD|[414](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,573||18+|united states|
+|Wavelength Strategy: Kathy Hochul|17.00 USD|[415](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,541||18+|united states|
+|Wavelength Strategy: Kathy Hochul|16.00 USD|[416](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,528||18+|united states|
+|Wavelength Strategy|45.00 USD|[417](https://www.snap.com/political-ads/asset/44fe322ce30805f3a8aecf414c62c6a45c423d043b9a8fa5201ab154d02d1840?mediaType=png)|1,460||18+|united states|
+|Wavelength Strategy: Kathy Hochul|23.00 USD|[418](https://www.snap.com/political-ads/asset/3c32c5499ef738f44ca6de56ed20ae5afc3f5cef896372ac0522f48885268a34?mediaType=jpg)|1,228||18+|united states|
+|Wavelength Strategy: Kathy Hochul|8.00 USD|[419](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|1,183||18+|united states|
+|Wavelength Strategy: Kathy Hochul|7.00 USD|[420](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|1,049||18+|united states|
+|Wavelength Strategy|4.00 USD|[421](https://www.snap.com/political-ads/asset/78f85045cb17d490dbf291c5bb92af1ed586006dd7d4d8a23326c106a542df83?mediaType=jpg)|1,028||18-49|united states|
+|Wavelength Strategy: Kathy Hochul|7.00 USD|[422](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|1,012||18+|united states|
+|Wavelength Strategy: Kathy Hochul|10.00 USD|[423](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|1,002||18+|united states|
+|Wavelength Strategy: Kathy Hochul|7.00 USD|[424](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|965||18+|united states|
+|Wavelength Strategy|27.00 USD|[425](https://www.snap.com/political-ads/asset/a904b7963908e03004c726e6e15984eb7ebea4e299c3e7de1e0a6febe93bbd40?mediaType=jpg)|901||18+|united states|
+|Wavelength Strategy: Kathy Hochul|12.00 USD|[426](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|839||18+|united states|
+|Wavelength Strategy|3.00 USD|[427](https://www.snap.com/political-ads/asset/8a50f5cb42f761c662396c41ae9314fffbfafe191819173a41a9b57cce0d9787?mediaType=mp4)|768||18-49|united states|
+|Wavelength Strategy: Kathy Hochul|6.00 USD|[428](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|695||18+|united states|
+|Wavelength Strategy: Kathy Hochul|6.00 USD|[429](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|555||18+|united states|
+|Wavelength Strategy: Kathy Hochul|3.00 USD|[430](https://www.snap.com/political-ads/asset/15a0e18d7cb3decc815a34bde4a7607040a7eb2b5e6e259f71e78e67a1d20338?mediaType=mp4)|331||18+|united states|
+|Wavelength Strategy: Kathy Hochul|3.00 USD|[431](https://www.snap.com/political-ads/asset/15a0e18d7cb3decc815a34bde4a7607040a7eb2b5e6e259f71e78e67a1d20338?mediaType=mp4)|316||18+|united states|
+|Wavelength Strategy: Kathy Hochul|2.00 USD|[432](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|298||18+|united states|
+|Wavelength Strategy: Kathy Hochul|2.00 USD|[433](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|205||18+|united states|
+|Wavelength Strategy: Kathy Hochul|1.00 USD|[434](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|164||18+|united states|
+|Wavelength Strategy: Kathy Hochul|1.00 USD|[435](https://www.snap.com/political-ads/asset/6540691f3154774980568c74fa815664251e1966413a7557118ca079e60b156c?mediaType=png)|75||18+|united states|
+|Wavelength Strategy: Kathy Hochul|1.00 USD|[436](https://www.snap.com/political-ads/asset/01a0e9edb819119fefb5485dd81f49a1872b92e1a00665541acd593ee5f45431?mediaType=png)|61||18+|united states|
+|Wavelength Strategy: Kathy Hochul|0.00 USD|[437](https://www.snap.com/political-ads/asset/15a0e18d7cb3decc815a34bde4a7607040a7eb2b5e6e259f71e78e67a1d20338?mediaType=mp4)|36||18+|united states|
+|Wavelength Strategy: Kathy Hochul|0.00 USD|[438](https://www.snap.com/political-ads/asset/a50d106206739aa73e78f806d40bc618d3a8c900973ffb5a1cf34b8b4b78c66c?mediaType=mp4)|30||18+|united states|
+|Wavelength Strategy: Kathy Hochul|0.00 USD|[439](https://www.snap.com/political-ads/asset/a87c4e71f3e477f7c09f4efdb4749791a9c9203e63a3974f9cd9420bc7fa3950?mediaType=png)|23||18+|united states|

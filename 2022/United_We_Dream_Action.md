@@ -1,7 +1,7 @@
 ## 2022 - United We Dream Action 
-**Spent**: 13,273.00
+**Spent**: 13,074.00
 
-**Impressions**: 2,194,022
+**Impressions**: 2,184,808
 
 **Billing Addresses**: 
 - 1211 Connecticut Ave,Washington,20036,US
@@ -78,33 +78,32 @@
 |BerlinRosen|89.00 USD|[66](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|9,948||18-35|united states|15 Maiden Lane #16,New York,10038,US|
 |BerlinRosen|36.00 USD|[67](https://www.snap.com/political-ads/asset/7b8805a3cf3d8271f84fe09b75dc772ce0a1a12ae34870127eddda00b429435a?mediaType=mp4)|9,820||18-35|united states|15 Maiden Lane #16,New York,10038,US|
 |Authentic Campaigns Inc: United We Dream Action|83.00 USD|[68](https://www.snap.com/political-ads/asset/b3c81d272676893c32106c82f136f4122f14df903cea735a5180d8a6e8a3fd47?mediaType=png)|9,545||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|199.00 USD|[69](https://www.snap.com/political-ads/asset/b2958141734143fe9068bfcc188b7d9c64c30cd65b301c75e6f5f3068fdf00f4?mediaType=mp4)|9,214||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|33.00 USD|[70](https://www.snap.com/political-ads/asset/a8c80590e2c1037c8f3bb39fe69fcb3b5f4c979f929182535be5da5dbd64dc40?mediaType=mp4)|8,640||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|29.00 USD|[71](https://www.snap.com/political-ads/asset/ec17b9bddd4e0bdb80efb305969e4d65d3b16647e02f9feec4ac33689076dac0?mediaType=mp4)|8,127||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|27.00 USD|[72](https://www.snap.com/political-ads/asset/c10b923fb72eebbec72b58e55900d0051af18f4c651c05c0ac1ac529853389c5?mediaType=mp4)|7,478||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|32.00 USD|[73](https://www.snap.com/political-ads/asset/6e23af43dfc702ce09e7d4a4051946ed3fbbbf3e1b64542e4b85f66e8c1171e7?mediaType=png)|7,462||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|69.00 USD|[74](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|7,399||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|54.00 USD|[75](https://www.snap.com/political-ads/asset/835bbfe4301a65e7153b8b3c408452fab7685aeed573b271a9fc23883d6ef5ba?mediaType=png)|7,239||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|25.00 USD|[76](https://www.snap.com/political-ads/asset/642628445aa806ebff47d215a28e939dbbf318ecd475595182b1906471bd4d17?mediaType=mp4)|6,788||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|23.00 USD|[77](https://www.snap.com/political-ads/asset/1e2c85be249cf42c3804cad232995b069cb0197d935d7c42a683da0bbb2ec6d1?mediaType=mp4)|6,366||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|23.00 USD|[78](https://www.snap.com/political-ads/asset/bf8da731e83f65c83bd07bb1c7a75367c97aeda184c450a43dba97346932077a?mediaType=mp4)|6,279||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|23.00 USD|[79](https://www.snap.com/political-ads/asset/7b8805a3cf3d8271f84fe09b75dc772ce0a1a12ae34870127eddda00b429435a?mediaType=mp4)|6,278||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|45.00 USD|[80](https://www.snap.com/political-ads/asset/14f6f2e7aafe3704a6a06643c26d89132a4568a8e7f21b6d5dfa445febab38a2?mediaType=png)|6,239||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|25.00 USD|[81](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|5,721||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|103.00 USD|[82](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|5,669||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|19.00 USD|[83](https://www.snap.com/political-ads/asset/52ac9a10c7795e3c499240e8700dcf0ebf72e47ec6dbff3beae8ad5d6582266f?mediaType=mp4)|5,355||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|19.00 USD|[84](https://www.snap.com/political-ads/asset/d7af310ab0a9cbe37648c7eb7f0659a855e4c283c4dff7b1d17610b441033b45?mediaType=mp4)|5,255||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|42.00 USD|[85](https://www.snap.com/political-ads/asset/835bbfe4301a65e7153b8b3c408452fab7685aeed573b271a9fc23883d6ef5ba?mediaType=png)|5,174||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|78.00 USD|[86](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|4,412||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|16.00 USD|[87](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|3,766||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|18.00 USD|[88](https://www.snap.com/political-ads/asset/d5ba7cafa5dcae8d6ca02410503ac3f50d2fc749093940673ff15c664524394f?mediaType=png)|3,600||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|68.00 USD|[89](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|3,541||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|13.00 USD|[90](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|3,119||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|23.00 USD|[91](https://www.snap.com/political-ads/asset/835bbfe4301a65e7153b8b3c408452fab7685aeed573b271a9fc23883d6ef5ba?mediaType=png)|2,994||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|Authentic Campaigns Inc: United We Dream Action|26.00 USD|[92](https://www.snap.com/political-ads/asset/e4efa5cfb591aa8e74f2ba35c8c8cd81a8515b7c87d735709381170279298f7c?mediaType=png)|2,829||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|11.00 USD|[93](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|2,829||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|66.00 USD|[94](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|2,797||18-35|united states|15 Maiden Lane #16,New York,10038,US|
-|Authentic Campaigns Inc: United We Dream Action|8.00 USD|[95](https://www.snap.com/political-ads/asset/e8abd61abdc45d49a801d9ad9dbb2aa449713024984f6f951d248f896a695ffd?mediaType=png)|1,844||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|Authentic Campaigns Inc: United We Dream Action|3.00 USD|[96](https://www.snap.com/political-ads/asset/b3c81d272676893c32106c82f136f4122f14df903cea735a5180d8a6e8a3fd47?mediaType=png)|496||18+|united states|1211 Connecticut Ave,Washington,20036,US|
-|BerlinRosen|2.00 USD|[97](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|167||17+|united states|15 Maiden Lane #16,New York,10038,US|
-|BerlinRosen|3.00 USD|[98](https://www.snap.com/political-ads/asset/b2958141734143fe9068bfcc188b7d9c64c30cd65b301c75e6f5f3068fdf00f4?mediaType=mp4)|166||17+|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|33.00 USD|[69](https://www.snap.com/political-ads/asset/a8c80590e2c1037c8f3bb39fe69fcb3b5f4c979f929182535be5da5dbd64dc40?mediaType=mp4)|8,640||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|29.00 USD|[70](https://www.snap.com/political-ads/asset/ec17b9bddd4e0bdb80efb305969e4d65d3b16647e02f9feec4ac33689076dac0?mediaType=mp4)|8,127||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|27.00 USD|[71](https://www.snap.com/political-ads/asset/c10b923fb72eebbec72b58e55900d0051af18f4c651c05c0ac1ac529853389c5?mediaType=mp4)|7,478||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|32.00 USD|[72](https://www.snap.com/political-ads/asset/6e23af43dfc702ce09e7d4a4051946ed3fbbbf3e1b64542e4b85f66e8c1171e7?mediaType=png)|7,462||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|69.00 USD|[73](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|7,399||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|54.00 USD|[74](https://www.snap.com/political-ads/asset/835bbfe4301a65e7153b8b3c408452fab7685aeed573b271a9fc23883d6ef5ba?mediaType=png)|7,239||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|25.00 USD|[75](https://www.snap.com/political-ads/asset/642628445aa806ebff47d215a28e939dbbf318ecd475595182b1906471bd4d17?mediaType=mp4)|6,788||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|23.00 USD|[76](https://www.snap.com/political-ads/asset/1e2c85be249cf42c3804cad232995b069cb0197d935d7c42a683da0bbb2ec6d1?mediaType=mp4)|6,366||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|23.00 USD|[77](https://www.snap.com/political-ads/asset/bf8da731e83f65c83bd07bb1c7a75367c97aeda184c450a43dba97346932077a?mediaType=mp4)|6,279||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|23.00 USD|[78](https://www.snap.com/political-ads/asset/7b8805a3cf3d8271f84fe09b75dc772ce0a1a12ae34870127eddda00b429435a?mediaType=mp4)|6,278||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|45.00 USD|[79](https://www.snap.com/political-ads/asset/14f6f2e7aafe3704a6a06643c26d89132a4568a8e7f21b6d5dfa445febab38a2?mediaType=png)|6,239||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|25.00 USD|[80](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|5,721||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|103.00 USD|[81](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|5,669||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|19.00 USD|[82](https://www.snap.com/political-ads/asset/52ac9a10c7795e3c499240e8700dcf0ebf72e47ec6dbff3beae8ad5d6582266f?mediaType=mp4)|5,355||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|19.00 USD|[83](https://www.snap.com/political-ads/asset/d7af310ab0a9cbe37648c7eb7f0659a855e4c283c4dff7b1d17610b441033b45?mediaType=mp4)|5,255||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|42.00 USD|[84](https://www.snap.com/political-ads/asset/835bbfe4301a65e7153b8b3c408452fab7685aeed573b271a9fc23883d6ef5ba?mediaType=png)|5,174||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|78.00 USD|[85](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|4,412||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|16.00 USD|[86](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|3,766||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|18.00 USD|[87](https://www.snap.com/political-ads/asset/d5ba7cafa5dcae8d6ca02410503ac3f50d2fc749093940673ff15c664524394f?mediaType=png)|3,600||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|68.00 USD|[88](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|3,541||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|13.00 USD|[89](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|3,119||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|23.00 USD|[90](https://www.snap.com/political-ads/asset/835bbfe4301a65e7153b8b3c408452fab7685aeed573b271a9fc23883d6ef5ba?mediaType=png)|2,994||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|Authentic Campaigns Inc: United We Dream Action|26.00 USD|[91](https://www.snap.com/political-ads/asset/e4efa5cfb591aa8e74f2ba35c8c8cd81a8515b7c87d735709381170279298f7c?mediaType=png)|2,829||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|11.00 USD|[92](https://www.snap.com/political-ads/asset/84c13dedd61f0beafb74d23c4aa2eca471ef79027ebef891b3ab247db1c7ab8d?mediaType=png)|2,829||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|66.00 USD|[93](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|2,797||18-35|united states|15 Maiden Lane #16,New York,10038,US|
+|Authentic Campaigns Inc: United We Dream Action|8.00 USD|[94](https://www.snap.com/political-ads/asset/e8abd61abdc45d49a801d9ad9dbb2aa449713024984f6f951d248f896a695ffd?mediaType=png)|1,844||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|Authentic Campaigns Inc: United We Dream Action|3.00 USD|[95](https://www.snap.com/political-ads/asset/b3c81d272676893c32106c82f136f4122f14df903cea735a5180d8a6e8a3fd47?mediaType=png)|496||18+|united states|1211 Connecticut Ave,Washington,20036,US|
+|BerlinRosen|2.00 USD|[96](https://www.snap.com/political-ads/asset/19f3df4663f9150834b9fbe35d58dfb729fae098287171920227104bb056abb8?mediaType=mp4)|167||17+|united states|15 Maiden Lane #16,New York,10038,US|
+|BerlinRosen|3.00 USD|[97](https://www.snap.com/political-ads/asset/b2958141734143fe9068bfcc188b7d9c64c30cd65b301c75e6f5f3068fdf00f4?mediaType=mp4)|166||17+|united states|15 Maiden Lane #16,New York,10038,US|
