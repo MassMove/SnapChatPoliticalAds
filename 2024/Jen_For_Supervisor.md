@@ -1,10 +1,10 @@
 ## 2024 - Jen For Supervisor 
-**Spent**: 214.00
+**Spent**: 215.00
 
-**Impressions**: 10,297
+**Impressions**: 10,301
 
 **Billing Addresses**: 1505 Westlake Ave N Suite 1000,Seattle,98109,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Strategies 360: Jen For Supervisor|214.00 USD|[0](https://www.snap.com/political-ads/asset/53ff4a2333831bafae7b9894d059ce9c341f98b41aa0e11c3d34d510b85c5152?mediaType=mp4)|10,297||18+|united states|
+|Strategies 360: Jen For Supervisor|215.00 USD|[0](https://www.snap.com/political-ads/asset/53ff4a2333831bafae7b9894d059ce9c341f98b41aa0e11c3d34d510b85c5152?mediaType=mp4)|10,301||18+|united states|

@@ -1,7 +1,7 @@
 ## 2022 - City of Chicago 
-**Spent**: 67,925.00
+**Spent**: 67,732.00
 
-**Impressions**: 6,926,936
+**Impressions**: 6,895,438
 
 **Billing Addresses**: 333 N Green St, Floor 15,Chicago,60607,US
 
@@ -26,7 +26,6 @@
 |Ogilvy & Mather Chicago|242.00 USD|[16](https://www.snap.com/political-ads/asset/b8c4c1d87f017b44902fedf8d7009466dcbdb75593aa2a64127d3372beb725ab?mediaType=jpeg)|39,756||21+|united states|
 |Ogilvy & Mather Chicago|237.00 USD|[17](https://www.snap.com/political-ads/asset/d2696daf672787e43f85c262b0de5e23b12ec6cdf838a48c4921de14f1694cfa?mediaType=jpeg)|38,860||21+|united states|
 |Ogilvy & Mather Chicago|564.00 USD|[18](https://www.snap.com/political-ads/asset/026265594a40ef821491ed6acc64ebb089f48c7f15a3405895dc50b972efc950?mediaType=jpg)|32,036||21+|united states|
-|Ogilvy & Mather Chicago|193.00 USD|[19](https://www.snap.com/political-ads/asset/b2d496bd6f40f8651ed16a5c4e7f6cc52023a7f482cb8983bc8a2ac3349ea4de?mediaType=mp4)|31,498||21+|united states|
-|Ogilvy & Mather Chicago|486.00 USD|[20](https://www.snap.com/political-ads/asset/b35e5923b97c03b9951a2ffcfce6b50c960c93457bbf9103e3494fe0df7dff2e?mediaType=mp4)|27,896||21+|united states|
-|Ogilvy & Mather Chicago|480.00 USD|[21](https://www.snap.com/political-ads/asset/3c9498c1124a6757ce89ed1546de36097a4c104dc3e12f2c036e364a6d8a1525?mediaType=mp4)|27,824||21+|united states|
-|Ogilvy & Mather Chicago|468.00 USD|[22](https://www.snap.com/political-ads/asset/c467c9e16a8ba026467570f36bfb4d10441babff28b03012ed2f28483de8414d?mediaType=mp4)|26,966||21+|united states|
+|Ogilvy & Mather Chicago|486.00 USD|[19](https://www.snap.com/political-ads/asset/b35e5923b97c03b9951a2ffcfce6b50c960c93457bbf9103e3494fe0df7dff2e?mediaType=mp4)|27,896||21+|united states|
+|Ogilvy & Mather Chicago|480.00 USD|[20](https://www.snap.com/political-ads/asset/3c9498c1124a6757ce89ed1546de36097a4c104dc3e12f2c036e364a6d8a1525?mediaType=mp4)|27,824||21+|united states|
+|Ogilvy & Mather Chicago|468.00 USD|[21](https://www.snap.com/political-ads/asset/c467c9e16a8ba026467570f36bfb4d10441babff28b03012ed2f28483de8414d?mediaType=mp4)|26,966||21+|united states|

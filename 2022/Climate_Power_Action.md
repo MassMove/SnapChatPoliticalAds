@@ -1,7 +1,7 @@
 ## 2022 - Climate Power Action 
-**Spent**: 56,475.00
+**Spent**: 55,155.00
 
-**Impressions**: 1,867,631
+**Impressions**: 1,817,845
 
 **Billing Addresses**: 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
 
@@ -18,4 +18,3 @@
 |Blueprint Interactive|2,565.00 USD|[8](https://www.snap.com/political-ads/asset/88b7e19f6e2d3069d781bf901c2df39158f77df8f5043294c3a5d9b5c843bf66?mediaType=mp4)|93,916||18+|united states|
 |Blueprint Interactive|2,403.00 USD|[9](https://www.snap.com/political-ads/asset/a46b87d0041feb3f1e5a6ac4c0b0e4718eb2779927ae9c25f54c0c9d4c588af3?mediaType=mp4)|76,796||18-34|united states|
 |Blueprint Interactive|1,360.00 USD|[10](https://www.snap.com/political-ads/asset/c7afdf38213fbc3affeec8b479af18813b63de350a609fcdf68dddfd2a0155e7?mediaType=mp4)|52,662||18-34|united states|
-|Blueprint Interactive|1,320.00 USD|[11](https://www.snap.com/political-ads/asset/4abb19260ef3c0a0c39fc4076e80eccba7d6ecea652fc8e410aae618f4a2cfef?mediaType=mp4)|49,786||18+|united states|

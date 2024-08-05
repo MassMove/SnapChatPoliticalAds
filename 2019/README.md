@@ -8,8 +8,8 @@
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
-|[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
+|[Planned Parenthood](Planned_Parenthood.md) - Planned Parenthood of Southern New England|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Plan International Canada](Plan_International_Canada.md) - The Aber Group|125,956.00 CAD|71,809,130|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
 |[Pela](Pela.md) - Open Mind Developments Corporation Inc.|45,625.00 USD|49,203,807|||canada, united states|
@@ -19,8 +19,8 @@
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
 |[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
-|[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18-34, 18-35, 18+|united kingdom|
 |[DNB](DNB.md) - DNB Bank ASA|111,957.00 EUR|29,844,629|FEMALE|18-34, 18+, 20+, 25+, 35+, 35++|norway|
+|[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|39,508.00 GBP|26,487,649||18-34, 18-35, 18+|united kingdom|
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
 |[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
@@ -76,14 +76,14 @@
 |[Den Norske Kirke](Den_Norske_Kirke.md) - Mindshare Norway AS|6,531.00 EUR|4,443,656||14-17, 18-30, 18+|norway|
 |[ArcaMax Publishing Inc](ArcaMax_Publishing_Inc.md) - ArcaMax Publishing  Inc|15,805.00 USD|4,346,243||33+, 35++|united states|
 |[Arbeiderpartiet i Bergen](Arbeiderpartiet_i_Bergen.md) - Arbeiderpartiet i Bergen|7,099.00 GBP|4,330,642||17+|norway|
-|[RTE](RTE.md) - Dentsu Aegis Network Ireland|2,463.00 EUR|4,314,615||17-|ireland|
+|[RTE](RTE.md) - Dentsu Aegis Network Ireland|2,415.00 EUR|4,243,267||17-|ireland|
 |[SPÖ](SPÖ.md) - Xaxis Light Reaction Austria|5,254.00 EUR|4,213,504||18+, 35++|austria|
 |[Rotes Kreuz](Rotes_Kreuz.md) - dreifive GmbH|4,969.00 EUR|4,108,709||18-25|austria|
 |[Wendy's](Wendy's.md) - Reprise|6,999.00 CAD|3,809,488||25+|canada|
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|

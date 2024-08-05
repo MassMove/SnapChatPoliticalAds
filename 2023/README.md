@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
-|[Patagonia](Patagonia.md) - Patagonia|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia Europe|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
@@ -17,7 +17,7 @@
 |[GC/ESDC-EDSC](GC_ESDC-EDSC.md) - Cossette Media Inc|72,481.00 CAD|12,832,224||34-|canada|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: TurnUp Activism|52,393.00 USD|12,341,747|FEMALE|15+, 18-18, 18-25, 18-28, 18-29|united states|
 |[New York City Campaign Finance B](New_York_City_Campaign_Finance_B.md) - DSPolitical: Local New York City Primary Election awareness, Local NYC General Election Awareness|67,251.00 USD|12,270,827||18-35, 18+|united states|
-|[Facts for Peace LLC](Facts_for_Peace_LLC.md) - Facts for Peace LLC: Facts For Peace|192,177.00 USD|11,426,050|FEMALE, MALE|18-24, 18-29|united states|
+|[Facts for Peace LLC](Facts_for_Peace_LLC.md) - Facts for Peace LLC: Facts For Peace|186,963.00 USD|11,242,001|FEMALE, MALE|18-24, 18-29|united states|
 |[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne: MDG, Miljopartiet De Gronne, Oslo MDG, Oslo Miljopartiet De Gronne|30,057.00 USD|11,027,722||17-30, 17+, 18-30, 18-40, 18-45, 18-49, 18+, 19-35|norway|
 |[AUF](AUF.md) - Try Schjærven Media|113,156.00 NOK|10,735,085||15-25|norway|
 |[Den norske kirke](Den_norske_kirke.md) - MediaCom AS: Den norske kirke|196,097.00 NOK|10,087,183||16-39|norway|
@@ -50,16 +50,16 @@
 |[NYC Health](NYC_Health.md) - OpAD Media|27,802.00 USD|3,951,748|FEMALE|30-|united states|
 |[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: Abortion, AG Kaul Lawsuit, Joel Urmanski|15,131.00 USD|3,786,172||16+, 18+|united states|
 |[Priorities USA & Comms2](Priorities_USA_&_Comms2.md) - Priorities USA|38,087.00 USD|3,551,286||18+|united states|
+|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|11,185.00 USD|3,352,037|FEMALE|18-34, 44-|united states|
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,994.00 USD|3,340,093||17-, 18-22|united states|
 |[alihsan charity](alihsan_charity.md) - alihsancharity|10,337.00 USD|3,332,372||24+, 25+|united arab emirates|
-|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|10,982.00 USD|3,322,596|FEMALE|18-34, 44-|united states|
 |[Green Party NZ](Green_Party_NZ.md) - Uprise Solutions: Green Party|6,215.00 AUD|3,300,951||18-24|new zealand|
 |[Natural Resources Defense Counci](Natural_Resources_Defense_Counci.md) - Natural Resources Defense Council|7,258.00 USD|2,789,308||18+|united states|
 |[Dr. Fawaz Aljedei](Dr._Fawaz_Aljedei.md) - د. فواز الجدعي: Fawaz Ajedei, Fawaz Aljedei|5,404.00 USD|2,739,004||17+, 20+|kuwait|
 |[Provincie Noord-Brabant](Provincie_Noord-Brabant.md) - Provincie Noord-Brabant: Provincie Noord Brabant|3,740.00 EUR|2,684,392||18-25|netherlands|
 |[Hamed Mohry Albathali](Hamed_Mohry_Albathali.md) - تطبيق حجز: Hamed Mohry Albahtali, Hamed Mohry Albathali|5,498.00 USD|2,665,323|||kuwait|
+|[MOA2A](MOA2A.md) - Choose Life Marketing|11,705.00 USD|2,661,715|FEMALE|35-|united states|
 |[SEO Lead Consulting LLC](SEO_Lead_Consulting_LLC.md) - ElBadeel: ElBadeel App|956.00 USD|2,648,321|||egypt|
-|[MOA2A](MOA2A.md) - Choose Life Marketing|11,582.00 USD|2,640,316|FEMALE|35-|united states|
 |[Mohammad Jowhar Hayat](Mohammad_Jowhar_Hayat.md) - Abbas Marketing|1,749.00 USD|2,462,730||18+|kuwait|
 |[Courier Newsroom](Courier_Newsroom.md) - SBDigital: Wisconsin Supreme Court|35,197.00 USD|2,362,762||18+|united states|
 |[Fan Fairness Coalition](Fan_Fairness_Coalition.md) - Precision [TEST]|22,877.00 USD|2,343,393|||united states|
@@ -137,9 +137,9 @@
 |[Kemal Kılıçdaroğlu](Kemal_Kılıçdaroğlu.md) - Goodroll Dijital Video Reklam Pazarlama Tic. A.Ş.: Kemal Kilicdaroglu|476.00 USD|655,933||18-24|turkey|
 |[Natuurmonumenten](Natuurmonumenten.md) - Jalt|2,020.00 EUR|650,909||18-45, 25+|netherlands|
 |[Wenatchee Right To Life](Wenatchee_Right_To_Life.md) - Townsquare Ignite: Right To Life|1,283.00 USD|650,184||24-, 30-|united states|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,298.00 USD|635,475|FEMALE|30-|united states|
 |[DrAbdulhadiAjmi](DrAbdulhadiAjmi.md) - Digital Media Services FZ-LLC: Dr Abdulhadi Ajmi|3,198.00 USD|633,589||21+|kuwait|
 |[Options Pregnancy Center](Options_Pregnancy_Center.md) - Marketron|1,560.00 USD|628,537|FEMALE|34-|united states|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,263.00 USD|628,338|FEMALE|30-|united states|
 |[Fagforbundet Oslo](Fagforbundet_Oslo.md) - Try Schjærven Media|14,998.00 NOK|619,807||18+|norway|
 |[Electoral Commission NI](Electoral_Commission_NI.md) - Belfast Metropolitan College|1,990.00 GBP|615,471||18-34, 35+|united kingdom|
 |[Life Choices Center](Life_Choices_Center.md) - Ad Elements: Life Choices Center|1,169.00 USD|605,303|FEMALE|30-, 32-, 33-|united states|
@@ -231,7 +231,6 @@
 |[Paid for by bader nashmi](Paid_for_by_bader_nashmi.md) - bdrnashmi: Bader nashmi alenazi|907.00 USD|156,093|||kuwait|
 |[Rauma Høyre](Rauma_Høyre.md) - SD Media AS: Kommunevalg 2023|18,608.00 NOK|154,442||18-40|norway|
 |[Jade Terreberry](Jade_Terreberry.md) - Konetiq: Jade Terreberry for Roswell|885.00 USD|150,438||18+|united states|
-|[Life Ministries Inc.](Life_Ministries_Inc..md) - LIFE Ministries Inc.|1,800.00 USD|149,414|FEMALE|16-40, 16-45, 18-40, 18-45|united states|
 |[Podme](Podme.md) - PodMe: Lokalvalget 2023|1,000.00 EUR|144,818||18-40|norway|
 |[Georgia Conservation Voters](Georgia_Conservation_Voters.md) - Corsair Campaigns|1,506.00 USD|143,260||18+|united states|
 |[Zoecare](Zoecare.md) - Townsquare Ignite|906.00 USD|138,655|FEMALE|16+|united states|
@@ -243,6 +242,7 @@
 |[RepresentUs](RepresentUs.md) - Break Something|1,178.00 USD|135,270||18+|united states|
 |[Abiding Care Center](Abiding_Care_Center.md) - Stories Marketing: Free Services in Medford|1,315.00 USD|133,593|FEMALE|16-35, 18-35|united states|
 |[Åpen folkekirke](Åpen_folkekirke.md) - Mindshare Norway AS|9,999.00 NOK|132,502||18+|norway|
+|[Life Ministries Inc.](Life_Ministries_Inc..md) - LIFE Ministries Inc.|1,500.00 USD|129,633|FEMALE|16-40, 16-45, 18-40, 18-45|united states|
 |[Djurens Rätt](Djurens_Rätt.md) - Djurens Rätt|4,143.00 SEK|129,300|FEMALE|18+|sweden|
 |[My Future Approved](My_Future_Approved.md) - Choose Life Marketing|472.00 USD|120,055|FEMALE|30-|united states|
 |[AFSCME](AFSCME.md) - American Federation of State  County and Municipal Employees: Joe Biden|2,999.00 USD|116,408||18+|united states|
@@ -255,7 +255,7 @@
 |[Finger Lakes Pregnancy Care](Finger_Lakes_Pregnancy_Care.md) - Stories Marketing: Cortland and Ithaca|1,224.00 USD|106,664|FEMALE|18-38|united states|
 |[Born This Way Foundation](Born_This_Way_Foundation.md) - Do Big Things|463.00 USD|105,636||15-34|united states|
 |[Falah Sultan Al-Mutairi](Falah_Sultan_Al-Mutairi.md) - Alshanalaam: Falah Sultan AMutairi|42.00 USD|104,891||21+|kuwait|
-|[نواف بهيش الهواش العازمي](نواف_بهيش_الهواش_العازمي.md) - kuwaitaomh|269.00 USD|103,501||20+, 21+|kuwait|
+|[نواف بهيش الهواش العازمي](نواف_بهيش_الهواش_العازمي.md) - ads alwaan|269.00 USD|103,501||20+, 21+|kuwait|
 |[HK Danmark](HK_Danmark.md) - HK Danmark|1,399.00 USD|97,635||18+|denmark|
 |[Yousef Al Nuaimi](Yousef_Al_Nuaimi.md) - Yousef Al neaimi Advocates & Legal Consultants: Yousef Al Nuaimi|248.00 USD|95,366||21+|united arab emirates|
 |[Wyandotte Pregnancy Clinic](Wyandotte_Pregnancy_Clinic.md) - Stories Marketing: Does Not Provide Abortions, Wyandotte and Olathe|582.00 USD|93,053|FEMALE|16-30, 18-38|united states|
@@ -321,8 +321,8 @@
 |[El Mirage](El_Mirage.md) - Strategies 360: Yes For El Mirage|300.00 USD|19,227||18+|united states|
 |[No Labels](No_Labels.md) - Embee Media: No Labels|209.00 USD|18,659||18+|united states|
 |[New Mexico Clean Air](New_Mexico_Clean_Air.md) - Semilla Strategies LLC: Advanced Clean Cars and Advanced Clean Trucks|421.00 USD|18,579||18-40|united states|
-|[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
 |[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
+|[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
 |[Zeal Investments UG](Zeal_Investments_UG.md) - Zeal Investments UG|106.00 USD|13,224||18+|italy|
 |[Albert Escobedo](Albert_Escobedo.md) - Albert Escobedo for Los Fresnos City Council Member Place 1: Albert Escobedo|79.00 USD|10,455||18-49, 18+|united states|
 |[Real Alternatives Indiana](Real_Alternatives_Indiana.md) - Stacked Marketing Group|148.00 USD|9,573|FEMALE|18-34|united states|

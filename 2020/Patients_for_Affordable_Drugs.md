@@ -1,7 +1,7 @@
 ## 2020 - Patients for Affordable Drugs 
-**Spent**: 2,921.00
+**Spent**: 2,869.00
 
-**Impressions**: 710,751
+**Impressions**: 705,384
 
 **Billing Addresses**: 2054 University Ave STE 600,Berkeley,94704,US
 
@@ -21,17 +21,16 @@
 |Trilogy Interactive: Patients for Affordable Drugs|116.00 USD|[11](https://www.snap.com/political-ads/asset/2cc35773e425b213bb2d665e5427af576b3111852ef46f44c0b05335385e2596?mediaType=png)|14,387||18+|united states|
 |Trilogy Interactive: Patients for Affordable Drugs|101.00 USD|[12](https://www.snap.com/political-ads/asset/345939f9ae136e3a47c52fd17ca820dfe4a168c5ebe347a413b6c139da609b7f?mediaType=mp4)|6,796||18+|united states|
 |Trilogy Interactive: Patients for Affordable Drugs|105.00 USD|[13](https://www.snap.com/political-ads/asset/2523358c3587d41105d552a46189eb6aeccca1cffa76d60e6074c7e16994b372?mediaType=mp4)|6,015||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|52.00 USD|[14](https://www.snap.com/political-ads/asset/ecc058013eeae8c51dc3d13eb3ac926bca1b56afd802f794902f6f2561e770e4?mediaType=png)|5,367||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|20.00 USD|[15](https://www.snap.com/political-ads/asset/e996eaff4bdb9261345bf0adbb623577339e893ba5f1438e4ba12911a8798ad2?mediaType=mp4)|4,230||18-45|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|43.00 USD|[16](https://www.snap.com/political-ads/asset/e996eaff4bdb9261345bf0adbb623577339e893ba5f1438e4ba12911a8798ad2?mediaType=mp4)|3,933||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|40.00 USD|[17](https://www.snap.com/political-ads/asset/5b41ba46d2ddc1fa7f0c6bfa815b8dceec3281d42f75fd8a98ecc83efa791a46?mediaType=png)|3,646||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|13.00 USD|[18](https://www.snap.com/political-ads/asset/2523358c3587d41105d552a46189eb6aeccca1cffa76d60e6074c7e16994b372?mediaType=mp4)|2,454||18-45|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|10.00 USD|[19](https://www.snap.com/political-ads/asset/5b41ba46d2ddc1fa7f0c6bfa815b8dceec3281d42f75fd8a98ecc83efa791a46?mediaType=png)|1,456||18-45|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|5.00 USD|[20](https://www.snap.com/political-ads/asset/345939f9ae136e3a47c52fd17ca820dfe4a168c5ebe347a413b6c139da609b7f?mediaType=mp4)|836||18-45|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[21](https://www.snap.com/political-ads/asset/5b41ba46d2ddc1fa7f0c6bfa815b8dceec3281d42f75fd8a98ecc83efa791a46?mediaType=png)|193||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[22](https://www.snap.com/political-ads/asset/e996eaff4bdb9261345bf0adbb623577339e893ba5f1438e4ba12911a8798ad2?mediaType=mp4)|157||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[23](https://www.snap.com/political-ads/asset/ecc058013eeae8c51dc3d13eb3ac926bca1b56afd802f794902f6f2561e770e4?mediaType=png)|126||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[24](https://www.snap.com/political-ads/asset/345939f9ae136e3a47c52fd17ca820dfe4a168c5ebe347a413b6c139da609b7f?mediaType=mp4)|83||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[25](https://www.snap.com/political-ads/asset/2f4916f9f7b61c4185b820f62737e5dd0c0c0d6d1a8c55ce6ed9f393e2cc02ca?mediaType=png)|58||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[26](https://www.snap.com/political-ads/asset/2cc35773e425b213bb2d665e5427af576b3111852ef46f44c0b05335385e2596?mediaType=png)|28||18+|united states|
-|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[27](https://www.snap.com/political-ads/asset/2523358c3587d41105d552a46189eb6aeccca1cffa76d60e6074c7e16994b372?mediaType=mp4)|24||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|20.00 USD|[14](https://www.snap.com/political-ads/asset/e996eaff4bdb9261345bf0adbb623577339e893ba5f1438e4ba12911a8798ad2?mediaType=mp4)|4,230||18-45|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|43.00 USD|[15](https://www.snap.com/political-ads/asset/e996eaff4bdb9261345bf0adbb623577339e893ba5f1438e4ba12911a8798ad2?mediaType=mp4)|3,933||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|40.00 USD|[16](https://www.snap.com/political-ads/asset/5b41ba46d2ddc1fa7f0c6bfa815b8dceec3281d42f75fd8a98ecc83efa791a46?mediaType=png)|3,646||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|13.00 USD|[17](https://www.snap.com/political-ads/asset/2523358c3587d41105d552a46189eb6aeccca1cffa76d60e6074c7e16994b372?mediaType=mp4)|2,454||18-45|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|10.00 USD|[18](https://www.snap.com/political-ads/asset/5b41ba46d2ddc1fa7f0c6bfa815b8dceec3281d42f75fd8a98ecc83efa791a46?mediaType=png)|1,456||18-45|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|5.00 USD|[19](https://www.snap.com/political-ads/asset/345939f9ae136e3a47c52fd17ca820dfe4a168c5ebe347a413b6c139da609b7f?mediaType=mp4)|836||18-45|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[20](https://www.snap.com/political-ads/asset/5b41ba46d2ddc1fa7f0c6bfa815b8dceec3281d42f75fd8a98ecc83efa791a46?mediaType=png)|193||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[21](https://www.snap.com/political-ads/asset/e996eaff4bdb9261345bf0adbb623577339e893ba5f1438e4ba12911a8798ad2?mediaType=mp4)|157||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[22](https://www.snap.com/political-ads/asset/ecc058013eeae8c51dc3d13eb3ac926bca1b56afd802f794902f6f2561e770e4?mediaType=png)|126||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[23](https://www.snap.com/political-ads/asset/345939f9ae136e3a47c52fd17ca820dfe4a168c5ebe347a413b6c139da609b7f?mediaType=mp4)|83||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[24](https://www.snap.com/political-ads/asset/2f4916f9f7b61c4185b820f62737e5dd0c0c0d6d1a8c55ce6ed9f393e2cc02ca?mediaType=png)|58||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[25](https://www.snap.com/political-ads/asset/2cc35773e425b213bb2d665e5427af576b3111852ef46f44c0b05335385e2596?mediaType=png)|28||18+|united states|
+|Trilogy Interactive: Patients for Affordable Drugs|0.00 USD|[26](https://www.snap.com/political-ads/asset/2523358c3587d41105d552a46189eb6aeccca1cffa76d60e6074c7e16994b372?mediaType=mp4)|24||18+|united states|
