@@ -9,7 +9,7 @@
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
 |[Planned Parenthood](Planned_Parenthood.md) - Planned Parenthood of Southern New England|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
-|[Plan International Canada](Plan_International_Canada.md) - The Aber Group|125,956.00 CAD|71,809,130|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
+|[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
 |[Pela](Pela.md) - Open Mind Developments Corporation Inc.|45,625.00 USD|49,203,807|||canada, united states|
@@ -18,13 +18,13 @@
 |[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
-|[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
+|[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18-34, 18-35, 18+|united kingdom|
+|[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|62,874.00 GBP|30,031,514|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[DNB](DNB.md) - DNB Bank ASA|111,957.00 EUR|29,844,629|FEMALE|18-34, 18+, 20+, 25+, 35+, 35++|norway|
-|[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|39,508.00 GBP|26,487,649||18-34, 18-35, 18+|united kingdom|
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
 |[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
-|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
+|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,629.00 USD|21,201,039||18+|united states|
 |[Carat France](Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 |[OBOS](OBOS.md) - Red Media AS|31,722.00 USD|17,960,616|FEMALE|18+, 20+|norway|
 |[The North Face](The_North_Face.md) - The North Face|28,953.00 USD|16,960,546||16-34|united states|
@@ -76,7 +76,7 @@
 |[Den Norske Kirke](Den_Norske_Kirke.md) - Mindshare Norway AS|6,531.00 EUR|4,443,656||14-17, 18-30, 18+|norway|
 |[ArcaMax Publishing Inc](ArcaMax_Publishing_Inc.md) - ArcaMax Publishing  Inc|15,805.00 USD|4,346,243||33+, 35++|united states|
 |[Arbeiderpartiet i Bergen](Arbeiderpartiet_i_Bergen.md) - Arbeiderpartiet i Bergen|7,099.00 GBP|4,330,642||17+|norway|
-|[RTE](RTE.md) - Dentsu Aegis Network Ireland|2,415.00 EUR|4,243,267||17-|ireland|
+|[RTE](RTE.md) - Dentsu Aegis Network Ireland|2,463.00 EUR|4,314,615||17-|ireland|
 |[SPÖ](SPÖ.md) - Xaxis Light Reaction Austria|5,254.00 EUR|4,213,504||18+, 35++|austria|
 |[Rotes Kreuz](Rotes_Kreuz.md) - dreifive GmbH|4,969.00 EUR|4,108,709||18-25|austria|
 |[Wendy's](Wendy's.md) - Reprise|6,999.00 CAD|3,809,488||25+|canada|

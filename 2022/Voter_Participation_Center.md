@@ -1,7 +1,7 @@
 ## 2022 - Voter Participation Center 
-**Spent**: 74,136.00
+**Spent**: 73,239.00
 
-**Impressions**: 5,820,377
+**Impressions**: 5,802,165
 
 **Billing Addresses**: 1707 L St NW Suite 950,Washington,20036,US
 
@@ -50,36 +50,36 @@
 |Chong and Koster|1,039.00 USD|[40](https://www.snap.com/political-ads/asset/a3e962705b65ca4e5d7e4d5676de4d14910c9878411126b7b4eddbbb1991868c?mediaType=mp4)|35,762||18-35|united states|
 |Chong and Koster|363.00 USD|[41](https://www.snap.com/political-ads/asset/589ac45ed2c442135543877635dca087bb0a6cb5c4bbc776bc27c547887c05e7?mediaType=mp4)|35,337||18+|united states|
 |Chong and Koster|308.00 USD|[42](https://www.snap.com/political-ads/asset/b9a6b042c19170daca2e79c989ab1a68289704cdd12e283415bad065391ab04f?mediaType=mp4)|35,120||18+|united states|
-|Chong and Koster|1,050.00 USD|[43](https://www.snap.com/political-ads/asset/d400d1c5f0faaaa33e8f15676cedac2e1f61c523a98ac4e521912f5ac0b529a3?mediaType=mp4)|34,944|FEMALE|18-35|united states|
-|Chong and Koster|294.00 USD|[44](https://www.snap.com/political-ads/asset/0cb046e81c3a4c22ccbe79fc097528b31c6187015675c896cc39a583e1bf1af8?mediaType=mp4)|34,495||18+|united states|
-|Chong and Koster|383.00 USD|[45](https://www.snap.com/political-ads/asset/7d602405c303310fb2ba3bca3933659301ca0770381d7cc5e474474733c6d915?mediaType=mp4)|33,944||18+|united states|
-|Chong and Koster|306.00 USD|[46](https://www.snap.com/political-ads/asset/15abc8b78f2524553d785545288d3bd973873cc1bc1ca8dbd3347592e978ae04?mediaType=mp4)|33,053||18+|united states|
-|Chong and Koster|1,065.00 USD|[47](https://www.snap.com/political-ads/asset/5be6639c25aea1ecb84e907e0f8db7564cf4030d04b5cc82bf02ef0ee907f3e9?mediaType=mp4)|31,819|FEMALE|18-35|united states|
-|Chong and Koster|142.00 USD|[48](https://www.snap.com/political-ads/asset/b057d9bbebcd8ac1d0d3e4ba4c2df7d532d3c10810e47cd33b52e0072ff78e41?mediaType=mp4)|31,099|||united states|
-|Chong and Koster|323.00 USD|[49](https://www.snap.com/political-ads/asset/b387822bb73638ec495b190996ec2f6194faacd8ddcbf502e73be38c6f734088?mediaType=mp4)|30,544||18+|united states|
-|Chong and Koster|400.00 USD|[50](https://www.snap.com/political-ads/asset/11fc63a757c5e85df54961c911aad2d7958aff4f09eaf15d5d21670512cdcca0?mediaType=png)|30,206||18+|united states|
-|Chong and Koster|637.00 USD|[51](https://www.snap.com/political-ads/asset/034cbf3b3da71ba6449ddd83c9df74a6bb6970977739c9cad7feea1f75f05d41?mediaType=png)|30,047||18+|united states|
-|Chong and Koster|242.00 USD|[52](https://www.snap.com/political-ads/asset/c7db6b19c51a7bc1f15d6d4203c6a866d76c06e332637f4b7c6ddc355995ac7c?mediaType=mp4)|29,500||18+|united states|
-|Chong and Koster|480.00 USD|[53](https://www.snap.com/political-ads/asset/bf2813279090bf2c0d028e806af6b79be502a60f833e063785e428d795e51b39?mediaType=mp4)|29,181||18+|united states|
-|Chong and Koster|141.00 USD|[54](https://www.snap.com/political-ads/asset/913072f4f5e12756c19d194edb12c6fb2cff6e64aae994108217470b0651d0ea?mediaType=mp4)|27,712|||united states|
-|Chong and Koster|873.00 USD|[55](https://www.snap.com/political-ads/asset/418aaadf13f1ca1060560abebddd8f77dfde21fc1a4e4c43d8d482de5236d37b?mediaType=mp4)|27,609||18+|united states|
-|Chong and Koster|866.00 USD|[56](https://www.snap.com/political-ads/asset/5be6639c25aea1ecb84e907e0f8db7564cf4030d04b5cc82bf02ef0ee907f3e9?mediaType=mp4)|26,735||18-35|united states|
-|Chong and Koster|386.00 USD|[57](https://www.snap.com/political-ads/asset/b57eef6c55d7ef6d1235334d3a4885ad9b759a6e9a6e651aa3543e3f9ba6afcd?mediaType=png)|25,857||18+|united states|
-|Chong and Koster|990.00 USD|[58](https://www.snap.com/political-ads/asset/a3e962705b65ca4e5d7e4d5676de4d14910c9878411126b7b4eddbbb1991868c?mediaType=mp4)|23,819|FEMALE|18-35|united states|
-|Chong and Koster|195.00 USD|[59](https://www.snap.com/political-ads/asset/af8c2f816504a8d3e756a3c9266c8877cf30b71da1b9cec16fab702a80b9948f?mediaType=mp4)|23,181||18+|united states|
-|Chong and Koster|804.00 USD|[60](https://www.snap.com/political-ads/asset/d400d1c5f0faaaa33e8f15676cedac2e1f61c523a98ac4e521912f5ac0b529a3?mediaType=mp4)|22,944||18-35|united states|
-|Chong and Koster|809.00 USD|[61](https://www.snap.com/political-ads/asset/07ae06fbdef1eb1994efbf12d392757125bf7e1388ef5e40f60b9a539099fc45?mediaType=mp4)|21,116||18+|united states|
-|Chong and Koster|160.00 USD|[62](https://www.snap.com/political-ads/asset/480ab49a12f14464f4d7670a276aa16387cef61d9d650724cc51068be0b0cdb9?mediaType=mp4)|20,789||18+|united states|
-|Chong and Koster|200.00 USD|[63](https://www.snap.com/political-ads/asset/67c40e9132e892eac87f9ba2645b3511015c272fe8fd23de4b30368d999c1f18?mediaType=mp4)|20,676||18+|united states|
-|Chong and Koster|251.00 USD|[64](https://www.snap.com/political-ads/asset/1099275608d071b353d1e5673ac3c5fdad696e986d03c684df037a28e73a3115?mediaType=png)|20,468||18+|united states|
-|Chong and Koster|167.00 USD|[65](https://www.snap.com/political-ads/asset/390dff3347fbd93d5d15c46b9b46faf4d5667e8c17c6e0a9cdf24214acddcd1b?mediaType=mp4)|19,957||18+|united states|
-|Chong and Koster|147.00 USD|[66](https://www.snap.com/political-ads/asset/6590f5c2873aeec90e93b8e2d902f0dfbf56f8378f2d089e288a73bacd83bfc9?mediaType=mp4)|19,100||18+|united states|
-|Chong and Koster|181.00 USD|[67](https://www.snap.com/political-ads/asset/fbf705158660178a65e2abdd53469d801565d296d55904d557bb129db04c6b41?mediaType=mp4)|18,962||18+|united states|
-|Chong and Koster|422.00 USD|[68](https://www.snap.com/political-ads/asset/ef77a94bcb08fd8223c5f60a80c18f8f4080a4412043e94149fc7b454ddd1455?mediaType=mp4)|18,890||18+|united states|
-|Chong and Koster|177.00 USD|[69](https://www.snap.com/political-ads/asset/645c788090869a7475b3e1ea06054754f5f3d2f767ff3d73aca14696b0050006?mediaType=mp4)|18,571||18+|united states|
-|Chong and Koster|172.00 USD|[70](https://www.snap.com/political-ads/asset/a0219803076110fae93c91581704fe0989605cfd893647c15ce4312682263244?mediaType=mp4)|18,420||18+|united states|
-|Chong and Koster|236.00 USD|[71](https://www.snap.com/political-ads/asset/91aaffaf7566502d91b8bdde4cad739720353f6e35855bf76ce237d11a98c94c?mediaType=png)|18,258||18+|united states|
-|Chong and Koster|442.00 USD|[72](https://www.snap.com/political-ads/asset/52219b36861e4e52713cf169fccf2bb838c0edf400437091dba2f7838b1d0bf4?mediaType=mp4)|17,262||18+|united states|
+|Chong and Koster|294.00 USD|[43](https://www.snap.com/political-ads/asset/0cb046e81c3a4c22ccbe79fc097528b31c6187015675c896cc39a583e1bf1af8?mediaType=mp4)|34,495||18+|united states|
+|Chong and Koster|383.00 USD|[44](https://www.snap.com/political-ads/asset/7d602405c303310fb2ba3bca3933659301ca0770381d7cc5e474474733c6d915?mediaType=mp4)|33,944||18+|united states|
+|Chong and Koster|306.00 USD|[45](https://www.snap.com/political-ads/asset/15abc8b78f2524553d785545288d3bd973873cc1bc1ca8dbd3347592e978ae04?mediaType=mp4)|33,053||18+|united states|
+|Chong and Koster|1,065.00 USD|[46](https://www.snap.com/political-ads/asset/5be6639c25aea1ecb84e907e0f8db7564cf4030d04b5cc82bf02ef0ee907f3e9?mediaType=mp4)|31,819|FEMALE|18-35|united states|
+|Chong and Koster|142.00 USD|[47](https://www.snap.com/political-ads/asset/b057d9bbebcd8ac1d0d3e4ba4c2df7d532d3c10810e47cd33b52e0072ff78e41?mediaType=mp4)|31,099|||united states|
+|Chong and Koster|323.00 USD|[48](https://www.snap.com/political-ads/asset/b387822bb73638ec495b190996ec2f6194faacd8ddcbf502e73be38c6f734088?mediaType=mp4)|30,544||18+|united states|
+|Chong and Koster|400.00 USD|[49](https://www.snap.com/political-ads/asset/11fc63a757c5e85df54961c911aad2d7958aff4f09eaf15d5d21670512cdcca0?mediaType=png)|30,206||18+|united states|
+|Chong and Koster|637.00 USD|[50](https://www.snap.com/political-ads/asset/034cbf3b3da71ba6449ddd83c9df74a6bb6970977739c9cad7feea1f75f05d41?mediaType=png)|30,047||18+|united states|
+|Chong and Koster|242.00 USD|[51](https://www.snap.com/political-ads/asset/c7db6b19c51a7bc1f15d6d4203c6a866d76c06e332637f4b7c6ddc355995ac7c?mediaType=mp4)|29,500||18+|united states|
+|Chong and Koster|480.00 USD|[52](https://www.snap.com/political-ads/asset/bf2813279090bf2c0d028e806af6b79be502a60f833e063785e428d795e51b39?mediaType=mp4)|29,181||18+|united states|
+|Chong and Koster|141.00 USD|[53](https://www.snap.com/political-ads/asset/913072f4f5e12756c19d194edb12c6fb2cff6e64aae994108217470b0651d0ea?mediaType=mp4)|27,712|||united states|
+|Chong and Koster|873.00 USD|[54](https://www.snap.com/political-ads/asset/418aaadf13f1ca1060560abebddd8f77dfde21fc1a4e4c43d8d482de5236d37b?mediaType=mp4)|27,609||18+|united states|
+|Chong and Koster|866.00 USD|[55](https://www.snap.com/political-ads/asset/5be6639c25aea1ecb84e907e0f8db7564cf4030d04b5cc82bf02ef0ee907f3e9?mediaType=mp4)|26,735||18-35|united states|
+|Chong and Koster|386.00 USD|[56](https://www.snap.com/political-ads/asset/b57eef6c55d7ef6d1235334d3a4885ad9b759a6e9a6e651aa3543e3f9ba6afcd?mediaType=png)|25,857||18+|united states|
+|Chong and Koster|990.00 USD|[57](https://www.snap.com/political-ads/asset/a3e962705b65ca4e5d7e4d5676de4d14910c9878411126b7b4eddbbb1991868c?mediaType=mp4)|23,819|FEMALE|18-35|united states|
+|Chong and Koster|195.00 USD|[58](https://www.snap.com/political-ads/asset/af8c2f816504a8d3e756a3c9266c8877cf30b71da1b9cec16fab702a80b9948f?mediaType=mp4)|23,181||18+|united states|
+|Chong and Koster|804.00 USD|[59](https://www.snap.com/political-ads/asset/d400d1c5f0faaaa33e8f15676cedac2e1f61c523a98ac4e521912f5ac0b529a3?mediaType=mp4)|22,944||18-35|united states|
+|Chong and Koster|809.00 USD|[60](https://www.snap.com/political-ads/asset/07ae06fbdef1eb1994efbf12d392757125bf7e1388ef5e40f60b9a539099fc45?mediaType=mp4)|21,116||18+|united states|
+|Chong and Koster|160.00 USD|[61](https://www.snap.com/political-ads/asset/480ab49a12f14464f4d7670a276aa16387cef61d9d650724cc51068be0b0cdb9?mediaType=mp4)|20,789||18+|united states|
+|Chong and Koster|200.00 USD|[62](https://www.snap.com/political-ads/asset/67c40e9132e892eac87f9ba2645b3511015c272fe8fd23de4b30368d999c1f18?mediaType=mp4)|20,676||18+|united states|
+|Chong and Koster|251.00 USD|[63](https://www.snap.com/political-ads/asset/1099275608d071b353d1e5673ac3c5fdad696e986d03c684df037a28e73a3115?mediaType=png)|20,468||18+|united states|
+|Chong and Koster|167.00 USD|[64](https://www.snap.com/political-ads/asset/390dff3347fbd93d5d15c46b9b46faf4d5667e8c17c6e0a9cdf24214acddcd1b?mediaType=mp4)|19,957||18+|united states|
+|Chong and Koster|147.00 USD|[65](https://www.snap.com/political-ads/asset/6590f5c2873aeec90e93b8e2d902f0dfbf56f8378f2d089e288a73bacd83bfc9?mediaType=mp4)|19,100||18+|united states|
+|Chong and Koster|181.00 USD|[66](https://www.snap.com/political-ads/asset/fbf705158660178a65e2abdd53469d801565d296d55904d557bb129db04c6b41?mediaType=mp4)|18,962||18+|united states|
+|Chong and Koster|422.00 USD|[67](https://www.snap.com/political-ads/asset/ef77a94bcb08fd8223c5f60a80c18f8f4080a4412043e94149fc7b454ddd1455?mediaType=mp4)|18,890||18+|united states|
+|Chong and Koster|177.00 USD|[68](https://www.snap.com/political-ads/asset/645c788090869a7475b3e1ea06054754f5f3d2f767ff3d73aca14696b0050006?mediaType=mp4)|18,571||18+|united states|
+|Chong and Koster|172.00 USD|[69](https://www.snap.com/political-ads/asset/a0219803076110fae93c91581704fe0989605cfd893647c15ce4312682263244?mediaType=mp4)|18,420||18+|united states|
+|Chong and Koster|236.00 USD|[70](https://www.snap.com/political-ads/asset/91aaffaf7566502d91b8bdde4cad739720353f6e35855bf76ce237d11a98c94c?mediaType=png)|18,258||18+|united states|
+|Chong and Koster|442.00 USD|[71](https://www.snap.com/political-ads/asset/52219b36861e4e52713cf169fccf2bb838c0edf400437091dba2f7838b1d0bf4?mediaType=mp4)|17,262||18+|united states|
+|Chong and Koster|153.00 USD|[72](https://www.snap.com/political-ads/asset/a9733547adafee76d6e6c313c2d30c88fb158c71af56c62719a791aa9f9ac520?mediaType=mp4)|16,732||18+|united states|
 |Chong and Koster|160.00 USD|[73](https://www.snap.com/political-ads/asset/37ddccae9a59e5f1abfcff4c0a4de461f3c876016c92911af17dfca4f49d0521?mediaType=mp4)|16,009||18+|united states|
 |Chong and Koster|172.00 USD|[74](https://www.snap.com/political-ads/asset/5f9697bcde2cedb27bbd97ea676b6456402c923773d7c65cd485190708ed27c4?mediaType=mp4)|15,860||18+|united states|
 |Chong and Koster|126.00 USD|[75](https://www.snap.com/political-ads/asset/9e3b8cd88694065895bf0cd2ad1374951c63651d7c72fed901c57a111c7f7120?mediaType=mp4)|14,958||18+|united states|

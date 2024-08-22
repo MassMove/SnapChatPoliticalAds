@@ -1,7 +1,7 @@
 ## 2024 - Facts for Peace LLC 
-**Spent**: 142,118.00
+**Spent**: 143,146.00
 
-**Impressions**: 8,272,847
+**Impressions**: 8,324,502
 
 **Billing Addresses**: US
 
@@ -28,4 +28,6 @@
 |Facts for Peace LLC|883.00 USD|[18](https://www.snap.com/political-ads/asset/b4788ddb7ea15e15c95077cfdb895cdd048d3099da9527964596ac706cb0349b?mediaType=mp4)|53,134||18-29|united states|
 |Facts for Peace LLC|976.00 USD|[19](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|44,068|FEMALE|18-24|united states|
 |Facts for Peace LLC|668.00 USD|[20](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|40,255|MALE|18-24|united states|
-|Facts for Peace LLC|403.00 USD|[21](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|26,935|MALE|18-24|united states|
+|Facts for Peace LLC|643.00 USD|[21](https://www.snap.com/political-ads/asset/8fb61fe66e9ccfc3a910d7392dea91eef1e7976a508e9dfe13b44df903e8cf9e?mediaType=mp4)|30,835|FEMALE|18-24|united states|
+|Facts for Peace LLC|403.00 USD|[22](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|26,935|MALE|18-24|united states|
+|Facts for Peace LLC|385.00 USD|[23](https://www.snap.com/political-ads/asset/8fb61fe66e9ccfc3a910d7392dea91eef1e7976a508e9dfe13b44df903e8cf9e?mediaType=mp4)|20,820|MALE|18-24|united states|
