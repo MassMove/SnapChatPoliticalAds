@@ -1,7 +1,7 @@
 ## 2020 - Engage Michigan 
-**Spent**: 92,452.00
+**Spent**: 93,828.00
 
-**Impressions**: 12,439,553
+**Impressions**: 12,617,446
 
 **Billing Addresses**: 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
 
@@ -18,9 +18,9 @@
 |The New Media Firm: Michigan Voting|792.00 USD|[8](https://www.snap.com/political-ads/asset/3bc657fcea270190830ff21c7308075b5d95c2adda956412e69cbad3fadfff6f?mediaType=mp4)|436,010||16+|united states|
 |The New Media Firm: Detroit Branch NAACP|2,214.00 USD|[9](https://www.snap.com/political-ads/asset/b7adb6f5ce5a1d1589a449a4271e74b717fb87852bc8269da7f1eb90e874f6d7?mediaType=mp4)|296,813||18+|united states|
 |The New Media Firm: Detroit Branch NAACP|3,973.00 USD|[10](https://www.snap.com/political-ads/asset/b9380bcd865928ae95137f289005186278d0c72afc7aafc37643c6ca579d2afd?mediaType=mp4)|289,806||18+|united states|
-|The New Media Firm: Detroit Branch NAACP|2,994.00 USD|[11](https://www.snap.com/political-ads/asset/eb5b80c95532438fcdf53434259186007c292aa99c846aba3e5cc2689f242f66?mediaType=mp4)|212,598||18+|united states|
-|The New Media Firm: Detroit Branch NAACP|2,115.00 USD|[12](https://www.snap.com/political-ads/asset/66557cde8548e9a4676f28e927230b7c372847496547a30c760e4a17759240eb?mediaType=mp4)|150,451||18+|united states|
-|The New Media Firm: Michigan Voting|235.00 USD|[13](https://www.snap.com/political-ads/asset/25f0ddab9cdc2cea5384575f89a848c1ef482bda1e8e1da289bd83fcb7e52f15?mediaType=png)|130,597||16+|united states|
-|The New Media Firm: ACCESS|1,100.00 USD|[14](https://www.snap.com/political-ads/asset/4b7b6cbd5f63b898ceb2766c9c5f7bdb1d70c49e24da1b2dd6ab83c15178fc49?mediaType=mp4)|77,746||18+|united states|
-|The New Media Firm: ACCESS|637.00 USD|[15](https://www.snap.com/political-ads/asset/f1a8a70d3baed0075e2db665c1da939de73b188be0fb0b437cc1d57a7ededaa6?mediaType=mp4)|48,865||18+|united states|
+|The New Media Firm: ACCESS|2,013.00 USD|[11](https://www.snap.com/political-ads/asset/c1b9f36da8b2a6cc9bdb5dd3605fedd6dd94087cd0ac6ef3d23327d9093a2591?mediaType=mp4)|226,758||18+|united states|
+|The New Media Firm: Detroit Branch NAACP|2,994.00 USD|[12](https://www.snap.com/political-ads/asset/eb5b80c95532438fcdf53434259186007c292aa99c846aba3e5cc2689f242f66?mediaType=mp4)|212,598||18+|united states|
+|The New Media Firm: Detroit Branch NAACP|2,115.00 USD|[13](https://www.snap.com/political-ads/asset/66557cde8548e9a4676f28e927230b7c372847496547a30c760e4a17759240eb?mediaType=mp4)|150,451||18+|united states|
+|The New Media Firm: Michigan Voting|235.00 USD|[14](https://www.snap.com/political-ads/asset/25f0ddab9cdc2cea5384575f89a848c1ef482bda1e8e1da289bd83fcb7e52f15?mediaType=png)|130,597||16+|united states|
+|The New Media Firm: ACCESS|1,100.00 USD|[15](https://www.snap.com/political-ads/asset/4b7b6cbd5f63b898ceb2766c9c5f7bdb1d70c49e24da1b2dd6ab83c15178fc49?mediaType=mp4)|77,746||18+|united states|
 |The New Media Firm: ACCESS|415.00 USD|[16](https://www.snap.com/political-ads/asset/c7e17e1983b7c6c4e1dec972e2bccd3086e9e718422dc32b4c67c6e639c743d1?mediaType=mp4)|29,071||18+|united states|

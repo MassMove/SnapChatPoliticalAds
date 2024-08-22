@@ -1,7 +1,7 @@
 ## 2024 - Mercy-USA 
-**Spent**: 55,263.00
+**Spent**: 55,438.00
 
-**Impressions**: 5,349,249
+**Impressions**: 5,352,530
 
 **Billing Addresses**: US
 
@@ -41,4 +41,8 @@
 |Mercy USA|45.00 USD|[31](https://www.snap.com/political-ads/asset/5e0d09d5d49207b2dea82cddbd9b4bcf418b3117eec82d585e87eb97e64fb1f5?mediaType=png)|3,121||18+|united states|
 |Mercy USA|33.00 USD|[32](https://www.snap.com/political-ads/asset/99f05b217367ff08ca05a31d247f9cb87fc4c1604dcbbdc9be20e4143c8ffef6?mediaType=jpeg)|2,736||19+|united states|
 |Mercy USA|45.00 USD|[33](https://www.snap.com/political-ads/asset/c474302cd316afc0d3f73ab9cc3215a44dad24537875c5994c24ddc731e85287?mediaType=png)|2,459||18+|united states|
-|Mercy USA|10.00 USD|[34](https://www.snap.com/political-ads/asset/d546777b0a7182ce1d74f65c8f6007c154e12dbe6f376df0bd6cee81cadce36c?mediaType=png)|966||21+|united states|
+|Mercy USA|76.00 USD|[34](https://www.snap.com/political-ads/asset/3a22ebeed0e3fa2e5d8c8d42c774725634710ac215c6ad2e2e26bf6b40de8826?mediaType=jpeg)|1,360||23+|united states|
+|Mercy USA|51.00 USD|[35](https://www.snap.com/political-ads/asset/35620eae755a1f7dbbeed620d06f43d50450868a2bf0dafe022b6b8258b2052b?mediaType=png)|1,016||23+|united states|
+|Mercy USA|10.00 USD|[36](https://www.snap.com/political-ads/asset/d546777b0a7182ce1d74f65c8f6007c154e12dbe6f376df0bd6cee81cadce36c?mediaType=png)|966||21+|united states|
+|Mercy USA|47.00 USD|[37](https://www.snap.com/political-ads/asset/df3229b998f8c8ba3388b72227d842ab2de1c7bb21a1230dbc9e36a71fe0c8e3?mediaType=png)|882||23+|united states|
+|Mercy USA|1.00 USD|[38](https://www.snap.com/political-ads/asset/3a22ebeed0e3fa2e5d8c8d42c774725634710ac215c6ad2e2e26bf6b40de8826?mediaType=jpeg)|23||23+|united states|

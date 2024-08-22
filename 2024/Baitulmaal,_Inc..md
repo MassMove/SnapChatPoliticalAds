@@ -1,7 +1,7 @@
 ## 2024 - Baitulmaal, Inc. 
-**Spent**: 4,198.00
+**Spent**: 4,205.00
 
-**Impressions**: 420,217
+**Impressions**: 420,674
 
 **Billing Addresses**: US
 
@@ -28,5 +28,6 @@
 |Baitulmaal  Inc.|39.00 USD|[18](https://www.snap.com/political-ads/asset/673cd7266a56d2965501677d2086c4a9623e614c071dd216ca1e893d8489f9ae?mediaType=png)|2,551||18+|united states|
 |Baitulmaal  Inc.|10.00 USD|[19](https://www.snap.com/political-ads/asset/fec4eb83495988402662b1fb6ee775786c3a06e7a9cb50711a8a8580db358a80?mediaType=png)|1,044||18+|united states|
 |Baitulmaal  Inc.|11.00 USD|[20](https://www.snap.com/political-ads/asset/f054a02c574602f2bd724d5f5b7e6d07eef2e73634edfd38bbcec87c0dbaaf1f?mediaType=png)|945||18+|united states|
-|Baitulmaal  Inc.|4.00 USD|[21](https://www.snap.com/political-ads/asset/673cd7266a56d2965501677d2086c4a9623e614c071dd216ca1e893d8489f9ae?mediaType=png)|396||18+|united states|
-|Baitulmaal  Inc.|5.00 USD|[22](https://www.snap.com/political-ads/asset/d377ed06ac5653f4c58f3c3eda07a8153eb779076b464187fd402dc7bd8e75b7?mediaType=png)|367||18+|united states|
+|Baitulmaal  Inc.|7.00 USD|[21](https://www.snap.com/political-ads/asset/737643a76eaaf3c0ac360e808717445d910a16ad3044f74931b4463fac5160fb?mediaType=png)|457||18+|united states|
+|Baitulmaal  Inc.|4.00 USD|[22](https://www.snap.com/political-ads/asset/673cd7266a56d2965501677d2086c4a9623e614c071dd216ca1e893d8489f9ae?mediaType=png)|396||18+|united states|
+|Baitulmaal  Inc.|5.00 USD|[23](https://www.snap.com/political-ads/asset/d377ed06ac5653f4c58f3c3eda07a8153eb779076b464187fd402dc7bd8e75b7?mediaType=png)|367||18+|united states|
