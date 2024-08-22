@@ -1,7 +1,7 @@
 ## 2019 - Mid Suffolk Green Party 
-**Spent**: 948.00
+**Spent**: 954.00
 
-**Impressions**: 354,274
+**Impressions**: 356,615
 
 **Billing Addresses**: GB
 
@@ -23,5 +23,6 @@
 |Mid Suffolk Green Party: Helen Geake|6.00 GBP|[13](https://www.snap.com/political-ads/asset/2f8b294ea99a5f6a5494bb57afe078cc15b6be9141de69239e0c14e9b5ea612e?mediaType=jpg)|2,410||18+|united kingdom|
 |Mid Suffolk Green Party: Helen Geake|6.00 GBP|[14](https://www.snap.com/political-ads/asset/a6f78531709726dd22080a552937f9cbcbfd3afe30ab8907b30465768593877a?mediaType=jpg)|2,346||18+|united kingdom|
 |Mid Suffolk Green Party: Helen Geake|6.00 GBP|[15](https://www.snap.com/political-ads/asset/e6f6196c413ff3bd18393e9465e2923b9cd92c1c091c218693e30639945ab961?mediaType=jpg)|2,345||18+|united kingdom|
-|Mid Suffolk Green Party: Helen Geake|6.00 GBP|[16](https://www.snap.com/political-ads/asset/f8675fb36ad7d5e1e6339d37da2c9b7bdf4259a3cb45260225db90f6c69f5d6e?mediaType=jpg)|2,317||18+|united kingdom|
-|Mid Suffolk Green Party: Helen Geake|6.00 GBP|[17](https://www.snap.com/political-ads/asset/a2331681e18ebbd25666804a30ddcdab9fdb6213d8746d425e1dd4d4440c97e8?mediaType=png)|2,249||18+|united kingdom|
+|Mid Suffolk Green Party: Helen Geake|6.00 GBP|[16](https://www.snap.com/political-ads/asset/0078c340a3fb4c6cbcdc5d5c05d9bc8c159d1b473eb48a4791c98df2fac19311?mediaType=jpg)|2,341||18+|united kingdom|
+|Mid Suffolk Green Party: Helen Geake|6.00 GBP|[17](https://www.snap.com/political-ads/asset/f8675fb36ad7d5e1e6339d37da2c9b7bdf4259a3cb45260225db90f6c69f5d6e?mediaType=jpg)|2,317||18+|united kingdom|
+|Mid Suffolk Green Party: Helen Geake|6.00 GBP|[18](https://www.snap.com/political-ads/asset/a2331681e18ebbd25666804a30ddcdab9fdb6213d8746d425e1dd4d4440c97e8?mediaType=png)|2,249||18+|united kingdom|

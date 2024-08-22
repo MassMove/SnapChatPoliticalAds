@@ -8,7 +8,7 @@
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Planned Parenthood of Southern New England|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
@@ -18,13 +18,13 @@
 |[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
-|[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18-34, 18-35, 18+|united kingdom|
+|[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|62,874.00 GBP|30,031,514|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[DNB](DNB.md) - DNB Bank ASA|111,957.00 EUR|29,844,629|FEMALE|18-34, 18+, 20+, 25+, 35+, 35++|norway|
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
 |[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
-|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
+|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,629.00 USD|21,201,039||18+|united states|
 |[Carat France](Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 |[OBOS](OBOS.md) - Red Media AS|31,722.00 USD|17,960,616|FEMALE|18+, 20+|norway|
 |[The North Face](The_North_Face.md) - The North Face|28,953.00 USD|16,960,546||16-34|united states|
@@ -55,7 +55,7 @@
 |[Vestland Arbeidarparti](Vestland_Arbeidarparti.md) - Arbeiderpartiet i Bergen|8,391.00 GBP|6,110,782||17+|norway|
 |[BMVIT](BMVIT.md) - Socialyse (EUR)|6,500.00 EUR|6,109,078||15-17|austria|
 |[Syöpäjärjestöt](Syöpäjärjestöt.md) - ThreeFiveEight Oy|8,089.00 EUR|6,105,497||18-18, 18-20|finland|
-|[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne|19,169.00 USD|5,917,826|FEMALE, MALE|18-25, 18-30, 18-34, 25+|norway|
+|[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne|19,587.00 USD|6,053,983|FEMALE, MALE|18-25, 18-30, 18-34, 25+|norway|
 |[Éducation nationale](Éducation_nationale.md) - Dentsu Aegis Network France|2,500.00 EUR|5,901,638||18-18|france|
 |[Elections Alberta](Elections_Alberta.md) - DDB Edmonton Media|15,205.00 CAD|5,899,911||18+|canada|
 |[Venstre](Venstre.md) - Venstre|10,445.00 USD|5,887,284||18-28, 18-32|norway|
@@ -83,7 +83,7 @@
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|
@@ -104,8 +104,8 @@
 |[NYC Board of Elections](NYC_Board_of_Elections.md) - Miller Advertising Agency  Inc.: Early Voting|8,500.00 USD|2,637,803||18+|united states|
 |[Police Scotland](Police_Scotland.md) - Republic of Media Ltd.|3,797.00 GBP|2,627,872|MALE|18-34, 18+|united kingdom|
 |[JouwGGD](JouwGGD.md) - Go eMarketing|2,246.00 EUR|2,587,553||18-18, 18-20|netherlands|
+|[liberteeshop](liberteeshop.md) - liberteeshop.com|3,149.00 USD|2,519,057||16+, 18+|united states|
 |[Department of Justice NI](Department_of_Justice_NI.md) - Ardmore Advertising|2,499.00 GBP|2,518,412||18+|united kingdom|
-|[liberteeshop](liberteeshop.md) - liberteeshop.com|3,133.00 USD|2,503,706||16+, 18+|united states|
 |[SGI](SGI.md) - Phoenix Advertising Group  Inc.|4,862.00 CAD|2,476,690||16+|canada|
 |[McCain Institute](McCain_Institute.md) - MBuy|7,759.00 USD|2,442,311||18-34|united states|
 |[Brady Campaign](Brady_Campaign.md) - Blueprint Interactive|8,139.00 USD|2,327,153||18+|united states|
@@ -199,7 +199,7 @@
 |[ItAllCounts Pty Ltd](ItAllCounts_Pty_Ltd.md) - ItAllCounts Pty Ltd|448.00 AUD|382,785||25+, 30+|australia, new zealand, united states|
 |[Fianna Fáil](Fianna_Fáil.md) - Fianna Fáil|316.00 EUR|381,756||18-45, 18+, 24-44, 45-|ireland|
 |[Turning Point USA](Turning_Point_USA.md) - Turning Point USA: Culture War|1,538.00 USD|379,011||17-24|united states|
-|[Mid Suffolk Green Party](Mid_Suffolk_Green_Party.md) - Mid Suffolk Green Party: Helen Geake|948.00 GBP|354,274||18-35, 18+|united kingdom|
+|[Mid Suffolk Green Party](Mid_Suffolk_Green_Party.md) - Mid Suffolk Green Party: Helen Geake|954.00 GBP|356,615||18-35, 18+|united kingdom|
 |[Natuurmonumenten](Natuurmonumenten.md) - Jalt|499.00 EUR|352,344||30+|netherlands|
 |[Venstres Ungdom](Venstres_Ungdom.md) - Venstres Ungdom|555.00 EUR|352,300||14-16|denmark|
 |[Nat'l Domestic Workers Alliance](Nat'l_Domestic_Workers_Alliance.md) - M&R Strategic Services  Inc.|1,205.00 USD|349,521|FEMALE|18+|united states|

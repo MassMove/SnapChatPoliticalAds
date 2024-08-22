@@ -1,7 +1,7 @@
 ## 2020 - Engage Michigan 
-**Spent**: 94,465.00
+**Spent**: 93,828.00
 
-**Impressions**: 12,666,311
+**Impressions**: 12,617,446
 
 **Billing Addresses**: 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
 
@@ -23,5 +23,4 @@
 |The New Media Firm: Detroit Branch NAACP|2,115.00 USD|[13](https://www.snap.com/political-ads/asset/66557cde8548e9a4676f28e927230b7c372847496547a30c760e4a17759240eb?mediaType=mp4)|150,451||18+|united states|
 |The New Media Firm: Michigan Voting|235.00 USD|[14](https://www.snap.com/political-ads/asset/25f0ddab9cdc2cea5384575f89a848c1ef482bda1e8e1da289bd83fcb7e52f15?mediaType=png)|130,597||16+|united states|
 |The New Media Firm: ACCESS|1,100.00 USD|[15](https://www.snap.com/political-ads/asset/4b7b6cbd5f63b898ceb2766c9c5f7bdb1d70c49e24da1b2dd6ab83c15178fc49?mediaType=mp4)|77,746||18+|united states|
-|The New Media Firm: ACCESS|637.00 USD|[16](https://www.snap.com/political-ads/asset/f1a8a70d3baed0075e2db665c1da939de73b188be0fb0b437cc1d57a7ededaa6?mediaType=mp4)|48,865||18+|united states|
-|The New Media Firm: ACCESS|415.00 USD|[17](https://www.snap.com/political-ads/asset/c7e17e1983b7c6c4e1dec972e2bccd3086e9e718422dc32b4c67c6e639c743d1?mediaType=mp4)|29,071||18+|united states|
+|The New Media Firm: ACCESS|415.00 USD|[16](https://www.snap.com/political-ads/asset/c7e17e1983b7c6c4e1dec972e2bccd3086e9e718422dc32b4c67c6e639c743d1?mediaType=mp4)|29,071||18+|united states|

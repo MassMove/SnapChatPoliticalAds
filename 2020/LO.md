@@ -3,7 +3,7 @@
 
 **Impressions**: 3,548,428
 
-**Billing Addresses**: Grensen 17,Oslo,0159,NO
+**Billing Addresses**: Universitetsgata 2,Oslo,0164,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
