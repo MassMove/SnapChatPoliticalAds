@@ -1,0 +1,101 @@
+## 2024 - Americans for ConsumerProtection 
+**Spent**: 32,564.00
+
+**Impressions**: 3,374,486
+
+**Billing Addresses**: 225 High Ridge Road, East Building,Stamford,06905,US
+
+|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
+|:---|---:|:---|---:|:---|:---|:---|
+|MNI Targeted Media: Americans for Consumer Protection|684.00 USD|[0](https://www.snap.com/political-ads/asset/bc9ab93b9c744792155e1fca224678980517f0cc7327da4e756c6bcd81320bf0?mediaType=png)|256,237|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|370.00 USD|[1](https://www.snap.com/political-ads/asset/c29e249c4043ef78cfb15796dec415c6d4038dafe295721668b768676a8501e5?mediaType=png)|155,961|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,615.00 USD|[2](https://www.snap.com/political-ads/asset/bc9ab93b9c744792155e1fca224678980517f0cc7327da4e756c6bcd81320bf0?mediaType=png)|130,261|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|949.00 USD|[3](https://www.snap.com/political-ads/asset/1d43717b4091fc86d4bb56f02e853cdcc38ece98c1a1cf433900887c163eb069?mediaType=jpg)|126,737|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,429.00 USD|[4](https://www.snap.com/political-ads/asset/c29e249c4043ef78cfb15796dec415c6d4038dafe295721668b768676a8501e5?mediaType=png)|94,468|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|904.00 USD|[5](https://www.snap.com/political-ads/asset/11e36db7375ef27fb98b0a2b0899f57be760157db718688029dc735ac72ae4fe?mediaType=mov)|88,735|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|711.00 USD|[6](https://www.snap.com/political-ads/asset/1d43717b4091fc86d4bb56f02e853cdcc38ece98c1a1cf433900887c163eb069?mediaType=jpg)|85,495|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,519.00 USD|[7](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|81,819|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|821.00 USD|[8](https://www.snap.com/political-ads/asset/10008c08ce7337bb52a243f4632bb9396f693d5db6a5e3bb093600ca4bedd9e9?mediaType=mov)|80,992|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,379.00 USD|[9](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|76,894|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|485.00 USD|[10](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|72,259|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,149.00 USD|[11](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|70,615|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|700.00 USD|[12](https://www.snap.com/political-ads/asset/029667e399926af85f8553299370bb74a4d390b49b0124d12f1b851dc34aa1d0?mediaType=mp4)|69,893|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|454.00 USD|[13](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|67,610|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|429.00 USD|[14](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|63,775|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|506.00 USD|[15](https://www.snap.com/political-ads/asset/bb85a8d885928d552000427546af382af6653871ddfb7e81c99f8befb737b271?mediaType=png)|62,503|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,411.00 USD|[16](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|61,729|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|635.00 USD|[17](https://www.snap.com/political-ads/asset/029667e399926af85f8553299370bb74a4d390b49b0124d12f1b851dc34aa1d0?mediaType=mp4)|55,788|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|118.00 USD|[18](https://www.snap.com/political-ads/asset/bb85a8d885928d552000427546af382af6653871ddfb7e81c99f8befb737b271?mediaType=png)|55,722|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|1,269.00 USD|[19](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|55,004|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|615.00 USD|[20](https://www.snap.com/political-ads/asset/10008c08ce7337bb52a243f4632bb9396f693d5db6a5e3bb093600ca4bedd9e9?mediaType=mov)|53,498|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|112.00 USD|[21](https://www.snap.com/political-ads/asset/16b3ae9f1a629d10d432b9b807fc31287e3df0a940a7d703ddb56dc2c6ea197d?mediaType=png)|52,054|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|869.00 USD|[22](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|49,925|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|568.00 USD|[23](https://www.snap.com/political-ads/asset/11e36db7375ef27fb98b0a2b0899f57be760157db718688029dc735ac72ae4fe?mediaType=mov)|49,784|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|487.00 USD|[24](https://www.snap.com/political-ads/asset/16b3ae9f1a629d10d432b9b807fc31287e3df0a940a7d703ddb56dc2c6ea197d?mediaType=png)|46,946|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|351.00 USD|[25](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|44,837|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|237.00 USD|[26](https://www.snap.com/political-ads/asset/1d43717b4091fc86d4bb56f02e853cdcc38ece98c1a1cf433900887c163eb069?mediaType=jpg)|43,554|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|330.00 USD|[27](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|41,987|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|124.00 USD|[28](https://www.snap.com/political-ads/asset/7cf6cc440f2380549328f02622506c060b3ccc1b86ab4d6b169f442543666b77?mediaType=png)|40,789|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|318.00 USD|[29](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|40,672|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|393.00 USD|[30](https://www.snap.com/political-ads/asset/c29e249c4043ef78cfb15796dec415c6d4038dafe295721668b768676a8501e5?mediaType=png)|40,276|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|411.00 USD|[31](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|39,170|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|488.00 USD|[32](https://www.snap.com/political-ads/asset/7cf6cc440f2380549328f02622506c060b3ccc1b86ab4d6b169f442543666b77?mediaType=png)|37,127|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|212.00 USD|[33](https://www.snap.com/political-ads/asset/11e36db7375ef27fb98b0a2b0899f57be760157db718688029dc735ac72ae4fe?mediaType=mov)|36,748|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|373.00 USD|[34](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|36,514|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|210.00 USD|[35](https://www.snap.com/political-ads/asset/029667e399926af85f8553299370bb74a4d390b49b0124d12f1b851dc34aa1d0?mediaType=mp4)|36,437|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|368.00 USD|[36](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|35,952|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|237.00 USD|[37](https://www.snap.com/political-ads/asset/1d43717b4091fc86d4bb56f02e853cdcc38ece98c1a1cf433900887c163eb069?mediaType=jpg)|35,831|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|234.00 USD|[38](https://www.snap.com/political-ads/asset/bc9ab93b9c744792155e1fca224678980517f0cc7327da4e756c6bcd81320bf0?mediaType=png)|34,649|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|183.00 USD|[39](https://www.snap.com/political-ads/asset/10008c08ce7337bb52a243f4632bb9396f693d5db6a5e3bb093600ca4bedd9e9?mediaType=mov)|31,837|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|401.00 USD|[40](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|29,990|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|457.00 USD|[41](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|29,868|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|312.00 USD|[42](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|29,797|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|304.00 USD|[43](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|29,048|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|217.00 USD|[44](https://www.snap.com/political-ads/asset/11e36db7375ef27fb98b0a2b0899f57be760157db718688029dc735ac72ae4fe?mediaType=mov)|28,941|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|383.00 USD|[45](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|28,895|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|214.00 USD|[46](https://www.snap.com/political-ads/asset/10008c08ce7337bb52a243f4632bb9396f693d5db6a5e3bb093600ca4bedd9e9?mediaType=mov)|28,517|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|284.00 USD|[47](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|27,455|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|237.00 USD|[48](https://www.snap.com/political-ads/asset/1d43717b4091fc86d4bb56f02e853cdcc38ece98c1a1cf433900887c163eb069?mediaType=jpg)|26,950|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|408.00 USD|[49](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|26,150|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|405.00 USD|[50](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|26,018|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|168.00 USD|[51](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|25,553|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|325.00 USD|[52](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|24,721|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|158.00 USD|[53](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|24,228|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|227.00 USD|[54](https://www.snap.com/political-ads/asset/11e36db7375ef27fb98b0a2b0899f57be760157db718688029dc735ac72ae4fe?mediaType=mov)|22,489|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|146.00 USD|[55](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|22,450|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|403.00 USD|[56](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|22,221|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|144.00 USD|[57](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|22,125|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|140.00 USD|[58](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|21,294|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|380.00 USD|[59](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|20,977|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|368.00 USD|[60](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|20,514|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|199.00 USD|[61](https://www.snap.com/political-ads/asset/10008c08ce7337bb52a243f4632bb9396f693d5db6a5e3bb093600ca4bedd9e9?mediaType=mov)|19,838|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|126.00 USD|[62](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|19,314|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|179.00 USD|[63](https://www.snap.com/political-ads/asset/029667e399926af85f8553299370bb74a4d390b49b0124d12f1b851dc34aa1d0?mediaType=mp4)|17,813|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|98.00 USD|[64](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|14,527|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|97.00 USD|[65](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|14,397|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|129.00 USD|[66](https://www.snap.com/political-ads/asset/7cf6cc440f2380549328f02622506c060b3ccc1b86ab4d6b169f442543666b77?mediaType=png)|13,705|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|89.00 USD|[67](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|13,172|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|75.00 USD|[68](https://www.snap.com/political-ads/asset/e5aceab3b3af7a1f706e09f46324d59530cd28daff57f6143af83b61c1f38648?mediaType=mp4)|7,051|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|74.00 USD|[69](https://www.snap.com/political-ads/asset/9e2cd563ec8b32016ad3bc83863c0668a38cc6eba76be619b5e05e1d6c4f5df7?mediaType=mp4)|6,898|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|73.00 USD|[70](https://www.snap.com/political-ads/asset/f86e546cc61d9b029c3bf9b50ad94a565e8e8d9e81dc4bc86bc82dcef0e1feae?mediaType=mp4)|6,844|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|76.00 USD|[71](https://www.snap.com/political-ads/asset/94a49ed0a836b2c124ee08f05d209ac8beeba4cdb8b619ba31e2c7ad634cf290?mediaType=jpg)|6,358|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|70.00 USD|[72](https://www.snap.com/political-ads/asset/593502f02ec2ba9ab00b9a6e3e1e1f0d2b4725f7db2161cd1ddf264788565cc8?mediaType=mp4)|5,635|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|30.00 USD|[73](https://www.snap.com/political-ads/asset/16b3ae9f1a629d10d432b9b807fc31287e3df0a940a7d703ddb56dc2c6ea197d?mediaType=png)|5,581|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|62.00 USD|[74](https://www.snap.com/political-ads/asset/6f30d0f494e5e6a964af778b4a9923defa178cf3be497e20f94a44794cbe0cfa?mediaType=mov)|5,075|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|58.00 USD|[75](https://www.snap.com/political-ads/asset/6a7d442c7b4946e328f29a19ba6dbe72abf59d7a7fbc609297f3a7d856e4c9bb?mediaType=mov)|4,662|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|29.00 USD|[76](https://www.snap.com/political-ads/asset/94a49ed0a836b2c124ee08f05d209ac8beeba4cdb8b619ba31e2c7ad634cf290?mediaType=jpg)|3,824|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|56.00 USD|[77](https://www.snap.com/political-ads/asset/94a49ed0a836b2c124ee08f05d209ac8beeba4cdb8b619ba31e2c7ad634cf290?mediaType=jpg)|3,763|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|48.00 USD|[78](https://www.snap.com/political-ads/asset/593502f02ec2ba9ab00b9a6e3e1e1f0d2b4725f7db2161cd1ddf264788565cc8?mediaType=mp4)|3,226|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|46.00 USD|[79](https://www.snap.com/political-ads/asset/6a7d442c7b4946e328f29a19ba6dbe72abf59d7a7fbc609297f3a7d856e4c9bb?mediaType=mov)|3,106|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|44.00 USD|[80](https://www.snap.com/political-ads/asset/6f30d0f494e5e6a964af778b4a9923defa178cf3be497e20f94a44794cbe0cfa?mediaType=mov)|2,954|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|20.00 USD|[81](https://www.snap.com/political-ads/asset/94a49ed0a836b2c124ee08f05d209ac8beeba4cdb8b619ba31e2c7ad634cf290?mediaType=jpg)|2,469|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|15.00 USD|[82](https://www.snap.com/political-ads/asset/593502f02ec2ba9ab00b9a6e3e1e1f0d2b4725f7db2161cd1ddf264788565cc8?mediaType=mp4)|1,882|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|15.00 USD|[83](https://www.snap.com/political-ads/asset/6a7d442c7b4946e328f29a19ba6dbe72abf59d7a7fbc609297f3a7d856e4c9bb?mediaType=mov)|1,852|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|14.00 USD|[84](https://www.snap.com/political-ads/asset/6f30d0f494e5e6a964af778b4a9923defa178cf3be497e20f94a44794cbe0cfa?mediaType=mov)|1,740|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|16.00 USD|[85](https://www.snap.com/political-ads/asset/593502f02ec2ba9ab00b9a6e3e1e1f0d2b4725f7db2161cd1ddf264788565cc8?mediaType=mp4)|1,619|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|19.00 USD|[86](https://www.snap.com/political-ads/asset/94a49ed0a836b2c124ee08f05d209ac8beeba4cdb8b619ba31e2c7ad634cf290?mediaType=jpg)|1,559|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|15.00 USD|[87](https://www.snap.com/political-ads/asset/6a7d442c7b4946e328f29a19ba6dbe72abf59d7a7fbc609297f3a7d856e4c9bb?mediaType=mov)|1,506|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|14.00 USD|[88](https://www.snap.com/political-ads/asset/6f30d0f494e5e6a964af778b4a9923defa178cf3be497e20f94a44794cbe0cfa?mediaType=mov)|1,478|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|14.00 USD|[89](https://www.snap.com/political-ads/asset/6a7d442c7b4946e328f29a19ba6dbe72abf59d7a7fbc609297f3a7d856e4c9bb?mediaType=mov)|1,186|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|14.00 USD|[90](https://www.snap.com/political-ads/asset/593502f02ec2ba9ab00b9a6e3e1e1f0d2b4725f7db2161cd1ddf264788565cc8?mediaType=mp4)|1,165|||united states|
+|MNI Targeted Media: Americans for Consumer Protection|12.00 USD|[91](https://www.snap.com/political-ads/asset/6f30d0f494e5e6a964af778b4a9923defa178cf3be497e20f94a44794cbe0cfa?mediaType=mov)|1,002|||united states|

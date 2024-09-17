@@ -1,7 +1,7 @@
 ## 2024 - Options for Women - River Falls 
-**Spent**: 1,270.00
+**Spent**: 1,407.00
 
-**Impressions**: 245,586
+**Impressions**: 269,251
 
 **Billing Addresses**: 214 N Main St,River Falls,54022,US
 
@@ -26,10 +26,13 @@
 |Options For Women - River Falls|50.00 USD|[16](https://www.snap.com/political-ads/asset/84b8f7a5136324cd5a2efd98fd4445f98dacb1d5d88f5225e85a11f183745626?mediaType=mp4)|9,778|||united states|
 |Options For Women - River Falls|50.00 USD|[17](https://www.snap.com/political-ads/asset/cc6dd53f3af0120cf331bb4cb9f04d2e48615da32456c8360d0119ce5bbf02c5?mediaType=mp4)|9,760|||united states|
 |Options For Women - River Falls|49.00 USD|[18](https://www.snap.com/political-ads/asset/50d15b116aae4cbb72ac61641cefdc8122491162c105e04834c2a28c8e197b6b?mediaType=mp4)|9,520|||united states|
-|Options For Women - River Falls|50.00 USD|[19](https://www.snap.com/political-ads/asset/a3482a54b754f0e6b964c611e45209809959e38fd1162c8ee89d1671bdd03f2a?mediaType=mp4)|9,340|||united states|
-|Options For Women - River Falls|26.00 USD|[20](https://www.snap.com/political-ads/asset/1107945b5b866098755a7e0104a601a71ab14ac9f0ddc3c4f787bddc32105e4f?mediaType=mp4)|5,137|||united states|
-|Options For Women - River Falls|50.00 USD|[21](https://www.snap.com/political-ads/asset/d6c54c579ea4bc6b62e6f1d9341ab4f32d654342db89ed150f95422dd2d31431?mediaType=mp4)|4,576||30-|united states|
-|Options For Women - River Falls|50.00 USD|[22](https://www.snap.com/political-ads/asset/9e7a3701408b746242144cc81838bae345936eb5c77b27ff142ec724c2ea1adc?mediaType=mp4)|4,110||30-|united states|
-|Options For Women - River Falls|50.00 USD|[23](https://www.snap.com/political-ads/asset/85ccf9fa2d8a1bd5680e444b8f1f9874a86bc0dae8d37539558b4839d0e62aa5?mediaType=mp4)|3,902||30-|united states|
-|Options For Women - River Falls|50.00 USD|[24](https://www.snap.com/political-ads/asset/1ddb7095f2d4f95d8a6eec9ed1bd953a757b53eb8619128e5af768f5d3d7e1f2?mediaType=mp4)|3,800||30-|united states|
-|Options For Women - River Falls|50.00 USD|[25](https://www.snap.com/political-ads/asset/a4f6e0c9d5570e58fbe90060d6f341f0856c51e5b9b370515ad87d62d048eca2?mediaType=mp4)|3,776||30-|united states|
+|Options For Women - River Falls|50.00 USD|[19](https://www.snap.com/political-ads/asset/1107945b5b866098755a7e0104a601a71ab14ac9f0ddc3c4f787bddc32105e4f?mediaType=mp4)|9,476|||united states|
+|Options For Women - River Falls|50.00 USD|[20](https://www.snap.com/political-ads/asset/a3482a54b754f0e6b964c611e45209809959e38fd1162c8ee89d1671bdd03f2a?mediaType=mp4)|9,340|||united states|
+|Options For Women - River Falls|50.00 USD|[21](https://www.snap.com/political-ads/asset/ffd859f6e8378c45015978cc72f41d439ba66fa2e3a15a22a99efcc760c002ac?mediaType=mp4)|9,190|||united states|
+|Options For Women - River Falls|50.00 USD|[22](https://www.snap.com/political-ads/asset/532459a4d6e7614319396f189fe3418d982c5fb318adfffd37d862664c36cf2f?mediaType=mp4)|7,776|||united states|
+|Options For Women - River Falls|50.00 USD|[23](https://www.snap.com/political-ads/asset/d6c54c579ea4bc6b62e6f1d9341ab4f32d654342db89ed150f95422dd2d31431?mediaType=mp4)|4,576||30-|united states|
+|Options For Women - River Falls|50.00 USD|[24](https://www.snap.com/political-ads/asset/9e7a3701408b746242144cc81838bae345936eb5c77b27ff142ec724c2ea1adc?mediaType=mp4)|4,110||30-|united states|
+|Options For Women - River Falls|50.00 USD|[25](https://www.snap.com/political-ads/asset/85ccf9fa2d8a1bd5680e444b8f1f9874a86bc0dae8d37539558b4839d0e62aa5?mediaType=mp4)|3,902||30-|united states|
+|Options For Women - River Falls|50.00 USD|[26](https://www.snap.com/political-ads/asset/1ddb7095f2d4f95d8a6eec9ed1bd953a757b53eb8619128e5af768f5d3d7e1f2?mediaType=mp4)|3,800||30-|united states|
+|Options For Women - River Falls|50.00 USD|[27](https://www.snap.com/political-ads/asset/a4f6e0c9d5570e58fbe90060d6f341f0856c51e5b9b370515ad87d62d048eca2?mediaType=mp4)|3,776||30-|united states|
+|Options For Women - River Falls|13.00 USD|[28](https://www.snap.com/political-ads/asset/2ee92b0c0f9174435f82ca23d0e630fdac5bfb6db19966a0e6175dd0e6f49214?mediaType=mp4)|2,360|||united states|

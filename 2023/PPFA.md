@@ -1,7 +1,7 @@
 ## 2023 - PPFA 
-**Spent**: 137,292.00
+**Spent**: 137,274.00
 
-**Impressions**: 16,482,492
+**Impressions**: 16,481,738
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
@@ -186,5 +186,4 @@
 |Chong and Koster|30.00 USD|[176](https://www.snap.com/political-ads/asset/9649ce3a820b670a72373d13ec40355ea0b7ab84fb2f39bfa326d1742f14ec82?mediaType=png)|1,139|FEMALE|18-35|united states|
 |Chong and Koster|24.00 USD|[177](https://www.snap.com/political-ads/asset/ce5740a84c01c04ea793ca7cf58de9d0bd52377ad308d303ce22c09ba6249d9e?mediaType=png)|1,093|FEMALE|18-35|united states|
 |Chong and Koster|22.00 USD|[178](https://www.snap.com/political-ads/asset/9649ce3a820b670a72373d13ec40355ea0b7ab84fb2f39bfa326d1742f14ec82?mediaType=png)|920|FEMALE|18-35|united states|
-|Chong and Koster|18.00 USD|[179](https://www.snap.com/political-ads/asset/9675bd990dbb30923bcc33320d317757dbd9753c96ac0607dc944ebab1fc99e1?mediaType=png)|754|FEMALE|18-35|united states|
-|Chong and Koster|16.00 USD|[180](https://www.snap.com/political-ads/asset/9675bd990dbb30923bcc33320d317757dbd9753c96ac0607dc944ebab1fc99e1?mediaType=png)|729|FEMALE|18-35|united states|
+|Chong and Koster|16.00 USD|[179](https://www.snap.com/political-ads/asset/9675bd990dbb30923bcc33320d317757dbd9753c96ac0607dc944ebab1fc99e1?mediaType=png)|729|FEMALE|18-35|united states|

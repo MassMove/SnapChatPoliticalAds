@@ -3,12 +3,12 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - Planned Parenthood of Southern New England|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
@@ -18,13 +18,13 @@
 |[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
+|[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18-34, 18-35, 18+|united kingdom|
-|[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|62,874.00 GBP|30,031,514|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[DNB](DNB.md) - DNB Bank ASA|111,957.00 EUR|29,844,629|FEMALE|18-34, 18+, 20+, 25+, 35+, 35++|norway|
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
 |[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
-|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,629.00 USD|21,201,039||18+|united states|
+|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
 |[Carat France](Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 |[OBOS](OBOS.md) - Red Media AS|31,722.00 USD|17,960,616|FEMALE|18+, 20+|norway|
 |[The North Face](The_North_Face.md) - The North Face|28,953.00 USD|16,960,546||16-34|united states|
@@ -43,7 +43,7 @@
 |[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|14,000.00 EUR|8,973,546||18-25, 26-34, 35++|norway|
 |[Freiheitliche Partei Österreichs](Freiheitliche_Partei_Österreichs.md) - KIRCHBAUMER.COM GmbH: Norbert Hofer|4,497.00 EUR|8,562,089||17+, 18+|austria|
-|[Warren for President](Warren_for_President.md) - Warren for President: Warren for President|37,068.00 USD|8,477,978||18-24, 18+, 21-24, 21+, 24+, 25+|united states|
+|[Warren for President](Warren_for_President.md) - Warren for President: Warren for President|37,051.00 USD|8,476,090||18-24, 18+, 21-24, 21+, 24+, 25+|united states|
 |[Sign For My Future](Sign_For_My_Future.md) - Ogilvy Group SA-NV|10,782.00 EUR|7,759,569||18-24|belgium|
 |[Avaaz Foundation](Avaaz_Foundation.md) - Avaaz Foundation|2,736.00 EUR|7,415,072|FEMALE|18+|chile, germany, poland, united states|
 |[NYC Campaign Finance Board](NYC_Campaign_Finance_Board.md) - Miller Advertising Agency  Inc.|22,295.00 USD|7,330,516||18-30, 18+|united states|
@@ -83,7 +83,7 @@
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|

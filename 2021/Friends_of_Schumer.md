@@ -1,7 +1,7 @@
 ## 2021 - Friends of Schumer 
-**Spent**: 52,587.00
+**Spent**: 52,741.00
 
-**Impressions**: 3,743,144
+**Impressions**: 3,755,984
 
 **Billing Addresses**: 2054 University Ave STE 600,Berkeley,94704,US
 
@@ -16,3 +16,4 @@
 |Trilogy Interactive: Chuck Schumer|2,260.00 USD|[6](https://www.snap.com/political-ads/asset/bfe4c12063c0a6429fd2c29f27eeb64c7444caf708c89f2769f039ed9b3af6cd?mediaType=mp4)|191,540||18-39|united states|
 |Trilogy Interactive: Chuck Schumer|2,322.00 USD|[7](https://www.snap.com/political-ads/asset/c6d86c1720f8ae3742dd2b5a799f356fab061a991340ca4772f1cca2a88d6d50?mediaType=mp4)|159,987||18-39|united states|
 |Trilogy Interactive: Chuck Schumer|216.00 USD|[8](https://www.snap.com/political-ads/asset/0ca812861bf502b05c6057482d5fc6545a1709b5552ad7fdc2e3ba2ad85f9768?mediaType=mp4)|18,298||18-39|united states|
+|Trilogy Interactive: Chuck Schumer|154.00 USD|[9](https://www.snap.com/political-ads/asset/d4fcc820808327529a4621491111bf0a56b97ef9b782665edf511678d6448c3b?mediaType=mp4)|12,840||18-39|united states|
