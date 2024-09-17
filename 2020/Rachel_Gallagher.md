@@ -1,7 +1,7 @@
 ## 2020 - Rachel Gallagher 
-**Spent**: 1,580.00
+**Spent**: 1,574.00
 
-**Impressions**: 298,319
+**Impressions**: 297,704
 
 **Billing Addresses**: L4, 10 Kensington Street,Chippendale,2008,AU
 
@@ -24,4 +24,3 @@
 |The Media Precinct: Rachel Gallagher|14.00 AUD|[14](https://www.snap.com/political-ads/asset/5ac520958ef592bb90a0fe5f7340a3c6c2e9f49b409777527d7d4f3341a57224?mediaType=mp4)|2,460||25-34|australia|
 |The Media Precinct: Rachel Gallagher|23.00 AUD|[15](https://www.snap.com/political-ads/asset/bd6eae98b15b99d286a8d91f065da4a2634a4e43888751b04d0d2a79e1a6d73e?mediaType=mp4)|2,061||35+|australia|
 |The Media Precinct: Rachel Gallagher|16.00 AUD|[16](https://www.snap.com/political-ads/asset/3cad7cbad599ce8e964db191a4a4b3bf6cfe17681dd5955e5d19249c10a5af02?mediaType=mp4)|1,751||35+|australia|
-|The Media Precinct: Rachel Gallagher|6.00 AUD|[17](https://www.snap.com/political-ads/asset/cbb9d1bc69b01f905026826de3eeed35161ca69d9351477c9e1deeebc61d425b?mediaType=mp4)|615||35+|australia|

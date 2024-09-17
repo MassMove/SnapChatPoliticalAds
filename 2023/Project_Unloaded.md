@@ -1,7 +1,7 @@
 ## 2023 - Project Unloaded 
-**Spent**: 39,728.00
+**Spent**: 39,697.00
 
-**Impressions**: 7,732,660
+**Impressions**: 7,731,037
 
 **Billing Addresses**: 1901 L St NW,Washington,20036,US
 
@@ -28,7 +28,6 @@
 |M&R Strategic Services  Inc.|92.00 USD|[18](https://www.snap.com/political-ads/asset/d30017725dfeea673d8ef9c05322b76b8f029e634c6b6e7806e7e5e9dcc8f899?mediaType=mp4)|8,036||17-|united states|
 |M&R Strategic Services  Inc.|49.00 USD|[19](https://www.snap.com/political-ads/asset/9f57293ff872b6fed834c680417dc2f562a8f99ecefba8adc32170f808bc3f86?mediaType=mp4)|5,037||17-|united states|
 |M&R Strategic Services  Inc.|18.00 USD|[20](https://www.snap.com/political-ads/asset/2d2e0bed37e3dfb2288166003bf662375608234c50d668ba996a60a36fd5426e?mediaType=mp4)|1,859||17-|united states|
-|M&R Strategic Services  Inc.|31.00 USD|[21](https://www.snap.com/political-ads/asset/d989e9960ef0e3daf2784e2abe5a55aa27322f4ac0bec292baed8c722085701b?mediaType=mp4)|1,623||17-|united states|
-|M&R Strategic Services  Inc.|33.00 USD|[22](https://www.snap.com/political-ads/asset/92230066a1ca5280fe50e30aefd1c4ed98dbef645fddd84f1befb42135ceb9b8?mediaType=mp4)|1,620||17-|united states|
-|M&R Strategic Services  Inc.|13.00 USD|[23](https://www.snap.com/political-ads/asset/04a34d11ea5bacfc6008c28c2da499d28ea9413e48668b3b47c50c0a30d289f5?mediaType=mp4)|1,144||17-|united states|
-|M&R Strategic Services  Inc.|11.00 USD|[24](https://www.snap.com/political-ads/asset/be5f1bcdca6512610bc82350af7e00b64f0dea00c5f3983dee5a7bdad42dec3e?mediaType=mp4)|1,024||17-|united states|
+|M&R Strategic Services  Inc.|33.00 USD|[21](https://www.snap.com/political-ads/asset/92230066a1ca5280fe50e30aefd1c4ed98dbef645fddd84f1befb42135ceb9b8?mediaType=mp4)|1,620||17-|united states|
+|M&R Strategic Services  Inc.|13.00 USD|[22](https://www.snap.com/political-ads/asset/04a34d11ea5bacfc6008c28c2da499d28ea9413e48668b3b47c50c0a30d289f5?mediaType=mp4)|1,144||17-|united states|
+|M&R Strategic Services  Inc.|11.00 USD|[23](https://www.snap.com/political-ads/asset/be5f1bcdca6512610bc82350af7e00b64f0dea00c5f3983dee5a7bdad42dec3e?mediaType=mp4)|1,024||17-|united states|

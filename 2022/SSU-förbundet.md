@@ -1,7 +1,7 @@
 ## 2022 - SSU-förbundet 
-**Spent**: 72,885.00
+**Spent**: 72,721.00
 
-**Impressions**: 10,356,897
+**Impressions**: 10,330,269
 
 **Billing Addresses**: Box 554,Stockholm,101 31,SE
 
@@ -22,20 +22,19 @@
 |SSU: SSU|168.00 SEK|[38](https://www.snap.com/political-ads/asset/39da5ce2c54ff0491fc692ea62335ab5dd88c5c347acc1af8dc9e4f548e3568a?mediaType=mp4),[39](https://www.snap.com/political-ads/asset/18374c1ad64cd795b61e7331a9542da327b23f3a52026c72bd51ef110b53fc13?mediaType=mp4),[40](https://www.snap.com/political-ads/asset/df01987221b8a587fd1dbcc715af44e3dc4613ba60970cb734db24d8fbcb3411?mediaType=mp4),[41](https://www.snap.com/political-ads/asset/3d9cbafd3d767531d209d859e82deadbac27165936ff2e7314d83dcfc733b581?mediaType=mp4)|52,802||17-25|sweden|
 |SSU: SSU|169.00 SEK|[42](https://www.snap.com/political-ads/asset/4ee228ca3596ed50c6bcd71abeaabb36f24656005fb91ae8ef38401bc8eddcbd?mediaType=mp4)|29,629||18-26|sweden|
 |SSU: SSU|110.00 SEK|[43](https://www.snap.com/political-ads/asset/92ade9e88caaa059f41298b7cdc50ea9326c8636a41bd355bab1ab1e4da4c450?mediaType=mp4)|27,921||18-26|sweden|
-|SSU: SSU|164.00 SEK|[44](https://www.snap.com/political-ads/asset/92ade9e88caaa059f41298b7cdc50ea9326c8636a41bd355bab1ab1e4da4c450?mediaType=mp4)|26,628||18-26|sweden|
-|SSU: SSU|158.00 SEK|[45](https://www.snap.com/political-ads/asset/42460e2dc6e1d26779cb387fcd567a456db2912d91b80970436153b3fd7268ca?mediaType=mp4)|22,144||18-26|sweden|
-|SSU: SSU|73.00 SEK|[46](https://www.snap.com/political-ads/asset/21f89bb25291ffe00944a140d9bad981f31a09d40d7111e55d106ec01baf4485?mediaType=mp4)|18,865||18-26|sweden|
-|SSU: SSU|68.00 SEK|[47](https://www.snap.com/political-ads/asset/4ee228ca3596ed50c6bcd71abeaabb36f24656005fb91ae8ef38401bc8eddcbd?mediaType=mp4)|17,008||18-26|sweden|
-|SSU: SSU|79.00 SEK|[48](https://www.snap.com/political-ads/asset/21f89bb25291ffe00944a140d9bad981f31a09d40d7111e55d106ec01baf4485?mediaType=mp4)|13,488||18-26|sweden|
-|SSU: SSU|85.00 SEK|[49](https://www.snap.com/political-ads/asset/0651a237d7614b0197b65b7043380276c4a086d443cf967987201d1f55d4e890?mediaType=MP4)|11,158||18-26|sweden|
-|SSU: SSU|52.00 SEK|[50](https://www.snap.com/political-ads/asset/0651a237d7614b0197b65b7043380276c4a086d443cf967987201d1f55d4e890?mediaType=MP4)|8,666||18-26|sweden|
-|SSU: SSU|55.00 SEK|[51](https://www.snap.com/political-ads/asset/42460e2dc6e1d26779cb387fcd567a456db2912d91b80970436153b3fd7268ca?mediaType=mp4)|8,420||18-26|sweden|
-|SSU: SSU|5.00 SEK|[52](https://www.snap.com/political-ads/asset/255a11f1c212c9b61e1e32f4840f9a57c32ec7f5bd98b74d69c5b0a68ee1df93?mediaType=png)|1,330||18-25|sweden|
-|SSU: SSU|5.00 SEK|[53](https://www.snap.com/political-ads/asset/401675fa4538c2e5b1dfa57375d88e77bccb9c6e75cf233eb4e2603d1cb8fa33?mediaType=png)|1,312||18-25|sweden|
-|SSU: SSU|5.00 SEK|[54](https://www.snap.com/political-ads/asset/5aada19ac634dd7dc1694924b15846a9facb8337420bf9f034ddefdd830306a9?mediaType=png)|1,303||18-25|sweden|
-|SSU: SSU|5.00 SEK|[55](https://www.snap.com/political-ads/asset/6057caed158e2dd5876572ba1a092061d8a940c0d2594e0cb927514c0ab26b70?mediaType=png)|1,286||18-25|sweden|
-|SSU: SSU|5.00 SEK|[56](https://www.snap.com/political-ads/asset/0fb7becf857fcb24260ec6b522fbda3a13e4563dd3d4f25512d0100bc7a48d34?mediaType=png)|1,285||18-25|sweden|
-|SSU: SSU|4.00 SEK|[57](https://www.snap.com/political-ads/asset/5a65e1816661f93bb83f08294efcc70ac6c2a9b392b6525f017cfbe0ecdafc9d?mediaType=jpeg)|1,258||18-25|sweden|
-|SSU: SSU|4.00 SEK|[58](https://www.snap.com/political-ads/asset/953899fe6df0990ae4e8de220d224107ab5b66be2ef76f16db8b5060187fed7e?mediaType=png)|1,231||18-25|sweden|
-|SSU: SSU|4.00 SEK|[59](https://www.snap.com/political-ads/asset/d88ad90326d96b42bd6bb82fc277d7af4e3b883e7078613de061427447d57ef6?mediaType=png)|1,230||18-25|sweden|
-|SSU: SSU|4.00 SEK|[60](https://www.snap.com/political-ads/asset/829d4c658d2dc12133caecff20677b38146f6ebc00d91174d9f9e97783e659f0?mediaType=png)|1,171||18-25|sweden|
+|SSU: SSU|158.00 SEK|[44](https://www.snap.com/political-ads/asset/42460e2dc6e1d26779cb387fcd567a456db2912d91b80970436153b3fd7268ca?mediaType=mp4)|22,144||18-26|sweden|
+|SSU: SSU|73.00 SEK|[45](https://www.snap.com/political-ads/asset/21f89bb25291ffe00944a140d9bad981f31a09d40d7111e55d106ec01baf4485?mediaType=mp4)|18,865||18-26|sweden|
+|SSU: SSU|68.00 SEK|[46](https://www.snap.com/political-ads/asset/4ee228ca3596ed50c6bcd71abeaabb36f24656005fb91ae8ef38401bc8eddcbd?mediaType=mp4)|17,008||18-26|sweden|
+|SSU: SSU|79.00 SEK|[47](https://www.snap.com/political-ads/asset/21f89bb25291ffe00944a140d9bad981f31a09d40d7111e55d106ec01baf4485?mediaType=mp4)|13,488||18-26|sweden|
+|SSU: SSU|85.00 SEK|[48](https://www.snap.com/political-ads/asset/0651a237d7614b0197b65b7043380276c4a086d443cf967987201d1f55d4e890?mediaType=MP4)|11,158||18-26|sweden|
+|SSU: SSU|52.00 SEK|[49](https://www.snap.com/political-ads/asset/0651a237d7614b0197b65b7043380276c4a086d443cf967987201d1f55d4e890?mediaType=MP4)|8,666||18-26|sweden|
+|SSU: SSU|55.00 SEK|[50](https://www.snap.com/political-ads/asset/42460e2dc6e1d26779cb387fcd567a456db2912d91b80970436153b3fd7268ca?mediaType=mp4)|8,420||18-26|sweden|
+|SSU: SSU|5.00 SEK|[51](https://www.snap.com/political-ads/asset/255a11f1c212c9b61e1e32f4840f9a57c32ec7f5bd98b74d69c5b0a68ee1df93?mediaType=png)|1,330||18-25|sweden|
+|SSU: SSU|5.00 SEK|[52](https://www.snap.com/political-ads/asset/401675fa4538c2e5b1dfa57375d88e77bccb9c6e75cf233eb4e2603d1cb8fa33?mediaType=png)|1,312||18-25|sweden|
+|SSU: SSU|5.00 SEK|[53](https://www.snap.com/political-ads/asset/5aada19ac634dd7dc1694924b15846a9facb8337420bf9f034ddefdd830306a9?mediaType=png)|1,303||18-25|sweden|
+|SSU: SSU|5.00 SEK|[54](https://www.snap.com/political-ads/asset/6057caed158e2dd5876572ba1a092061d8a940c0d2594e0cb927514c0ab26b70?mediaType=png)|1,286||18-25|sweden|
+|SSU: SSU|5.00 SEK|[55](https://www.snap.com/political-ads/asset/0fb7becf857fcb24260ec6b522fbda3a13e4563dd3d4f25512d0100bc7a48d34?mediaType=png)|1,285||18-25|sweden|
+|SSU: SSU|4.00 SEK|[56](https://www.snap.com/political-ads/asset/5a65e1816661f93bb83f08294efcc70ac6c2a9b392b6525f017cfbe0ecdafc9d?mediaType=jpeg)|1,258||18-25|sweden|
+|SSU: SSU|4.00 SEK|[57](https://www.snap.com/political-ads/asset/953899fe6df0990ae4e8de220d224107ab5b66be2ef76f16db8b5060187fed7e?mediaType=png)|1,231||18-25|sweden|
+|SSU: SSU|4.00 SEK|[58](https://www.snap.com/political-ads/asset/d88ad90326d96b42bd6bb82fc277d7af4e3b883e7078613de061427447d57ef6?mediaType=png)|1,230||18-25|sweden|
+|SSU: SSU|4.00 SEK|[59](https://www.snap.com/political-ads/asset/829d4c658d2dc12133caecff20677b38146f6ebc00d91174d9f9e97783e659f0?mediaType=png)|1,171||18-25|sweden|

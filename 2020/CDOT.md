@@ -3,7 +3,7 @@
 
 **Impressions**: 699,663
 
-**Billing Addresses**: 2829 W Howard Pl Fl 5,Denver,80204,US
+**Billing Addresses**: 2829 W Howard Pl,Denver,80204,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
