@@ -3,12 +3,12 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
@@ -43,7 +43,7 @@
 |[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|14,000.00 EUR|8,973,546||18-25, 26-34, 35++|norway|
 |[Freiheitliche Partei Österreichs](Freiheitliche_Partei_Österreichs.md) - KIRCHBAUMER.COM GmbH: Norbert Hofer|4,497.00 EUR|8,562,089||17+, 18+|austria|
-|[Warren for President](Warren_for_President.md) - Warren for President: Warren for President|37,051.00 USD|8,476,090||18-24, 18+, 21-24, 21+, 24+, 25+|united states|
+|[Warren for President](Warren_for_President.md) - Warren for President: Warren for President|37,068.00 USD|8,477,978||18-24, 18+, 21-24, 21+, 24+, 25+|united states|
 |[Sign For My Future](Sign_For_My_Future.md) - Ogilvy Group SA-NV|10,782.00 EUR|7,759,569||18-24|belgium|
 |[Avaaz Foundation](Avaaz_Foundation.md) - Avaaz Foundation|2,736.00 EUR|7,415,072|FEMALE|18+|chile, germany, poland, united states|
 |[NYC Campaign Finance Board](NYC_Campaign_Finance_Board.md) - Miller Advertising Agency  Inc.|22,295.00 USD|7,330,516||18-30, 18+|united states|

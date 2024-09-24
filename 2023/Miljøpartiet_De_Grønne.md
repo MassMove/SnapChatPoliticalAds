@@ -1,7 +1,7 @@
 ## 2023 - Miljøpartiet De Grønne 
-**Spent**: 29,621.00
+**Spent**: 30,057.00
 
-**Impressions**: 10,984,222
+**Impressions**: 11,027,722
 
 **Billing Addresses**: Hausmanns gate 19,Oslo,0188,NO
 
@@ -36,10 +36,11 @@
 |Miljøpartiet De Grønne: Oslo MDG|621.00 USD|[26](https://www.snap.com/political-ads/asset/b1e0ea902ed062de08f2dcbd34e7c6ea4fec6afa9706442ef55219f1a4f5690f?mediaType=mp4)|59,731||18-40|norway|
 |Miljøpartiet De Grønne: Oslo MDG|467.00 USD|[27](https://www.snap.com/political-ads/asset/7882531f7b92cdad9476a31b3bfda54b2f8b8a9ed7754f9385ce05c0a9ee93cd?mediaType=mp4)|47,175||17+|norway|
 |Miljøpartiet De Grønne: Oslo MDG|449.00 USD|[28](https://www.snap.com/political-ads/asset/52f4cd963ba9d1b4a1d2cfc0b7ce6e13b1ee537769cdcebf9db42049d939d559?mediaType=mp4)|44,771||17+|norway|
-|Miljøpartiet De Grønne: Oslo MDG|389.00 USD|[29](https://www.snap.com/political-ads/asset/5e3cb80eaa343e2d671871d111a355a6a2ca7ae627bc0145de8b054eef3e56e9?mediaType=mp4)|38,653||17+|norway|
-|Miljøpartiet De Grønne: Oslo MDG|226.00 USD|[30](https://www.snap.com/political-ads/asset/7074dc6a176972ca276241643f20ec246193c94144ea2ebe3a0c603dc460906b?mediaType=mp4)|37,239||18-30|norway|
-|Miljøpartiet De Grønne: Miljopartiet De Gronne|96.00 USD|[31](https://www.snap.com/political-ads/asset/09785a6b81ea5570ac6f104886b5accc541d594560ec45e7aa985c90791985e2?mediaType=mp4)|34,948||17-30|norway|
-|Miljøpartiet De Grønne: Oslo MDG|250.00 USD|[32](https://www.snap.com/political-ads/asset/72c6e5343791bc099d931bd4706df3a415abb68b86e153ba02814cc34213358b?mediaType=png)|34,421||18+|norway|
-|Miljøpartiet De Grønne: Miljopartiet De Gronne|226.00 USD|[33](https://www.snap.com/political-ads/asset/6dfe598afbc0d31470a94e34d28a67318c60e0989913e4ea195fee4e70926cdd?mediaType=mp4)|31,515||19-35|norway|
-|Miljøpartiet De Grønne: Oslo MDG|216.00 USD|[34](https://www.snap.com/political-ads/asset/6491d3cdbc0f659ad438edc793050f55f50206dff84a843f0a0896bf4b315d88?mediaType=mp4)|17,042||18-40|norway|
-|Miljøpartiet De Grønne: Oslo MDG|29.00 USD|[35](https://www.snap.com/political-ads/asset/6491d3cdbc0f659ad438edc793050f55f50206dff84a843f0a0896bf4b315d88?mediaType=mp4)|2,688||18-40|norway|
+|Miljøpartiet De Grønne: Oslo MDG|436.00 USD|[29](https://www.snap.com/political-ads/asset/af260f8cdb2bff226732426c94e6a84e357ee2e79620ad9f074c698a9b553497?mediaType=mp4)|43,500||17+|norway|
+|Miljøpartiet De Grønne: Oslo MDG|389.00 USD|[30](https://www.snap.com/political-ads/asset/5e3cb80eaa343e2d671871d111a355a6a2ca7ae627bc0145de8b054eef3e56e9?mediaType=mp4)|38,653||17+|norway|
+|Miljøpartiet De Grønne: Oslo MDG|226.00 USD|[31](https://www.snap.com/political-ads/asset/7074dc6a176972ca276241643f20ec246193c94144ea2ebe3a0c603dc460906b?mediaType=mp4)|37,239||18-30|norway|
+|Miljøpartiet De Grønne: Miljopartiet De Gronne|96.00 USD|[32](https://www.snap.com/political-ads/asset/09785a6b81ea5570ac6f104886b5accc541d594560ec45e7aa985c90791985e2?mediaType=mp4)|34,948||17-30|norway|
+|Miljøpartiet De Grønne: Oslo MDG|250.00 USD|[33](https://www.snap.com/political-ads/asset/72c6e5343791bc099d931bd4706df3a415abb68b86e153ba02814cc34213358b?mediaType=png)|34,421||18+|norway|
+|Miljøpartiet De Grønne: Miljopartiet De Gronne|226.00 USD|[34](https://www.snap.com/political-ads/asset/6dfe598afbc0d31470a94e34d28a67318c60e0989913e4ea195fee4e70926cdd?mediaType=mp4)|31,515||19-35|norway|
+|Miljøpartiet De Grønne: Oslo MDG|216.00 USD|[35](https://www.snap.com/political-ads/asset/6491d3cdbc0f659ad438edc793050f55f50206dff84a843f0a0896bf4b315d88?mediaType=mp4)|17,042||18-40|norway|
+|Miljøpartiet De Grønne: Oslo MDG|29.00 USD|[36](https://www.snap.com/political-ads/asset/6491d3cdbc0f659ad438edc793050f55f50206dff84a843f0a0896bf4b315d88?mediaType=mp4)|2,688||18-40|norway|

@@ -1,13 +1,13 @@
 ## 2024 - Life Ministries Inc. 
-**Spent**: 1,905.00
+**Spent**: 2,010.00
 
-**Impressions**: 217,628
+**Impressions**: 258,572
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|LIFE Ministries Inc.|107.00 USD|[0](https://www.snap.com/political-ads/asset/f1e00e3a9399835d5cdb30f4f8558001761ab306826ea7aea70e8884531392b7?mediaType=mp4)|43,796|FEMALE|18-40|united states|
+|LIFE Ministries Inc.|212.00 USD|[0](https://www.snap.com/political-ads/asset/f1e00e3a9399835d5cdb30f4f8558001761ab306826ea7aea70e8884531392b7?mediaType=mp4)|84,740|FEMALE|18-40|united states|
 |LIFE Ministries Inc.|300.00 USD|[1](https://www.snap.com/political-ads/asset/c706595ff842a36edb866525dc8db65ae8db14e588ac3fb3bcfa7c9850a2b498?mediaType=mp4)|36,913|FEMALE|16-43|united states|
 |LIFE Ministries Inc.|300.00 USD|[2](https://www.snap.com/political-ads/asset/4108c1596206226e84b774f685c439e85acac8c994b8bc3b20b307fdb3cce88a?mediaType=mp4)|35,637|FEMALE|16-40|united states|
 |LIFE Ministries Inc.|300.00 USD|[3](https://www.snap.com/political-ads/asset/632595d2a62e2bda5c5c200533fcedabff6b383b3f9b7b8e2af470abeb82f37b?mediaType=mp4)|28,088|FEMALE|18-45|united states|

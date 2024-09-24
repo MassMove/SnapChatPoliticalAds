@@ -1,7 +1,7 @@
 ## 2022 - Høyre 
-**Spent**: 43,427.00
+**Spent**: 43,861.00
 
-**Impressions**: 439,761
+**Impressions**: 441,635
 
 **Billing Addresses**: Bygdøy Alle 1,OSLO,0257,NO
 
@@ -69,5 +69,6 @@
 |Amidays|359.00 NOK|[59](https://www.snap.com/political-ads/asset/a22cb74fad2ef9ac706ec6546ba0d0151c570fd4aa615b1cb4db67e56fbc27ea?mediaType=mp4)|2,393||18-30|norway|
 |Amidays|206.00 NOK|[60](https://www.snap.com/political-ads/asset/704ee206bf571e9be879bda463645a2d049d0f77aaa9821ccd1035073aa50464?mediaType=mp4)|2,015||25+|norway|
 |Amidays|466.00 NOK|[61](https://www.snap.com/political-ads/asset/dd9102bdb7d5f1770192775ea3676297fafe65d36a9d787b06a5c452d9b5c2b8?mediaType=mp4)|1,921||30+|norway|
-|Amidays|179.00 NOK|[62](https://www.snap.com/political-ads/asset/aff77d781e6e04bca88f3d883a2d675fa7bef510f528502b56dcbc1e69bc0d1f?mediaType=mp4)|1,392||25-45|norway|
-|Amidays|228.00 NOK|[63](https://www.snap.com/political-ads/asset/b867264c31d1dadb3d0fe167758f76102f7114f411958580a2d826c225e80eb3?mediaType=mp4)|1,014||30+|norway|
+|Amidays|434.00 NOK|[62](https://www.snap.com/political-ads/asset/3fb1d9db4bde759c11c1ba7b882114356dc954d5f01d985a74b2f8b9e1146db8?mediaType=mp4)|1,874||30+|norway|
+|Amidays|179.00 NOK|[63](https://www.snap.com/political-ads/asset/aff77d781e6e04bca88f3d883a2d675fa7bef510f528502b56dcbc1e69bc0d1f?mediaType=mp4)|1,392||25-45|norway|
+|Amidays|228.00 NOK|[64](https://www.snap.com/political-ads/asset/b867264c31d1dadb3d0fe167758f76102f7114f411958580a2d826c225e80eb3?mediaType=mp4)|1,014||30+|norway|

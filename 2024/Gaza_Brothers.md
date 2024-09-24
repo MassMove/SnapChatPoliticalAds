@@ -1,13 +1,13 @@
 ## 2024 - Gaza Brothers 
-**Spent**: 6,040.00
+**Spent**: 6,350.00
 
-**Impressions**: 4,387,971
+**Impressions**: 4,510,431
 
 **Billing Addresses**: 4 rue Louis Michel,Fontenay-Sous-Bois,94120,FR
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gaza Brothers|2,364.00 EUR|[0](https://www.snap.com/political-ads/asset/967b711a7e1a1884afbe242091ffc3671fd7cdf7296bb27d0a77c1ab851dfdba?mediaType=mp4)|1,556,287||18+|france|
+|Gaza Brothers|2,674.00 EUR|[0](https://www.snap.com/political-ads/asset/967b711a7e1a1884afbe242091ffc3671fd7cdf7296bb27d0a77c1ab851dfdba?mediaType=mp4)|1,678,747||18+|france|
 |Gaza Brothers|1,135.00 EUR|[1](https://www.snap.com/political-ads/asset/427fcc6f28485163f21d796735b25a4fc10d3b0ad53479d462c1a03e78e2ae17?mediaType=mov)|833,962||18+|france|
 |Gaza Brothers|929.00 EUR|[2](https://www.snap.com/political-ads/asset/58282475a99b4a417f619a7853077b7cd1bf38e0a9efacbdd672900d0d67b739?mediaType=mp4)|830,278||18+|france|
 |Gaza Brothers|710.00 EUR|[3](https://www.snap.com/political-ads/asset/b15593cf7489660e09821348312fb5bb2af9bd3b6dc0b2d22836988118e1bc4f?mediaType=mp4)|547,845||18+|france|

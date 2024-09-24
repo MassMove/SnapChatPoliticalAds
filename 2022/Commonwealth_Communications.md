@@ -1,7 +1,7 @@
 ## 2022 - Commonwealth Communications 
-**Spent**: 110,167.00
+**Spent**: 109,666.00
 
-**Impressions**: 5,856,718
+**Impressions**: 5,831,536
 
 **Billing Addresses**: 
 - 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
@@ -43,14 +43,13 @@
 |The New Media Firm: Commonwealth Communications|809.00 USD|[31](https://www.snap.com/political-ads/asset/0b49462c5c2dbf34a1da0a3a3ff825bba48032a42d5d7efe4b3baabc7b393a8a?mediaType=mp4)|43,563||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
 |The New Media Firm: Commonwealth Communications|739.00 USD|[32](https://www.snap.com/political-ads/asset/52788218f03f24a5baae5cc29af0d15ddaaa4e700b3354a1bb45d6996698a084?mediaType=mp4)|34,330||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
 |The New Media Firm: Commonwealth Communications|667.00 USD|[33](https://www.snap.com/political-ads/asset/b7a7448263e57fc14e2cca92eca70e6c62da4e4f50562866ed9ff6560e260e41?mediaType=mp4)|32,471||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|501.00 USD|[34](https://www.snap.com/political-ads/asset/0b49462c5c2dbf34a1da0a3a3ff825bba48032a42d5d7efe4b3baabc7b393a8a?mediaType=mp4)|25,182||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|511.00 USD|[35](https://www.snap.com/political-ads/asset/0f1682dabbf570cd77597301e084e63b79a7a23914d4169a972851839d6f82c0?mediaType=mp4)|20,944||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|406.00 USD|[36](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|20,702||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|218.00 USD|[37](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|12,382||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|237.00 USD|[38](https://www.snap.com/political-ads/asset/c28371a1aaf524469d33fff7021acd0842ddd9b39c234900ace38c0ae56f6199?mediaType=mp4)|12,104||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|226.00 USD|[39](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|10,935||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|260.00 USD|[40](https://www.snap.com/political-ads/asset/52788218f03f24a5baae5cc29af0d15ddaaa4e700b3354a1bb45d6996698a084?mediaType=mp4)|10,417||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|170.00 USD|[41](https://www.snap.com/political-ads/asset/b7a7448263e57fc14e2cca92eca70e6c62da4e4f50562866ed9ff6560e260e41?mediaType=mp4)|7,927||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|155.00 USD|[42](https://www.snap.com/political-ads/asset/b693a5c3746b60f462a63dbd82a2f4e81b98b1abefb54c4b96d6aaddbdd49df8?mediaType=mp4)|7,608||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|148.00 USD|[43](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|5,942||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
-|The New Media Firm: Commonwealth Communications|94.00 USD|[44](https://www.snap.com/political-ads/asset/edfdb670b281d020e9392cdedeb01d845839a61f8adb9630781d5c495b181b49?mediaType=mp4)|3,903||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|511.00 USD|[34](https://www.snap.com/political-ads/asset/0f1682dabbf570cd77597301e084e63b79a7a23914d4169a972851839d6f82c0?mediaType=mp4)|20,944||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|406.00 USD|[35](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|20,702||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|218.00 USD|[36](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|12,382||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|237.00 USD|[37](https://www.snap.com/political-ads/asset/c28371a1aaf524469d33fff7021acd0842ddd9b39c234900ace38c0ae56f6199?mediaType=mp4)|12,104||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|226.00 USD|[38](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|10,935||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|260.00 USD|[39](https://www.snap.com/political-ads/asset/52788218f03f24a5baae5cc29af0d15ddaaa4e700b3354a1bb45d6996698a084?mediaType=mp4)|10,417||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|170.00 USD|[40](https://www.snap.com/political-ads/asset/b7a7448263e57fc14e2cca92eca70e6c62da4e4f50562866ed9ff6560e260e41?mediaType=mp4)|7,927||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|155.00 USD|[41](https://www.snap.com/political-ads/asset/b693a5c3746b60f462a63dbd82a2f4e81b98b1abefb54c4b96d6aaddbdd49df8?mediaType=mp4)|7,608||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|148.00 USD|[42](https://www.snap.com/political-ads/asset/c0a2f6a39d9678fb9f88c49871ab355d5745a23931f26a4de9044d7db42ee763?mediaType=mp4)|5,942||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|
+|The New Media Firm: Commonwealth Communications|94.00 USD|[43](https://www.snap.com/political-ads/asset/edfdb670b281d020e9392cdedeb01d845839a61f8adb9630781d5c495b181b49?mediaType=mp4)|3,903||18+|united states|1730 Rhode Island Ave, NW Ste 213,Washington,20036,US|

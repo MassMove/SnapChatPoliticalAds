@@ -1,7 +1,7 @@
 ## 2020 - INVESTinED​ 
-**Spent**: 84,844.00
+**Spent**: 85,048.00
 
-**Impressions**: 6,904,604
+**Impressions**: 6,919,253
 
 **Billing Addresses**: 101 West Colfax,Denver,80204,US
 
@@ -56,17 +56,18 @@
 |Adtaxi: INVESTinED|159.00 USD|[46](https://www.snap.com/political-ads/asset/a046a1ea449f7ecba21b4dcc9adcac4a23f5053f404b168f727194361adebc3c?mediaType=jpg)|17,013||25+|united states|
 |Adtaxi: INVESTinED|137.00 USD|[47](https://www.snap.com/political-ads/asset/a046a1ea449f7ecba21b4dcc9adcac4a23f5053f404b168f727194361adebc3c?mediaType=jpg)|16,221|FEMALE|25+|united states|
 |Adtaxi: INVESTinED|148.00 USD|[48](https://www.snap.com/political-ads/asset/3595eda5a5033482fa997349d9a64c9490dc532c0489b2ca3f7b7bf0e618a98b?mediaType=mp4)|15,014|FEMALE|25+|united states|
-|Adtaxi: INVESTinED|148.00 USD|[49](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|14,317|FEMALE|25+|united states|
-|Adtaxi: INVESTinED|246.00 USD|[50](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|13,338|FEMALE|25+|united states|
-|Adtaxi: INVESTinED|134.00 USD|[51](https://www.snap.com/political-ads/asset/a046a1ea449f7ecba21b4dcc9adcac4a23f5053f404b168f727194361adebc3c?mediaType=jpg)|12,758||25+|united states|
-|Adtaxi: INVESTinED|96.00 USD|[52](https://www.snap.com/political-ads/asset/844c6e5d706cec738c386b849227850b81f9481dbfd58bc6f115cc5277d38e5e?mediaType=mp4)|10,485||25+|united states|
-|Adtaxi: INVESTinED|162.00 USD|[53](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|10,407||25+|united states|
-|Adtaxi: INVESTinED|121.00 USD|[54](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|10,078||25+|united states|
-|Adtaxi: INVESTinED|111.00 USD|[55](https://www.snap.com/political-ads/asset/5ed35026df3f714291e81fe340962e9162447854b0c7ace4a9d31c9e0da1d95b?mediaType=jpg)|9,194||25+|united states|
-|Adtaxi: INVESTinED|147.00 USD|[56](https://www.snap.com/political-ads/asset/3571fbdaa97d37873b33d1415604064096990c33159c6ecba12024621e1f0ab3?mediaType=jpg)|8,037||25+|united states|
-|Adtaxi: INVESTinED|93.00 USD|[57](https://www.snap.com/political-ads/asset/844c6e5d706cec738c386b849227850b81f9481dbfd58bc6f115cc5277d38e5e?mediaType=mp4)|7,369||25+|united states|
-|Adtaxi: INVESTinED|75.00 USD|[58](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|5,179||25+|united states|
-|Adtaxi: INVESTinED|68.00 USD|[59](https://www.snap.com/political-ads/asset/45e7ca3d895792ce38ce09f19ff278c0d28aa66823cfd9517ce8b229369af959?mediaType=jpg)|4,982||25+|united states|
-|Adtaxi: INVESTinED|83.00 USD|[60](https://www.snap.com/political-ads/asset/e57078a58a752ce5593ae42c7830a787f1ed4d08495551c95f82890c9dcc5f54?mediaType=jpg)|3,417||25+|united states|
-|Adtaxi: INVESTinED|32.00 USD|[61](https://www.snap.com/political-ads/asset/bcd4492a42fc25d13bc1d74ae866e53393b181da5e2b098e282e39a1fd3db86c?mediaType=jpg)|2,444||25+|united states|
-|Adtaxi: INVESTinED|45.00 USD|[62](https://www.snap.com/political-ads/asset/b015df1db1845b75a6337c6a70a9b2ad0993f1e3e38b7ba48270313bc3c12edc?mediaType=jpg)|1,824||25+|united states|
+|Adtaxi: INVESTinED|204.00 USD|[49](https://www.snap.com/political-ads/asset/d968967bd9f79b1990e4e30e5aae605b5f0eecc81f856ae3fb0cef0afffa43e2?mediaType=jpg)|14,649|FEMALE|25+|united states|
+|Adtaxi: INVESTinED|148.00 USD|[50](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|14,317|FEMALE|25+|united states|
+|Adtaxi: INVESTinED|246.00 USD|[51](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|13,338|FEMALE|25+|united states|
+|Adtaxi: INVESTinED|134.00 USD|[52](https://www.snap.com/political-ads/asset/a046a1ea449f7ecba21b4dcc9adcac4a23f5053f404b168f727194361adebc3c?mediaType=jpg)|12,758||25+|united states|
+|Adtaxi: INVESTinED|96.00 USD|[53](https://www.snap.com/political-ads/asset/844c6e5d706cec738c386b849227850b81f9481dbfd58bc6f115cc5277d38e5e?mediaType=mp4)|10,485||25+|united states|
+|Adtaxi: INVESTinED|162.00 USD|[54](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|10,407||25+|united states|
+|Adtaxi: INVESTinED|121.00 USD|[55](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|10,078||25+|united states|
+|Adtaxi: INVESTinED|111.00 USD|[56](https://www.snap.com/political-ads/asset/5ed35026df3f714291e81fe340962e9162447854b0c7ace4a9d31c9e0da1d95b?mediaType=jpg)|9,194||25+|united states|
+|Adtaxi: INVESTinED|147.00 USD|[57](https://www.snap.com/political-ads/asset/3571fbdaa97d37873b33d1415604064096990c33159c6ecba12024621e1f0ab3?mediaType=jpg)|8,037||25+|united states|
+|Adtaxi: INVESTinED|93.00 USD|[58](https://www.snap.com/political-ads/asset/844c6e5d706cec738c386b849227850b81f9481dbfd58bc6f115cc5277d38e5e?mediaType=mp4)|7,369||25+|united states|
+|Adtaxi: INVESTinED|75.00 USD|[59](https://www.snap.com/political-ads/asset/9b52125e5b60c600399d5d42ef7fd77e2096cb5f3f32f9021e31bd8a267db705?mediaType=mp4)|5,179||25+|united states|
+|Adtaxi: INVESTinED|68.00 USD|[60](https://www.snap.com/political-ads/asset/45e7ca3d895792ce38ce09f19ff278c0d28aa66823cfd9517ce8b229369af959?mediaType=jpg)|4,982||25+|united states|
+|Adtaxi: INVESTinED|83.00 USD|[61](https://www.snap.com/political-ads/asset/e57078a58a752ce5593ae42c7830a787f1ed4d08495551c95f82890c9dcc5f54?mediaType=jpg)|3,417||25+|united states|
+|Adtaxi: INVESTinED|32.00 USD|[62](https://www.snap.com/political-ads/asset/bcd4492a42fc25d13bc1d74ae866e53393b181da5e2b098e282e39a1fd3db86c?mediaType=jpg)|2,444||25+|united states|
+|Adtaxi: INVESTinED|45.00 USD|[63](https://www.snap.com/political-ads/asset/b015df1db1845b75a6337c6a70a9b2ad0993f1e3e38b7ba48270313bc3c12edc?mediaType=jpg)|1,824||25+|united states|

@@ -1,7 +1,7 @@
 ## 2023 - Michigan Voices 
-**Spent**: 382.00
+**Spent**: 386.00
 
-**Impressions**: 40,775
+**Impressions**: 40,979
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
@@ -44,8 +44,9 @@
 |Chong and Koster|5.00 USD|[34](https://www.snap.com/political-ads/asset/44bf1ab11a11b1b95ad0032c61cf731648a7292d9cb1460adf38e921de314ac2?mediaType=mp4)|325||18+|united states|
 |Chong and Koster|5.00 USD|[35](https://www.snap.com/political-ads/asset/f48c5edbb83244361d020836fa3b00f711da11b5d787878da9711751e51b67f6?mediaType=mp4)|308||18+|united states|
 |Chong and Koster|5.00 USD|[36](https://www.snap.com/political-ads/asset/c32f626edb56a5f9149d9a2e6bde7831d946cdb2126997507d07e96b57df7940?mediaType=mp4)|220||18+|united states|
-|Chong and Koster|4.00 USD|[37](https://www.snap.com/political-ads/asset/85dcace86b215478aa5501fe24ee408dc9396d4867a9b4617558b976b8ec0a65?mediaType=mp4)|173||18+|united states|
-|Chong and Koster|2.00 USD|[38](https://www.snap.com/political-ads/asset/44bf1ab11a11b1b95ad0032c61cf731648a7292d9cb1460adf38e921de314ac2?mediaType=mp4)|146||18+|united states|
-|Chong and Koster|3.00 USD|[39](https://www.snap.com/political-ads/asset/44bf1ab11a11b1b95ad0032c61cf731648a7292d9cb1460adf38e921de314ac2?mediaType=mp4)|133||18+|united states|
-|Chong and Koster|2.00 USD|[40](https://www.snap.com/political-ads/asset/e7cb4df02bdb538696e0911edadba78b50f7996d28860bfabda5317139caf6a6?mediaType=mp4)|118||18+|united states|
-|Chong and Koster|0.00 USD|[41](https://www.snap.com/political-ads/asset/eee5f3065cf8bb6154f08f4edcf4639447c3588c4cff55c1dc143096d9cdc638?mediaType=mp4)|28||18+|united states|
+|Chong and Koster|4.00 USD|[37](https://www.snap.com/political-ads/asset/86bb39470cf7c3a3666dd126e683cd2525d043fbe905ce0dc4a41cf0e13194ee?mediaType=mp4)|204||18+|united states|
+|Chong and Koster|4.00 USD|[38](https://www.snap.com/political-ads/asset/85dcace86b215478aa5501fe24ee408dc9396d4867a9b4617558b976b8ec0a65?mediaType=mp4)|173||18+|united states|
+|Chong and Koster|2.00 USD|[39](https://www.snap.com/political-ads/asset/44bf1ab11a11b1b95ad0032c61cf731648a7292d9cb1460adf38e921de314ac2?mediaType=mp4)|146||18+|united states|
+|Chong and Koster|3.00 USD|[40](https://www.snap.com/political-ads/asset/44bf1ab11a11b1b95ad0032c61cf731648a7292d9cb1460adf38e921de314ac2?mediaType=mp4)|133||18+|united states|
+|Chong and Koster|2.00 USD|[41](https://www.snap.com/political-ads/asset/e7cb4df02bdb538696e0911edadba78b50f7996d28860bfabda5317139caf6a6?mediaType=mp4)|118||18+|united states|
+|Chong and Koster|0.00 USD|[42](https://www.snap.com/political-ads/asset/eee5f3065cf8bb6154f08f4edcf4639447c3588c4cff55c1dc143096d9cdc638?mediaType=mp4)|28||18+|united states|
