@@ -1,11 +1,13 @@
 ## 2024 - Scholten for Congress 
-**Spent**: 2,918.00
+**Spent**: 3,716.00
 
-**Impressions**: 137,046
+**Impressions**: 170,972
 
 **Billing Addresses**: 1220 19th Street NW,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Blueprint Interactive: Hillary Scholten|1,558.00 USD|[0](https://www.snap.com/political-ads/asset/b19aac11a81fc3d92bb4e9e7381b22f0e3f9ec06b30de854d52bd8e78eba8329?mediaType=mp4)|73,324||18-35|united states|
-|Blueprint Interactive: Hillary Scholten|1,360.00 USD|[1](https://www.snap.com/political-ads/asset/41524849818a6e3a470f88a150691efb2cfe21b600a26a7a4759cb7a50f166ca?mediaType=mp4)|63,722||18-35|united states|
+|Blueprint Interactive: Hillary Scholten|1,801.00 USD|[0](https://www.snap.com/political-ads/asset/b19aac11a81fc3d92bb4e9e7381b22f0e3f9ec06b30de854d52bd8e78eba8329?mediaType=mp4)|82,358||18-35|united states|
+|Blueprint Interactive: Hillary Scholten|1,468.00 USD|[1](https://www.snap.com/political-ads/asset/41524849818a6e3a470f88a150691efb2cfe21b600a26a7a4759cb7a50f166ca?mediaType=mp4)|68,251||18-35|united states|
+|Blueprint Interactive: Hillary Scholten|233.00 USD|[2](https://www.snap.com/political-ads/asset/bf49e5adc43c2b73df3f924e18c02d3f2f64e40f7083339fb96ce71a2963d3d8?mediaType=mp4)|10,784||18-35|united states|
+|Blueprint Interactive: Hillary Scholten|214.00 USD|[3](https://www.snap.com/political-ads/asset/715c7ef1851426d7d49e2def7c9fa82840c4a6f99f9dc6a401a23e6be0e211e2?mediaType=mp4)|9,579||18-35|united states|
