@@ -1,16 +1,16 @@
 ## 2024 - Iowa Public Health Association 
-**Spent**: 170.00
+**Spent**: 277.00
 
-**Impressions**: 4,210
+**Impressions**: 7,064
 
 **Billing Addresses**: 6711 Chancellor Dr.,Cedar Falls,50613,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Amperage Marketing & Fundraising: Raise Our Hands|84.00 USD|[0](https://www.snap.com/political-ads/asset/d49aa343d1ea28eb8cc0295949f1132cffcbdf06c12546cf9f175d01465e328e?mediaType=jpg)|1,979||18+|united states|
-|Amperage Marketing & Fundraising: Raise Our Hands|49.00 USD|[1](https://www.snap.com/political-ads/asset/95476206e53020628e96eb83fcf181073256780b60e6841a674511d7a53fd6e3?mediaType=jpg)|976||18+|united states|
-|Amperage Marketing & Fundraising: Raise Our Hands|22.00 USD|[2](https://www.snap.com/political-ads/asset/6c2d934efef745e08502a2f1f9905a6cef355127b2a750743001a0fe993d00fe?mediaType=jpg)|654||18+|united states|
-|Amperage Marketing & Fundraising: Raise Our Hands|15.00 USD|[3](https://www.snap.com/political-ads/asset/1d32e7baa959fcf4962e216e94699d4f0986ef79365bed6664cf1bd0099c0219?mediaType=jpg)|473||18+|united states|
+|Amperage Marketing & Fundraising: Raise Our Hands|138.00 USD|[0](https://www.snap.com/political-ads/asset/d49aa343d1ea28eb8cc0295949f1132cffcbdf06c12546cf9f175d01465e328e?mediaType=jpg)|3,531||18+|united states|
+|Amperage Marketing & Fundraising: Raise Our Hands|63.00 USD|[1](https://www.snap.com/political-ads/asset/95476206e53020628e96eb83fcf181073256780b60e6841a674511d7a53fd6e3?mediaType=jpg)|1,457||18+|united states|
+|Amperage Marketing & Fundraising: Raise Our Hands|50.00 USD|[2](https://www.snap.com/political-ads/asset/6c2d934efef745e08502a2f1f9905a6cef355127b2a750743001a0fe993d00fe?mediaType=jpg)|1,136||18+|united states|
+|Amperage Marketing & Fundraising: Raise Our Hands|26.00 USD|[3](https://www.snap.com/political-ads/asset/1d32e7baa959fcf4962e216e94699d4f0986ef79365bed6664cf1bd0099c0219?mediaType=jpg)|812||18+|united states|
 |Amperage Marketing & Fundraising: Raise Our Hands|0.00 USD|[4](https://www.snap.com/political-ads/asset/d797ae312e0a486618b794950df758dafb41ca02ce75884964cf6a2d78c45737?mediaType=jpg)|31||18+|united states|
 |Amperage Marketing & Fundraising: Raise Our Hands|0.00 USD|[5](https://www.snap.com/political-ads/asset/cc32a8b215b0e809574b6e87dda1aa12c2f9e9ad5267028deafdd2454c02fcf5?mediaType=jpg)|28||18+|united states|
 |Amperage Marketing & Fundraising: Raise Our Hands|0.00 USD|[6](https://www.snap.com/political-ads/asset/d94801bab58ae67c65fbbc678478b12613b6c2af09921f3c910baba752ecc6de?mediaType=jpg)|28||18+|united states|

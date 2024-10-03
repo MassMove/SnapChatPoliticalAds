@@ -3,16 +3,16 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
-|[Pela](Pela.md) - Open Mind Developments Corporation Inc.|45,625.00 USD|49,203,807|||canada, united states|
+|[Pela](Pela.md) - Open Mind Developments Corporation Inc.|45,547.00 USD|49,160,811|||canada, united states|
 |[Gouvernement du Canada](Gouvernement_du_Canada.md) - Cossette Media Inc|124,115.00 CAD|48,643,887||18-, 18-24, 18-34|canada|
 |[PHD Canada](PHD_Canada.md) - PHD Canada|83,797.00 CAD|41,885,554||19-34|canada|
 |[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
@@ -24,7 +24,7 @@
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
 |[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
-|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
+|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,641.00 USD|21,203,137||18+|united states|
 |[Carat France](Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 |[OBOS](OBOS.md) - Red Media AS|31,722.00 USD|17,960,616|FEMALE|18+, 20+|norway|
 |[The North Face](The_North_Face.md) - The North Face|28,953.00 USD|16,960,546||16-34|united states|
@@ -35,10 +35,10 @@
 |[Élections Canada](Élections_Canada.md) - Cossette Media Inc|20,717.00 CAD|13,324,087||18+|canada|
 |[UK Home Office](UK_Home_Office.md) - Manning Gottlieb OMD - OmniGOV|16,405.00 GBP|13,252,062|MALE|18-24|united kingdom|
 |[CDPHE](CDPHE.md) - Amélie Company|32,795.00 USD|12,240,003|FEMALE|15-24, 16-, 17-, 18-, 18+, 20-, 21-, 21-34, 21+, 25-34, 34-|united states|
-|[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|46,941.00 EUR|11,396,136||17+, 18+|norway|
 |[Action Canada SHR](Action_Canada_SHR.md) - Point Blank Creative|17,090.00 CAD|11,008,850|FEMALE, MALE|16-19, 20-23|canada|
 |[NY State of Health](NY_State_of_Health.md) - OpAD Media|42,452.00 USD|10,657,396||18-34|united states|
 |[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|42,484.00 USD|9,830,879||17+, 18+|united states|
+|[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|40,179.00 EUR|9,220,294||17+, 18+|norway|
 |[SOAPPS](SOAPPS.md) - AGENCE NATIONALE DE PREVENTION ET DE FORMATION (ANPF)|4,706.00 EUR|9,162,404||23-33|france|
 |[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|14,000.00 EUR|8,973,546||18-25, 26-34, 35++|norway|
@@ -83,7 +83,7 @@
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|
@@ -91,7 +91,6 @@
 |[Amazon Rainforest Conservancy](Amazon_Rainforest_Conservancy.md) - Reprise|6,499.00 CAD|3,089,714||18+|canada|
 |[Cannabis Control Commission](Cannabis_Control_Commission.md) - MORE Advertising|10,212.00 USD|3,068,244||21+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|31,688.00 GBP|3,051,473||18+|united kingdom|
-|[Norges Røde Kors](Norges_Røde_Kors.md) - Mindshare Norway AS|3,865.00 EUR|3,046,068||17-20, 18-20, 20+, 25+|norway|
 |[ACRONYM](ACRONYM.md) - ACRONYM: Get out the vote, Register to Vote|18,894.00 USD|3,008,464||18+|united states|
 |[Bundespolizei](Bundespolizei.md) - iProspect GmbH|4,399.00 EUR|2,993,890||18-25|germany|
 |[Conservation Colorado](Conservation_Colorado.md) - Blueprint Interactive|10,028.00 USD|2,954,571|FEMALE|18+|united states|
@@ -99,6 +98,7 @@
 |[Proud Right Winger](Proud_Right_Winger.md) - MP Mariam|2,928.00 USD|2,856,607||18+|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|9,999.00 USD|2,731,236|||united states|
 |[Make It Legal Florida](Make_It_Legal_Florida.md) - Make It Legal Florida: Make It Legal Florida|3,055.00 USD|2,729,241||21+|united states|
+|[Norges Røde Kors](Norges_Røde_Kors.md) - Mindshare Norway AS|3,147.00 EUR|2,686,753||17-20, 18-20, 20+, 25+|norway|
 |[Canadian Wildlife Federation](Canadian_Wildlife_Federation.md) - Canadian Wildlife Federation|2,954.00 CAD|2,649,126|MALE|18-30, 18-34, 18-35|canada|
 |[MO Dept. of Social Services](MO_Dept._of_Social_Services.md) - Bucket Media Inc.|7,208.00 USD|2,641,756|FEMALE|16-24|united states|
 |[NYC Board of Elections](NYC_Board_of_Elections.md) - Miller Advertising Agency  Inc.: Early Voting|8,500.00 USD|2,637,803||18+|united states|
@@ -186,7 +186,7 @@
 |[Region Örebro Län](Region_Örebro_Län.md) - Jobtip|435.00 GBP|495,919||18-22|sweden|
 |[Bella Women's Center](Bella_Women's_Center.md) - Bella Women's Center: Bella Womens Center|1,212.00 USD|487,634|||united states|
 |[Tiina Heikkisen vaalitukiryhmä](Tiina_Heikkisen_vaalitukiryhmä.md) - Tiina2019|800.00 EUR|469,676||18+|finland|
-|[Abdullah Ahmad Alkandari](Abdullah_Ahmad_Alkandari.md) - Greetings|846.00 USD|464,669||21+|kuwait|
+|[Abdullah Ahmad Alkandari](Abdullah_Ahmad_Alkandari.md) - Greetings|846.00 USD|464,549||21+|kuwait|
 |[Statens Legemiddelverk](Statens_Legemiddelverk.md) - Innsikt - Eniro Norge AS|2,025.00 USD|455,132||35++|norway|
 |[Friends of Sid Ruckriegel](Friends_of_Sid_Ruckriegel.md) - Central States Media|1,169.00 USD|451,423||21+, 25+|united states|
 |[khaled aayed alanezi](khaled_aayed_alanezi.md) - Flater_q8|259.00 USD|441,760||20+, 21+|kuwait|

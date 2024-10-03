@@ -1,7 +1,7 @@
 ## 2019 - Pela 
-**Spent**: 45,625.00
+**Spent**: 45,547.00
 
-**Impressions**: 49,203,807
+**Impressions**: 49,160,811
 
 **Billing Addresses**: 604-460 Doyle Ave,Kelowna,V1Y0C2,CA
 
@@ -26,5 +26,4 @@
 |Open Mind Developments Corporation Inc.|159.00 USD|[16](https://www.snap.com/political-ads/asset/cd4f9c450e97a71310f04e652d7e2922dfa8b78a8f02ddb8bcfeb358d5994bbf?mediaType=mp4)|109,390|||united states|
 |Open Mind Developments Corporation Inc.|104.00 USD|[17](https://www.snap.com/political-ads/asset/69745f141ea9f43787bb7d0cac662a43b9cafae808944881f26c2bb99b66cef8?mediaType=mp4)|88,414|||united states|
 |Open Mind Developments Corporation Inc.|254.00 USD|[18](https://www.snap.com/political-ads/asset/aed1e0f84cdfe6bb8dab8f453d1ae6bfb0fd8fab12fb4bfbebfe529537134993?mediaType=mp4)|55,798|||canada|
-|Open Mind Developments Corporation Inc.|78.00 USD|[19](https://www.snap.com/political-ads/asset/0fc0ccde52fe085261c3286b1e24629056b9084f8e146ee41026ccb853c25eb8?mediaType=mp4)|42,996|||united states|
-|Open Mind Developments Corporation Inc.|46.00 USD|[20](https://www.snap.com/political-ads/asset/cd4f9c450e97a71310f04e652d7e2922dfa8b78a8f02ddb8bcfeb358d5994bbf?mediaType=mp4)|26,034|||united states|
+|Open Mind Developments Corporation Inc.|46.00 USD|[19](https://www.snap.com/political-ads/asset/cd4f9c450e97a71310f04e652d7e2922dfa8b78a8f02ddb8bcfeb358d5994bbf?mediaType=mp4)|26,034|||united states|

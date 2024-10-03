@@ -1,7 +1,7 @@
 ## 2024 - New York City Campaign Finance B 
-**Spent**: 50,435.00
+**Spent**: 54,326.00
 
-**Impressions**: 6,459,935
+**Impressions**: 6,948,120
 
 **Billing Addresses**: US
 
@@ -14,3 +14,5 @@
 |DSPolitical: NYC Votes|5,219.00 USD|[4](https://www.snap.com/political-ads/asset/54052e6a8153f25a32b8733e69ab92bab234f9115d272b6109be2edae13d861f?mediaType=png)|464,994||18-35|united states|
 |DSPolitical: NYC Votes|4,374.00 USD|[5](https://www.snap.com/political-ads/asset/b83ccb58ec6c29b310992dded45446842517c3d6ee6865afa3e1d0546f4cf430?mediaType=mp4)|393,859||18-35|united states|
 |DSPolitical|3,133.00 USD|[6](https://www.snap.com/political-ads/asset/4b1fdd4fd4b3edbd67f0680b64cdf4d7bd708959bd888e9678e2e025ce0d081c?mediaType=mp4)|284,888||18+|united states|
+|DSPolitical|2,069.00 USD|[7](https://www.snap.com/political-ads/asset/7a0cf285fd84eda91654c636fdd1ac9596abbaba7d698eb7815759032bc2eddd?mediaType=mp4)|259,636||18-35|united states|
+|DSPolitical|1,822.00 USD|[8](https://www.snap.com/political-ads/asset/5546f85be1c5f5b01b436e445359a551df8d2d8eb5dbbae2c9183c91631d4abf?mediaType=jpg)|228,549||18-35|united states|

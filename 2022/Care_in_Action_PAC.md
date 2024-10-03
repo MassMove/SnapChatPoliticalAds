@@ -1,7 +1,7 @@
 ## 2022 - Care in Action PAC 
-**Spent**: 14,014.00
+**Spent**: 13,973.00
 
-**Impressions**: 791,202
+**Impressions**: 788,519
 
 **Billing Addresses**: US
 
@@ -67,15 +67,14 @@
 |Van Ness Creative Strategies LLC: Care workers|82.00 USD|[57](https://www.snap.com/political-ads/asset/d78581a019adba181ae0d01a0f8623c1d76b075bb4a54236f67fbf85cf13a974?mediaType=mp4)|3,451|FEMALE|18+|united states|
 |Van Ness Creative Strategies LLC: Care workers|70.00 USD|[58](https://www.snap.com/political-ads/asset/7dfe059cf89f96744fb6f9b5bd368c2bfeb686596e7ac0a480b251da49c49d7c?mediaType=mp4)|3,300|FEMALE|18+|united states|
 |Van Ness Creative Strategies LLC: Care workers|59.00 USD|[59](https://www.snap.com/political-ads/asset/bd5d6bb5163d2c7f7cfa46403b552538f4d319ef64b37f665e3476d1c2ad6aee?mediaType=mp4)|3,200|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|41.00 USD|[60](https://www.snap.com/political-ads/asset/b4bf43b3ac5de1905d0519d4f3063eef6ec1bb59342343837d690faf150f1dc3?mediaType=mp4)|2,683|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|79.00 USD|[61](https://www.snap.com/political-ads/asset/8ed5f774804cfe47f51c4d960a3a3fe26027cee764de4f8ab0b987bf3aa2293b?mediaType=mp4)|2,524|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|34.00 USD|[62](https://www.snap.com/political-ads/asset/5175a0ca7ab25bdaffb4c7df06c0cc989573f54ce0a6f4e9a9e64d9d51eb5cb3?mediaType=mp4)|2,301|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|31.00 USD|[63](https://www.snap.com/political-ads/asset/83f88e610421192157d9f8985df9b9886f98637db81457e088c97efa4f22b26d?mediaType=mp4)|2,058|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|45.00 USD|[64](https://www.snap.com/political-ads/asset/7dfe059cf89f96744fb6f9b5bd368c2bfeb686596e7ac0a480b251da49c49d7c?mediaType=mp4)|1,913|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|31.00 USD|[65](https://www.snap.com/political-ads/asset/b926a4fef10067eb1587fed0d99cf641c380b9ed82bcc19daa8dc41e32e8582d?mediaType=mp4)|1,522|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|20.00 USD|[66](https://www.snap.com/political-ads/asset/32868a843877c115297168d74fe7ccf98d5c837d2cd19cd139f1e92823336c22?mediaType=mp4)|1,482|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|20.00 USD|[67](https://www.snap.com/political-ads/asset/d84cd835e917a0fed7e413adc72d73e3c074910fa0b55ee7f5aece8a72866c2f?mediaType=mp4)|994|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|12.00 USD|[68](https://www.snap.com/political-ads/asset/d78581a019adba181ae0d01a0f8623c1d76b075bb4a54236f67fbf85cf13a974?mediaType=mp4)|805|FEMALE|18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|9.00 USD|[69](https://www.snap.com/political-ads/asset/79f034c28b357d4b9190f97bd56002ce3ef450cbf65935e194ab13d7eee6599e?mediaType=mp4)|314||18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|5.00 USD|[70](https://www.snap.com/political-ads/asset/aea9c9bc5af81e7f3d2b8e7c49ef8f21971d669eef591c654bf4c22a2e2e5bc0?mediaType=mp4)|274||18+|united states|
-|Van Ness Creative Strategies LLC: Care workers|4.00 USD|[71](https://www.snap.com/political-ads/asset/8ed5f774804cfe47f51c4d960a3a3fe26027cee764de4f8ab0b987bf3aa2293b?mediaType=mp4)|263||18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|79.00 USD|[60](https://www.snap.com/political-ads/asset/8ed5f774804cfe47f51c4d960a3a3fe26027cee764de4f8ab0b987bf3aa2293b?mediaType=mp4)|2,524|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|34.00 USD|[61](https://www.snap.com/political-ads/asset/5175a0ca7ab25bdaffb4c7df06c0cc989573f54ce0a6f4e9a9e64d9d51eb5cb3?mediaType=mp4)|2,301|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|31.00 USD|[62](https://www.snap.com/political-ads/asset/83f88e610421192157d9f8985df9b9886f98637db81457e088c97efa4f22b26d?mediaType=mp4)|2,058|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|45.00 USD|[63](https://www.snap.com/political-ads/asset/7dfe059cf89f96744fb6f9b5bd368c2bfeb686596e7ac0a480b251da49c49d7c?mediaType=mp4)|1,913|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|31.00 USD|[64](https://www.snap.com/political-ads/asset/b926a4fef10067eb1587fed0d99cf641c380b9ed82bcc19daa8dc41e32e8582d?mediaType=mp4)|1,522|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|20.00 USD|[65](https://www.snap.com/political-ads/asset/32868a843877c115297168d74fe7ccf98d5c837d2cd19cd139f1e92823336c22?mediaType=mp4)|1,482|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|20.00 USD|[66](https://www.snap.com/political-ads/asset/d84cd835e917a0fed7e413adc72d73e3c074910fa0b55ee7f5aece8a72866c2f?mediaType=mp4)|994|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|12.00 USD|[67](https://www.snap.com/political-ads/asset/d78581a019adba181ae0d01a0f8623c1d76b075bb4a54236f67fbf85cf13a974?mediaType=mp4)|805|FEMALE|18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|9.00 USD|[68](https://www.snap.com/political-ads/asset/79f034c28b357d4b9190f97bd56002ce3ef450cbf65935e194ab13d7eee6599e?mediaType=mp4)|314||18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|5.00 USD|[69](https://www.snap.com/political-ads/asset/aea9c9bc5af81e7f3d2b8e7c49ef8f21971d669eef591c654bf4c22a2e2e5bc0?mediaType=mp4)|274||18+|united states|
+|Van Ness Creative Strategies LLC: Care workers|4.00 USD|[70](https://www.snap.com/political-ads/asset/8ed5f774804cfe47f51c4d960a3a3fe26027cee764de4f8ab0b987bf3aa2293b?mediaType=mp4)|263||18+|united states|

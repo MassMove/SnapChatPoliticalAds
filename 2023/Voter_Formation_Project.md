@@ -1,7 +1,7 @@
 ## 2023 - Voter Formation Project 
-**Spent**: 4,929.00
+**Spent**: 4,914.00
 
-**Impressions**: 429,289
+**Impressions**: 427,870
 
 **Billing Addresses**: 712 H St NE PMB 41,Washington,20002,US
 
@@ -48,8 +48,7 @@
 |Voter Formation Project|19.00 USD|[38](https://www.snap.com/political-ads/asset/b902168ca7d479cfd9c9d1c327ff81ff81bfbe3fbca8b1586e69d607f5d4a3ed?mediaType=png)|2,067||18+|united states|
 |Voter Formation Project|17.00 USD|[39](https://www.snap.com/political-ads/asset/e59abe28bb63835ddf4b21df0cdfca1d56c66fb4fd069a52262bd386a625d36f?mediaType=png)|1,931||18+|united states|
 |Voter Formation Project|16.00 USD|[40](https://www.snap.com/political-ads/asset/66e41b74c4294af93efefbf45fdfc61309c9660d301601b92548368de72c6569?mediaType=jpeg)|1,515||18+|united states|
-|Voter Formation Project|15.00 USD|[41](https://www.snap.com/political-ads/asset/3731838863d0795db67322367da9036facf04ab886e63a9652c31aa8001008ad?mediaType=png)|1,419||18+|united states|
-|Voter Formation Project|10.00 USD|[42](https://www.snap.com/political-ads/asset/63f258ee7e768b4fe08251b06301b2aef955d0f790e65eda0b42c4ea1410933a?mediaType=jpeg)|983||18+|united states|
-|Voter Formation Project|7.00 USD|[43](https://www.snap.com/political-ads/asset/1a2a7b0c9acb39b230c0440f9b9229102096978101d6c5e4cac8ec992ca96eea?mediaType=png)|644||18+|united states|
-|Voter Formation Project|5.00 USD|[44](https://www.snap.com/political-ads/asset/2f610d3b973ebfc41fd19befdfb01673147476a0a5ca16d5ccae5926133e2d54?mediaType=png)|472||18+|united states|
-|Voter Formation Project|4.00 USD|[45](https://www.snap.com/political-ads/asset/00b11e9d445fd52fe13c77a934ab852aede8974374b2d76e7aa203073712d93d?mediaType=png)|371||18+|united states|
+|Voter Formation Project|10.00 USD|[41](https://www.snap.com/political-ads/asset/63f258ee7e768b4fe08251b06301b2aef955d0f790e65eda0b42c4ea1410933a?mediaType=jpeg)|983||18+|united states|
+|Voter Formation Project|7.00 USD|[42](https://www.snap.com/political-ads/asset/1a2a7b0c9acb39b230c0440f9b9229102096978101d6c5e4cac8ec992ca96eea?mediaType=png)|644||18+|united states|
+|Voter Formation Project|5.00 USD|[43](https://www.snap.com/political-ads/asset/2f610d3b973ebfc41fd19befdfb01673147476a0a5ca16d5ccae5926133e2d54?mediaType=png)|472||18+|united states|
+|Voter Formation Project|4.00 USD|[44](https://www.snap.com/political-ads/asset/00b11e9d445fd52fe13c77a934ab852aede8974374b2d76e7aa203073712d93d?mediaType=png)|371||18+|united states|
