@@ -1,7 +1,7 @@
 ## 2020 - Healthy Voting 
-**Spent**: 201,490.00
+**Spent**: 194,841.00
 
-**Impressions**: 52,147,794
+**Impressions**: 51,637,551
 
 **Billing Addresses**: 8207 Taunton Pl,West Springfield,22152,US
 
@@ -29,14 +29,13 @@
 |Panowatch  LLC: Healthy Voting|9,097.00 USD|[19](https://www.snap.com/political-ads/asset/4b801fa5009f1d2e25bc160a6cf15d223a8a14d0ed24f073e414cd861a9d506d?mediaType=mp4)|726,047||18+|united states|
 |Panowatch  LLC: Healthy Voting|7,384.00 USD|[20](https://www.snap.com/political-ads/asset/e8a8bdcfaccd9a2cb474fc5c9e2f2326c132832c8195e0ba9aab251f0f4578c5?mediaType=mp4)|583,292||18+|united states|
 |Panowatch  LLC: Healthy Voting|6,421.00 USD|[21](https://www.snap.com/political-ads/asset/ecbbbcb725d1eb72b6ab2d39e29c90591ec5f8d45803e53a652ba637f0bbf816?mediaType=mp4)|514,459||18+|united states|
-|Panowatch  LLC: Healthy Voting|6,649.00 USD|[22](https://www.snap.com/political-ads/asset/571597e46fc05b2006eb500e6cebb4a5de48de24933add79bf52446ccef01bec?mediaType=mp4)|510,243||18+|united states|
-|Panowatch  LLC: Healthy Voting|6,161.00 USD|[23](https://www.snap.com/political-ads/asset/496a7fc6e095a15b75258c525ff92fe99afd9c1a62ce33bd241dbd9aac557b40?mediaType=mp4)|489,747||18+|united states|
-|Panowatch  LLC: Healthy Voting|6,249.00 USD|[24](https://www.snap.com/political-ads/asset/68993006e2eaf4bc354ce984129d5be89b22051c13acad3a8220aa8f5f705cbc?mediaType=mp4)|456,259||18+|united states|
-|Panowatch  LLC: Healthy Voting|5,865.00 USD|[25](https://www.snap.com/political-ads/asset/dd43c5ad8727c34a3c0bb81a71af1f7278c37d17fb2d782f47fb7a958a170eba?mediaType=mp4)|442,351||18+|united states|
-|Panowatch  LLC: Healthy Voting|4,771.00 USD|[26](https://www.snap.com/political-ads/asset/6042bceea45d0f5a883647308097f21ba95082c9f6bfaf83ce1faa779a77d4ce?mediaType=mp4)|387,793||18+|united states|
-|Panowatch  LLC: Healthy Voting|4,974.00 USD|[27](https://www.snap.com/political-ads/asset/fac090cfce7eedb73446c32682b3cb8f95d6684800733b94b4d3a18825c8dafe?mediaType=mp4)|382,338||18+|united states|
-|Panowatch  LLC: Healthy Voting|4,993.00 USD|[28](https://www.snap.com/political-ads/asset/2f0a7db333616a3b493e26d89fb107a24d61eabdb845c7cd7226a3bc9613f55a?mediaType=mp4)|368,107||18+|united states|
-|Panowatch  LLC: Healthy Voting|3,908.00 USD|[29](https://www.snap.com/political-ads/asset/addb56bf39abf92810bb0a330198b5cac4dbdf0c01a59f54df6194599151532e?mediaType=mp4)|313,505||18+|united states|
-|Panowatch  LLC: Healthy Voting|3,392.00 USD|[30](https://www.snap.com/political-ads/asset/8d83575f4d0c1092512f056773274abf1925fe60ee75ecfc1c86cbb508632f1e?mediaType=mp4)|261,085||18+|united states|
-|Panowatch  LLC: Healthy Voting|3,430.00 USD|[31](https://www.snap.com/political-ads/asset/7bd7fed9a9cb7149e63689e8b17c24c7934be8da5864fc00636d9ed231a31c00?mediaType=mp4)|255,143||18+|united states|
-|Panowatch  LLC: Healthy Voting|2,217.00 USD|[32](https://www.snap.com/political-ads/asset/ad5fd3cb3860a3754f01acbdefd7a0f520db8d85af7eccc7c2d843a0a9ac58bf?mediaType=mp4)|175,988||18+|united states|
+|Panowatch  LLC: Healthy Voting|6,161.00 USD|[22](https://www.snap.com/political-ads/asset/496a7fc6e095a15b75258c525ff92fe99afd9c1a62ce33bd241dbd9aac557b40?mediaType=mp4)|489,747||18+|united states|
+|Panowatch  LLC: Healthy Voting|6,249.00 USD|[23](https://www.snap.com/political-ads/asset/68993006e2eaf4bc354ce984129d5be89b22051c13acad3a8220aa8f5f705cbc?mediaType=mp4)|456,259||18+|united states|
+|Panowatch  LLC: Healthy Voting|5,865.00 USD|[24](https://www.snap.com/political-ads/asset/dd43c5ad8727c34a3c0bb81a71af1f7278c37d17fb2d782f47fb7a958a170eba?mediaType=mp4)|442,351||18+|united states|
+|Panowatch  LLC: Healthy Voting|4,771.00 USD|[25](https://www.snap.com/political-ads/asset/6042bceea45d0f5a883647308097f21ba95082c9f6bfaf83ce1faa779a77d4ce?mediaType=mp4)|387,793||18+|united states|
+|Panowatch  LLC: Healthy Voting|4,974.00 USD|[26](https://www.snap.com/political-ads/asset/fac090cfce7eedb73446c32682b3cb8f95d6684800733b94b4d3a18825c8dafe?mediaType=mp4)|382,338||18+|united states|
+|Panowatch  LLC: Healthy Voting|4,993.00 USD|[27](https://www.snap.com/political-ads/asset/2f0a7db333616a3b493e26d89fb107a24d61eabdb845c7cd7226a3bc9613f55a?mediaType=mp4)|368,107||18+|united states|
+|Panowatch  LLC: Healthy Voting|3,908.00 USD|[28](https://www.snap.com/political-ads/asset/addb56bf39abf92810bb0a330198b5cac4dbdf0c01a59f54df6194599151532e?mediaType=mp4)|313,505||18+|united states|
+|Panowatch  LLC: Healthy Voting|3,392.00 USD|[29](https://www.snap.com/political-ads/asset/8d83575f4d0c1092512f056773274abf1925fe60ee75ecfc1c86cbb508632f1e?mediaType=mp4)|261,085||18+|united states|
+|Panowatch  LLC: Healthy Voting|3,430.00 USD|[30](https://www.snap.com/political-ads/asset/7bd7fed9a9cb7149e63689e8b17c24c7934be8da5864fc00636d9ed231a31c00?mediaType=mp4)|255,143||18+|united states|
+|Panowatch  LLC: Healthy Voting|2,217.00 USD|[31](https://www.snap.com/political-ads/asset/ad5fd3cb3860a3754f01acbdefd7a0f520db8d85af7eccc7c2d843a0a9ac58bf?mediaType=mp4)|175,988||18+|united states|

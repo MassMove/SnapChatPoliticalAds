@@ -1,13 +1,13 @@
 ## 2024 - Turnout Activism Inc. 
-**Spent**: 10,167.00
+**Spent**: 19,042.00
 
-**Impressions**: 1,748,606
+**Impressions**: 3,247,239
 
 **Billing Addresses**: 35 Walden St #3g,Cambridge,02140,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Turnout Activism Inc.: TurnUp Activism|8,918.00 USD|[0](https://www.snap.com/political-ads/asset/30ab7156b0f2f29de6b360b1a89e5f0df9a2aa6a6f43a87bdf6c55e8a1726acc?mediaType=mp4)|1,417,140|FEMALE|17-29|united states|
+|Turnout Activism Inc.: TurnUp Activism|17,793.00 USD|[0](https://www.snap.com/political-ads/asset/30ab7156b0f2f29de6b360b1a89e5f0df9a2aa6a6f43a87bdf6c55e8a1726acc?mediaType=mp4)|2,915,773|FEMALE|17-29|united states|
 |Turnout Activism Inc.: TurnUp Activism|400.00 USD|[1](https://www.snap.com/political-ads/asset/7ce73a68e500544e68034cc687a640ef0ffc48980eb169712a52984ae6f35369?mediaType=mp4)|115,829|FEMALE|18-29|united states|
 |Turnout Activism Inc.: TurnUp Activism|200.00 USD|[2](https://www.snap.com/political-ads/asset/a5abc8e81ded7e99714600aeb889875184338400df2bfb744376fc4696f791bf?mediaType=mp4)|57,551|FEMALE|18-29|united states|
 |Turnout Activism Inc.: TurnUp Activism|199.00 USD|[3](https://www.snap.com/political-ads/asset/285ab515bbca9d40188172449b890ee435285679998466578cc2950fae91b868?mediaType=mp4)|57,540|FEMALE|18-29|united states|
