@@ -1,7 +1,7 @@
 ## 2024 - The Center for US Voters Abroad 
-**Spent**: 7,735.00
+**Spent**: 8,391.00
 
-**Impressions**: 1,762,794
+**Impressions**: 1,795,481
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
@@ -16,8 +16,11 @@
 |Chong and Koster: Request Ballot|228.00 USD|[6](https://www.snap.com/political-ads/asset/242ba71e102c9017384edcaf013edd648bc844b09f23e465102d976c15c28971?mediaType=mp4)|41,616||18+|canada|
 |Chong and Koster: Request Ballot|229.00 USD|[7](https://www.snap.com/political-ads/asset/242ba71e102c9017384edcaf013edd648bc844b09f23e465102d976c15c28971?mediaType=mp4)|31,007||18+|canada|
 |Chong and Koster|234.00 USD|[8](https://www.snap.com/political-ads/asset/fdaa44aa3288bb46f5efc3c2df2cf87f9920b095de7afaefe7d095c50acf4c5d?mediaType=mp4)|29,729||18+|united kingdom|
-|Chong and Koster|78.00 USD|[9](https://www.snap.com/political-ads/asset/42de36f7db7206063ee7c809e37e6652874eaf0f701b9290d8c2225ec43605cb?mediaType=png)|6,291||18+|united kingdom|
-|Chong and Koster|98.00 USD|[10](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|5,980||18+|canada|
-|Chong and Koster|66.00 USD|[11](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|3,371||18+|australia|
-|Chong and Koster|37.00 USD|[12](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|1,802||18+|germany|
-|Chong and Koster|37.00 USD|[13](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|1,618||18+|france|
+|Chong and Koster|220.00 USD|[9](https://www.snap.com/political-ads/asset/42de36f7db7206063ee7c809e37e6652874eaf0f701b9290d8c2225ec43605cb?mediaType=png)|14,178||18+|united kingdom|
+|Chong and Koster|227.00 USD|[10](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|11,167||18+|canada|
+|Chong and Koster|155.00 USD|[11](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|7,722||18+|australia|
+|Chong and Koster|123.00 USD|[12](https://www.snap.com/political-ads/asset/76658ea924c29087004bbdc50d521d3412793bd5625c88751935cfb0e4927d9f?mediaType=png)|5,813||18+|canada|
+|Chong and Koster|97.00 USD|[13](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|4,376||18+|france|
+|Chong and Koster|56.00 USD|[14](https://www.snap.com/political-ads/asset/d654213a40766e24852a5cdfdbf05dd65e67a780408948326d176b3addbdc8b6?mediaType=png)|3,683||18+|united kingdom|
+|Chong and Koster|67.00 USD|[15](https://www.snap.com/political-ads/asset/310a321cc06c775a83859a2a244e2cbad508b8ea8df2b84c133fae2317b31b44?mediaType=png)|3,322||18+|germany|
+|Chong and Koster|27.00 USD|[16](https://www.snap.com/political-ads/asset/19d152f944faec4c336316365ca3d8ad28787d06b390869d0b86c08cd4ad7fb0?mediaType=png)|1,488||18+|germany|

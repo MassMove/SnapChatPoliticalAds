@@ -1,14 +1,14 @@
 ## 2024 - NARAL Pro-Choice America 
-**Spent**: 3,952.00
+**Spent**: 4,489.00
 
-**Impressions**: 379,755
+**Impressions**: 444,518
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Chong and Koster|1,116.00 USD|[0](https://www.snap.com/political-ads/asset/354003e15b78fec683e4983b06971ca8105e59d95e1b8b17714a2b0a90ad8dd9?mediaType=jpeg)|98,505||18-35|united states|
-|Chong and Koster|894.00 USD|[1](https://www.snap.com/political-ads/asset/109f6ef84705f3f5a3fe4380011f67e5a0759d55dcacc5514ec155eb88aaabe1?mediaType=jpeg)|88,701||18-35|united states|
+|Chong and Koster|1,362.00 USD|[0](https://www.snap.com/political-ads/asset/354003e15b78fec683e4983b06971ca8105e59d95e1b8b17714a2b0a90ad8dd9?mediaType=jpeg)|127,643||18-35|united states|
+|Chong and Koster|1,185.00 USD|[1](https://www.snap.com/political-ads/asset/109f6ef84705f3f5a3fe4380011f67e5a0759d55dcacc5514ec155eb88aaabe1?mediaType=jpeg)|124,326||18-35|united states|
 |Chong and Koster|336.00 USD|[2](https://www.snap.com/political-ads/asset/c0ab8322319609e59721d5f224fde1f3c1a691be1488260e3fdcd92bcb215fbb?mediaType=mp4)|35,800||18-35|united states|
 |Chong and Koster|387.00 USD|[3](https://www.snap.com/political-ads/asset/109f6ef84705f3f5a3fe4380011f67e5a0759d55dcacc5514ec155eb88aaabe1?mediaType=jpeg)|35,761||18-35|united states|
 |Chong and Koster|258.00 USD|[4](https://www.snap.com/political-ads/asset/208f9f4ce7a0d88eed46f6dd37722c945ec899b21e13c46a1eb7f38956c48bf9?mediaType=mp4)|25,869||18-35|united states|

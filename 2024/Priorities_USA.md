@@ -1,15 +1,15 @@
 ## 2024 - Priorities USA 
-**Spent**: 8,344.00
+**Spent**: 8,645.00
 
-**Impressions**: 752,376
+**Impressions**: 766,124
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Priorities USA|698.00 USD|[0](https://www.snap.com/political-ads/asset/c6a0dd40067045efd5d0297b7fdca0d54cc3af317640a1e3684bb6b953b55b81?mediaType=mp4)|97,896||18+|united states|
-|Priorities USA|1,346.00 USD|[1](https://www.snap.com/political-ads/asset/13d00f8291625205630d1840ad85a00e3e2a87f1bbcb36b194200e6f80023c49?mediaType=mp4)|86,012||18+|united states|
-|Priorities USA|1,305.00 USD|[2](https://www.snap.com/political-ads/asset/489dcf51352808b9d79859d57aab685ebd55dff63ea8717c77353ba6a2766d7f?mediaType=mp4)|84,054||18+|united states|
+|Priorities USA|1,497.00 USD|[1](https://www.snap.com/political-ads/asset/13d00f8291625205630d1840ad85a00e3e2a87f1bbcb36b194200e6f80023c49?mediaType=mp4)|92,924||18+|united states|
+|Priorities USA|1,455.00 USD|[2](https://www.snap.com/political-ads/asset/489dcf51352808b9d79859d57aab685ebd55dff63ea8717c77353ba6a2766d7f?mediaType=mp4)|90,890||18+|united states|
 |Priorities USA|772.00 USD|[3](https://www.snap.com/political-ads/asset/5a9572c8b12600230abec51696d1d5b29a51eb8e9b6d4964627bedc1f224d55d?mediaType=mp4)|74,004||18+||
 |Priorities USA|727.00 USD|[4](https://www.snap.com/political-ads/asset/7eb9bb1fbb0e98026a24b5777513c79d401e0374d252d2755a9b8c6584cd1156?mediaType=mp4)|69,545||18+||
 |Priorities USA|661.00 USD|[5](https://www.snap.com/political-ads/asset/7eb9bb1fbb0e98026a24b5777513c79d401e0374d252d2755a9b8c6584cd1156?mediaType=mp4)|61,470||18+|united states|
