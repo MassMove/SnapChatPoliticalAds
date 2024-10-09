@@ -1,7 +1,7 @@
 ## 2024 - League of Women Voters EF 
-**Spent**: 9,763.00
+**Spent**: 10,428.00
 
-**Impressions**: 623,493
+**Impressions**: 658,759
 
 **Billing Addresses**: 1233 20th ST NW,Washington,20036,US
 
@@ -22,3 +22,17 @@
 |League of Women Voter of the United States|534.00 USD|[12](https://www.snap.com/political-ads/asset/9ae84f776e99a60ea71d6ffffd93b8eb299f504ca11d718bf45d0bf4cb0515ab?mediaType=mp4)|26,316||18-24|united states|
 |League of Women Voter of the United States|383.00 USD|[13](https://www.snap.com/political-ads/asset/61ca62a21f5ea3cbf410b2f2f7dc11fa65efbd5d987bc000d121b4318e11af64?mediaType=mp4)|24,800||18-24|united states|
 |League of Women Voter of the United States|318.00 USD|[14](https://www.snap.com/political-ads/asset/18f29cb0867186585ff6b5f520ab0809228b14ef2e008195f635e05db5eb916e?mediaType=mp4)|14,610||18-24|united states|
+|League of Women Voter of the United States|59.00 USD|[15](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|3,681|FEMALE|18-34|united states|
+|League of Women Voter of the United States|68.00 USD|[16](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|3,653|FEMALE|18-34|united states|
+|League of Women Voter of the United States|51.00 USD|[17](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|3,149|FEMALE|18-34|united states|
+|League of Women Voter of the United States|50.00 USD|[18](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|2,927|FEMALE|18-34|united states|
+|League of Women Voter of the United States|56.00 USD|[19](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|2,828|FEMALE|18-34|united states|
+|League of Women Voter of the United States|53.00 USD|[20](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|2,718|FEMALE|18-34|united states|
+|League of Women Voter of the United States|42.00 USD|[21](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|2,679|FEMALE|18-34|united states|
+|League of Women Voter of the United States|41.00 USD|[22](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|2,475|FEMALE|18-34|united states|
+|League of Women Voter of the United States|47.00 USD|[23](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|2,192|FEMALE|18-34|united states|
+|League of Women Voter of the United States|41.00 USD|[24](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|2,052|FEMALE|18-34|united states|
+|League of Women Voter of the United States|27.00 USD|[25](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|1,882|FEMALE|18-34|united states|
+|League of Women Voter of the United States|33.00 USD|[26](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|1,732|FEMALE|18-34|united states|
+|League of Women Voter of the United States|43.00 USD|[27](https://www.snap.com/political-ads/asset/fa9b57d55d5b84cecd73726d11a02a001cc1505ef0e29a715ec185937f24682f?mediaType=mov)|1,684|FEMALE|18-34|united states|
+|League of Women Voter of the United States|54.00 USD|[28](https://www.snap.com/political-ads/asset/35c97bdfe724c81811f9008d2282af8259691ca1b8362e922d032156c7d37821?mediaType=mov)|1,614|FEMALE|18-34|united states|

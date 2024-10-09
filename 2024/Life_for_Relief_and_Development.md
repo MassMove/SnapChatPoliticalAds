@@ -1,18 +1,18 @@
 ## 2024 - Life for Relief and Development 
-**Spent**: 19,041.00
+**Spent**: 19,439.00
 
-**Impressions**: 3,196,675
+**Impressions**: 3,223,114
 
 **Billing Addresses**: 17300 w 10 mile rd,southfield,48075,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |NGO|319.00 USD|[0](https://www.snap.com/political-ads/asset/085b37ed75a29d9cd4287e0f29bf21d11187a47e3e95235428498e0fe311de2d?mediaType=png)|1,203,409||18+|morocco|
-|NGO|5,343.00 USD|[1](https://www.snap.com/political-ads/asset/5a35131af9e074d108193e3e1a8aa39d8aeaf509ac1015d3f9efcc32363ea0fb?mediaType=png)|393,040||18+|united states|
-|NGO|3,042.00 USD|[2](https://www.snap.com/political-ads/asset/3d88ab15f60dc29fcae2eca34716abf7db444db4a484d5f123911d213f9aa55d?mediaType=png)|225,847||18+|united states|
+|NGO|5,405.00 USD|[1](https://www.snap.com/political-ads/asset/5a35131af9e074d108193e3e1a8aa39d8aeaf509ac1015d3f9efcc32363ea0fb?mediaType=png)|397,030||18+|united states|
+|NGO|3,186.00 USD|[2](https://www.snap.com/political-ads/asset/3d88ab15f60dc29fcae2eca34716abf7db444db4a484d5f123911d213f9aa55d?mediaType=png)|233,389||18+|united states|
 |NGO|69.00 USD||217,987||20+|morocco|
-|NGO|2,204.00 USD|[4](https://www.snap.com/political-ads/asset/1f668fd7def928050e83289e8f5b47d873a06772371eaec0ced0310db374e2ce?mediaType=jpeg)|159,970||18+|united states|
-|NGO|1,314.00 USD|[5](https://www.snap.com/political-ads/asset/02815aa4a13a8dac3a93ec74a8a94470245c98dd30005f8da4b0e255f28a01cb?mediaType=jpeg)|104,289||18+|united states|
+|NGO|2,258.00 USD|[4](https://www.snap.com/political-ads/asset/1f668fd7def928050e83289e8f5b47d873a06772371eaec0ced0310db374e2ce?mediaType=jpeg)|162,820||18+|united states|
+|NGO|1,351.00 USD|[5](https://www.snap.com/political-ads/asset/02815aa4a13a8dac3a93ec74a8a94470245c98dd30005f8da4b0e255f28a01cb?mediaType=jpeg)|107,568||18+|united states|
 |NGO|18.00 USD|[6](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|87,960||21+|morocco|
 |NGO|19.00 USD|[7](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|77,658||21+|morocco|
 |NGO|648.00 USD|[8](https://www.snap.com/political-ads/asset/8b499a9c45dc5e33fbeb8d0e0b769798dc685b5ec401d1a9eed9d792c503fb5e?mediaType=mp4)|60,808||20+|united states|
@@ -25,16 +25,16 @@
 |NGO|40.00 USD|[15](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|28,104||21+|france|
 |NGO|331.00 USD|[16](https://www.snap.com/political-ads/asset/02815aa4a13a8dac3a93ec74a8a94470245c98dd30005f8da4b0e255f28a01cb?mediaType=jpeg)|24,488||18+|united states|
 |NGO|214.00 USD|[17](https://www.snap.com/political-ads/asset/ce15dfb0dbbb4e2ca99ff4bba8bcf50da7cc1001abf1f2d5ba516cc256f1470a?mediaType=png)|22,973||20+|united states|
-|NGO|38.00 USD|[18](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|21,160||21+|france|
-|NGO|315.00 USD|[19](https://www.snap.com/political-ads/asset/4bbc8ed3bef2c24ba011e5d871e53b400cafa518b5197be46df68b5f0ede4ee7?mediaType=jpeg)|20,899||20+|united states|
+|NGO|335.00 USD|[18](https://www.snap.com/political-ads/asset/4bbc8ed3bef2c24ba011e5d871e53b400cafa518b5197be46df68b5f0ede4ee7?mediaType=jpeg)|22,013||20+|united states|
+|NGO|38.00 USD|[19](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|21,160||21+|france|
 |NGO|174.00 USD|[20](https://www.snap.com/political-ads/asset/ce15dfb0dbbb4e2ca99ff4bba8bcf50da7cc1001abf1f2d5ba516cc256f1470a?mediaType=png)|20,189||18+|united states|
 |NGO|35.00 USD|[21](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|17,391||21+|france|
 |NGO|28.00 USD|[22](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|16,229||21+|france|
 |NGO|133.00 USD|[23](https://www.snap.com/political-ads/asset/085b37ed75a29d9cd4287e0f29bf21d11187a47e3e95235428498e0fe311de2d?mediaType=png)|15,376||18+|united arab emirates|
 |NGO|135.00 USD|[24](https://www.snap.com/political-ads/asset/56cde70f9286d3ef0155d274b4a8ccb3388d222788f8f5c9878dc444fea51626?mediaType=png)|15,338||18+|united states|
-|NGO|21.00 USD|[25](https://www.snap.com/political-ads/asset/1a89fc9425c4b8263f6d2a8f9b96c00c5675ac95250acd31ba9ef244d7fd1435?mediaType=png)|12,880||21+|france|
-|NGO|3.00 USD|[26](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|12,799||21+|morocco|
-|NGO|170.00 USD|[27](https://www.snap.com/political-ads/asset/fac3ef15b1d1ae5fe41eeb7879178e2bb25fb6c79d91d2277d858843ad09bc7e?mediaType=jpeg)|12,450||20+|united states|
+|NGO|198.00 USD|[25](https://www.snap.com/political-ads/asset/fac3ef15b1d1ae5fe41eeb7879178e2bb25fb6c79d91d2277d858843ad09bc7e?mediaType=jpeg)|14,952||20+|united states|
+|NGO|21.00 USD|[26](https://www.snap.com/political-ads/asset/1a89fc9425c4b8263f6d2a8f9b96c00c5675ac95250acd31ba9ef244d7fd1435?mediaType=png)|12,880||21+|france|
+|NGO|3.00 USD|[27](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|12,799||21+|morocco|
 |NGO|111.00 USD|[28](https://www.snap.com/political-ads/asset/036ab46fbbd1f93dbee8425516e93e4b78a4119ca246ae256a3e1f4e26b1212b?mediaType=png)|12,189||20+|united states|
 |NGO|120.00 USD|[29](https://www.snap.com/political-ads/asset/c2f42905be2b778b74d4b566744aa1966378b2c71068d4582d6a88fcc62bcce5?mediaType=png)|11,761||20+|united states|
 |NGO|94.00 USD|[30](https://www.snap.com/political-ads/asset/6879da22de465484b6741f3afb030fc268ad43b5f97adab2713ade2533b4d256?mediaType=png)|11,374||20+|united states|
@@ -48,36 +48,37 @@
 |NGO|126.00 USD|[38](https://www.snap.com/political-ads/asset/2fa171b7cf86f06b576db82c0244d17664468c5a2aca7de8545bf60c7a43ba4f?mediaType=png)|6,286||22+|united states|
 |NGO|119.00 USD|[39](https://www.snap.com/political-ads/asset/8be996fda84e3fc2719a3252cff8b70667c048f40fbba309e9db40d00ca283e9?mediaType=png)|6,096||22+|united states|
 |NGO|12.00 USD|[40](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|5,721||21+|canada|
-|NGO|124.00 USD|[41](https://www.snap.com/political-ads/asset/2fa171b7cf86f06b576db82c0244d17664468c5a2aca7de8545bf60c7a43ba4f?mediaType=png)|5,144||22+|united states|
-|NGO|15.00 USD|[42](https://www.snap.com/political-ads/asset/1a89fc9425c4b8263f6d2a8f9b96c00c5675ac95250acd31ba9ef244d7fd1435?mediaType=png)|4,762||21+|united kingdom|
-|NGO|14.00 USD|[43](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|4,505||21+|united kingdom|
-|NGO|67.00 USD|[44](https://www.snap.com/political-ads/asset/8f6d9d1bc7910876301e6714e98bd5daa211585e1bcd7561e395d9098bee3948?mediaType=png)|4,481||22+|united states|
-|NGO|155.00 USD|[45](https://www.snap.com/political-ads/asset/e82b449694bc79fd441c364f02475729d05ac502d085b32289d4ed127a646dc1?mediaType=png)|4,254||22+|united states|
-|NGO|13.00 USD|[46](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|4,243||21+|united kingdom|
-|NGO|171.00 USD|[47](https://www.snap.com/political-ads/asset/0428779037ac26bdf34ffa2d703e5042c71aa3ebca177958ab40ba3060d8e6aa?mediaType=png)|4,101||22+|united states|
-|NGO|68.00 USD|[48](https://www.snap.com/political-ads/asset/3414e811db2d08e8bbf664594f8b893660af22354326e111a6307a0dab795041?mediaType=png)|4,030||22+|united states|
-|NGO|73.00 USD|[49](https://www.snap.com/political-ads/asset/b5aecbb6504b1284fd51d5e2826b10f17b6d79fce85a98c917cd4d3cb83410e7?mediaType=png)|3,826||22+|united states|
-|NGO|83.00 USD|[50](https://www.snap.com/political-ads/asset/3414e811db2d08e8bbf664594f8b893660af22354326e111a6307a0dab795041?mediaType=png)|3,695||22+|united states|
-|NGO|142.00 USD|[51](https://www.snap.com/political-ads/asset/0428779037ac26bdf34ffa2d703e5042c71aa3ebca177958ab40ba3060d8e6aa?mediaType=png)|3,651||22+|united states|
-|NGO|13.00 USD|[52](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|3,588||21+|united kingdom|
-|NGO|139.00 USD|[53](https://www.snap.com/political-ads/asset/e82b449694bc79fd441c364f02475729d05ac502d085b32289d4ed127a646dc1?mediaType=png)|3,565||22+|united states|
-|NGO|11.00 USD|[54](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|3,489||21+|canada|
-|NGO|122.00 USD|[55](https://www.snap.com/political-ads/asset/565badebdb6cd72a759e9467db7a01b86bcde1de37f7e9cfd9fbff647fb142ae?mediaType=png)|3,232||22+|united states|
-|NGO|9.00 USD|[56](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|3,134||21+|canada|
-|NGO|73.00 USD|[57](https://www.snap.com/political-ads/asset/b5aecbb6504b1284fd51d5e2826b10f17b6d79fce85a98c917cd4d3cb83410e7?mediaType=png)|3,065||22+|united states|
-|NGO|91.00 USD|[58](https://www.snap.com/political-ads/asset/565badebdb6cd72a759e9467db7a01b86bcde1de37f7e9cfd9fbff647fb142ae?mediaType=png)|3,061||22+|united states|
-|NGO|28.00 USD|[59](https://www.snap.com/political-ads/asset/65c16c4f294abdac93b61cd14eb7b15f392987523b6cc2aec447a44460c64fbd?mediaType=png)|3,052||20+|united states|
-|NGO|30.00 USD|[60](https://www.snap.com/political-ads/asset/b6872db0ad59eda291415d946bcbfe8756473efc15794219fe0cd30022ba7529?mediaType=png)|2,870||20+|united states|
-|NGO|4.00 USD|[61](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|2,012||21+|canada|
-|NGO|8.00 USD|[62](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|1,927||21+|united kingdom|
-|NGO|89.00 USD|[63](https://www.snap.com/political-ads/asset/6cc0d2c8ddd1b989ea481b47b4007c8f7a120e726ae9ffd7daa85fba7917bc7c?mediaType=png)|1,650||22+|united states|
-|NGO|61.00 USD|[64](https://www.snap.com/political-ads/asset/6cc0d2c8ddd1b989ea481b47b4007c8f7a120e726ae9ffd7daa85fba7917bc7c?mediaType=png)|1,424||22+|united states|
-|NGO|32.00 USD|[65](https://www.snap.com/political-ads/asset/d6fd7967b9bd55875db6bcd9012813fa4d319621dc9b7cc4745177c0b4c5716a?mediaType=png)|1,274||22+|united states|
-|NGO|30.00 USD|[66](https://www.snap.com/political-ads/asset/d6fd7967b9bd55875db6bcd9012813fa4d319621dc9b7cc4745177c0b4c5716a?mediaType=png)|1,169||22+|united states|
-|NGO|12.00 USD|[67](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|1,073||21+|united states|
-|NGO|21.00 USD|[68](https://www.snap.com/political-ads/asset/8d7e10060f4cffe8a4dd2e092302cb25c24426ec03b8a3f23c307e13ed7beb59?mediaType=png)|807||22+|united states|
-|NGO|7.00 USD|[69](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|731||21+|united states|
-|NGO|14.00 USD|[70](https://www.snap.com/political-ads/asset/1a89fc9425c4b8263f6d2a8f9b96c00c5675ac95250acd31ba9ef244d7fd1435?mediaType=png)|718||21+|united states|
-|NGO|22.00 USD|[71](https://www.snap.com/political-ads/asset/8d7e10060f4cffe8a4dd2e092302cb25c24426ec03b8a3f23c307e13ed7beb59?mediaType=png)|713||22+|united states|
-|NGO|10.00 USD|[72](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|640||21+|united states|
-|NGO|7.00 USD|[73](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|532||21+|united states|
+|NGO|53.00 USD|[41](https://www.snap.com/political-ads/asset/e0601ca1ff0d45491c7f48f6771e6a263c22bb08630784b027acf72c1990819a?mediaType=mp4)|5,162||20+|united states|
+|NGO|124.00 USD|[42](https://www.snap.com/political-ads/asset/2fa171b7cf86f06b576db82c0244d17664468c5a2aca7de8545bf60c7a43ba4f?mediaType=png)|5,144||22+|united states|
+|NGO|15.00 USD|[43](https://www.snap.com/political-ads/asset/1a89fc9425c4b8263f6d2a8f9b96c00c5675ac95250acd31ba9ef244d7fd1435?mediaType=png)|4,762||21+|united kingdom|
+|NGO|14.00 USD|[44](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|4,505||21+|united kingdom|
+|NGO|67.00 USD|[45](https://www.snap.com/political-ads/asset/8f6d9d1bc7910876301e6714e98bd5daa211585e1bcd7561e395d9098bee3948?mediaType=png)|4,481||22+|united states|
+|NGO|155.00 USD|[46](https://www.snap.com/political-ads/asset/e82b449694bc79fd441c364f02475729d05ac502d085b32289d4ed127a646dc1?mediaType=png)|4,254||22+|united states|
+|NGO|13.00 USD|[47](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|4,243||21+|united kingdom|
+|NGO|171.00 USD|[48](https://www.snap.com/political-ads/asset/0428779037ac26bdf34ffa2d703e5042c71aa3ebca177958ab40ba3060d8e6aa?mediaType=png)|4,101||22+|united states|
+|NGO|68.00 USD|[49](https://www.snap.com/political-ads/asset/3414e811db2d08e8bbf664594f8b893660af22354326e111a6307a0dab795041?mediaType=png)|4,030||22+|united states|
+|NGO|73.00 USD|[50](https://www.snap.com/political-ads/asset/b5aecbb6504b1284fd51d5e2826b10f17b6d79fce85a98c917cd4d3cb83410e7?mediaType=png)|3,826||22+|united states|
+|NGO|83.00 USD|[51](https://www.snap.com/political-ads/asset/3414e811db2d08e8bbf664594f8b893660af22354326e111a6307a0dab795041?mediaType=png)|3,695||22+|united states|
+|NGO|142.00 USD|[52](https://www.snap.com/political-ads/asset/0428779037ac26bdf34ffa2d703e5042c71aa3ebca177958ab40ba3060d8e6aa?mediaType=png)|3,651||22+|united states|
+|NGO|13.00 USD|[53](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|3,588||21+|united kingdom|
+|NGO|139.00 USD|[54](https://www.snap.com/political-ads/asset/e82b449694bc79fd441c364f02475729d05ac502d085b32289d4ed127a646dc1?mediaType=png)|3,565||22+|united states|
+|NGO|11.00 USD|[55](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|3,489||21+|canada|
+|NGO|122.00 USD|[56](https://www.snap.com/political-ads/asset/565badebdb6cd72a759e9467db7a01b86bcde1de37f7e9cfd9fbff647fb142ae?mediaType=png)|3,232||22+|united states|
+|NGO|9.00 USD|[57](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|3,134||21+|canada|
+|NGO|73.00 USD|[58](https://www.snap.com/political-ads/asset/b5aecbb6504b1284fd51d5e2826b10f17b6d79fce85a98c917cd4d3cb83410e7?mediaType=png)|3,065||22+|united states|
+|NGO|91.00 USD|[59](https://www.snap.com/political-ads/asset/565badebdb6cd72a759e9467db7a01b86bcde1de37f7e9cfd9fbff647fb142ae?mediaType=png)|3,061||22+|united states|
+|NGO|28.00 USD|[60](https://www.snap.com/political-ads/asset/65c16c4f294abdac93b61cd14eb7b15f392987523b6cc2aec447a44460c64fbd?mediaType=png)|3,052||20+|united states|
+|NGO|30.00 USD|[61](https://www.snap.com/political-ads/asset/b6872db0ad59eda291415d946bcbfe8756473efc15794219fe0cd30022ba7529?mediaType=png)|2,870||20+|united states|
+|NGO|4.00 USD|[62](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|2,012||21+|canada|
+|NGO|8.00 USD|[63](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|1,927||21+|united kingdom|
+|NGO|89.00 USD|[64](https://www.snap.com/political-ads/asset/6cc0d2c8ddd1b989ea481b47b4007c8f7a120e726ae9ffd7daa85fba7917bc7c?mediaType=png)|1,650||22+|united states|
+|NGO|61.00 USD|[65](https://www.snap.com/political-ads/asset/6cc0d2c8ddd1b989ea481b47b4007c8f7a120e726ae9ffd7daa85fba7917bc7c?mediaType=png)|1,424||22+|united states|
+|NGO|32.00 USD|[66](https://www.snap.com/political-ads/asset/d6fd7967b9bd55875db6bcd9012813fa4d319621dc9b7cc4745177c0b4c5716a?mediaType=png)|1,274||22+|united states|
+|NGO|30.00 USD|[67](https://www.snap.com/political-ads/asset/d6fd7967b9bd55875db6bcd9012813fa4d319621dc9b7cc4745177c0b4c5716a?mediaType=png)|1,169||22+|united states|
+|NGO|12.00 USD|[68](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|1,073||21+|united states|
+|NGO|21.00 USD|[69](https://www.snap.com/political-ads/asset/8d7e10060f4cffe8a4dd2e092302cb25c24426ec03b8a3f23c307e13ed7beb59?mediaType=png)|807||22+|united states|
+|NGO|7.00 USD|[70](https://www.snap.com/political-ads/asset/fb286cf1a6f79370709d2eb7c7d5a932ac671e266470df3ae2af7ea023824cb0?mediaType=png)|731||21+|united states|
+|NGO|14.00 USD|[71](https://www.snap.com/political-ads/asset/1a89fc9425c4b8263f6d2a8f9b96c00c5675ac95250acd31ba9ef244d7fd1435?mediaType=png)|718||21+|united states|
+|NGO|22.00 USD|[72](https://www.snap.com/political-ads/asset/8d7e10060f4cffe8a4dd2e092302cb25c24426ec03b8a3f23c307e13ed7beb59?mediaType=png)|713||22+|united states|
+|NGO|10.00 USD|[73](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|640||21+|united states|
+|NGO|7.00 USD|[74](https://www.snap.com/political-ads/asset/767ae390480ce9d67eb26e6f305c568976b5a3b81dd62de06d1b3df142ae962a?mediaType=png)|532||21+|united states|

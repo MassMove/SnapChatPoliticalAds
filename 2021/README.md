@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
 |[The Climate Pledge](The_Climate_Pledge.md) - Amazon Services LLC: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
-|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
+|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
 |[Thorn](Thorn.md) - Thorn|100,650.00 USD|42,751,107||17-|united states|
 |[Fair Fight Action](Fair_Fight_Action.md) - AL Media: Fair Fight Action|327,862.00 USD|41,644,985||18-34, 18+|united states|
@@ -16,8 +16,8 @@
 |[Electoral Commission](Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||16-17, 18-34|united kingdom|
 |[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
-|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,653.00 NOK|19,740,536||18-22, 18-29, 18-30, 18-40, 18-45, 18+, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
-|[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,219.00 EUR, USD|19,102,055||18-34, 18-35, 18-44, 18+, 21+|germany, italy, netherlands, united kingdom, united states|
+|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||18-22, 18-29, 18-30, 18-40, 18-45, 18+, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
+|[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 EUR, USD|19,188,668||18-34, 18-35, 18-44, 18+, 21+|germany, italy, netherlands, united kingdom, united states|
 |[Dove](Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|130,479.00 USD|16,742,016||18-34|united states|
@@ -64,9 +64,9 @@
 |[Republican National Committee](Republican_National_Committee.md) - Republican National Committee: Republican National Committee|32,718.00 USD|4,653,494||18-24, 18-25, 18+, 25+|united states|
 |[Pulpmedia](Pulpmedia.md) - Httpool Online Marketing GmbH|10,000.00 EUR|4,540,377||18+|austria|
 |[Sierra Club](Sierra_Club.md) - Sierra Club|25,956.00 USD|4,356,094|||united states|
+|[Die Grünen Oberösterreich](Die_Grünen_Oberösterreich.md) - 506 Data & Performance GmbH: Bezahlt von Den Gruenen OOE|17,440.00 EUR|4,252,530||18-18, 19-24, 25-40|austria|
 |[Vote No to Protect Maine](Vote_No_to_Protect_Maine.md) - The New Media Firm: Vote No To Protect Maine|50,292.00 USD|4,198,435||18+|united states|
 |[Accountability Virginia PAC](Accountability_Virginia_PAC.md) - Gambit Strategies|28,874.00 USD|4,178,713||18-49|united states|
-|[Die Grünen Oberösterreich](Die_Grünen_Oberösterreich.md) - 506 Data & Performance GmbH: Bezahlt von Den Gruenen OOE|17,086.00 EUR|4,163,932||18-18, 19-24, 25-40|austria|
 |[WWF Suomi](WWF_Suomi.md) - Marketing Clinic|3,989.00 EUR|3,847,182||18-25, 18-35|finland|
 |[SEIU](SEIU.md) - Fight for $15: Fight for 15|17,999.00 USD|3,825,753||18+|united states|
 |[Fair Elections Center](Fair_Elections_Center.md) - Panowatch  LLC: Virginia Youth Voter Turnout|15,298.00 USD|3,777,956||18-25|united states|
@@ -78,7 +78,7 @@
 |[LCV & Priorities USA](LCV_&_Priorities_USA.md) - Gambit Strategies|23,499.00 USD|3,283,479||18+|united states|
 |[Fund Texas Choice](Fund_Texas_Choice.md) - BerlinRosen|42,498.00 USD|3,205,497||35-|united states|
 |[Human Rights Campaign Foundation](Human_Rights_Campaign_Foundation.md) - Bully Pulpit Interactive|27,899.00 USD|3,155,090||18-25, 18-30, 18-35|puerto rico, united states|
-|[New Georgia Project](New_Georgia_Project.md) - ampersand strategies: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
+|[New Georgia Project](New_Georgia_Project.md) - Panowatch  LLC: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|5,576.00 GBP|3,120,115||18-30|united kingdom|
 |[ACLU](ACLU.md) - Wavelength Strategy: ACLU|36,054.00 USD|3,117,943|FEMALE|18-40, 18-49, 18+|united states|
 |[D66](D66.md) - Dept|7,357.00 EUR|3,110,013||18+|netherlands|
@@ -158,7 +158,7 @@
 |[American Bridge Foundation](American_Bridge_Foundation.md) - Wavelength Strategy|7,183.00 USD|1,121,015|FEMALE|18+|united states|
 |[Welsh Labour](Welsh_Labour.md) - Welsh Labour: Welsh Labour|1,756.00 GBP|1,090,499||18-23, 18+|united kingdom|
 |[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|17,822.00 SEK|1,082,094||15-23, 18-25, 18+, 20-, 21-|sweden|
-|[Welsh Government](Welsh_Government.md) - Powys Participation: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
+|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
 |[Doctors Without Borders](Doctors_Without_Borders.md) - Doctors Without Borders|5,944.00 USD|1,048,126||18+, 25+|united states|
 |[Presse- und Informationsamt](Presse-_und_Informationsamt.md) - iProspect GmbH|8,631.00 EUR|1,045,306||18-24|germany|
 |[Clean Virginia Fund](Clean_Virginia_Fund.md) - COMPETE Digital LLC: Clean Virginia Fund, Jay Jones, Jennifer Carroll Foy|21,583.00 USD|1,044,021||18+|united states|
@@ -277,7 +277,7 @@
 |[DAGA](DAGA.md) - Do Big Things|2,045.00 USD|141,239||18+|united states|
 |[SUSA flexibel studentenwerk](SUSA_flexibel_studentenwerk.md) - SUSA flexibel studentenwerk|149.00 EUR|141,034||18-28, 18-30|netherlands|
 |[Protect the Promise](Protect_the_Promise.md) - LoudDoor  LLC|1,440.00 USD|140,234||35+|united states|
-|[Resource Media](Resource_Media.md) - Spake Media|1,261.00 USD|139,705||18+|united states|
+|[Resource Media](Resource_Media.md) - RESOURCE MEDIA A NONPROFIT CORPORATION|1,261.00 USD|139,705||18+|united states|
 |[Namsos kommune](Namsos_kommune.md) - Mystory Norge AS|982.00 EUR|135,979||18+|norway|
 |[Agder Høyre](Agder_Høyre.md) - Markussen Consulting: Aase Marthe Horrigmo, Amalie Gunnufsen, Amalie Kollstrand, Ingunn Foss, Nicolai Osteby fra Kristiansand, Svein Harberg|6,941.00 NOK|133,732|FEMALE|17-35, 17+, 19+, 30+, 35-|norway|
 |[RAY MCGUIRE FOR MAYOR, INC.](RAY_MCGUIRE_FOR_MAYOR,_INC..md) - Assemble The Agency: Ray McGuire for Mayor|1,319.00 USD|131,744||18+|united states|
@@ -322,7 +322,7 @@
 |[Committee to Elect Matt Brown](Committee_to_Elect_Matt_Brown.md) - Committee to Elect Matt Brown: Matt Brown|350.00 USD|57,012||18+|united states|
 |[Ampersand Strategies](Ampersand_Strategies.md) - ampersand strategies: Jason Dozier for Atlanta, Jason Dozier for City Council|545.00 USD|51,887||18+|united states|
 |[Ali Yahya](Ali_Yahya.md) - AliYahyaSF: Ali Yahya|700.00 DKK|51,580||17+|denmark|
-|[Boomerang Ideas GmbH](Boomerang_Ideas_GmbH.md) - BoomSociety: Boomerang Ideas GmbH|131.00 EUR|51,513|FEMALE, MALE|18-24, 25-34|switzerland|
+|[Boomerang Ideas GmbH](Boomerang_Ideas_GmbH.md) - Boomerang Ideas GmbH: Boomerang Ideas GmbH|131.00 EUR|51,513|FEMALE, MALE|18-24, 25-34|switzerland|
 |[Nordre Follo KrF](Nordre_Follo_KrF.md) - Nordre Follo KrF: Nordre Follo KrF|3,899.00 NOK|49,875|FEMALE|25-45|norway|
 |[Hunter Williams](Hunter_Williams.md) - BIRMINGHAM  CITY OF|99.00 USD|49,808|||united states|
 |[Capture Connect Media](Capture_Connect_Media.md) - Capture Connect Media: Troy Carter|431.00 USD|48,994||21-34|united states|

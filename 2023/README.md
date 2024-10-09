@@ -29,7 +29,7 @@
 |[Project Unloaded](Project_Unloaded.md) - M&R Strategic Services  Inc.|39,728.00 USD|7,732,660||17-|united states|
 |[Climate Power](Climate_Power.md) - Bully Pulpit Interactive|77,971.00 USD|7,281,558|FEMALE|18-30|united states|
 |[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.|63,887.00 USD|6,804,065||18+|united states|
-|[Sierra Club](Sierra_Club.md) - Sierra Club: Plastic Pollution|38,365.00 USD|6,711,765|||united states|
+|[Sierra Club](Sierra_Club.md) - Sierra Club: Plastic Pollution|38,513.00 USD|6,741,775|||united states|
 |[Elections Alberta](Elections_Alberta.md) - DDB Edmonton Media|19,998.00 CAD|6,648,545||18+|canada|
 |[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: Matt Dugan, Paul Vallas|17,799.00 USD|6,578,259|||united states|
 |[Venstre](Venstre.md) - Venstre: Ole Martini, Venstre|180,947.00 NOK|6,554,166||17-22, 18-27, 18-29, 18-30, 18-35, 18-49, 18+, 22+, 26+, 30+|norway|
@@ -43,18 +43,18 @@
 |[ثامر سعد السويط الظفيري](ثامر_سعد_السويط_الظفيري.md) - zainhassan: thamer saad, Thamer saad|3,349.00 USD|4,986,322||18+|kuwait|
 |[Fagforbundet](Fagforbundet.md) - Try Schjærven Media|561,591.00 NOK|4,725,829||18+|norway|
 |[Freedom Virginia](Freedom_Virginia.md) - Saguaro Strategies LLC: Freedom Virginia|13,593.00 USD|4,722,525||18+|united states|
-|[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co|36,043.00 EUR|4,645,658||18+|norway|
+|[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co|36,268.00 EUR|4,717,308||18+|norway|
 |[Ministerie v. Binnenlandse Zaken](Ministerie_v._Binnenlandse_Zaken.md) - Initiative Media B.V|26,971.00 EUR|4,335,983||18-25, 18+|netherlands|
 |[Osama AlShaheen](Osama_AlShaheen.md) - Different Media|7,969.00 USD|4,269,718||18+|kuwait|
 |[SOS-Kinderdörfer weltweit](SOS-Kinderdörfer_weltweit.md) - OMD München GmbH|15,983.00 EUR|4,117,506||18-25|germany|
 |[NYC Health](NYC_Health.md) - OpAD Media|27,802.00 USD|3,951,748|FEMALE|30-|united states|
 |[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: Abortion, AG Kaul Lawsuit, Joel Urmanski|15,131.00 USD|3,786,172||16+, 18+|united states|
-|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|13,498.00 USD|3,673,971|FEMALE|18-34, 44-|united states|
+|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|13,686.00 USD|3,703,684|FEMALE|18-34, 44-|united states|
 |[Priorities USA & Comms2](Priorities_USA_&_Comms2.md) - Priorities USA|38,087.00 USD|3,551,286||18+|united states|
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,994.00 USD|3,340,093||17-, 18-22|united states|
 |[alihsan charity](alihsan_charity.md) - alihsancharity|10,337.00 USD|3,332,372||24+, 25+|united arab emirates|
 |[Green Party NZ](Green_Party_NZ.md) - Uprise Solutions: Green Party|6,215.00 AUD|3,300,951||18-24|new zealand|
-|[MOA2A](MOA2A.md) - Choose Life Marketing|13,126.00 USD|2,896,985|FEMALE|35-|united states|
+|[MOA2A](MOA2A.md) - Choose Life Marketing|13,270.00 USD|2,926,550|FEMALE|35-|united states|
 |[Natural Resources Defense Counci](Natural_Resources_Defense_Counci.md) - Natural Resources Defense Council|7,258.00 USD|2,789,308||18+|united states|
 |[Dr. Fawaz Aljedei](Dr._Fawaz_Aljedei.md) - د. فواز الجدعي: Fawaz Ajedei, Fawaz Aljedei|5,404.00 USD|2,739,004||17+, 20+|kuwait|
 |[Provincie Noord-Brabant](Provincie_Noord-Brabant.md) - Provincie Noord-Brabant: Provincie Noord Brabant|3,740.00 EUR|2,684,392||18-25|netherlands|
@@ -126,8 +126,8 @@
 |[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,995.00 EUR|784,738||18-34|finland|
 |[First Media](First_Media.md) - First Media V|11,149.00 USD|739,617||23+|united states|
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,781.00 USD|727,838|FEMALE|30-|united states|
 |[Texas State Teachers Association](Texas_State_Teachers_Association.md) - Corsair Campaigns|1,499.00 USD|726,654||18+|united states|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,737.00 USD|718,447|FEMALE|30-|united states|
 |[BNNVARA](BNNVARA.md) - BNNVARA|3,160.00 EUR|718,234||18-25|netherlands|
 |[Blue Sky Waukesha, Inc.](Blue_Sky_Waukesha,_Inc..md) - Blue Sky Waukesha: Abortion Ad Spring Primary, Bob Tatterson for AD24, David Irwin for Elmbrook School Board, Dont Florida Our Wisconsin, Janet Protasiewicz for Wisconsin Supreme Court, Wisconsin 2023 General Election|6,049.00 USD|716,917|FEMALE|17+, 18+|united states|
 |[farz aldayhani](farz_aldayhani.md) - sourcemediakw: farz aldayhani|400.00 USD|714,456||21+|kuwait|
@@ -143,7 +143,7 @@
 |[Fagforbundet Oslo](Fagforbundet_Oslo.md) - Try Schjærven Media|14,998.00 NOK|619,807||18+|norway|
 |[Electoral Commission NI](Electoral_Commission_NI.md) - Belfast Metropolitan College|1,990.00 GBP|615,471||18-34, 35+|united kingdom|
 |[Life Choices Center](Life_Choices_Center.md) - Ad Elements: Life Choices Center|1,169.00 USD|605,303|FEMALE|30-, 32-, 33-|united states|
-|[مخلد العازمي](مخلد_العازمي.md) - kuwaitalazmi|1,332.00 USD|566,169||21+|kuwait|
+|[مخلد العازمي](مخلد_العازمي.md) - kuwaitaomh|1,332.00 USD|566,169||21+|kuwait|
 |[Nordre Follo Venstre](Nordre_Follo_Venstre.md) - Nordre Follo Venstre: Abid Raja med Camilla, Camilla Fem Gode Grunner, Valget 2023 Kampanjer|28,728.00 NOK|552,238||18-30, 18+, 25-37, 25+, 30+|norway|
 |[Elevate Women's Center](Elevate_Women's_Center.md) - Choose Life Marketing|2,263.00 USD|549,426|FEMALE|27-|united states|
 |[Octi AS](Octi_AS.md) - Trygg Media AS: Trondelag Fylkeskommune|15,724.00 NOK|543,256||18-24, 30+|norway|
@@ -162,7 +162,7 @@
 |[Abortion Finder](Abortion_Finder.md) - Abortion Finder|3,196.00 USD|437,371|FEMALE|18-40|united states|
 |[The Womxn Project Education Fund](The_Womxn_Project_Education_Fund.md) - Chong and Koster|4,176.00 USD|434,871||18+|united states|
 |[Trout Unlimited](Trout_Unlimited.md) - Monsoon Studios  LLC|1,498.00 USD|431,306|||united states|
-|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|4,914.00 USD|427,870||18+|united states|
+|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|4,929.00 USD|429,289||18+|united states|
 |[Leaders Igniting Transformation](Leaders_Igniting_Transformation.md) - Leaders Igniting Transformation|3,000.00 USD|422,426||17-35, 18-35|united states|
 |[Liberalistene Sandefjord](Liberalistene_Sandefjord.md) - Liberalistene Sandefjord: Chris Aron Wabo|1,393.00 USD|419,285||18+|norway|
 |[Hamad Alolayan](Hamad_Alolayan.md) - Yuehlia: Hamad Alolayan, Hamad Alolyan|712.00 USD|418,842||21+|kuwait|
@@ -321,8 +321,8 @@
 |[El Mirage](El_Mirage.md) - Strategies 360: Yes For El Mirage|300.00 USD|19,227||18+|united states|
 |[No Labels](No_Labels.md) - Embee Media: No Labels|209.00 USD|18,659||18+|united states|
 |[New Mexico Clean Air](New_Mexico_Clean_Air.md) - Semilla Strategies LLC: Advanced Clean Cars and Advanced Clean Trucks|421.00 USD|18,579||18-40|united states|
-|[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
 |[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
+|[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
 |[Zeal Investments UG](Zeal_Investments_UG.md) - Zeal Investments UG|106.00 USD|13,224||18+|italy|
 |[Albert Escobedo](Albert_Escobedo.md) - Albert Escobedo for Los Fresnos City Council Member Place 1: Albert Escobedo|79.00 USD|10,455||18-49, 18+|united states|
 |[Real Alternatives Indiana](Real_Alternatives_Indiana.md) - Stacked Marketing Group|148.00 USD|9,573|FEMALE|18-34|united states|
