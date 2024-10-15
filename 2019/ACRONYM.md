@@ -1,7 +1,7 @@
 ## 2019 - ACRONYM 
-**Spent**: 18,894.00
+**Spent**: 18,890.00
 
-**Impressions**: 3,008,464
+**Impressions**: 3,007,792
 
 **Billing Addresses**: US
 
@@ -128,11 +128,10 @@
 |ACRONYM: Register to Vote|6.00 USD|[174](https://www.snap.com/political-ads/asset/f7e02f567771f30a3243ade06187432620b2c1c9f7e1590b4b7ed1365a17fd68?mediaType=png)|937||18+|united states|
 |ACRONYM: Register to Vote|5.00 USD|[175](https://www.snap.com/political-ads/asset/53dfe41392b01114f02c73e5e45f8945cda62bfb873803478384c9b694e679c9?mediaType=png)|738||18+|united states|
 |ACRONYM: Get out the vote|28.00 USD|[176](https://www.snap.com/political-ads/asset/ede4d919e279bedffebb2bf189ffd674693bf1524507ff1fc0e263e37ba56def?mediaType=mp4)|715||18+|united states|
-|ACRONYM: Register to Vote|4.00 USD|[177](https://www.snap.com/political-ads/asset/b1e7d8e067405897020b8dc3c16cb6df92f46b05c157426a67d3931e31352d73?mediaType=png)|672||18+|united states|
-|ACRONYM: Get out the vote|21.00 USD|[178](https://www.snap.com/political-ads/asset/ede4d919e279bedffebb2bf189ffd674693bf1524507ff1fc0e263e37ba56def?mediaType=mp4)|551||18+|united states|
-|ACRONYM: Get out the vote|13.00 USD|[179](https://www.snap.com/political-ads/asset/e0821a8ec1b82ee20aaa65ceea221cd6125b68002e172d996c0e72bc5ce61e24?mediaType=mp4)|350||18+|united states|
-|ACRONYM: Get out the vote|4.00 USD|[180](https://www.snap.com/political-ads/asset/49bda8fb36914e344f2177e265309e5a7f6a5ad987bf9d7e952b26ef7e3c6a75?mediaType=mp4)|308||18+|united states|
-|ACRONYM: Register to Vote|1.00 USD|[181](https://www.snap.com/political-ads/asset/89947ffbddc39770676fec3478cf8dbfd09ca9ce02379e1997217e490be18e74?mediaType=png)|298||18+|united states|
-|ACRONYM: Register to Vote|1.00 USD|[182](https://www.snap.com/political-ads/asset/8aeee3f51404b8657571e163ba69b34ea8c02cc340ab04a9ffa62ad7c310e2da?mediaType=png)|240||18+|united states|
-|ACRONYM: Get out the vote|4.00 USD|[183](https://www.snap.com/political-ads/asset/e71768b75db969eb17859e840083506071e0afa0b9be234f3a991d9523ab007c?mediaType=mp4)|121||18+|united states|
-|ACRONYM: Get out the vote|4.00 USD|[184](https://www.snap.com/political-ads/asset/b1b954fb4c736b7cb17810e573d1df86e29725ccccfaa22093f9861083976e0b?mediaType=mp4)|111||18+|united states|
+|ACRONYM: Get out the vote|21.00 USD|[177](https://www.snap.com/political-ads/asset/ede4d919e279bedffebb2bf189ffd674693bf1524507ff1fc0e263e37ba56def?mediaType=mp4)|551||18+|united states|
+|ACRONYM: Get out the vote|13.00 USD|[178](https://www.snap.com/political-ads/asset/e0821a8ec1b82ee20aaa65ceea221cd6125b68002e172d996c0e72bc5ce61e24?mediaType=mp4)|350||18+|united states|
+|ACRONYM: Get out the vote|4.00 USD|[179](https://www.snap.com/political-ads/asset/49bda8fb36914e344f2177e265309e5a7f6a5ad987bf9d7e952b26ef7e3c6a75?mediaType=mp4)|308||18+|united states|
+|ACRONYM: Register to Vote|1.00 USD|[180](https://www.snap.com/political-ads/asset/89947ffbddc39770676fec3478cf8dbfd09ca9ce02379e1997217e490be18e74?mediaType=png)|298||18+|united states|
+|ACRONYM: Register to Vote|1.00 USD|[181](https://www.snap.com/political-ads/asset/8aeee3f51404b8657571e163ba69b34ea8c02cc340ab04a9ffa62ad7c310e2da?mediaType=png)|240||18+|united states|
+|ACRONYM: Get out the vote|4.00 USD|[182](https://www.snap.com/political-ads/asset/e71768b75db969eb17859e840083506071e0afa0b9be234f3a991d9523ab007c?mediaType=mp4)|121||18+|united states|
+|ACRONYM: Get out the vote|4.00 USD|[183](https://www.snap.com/political-ads/asset/b1b954fb4c736b7cb17810e573d1df86e29725ccccfaa22093f9861083976e0b?mediaType=mp4)|111||18+|united states|

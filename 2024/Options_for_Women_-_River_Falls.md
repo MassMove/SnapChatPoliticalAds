@@ -1,7 +1,7 @@
 ## 2024 - Options for Women - River Falls 
-**Spent**: 1,544.00
+**Spent**: 1,562.00
 
-**Impressions**: 291,539
+**Impressions**: 295,695
 
 **Billing Addresses**: 214 N Main St,River Falls,54022,US
 
@@ -34,7 +34,8 @@
 |Options For Women - River Falls|50.00 USD|[24](https://www.snap.com/political-ads/asset/59d7b2c95af73adbbfd85d6132dd3ee9213a416690f4db85d2cf91b6d49a4ea7?mediaType=mp4)|7,528|||united states|
 |Options For Women - River Falls|50.00 USD|[25](https://www.snap.com/political-ads/asset/2ee92b0c0f9174435f82ca23d0e630fdac5bfb6db19966a0e6175dd0e6f49214?mediaType=mp4)|7,241|||united states|
 |Options For Women - River Falls|50.00 USD|[26](https://www.snap.com/political-ads/asset/d6c54c579ea4bc6b62e6f1d9341ab4f32d654342db89ed150f95422dd2d31431?mediaType=mp4)|4,576||30-|united states|
-|Options For Women - River Falls|50.00 USD|[27](https://www.snap.com/political-ads/asset/9e7a3701408b746242144cc81838bae345936eb5c77b27ff142ec724c2ea1adc?mediaType=mp4)|4,110||30-|united states|
-|Options For Women - River Falls|50.00 USD|[28](https://www.snap.com/political-ads/asset/85ccf9fa2d8a1bd5680e444b8f1f9874a86bc0dae8d37539558b4839d0e62aa5?mediaType=mp4)|3,902||30-|united states|
-|Options For Women - River Falls|50.00 USD|[29](https://www.snap.com/political-ads/asset/1ddb7095f2d4f95d8a6eec9ed1bd953a757b53eb8619128e5af768f5d3d7e1f2?mediaType=mp4)|3,800||30-|united states|
-|Options For Women - River Falls|50.00 USD|[30](https://www.snap.com/political-ads/asset/a4f6e0c9d5570e58fbe90060d6f341f0856c51e5b9b370515ad87d62d048eca2?mediaType=mp4)|3,776||30-|united states|
+|Options For Women - River Falls|18.00 USD|[27](https://www.snap.com/political-ads/asset/ffd859f6e8378c45015978cc72f41d439ba66fa2e3a15a22a99efcc760c002ac?mediaType=mp4)|4,156|||united states|
+|Options For Women - River Falls|50.00 USD|[28](https://www.snap.com/political-ads/asset/9e7a3701408b746242144cc81838bae345936eb5c77b27ff142ec724c2ea1adc?mediaType=mp4)|4,110||30-|united states|
+|Options For Women - River Falls|50.00 USD|[29](https://www.snap.com/political-ads/asset/85ccf9fa2d8a1bd5680e444b8f1f9874a86bc0dae8d37539558b4839d0e62aa5?mediaType=mp4)|3,902||30-|united states|
+|Options For Women - River Falls|50.00 USD|[30](https://www.snap.com/political-ads/asset/1ddb7095f2d4f95d8a6eec9ed1bd953a757b53eb8619128e5af768f5d3d7e1f2?mediaType=mp4)|3,800||30-|united states|
+|Options For Women - River Falls|50.00 USD|[31](https://www.snap.com/political-ads/asset/a4f6e0c9d5570e58fbe90060d6f341f0856c51e5b9b370515ad87d62d048eca2?mediaType=mp4)|3,776||30-|united states|

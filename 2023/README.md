@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
-|[Patagonia](Patagonia.md) - Patagonia|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia Europe|259,426.00 EUR, USD|55,751,652||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
@@ -49,12 +49,12 @@
 |[SOS-Kinderdörfer weltweit](SOS-Kinderdörfer_weltweit.md) - OMD München GmbH|15,983.00 EUR|4,117,506||18-25|germany|
 |[NYC Health](NYC_Health.md) - OpAD Media|27,802.00 USD|3,951,748|FEMALE|30-|united states|
 |[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: Abortion, AG Kaul Lawsuit, Joel Urmanski|15,131.00 USD|3,786,172||16+, 18+|united states|
-|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|13,686.00 USD|3,703,684|FEMALE|18-34, 44-|united states|
+|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|13,913.00 USD|3,745,166|FEMALE|18-34, 44-|united states|
 |[Priorities USA & Comms2](Priorities_USA_&_Comms2.md) - Priorities USA|38,087.00 USD|3,551,286||18+|united states|
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,994.00 USD|3,340,093||17-, 18-22|united states|
 |[alihsan charity](alihsan_charity.md) - alihsancharity|10,337.00 USD|3,332,372||24+, 25+|united arab emirates|
 |[Green Party NZ](Green_Party_NZ.md) - Uprise Solutions: Green Party|6,215.00 AUD|3,300,951||18-24|new zealand|
-|[MOA2A](MOA2A.md) - Choose Life Marketing|13,270.00 USD|2,926,550|FEMALE|35-|united states|
+|[MOA2A](MOA2A.md) - Choose Life Marketing|13,423.00 USD|2,955,295|FEMALE|35-|united states|
 |[Natural Resources Defense Counci](Natural_Resources_Defense_Counci.md) - Natural Resources Defense Council|7,258.00 USD|2,789,308||18+|united states|
 |[Dr. Fawaz Aljedei](Dr._Fawaz_Aljedei.md) - د. فواز الجدعي: Fawaz Ajedei, Fawaz Aljedei|5,404.00 USD|2,739,004||17+, 20+|kuwait|
 |[Provincie Noord-Brabant](Provincie_Noord-Brabant.md) - Provincie Noord-Brabant: Provincie Noord Brabant|3,740.00 EUR|2,684,392||18-25|netherlands|
@@ -125,14 +125,14 @@
 |[Vasemmistoliitto](Vasemmistoliitto.md) - Oy Dagmar Ab: Vasemmistoliitto|1,999.00 EUR|798,154||18-35|finland|
 |[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,995.00 EUR|784,738||18-34|finland|
 |[First Media](First_Media.md) - First Media V|11,149.00 USD|739,617||23+|united states|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,834.00 USD|739,330|FEMALE|30-|united states|
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,781.00 USD|727,838|FEMALE|30-|united states|
 |[Texas State Teachers Association](Texas_State_Teachers_Association.md) - Corsair Campaigns|1,499.00 USD|726,654||18+|united states|
 |[BNNVARA](BNNVARA.md) - BNNVARA|3,160.00 EUR|718,234||18-25|netherlands|
 |[Blue Sky Waukesha, Inc.](Blue_Sky_Waukesha,_Inc..md) - Blue Sky Waukesha: Abortion Ad Spring Primary, Bob Tatterson for AD24, David Irwin for Elmbrook School Board, Dont Florida Our Wisconsin, Janet Protasiewicz for Wisconsin Supreme Court, Wisconsin 2023 General Election|6,049.00 USD|716,917|FEMALE|17+, 18+|united states|
 |[farz aldayhani](farz_aldayhani.md) - sourcemediakw: farz aldayhani|400.00 USD|714,456||21+|kuwait|
 |[hamad saif mohammad alharshani](hamad_saif_mohammad_alharshani.md) - hamadseeif|1,443.00 USD|695,390||18+|kuwait|
-|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Digital Media Enzo B.V.: Gemeente Amsterdam|3,328.00 EUR|693,168||18-24, 18-25|netherlands|
+|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Hammerfest: Gemeente Amsterdam|3,328.00 EUR|693,168||18-24, 18-25|netherlands|
 |[ChildFund](ChildFund.md) - TouchPoint Media|11,240.00 USD|689,887||18-24, 25-40|united states|
 |[New Jersey Education Association](New_Jersey_Education_Association.md) - The New Media Firm|13,628.00 USD|656,469||18+|united states|
 |[Kemal Kılıçdaroğlu](Kemal_Kılıçdaroğlu.md) - Goodroll Dijital Video Reklam Pazarlama Tic. A.Ş.: Kemal Kilicdaroglu|476.00 USD|655,933||18-24|turkey|
@@ -143,7 +143,7 @@
 |[Fagforbundet Oslo](Fagforbundet_Oslo.md) - Try Schjærven Media|14,998.00 NOK|619,807||18+|norway|
 |[Electoral Commission NI](Electoral_Commission_NI.md) - Belfast Metropolitan College|1,990.00 GBP|615,471||18-34, 35+|united kingdom|
 |[Life Choices Center](Life_Choices_Center.md) - Ad Elements: Life Choices Center|1,169.00 USD|605,303|FEMALE|30-, 32-, 33-|united states|
-|[مخلد العازمي](مخلد_العازمي.md) - kuwaitaomh|1,332.00 USD|566,169||21+|kuwait|
+|[مخلد العازمي](مخلد_العازمي.md) - kuwaitalazmi|1,332.00 USD|566,169||21+|kuwait|
 |[Nordre Follo Venstre](Nordre_Follo_Venstre.md) - Nordre Follo Venstre: Abid Raja med Camilla, Camilla Fem Gode Grunner, Valget 2023 Kampanjer|28,728.00 NOK|552,238||18-30, 18+, 25-37, 25+, 30+|norway|
 |[Elevate Women's Center](Elevate_Women's_Center.md) - Choose Life Marketing|2,263.00 USD|549,426|FEMALE|27-|united states|
 |[Octi AS](Octi_AS.md) - Trygg Media AS: Trondelag Fylkeskommune|15,724.00 NOK|543,256||18-24, 30+|norway|
@@ -181,7 +181,7 @@
 |[Oslo SV](Oslo_SV.md) - Oslo SV|29,727.00 NOK|346,314||18-35, 18+|norway|
 |[Ohio Women's Alliance](Ohio_Women's_Alliance.md) - Chong and Koster|4,999.00 USD|332,348||18-25|united states|
 |[Agder Arbeiderparti](Agder_Arbeiderparti.md) - Agder Arbeiderparti: Arbeiderpartiet|13,169.00 NOK|328,365||16-25, 18-35, 18+|norway|
-|[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - adzgulf2023new: 200|887.00 USD|321,213||21+|kuwait|
+|[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - KUWAITADS1: 200|887.00 USD|321,213||21+|kuwait|
 |[Southwest Indiana Right to Life](Southwest_Indiana_Right_to_Life.md) - AXIOM|4,466.00 USD|318,908||18+|united states|
 |[Liberalistene Viken](Liberalistene_Viken.md) - Liberalistene Viken: Aleksander Carlsen, Kai Roger Hagen, Natalya Engelsrud Fritzen|18,222.00 NOK|314,126||18+|norway|
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Group C|1,325.00 USD|313,062||18+|united states|
@@ -321,8 +321,8 @@
 |[El Mirage](El_Mirage.md) - Strategies 360: Yes For El Mirage|300.00 USD|19,227||18+|united states|
 |[No Labels](No_Labels.md) - Embee Media: No Labels|209.00 USD|18,659||18+|united states|
 |[New Mexico Clean Air](New_Mexico_Clean_Air.md) - Semilla Strategies LLC: Advanced Clean Cars and Advanced Clean Trucks|421.00 USD|18,579||18-40|united states|
-|[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
 |[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
+|[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
 |[Zeal Investments UG](Zeal_Investments_UG.md) - Zeal Investments UG|106.00 USD|13,224||18+|italy|
 |[Albert Escobedo](Albert_Escobedo.md) - Albert Escobedo for Los Fresnos City Council Member Place 1: Albert Escobedo|79.00 USD|10,455||18-49, 18+|united states|
 |[Real Alternatives Indiana](Real_Alternatives_Indiana.md) - Stacked Marketing Group|148.00 USD|9,573|FEMALE|18-34|united states|

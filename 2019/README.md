@@ -24,7 +24,7 @@
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
 |[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
-|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
+|[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,792.00 USD|21,247,875||18+|united states|
 |[Carat France](Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 |[OBOS](OBOS.md) - Red Media AS|31,722.00 USD|17,960,616|FEMALE|18+, 20+|norway|
 |[The North Face](The_North_Face.md) - The North Face|28,953.00 USD|16,960,546||16-34|united states|
@@ -86,17 +86,17 @@
 |[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
-|[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|
 |[Kommunesektorens organisasjon](Kommunesektorens_organisasjon.md) - Try Schjærven Media|6,997.00 EUR|3,131,163||20-34|norway|
 |[Amazon Rainforest Conservancy](Amazon_Rainforest_Conservancy.md) - Reprise|6,499.00 CAD|3,089,714||18+|canada|
 |[Cannabis Control Commission](Cannabis_Control_Commission.md) - MORE Advertising|10,212.00 USD|3,068,244||21+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|31,688.00 GBP|3,051,473||18+|united kingdom|
 |[Norges Røde Kors](Norges_Røde_Kors.md) - Mindshare Norway AS|3,865.00 EUR|3,046,068||17-20, 18-20, 20+, 25+|norway|
-|[ACRONYM](ACRONYM.md) - ACRONYM: Get out the vote, Register to Vote|18,894.00 USD|3,008,464||18+|united states|
+|[ACRONYM](ACRONYM.md) - ACRONYM: Get out the vote, Register to Vote|18,890.00 USD|3,007,792||18+|united states|
 |[Bundespolizei](Bundespolizei.md) - iProspect GmbH|4,399.00 EUR|2,993,890||18-25|germany|
 |[Conservation Colorado](Conservation_Colorado.md) - Blueprint Interactive|10,028.00 USD|2,954,571|FEMALE|18+|united states|
 |[Amnesty International UK](Amnesty_International_UK.md) - Amnesty International UK|3,024.00 GBP|2,927,928||18+|united kingdom|
 |[Proud Right Winger](Proud_Right_Winger.md) - MP Mariam|2,928.00 USD|2,856,607||18+|united states|
+|[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,462.00 USD|2,830,627||18+|sweden|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|9,999.00 USD|2,731,236|||united states|
 |[Make It Legal Florida](Make_It_Legal_Florida.md) - Make It Legal Florida: Make It Legal Florida|3,055.00 USD|2,729,241||21+|united states|
 |[Canadian Wildlife Federation](Canadian_Wildlife_Federation.md) - Canadian Wildlife Federation|2,954.00 CAD|2,649,126|MALE|18-30, 18-34, 18-35|canada|
@@ -348,6 +348,5 @@
 |[Cathcart for Spokane](Cathcart_for_Spokane.md) - Cathcart for Spokane|4.00 USD|733||17+|united states|
 |[MDNP Liberal Democrats](MDNP_Liberal_Democrats.md) - Vikki Slade GE Campaign 2019|0.00 GBP|405||18+|united kingdom|
 |[Unilever](Unilever.md) - FTI Consulting LLP: Unilever|0.00 GBP|232||18+|brazil, france, germany|
-|[Patients' Rights Action Fund](Patients'_Rights_Action_Fund.md) - Yellow Line Digital|0.00 USD|100||21+|united states|
 |[Only American Pride](Only_American_Pride.md) - Only American Pride|0.00 USD|16|MALE|21+|united states|
 

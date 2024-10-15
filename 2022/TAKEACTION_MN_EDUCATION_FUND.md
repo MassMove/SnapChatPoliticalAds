@@ -1,7 +1,7 @@
 ## 2022 - TAKEACTION MN EDUCATION FUND 
-**Spent**: 14,815.00
+**Spent**: 14,726.00
 
-**Impressions**: 890,356
+**Impressions**: 884,114
 
 **Billing Addresses**: PO Box 1513,Superior,54880,US
 
@@ -33,6 +33,5 @@
 |Progress North|172.00 USD|[23](https://www.snap.com/political-ads/asset/113b7b42337975c303435ebba7d826cc257c5cef7dbe795639a6b3a1f829baee?mediaType=png)|9,484||18+|united states|
 |Progress North|125.00 USD|[24](https://www.snap.com/political-ads/asset/5c873f75760af168f5bfe73436bde4d6cf2f74e87d7dd2316f80cb27fe5e0bc1?mediaType=png)|8,164||18+|united states|
 |Progress North|147.00 USD|[25](https://www.snap.com/political-ads/asset/bc910127d060df7bc8aaacc39f077f224ea75c9ac1be13e5354ba61ce7766c9a?mediaType=png)|7,959||18+|united states|
-|Progress North|89.00 USD|[26](https://www.snap.com/political-ads/asset/d10c40bd5a1e0662ee5638566a684d74126b62891050596e6eb22a2dc90d0318?mediaType=png)|6,242||18+|united states|
-|Progress North|88.00 USD|[27](https://www.snap.com/political-ads/asset/c5ecc19740c6898d93a087830657c528e9493a71708b05bd4d7c6147c743c53c?mediaType=png)|6,047||18+|united states|
-|Progress North|46.00 USD|[28](https://www.snap.com/political-ads/asset/88183449b4a70a9cff825266d0147818f4b71da53b1ae9bd63dcaa4caadca2de?mediaType=png)|3,484||18+|united states|
+|Progress North|88.00 USD|[26](https://www.snap.com/political-ads/asset/c5ecc19740c6898d93a087830657c528e9493a71708b05bd4d7c6147c743c53c?mediaType=png)|6,047||18+|united states|
+|Progress North|46.00 USD|[27](https://www.snap.com/political-ads/asset/88183449b4a70a9cff825266d0147818f4b71da53b1ae9bd63dcaa4caadca2de?mediaType=png)|3,484||18+|united states|
