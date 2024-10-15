@@ -1,7 +1,7 @@
 ## 2022 - Galvanize Action 
-**Spent**: 80,368.00
+**Spent**: 80,338.00
 
-**Impressions**: 3,304,067
+**Impressions**: 3,302,777
 
 **Billing Addresses**: 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
 
@@ -72,9 +72,8 @@
 |The New Media Firm: Galvanize Action|52.00 USD|[62](https://www.snap.com/political-ads/asset/362db03b7b3d34295996b101f4c456348c3299c2621d270e96143dd7ee59282c?mediaType=mp4)|2,032|FEMALE|18+|united states|
 |The New Media Firm: Galvanize Action|51.00 USD|[63](https://www.snap.com/political-ads/asset/362db03b7b3d34295996b101f4c456348c3299c2621d270e96143dd7ee59282c?mediaType=mp4)|2,025|FEMALE|18+|united states|
 |The New Media Firm: Galvanize Action|33.00 USD|[64](https://www.snap.com/political-ads/asset/2d2be9944b158d2ca4f2f2052e7be56d118b641b88cbe5734caecaf39fed2e2e?mediaType=mp4)|1,788|FEMALE|18+|united states|
-|The New Media Firm: Galvanize Action|30.00 USD|[65](https://www.snap.com/political-ads/asset/5251a3bf60a536c44737d57380acf2d83aa3e12c51c8a821165d6b629561e6d9?mediaType=mp4)|1,290|FEMALE|18+|united states|
-|The New Media Firm: Galvanize Action|17.00 USD|[66](https://www.snap.com/political-ads/asset/1f990e9d8ca581b3d91f0a101b3530944c896dd2e5b3b54b884d1eb5eb98a3e1?mediaType=mp4)|690|FEMALE|18+|united states|
-|The New Media Firm: Galvanize Action|5.00 USD|[67](https://www.snap.com/political-ads/asset/2d2be9944b158d2ca4f2f2052e7be56d118b641b88cbe5734caecaf39fed2e2e?mediaType=mp4)|260|FEMALE|18+|united states|
-|The New Media Firm: Galvanize Action|4.00 USD|[68](https://www.snap.com/political-ads/asset/1f990e9d8ca581b3d91f0a101b3530944c896dd2e5b3b54b884d1eb5eb98a3e1?mediaType=mp4)|207|FEMALE|18+|united states|
-|The New Media Firm: Galvanize Action|1.00 USD|[69](https://www.snap.com/political-ads/asset/1f990e9d8ca581b3d91f0a101b3530944c896dd2e5b3b54b884d1eb5eb98a3e1?mediaType=mp4)|140|FEMALE|18+|united states|
-|The New Media Firm: Galvanize Action|1.00 USD|[70](https://www.snap.com/political-ads/asset/2d2be9944b158d2ca4f2f2052e7be56d118b641b88cbe5734caecaf39fed2e2e?mediaType=mp4)|114|FEMALE|18+|united states|
+|The New Media Firm: Galvanize Action|17.00 USD|[65](https://www.snap.com/political-ads/asset/1f990e9d8ca581b3d91f0a101b3530944c896dd2e5b3b54b884d1eb5eb98a3e1?mediaType=mp4)|690|FEMALE|18+|united states|
+|The New Media Firm: Galvanize Action|5.00 USD|[66](https://www.snap.com/political-ads/asset/2d2be9944b158d2ca4f2f2052e7be56d118b641b88cbe5734caecaf39fed2e2e?mediaType=mp4)|260|FEMALE|18+|united states|
+|The New Media Firm: Galvanize Action|4.00 USD|[67](https://www.snap.com/political-ads/asset/1f990e9d8ca581b3d91f0a101b3530944c896dd2e5b3b54b884d1eb5eb98a3e1?mediaType=mp4)|207|FEMALE|18+|united states|
+|The New Media Firm: Galvanize Action|1.00 USD|[68](https://www.snap.com/political-ads/asset/1f990e9d8ca581b3d91f0a101b3530944c896dd2e5b3b54b884d1eb5eb98a3e1?mediaType=mp4)|140|FEMALE|18+|united states|
+|The New Media Firm: Galvanize Action|1.00 USD|[69](https://www.snap.com/political-ads/asset/2d2be9944b158d2ca4f2f2052e7be56d118b641b88cbe5734caecaf39fed2e2e?mediaType=mp4)|114|FEMALE|18+|united states|

@@ -1,7 +1,7 @@
 ## 2024 - San Bernardino County 
-**Spent**: 27,958.00
+**Spent**: 29,297.00
 
-**Impressions**: 4,756,362
+**Impressions**: 5,009,024
 
 **Billing Addresses**: US
 
@@ -16,9 +16,10 @@
 |Search for Businesses  LLC: San Bernardino County Registrar of Voters|1,997.00 USD|[6](https://www.snap.com/political-ads/asset/66d007c11e1797bc89499e45036a48963f98e6ac6944fc662c49538f0aaf9df3?mediaType=mp4)|239,442||18+|united states|
 |Search for Businesses  LLC|2,036.00 USD|[7](https://www.snap.com/political-ads/asset/7b32e0b1179f8e0e8eb9150bdcfffcb371a4c2405b969a791fd4c5f652bb50ea?mediaType=mp4)|220,835||18+|united states|
 |Search for Businesses  LLC|1,873.00 USD|[8](https://www.snap.com/political-ads/asset/f3d6c40937b5fffb4ab38a08c06d289e6c71eda8ec1cf80ff42511bec5137ae3?mediaType=mp4)|203,968||18+|united states|
-|Search for Businesses  LLC: San Bernardino County|497.00 USD|[9](https://www.snap.com/political-ads/asset/3fb6d5a281a3d97738b1fa078094ccf09b501c5af77616d9883a6456b6e38208?mediaType=jpg)|57,075||18+|united states|
-|Search for Businesses  LLC|225.00 USD|[10](https://www.snap.com/political-ads/asset/a8d1088d5b17ced9acf58a6650f1bea4fedfc4414e3b3928fc92fee4c0e10e31?mediaType=mp4)|48,039||18-34|united states|
-|Search for Businesses  LLC|197.00 USD|[11](https://www.snap.com/political-ads/asset/8ea8d9cc2a1dd0693fb510591b5a57ad6afbe8ffd91eabe32de31c41ee6946ea?mediaType=jpg)|42,045||18-34|united states|
-|Search for Businesses  LLC|194.00 USD|[12](https://www.snap.com/political-ads/asset/943fad2c88f0e46ae93f3180fee8b9bbe2fd6eea959bb6317a463e849dd502e3?mediaType=jpg)|41,417||18-34|united states|
-|Search for Businesses  LLC|166.00 USD|[13](https://www.snap.com/political-ads/asset/b381dae7610250b36d755f7e431e34dfd55791daf549144cc12a33aea28a417d?mediaType=mp4)|26,351|||united states|
-|Search for Businesses  LLC|140.00 USD|[14](https://www.snap.com/political-ads/asset/8887276f97a03cd1554fe5b67338481b88d4e78e8999c9d0b62a87f3a5f953d4?mediaType=jpg)|21,332|||united states|
+|Search for Businesses  LLC|468.00 USD||102,314||18+|united states|
+|Search for Businesses  LLC|356.00 USD|[10](https://www.snap.com/political-ads/asset/a8d1088d5b17ced9acf58a6650f1bea4fedfc4414e3b3928fc92fee4c0e10e31?mediaType=mp4)|73,894||18-34|united states|
+|Search for Businesses  LLC|441.00 USD|[11](https://www.snap.com/political-ads/asset/b381dae7610250b36d755f7e431e34dfd55791daf549144cc12a33aea28a417d?mediaType=mp4)|69,955|||united states|
+|Search for Businesses  LLC|311.00 USD|[12](https://www.snap.com/political-ads/asset/8ea8d9cc2a1dd0693fb510591b5a57ad6afbe8ffd91eabe32de31c41ee6946ea?mediaType=jpg)|64,500||18-34|united states|
+|Search for Businesses  LLC|305.00 USD|[13](https://www.snap.com/political-ads/asset/943fad2c88f0e46ae93f3180fee8b9bbe2fd6eea959bb6317a463e849dd502e3?mediaType=jpg)|63,273||18-34|united states|
+|Search for Businesses  LLC|380.00 USD|[14](https://www.snap.com/political-ads/asset/8887276f97a03cd1554fe5b67338481b88d4e78e8999c9d0b62a87f3a5f953d4?mediaType=jpg)|57,910|||united states|
+|Search for Businesses  LLC: San Bernardino County|497.00 USD|[15](https://www.snap.com/political-ads/asset/3fb6d5a281a3d97738b1fa078094ccf09b501c5af77616d9883a6456b6e38208?mediaType=jpg)|57,075||18+|united states|

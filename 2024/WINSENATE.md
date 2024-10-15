@@ -1,7 +1,7 @@
 ## 2024 - WINSENATE 
-**Spent**: 160,683.00
+**Spent**: 178,736.00
 
-**Impressions**: 22,822,552
+**Impressions**: 26,252,609
 
 **Billing Addresses**: 
 - 1421 Prince St Suite 320,Alexandria,22314,US
@@ -10,19 +10,19 @@
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
 |MVAR Media: WinSenate Michigan|29,907.00 USD|[0](https://www.snap.com/political-ads/asset/66bc0b931c20749fa4a96801d7de82dd424dd7dbfb9acf3c7bf203b6792629e3?mediaType=mp4)|4,399,707||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: WinSenate Michigan|14,026.00 USD|[1](https://www.snap.com/political-ads/asset/9ff9d3b5337068bc4a056005782e03e68a501db1a72dfe0d92c44d625a23e382?mediaType=jpg)|2,741,507||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: WinSenate Michigan|11,180.00 USD|[2](https://www.snap.com/political-ads/asset/1ba191538260123393f31687b6eaf395ec64b1a20861f4722b79f97ed2c8c493?mediaType=jpg)|1,926,192||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: WinSenate Michigan|11,100.00 USD|[3](https://www.snap.com/political-ads/asset/e98dcffded6773a4a95f4eb1f8831a342b6f6d8d705764bcdfc8af630aaef662?mediaType=jpg)|1,912,274||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: WinSenate|8,162.00 USD|[4](https://www.snap.com/political-ads/asset/e202e08b54c1db17797551f6fca1566de0177aeb589b738a25d85dbeea1b5777?mediaType=mp4)|1,670,096||18-30|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: WinSenate Michigan|5,699.00 USD|[5](https://www.snap.com/political-ads/asset/09b98ed2e4e60f782e99058d2c87bf0da0b95352929455fda42cd70ca62d4f15?mediaType=mov)|948,878||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: WinSenate Michigan|4,523.00 USD|[6](https://www.snap.com/political-ads/asset/1f87eb95d018bf064a3746fad8d47120905701fe573652c44f91e3444a789ad6?mediaType=mp4)|765,441||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|Wavelength Strategy|3,046.00 USD|[7](https://www.snap.com/political-ads/asset/5aa122bd65c16ab885a7d48e25cb48a8b961f9e83697939cf1508bc639f770c3?mediaType=jpg)|478,911||18-34|united states|US|
-|Wavelength Strategy|2,668.00 USD|[8](https://www.snap.com/political-ads/asset/0836cb503592ec710c53c0b43b49cabe46339616cf2024dc3d414308cb5b2159?mediaType=mp4)|420,927||18-34|united states|US|
-|Wavelength Strategy|2,652.00 USD|[9](https://www.snap.com/political-ads/asset/9be8004153525bec310d6afe29f0e8c231826fc08ed595250509451412997b49?mediaType=mp4)|420,871||18-34|united states|US|
-|Wavelength Strategy|1,889.00 USD|[10](https://www.snap.com/political-ads/asset/5f93f985472a50bd22e85568c5d4867cd5635cd11ecf093bb1b35922292fdefd?mediaType=jpeg)|326,204||18+|united states|US|
-|Wavelength Strategy|1,761.00 USD|[11](https://www.snap.com/political-ads/asset/9673e4a1d75b2804b6784f6cdbddceb13a6fa533a8b30039888af49517477f87?mediaType=mp4)|305,020||18+|united states|US|
-|Wavelength Strategy|1,730.00 USD|[12](https://www.snap.com/political-ads/asset/9d70ce95cc2dcb3552af455823f1d3b035e390f42d7d2968262ce89ae37f8aef?mediaType=mp4)|299,641||18+|united states|US|
-|MVAR Media: WinSenate Michigan|1,334.00 USD|[13](https://www.snap.com/political-ads/asset/73caf95fe3b4810cee1faed17e641622a48c3dd55b6ff38b028b3105426ef826?mediaType=mp4)|277,174||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate|20,100.00 USD|[1](https://www.snap.com/political-ads/asset/e202e08b54c1db17797551f6fca1566de0177aeb589b738a25d85dbeea1b5777?mediaType=mp4)|3,921,663||18-30|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate Michigan|14,026.00 USD|[2](https://www.snap.com/political-ads/asset/9ff9d3b5337068bc4a056005782e03e68a501db1a72dfe0d92c44d625a23e382?mediaType=jpg)|2,741,507||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate Michigan|11,180.00 USD|[3](https://www.snap.com/political-ads/asset/1ba191538260123393f31687b6eaf395ec64b1a20861f4722b79f97ed2c8c493?mediaType=jpg)|1,926,192||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate Michigan|11,100.00 USD|[4](https://www.snap.com/political-ads/asset/e98dcffded6773a4a95f4eb1f8831a342b6f6d8d705764bcdfc8af630aaef662?mediaType=jpg)|1,912,274||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate Michigan|7,541.00 USD|[5](https://www.snap.com/political-ads/asset/09b98ed2e4e60f782e99058d2c87bf0da0b95352929455fda42cd70ca62d4f15?mediaType=mov)|1,310,486||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate Michigan|7,005.00 USD|[6](https://www.snap.com/political-ads/asset/1f87eb95d018bf064a3746fad8d47120905701fe573652c44f91e3444a789ad6?mediaType=mp4)|1,230,848||31+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: WinSenate Michigan|3,125.00 USD|[7](https://www.snap.com/political-ads/asset/73caf95fe3b4810cee1faed17e641622a48c3dd55b6ff38b028b3105426ef826?mediaType=mp4)|628,649||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|Wavelength Strategy|3,046.00 USD|[8](https://www.snap.com/political-ads/asset/5aa122bd65c16ab885a7d48e25cb48a8b961f9e83697939cf1508bc639f770c3?mediaType=jpg)|478,911||18-34|united states|US|
+|Wavelength Strategy|2,668.00 USD|[9](https://www.snap.com/political-ads/asset/0836cb503592ec710c53c0b43b49cabe46339616cf2024dc3d414308cb5b2159?mediaType=mp4)|420,927||18-34|united states|US|
+|Wavelength Strategy|2,652.00 USD|[10](https://www.snap.com/political-ads/asset/9be8004153525bec310d6afe29f0e8c231826fc08ed595250509451412997b49?mediaType=mp4)|420,871||18-34|united states|US|
+|Wavelength Strategy|1,889.00 USD|[11](https://www.snap.com/political-ads/asset/5f93f985472a50bd22e85568c5d4867cd5635cd11ecf093bb1b35922292fdefd?mediaType=jpeg)|326,204||18+|united states|US|
+|Wavelength Strategy|1,761.00 USD|[12](https://www.snap.com/political-ads/asset/9673e4a1d75b2804b6784f6cdbddceb13a6fa533a8b30039888af49517477f87?mediaType=mp4)|305,020||18+|united states|US|
+|Wavelength Strategy|1,730.00 USD|[13](https://www.snap.com/political-ads/asset/9d70ce95cc2dcb3552af455823f1d3b035e390f42d7d2968262ce89ae37f8aef?mediaType=mp4)|299,641||18+|united states|US|
 |Wavelength Strategy|1,482.00 USD|[14](https://www.snap.com/political-ads/asset/5aa122bd65c16ab885a7d48e25cb48a8b961f9e83697939cf1508bc639f770c3?mediaType=jpg)|277,053||18-34|united states|US|
 |Wavelength Strategy|1,453.00 USD|[15](https://www.snap.com/political-ads/asset/9be8004153525bec310d6afe29f0e8c231826fc08ed595250509451412997b49?mediaType=mp4)|271,254||18-34|united states|US|
 |Wavelength Strategy|1,422.00 USD|[16](https://www.snap.com/political-ads/asset/0836cb503592ec710c53c0b43b49cabe46339616cf2024dc3d414308cb5b2159?mediaType=mp4)|265,751||18-34|united states|US|
