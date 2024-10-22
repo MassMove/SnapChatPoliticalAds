@@ -1,7 +1,7 @@
 ## 2024 - MATW 
 **Spent**: 276,449.00
 
-**Impressions**: 36,241,367
+**Impressions**: 36,241,325
 
 **Billing Addresses**: AE
 
@@ -649,8 +649,8 @@
 |MATW Project|0.00 AUD|[639](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|61||24+|united states|
 |MATW Project|0.00 AUD|[640](https://www.snap.com/political-ads/asset/cbce4c5b926efa398c2381995b8a86d354b353e60107b6deeeb58a482864c5d8?mediaType=jpeg)|59||24+|united kingdom|
 |MATW Project|0.00 AUD|[641](https://www.snap.com/political-ads/asset/106b086e97701424cec442e3abc46a4dc8349995b3fe32dcbf83eb1ea11b9e96?mediaType=mp4)|58||24+|united kingdom|
-|MATW Project|0.00 AUD|[642](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|australia|
-|MATW Project|0.00 AUD|[643](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|united kingdom|
+|MATW Project|0.00 AUD|[642](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|united kingdom|
+|MATW Project|0.00 AUD|[643](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|australia|
 |MATW Project|0.00 AUD|[644](https://www.snap.com/political-ads/asset/2f309fc557b6b3faeb5856199a4708503eaa6908d81319d67b9a853a878a7db6?mediaType=jpeg)|56||24+|united kingdom|
 |MATW Project|0.00 AUD|[645](https://www.snap.com/political-ads/asset/3f7fdacc1978161e7b838b39d4030f6963b7702cae65d59a62842d3d21e3d0ba?mediaType=png)|54||24+|united states|
 |MATW Project|2.00 AUD|[646](https://www.snap.com/political-ads/asset/ce01e3aba9329516b78c30c738edb9f6ea47a762755e25788e886cbe53eed889?mediaType=mp4)|53||24+|united arab emirates|
@@ -667,49 +667,48 @@
 |MATW Project|0.00 AUD|[657](https://www.snap.com/political-ads/asset/8b4fc476506414a0215abcb8d9e3cd2697fd7b268eeedc4b2ba42a92c82c57d0?mediaType=mp4)|46||24+|australia|
 |MATW Project|0.00 AUD|[658](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|43||24+|united kingdom|
 |MATW Project|0.00 AUD|[659](https://www.snap.com/political-ads/asset/229739d3c827de974d827c0808dd7c3813a75be05ad479c823b3936ad43b5d1e?mediaType=png)|42||24+|united states|
-|MATW Project|0.00 AUD|[660](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|42||24+|united kingdom|
-|MATW Project|0.00 AUD|[661](https://www.snap.com/political-ads/asset/494271a20e02891d6713817fa41d37c694834762c7e52ccd73ca27f9993d2cce?mediaType=mp4)|41||24+|united states|
-|MATW Project|0.00 AUD|[662](https://www.snap.com/political-ads/asset/27a183c00fe01d3a84f44763fc5892f63cec1207df9e5c7fede4ec76d83578b1?mediaType=png)|39||24+|united arab emirates|
-|MATW Project|0.00 AUD|[663](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|39||24+|united kingdom|
-|MATW Project|0.00 AUD|[664](https://www.snap.com/political-ads/asset/8b4fc476506414a0215abcb8d9e3cd2697fd7b268eeedc4b2ba42a92c82c57d0?mediaType=mp4)|39||24+|united kingdom|
-|MATW Project|0.00 AUD|[665](https://www.snap.com/political-ads/asset/311f2c1873ef42b48fc5ffa11755409bc0158b718e7a85d8714d355f8191ce3d?mediaType=mp4)|38||24+|united kingdom|
-|MATW Project|7.00 AUD|[666](https://www.snap.com/political-ads/asset/b99f4880bd89820249083349ea6092369a262ae294b22575219001eee54eeafc?mediaType=mp4)|37||24+|united arab emirates|
-|MATW Project|0.00 AUD|[667](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|37||24+|australia|
-|MATW Project|0.00 AUD|[668](https://www.snap.com/political-ads/asset/26b789f61ea71ac10cb83fc8486460e1a76cfe4bfb9de83381f71f3c61a60585?mediaType=mp4)|36||24+|australia|
-|MATW Project|0.00 AUD|[669](https://www.snap.com/political-ads/asset/2f309fc557b6b3faeb5856199a4708503eaa6908d81319d67b9a853a878a7db6?mediaType=jpeg)|36||24+|united kingdom|
-|MATW Project|0.00 AUD|[670](https://www.snap.com/political-ads/asset/798d16f3b69a5fb7d6e48b06bf7706c23ee937b9dc939c34ad3eb2f6e112a344?mediaType=mp4)|35||24+|united kingdom|
-|MATW Project|0.00 AUD|[671](https://www.snap.com/political-ads/asset/f9069ec21dab9c15c3acd5648d9c078005e14ceee17a0bc678e93fe94ae46697?mediaType=jpeg)|35||24+|united kingdom|
-|MATW Project|1.00 AUD|[672](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|34||24+|united arab emirates|
-|MATW Project|0.00 AUD|[673](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|34||24+|united kingdom|
-|MATW Project|0.00 AUD|[674](https://www.snap.com/political-ads/asset/99fc98235f9500c0a3aff8dbfb0baaa999987c1f25e5e5e9d9dcfd1f7df582da?mediaType=mp4)|34||24+|australia|
-|MATW Project|0.00 AUD|[675](https://www.snap.com/political-ads/asset/721129079424389407303a3e66f46d1ee8f9f4404e638c651e36e425f2b6414c?mediaType=mp4)|32||24+|australia|
-|MATW Project|0.00 AUD|[676](https://www.snap.com/political-ads/asset/311f2c1873ef42b48fc5ffa11755409bc0158b718e7a85d8714d355f8191ce3d?mediaType=mp4)|31||24+|united kingdom|
-|MATW Project|0.00 AUD|[677](https://www.snap.com/political-ads/asset/c7593eedcc5ac8c2f7e10db6db523ff96199f09cd7df8da3cf96b8864b7186e2?mediaType=png)|31||24+|australia|
-|MATW Project|0.00 AUD|[678](https://www.snap.com/political-ads/asset/99fc98235f9500c0a3aff8dbfb0baaa999987c1f25e5e5e9d9dcfd1f7df582da?mediaType=mp4)|28||24+|united kingdom|
-|MATW Project|0.00 AUD|[679](https://www.snap.com/political-ads/asset/494271a20e02891d6713817fa41d37c694834762c7e52ccd73ca27f9993d2cce?mediaType=mp4)|27||24+|australia|
-|MATW Project|0.00 AUD|[680](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|27||24+|australia|
-|MATW Project|0.00 AUD|[681](https://www.snap.com/political-ads/asset/99fc98235f9500c0a3aff8dbfb0baaa999987c1f25e5e5e9d9dcfd1f7df582da?mediaType=mp4)|27||24+|united kingdom|
-|MATW Project|0.00 AUD|[682](https://www.snap.com/political-ads/asset/5d9c062aa13f7737337798d93bbd5afa55fe8120721a2a3427ac42d3381b6326?mediaType=mp4)|26||24+|united kingdom|
-|MATW Project|0.00 AUD|[683](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|26||24+|united kingdom|
-|MATW Project|0.00 AUD|[684](https://www.snap.com/political-ads/asset/dba8487871270edf3b3d0bf82d6648c5cf0b1849614957ad8021fe9cf010ef04?mediaType=png)|26||24+|united states|
-|MATW Project|0.00 AUD|[685](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|25||24+|united kingdom|
-|MATW Project|0.00 AUD|[686](https://www.snap.com/political-ads/asset/78406c2f9ce376d2c668ae2b98f6fedad33d5c1fb9af7ac598c9734c5bb85ef1?mediaType=mp4)|24||24+|australia|
-|MATW Project|0.00 AUD|[687](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|23||24+|united kingdom|
+|MATW Project|0.00 AUD|[660](https://www.snap.com/political-ads/asset/494271a20e02891d6713817fa41d37c694834762c7e52ccd73ca27f9993d2cce?mediaType=mp4)|41||24+|united states|
+|MATW Project|0.00 AUD|[661](https://www.snap.com/political-ads/asset/27a183c00fe01d3a84f44763fc5892f63cec1207df9e5c7fede4ec76d83578b1?mediaType=png)|39||24+|united arab emirates|
+|MATW Project|0.00 AUD|[662](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|39||24+|united kingdom|
+|MATW Project|0.00 AUD|[663](https://www.snap.com/political-ads/asset/8b4fc476506414a0215abcb8d9e3cd2697fd7b268eeedc4b2ba42a92c82c57d0?mediaType=mp4)|39||24+|united kingdom|
+|MATW Project|0.00 AUD|[664](https://www.snap.com/political-ads/asset/311f2c1873ef42b48fc5ffa11755409bc0158b718e7a85d8714d355f8191ce3d?mediaType=mp4)|38||24+|united kingdom|
+|MATW Project|7.00 AUD|[665](https://www.snap.com/political-ads/asset/b99f4880bd89820249083349ea6092369a262ae294b22575219001eee54eeafc?mediaType=mp4)|37||24+|united arab emirates|
+|MATW Project|0.00 AUD|[666](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|37||24+|australia|
+|MATW Project|0.00 AUD|[667](https://www.snap.com/political-ads/asset/26b789f61ea71ac10cb83fc8486460e1a76cfe4bfb9de83381f71f3c61a60585?mediaType=mp4)|36||24+|australia|
+|MATW Project|0.00 AUD|[668](https://www.snap.com/political-ads/asset/2f309fc557b6b3faeb5856199a4708503eaa6908d81319d67b9a853a878a7db6?mediaType=jpeg)|36||24+|united kingdom|
+|MATW Project|0.00 AUD|[669](https://www.snap.com/political-ads/asset/798d16f3b69a5fb7d6e48b06bf7706c23ee937b9dc939c34ad3eb2f6e112a344?mediaType=mp4)|35||24+|united kingdom|
+|MATW Project|0.00 AUD|[670](https://www.snap.com/political-ads/asset/f9069ec21dab9c15c3acd5648d9c078005e14ceee17a0bc678e93fe94ae46697?mediaType=jpeg)|35||24+|united kingdom|
+|MATW Project|1.00 AUD|[671](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|34||24+|united arab emirates|
+|MATW Project|0.00 AUD|[672](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|34||24+|united kingdom|
+|MATW Project|0.00 AUD|[673](https://www.snap.com/political-ads/asset/99fc98235f9500c0a3aff8dbfb0baaa999987c1f25e5e5e9d9dcfd1f7df582da?mediaType=mp4)|34||24+|australia|
+|MATW Project|0.00 AUD|[674](https://www.snap.com/political-ads/asset/721129079424389407303a3e66f46d1ee8f9f4404e638c651e36e425f2b6414c?mediaType=mp4)|32||24+|australia|
+|MATW Project|0.00 AUD|[675](https://www.snap.com/political-ads/asset/311f2c1873ef42b48fc5ffa11755409bc0158b718e7a85d8714d355f8191ce3d?mediaType=mp4)|31||24+|united kingdom|
+|MATW Project|0.00 AUD|[676](https://www.snap.com/political-ads/asset/c7593eedcc5ac8c2f7e10db6db523ff96199f09cd7df8da3cf96b8864b7186e2?mediaType=png)|31||24+|australia|
+|MATW Project|0.00 AUD|[677](https://www.snap.com/political-ads/asset/99fc98235f9500c0a3aff8dbfb0baaa999987c1f25e5e5e9d9dcfd1f7df582da?mediaType=mp4)|28||24+|united kingdom|
+|MATW Project|0.00 AUD|[678](https://www.snap.com/political-ads/asset/494271a20e02891d6713817fa41d37c694834762c7e52ccd73ca27f9993d2cce?mediaType=mp4)|27||24+|australia|
+|MATW Project|0.00 AUD|[679](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|27||24+|australia|
+|MATW Project|0.00 AUD|[680](https://www.snap.com/political-ads/asset/99fc98235f9500c0a3aff8dbfb0baaa999987c1f25e5e5e9d9dcfd1f7df582da?mediaType=mp4)|27||24+|united kingdom|
+|MATW Project|0.00 AUD|[681](https://www.snap.com/political-ads/asset/5d9c062aa13f7737337798d93bbd5afa55fe8120721a2a3427ac42d3381b6326?mediaType=mp4)|26||24+|united kingdom|
+|MATW Project|0.00 AUD|[682](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|26||24+|united kingdom|
+|MATW Project|0.00 AUD|[683](https://www.snap.com/political-ads/asset/dba8487871270edf3b3d0bf82d6648c5cf0b1849614957ad8021fe9cf010ef04?mediaType=png)|26||24+|united states|
+|MATW Project|0.00 AUD|[684](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|25||24+|united kingdom|
+|MATW Project|0.00 AUD|[685](https://www.snap.com/political-ads/asset/78406c2f9ce376d2c668ae2b98f6fedad33d5c1fb9af7ac598c9734c5bb85ef1?mediaType=mp4)|24||24+|australia|
+|MATW Project|0.00 AUD|[686](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|23||24+|united kingdom|
+|MATW Project|0.00 AUD|[687](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|23||24+|united kingdom|
 |MATW Project|0.00 AUD|[688](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|23||24+|australia|
-|MATW Project|0.00 AUD|[689](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|23||24+|united kingdom|
-|MATW Project|0.00 AUD|[690](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|21||24+|australia|
-|MATW Project|0.00 AUD|[691](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|18||24+|australia|
-|MATW Project|0.00 AUD|[692](https://www.snap.com/political-ads/asset/494271a20e02891d6713817fa41d37c694834762c7e52ccd73ca27f9993d2cce?mediaType=mp4)|18||24+|united kingdom|
-|MATW Project|0.00 AUD|[693](https://www.snap.com/political-ads/asset/a90dec39a58b8b41b4396a3736d64bb29da1ff4d2e8dfd25bca3154f151e6a06?mediaType=png)|17||24+|united arab emirates|
-|MATW Project|0.00 AUD|[694](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|16||24+|united kingdom|
-|MATW Project|0.00 AUD|[695](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|15||24+|australia|
-|MATW Project|0.00 AUD|[696](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|14||24+|australia|
-|MATW Project|0.00 AUD|[697](https://www.snap.com/political-ads/asset/a02bd9862e4314ede702d600f8d1da5896e78951ce571ffecb9ea03818979ea0?mediaType=png)|12||24+|united states|
-|MATW Project|0.00 AUD|[698](https://www.snap.com/political-ads/asset/78406c2f9ce376d2c668ae2b98f6fedad33d5c1fb9af7ac598c9734c5bb85ef1?mediaType=mp4)|7||24+|united kingdom|
-|MATW Project|0.00 AUD|[699](https://www.snap.com/political-ads/asset/c7593eedcc5ac8c2f7e10db6db523ff96199f09cd7df8da3cf96b8864b7186e2?mediaType=png)|6||24+|united states|
-|MATW Project|5.00 AUD|[700](https://www.snap.com/political-ads/asset/311f2c1873ef42b48fc5ffa11755409bc0158b718e7a85d8714d355f8191ce3d?mediaType=mp4)|5||24+|united arab emirates|
-|MATW Project|0.00 AUD|[701](https://www.snap.com/political-ads/asset/1b35546aa4ca6b6ca166b2f37e5c15819f9b00bb3558fb70f8c24658b6f9a211?mediaType=mp4)|5||24+|united kingdom|
-|MATW Project|0.00 AUD|[702](https://www.snap.com/political-ads/asset/721129079424389407303a3e66f46d1ee8f9f4404e638c651e36e425f2b6414c?mediaType=mp4)|3||24+|united arab emirates|
-|MATW Project|0.00 AUD|[703](https://www.snap.com/political-ads/asset/c7593eedcc5ac8c2f7e10db6db523ff96199f09cd7df8da3cf96b8864b7186e2?mediaType=png)|3||24+|united states|
-|MATW Project|0.00 AUD|[704](https://www.snap.com/political-ads/asset/229739d3c827de974d827c0808dd7c3813a75be05ad479c823b3936ad43b5d1e?mediaType=png)|2||24+|united arab emirates|
-|MATW Project|0.00 AUD|[705](https://www.snap.com/political-ads/asset/a417dda7cb45e485de247bb31dd58e4af659e6fd850b32feef678e23372232ab?mediaType=mp4)|1||24+|united kingdom|
+|MATW Project|0.00 AUD|[689](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|21||24+|australia|
+|MATW Project|0.00 AUD|[690](https://www.snap.com/political-ads/asset/440da7c871713a0bc5b73c66b82deb5f5d724b4937cebceb0632b11040544ab0?mediaType=mp4)|18||24+|australia|
+|MATW Project|0.00 AUD|[691](https://www.snap.com/political-ads/asset/494271a20e02891d6713817fa41d37c694834762c7e52ccd73ca27f9993d2cce?mediaType=mp4)|18||24+|united kingdom|
+|MATW Project|0.00 AUD|[692](https://www.snap.com/political-ads/asset/a90dec39a58b8b41b4396a3736d64bb29da1ff4d2e8dfd25bca3154f151e6a06?mediaType=png)|17||24+|united arab emirates|
+|MATW Project|0.00 AUD|[693](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|16||24+|united kingdom|
+|MATW Project|0.00 AUD|[694](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|15||24+|australia|
+|MATW Project|0.00 AUD|[695](https://www.snap.com/political-ads/asset/549895a1c637d9242bac4f1f0fd59b82764901e4bc00275fe88f3c3f10a8ed19?mediaType=jpeg)|14||24+|australia|
+|MATW Project|0.00 AUD|[696](https://www.snap.com/political-ads/asset/a02bd9862e4314ede702d600f8d1da5896e78951ce571ffecb9ea03818979ea0?mediaType=png)|12||24+|united states|
+|MATW Project|0.00 AUD|[697](https://www.snap.com/political-ads/asset/78406c2f9ce376d2c668ae2b98f6fedad33d5c1fb9af7ac598c9734c5bb85ef1?mediaType=mp4)|7||24+|united kingdom|
+|MATW Project|0.00 AUD|[698](https://www.snap.com/political-ads/asset/c7593eedcc5ac8c2f7e10db6db523ff96199f09cd7df8da3cf96b8864b7186e2?mediaType=png)|6||24+|united states|
+|MATW Project|5.00 AUD|[699](https://www.snap.com/political-ads/asset/311f2c1873ef42b48fc5ffa11755409bc0158b718e7a85d8714d355f8191ce3d?mediaType=mp4)|5||24+|united arab emirates|
+|MATW Project|0.00 AUD|[700](https://www.snap.com/political-ads/asset/1b35546aa4ca6b6ca166b2f37e5c15819f9b00bb3558fb70f8c24658b6f9a211?mediaType=mp4)|5||24+|united kingdom|
+|MATW Project|0.00 AUD|[701](https://www.snap.com/political-ads/asset/721129079424389407303a3e66f46d1ee8f9f4404e638c651e36e425f2b6414c?mediaType=mp4)|3||24+|united arab emirates|
+|MATW Project|0.00 AUD|[702](https://www.snap.com/political-ads/asset/c7593eedcc5ac8c2f7e10db6db523ff96199f09cd7df8da3cf96b8864b7186e2?mediaType=png)|3||24+|united states|
+|MATW Project|0.00 AUD|[703](https://www.snap.com/political-ads/asset/229739d3c827de974d827c0808dd7c3813a75be05ad479c823b3936ad43b5d1e?mediaType=png)|2||24+|united arab emirates|
+|MATW Project|0.00 AUD|[704](https://www.snap.com/political-ads/asset/a417dda7cb45e485de247bb31dd58e4af659e6fd850b32feef678e23372232ab?mediaType=mp4)|1||24+|united kingdom|

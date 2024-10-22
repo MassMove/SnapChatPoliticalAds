@@ -1,7 +1,7 @@
 ## 2021 - Liberal Party of Canada 
-**Spent**: 35,131.00
+**Spent**: 35,244.00
 
-**Impressions**: 2,049,682
+**Impressions**: 2,057,812
 
 **Billing Addresses**: 423 rue St-Nicolas suite 400,Montreal,H2Y2P4,CA
 
@@ -52,22 +52,23 @@
 |Data Sciences: Liberal Party of Canada|216.00 CAD|[42](https://www.snap.com/political-ads/asset/0fe6f8dcc549d2935d367e569d3b62fe89e201752b52cee415a90fb5134682ef?mediaType=mp4)|10,069||18+|canada|
 |Data Sciences: Liberal Party of Canada|189.00 CAD|[43](https://www.snap.com/political-ads/asset/a04869d8f62cb195a8460ffe6ee441c8a20457b7e88256dda4851e2276e53e9c?mediaType=mp4)|9,348||18+|canada|
 |Data Sciences: Liberal Party of Canada|295.00 CAD|[44](https://www.snap.com/political-ads/asset/ffed37779ce77dfb93b01d2018f75b7f9343c0ccd185e5ebf2365c300d08bdb7?mediaType=mp4)|8,674||18+|canada|
-|Data Sciences: Liberal Party of Canada|157.00 CAD|[45](https://www.snap.com/political-ads/asset/307a6de4d4744e17d691287a9e7fe5be0a6c78c6b288c402c1e169e0a82c6c15?mediaType=mp4)|8,055||18+|canada|
-|Data Sciences: Liberal Party of Canada|170.00 CAD|[46](https://www.snap.com/political-ads/asset/df00456600fcc944b8314b574c26528cd0e257af4d5e86305ade162fc5b50ca8?mediaType=mp4)|7,463||18+|canada|
-|Data Sciences: Liberal Party of Canada|90.00 CAD|[47](https://www.snap.com/political-ads/asset/a04869d8f62cb195a8460ffe6ee441c8a20457b7e88256dda4851e2276e53e9c?mediaType=mp4)|6,630||18+|canada|
-|Data Sciences: Liberal Party of Canada|118.00 CAD|[48](https://www.snap.com/political-ads/asset/0fe6f8dcc549d2935d367e569d3b62fe89e201752b52cee415a90fb5134682ef?mediaType=mp4)|6,249||18+|canada|
-|Data Sciences: Liberal Party of Canada|139.00 CAD|[49](https://www.snap.com/political-ads/asset/bc31f0c52295b6fc7aeb0f0712b8f6ad36de43ef073bdb8e4e0667336404857d?mediaType=mp4)|6,044||18+|canada|
-|Data Sciences: Liberal Party of Canada|129.00 CAD|[50](https://www.snap.com/political-ads/asset/a04869d8f62cb195a8460ffe6ee441c8a20457b7e88256dda4851e2276e53e9c?mediaType=mp4)|5,278||18+|canada|
-|Data Sciences: Liberal Party of Canada|120.00 CAD|[51](https://www.snap.com/political-ads/asset/307a6de4d4744e17d691287a9e7fe5be0a6c78c6b288c402c1e169e0a82c6c15?mediaType=mp4)|4,155||18+|canada|
-|Data Sciences: Liberal Party of Canada|103.00 CAD|[52](https://www.snap.com/political-ads/asset/48f1388eb55069667c17c438ceff214e318eb1a23e27dfb2c0e0a1a392908483?mediaType=mp4)|4,019||18+|canada|
-|Data Sciences: Liberal Party of Canada|80.00 CAD|[53](https://www.snap.com/political-ads/asset/a05836c27604bd679f8568064dd4e36d185e340eadd79d4546c415896dc3dcfb?mediaType=mp4)|3,831||18+|canada|
-|Data Sciences: Liberal Party of Canada|72.00 CAD|[54](https://www.snap.com/political-ads/asset/bc31f0c52295b6fc7aeb0f0712b8f6ad36de43ef073bdb8e4e0667336404857d?mediaType=mp4)|3,131||18+|canada|
-|Data Sciences: Liberal Party of Canada|85.00 CAD|[55](https://www.snap.com/political-ads/asset/307a6de4d4744e17d691287a9e7fe5be0a6c78c6b288c402c1e169e0a82c6c15?mediaType=mp4)|3,113||18+|canada|
-|Data Sciences: Liberal Party of Canada|63.00 CAD|[56](https://www.snap.com/political-ads/asset/afc15988028fca5b22f2e2005cc67e385b52b9fb91ef8457a29787ccb4289a1b?mediaType=mp4)|2,824||18+|canada|
-|Data Sciences: Liberal Party of Canada|55.00 CAD|[57](https://www.snap.com/political-ads/asset/a05836c27604bd679f8568064dd4e36d185e340eadd79d4546c415896dc3dcfb?mediaType=mp4)|2,677||18+|canada|
-|Data Sciences: Liberal Party of Canada|49.00 CAD|[58](https://www.snap.com/political-ads/asset/7aeaea02a68bfb023ba351283d5774dbcaf67ddf8856a420a328bea6c43c9678?mediaType=mp4)|2,603||18+|canada|
-|Data Sciences: Liberal Party of Canada|67.00 CAD|[59](https://www.snap.com/political-ads/asset/9d036f94d1de8c0f4eff562bf209f52b44d75954cdcbd48f0caf6e51d36025de?mediaType=mp4)|2,173||18+|canada|
-|Data Sciences: Liberal Party of Canada|53.00 CAD|[60](https://www.snap.com/political-ads/asset/afc15988028fca5b22f2e2005cc67e385b52b9fb91ef8457a29787ccb4289a1b?mediaType=mp4)|1,841||18+|canada|
-|Data Sciences: Liberal Party of Canada|16.00 CAD|[61](https://www.snap.com/political-ads/asset/9e3568f9ca7121c984d357a2f41527ce70628934f8e4dc7b394d5c5f56e1dc50?mediaType=mp4)|791||18+|canada|
-|Data Sciences: Liberal Party of Canada|17.00 CAD|[62](https://www.snap.com/political-ads/asset/0fe6f8dcc549d2935d367e569d3b62fe89e201752b52cee415a90fb5134682ef?mediaType=mp4)|678||18+|canada|
-|Data Sciences: Liberal Party of Canada|18.00 CAD|[63](https://www.snap.com/political-ads/asset/cc478d868d3f1918dcb717cab55440b74251436107d50606f2b84de80e22f0f8?mediaType=mp4)|483||18+|canada|
+|Data Sciences: Liberal Party of Canada|113.00 CAD|[45](https://www.snap.com/political-ads/asset/bc31f0c52295b6fc7aeb0f0712b8f6ad36de43ef073bdb8e4e0667336404857d?mediaType=mp4)|8,130||18+|canada|
+|Data Sciences: Liberal Party of Canada|157.00 CAD|[46](https://www.snap.com/political-ads/asset/307a6de4d4744e17d691287a9e7fe5be0a6c78c6b288c402c1e169e0a82c6c15?mediaType=mp4)|8,055||18+|canada|
+|Data Sciences: Liberal Party of Canada|170.00 CAD|[47](https://www.snap.com/political-ads/asset/df00456600fcc944b8314b574c26528cd0e257af4d5e86305ade162fc5b50ca8?mediaType=mp4)|7,463||18+|canada|
+|Data Sciences: Liberal Party of Canada|90.00 CAD|[48](https://www.snap.com/political-ads/asset/a04869d8f62cb195a8460ffe6ee441c8a20457b7e88256dda4851e2276e53e9c?mediaType=mp4)|6,630||18+|canada|
+|Data Sciences: Liberal Party of Canada|118.00 CAD|[49](https://www.snap.com/political-ads/asset/0fe6f8dcc549d2935d367e569d3b62fe89e201752b52cee415a90fb5134682ef?mediaType=mp4)|6,249||18+|canada|
+|Data Sciences: Liberal Party of Canada|139.00 CAD|[50](https://www.snap.com/political-ads/asset/bc31f0c52295b6fc7aeb0f0712b8f6ad36de43ef073bdb8e4e0667336404857d?mediaType=mp4)|6,044||18+|canada|
+|Data Sciences: Liberal Party of Canada|129.00 CAD|[51](https://www.snap.com/political-ads/asset/a04869d8f62cb195a8460ffe6ee441c8a20457b7e88256dda4851e2276e53e9c?mediaType=mp4)|5,278||18+|canada|
+|Data Sciences: Liberal Party of Canada|120.00 CAD|[52](https://www.snap.com/political-ads/asset/307a6de4d4744e17d691287a9e7fe5be0a6c78c6b288c402c1e169e0a82c6c15?mediaType=mp4)|4,155||18+|canada|
+|Data Sciences: Liberal Party of Canada|103.00 CAD|[53](https://www.snap.com/political-ads/asset/48f1388eb55069667c17c438ceff214e318eb1a23e27dfb2c0e0a1a392908483?mediaType=mp4)|4,019||18+|canada|
+|Data Sciences: Liberal Party of Canada|80.00 CAD|[54](https://www.snap.com/political-ads/asset/a05836c27604bd679f8568064dd4e36d185e340eadd79d4546c415896dc3dcfb?mediaType=mp4)|3,831||18+|canada|
+|Data Sciences: Liberal Party of Canada|72.00 CAD|[55](https://www.snap.com/political-ads/asset/bc31f0c52295b6fc7aeb0f0712b8f6ad36de43ef073bdb8e4e0667336404857d?mediaType=mp4)|3,131||18+|canada|
+|Data Sciences: Liberal Party of Canada|85.00 CAD|[56](https://www.snap.com/political-ads/asset/307a6de4d4744e17d691287a9e7fe5be0a6c78c6b288c402c1e169e0a82c6c15?mediaType=mp4)|3,113||18+|canada|
+|Data Sciences: Liberal Party of Canada|63.00 CAD|[57](https://www.snap.com/political-ads/asset/afc15988028fca5b22f2e2005cc67e385b52b9fb91ef8457a29787ccb4289a1b?mediaType=mp4)|2,824||18+|canada|
+|Data Sciences: Liberal Party of Canada|55.00 CAD|[58](https://www.snap.com/political-ads/asset/a05836c27604bd679f8568064dd4e36d185e340eadd79d4546c415896dc3dcfb?mediaType=mp4)|2,677||18+|canada|
+|Data Sciences: Liberal Party of Canada|49.00 CAD|[59](https://www.snap.com/political-ads/asset/7aeaea02a68bfb023ba351283d5774dbcaf67ddf8856a420a328bea6c43c9678?mediaType=mp4)|2,603||18+|canada|
+|Data Sciences: Liberal Party of Canada|67.00 CAD|[60](https://www.snap.com/political-ads/asset/9d036f94d1de8c0f4eff562bf209f52b44d75954cdcbd48f0caf6e51d36025de?mediaType=mp4)|2,173||18+|canada|
+|Data Sciences: Liberal Party of Canada|53.00 CAD|[61](https://www.snap.com/political-ads/asset/afc15988028fca5b22f2e2005cc67e385b52b9fb91ef8457a29787ccb4289a1b?mediaType=mp4)|1,841||18+|canada|
+|Data Sciences: Liberal Party of Canada|16.00 CAD|[62](https://www.snap.com/political-ads/asset/9e3568f9ca7121c984d357a2f41527ce70628934f8e4dc7b394d5c5f56e1dc50?mediaType=mp4)|791||18+|canada|
+|Data Sciences: Liberal Party of Canada|17.00 CAD|[63](https://www.snap.com/political-ads/asset/0fe6f8dcc549d2935d367e569d3b62fe89e201752b52cee415a90fb5134682ef?mediaType=mp4)|678||18+|canada|
+|Data Sciences: Liberal Party of Canada|18.00 CAD|[64](https://www.snap.com/political-ads/asset/cc478d868d3f1918dcb717cab55440b74251436107d50606f2b84de80e22f0f8?mediaType=mp4)|483||18+|canada|

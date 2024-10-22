@@ -1,18 +1,18 @@
 ## 2024 - DSCC 
-**Spent**: 13,288.00
+**Spent**: 15,896.00
 
-**Impressions**: 2,315,927
+**Impressions**: 2,797,292
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Wavelength Strategy|1,136.00 USD|[0](https://www.snap.com/political-ads/asset/3c22ce9151da176ae9b2c489efa8fc5872a738af9f90ba1d74958fe60c4dddb7?mediaType=mp4)|216,247||18+|united states|
-|Wavelength Strategy|842.00 USD|[1](https://www.snap.com/political-ads/asset/3c22ce9151da176ae9b2c489efa8fc5872a738af9f90ba1d74958fe60c4dddb7?mediaType=mp4)|166,683||18+|united states|
-|Wavelength Strategy|836.00 USD|[2](https://www.snap.com/political-ads/asset/e981d5f3a48d30a79f2a3179d04487c9ee5b610e8682609c6d3108ea44052099?mediaType=mp4)|165,505||18+|united states|
-|Wavelength Strategy|855.00 USD|[3](https://www.snap.com/political-ads/asset/e981d5f3a48d30a79f2a3179d04487c9ee5b610e8682609c6d3108ea44052099?mediaType=mp4)|160,414||18+|united states|
-|Wavelength Strategy|796.00 USD|[4](https://www.snap.com/political-ads/asset/5b9566c7aafe3dfc3d0be6840df3a3063c0e7bf0acc0be95cb296611c4432f8d?mediaType=png)|157,120||18+|united states|
-|Wavelength Strategy|829.00 USD|[5](https://www.snap.com/political-ads/asset/5b9566c7aafe3dfc3d0be6840df3a3063c0e7bf0acc0be95cb296611c4432f8d?mediaType=png)|155,188||18+|united states|
+|Wavelength Strategy|1,550.00 USD|[0](https://www.snap.com/political-ads/asset/3c22ce9151da176ae9b2c489efa8fc5872a738af9f90ba1d74958fe60c4dddb7?mediaType=mp4)|290,704||18+|united states|
+|Wavelength Strategy|1,302.00 USD|[1](https://www.snap.com/political-ads/asset/3c22ce9151da176ae9b2c489efa8fc5872a738af9f90ba1d74958fe60c4dddb7?mediaType=mp4)|253,745||18+|united states|
+|Wavelength Strategy|1,289.00 USD|[2](https://www.snap.com/political-ads/asset/e981d5f3a48d30a79f2a3179d04487c9ee5b610e8682609c6d3108ea44052099?mediaType=mp4)|251,398||18+|united states|
+|Wavelength Strategy|1,233.00 USD|[3](https://www.snap.com/political-ads/asset/5b9566c7aafe3dfc3d0be6840df3a3063c0e7bf0acc0be95cb296611c4432f8d?mediaType=png)|239,557||18+|united states|
+|Wavelength Strategy|1,280.00 USD|[4](https://www.snap.com/political-ads/asset/e981d5f3a48d30a79f2a3179d04487c9ee5b610e8682609c6d3108ea44052099?mediaType=mp4)|236,759||18+|united states|
+|Wavelength Strategy|1,248.00 USD|[5](https://www.snap.com/political-ads/asset/5b9566c7aafe3dfc3d0be6840df3a3063c0e7bf0acc0be95cb296611c4432f8d?mediaType=png)|230,359||18+|united states|
 |Wavelength Strategy|722.00 USD|[6](https://www.snap.com/political-ads/asset/0d5a85c934c7f921ec599461de0da5743eeeee0dd8d387608e0e404db7f32c79?mediaType=mp4)|119,553||18+|united states|
 |Wavelength Strategy|675.00 USD|[7](https://www.snap.com/political-ads/asset/37ad813eb280594ac52e7479eaac462fc20a207fa70b8ed4a1e744ffe99ef6e5?mediaType=mp4)|112,049||18+|united states|
 |Wavelength Strategy|599.00 USD|[8](https://www.snap.com/political-ads/asset/0d5a85c934c7f921ec599461de0da5743eeeee0dd8d387608e0e404db7f32c79?mediaType=mp4)|105,192||18+|united states|

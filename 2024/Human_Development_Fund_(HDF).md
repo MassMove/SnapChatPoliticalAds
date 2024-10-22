@@ -1,7 +1,7 @@
 ## 2024 - Human Development Fund (HDF) 
-**Spent**: 37,593.00
+**Spent**: 37,733.00
 
-**Impressions**: 3,609,861
+**Impressions**: 3,623,999
 
 **Billing Addresses**: US
 
@@ -23,15 +23,15 @@
 |HD Fund|1,257.00 USD|[13](https://www.snap.com/political-ads/asset/582bfd3bdabd809d3927cd461d76fb403f036d363e109819dd56330d663effa8?mediaType=jpg)|66,334||18+|united states|
 |HD Fund|701.00 USD|[14](https://www.snap.com/political-ads/asset/d3759c04bfad6edea4d02e24b13c13b1fdbe76ed11100d130a834294608cdb92?mediaType=mp4)|45,082||18+|united states|
 |HD Fund|320.00 USD|[15](https://www.snap.com/political-ads/asset/6cef6cf417603121fe9b3e781c1d5d4d9e34b3f0186ab975a29bd2a01a3e37f4?mediaType=png)|31,721||18+|united states|
-|HD Fund|225.00 USD|[16](https://www.snap.com/political-ads/asset/6cef6cf417603121fe9b3e781c1d5d4d9e34b3f0186ab975a29bd2a01a3e37f4?mediaType=png)|22,256||18+|united states|
-|HD Fund|234.00 USD||19,680||18+|united states|
-|HD Fund|329.00 USD|[18](https://www.snap.com/political-ads/asset/15873fd13b0984d2847ed1ec446eb32baede1832723272528efa411583b4329c?mediaType=mp4)|18,807||18+|united states|
-|HD Fund|204.00 USD|[19](https://www.snap.com/political-ads/asset/42a66b6e314f2db2e0c64f2364b7d288b9ebb9e088e40158b183a145a704bcbf?mediaType=mp4)|17,983||20+|united states|
-|HD Fund|143.00 USD|[20](https://www.snap.com/political-ads/asset/d3759c04bfad6edea4d02e24b13c13b1fdbe76ed11100d130a834294608cdb92?mediaType=mp4)|10,629||18+|united states|
-|HD Fund|105.00 USD|[21](https://www.snap.com/political-ads/asset/89b47c04200364e836b77b44458a1c0bd1931f51446166c6dccaef2c67863f3c?mediaType=png)|9,363||18+|united states|
-|HD Fund|120.00 USD|[22](https://www.snap.com/political-ads/asset/bc8d66cb03e82c9b5c36851e0a8571b56a8c01b0679caed8a2097d0f6f9d2e88?mediaType=png)|9,017||18+|united states|
-|HD Fund|107.00 USD|[23](https://www.snap.com/political-ads/asset/0184725ada5c4c1bad2d0df86b77fdce53ebd030b1f711404cf30f00953828d3?mediaType=jpg)|8,611||18+|united states|
-|HD Fund|100.00 USD|[24](https://www.snap.com/political-ads/asset/4cb5c22cb0c86cf5a2e948872439ec512a420356087f87ed4eb31d2b8af8c522?mediaType=mp4)|8,154||20+|united states|
+|HD Fund|317.00 USD|[16](https://www.snap.com/political-ads/asset/42a66b6e314f2db2e0c64f2364b7d288b9ebb9e088e40158b183a145a704bcbf?mediaType=mp4)|29,559||20+|united states|
+|HD Fund|225.00 USD|[17](https://www.snap.com/political-ads/asset/6cef6cf417603121fe9b3e781c1d5d4d9e34b3f0186ab975a29bd2a01a3e37f4?mediaType=png)|22,256||18+|united states|
+|HD Fund|234.00 USD|[18](https://www.snap.com/political-ads/asset/8f3b4659b03b7cfa5f62fc48fa892aa91ea598d0a1df72c6f75fe82523a6d5cf?mediaType=mp4)|19,680||18+|united states|
+|HD Fund|329.00 USD|[19](https://www.snap.com/political-ads/asset/15873fd13b0984d2847ed1ec446eb32baede1832723272528efa411583b4329c?mediaType=mp4)|18,807||18+|united states|
+|HD Fund|127.00 USD|[20](https://www.snap.com/political-ads/asset/4cb5c22cb0c86cf5a2e948872439ec512a420356087f87ed4eb31d2b8af8c522?mediaType=mp4)|10,716||20+|united states|
+|HD Fund|143.00 USD|[21](https://www.snap.com/political-ads/asset/d3759c04bfad6edea4d02e24b13c13b1fdbe76ed11100d130a834294608cdb92?mediaType=mp4)|10,629||18+|united states|
+|HD Fund|105.00 USD|[22](https://www.snap.com/political-ads/asset/89b47c04200364e836b77b44458a1c0bd1931f51446166c6dccaef2c67863f3c?mediaType=png)|9,363||18+|united states|
+|HD Fund|120.00 USD|[23](https://www.snap.com/political-ads/asset/bc8d66cb03e82c9b5c36851e0a8571b56a8c01b0679caed8a2097d0f6f9d2e88?mediaType=png)|9,017||18+|united states|
+|HD Fund|107.00 USD|[24](https://www.snap.com/political-ads/asset/0184725ada5c4c1bad2d0df86b77fdce53ebd030b1f711404cf30f00953828d3?mediaType=jpg)|8,611||18+|united states|
 |HD Fund|115.00 USD|[25](https://www.snap.com/political-ads/asset/d9eee9f31daf9c3d5be29df80212dabeea3b0e1dad2b8e20609fc86a0d735218?mediaType=mp4)|6,407||18+|united states|
 |HD Fund|77.00 USD|[26](https://www.snap.com/political-ads/asset/d78ee1debc14c359d4d05e4bf09d6ec13c934843f6fdee45ef5ce7a47ea5c618?mediaType=jpg)|6,162||18+|united states|
 |HD Fund|67.00 USD|[27](https://www.snap.com/political-ads/asset/0184725ada5c4c1bad2d0df86b77fdce53ebd030b1f711404cf30f00953828d3?mediaType=jpg)|5,341||18+|united states|

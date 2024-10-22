@@ -1,7 +1,7 @@
 ## 2024 - Make.org 
-**Spent**: 753.00
+**Spent**: 1,016.00
 
-**Impressions**: 376,881
+**Impressions**: 388,144
 
 **Billing Addresses**: FR
 
@@ -13,3 +13,5 @@
 |Make.org: Make org|93.00 EUR|[3](https://www.snap.com/political-ads/asset/8f2e95460737d09735017974884af226e21ac5224170db4c6494bf96445d73dc?mediaType=mp4)|27,379||18-35|france|
 |Make.org: Make org|38.00 EUR|[4](https://www.snap.com/political-ads/asset/629cf11de0d858055c1500405f15f0bfc415d87873d3b6c028454bc9ced13f40?mediaType=png)|20,233||18-35|france|
 |Make.org: Make org|29.00 EUR|[5](https://www.snap.com/political-ads/asset/233c988081d97a775c9588ed80d8fc08d2950af6a4bab7cf9ba06f4baa15088b?mediaType=png)|14,629||18-35|france|
+|Make.org|138.00 EUR|[6](https://www.snap.com/political-ads/asset/fbda6081c3250b698e0a9dbe986161ec2361aaf877cc8a7533936e06846b1b17?mediaType=jpeg)|7,528||18+|united states|
+|Make.org|125.00 EUR|[7](https://www.snap.com/political-ads/asset/958112b0c410baf14ce0cb0b950b583958cf6f14078de29185529b7e11888638?mediaType=jpeg)|3,735||18+|united states|
