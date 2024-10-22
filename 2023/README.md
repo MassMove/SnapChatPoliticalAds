@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
-|[Patagonia](Patagonia.md) - Patagonia Europe|259,426.00 EUR, USD|55,751,652||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia|258,976.00 EUR, USD|55,673,530||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
@@ -49,7 +49,7 @@
 |[SOS-Kinderdörfer weltweit](SOS-Kinderdörfer_weltweit.md) - OMD München GmbH|15,983.00 EUR|4,117,506||18-25|germany|
 |[NYC Health](NYC_Health.md) - OpAD Media|27,802.00 USD|3,951,748|FEMALE|30-|united states|
 |[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: Abortion, AG Kaul Lawsuit, Joel Urmanski|15,131.00 USD|3,786,172||16+, 18+|united states|
-|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|13,913.00 USD|3,745,166|FEMALE|18-34, 44-|united states|
+|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|14,072.00 USD|3,771,501|FEMALE|18-34, 44-|united states|
 |[Priorities USA & Comms2](Priorities_USA_&_Comms2.md) - Priorities USA|38,087.00 USD|3,551,286||18+|united states|
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,994.00 USD|3,340,093||17-, 18-22|united states|
 |[alihsan charity](alihsan_charity.md) - alihsancharity|10,337.00 USD|3,332,372||24+, 25+|united arab emirates|
@@ -124,8 +124,8 @@
 |[Polity](Polity.md) - LoKnow: Polity Election Marketplace|3,749.00 CAD|801,221||18+|canada|
 |[Vasemmistoliitto](Vasemmistoliitto.md) - Oy Dagmar Ab: Vasemmistoliitto|1,999.00 EUR|798,154||18-35|finland|
 |[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,995.00 EUR|784,738||18-34|finland|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,888.00 USD|750,215|FEMALE|30-|united states|
 |[First Media](First_Media.md) - First Media V|11,149.00 USD|739,617||23+|united states|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,834.00 USD|739,330|FEMALE|30-|united states|
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
 |[Texas State Teachers Association](Texas_State_Teachers_Association.md) - Corsair Campaigns|1,499.00 USD|726,654||18+|united states|
 |[BNNVARA](BNNVARA.md) - BNNVARA|3,160.00 EUR|718,234||18-25|netherlands|
@@ -255,7 +255,7 @@
 |[Finger Lakes Pregnancy Care](Finger_Lakes_Pregnancy_Care.md) - Stories Marketing: Cortland and Ithaca|1,224.00 USD|106,664|FEMALE|18-38|united states|
 |[Born This Way Foundation](Born_This_Way_Foundation.md) - Do Big Things|463.00 USD|105,636||15-34|united states|
 |[Falah Sultan Al-Mutairi](Falah_Sultan_Al-Mutairi.md) - Alshanalaam: Falah Sultan AMutairi|42.00 USD|104,891||21+|kuwait|
-|[نواف بهيش الهواش العازمي](نواف_بهيش_الهواش_العازمي.md) - kuwaitaomh|269.00 USD|103,501||20+, 21+|kuwait|
+|[نواف بهيش الهواش العازمي](نواف_بهيش_الهواش_العازمي.md) - ads alwaan|269.00 USD|103,501||20+, 21+|kuwait|
 |[HK Danmark](HK_Danmark.md) - HK Danmark|1,399.00 USD|97,635||18+|denmark|
 |[Yousef Al Nuaimi](Yousef_Al_Nuaimi.md) - Yousef Al neaimi Advocates & Legal Consultants: Yousef Al Nuaimi|248.00 USD|95,366||21+|united arab emirates|
 |[Wyandotte Pregnancy Clinic](Wyandotte_Pregnancy_Clinic.md) - Stories Marketing: Does Not Provide Abortions, Wyandotte and Olathe|582.00 USD|93,053|FEMALE|16-30, 18-38|united states|
@@ -321,8 +321,8 @@
 |[El Mirage](El_Mirage.md) - Strategies 360: Yes For El Mirage|300.00 USD|19,227||18+|united states|
 |[No Labels](No_Labels.md) - Embee Media: No Labels|209.00 USD|18,659||18+|united states|
 |[New Mexico Clean Air](New_Mexico_Clean_Air.md) - Semilla Strategies LLC: Advanced Clean Cars and Advanced Clean Trucks|421.00 USD|18,579||18-40|united states|
-|[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
 |[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
+|[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
 |[Zeal Investments UG](Zeal_Investments_UG.md) - Zeal Investments UG|106.00 USD|13,224||18+|italy|
 |[Albert Escobedo](Albert_Escobedo.md) - Albert Escobedo for Los Fresnos City Council Member Place 1: Albert Escobedo|79.00 USD|10,455||18-49, 18+|united states|
 |[Real Alternatives Indiana](Real_Alternatives_Indiana.md) - Stacked Marketing Group|148.00 USD|9,573|FEMALE|18-34|united states|

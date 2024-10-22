@@ -1,10 +1,10 @@
-## 2024 - EDF ACTION VOTES 
-**Spent**: 54,000.00
+## 2024 - EDF Action Votes 
+**Spent**: 16.00
 
-**Impressions**: 8,505,793
+**Impressions**: 2,706
 
-**Billing Addresses**: 1421 Prince St Suite 320,Alexandria,22314,US
+**Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|MVAR Media: EDF Action Votes|54,000.00 USD|[0](https://www.snap.com/political-ads/asset/3d994d129e2494ffc4c4cd093b74804c403900239343d814bbde228673e6ab89?mediaType=mp4)|8,505,793||18+|united states|
+|Chong and Koster|16.00 USD|[0](https://www.snap.com/political-ads/asset/9fdb219cc52ecfdfb12a37a0dad1d74e4dc96d82ae4e76ca88c50b73472650ea?mediaType=mp4)|2,706||18-44|united states|

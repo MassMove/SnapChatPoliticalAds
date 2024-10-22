@@ -1,7 +1,7 @@
 ## 2022 - NY Office of Cannabis Management 
-**Spent**: 116,600.00
+**Spent**: 116,843.00
 
-**Impressions**: 11,545,793
+**Impressions**: 11,553,842
 
 **Billing Addresses**: 275 Madison Avenue, Suite 2200,New York ,10016,US
 
@@ -43,6 +43,7 @@
 |OpAD Media|201.00 USD|[33](https://www.snap.com/political-ads/asset/8b9f63be0b325ccbbcd84fdabd5cc23cb289fa7aafb917773f2798cdbec0f4ab?mediaType=mp4)|9,700||21+|united states|
 |OpAD Media|311.00 USD|[34](https://www.snap.com/political-ads/asset/4f0e6f864b3c10889834fb498cd1c88f2db8351dfc913b9530d688b20de62d62?mediaType=jpg)|9,668||21+|united states|
 |OpAD Media|268.00 USD|[35](https://www.snap.com/political-ads/asset/275bfc6ede238a7ed74f0d4b70e5b89ba521468efd696327a933e65e70fa44ec?mediaType=jpg)|8,404||21+|united states|
-|OpAD Media|382.00 USD|[36](https://www.snap.com/political-ads/asset/3777c97665856142c841ad21d7860003e99705d4b5d9fa037215835378909139?mediaType=jpg)|3,971||21+|united states|
-|OpAD Media|316.00 USD|[37](https://www.snap.com/political-ads/asset/7880b240e5c6b4e3d83c088353cc23ba7038b4a71abf3131d5ac1411010ee0f2?mediaType=jpg)|3,487||21+|united states|
-|OpAD Media|44.00 USD|[38](https://www.snap.com/political-ads/asset/1f723e02888c1f38064b5891d124a02db49dc014763629bb7e4700e82796d364?mediaType=mp4)|2,841||21+|united states|
+|OpAD Media|243.00 USD|[36](https://www.snap.com/political-ads/asset/b86887fd84e70fd15aafa0298b8b97080b7397ca60eedda8c1d9d718ea837f89?mediaType=jpg)|8,049||21+|united states|
+|OpAD Media|382.00 USD|[37](https://www.snap.com/political-ads/asset/3777c97665856142c841ad21d7860003e99705d4b5d9fa037215835378909139?mediaType=jpg)|3,971||21+|united states|
+|OpAD Media|316.00 USD|[38](https://www.snap.com/political-ads/asset/7880b240e5c6b4e3d83c088353cc23ba7038b4a71abf3131d5ac1411010ee0f2?mediaType=jpg)|3,487||21+|united states|
+|OpAD Media|44.00 USD|[39](https://www.snap.com/political-ads/asset/1f723e02888c1f38064b5891d124a02db49dc014763629bb7e4700e82796d364?mediaType=mp4)|2,841||21+|united states|
