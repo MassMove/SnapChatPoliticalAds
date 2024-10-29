@@ -1,13 +1,13 @@
 ## 2023 - Building Arizona Families 
-**Spent**: 14,072.00
+**Spent**: 14,212.00
 
-**Impressions**: 3,771,501
+**Impressions**: 3,786,392
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Elevate Marketing|13,274.00 USD|[0](https://www.snap.com/political-ads/asset/3f926196639c1efeb12ccece952006f6dd90889a387af59d9704318c83cbf978?mediaType=mp4)|2,691,621|FEMALE|44-|united states|
+|Elevate Marketing|13,414.00 USD|[0](https://www.snap.com/political-ads/asset/3f926196639c1efeb12ccece952006f6dd90889a387af59d9704318c83cbf978?mediaType=mp4)|2,706,512|FEMALE|44-|united states|
 |Elevate Marketing|416.00 USD|[1](https://www.snap.com/political-ads/asset/ac22e0badd555ac95c9b22643e4414e28d2c10e94733edb3880c9243c17ffe2f?mediaType=png)|1,009,713|||united states|
 |Elevate Marketing|210.00 USD|[2](https://www.snap.com/political-ads/asset/3f926196639c1efeb12ccece952006f6dd90889a387af59d9704318c83cbf978?mediaType=mp4)|49,260|FEMALE|44-|united states|
 |Elevate Marketing|172.00 USD|[3](https://www.snap.com/political-ads/asset/ac22e0badd555ac95c9b22643e4414e28d2c10e94733edb3880c9243c17ffe2f?mediaType=png)|20,907|FEMALE|18-34|united states|

@@ -3,12 +3,12 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
@@ -47,7 +47,7 @@
 |[Sign For My Future](Sign_For_My_Future.md) - Ogilvy Group SA-NV|10,782.00 EUR|7,759,569||18-24|belgium|
 |[Avaaz Foundation](Avaaz_Foundation.md) - Avaaz Foundation|2,736.00 EUR|7,415,072|FEMALE|18+|chile, germany, poland, united states|
 |[NYC Campaign Finance Board](NYC_Campaign_Finance_Board.md) - Miller Advertising Agency  Inc.|22,295.00 USD|7,330,516||18-30, 18+|united states|
-|[Frelsesarmeen](Frelsesarmeen.md) - Digital Opptur: Frelsesarmeen, Julegryta|13,203.00 EUR|7,166,878||15-35, 17-35, 18-30, 18-35, 18+, 35-45, 35+|norway|
+|[Frelsesarmeen](Frelsesarmeen.md) - Digital Opptur: Frelsesarmeen, Julegryta|12,375.00 EUR|7,034,692||15-35, 17-35, 18-30, 18-35, 18+, 35-45, 35+|norway|
 |[Polizei NRW](Polizei_NRW.md) - grapevine gmbh|35,949.00 EUR|6,508,554||18+|germany|
 |[Vestland FrP](Vestland_FrP.md) - Picapoint Studio AS|8,343.00 EUR|6,372,252||17+, 18+|norway|
 |[Make Good Decisions](Make_Good_Decisions.md) - Emmis Communcations|13,247.00 USD|6,207,858||14-19, 17-20, 17-21|united states|
@@ -92,8 +92,8 @@
 |[Cannabis Control Commission](Cannabis_Control_Commission.md) - MORE Advertising|10,212.00 USD|3,068,244||21+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|31,688.00 GBP|3,051,473||18+|united kingdom|
 |[Norges Røde Kors](Norges_Røde_Kors.md) - Mindshare Norway AS|3,865.00 EUR|3,046,068||17-20, 18-20, 20+, 25+|norway|
-|[ACRONYM](ACRONYM.md) - ACRONYM: Get out the vote, Register to Vote|18,894.00 USD|3,008,464||18+|united states|
 |[Bundespolizei](Bundespolizei.md) - iProspect GmbH|4,399.00 EUR|2,993,890||18-25|germany|
+|[ACRONYM](ACRONYM.md) - ACRONYM: Get out the vote, Register to Vote|18,722.00 USD|2,980,971||18+|united states|
 |[Conservation Colorado](Conservation_Colorado.md) - Blueprint Interactive|10,028.00 USD|2,954,571|FEMALE|18+|united states|
 |[Amnesty International UK](Amnesty_International_UK.md) - Amnesty International UK|3,024.00 GBP|2,927,928||18+|united kingdom|
 |[Proud Right Winger](Proud_Right_Winger.md) - MP Mariam|2,928.00 USD|2,856,607||18+|united states|

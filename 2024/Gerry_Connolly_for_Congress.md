@@ -1,7 +1,7 @@
 ## 2024 - Gerry Connolly for Congress 
-**Spent**: 7,852.00
+**Spent**: 8,458.00
 
-**Impressions**: 1,332,679
+**Impressions**: 1,441,493
 
 **Billing Addresses**: 919 Central Ave,Auburn,68305,US
 
@@ -13,10 +13,10 @@
 |BCom Solutions: Gerry Connolly for Congress|796.00 USD|[3](https://www.snap.com/political-ads/asset/1ba6450d94caea25ed3ab9ab1ae5564f69b74cc311c9fb6e6081d0072eba236a?mediaType=png)|131,748||18+|united states|
 |BCom Solutions: Gerry Connolly for Congress|795.00 USD|[4](https://www.snap.com/political-ads/asset/c444cf1fb830ce66cab6ce88d38655f2970690e0353ec6dd721994e4c129af6c?mediaType=png)|131,601||18+|united states|
 |BCom Solutions: Gerry Connolly for Congress|766.00 USD|[5](https://www.snap.com/political-ads/asset/5bac37ef3f4431204870f387be2d14774a069b7cefeedbfc81cac9046f4cc9b3?mediaType=png)|126,792||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|473.00 USD|[6](https://www.snap.com/political-ads/asset/ca1e249c7a339b8e0a39298696e86a9da7cbe0e56bb951ce2ab28f1f3f0a701b?mediaType=mp4)|84,821||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|448.00 USD|[7](https://www.snap.com/political-ads/asset/3e85259684e5e2e9ecca128b9cd8d77fc55d8acc8787b784e86f09b1a42ffec5?mediaType=mp4)|80,067||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|438.00 USD|[8](https://www.snap.com/political-ads/asset/80d311a022338fb418d31e1ab00ae97452b3c648fb5312e1305de25570af37d1?mediaType=mp4)|78,419||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|431.00 USD|[9](https://www.snap.com/political-ads/asset/c9c605e4b46e600da42cd3c2f9c07fa0a189472aa8f8f55da217b89914965cf9?mediaType=mp4)|77,152||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|409.00 USD|[10](https://www.snap.com/political-ads/asset/96291a2f52a89bde0f28f2ea6a9ed033f24ca9947ab5ba98b49a401fde98c56b?mediaType=png)|70,762||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|408.00 USD|[11](https://www.snap.com/political-ads/asset/174f478a12b33abab1b7ab2cb708e6e8799ed8e4039c4a4bf278819f4700ae95?mediaType=png)|70,407||18+|united states|
-|BCom Solutions: Gerry Connolly for Congress|397.00 USD|[12](https://www.snap.com/political-ads/asset/4a83289760c15a89fded77f89b8c9a60b793b15ba3db319476b054c1faae0cc6?mediaType=png)|68,710||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|569.00 USD|[6](https://www.snap.com/political-ads/asset/ca1e249c7a339b8e0a39298696e86a9da7cbe0e56bb951ce2ab28f1f3f0a701b?mediaType=mp4)|101,889||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|536.00 USD|[7](https://www.snap.com/political-ads/asset/3e85259684e5e2e9ecca128b9cd8d77fc55d8acc8787b784e86f09b1a42ffec5?mediaType=mp4)|95,899||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|525.00 USD|[8](https://www.snap.com/political-ads/asset/80d311a022338fb418d31e1ab00ae97452b3c648fb5312e1305de25570af37d1?mediaType=mp4)|94,075||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|518.00 USD|[9](https://www.snap.com/political-ads/asset/c9c605e4b46e600da42cd3c2f9c07fa0a189472aa8f8f55da217b89914965cf9?mediaType=mp4)|92,759||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|493.00 USD|[10](https://www.snap.com/political-ads/asset/96291a2f52a89bde0f28f2ea6a9ed033f24ca9947ab5ba98b49a401fde98c56b?mediaType=png)|85,913||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|491.00 USD|[11](https://www.snap.com/political-ads/asset/174f478a12b33abab1b7ab2cb708e6e8799ed8e4039c4a4bf278819f4700ae95?mediaType=png)|85,341||18+|united states|
+|BCom Solutions: Gerry Connolly for Congress|478.00 USD|[12](https://www.snap.com/political-ads/asset/4a83289760c15a89fded77f89b8c9a60b793b15ba3db319476b054c1faae0cc6?mediaType=png)|83,276||18+|united states|

@@ -1,7 +1,7 @@
 ## 2019 - Frelsesarmeen 
-**Spent**: 13,203.00
+**Spent**: 12,375.00
 
-**Impressions**: 7,166,878
+**Impressions**: 7,034,692
 
 **Billing Addresses**: Edvard Storms gate 2,OSLO,0166,NO
 
@@ -22,12 +22,11 @@
 |Digital Opptur: Julegryta|593.00 EUR|[18](https://www.snap.com/political-ads/asset/c620686ec19f1c5d58ad7caea46f863a2a41a0cdcd88d526d7a56eea792126cb?mediaType=png)|174,564||35+|norway|
 |Digital Opptur: Frelsesarmeen|771.00 EUR|[19](https://www.snap.com/political-ads/asset/853d3af115e9b83aed07d7661e6d712797a3920b84b3be71f861aea08987c013?mediaType=mp4)|162,782||35-45|norway|
 |Digital Opptur: Frelsesarmeen|681.00 EUR|[20](https://www.snap.com/political-ads/asset/9325aafa0a79401ddb1c1e68b59899cdcd85ddaadd189e8dab76f8eab25b57f7?mediaType=mp4)|144,516||35-45|norway|
-|Digital Opptur: Julegryta|828.00 EUR|[21](https://www.snap.com/political-ads/asset/a237f5aa96736a5815e82b9d2bb78299006ace2bef69b68c1c18a6f3c9049217?mediaType=mp4)|132,186||35+|norway|
-|Digital Opptur: Frelsesarmeen|641.00 EUR|[22](https://www.snap.com/political-ads/asset/853d3af115e9b83aed07d7661e6d712797a3920b84b3be71f861aea08987c013?mediaType=mp4)|124,578||35-45|norway|
-|Digital Opptur: Frelsesarmeen|593.00 EUR|[23](https://www.snap.com/political-ads/asset/9325aafa0a79401ddb1c1e68b59899cdcd85ddaadd189e8dab76f8eab25b57f7?mediaType=mp4)|114,735||35-45|norway|
-|Digital Opptur: Julegryta|666.00 EUR|[24](https://www.snap.com/political-ads/asset/e3334bbdeb91327d3c44b647fb3a7492eb61f244d62c2aa5c599d0e049b0848b?mediaType=mp4)|112,393||35+|norway|
-|Digital Opptur: Frelsesarmeen|553.00 EUR|[25](https://www.snap.com/political-ads/asset/853d3af115e9b83aed07d7661e6d712797a3920b84b3be71f861aea08987c013?mediaType=mp4)|108,165||35-45|norway|
-|Digital Opptur: Julegryta|830.00 EUR|[26](https://www.snap.com/political-ads/asset/e3334bbdeb91327d3c44b647fb3a7492eb61f244d62c2aa5c599d0e049b0848b?mediaType=mp4)|105,359||35+|norway|
-|Digital Opptur: Frelsesarmeen|463.00 EUR|[27](https://www.snap.com/political-ads/asset/9325aafa0a79401ddb1c1e68b59899cdcd85ddaadd189e8dab76f8eab25b57f7?mediaType=mp4)|101,286||35-45|norway|
-|Digital Opptur: Julegryta|664.00 EUR|[28](https://www.snap.com/political-ads/asset/a237f5aa96736a5815e82b9d2bb78299006ace2bef69b68c1c18a6f3c9049217?mediaType=mp4)|93,586||35+|norway|
-|Digital Opptur: Julegryta|103.00 EUR|[29](https://www.snap.com/political-ads/asset/ec6a619b8e117fe5b08190a1d65ba2f7f392aab8551346823a6ea33821ae1853?mediaType=mp4),[30](https://www.snap.com/political-ads/asset/06b49f8cc78150b8e333918ae7b06b9ae4273e85f94bef255599a06a7bdca43c?mediaType=mp4),[31](https://www.snap.com/political-ads/asset/5050062c9023f2a0b10046f6743488503fc5dfa5eefef60ee88331e072e15e06?mediaType=mp4)|87,475||35+|norway|
+|Digital Opptur: Frelsesarmeen|641.00 EUR|[21](https://www.snap.com/political-ads/asset/853d3af115e9b83aed07d7661e6d712797a3920b84b3be71f861aea08987c013?mediaType=mp4)|124,578||35-45|norway|
+|Digital Opptur: Frelsesarmeen|593.00 EUR|[22](https://www.snap.com/political-ads/asset/9325aafa0a79401ddb1c1e68b59899cdcd85ddaadd189e8dab76f8eab25b57f7?mediaType=mp4)|114,735||35-45|norway|
+|Digital Opptur: Julegryta|666.00 EUR|[23](https://www.snap.com/political-ads/asset/e3334bbdeb91327d3c44b647fb3a7492eb61f244d62c2aa5c599d0e049b0848b?mediaType=mp4)|112,393||35+|norway|
+|Digital Opptur: Frelsesarmeen|553.00 EUR|[24](https://www.snap.com/political-ads/asset/853d3af115e9b83aed07d7661e6d712797a3920b84b3be71f861aea08987c013?mediaType=mp4)|108,165||35-45|norway|
+|Digital Opptur: Julegryta|830.00 EUR|[25](https://www.snap.com/political-ads/asset/e3334bbdeb91327d3c44b647fb3a7492eb61f244d62c2aa5c599d0e049b0848b?mediaType=mp4)|105,359||35+|norway|
+|Digital Opptur: Frelsesarmeen|463.00 EUR|[26](https://www.snap.com/political-ads/asset/9325aafa0a79401ddb1c1e68b59899cdcd85ddaadd189e8dab76f8eab25b57f7?mediaType=mp4)|101,286||35-45|norway|
+|Digital Opptur: Julegryta|664.00 EUR|[27](https://www.snap.com/political-ads/asset/a237f5aa96736a5815e82b9d2bb78299006ace2bef69b68c1c18a6f3c9049217?mediaType=mp4)|93,586||35+|norway|
+|Digital Opptur: Julegryta|103.00 EUR|[28](https://www.snap.com/political-ads/asset/ec6a619b8e117fe5b08190a1d65ba2f7f392aab8551346823a6ea33821ae1853?mediaType=mp4),[29](https://www.snap.com/political-ads/asset/06b49f8cc78150b8e333918ae7b06b9ae4273e85f94bef255599a06a7bdca43c?mediaType=mp4),[30](https://www.snap.com/political-ads/asset/5050062c9023f2a0b10046f6743488503fc5dfa5eefef60ee88331e072e15e06?mediaType=mp4)|87,475||35+|norway|

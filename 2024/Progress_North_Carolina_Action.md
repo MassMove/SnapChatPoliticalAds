@@ -1,7 +1,7 @@
 ## 2024 - Progress North Carolina Action 
-**Spent**: 1,154.00
+**Spent**: 2,141.00
 
-**Impressions**: 137,989
+**Impressions**: 242,972
 
 **Billing Addresses**: 
 - 1250 H St. NW,Washington,20005,US
@@ -9,8 +9,8 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
-|Rising Tide Interactive LLC|281.00 USD|[0](https://www.snap.com/political-ads/asset/0656f9c17f1c72ee19dbb78f7070fc3a4ea53b690ad2b53dd67433b1efca8dbd?mediaType=mp4)|34,345||18+|united states|1250 H St. NW,Washington,20005,US|
-|Rising Tide Interactive LLC|277.00 USD|[1](https://www.snap.com/political-ads/asset/b615642959877e4e896956cfef26c170d2518ff6037987c526d3b23d340d1667?mediaType=mp4)|33,904||18+|united states|1250 H St. NW,Washington,20005,US|
+|Rising Tide Interactive LLC|776.00 USD|[0](https://www.snap.com/political-ads/asset/0656f9c17f1c72ee19dbb78f7070fc3a4ea53b690ad2b53dd67433b1efca8dbd?mediaType=mp4)|87,011||18+|united states|1250 H St. NW,Washington,20005,US|
+|Rising Tide Interactive LLC|769.00 USD|[1](https://www.snap.com/political-ads/asset/b615642959877e4e896956cfef26c170d2518ff6037987c526d3b23d340d1667?mediaType=mp4)|86,221||18+|united states|1250 H St. NW,Washington,20005,US|
 |Progress North Carolina Action|89.00 USD|[2](https://www.snap.com/political-ads/asset/25b1dfd7c58c368c27d5e21d6c29b18ce3882b1ee9c3088fd46e0bc14a91e21e?mediaType=png)|10,276||18-25|united states|US|
 |Progress North Carolina Action|86.00 USD|[3](https://www.snap.com/political-ads/asset/d6617abd6eb62f09bd611cbfb5831455563813a49388fc79318b4074310fd60c?mediaType=mp4)|10,055||18-25|united states|US|
 |Progress North Carolina Action|86.00 USD|[4](https://www.snap.com/political-ads/asset/5718391b32777aafcb23c0ceb28fe163b41963afd9d5ba73146907badd03f8bd?mediaType=png)|9,969||18-25|united states|US|

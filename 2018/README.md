@@ -22,7 +22,7 @@
 |[Make Good Decisions](Make_Good_Decisions.md) - Emmis Communcations|8,946.00 USD|5,084,439||18-20|united states|
 |[Paid For by Trooien For USSenate](Paid_For_by_Trooien_For_USSenate.md) - LoudDoor  LLC|10,555.00 USD|4,159,265||18+|united states|
 |[Mouvement Réformateur](Mouvement_Réformateur.md) - Mouvement Réformateur|4,954.00 EUR|3,600,057||18-24|belgium|
-|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media|10,282.00 USD|3,590,345|FEMALE|15-19, 18-24, 18-25, 18+, 25+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Planned Parenthood of the Pacific Southwest|10,282.00 USD|3,590,345|FEMALE|15-19, 18-24, 18-25, 18+, 25+|united states|
 |[Nevada Conservation League PAC](Nevada_Conservation_League_PAC.md) - Break Something|23,742.00 USD|3,452,533||18+|united states|
 |[Lieutenant Governor's Office](Lieutenant_Governor's_Office.md) - Penna Powers|7,992.00 USD|3,335,544||18-34|united states|
 |[Pete King for Congress](Pete_King_for_Congress.md) - Congressman Pete King|8,437.00 USD|3,143,956||18+|united states|
@@ -65,7 +65,7 @@
 |[No On L](No_On_L.md) - The Prosper Group|3,698.00 USD|573,475||18+|united states|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - Blueprint Interactive|1,929.00 USD|468,782||18+|united states|
 |[STOPtheWaterGrabCoalition](STOPtheWaterGrabCoalition.md) - The Modesto Bee|1,971.00 USD|453,013||18+, 25+|united states|
-|[Krist for Nebraska](Krist_for_Nebraska.md) - Krist for Nebraska|883.00 USD|408,578||18+|united states|
+|[Krist for Nebraska](Krist_for_Nebraska.md) - BCom Solutions|883.00 USD|408,578||18+|united states|
 |[PPAPLAC Action Fund](PPAPLAC_Action_Fund.md) - Open Hand Media|2,246.00 USD|405,212|FEMALE|18+|united states|
 |[Maryland Democratic Party](Maryland_Democratic_Party.md) - Blueprint Interactive|815.00 USD|374,923||18+|united states|
 |[CDVSA](CDVSA.md) - Council on Domestic Violence and Sexual Assault|1,000.00 USD|359,270||18+|united states|

@@ -1,14 +1,14 @@
 ## 2024 - Democratic National Committee 
-**Spent**: 77,900.00
+**Spent**: 77,953.00
 
-**Impressions**: 7,791,120
+**Impressions**: 7,797,543
 
 **Billing Addresses**: 131 16th Street NE,Washington,20003,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Democratic National Committee|71,998.00 USD||7,118,182||18+|united states|
-|Democratic National Committee|3,001.00 USD||436,767||18+|united states|
+|Democratic National Committee|71,998.00 USD||7,121,846||18+|united states|
+|Democratic National Committee|3,001.00 USD||436,804||18+|united states|
 |Democratic National Committee|234.00 USD|[2](https://www.snap.com/political-ads/asset/991dd7dac6dcd163db91dd30054fa42fa644dedf29144e8582260c580d5dfa90?mediaType=png)|19,044||18+|united states|
 |Democratic National Committee|84.00 USD|[3](https://www.snap.com/political-ads/asset/b430557659f75ed2f334a0d8c3949af83f8eb07af365b078bd05f75a76b768bf?mediaType=png)|12,092||18+|united states|
 |Democratic National Committee|71.00 USD|[4](https://www.snap.com/political-ads/asset/ddfb1ef2e1b0e775d1eeb206692bec52f194741288a82256239eb1d027758b91?mediaType=png)|10,235||18+|united states|
@@ -39,31 +39,32 @@
 |Democratic National Committee|24.00 USD|[29](https://www.snap.com/political-ads/asset/5a2559d59c797f2fff0cc8ea8de737f72f2b734b0e725195b35910198301d4f2?mediaType=png)|3,196||18+|united states|
 |Democratic National Committee|58.00 USD|[30](https://www.snap.com/political-ads/asset/b386d2bc3f91e14d2eba211df361097330fad24503ef75ce99a8166e5f828267?mediaType=png)|3,052||18+|united states|
 |Democratic National Committee|42.00 USD|[31](https://www.snap.com/political-ads/asset/00b25f890703243de0d197a2a7dc585a3a2672c7eaf20ed35d0ba03bd86774c5?mediaType=png)|2,827||18+|united states|
-|Democratic National Committee|25.00 USD|[32](https://www.snap.com/political-ads/asset/41a1e32bfe846150ff4a14afeffa3c0e22df753022c446320a1114ffe2bf57f1?mediaType=png)|2,674||18+|united states|
-|Democratic National Committee|19.00 USD|[33](https://www.snap.com/political-ads/asset/07983dc5c8fd1cda5732ed510c28d0f4ce829170bc5a240dd6686ea8ca213422?mediaType=png)|2,380||18+|united states|
-|Democratic National Committee|39.00 USD|[34](https://www.snap.com/political-ads/asset/fc53df89629d614f037df816b0d357937871a0d648860c27e230bc71aa6b242e?mediaType=png)|2,295||18+|united states|
-|Democratic National Committee|31.00 USD|[35](https://www.snap.com/political-ads/asset/2c5216cad408df10a0d900311775c8d605ee8153789fac9790ab486c67e8c25a?mediaType=png)|2,210||18+|united states|
-|Democratic National Committee|29.00 USD|[36](https://www.snap.com/political-ads/asset/b9f9895597a1709ff2932f39e84f47b3f0548a8899200be7d4975277fe4b71d6?mediaType=png)|2,094||18+|united states|
-|Democratic National Committee|43.00 USD|[37](https://www.snap.com/political-ads/asset/a83fc59227a502dc14fdd826c24ab4833f3cec43c0cb9cb58653bdf5ab229ec3?mediaType=png)|2,067||18+|united states|
-|Democratic National Committee|19.00 USD|[38](https://www.snap.com/political-ads/asset/d020637047d3d4108b778d5a39758914a79ad46c3d7ef36effcc2f879a3821cf?mediaType=png)|2,049||18+|united states|
-|Democratic National Committee|43.00 USD|[39](https://www.snap.com/political-ads/asset/d2b7fa74eb2114279e6b4d39fa680e77ef9a3036e1fce6a4b0ddb95fe17c7346?mediaType=png)|2,037||18+|united states|
-|Democratic National Committee|13.00 USD|[40](https://www.snap.com/political-ads/asset/8c067f76b56131f743f6e0b064d2a0693ce24b1b8564cb5a7a1d2374abba9838?mediaType=png)|1,842||18+|united states|
-|Democratic National Committee|33.00 USD|[41](https://www.snap.com/political-ads/asset/8f867d15b8439db590160a62ed3123b7fe4844fa2576588919e5ad8fe5f16a90?mediaType=png)|1,732||18+|united states|
-|Democratic National Committee|14.00 USD|[42](https://www.snap.com/political-ads/asset/f1f18f984ce2731540f101854e4c7c730ccd32df746a066173d00a6d14796b00?mediaType=png)|1,667||18+|united states|
-|Democratic National Committee|30.00 USD|[43](https://www.snap.com/political-ads/asset/f3aa03f5ac54ad5c1ad0d0f39e89aa27a475abf675cd3532d0893a7d87fb6ff9?mediaType=png)|1,650||18+|united states|
-|Democratic National Committee|12.00 USD|[44](https://www.snap.com/political-ads/asset/97530bf2aae92d59ae9e4efe4dfe9b3d712c26b8fa02ed758ab4ef6a908d9ce1?mediaType=png)|1,628||18+|united states|
-|Democratic National Committee|23.00 USD|[45](https://www.snap.com/political-ads/asset/4b3c94ba56339044ae96a90c2d84113c417fbe876223bed4dd956c512ef91b30?mediaType=png)|1,553||18+|united states|
-|Democratic National Committee|12.00 USD|[46](https://www.snap.com/political-ads/asset/5684d585855a1470f102694e5bcf2d8010e49f07cdbbfc27d6307db92938e3fc?mediaType=png)|1,524||18+|united states|
-|Democratic National Committee|13.00 USD|[47](https://www.snap.com/political-ads/asset/5dcfda2ffc489fb1c740f2cd46cb541636432d68fe39040f9c09387fc3286720?mediaType=png)|1,494||18+|united states|
-|Democratic National Committee|16.00 USD|[48](https://www.snap.com/political-ads/asset/1da64e400d9531e798414c09d635ee68c4e7f1a871aa72767225e289f9f523cc?mediaType=png)|1,344||18+|united states|
-|Democratic National Committee|19.00 USD|[49](https://www.snap.com/political-ads/asset/8b11fdf86eb933f6c38a1cc93675632a92b47cbaa2c0f7c411f57740fa8be1fc?mediaType=png)|1,317||18+|united states|
-|Democratic National Committee|20.00 USD|[50](https://www.snap.com/political-ads/asset/e77f0d655579d08223d229a800be14d9f5c26ca2212e691d4a2ee92f56ab1333?mediaType=png)|1,232||18+|united states|
-|Democratic National Committee|20.00 USD|[51](https://www.snap.com/political-ads/asset/f81c454a5c97a79832e9efad1deed63d80cffcb921d48d82aed4ad095017b6f6?mediaType=png)|1,201||18+|united states|
-|Democratic National Committee|15.00 USD|[52](https://www.snap.com/political-ads/asset/88051aa7eff3dd2cbdad7680aeffb3215a2ef95481da4060d7eaba191c4c6d94?mediaType=png)|973||18+|united states|
-|Democratic National Committee|7.00 USD|[53](https://www.snap.com/political-ads/asset/c8e9fea0dd701a56930815c9f23e046cd06499c76b3e9208248e0dd8a2fff4ca?mediaType=png)|959||18+|united states|
-|Democratic National Committee|7.00 USD|[54](https://www.snap.com/political-ads/asset/877831802e655709c8720b47833c44966c72d15e62e3c1c498ed78815d00ba44?mediaType=png)|916||18+|united states|
-|Democratic National Committee|14.00 USD|[55](https://www.snap.com/political-ads/asset/24f398233efbf266b3ac3312b8b6af39d52b2bceca5c2f55587d55a672cb7690?mediaType=png)|836||18+|united states|
-|Democratic National Committee|7.00 USD|[56](https://www.snap.com/political-ads/asset/2a98c9f500f92dd53d23bbe5816374113c89ccd1c5af23b47dc6c90b8c4b8626?mediaType=png)|802||18+|united states|
-|Democratic National Committee|6.00 USD|[57](https://www.snap.com/political-ads/asset/4a80bd9700736403668ee6f8af6e30ff88d7ce4b33fc468596bb62705fc459bf?mediaType=png)|711||18+|united states|
-|Democratic National Committee|9.00 USD|[58](https://www.snap.com/political-ads/asset/2dce70ad5d6864752022fc00cd59982bf7cd020cbd3f104179dbd00a7fc059ef?mediaType=png)|665||18+|united states|
-|Democratic National Committee|7.00 USD|[59](https://www.snap.com/political-ads/asset/5f98803d730cc4960cb44342082742f5b945b06d2868cd4806a0a098308d7731?mediaType=png)|519||18+|united states|
+|Democratic National Committee|53.00 USD|[32](https://www.snap.com/political-ads/asset/7d9a3fc0fb5f462cae19f575fb2775ae4256bb4e48618f59d7e0e38bce7f475d?mediaType=png)|2,722||18+|united states|
+|Democratic National Committee|25.00 USD|[33](https://www.snap.com/political-ads/asset/41a1e32bfe846150ff4a14afeffa3c0e22df753022c446320a1114ffe2bf57f1?mediaType=png)|2,674||18+|united states|
+|Democratic National Committee|19.00 USD|[34](https://www.snap.com/political-ads/asset/07983dc5c8fd1cda5732ed510c28d0f4ce829170bc5a240dd6686ea8ca213422?mediaType=png)|2,380||18+|united states|
+|Democratic National Committee|39.00 USD|[35](https://www.snap.com/political-ads/asset/fc53df89629d614f037df816b0d357937871a0d648860c27e230bc71aa6b242e?mediaType=png)|2,295||18+|united states|
+|Democratic National Committee|31.00 USD|[36](https://www.snap.com/political-ads/asset/2c5216cad408df10a0d900311775c8d605ee8153789fac9790ab486c67e8c25a?mediaType=png)|2,210||18+|united states|
+|Democratic National Committee|29.00 USD|[37](https://www.snap.com/political-ads/asset/b9f9895597a1709ff2932f39e84f47b3f0548a8899200be7d4975277fe4b71d6?mediaType=png)|2,094||18+|united states|
+|Democratic National Committee|43.00 USD|[38](https://www.snap.com/political-ads/asset/a83fc59227a502dc14fdd826c24ab4833f3cec43c0cb9cb58653bdf5ab229ec3?mediaType=png)|2,067||18+|united states|
+|Democratic National Committee|19.00 USD|[39](https://www.snap.com/political-ads/asset/d020637047d3d4108b778d5a39758914a79ad46c3d7ef36effcc2f879a3821cf?mediaType=png)|2,049||18+|united states|
+|Democratic National Committee|43.00 USD|[40](https://www.snap.com/political-ads/asset/d2b7fa74eb2114279e6b4d39fa680e77ef9a3036e1fce6a4b0ddb95fe17c7346?mediaType=png)|2,037||18+|united states|
+|Democratic National Committee|13.00 USD|[41](https://www.snap.com/political-ads/asset/8c067f76b56131f743f6e0b064d2a0693ce24b1b8564cb5a7a1d2374abba9838?mediaType=png)|1,842||18+|united states|
+|Democratic National Committee|33.00 USD|[42](https://www.snap.com/political-ads/asset/8f867d15b8439db590160a62ed3123b7fe4844fa2576588919e5ad8fe5f16a90?mediaType=png)|1,732||18+|united states|
+|Democratic National Committee|14.00 USD|[43](https://www.snap.com/political-ads/asset/f1f18f984ce2731540f101854e4c7c730ccd32df746a066173d00a6d14796b00?mediaType=png)|1,667||18+|united states|
+|Democratic National Committee|30.00 USD|[44](https://www.snap.com/political-ads/asset/f3aa03f5ac54ad5c1ad0d0f39e89aa27a475abf675cd3532d0893a7d87fb6ff9?mediaType=png)|1,650||18+|united states|
+|Democratic National Committee|12.00 USD|[45](https://www.snap.com/political-ads/asset/97530bf2aae92d59ae9e4efe4dfe9b3d712c26b8fa02ed758ab4ef6a908d9ce1?mediaType=png)|1,628||18+|united states|
+|Democratic National Committee|23.00 USD|[46](https://www.snap.com/political-ads/asset/4b3c94ba56339044ae96a90c2d84113c417fbe876223bed4dd956c512ef91b30?mediaType=png)|1,553||18+|united states|
+|Democratic National Committee|12.00 USD|[47](https://www.snap.com/political-ads/asset/5684d585855a1470f102694e5bcf2d8010e49f07cdbbfc27d6307db92938e3fc?mediaType=png)|1,524||18+|united states|
+|Democratic National Committee|13.00 USD|[48](https://www.snap.com/political-ads/asset/5dcfda2ffc489fb1c740f2cd46cb541636432d68fe39040f9c09387fc3286720?mediaType=png)|1,494||18+|united states|
+|Democratic National Committee|16.00 USD|[49](https://www.snap.com/political-ads/asset/1da64e400d9531e798414c09d635ee68c4e7f1a871aa72767225e289f9f523cc?mediaType=png)|1,344||18+|united states|
+|Democratic National Committee|19.00 USD|[50](https://www.snap.com/political-ads/asset/8b11fdf86eb933f6c38a1cc93675632a92b47cbaa2c0f7c411f57740fa8be1fc?mediaType=png)|1,317||18+|united states|
+|Democratic National Committee|20.00 USD|[51](https://www.snap.com/political-ads/asset/e77f0d655579d08223d229a800be14d9f5c26ca2212e691d4a2ee92f56ab1333?mediaType=png)|1,232||18+|united states|
+|Democratic National Committee|20.00 USD|[52](https://www.snap.com/political-ads/asset/f81c454a5c97a79832e9efad1deed63d80cffcb921d48d82aed4ad095017b6f6?mediaType=png)|1,201||18+|united states|
+|Democratic National Committee|15.00 USD|[53](https://www.snap.com/political-ads/asset/88051aa7eff3dd2cbdad7680aeffb3215a2ef95481da4060d7eaba191c4c6d94?mediaType=png)|973||18+|united states|
+|Democratic National Committee|7.00 USD|[54](https://www.snap.com/political-ads/asset/c8e9fea0dd701a56930815c9f23e046cd06499c76b3e9208248e0dd8a2fff4ca?mediaType=png)|959||18+|united states|
+|Democratic National Committee|7.00 USD|[55](https://www.snap.com/political-ads/asset/877831802e655709c8720b47833c44966c72d15e62e3c1c498ed78815d00ba44?mediaType=png)|916||18+|united states|
+|Democratic National Committee|14.00 USD|[56](https://www.snap.com/political-ads/asset/24f398233efbf266b3ac3312b8b6af39d52b2bceca5c2f55587d55a672cb7690?mediaType=png)|836||18+|united states|
+|Democratic National Committee|7.00 USD|[57](https://www.snap.com/political-ads/asset/2a98c9f500f92dd53d23bbe5816374113c89ccd1c5af23b47dc6c90b8c4b8626?mediaType=png)|802||18+|united states|
+|Democratic National Committee|6.00 USD|[58](https://www.snap.com/political-ads/asset/4a80bd9700736403668ee6f8af6e30ff88d7ce4b33fc468596bb62705fc459bf?mediaType=png)|711||18+|united states|
+|Democratic National Committee|9.00 USD|[59](https://www.snap.com/political-ads/asset/2dce70ad5d6864752022fc00cd59982bf7cd020cbd3f104179dbd00a7fc059ef?mediaType=png)|665||18+|united states|
+|Democratic National Committee|7.00 USD|[60](https://www.snap.com/political-ads/asset/5f98803d730cc4960cb44342082742f5b945b06d2868cd4806a0a098308d7731?mediaType=png)|519||18+|united states|
