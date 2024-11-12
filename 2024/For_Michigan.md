@@ -1,25 +1,48 @@
 ## 2024 - For Michigan 
-**Spent**: 17,330.00
+**Spent**: 51,140.00
 
-**Impressions**: 1,908,975
+**Impressions**: 7,541,132
 
-**Billing Addresses**: 1502 Kearny St NE,Washington,20017,US
+**Billing Addresses**: 
+- 1502 Kearny St NE,Washington,20017,US
+- 9 Lansdowne St Suite 2,Boston,02215,US
 
-|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
-|:---|---:|:---|---:|:---|:---|:---|
-|WKQ Media LLC|2,162.00 USD|[0](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|263,733||18-35|united states|
-|WKQ Media LLC|2,082.00 USD|[1](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|254,211||18-35|united states|
-|WKQ Media LLC|1,617.00 USD|[2](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|193,652||18-35|united states|
-|WKQ Media LLC|1,556.00 USD|[3](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|185,459||18-35|united states|
-|WKQ Media LLC|1,395.00 USD|[4](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|147,466||18-35|united states|
-|WKQ Media LLC|1,365.00 USD|[5](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|143,973||18-35|united states|
-|WKQ Media LLC|1,240.00 USD|[6](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|128,021||18-35|united states|
-|WKQ Media LLC|1,217.00 USD|[7](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|126,740||18-35|united states|
-|WKQ Media LLC|776.00 USD|[8](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|86,224||18-35|united states|
-|WKQ Media LLC|678.00 USD|[9](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|75,513||18-35|united states|
-|WKQ Media LLC|719.00 USD|[10](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|65,203||18-35|united states|
-|WKQ Media LLC|716.00 USD|[11](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|65,187||18-35|united states|
-|WKQ Media LLC|540.00 USD|[12](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|53,557||18-35|united states|
-|WKQ Media LLC|521.00 USD|[13](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|51,738||18-35|united states|
-|WKQ Media LLC|410.00 USD|[14](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|37,697||18-35|united states|
-|WKQ Media LLC|336.00 USD|[15](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|30,601||18-35|united states|
+|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
+|:---|---:|:---|---:|:---|:---|:---|:---|
+|Her Campus Media|2,886.00 USD|[0](https://www.snap.com/political-ads/asset/b441c64ae26c330f750f0cdd699dfd0adba79d8869f3128fed1c8a264620cfa9?mediaType=mp4)|1,463,584|||united states|9 Lansdowne St Suite 2,Boston,02215,US|
+|Her Campus Media|2,837.00 USD|[1](https://www.snap.com/political-ads/asset/9a9154fe500ef864f95e1de1a0e6cae6b6e32bb5c2b3d05b049e6113804158bd?mediaType=mp4)|1,436,000|||united states|9 Lansdowne St Suite 2,Boston,02215,US|
+|Her Campus Media|1,694.00 USD|[2](https://www.snap.com/political-ads/asset/9a9154fe500ef864f95e1de1a0e6cae6b6e32bb5c2b3d05b049e6113804158bd?mediaType=mp4)|362,426|||united states|9 Lansdowne St Suite 2,Boston,02215,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|3,433.00 USD|[3](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|313,484||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|3,394.00 USD|[4](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|310,902||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|2,162.00 USD|[5](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|263,733||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|2,082.00 USD|[6](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|254,211||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,866.00 USD|[7](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|200,134||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,617.00 USD|[8](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|193,652||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,747.00 USD|[9](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|186,876||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,556.00 USD|[10](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|185,459||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|2,081.00 USD|[11](https://www.snap.com/political-ads/asset/4857bef052714d3a9ea52e7f152e0d12d454ebdc2afc1f73b403f16a2a85f124?mediaType=mp4)|183,528||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,709.00 USD|[12](https://www.snap.com/political-ads/asset/e22aa4a48a4e81630fe65cbff6b093b62ee404519167717c02e6cb31c22abc46?mediaType=jpeg)|150,739||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,395.00 USD|[13](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|147,466||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,365.00 USD|[14](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|143,973||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,493.00 USD|[15](https://www.snap.com/political-ads/asset/4857bef052714d3a9ea52e7f152e0d12d454ebdc2afc1f73b403f16a2a85f124?mediaType=mp4)|139,227||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|Her Campus Media|927.00 USD|[16](https://www.snap.com/political-ads/asset/b441c64ae26c330f750f0cdd699dfd0adba79d8869f3128fed1c8a264620cfa9?mediaType=mp4)|130,892|||united states|9 Lansdowne St Suite 2,Boston,02215,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,366.00 USD|[17](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|130,648||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,320.00 USD|[18](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|126,270||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,178.00 USD|[19](https://www.snap.com/political-ads/asset/e22aa4a48a4e81630fe65cbff6b093b62ee404519167717c02e6cb31c22abc46?mediaType=jpeg)|108,633||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,161.00 USD|[20](https://www.snap.com/political-ads/asset/4857bef052714d3a9ea52e7f152e0d12d454ebdc2afc1f73b403f16a2a85f124?mediaType=mp4)|99,124||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,101.00 USD|[21](https://www.snap.com/political-ads/asset/e22aa4a48a4e81630fe65cbff6b093b62ee404519167717c02e6cb31c22abc46?mediaType=jpeg)|94,016||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|1,018.00 USD|[22](https://www.snap.com/political-ads/asset/91d038833bee43c73f2d60768869b6c27084a4c97f48731342b3a859e2735f26?mediaType=mp4)|92,736||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|995.00 USD|[23](https://www.snap.com/political-ads/asset/062577ac5fd0add87c2bb0ed4b671d638a0cdc9dac575743e52924dd34914c1a?mediaType=mp4)|90,701||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|931.00 USD|[24](https://www.snap.com/political-ads/asset/50816dd688c15621835f7f2c97b0b4ffa1152f55e84bb3549c849f2c96a86336?mediaType=mp4)|84,508||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|903.00 USD|[25](https://www.snap.com/political-ads/asset/91d038833bee43c73f2d60768869b6c27084a4c97f48731342b3a859e2735f26?mediaType=mp4)|82,678||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|770.00 USD|[26](https://www.snap.com/political-ads/asset/936415d1e678237cfb0d3d56269bf997848cda03c22d4b903b4fce0ee4f9555a?mediaType=mp4)|69,437||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|741.00 USD|[27](https://www.snap.com/political-ads/asset/062577ac5fd0add87c2bb0ed4b671d638a0cdc9dac575743e52924dd34914c1a?mediaType=mp4)|67,988||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|719.00 USD|[28](https://www.snap.com/political-ads/asset/4b71d4ad52b24dae0e4b19160732148b68afbd30d824c751e4cad963f89148e1?mediaType=mp4)|65,203||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|716.00 USD|[29](https://www.snap.com/political-ads/asset/b3f0a65fa1e5e639d3a7b951a202c47eb0895dfd436995c6cc06dfe39506093a?mediaType=mp4)|65,187||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|739.00 USD|[30](https://www.snap.com/political-ads/asset/91d038833bee43c73f2d60768869b6c27084a4c97f48731342b3a859e2735f26?mediaType=mp4)|63,196||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|732.00 USD|[31](https://www.snap.com/political-ads/asset/062577ac5fd0add87c2bb0ed4b671d638a0cdc9dac575743e52924dd34914c1a?mediaType=mp4)|62,440||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|809.00 USD|[32](https://www.snap.com/political-ads/asset/4857bef052714d3a9ea52e7f152e0d12d454ebdc2afc1f73b403f16a2a85f124?mediaType=mp4)|60,718||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|523.00 USD|[33](https://www.snap.com/political-ads/asset/e22aa4a48a4e81630fe65cbff6b093b62ee404519167717c02e6cb31c22abc46?mediaType=jpeg)|36,683||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|381.00 USD|[34](https://www.snap.com/political-ads/asset/062577ac5fd0add87c2bb0ed4b671d638a0cdc9dac575743e52924dd34914c1a?mediaType=mp4)|26,552||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|371.00 USD|[35](https://www.snap.com/political-ads/asset/91d038833bee43c73f2d60768869b6c27084a4c97f48731342b3a859e2735f26?mediaType=mp4)|26,036||18-35|united states|1502 Kearny St NE,Washington,20017,US|
+|WKQ Media LLC: Housing Choice and Encouraging Students to Vote|422.00 USD|[36](https://www.snap.com/political-ads/asset/cc3ed809c58d8948d43b83dc2d00943a340bdebf0301d607b3e78ee95ab88302?mediaType=png)|22,092||18-35|united states|1502 Kearny St NE,Washington,20017,US|

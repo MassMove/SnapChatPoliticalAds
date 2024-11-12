@@ -1,11 +1,11 @@
 ## 2021 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
-|[The Climate Pledge](The_Climate_Pledge.md) - Mediabrands France: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
-|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Brllnt: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
+|[European Commission](European_Commission.md) - Ogilvy Group SA-NV|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
+|[The Climate Pledge](The_Climate_Pledge.md) - Amazon Services LLC: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
+|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
-|[Thorn](Thorn.md) - Thorn|100,650.00 USD|42,751,107||17-|united states|
+|[Thorn](Thorn.md) - Thorn|100,450.00 USD|42,704,958||17-|united states|
 |[Fair Fight Action](Fair_Fight_Action.md) - AL Media: Fair Fight Action|327,862.00 USD|41,644,985||18-34, 18+|united states|
 |[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|163,821.00 CAD|39,734,775||16-20, 18+|canada|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Akershus Arbeiderparti|913,139.00 EUR, NOK|34,734,838|FEMALE|18-23, 18-28, 18-29, 18-30, 18-35, 18+, 26+, 30-40, 30-45|norway|
@@ -98,21 +98,21 @@
 |[Crimestoppers UK](Crimestoppers_UK.md) - Edison Media|4,023.00 GBP|2,579,775||18+|united kingdom|
 |[Dream Defenders](Dream_Defenders.md) - Dream Defenders: DCR, Stop HB1|7,000.00 USD|2,530,345||18+|united states|
 |[Volt Nederland](Volt_Nederland.md) - Volt Nederland: Volt Nederland|3,049.00 EUR|2,418,528|FEMALE, MALE|18-35|netherlands|
-|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|27,127.00 USD|2,383,651|FEMALE, MALE|18-34, 18+|united states|
+|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|27,034.00 USD|2,378,425|FEMALE, MALE|18-34, 18+|united states|
 |[Rijksoverheid](Rijksoverheid.md) - Initiative Media B.V|4,720.00 EUR|2,349,537||17-, 18-, 18-18|netherlands|
 |[Women Vote! PAC](Women_Vote!_PAC.md) - Wavelength Strategy: Women Vote|33,836.00 USD|2,214,582||18+|united states|
 |[Elections Ontario](Elections_Ontario.md) - Cossette Media Inc|14,000.00 CAD|2,205,148||18+|canada|
 |[Canadian Wildlife Federation](Canadian_Wildlife_Federation.md) - Canadian Wildlife Federation|8,466.00 CAD|2,171,650|MALE|18-30, 18+|canada|
 |[Komitee Ehe für alle](Komitee_Ehe_für_alle.md) - digital/organizing: EhefuerAlle|4,206.00 EUR|2,145,870||18-29, 29-|switzerland|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|6,816.00 CAD|2,080,085||18+, 24-, 35+|canada|
-|[Die Grazer Grünen](Die_Grazer_Grünen.md) - Cloudthinkn Werbeagentur KG: Judith Schwentner|3,003.00 EUR|2,068,741||18+|austria|
 |[Liberal Party of Canada](Liberal_Party_of_Canada.md) - Data Sciences: Liberal Party of Canada|35,244.00 CAD|2,057,812||18+|canada|
 |[New Jersey Education Association](New_Jersey_Education_Association.md) - The New Media Firm: New Jersey Education Association|15,034.00 USD|2,036,398||18+|united states|
+|[Die Grazer Grünen](Die_Grazer_Grünen.md) - Cloudthinkn Werbeagentur KG: Judith Schwentner|2,940.00 EUR|2,012,585||18+|austria|
 |[Hotel Association of NYC](Hotel_Association_of_NYC.md) - Pythia Public: Save the NYC Hotel Industry|15,894.00 USD|2,004,048||21+|united states|
 |[Scottish National Party](Scottish_National_Party.md) - Scottish National Party: Scottish National Party|4,482.00 GBP|1,938,875|FEMALE, MALE|16-24, 16+, 18+|united kingdom|
 |[March For Our Lives](March_For_Our_Lives.md) - Precision [TEST]|4,999.00 USD|1,927,873||25-|united states|
 |[BZgA](BZgA.md) - iProspect GmbH|9,025.00 EUR|1,887,639||18-24|germany|
-|[Dream Corps](Dream_Corps.md) - Townsquare Ignite|9,580.00 USD|1,877,941||18-35, 18+|united states|
+|[Dream Corps](Dream_Corps.md) - Townsquare Ignite|9,411.00 USD|1,849,748||18-35, 18+|united states|
 |[IGNITE](IGNITE.md) - IGNITE|9,106.00 USD|1,840,666|FEMALE|18-30|united states|
 |[DFAD](DFAD.md) - Do Big Things|4,127.00 USD|1,833,275||18+|united states|
 |[Junge Liberale e. V.](Junge_Liberale_e._V..md) - Steffen und Bach GmbH|6,098.00 EUR|1,779,122||18-24, 18-25|germany|
@@ -158,7 +158,7 @@
 |[American Bridge Foundation](American_Bridge_Foundation.md) - Wavelength Strategy|7,183.00 USD|1,121,015|FEMALE|18+|united states|
 |[Welsh Labour](Welsh_Labour.md) - Welsh Labour: Welsh Labour|1,756.00 GBP|1,090,499||18-23, 18+|united kingdom|
 |[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|17,822.00 SEK|1,082,094||15-23, 18-25, 18+, 20-, 21-|sweden|
-|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
+|[Welsh Government](Welsh_Government.md) - Powys Participation: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
 |[Doctors Without Borders](Doctors_Without_Borders.md) - Doctors Without Borders|5,944.00 USD|1,048,126||18+, 25+|united states|
 |[Presse- und Informationsamt](Presse-_und_Informationsamt.md) - iProspect GmbH|8,631.00 EUR|1,045,306||18-24|germany|
 |[Clean Virginia Fund](Clean_Virginia_Fund.md) - COMPETE Digital LLC: Clean Virginia Fund, Jay Jones, Jennifer Carroll Foy|21,583.00 USD|1,044,021||18+|united states|
@@ -277,7 +277,7 @@
 |[DAGA](DAGA.md) - Do Big Things|2,045.00 USD|141,239||18+|united states|
 |[SUSA flexibel studentenwerk](SUSA_flexibel_studentenwerk.md) - SUSA flexibel studentenwerk|149.00 EUR|141,034||18-28, 18-30|netherlands|
 |[Protect the Promise](Protect_the_Promise.md) - LoudDoor  LLC|1,440.00 USD|140,234||35+|united states|
-|[Resource Media](Resource_Media.md) - Spake Media|1,261.00 USD|139,705||18+|united states|
+|[Resource Media](Resource_Media.md) - RESOURCE MEDIA A NONPROFIT CORPORATION|1,261.00 USD|139,705||18+|united states|
 |[Namsos kommune](Namsos_kommune.md) - Mystory Norge AS|982.00 EUR|135,979||18+|norway|
 |[Agder Høyre](Agder_Høyre.md) - Markussen Consulting: Aase Marthe Horrigmo, Amalie Gunnufsen, Amalie Kollstrand, Ingunn Foss, Nicolai Osteby fra Kristiansand, Svein Harberg|6,941.00 NOK|133,732|FEMALE|17-35, 17+, 19+, 30+, 35-|norway|
 |[RAY MCGUIRE FOR MAYOR, INC.](RAY_MCGUIRE_FOR_MAYOR,_INC..md) - Assemble The Agency: Ray McGuire for Mayor|1,319.00 USD|131,744||18+|united states|
@@ -322,7 +322,7 @@
 |[Committee to Elect Matt Brown](Committee_to_Elect_Matt_Brown.md) - Committee to Elect Matt Brown: Matt Brown|350.00 USD|57,012||18+|united states|
 |[Ampersand Strategies](Ampersand_Strategies.md) - ampersand strategies: Jason Dozier for Atlanta, Jason Dozier for City Council|545.00 USD|51,887||18+|united states|
 |[Ali Yahya](Ali_Yahya.md) - AliYahyaSF: Ali Yahya|700.00 DKK|51,580||17+|denmark|
-|[Boomerang Ideas GmbH](Boomerang_Ideas_GmbH.md) - BoomSociety: Boomerang Ideas GmbH|131.00 EUR|51,513|FEMALE, MALE|18-24, 25-34|switzerland|
+|[Boomerang Ideas GmbH](Boomerang_Ideas_GmbH.md) - Boomerang Ideas GmbH: Boomerang Ideas GmbH|131.00 EUR|51,513|FEMALE, MALE|18-24, 25-34|switzerland|
 |[Nordre Follo KrF](Nordre_Follo_KrF.md) - Nordre Follo KrF: Nordre Follo KrF|3,899.00 NOK|49,875|FEMALE|25-45|norway|
 |[Hunter Williams](Hunter_Williams.md) - BIRMINGHAM  CITY OF|99.00 USD|49,808|||united states|
 |[Capture Connect Media](Capture_Connect_Media.md) - Capture Connect Media: Troy Carter|431.00 USD|48,994||21-34|united states|
