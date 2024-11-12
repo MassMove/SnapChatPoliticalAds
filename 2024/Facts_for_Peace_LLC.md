@@ -1,7 +1,7 @@
 ## 2024 - Facts for Peace LLC 
-**Spent**: 193,691.00
+**Spent**: 203,538.00
 
-**Impressions**: 10,485,648
+**Impressions**: 11,412,876
 
 **Billing Addresses**: US
 
@@ -22,12 +22,18 @@
 |Facts for Peace LLC|7,120.00 USD|[12](https://www.snap.com/political-ads/asset/b4788ddb7ea15e15c95077cfdb895cdd048d3099da9527964596ac706cb0349b?mediaType=mp4)|341,564|FEMALE|18-24|united states|
 |Facts for Peace LLC|3,549.00 USD|[13](https://www.snap.com/political-ads/asset/6ce49737cc81ba315c69cf6cb35c8cb981614180ee77d243f72c1fda1dde0eb6?mediaType=mp4)|340,274|FEMALE|18-24|united states|
 |Facts for Peace LLC|3,374.00 USD|[14](https://www.snap.com/political-ads/asset/6ce49737cc81ba315c69cf6cb35c8cb981614180ee77d243f72c1fda1dde0eb6?mediaType=mp4)|260,089|FEMALE|18-24|united states|
-|Facts for Peace LLC|5,031.00 USD|[15](https://www.snap.com/political-ads/asset/649b00d3761474e3b1593743418abf4e73b8d91587ad508ac157551771bf04a1?mediaType=mp4)|204,883|MALE|18-24|united states|
-|Facts for Peace LLC|5,233.00 USD|[16](https://www.snap.com/political-ads/asset/649b00d3761474e3b1593743418abf4e73b8d91587ad508ac157551771bf04a1?mediaType=mp4)|181,805|FEMALE|18-24|united states|
-|Facts for Peace LLC|1,648.00 USD|[17](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|77,982|FEMALE|18-24|united states|
-|Facts for Peace LLC|993.00 USD|[18](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|54,544|MALE|18-24|united states|
-|Facts for Peace LLC|1,074.00 USD|[19](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|54,088|FEMALE|18-24|united states|
-|Facts for Peace LLC|883.00 USD|[20](https://www.snap.com/political-ads/asset/b4788ddb7ea15e15c95077cfdb895cdd048d3099da9527964596ac706cb0349b?mediaType=mp4)|53,134||18-29|united states|
-|Facts for Peace LLC|976.00 USD|[21](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|44,068|FEMALE|18-24|united states|
-|Facts for Peace LLC|668.00 USD|[22](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|40,255|MALE|18-24|united states|
-|Facts for Peace LLC|403.00 USD|[23](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|26,935|MALE|18-24|united states|
+|Facts for Peace LLC|2,026.00 USD|[15](https://www.snap.com/political-ads/asset/276caf4abf35bcb913b696cd2934cab8340efb94ffd8d7e44692a2744e0e79b8?mediaType=mp4)|234,627|MALE|18-24|united states|
+|Facts for Peace LLC|5,031.00 USD|[16](https://www.snap.com/political-ads/asset/649b00d3761474e3b1593743418abf4e73b8d91587ad508ac157551771bf04a1?mediaType=mp4)|204,883|MALE|18-24|united states|
+|Facts for Peace LLC|1,701.00 USD|[17](https://www.snap.com/political-ads/asset/13962304f882dca077198bd6479fa22231be61071ff954415dbc0f17751e76e4?mediaType=mp4)|189,997|MALE|18-24|united states|
+|Facts for Peace LLC|5,233.00 USD|[18](https://www.snap.com/political-ads/asset/649b00d3761474e3b1593743418abf4e73b8d91587ad508ac157551771bf04a1?mediaType=mp4)|181,805|FEMALE|18-24|united states|
+|Facts for Peace LLC|2,127.00 USD|[19](https://www.snap.com/political-ads/asset/88b0d65ec7c37b8efbed807ffb714803b359acc97702f285927e0e12f0cf9253?mediaType=mp4)|174,827|FEMALE|18-24|united states|
+|Facts for Peace LLC|1,140.00 USD|[20](https://www.snap.com/political-ads/asset/88b0d65ec7c37b8efbed807ffb714803b359acc97702f285927e0e12f0cf9253?mediaType=mp4)|122,109|MALE|18-24|united states|
+|Facts for Peace LLC|1,753.00 USD|[21](https://www.snap.com/political-ads/asset/13962304f882dca077198bd6479fa22231be61071ff954415dbc0f17751e76e4?mediaType=mp4)|109,720|FEMALE|18-24|united states|
+|Facts for Peace LLC|1,100.00 USD|[22](https://www.snap.com/political-ads/asset/276caf4abf35bcb913b696cd2934cab8340efb94ffd8d7e44692a2744e0e79b8?mediaType=mp4)|95,948|FEMALE|18-24|united states|
+|Facts for Peace LLC|1,648.00 USD|[23](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|77,982|FEMALE|18-24|united states|
+|Facts for Peace LLC|993.00 USD|[24](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|54,544|MALE|18-24|united states|
+|Facts for Peace LLC|1,074.00 USD|[25](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|54,088|FEMALE|18-24|united states|
+|Facts for Peace LLC|883.00 USD|[26](https://www.snap.com/political-ads/asset/b4788ddb7ea15e15c95077cfdb895cdd048d3099da9527964596ac706cb0349b?mediaType=mp4)|53,134||18-29|united states|
+|Facts for Peace LLC|976.00 USD|[27](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|44,068|FEMALE|18-24|united states|
+|Facts for Peace LLC|668.00 USD|[28](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|40,255|MALE|18-24|united states|
+|Facts for Peace LLC|403.00 USD|[29](https://www.snap.com/political-ads/asset/db191ca1b46a8eaaf990849622b3adee55a8e5a2cf2c7d3d9249345167f10682?mediaType=mp4)|26,935|MALE|18-24|united states|

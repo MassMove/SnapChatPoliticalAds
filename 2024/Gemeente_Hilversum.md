@@ -1,7 +1,7 @@
 ## 2024 - Gemeente Hilversum 
 **Spent**: 231.00
 
-**Impressions**: 92,917
+**Impressions**: 92,918
 
 **Billing Addresses**: NL
 
@@ -15,4 +15,4 @@
 |Social Feature B.V.|15.00 EUR|[5](https://www.snap.com/political-ads/asset/49844dd30bacc254a3c7bada2a8317f4bd1605cde6bd765ed2503b0f896e799d?mediaType=mp4)|5,772||25-|netherlands|
 |Social Feature B.V.|14.00 EUR|[6](https://www.snap.com/political-ads/asset/1b9eeb887700b416bbaf77d07cd427baaf5ba03bd67ccc500158f8115902e62c?mediaType=mp4)|5,390||25-|netherlands|
 |Social Feature B.V.|13.00 EUR|[7](https://www.snap.com/political-ads/asset/8d7d513d7e4eb3e1be50f45ff65fc85cbd4c651f113a658c80a15cca86bde0c4?mediaType=mp4)|5,223||25-|netherlands|
-|Social Feature B.V.|6.00 EUR||2,079||18-25|netherlands|
+|Social Feature B.V.|6.00 EUR||2,080||18-25|netherlands|

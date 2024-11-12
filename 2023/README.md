@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
-|[Patagonia](Patagonia.md) - Patagonia|258,976.00 EUR, USD|55,673,530||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
@@ -27,12 +27,12 @@
 |[Oslo Arbeiderparti](Oslo_Arbeiderparti.md) - Oslo Arbeiderparti|321,106.00 NOK|8,202,117||18-49, 18+, 35+|norway|
 |[Galvanize Action](Galvanize_Action.md) - The New Media Firm: Galvanize USA|133,962.00 USD|8,022,092||18+|united states|
 |[Project Unloaded](Project_Unloaded.md) - M&R Strategic Services  Inc.|39,728.00 USD|7,732,660||17-|united states|
-|[Climate Power](Climate_Power.md) - Bully Pulpit Interactive|77,971.00 USD|7,281,558|FEMALE|18-30|united states|
+|[Climate Power](Climate_Power.md) - Bully Pulpit Interactive|75,200.00 USD|7,017,840|FEMALE|18-30|united states|
 |[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.|63,887.00 USD|6,804,065||18+|united states|
 |[Sierra Club](Sierra_Club.md) - Sierra Club: Plastic Pollution|38,513.00 USD|6,741,775|||united states|
 |[Elections Alberta](Elections_Alberta.md) - DDB Edmonton Media|19,998.00 CAD|6,648,545||18+|canada|
 |[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: Matt Dugan, Paul Vallas|17,799.00 USD|6,578,259|||united states|
-|[Venstre](Venstre.md) - Venstre: Ole Martini, Venstre|180,947.00 NOK|6,554,166||17-22, 18-27, 18-29, 18-30, 18-35, 18-49, 18+, 22+, 26+, 30+|norway|
+|[Venstre](Venstre.md) - Venstre: Ole Martini, Venstre|179,597.00 NOK|6,506,963||17-22, 18-27, 18-29, 18-30, 18-35, 18-49, 18+, 22+, 26+, 30+|norway|
 |[Life ONG](Life_ONG.md) - LIFE ONG|15,153.00 EUR|6,212,840||25+|france|
 |[National Human Rights Committee](National_Human_Rights_Committee.md) - Boldadvert|8,104.00 USD|6,025,843|FEMALE|18+|qatar|
 |[Commonwealth Communications](Commonwealth_Communications.md) - Do Big Things: PA Supreme Court Race|25,216.00 USD|5,709,765||18-25, 18+, 44-|united states|
@@ -48,8 +48,8 @@
 |[Osama AlShaheen](Osama_AlShaheen.md) - Different Media|7,969.00 USD|4,269,718||18+|kuwait|
 |[SOS-Kinderdörfer weltweit](SOS-Kinderdörfer_weltweit.md) - OMD München GmbH|15,983.00 EUR|4,117,506||18-25|germany|
 |[NYC Health](NYC_Health.md) - OpAD Media|27,802.00 USD|3,951,748|FEMALE|30-|united states|
+|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|14,489.00 USD|3,811,459|FEMALE|18-34, 44-|united states|
 |[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: Abortion, AG Kaul Lawsuit, Joel Urmanski|15,131.00 USD|3,786,172||16+, 18+|united states|
-|[Building Arizona Families](Building_Arizona_Families.md) - Elevate Marketing|14,072.00 USD|3,771,501|FEMALE|18-34, 44-|united states|
 |[Priorities USA & Comms2](Priorities_USA_&_Comms2.md) - Priorities USA|38,087.00 USD|3,551,286||18+|united states|
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|14,994.00 USD|3,340,093||17-, 18-22|united states|
 |[alihsan charity](alihsan_charity.md) - alihsancharity|10,337.00 USD|3,332,372||24+, 25+|united arab emirates|
@@ -124,7 +124,7 @@
 |[Polity](Polity.md) - LoKnow: Polity Election Marketplace|3,749.00 CAD|801,221||18+|canada|
 |[Vasemmistoliitto](Vasemmistoliitto.md) - Oy Dagmar Ab: Vasemmistoliitto|1,999.00 EUR|798,154||18-35|finland|
 |[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,995.00 EUR|784,738||18-34|finland|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|2,888.00 USD|750,215|FEMALE|30-|united states|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|3,047.00 USD|782,317|FEMALE|30-|united states|
 |[First Media](First_Media.md) - First Media V|11,149.00 USD|739,617||23+|united states|
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
 |[Texas State Teachers Association](Texas_State_Teachers_Association.md) - Corsair Campaigns|1,499.00 USD|726,654||18+|united states|
@@ -181,7 +181,7 @@
 |[Oslo SV](Oslo_SV.md) - Oslo SV|29,727.00 NOK|346,314||18-35, 18+|norway|
 |[Ohio Women's Alliance](Ohio_Women's_Alliance.md) - Chong and Koster|4,999.00 USD|332,348||18-25|united states|
 |[Agder Arbeiderparti](Agder_Arbeiderparti.md) - Agder Arbeiderparti: Arbeiderpartiet|13,169.00 NOK|328,365||16-25, 18-35, 18+|norway|
-|[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - KUWAITADS1: 200|887.00 USD|321,213||21+|kuwait|
+|[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - adzgulf2023new: 200|887.00 USD|321,213||21+|kuwait|
 |[Southwest Indiana Right to Life](Southwest_Indiana_Right_to_Life.md) - AXIOM|4,466.00 USD|318,908||18+|united states|
 |[Liberalistene Viken](Liberalistene_Viken.md) - Liberalistene Viken: Aleksander Carlsen, Kai Roger Hagen, Natalya Engelsrud Fritzen|18,222.00 NOK|314,126||18+|norway|
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Group C|1,325.00 USD|313,062||18+|united states|

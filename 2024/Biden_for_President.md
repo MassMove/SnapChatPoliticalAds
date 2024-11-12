@@ -1,7 +1,7 @@
 ## 2024 - Biden for President 
-**Spent**: 1,459,637.00
+**Spent**: 1,459,635.00
 
-**Impressions**: 225,956,865
+**Impressions**: 225,956,327
 
 **Billing Addresses**: US
 
@@ -996,7 +996,6 @@
 |Harris for President: Joe Biden|5.00 USD|[1124](https://www.snap.com/political-ads/asset/caaf6be88976be2c4884b9d239d7f91ad920c6991a5d132427034ff4465a722a?mediaType=mp4)|896||30-35|united states|
 |Harris for President: Joe Biden|5.00 USD|[1125](https://www.snap.com/political-ads/asset/7e08a6afa71c3a9daf44e343c7cdd9f5998d8a925140b23e5e7a76985df5f9e6?mediaType=mp4)|859||30-35|united states|
 |Harris for President: Joe Biden|4.00 USD|[1126](https://www.snap.com/political-ads/asset/0afe7d69551149d330657630472335ac8c56a6b248e84c555dd6ef22b0461e9c?mediaType=mp4)|852||18+|united states|
-|Harris for President: Joe Biden|2.00 USD|[1127](https://www.snap.com/political-ads/asset/cbdc0735a41352d99a4240ba814f7f3e1490bbeea6202322af5817821e15d5f7?mediaType=mp4)|538||18+|united states|
-|Harris for President: Joe Biden|2.00 USD|[1128](https://www.snap.com/political-ads/asset/8510da2c6218328d4fa4cc46466ef05d1cbe1d7940d178a1e975c9e43e63582e?mediaType=mp4)|487||18+|united states|
-|Harris for President: Joe Biden|1.00 USD|[1129](https://www.snap.com/political-ads/asset/0919f7e5160b462d984f8cca82b6c4abad42bf8880d87407eae5ca21a4bfd1dd?mediaType=mp4)|290||18+|united states|
-|Harris for President: Joe Biden|0.00 USD|[1130](https://www.snap.com/political-ads/asset/c8ba8b7286ce810ec10c1642ccd205eac3278a8abfd79a6fad7dba77401b76f5?mediaType=mp4)|10||18+|united states|
+|Harris for President: Joe Biden|2.00 USD|[1127](https://www.snap.com/political-ads/asset/8510da2c6218328d4fa4cc46466ef05d1cbe1d7940d178a1e975c9e43e63582e?mediaType=mp4)|487||18+|united states|
+|Harris for President: Joe Biden|1.00 USD|[1128](https://www.snap.com/political-ads/asset/0919f7e5160b462d984f8cca82b6c4abad42bf8880d87407eae5ca21a4bfd1dd?mediaType=mp4)|290||18+|united states|
+|Harris for President: Joe Biden|0.00 USD|[1129](https://www.snap.com/political-ads/asset/c8ba8b7286ce810ec10c1642ccd205eac3278a8abfd79a6fad7dba77401b76f5?mediaType=mp4)|10||18+|united states|

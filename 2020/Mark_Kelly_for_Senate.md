@@ -1,7 +1,7 @@
 ## 2020 - Mark Kelly for Senate 
-**Spent**: 213,808.00
+**Spent**: 213,301.00
 
-**Impressions**: 14,020,513
+**Impressions**: 13,991,652
 
 **Billing Addresses**: US
 
@@ -33,6 +33,5 @@
 |Mark Kelly for Senate: Mark Kelly for Senate|848.00 USD|[23](https://www.snap.com/political-ads/asset/ab497d0504e864fe14bf4b8a107f120befcd8a278fafcaf143ac702f71c8b9cb?mediaType=mp4)|35,750||18+|united states|
 |Mark Kelly for Senate: Mark Kelly for Senate|740.00 USD|[24](https://www.snap.com/political-ads/asset/b89d481848762eb5ae6c1b767f286c3072a2fccb0fee31c1ed153fc95cc12a23?mediaType=mp4)|31,288||18+|united states|
 |Mark Kelly for Senate: Mark Kelly for Senate|772.00 USD|[25](https://www.snap.com/political-ads/asset/4f42d75f55bc62b336e500ccc631654023a1953bb532e85b4781ddee3f56759c?mediaType=mp4)|30,157||18+|united states|
-|Mark Kelly for Senate|507.00 USD|[26](https://www.snap.com/political-ads/asset/ff8e300571b6461288f2d5f181afb2ccc4dc10d32337a60e0cd012a42520f1e6?mediaType=mp4)|28,861||19+|united states|
-|Mark Kelly for Senate: Mark Kelly for Senate|618.00 USD|[27](https://www.snap.com/political-ads/asset/af122e1aeec677b2b84f8a2cf42044e513cd108f1dd163d49bc2f5997d597df4?mediaType=mp4)|26,954||18+|united states|
-|Mark Kelly for Senate: Mark Kelly for Senate|510.00 USD|[28](https://www.snap.com/political-ads/asset/4429e19c11553c86168d84b7de98acc5d57345727aceb2eba1303dfadbd22245?mediaType=mp4)|21,496||18+|united states|
+|Mark Kelly for Senate: Mark Kelly for Senate|618.00 USD|[26](https://www.snap.com/political-ads/asset/af122e1aeec677b2b84f8a2cf42044e513cd108f1dd163d49bc2f5997d597df4?mediaType=mp4)|26,954||18+|united states|
+|Mark Kelly for Senate: Mark Kelly for Senate|510.00 USD|[27](https://www.snap.com/political-ads/asset/4429e19c11553c86168d84b7de98acc5d57345727aceb2eba1303dfadbd22245?mediaType=mp4)|21,496||18+|united states|

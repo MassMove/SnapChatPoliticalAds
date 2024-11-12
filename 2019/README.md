@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
@@ -83,7 +83,7 @@
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|
@@ -321,10 +321,10 @@
 |[Leadership Conference Edu Fund](Leadership_Conference_Edu_Fund.md) - Wethos|65.00 USD|22,460||21-30|united states|
 |[Nadia Ghisolfi](Nadia_Ghisolfi.md) - Nadia Ghisolfi|69.00 EUR|21,595||18+|switzerland|
 |[Paid for by ASMSU](Paid_for_by_ASMSU.md) - MSU Office of Student Engagement|40.00 USD|21,302||17-30|united states|
-|[Sande Høgre](Sande_Høgre.md) - West Media|86.00 USD|21,067||18+|norway|
 |[Greenpeace USA](Greenpeace_USA.md) - Greenpeace Fund  Inc.|33.00 USD|19,923|||united states|
 |[Owen Thompson](Owen_Thompson.md) - Midlothian SNP: Owen Thompson, Vote for Owen Thompson, Vote Owen Thompson|111.00 GBP|19,396||18-25, 18+|united kingdom|
 |[Putting Kentucky First](Putting_Kentucky_First.md) - Putting Kentucky First|19.00 USD|17,546||18+|united states|
+|[Sande Høgre](Sande_Høgre.md) - West Media|59.00 USD|16,777||18+|norway|
 |[NYC Neighbors PAC](NYC_Neighbors_PAC.md) - Ebonique for Council|55.00 USD|16,694||18+|united states|
 |[Print Mine](Print_Mine.md) - Stratos Developments Ltd.|114.00 CAD|14,711|FEMALE|30+, 35++|united states|
 |[Pernille Schwaner](Pernille_Schwaner.md) - Pernille Schwaner - Liberal Alliance|37.00 EUR|13,267|FEMALE|18+|denmark|

@@ -1,7 +1,7 @@
 ## 2024 - Mary Peltola for Congress 
-**Spent**: 19,322.00
+**Spent**: 19,484.00
 
-**Impressions**: 2,947,628
+**Impressions**: 2,975,734
 
 **Billing Addresses**: US
 
@@ -15,28 +15,28 @@
 |Mary Peltola for Congress: Mary Peltola|833.00 USD|[5](https://www.snap.com/political-ads/asset/d26fe8659ea5478e165b84346d72ff1fbd37227e64087e5e2ed826fbf0ec2056?mediaType=png)|153,861||18+|united states|
 |Mary Peltola for Congress: Mary Peltola|832.00 USD|[6](https://www.snap.com/political-ads/asset/aac646e38cf162b2cc9b5921696b61b2268e3f2137e92af342f132325b56daa8?mediaType=png)|153,786||18+|united states|
 |Mary Peltola for Congress: Mary Peltola|606.00 USD|[7](https://www.snap.com/political-ads/asset/f112f76f7edafe99122f3e85e709a997874bb5dcbdbba457d2a7ef0e251656c7?mediaType=png)|117,029||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|1,341.00 USD|[8](https://www.snap.com/political-ads/asset/335ba440bdef021fb460a81b24eab2531170e5933fb37cc9cbf78b65f8a377ab?mediaType=png)|88,887||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|442.00 USD|[9](https://www.snap.com/political-ads/asset/80ff3f7047a722510123f59f722b55fb8995bf2f82c7004d126d4073b24074b2?mediaType=png)|88,633||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|453.00 USD|[8](https://www.snap.com/political-ads/asset/80ff3f7047a722510123f59f722b55fb8995bf2f82c7004d126d4073b24074b2?mediaType=png)|90,601||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|1,341.00 USD|[9](https://www.snap.com/political-ads/asset/335ba440bdef021fb460a81b24eab2531170e5933fb37cc9cbf78b65f8a377ab?mediaType=png)|88,887||18+|united states|
 |Mary Peltola for Congress: Mary Peltola|895.00 USD|[10](https://www.snap.com/political-ads/asset/335ba440bdef021fb460a81b24eab2531170e5933fb37cc9cbf78b65f8a377ab?mediaType=png)|76,761||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|331.00 USD|[11](https://www.snap.com/political-ads/asset/e722a6033ef79a22673ecaebb5f419b9716ef40a3ea7deaff4f99a9ba216cdd8?mediaType=png)|66,623||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|331.00 USD|[12](https://www.snap.com/political-ads/asset/4e73ccd379e8f19b2c0203fa42fda4db3efb017a886b7e5f29a0c063614b378a?mediaType=png)|66,512||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|331.00 USD|[13](https://www.snap.com/political-ads/asset/e5c401efbdaebf24895c787e2242d265d8ddf15ce78fa2823908b843c7e7e6f4?mediaType=png)|66,480||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|331.00 USD|[14](https://www.snap.com/political-ads/asset/7d55d8722e5a063d14aff91b2c6830fa6111b071654891380dc05043d5883233?mediaType=png)|66,397||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|330.00 USD|[15](https://www.snap.com/political-ads/asset/ff1a22719ac12e4f3e4421da66e0f144837ac11639d4f9068e4b25cb028db663?mediaType=png)|66,379||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|330.00 USD|[16](https://www.snap.com/political-ads/asset/49440672a772dedd2721efb75c75a0d54d2ca7b10c0df011e2bfd6e6f19c43cc?mediaType=png)|66,372||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|330.00 USD|[17](https://www.snap.com/political-ads/asset/8ca4b00369f63e5010f09735046f9099c4e7dcea94da7f3460fdcdce0fb400fa?mediaType=png)|66,324||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|330.00 USD|[18](https://www.snap.com/political-ads/asset/d47eadaa2cfc03f59e360d89f1c0b03d8dce033dd0704eb7d5b27c1adef86069?mediaType=png)|66,305||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|329.00 USD|[19](https://www.snap.com/political-ads/asset/98485bd32ab0eb64cb7a8fe3be6a13cdfe4f120d50e485fb98884dc3581604b5?mediaType=png)|66,155||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|329.00 USD|[20](https://www.snap.com/political-ads/asset/49f6c66a7304e6796a78f5dc4d858007a598cd3491b886d366e34d9e72df5346?mediaType=png)|66,064||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|328.00 USD|[21](https://www.snap.com/political-ads/asset/36ac929387b315e643f286c9e194fafa3f39a038d2c471ae8c948b8a84d3018d?mediaType=png)|65,975||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|328.00 USD|[22](https://www.snap.com/political-ads/asset/430120d60f4a3230f5115b4868c5a0e94ddcb9d60ef1b1c3c4f19e9266645239?mediaType=png)|65,945||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|327.00 USD|[23](https://www.snap.com/political-ads/asset/a076caa60f0fa96e65ec246ad0af555c76ce1547e89ca656288e29f5056797d2?mediaType=png)|65,620||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|326.00 USD|[24](https://www.snap.com/political-ads/asset/a211cba4886fd4036e56114c7e876d0beada0fb9bd691f37ef0b2ef4fe7c65c4?mediaType=png)|65,609||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|326.00 USD|[25](https://www.snap.com/political-ads/asset/db42f2b3d3a7e06e7fea06f1e484d0d1fbcec2ba6e523c2b14b96c901e71293a?mediaType=png)|65,539||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|308.00 USD|[26](https://www.snap.com/political-ads/asset/53fd301b84d1127f3835035761a7ff0904faaa69d89a77db341cac1ad951daee?mediaType=png)|61,507||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|299.00 USD|[27](https://www.snap.com/political-ads/asset/b728cf2cdfad9df866b86f837ce1084c5e23fd2d1152e767906670d58b5911c8?mediaType=png)|59,755||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|299.00 USD|[28](https://www.snap.com/political-ads/asset/e14fc2f01132ea003038406979db52b6b40bcc1499cc161b8748d45db668c664?mediaType=png)|59,698||18+|united states|
-|Mary Peltola for Congress: Mary Peltola|296.00 USD|[29](https://www.snap.com/political-ads/asset/fec991d8118a2f03171196ef49f607b868fff93d8aa8b34d3301e9ffd70b0813?mediaType=png)|59,237||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|340.00 USD|[11](https://www.snap.com/political-ads/asset/e722a6033ef79a22673ecaebb5f419b9716ef40a3ea7deaff4f99a9ba216cdd8?mediaType=png)|68,090||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|339.00 USD|[12](https://www.snap.com/political-ads/asset/4e73ccd379e8f19b2c0203fa42fda4db3efb017a886b7e5f29a0c063614b378a?mediaType=png)|67,825||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|339.00 USD|[13](https://www.snap.com/political-ads/asset/e5c401efbdaebf24895c787e2242d265d8ddf15ce78fa2823908b843c7e7e6f4?mediaType=png)|67,820||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|338.00 USD|[14](https://www.snap.com/political-ads/asset/ff1a22719ac12e4f3e4421da66e0f144837ac11639d4f9068e4b25cb028db663?mediaType=png)|67,767||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|338.00 USD|[15](https://www.snap.com/political-ads/asset/d47eadaa2cfc03f59e360d89f1c0b03d8dce033dd0704eb7d5b27c1adef86069?mediaType=png)|67,718||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|338.00 USD|[16](https://www.snap.com/political-ads/asset/7d55d8722e5a063d14aff91b2c6830fa6111b071654891380dc05043d5883233?mediaType=png)|67,700||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|337.00 USD|[17](https://www.snap.com/political-ads/asset/49440672a772dedd2721efb75c75a0d54d2ca7b10c0df011e2bfd6e6f19c43cc?mediaType=png)|67,640||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|338.00 USD|[18](https://www.snap.com/political-ads/asset/8ca4b00369f63e5010f09735046f9099c4e7dcea94da7f3460fdcdce0fb400fa?mediaType=png)|67,639||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|337.00 USD|[19](https://www.snap.com/political-ads/asset/98485bd32ab0eb64cb7a8fe3be6a13cdfe4f120d50e485fb98884dc3581604b5?mediaType=png)|67,532||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|336.00 USD|[20](https://www.snap.com/political-ads/asset/49f6c66a7304e6796a78f5dc4d858007a598cd3491b886d366e34d9e72df5346?mediaType=png)|67,407||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|336.00 USD|[21](https://www.snap.com/political-ads/asset/36ac929387b315e643f286c9e194fafa3f39a038d2c471ae8c948b8a84d3018d?mediaType=png)|67,291||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|336.00 USD|[22](https://www.snap.com/political-ads/asset/430120d60f4a3230f5115b4868c5a0e94ddcb9d60ef1b1c3c4f19e9266645239?mediaType=png)|67,273||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|335.00 USD|[23](https://www.snap.com/political-ads/asset/a076caa60f0fa96e65ec246ad0af555c76ce1547e89ca656288e29f5056797d2?mediaType=png)|67,057||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|335.00 USD|[24](https://www.snap.com/political-ads/asset/a211cba4886fd4036e56114c7e876d0beada0fb9bd691f37ef0b2ef4fe7c65c4?mediaType=png)|67,048||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|335.00 USD|[25](https://www.snap.com/political-ads/asset/db42f2b3d3a7e06e7fea06f1e484d0d1fbcec2ba6e523c2b14b96c901e71293a?mediaType=png)|67,035||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|316.00 USD|[26](https://www.snap.com/political-ads/asset/53fd301b84d1127f3835035761a7ff0904faaa69d89a77db341cac1ad951daee?mediaType=png)|62,933||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|306.00 USD|[27](https://www.snap.com/political-ads/asset/b728cf2cdfad9df866b86f837ce1084c5e23fd2d1152e767906670d58b5911c8?mediaType=png)|61,099||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|306.00 USD|[28](https://www.snap.com/political-ads/asset/e14fc2f01132ea003038406979db52b6b40bcc1499cc161b8748d45db668c664?mediaType=png)|61,058||18+|united states|
+|Mary Peltola for Congress: Mary Peltola|305.00 USD|[29](https://www.snap.com/political-ads/asset/fec991d8118a2f03171196ef49f607b868fff93d8aa8b34d3301e9ffd70b0813?mediaType=png)|60,702||18+|united states|
 |Mary Peltola for Congress: Mary Peltola|664.00 USD|[30](https://www.snap.com/political-ads/asset/336f52d779ce1ff045406add6d541a8636359701d4376d2fe125f9e951629181?mediaType=jpeg)|46,668||18+|united states|
 |Mary Peltola for Congress: Mary Peltola|569.00 USD|[31](https://www.snap.com/political-ads/asset/336f52d779ce1ff045406add6d541a8636359701d4376d2fe125f9e951629181?mediaType=jpeg)|36,451||18+|united states|
 |Mary Peltola for Congress: Mary Peltola|203.00 USD|[32](https://www.snap.com/political-ads/asset/f8c03653cf3a0c19c81c3d054cf535115f55b0a42b3d3308e78225310c4bbd35?mediaType=png)|32,973||18+|united states|

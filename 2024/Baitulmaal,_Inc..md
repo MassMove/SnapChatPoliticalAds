@@ -1,7 +1,7 @@
 ## 2024 - Baitulmaal, Inc. 
-**Spent**: 5,612.00
+**Spent**: 5,971.00
 
-**Impressions**: 476,125
+**Impressions**: 490,654
 
 **Billing Addresses**: US
 
@@ -9,12 +9,12 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Baitulmaal  Inc.|1,114.00 USD|[0](https://www.snap.com/political-ads/asset/a03b72d0bd9a60c20ce72881644619ccff578e7fae46d783a27bed3dc5718e4e?mediaType=png)|113,051||18+|united states|
 |Baitulmaal  Inc.|572.00 USD|[1](https://www.snap.com/political-ads/asset/a5c985be98342efa03a1996a59b6094d97a0fac0019d6ac4aa86427af59fcd3b?mediaType=png)|61,058||18+|united states|
-|Baitulmaal  Inc.|355.00 USD|[2](https://www.snap.com/political-ads/asset/e4cdcc134b918b576424e60e1fb19ca1cc8b333fa450c33e7add6b7a7d7ece92?mediaType=png)|33,854||18+|united states|
-|Baitulmaal  Inc.|1,010.00 USD|[3](https://www.snap.com/political-ads/asset/890c7220df0a304668ae3bfa06f662aa38492d31e209b0138f89792a5dcfedf3?mediaType=mp4)|33,583||18+|united states|
-|Baitulmaal  Inc.|298.00 USD|[4](https://www.snap.com/political-ads/asset/edd0cb85a775f33cdeec691efbd722035176faf8f5f48318bee6f04ee47125fd?mediaType=png)|27,456||18+|united states|
-|Baitulmaal  Inc.|275.00 USD|[5](https://www.snap.com/political-ads/asset/70d73662e3b5fdd7ec7a904721d547447b8e0d34b0f56a76776d4fd44d640e68?mediaType=png)|25,517||18+|united states|
-|Baitulmaal  Inc.|205.00 USD|[6](https://www.snap.com/political-ads/asset/fec4eb83495988402662b1fb6ee775786c3a06e7a9cb50711a8a8580db358a80?mediaType=png)|22,937||18+|united states|
-|Baitulmaal  Inc.|336.00 USD|[7](https://www.snap.com/political-ads/asset/890c7220df0a304668ae3bfa06f662aa38492d31e209b0138f89792a5dcfedf3?mediaType=mp4)|19,066||25+|united states|
+|Baitulmaal  Inc.|1,214.00 USD|[2](https://www.snap.com/political-ads/asset/890c7220df0a304668ae3bfa06f662aa38492d31e209b0138f89792a5dcfedf3?mediaType=mp4)|39,163||18+|united states|
+|Baitulmaal  Inc.|355.00 USD|[3](https://www.snap.com/political-ads/asset/e4cdcc134b918b576424e60e1fb19ca1cc8b333fa450c33e7add6b7a7d7ece92?mediaType=png)|33,854||18+|united states|
+|Baitulmaal  Inc.|491.00 USD|[4](https://www.snap.com/political-ads/asset/890c7220df0a304668ae3bfa06f662aa38492d31e209b0138f89792a5dcfedf3?mediaType=mp4)|28,015||25+|united states|
+|Baitulmaal  Inc.|298.00 USD|[5](https://www.snap.com/political-ads/asset/edd0cb85a775f33cdeec691efbd722035176faf8f5f48318bee6f04ee47125fd?mediaType=png)|27,456||18+|united states|
+|Baitulmaal  Inc.|275.00 USD|[6](https://www.snap.com/political-ads/asset/70d73662e3b5fdd7ec7a904721d547447b8e0d34b0f56a76776d4fd44d640e68?mediaType=png)|25,517||18+|united states|
+|Baitulmaal  Inc.|205.00 USD|[7](https://www.snap.com/political-ads/asset/fec4eb83495988402662b1fb6ee775786c3a06e7a9cb50711a8a8580db358a80?mediaType=png)|22,937||18+|united states|
 |Baitulmaal  Inc.|164.00 USD|[8](https://www.snap.com/political-ads/asset/fec4eb83495988402662b1fb6ee775786c3a06e7a9cb50711a8a8580db358a80?mediaType=png)|17,900||18+|united states|
 |Baitulmaal  Inc.|186.00 USD|[9](https://www.snap.com/political-ads/asset/f054a02c574602f2bd724d5f5b7e6d07eef2e73634edfd38bbcec87c0dbaaf1f?mediaType=png)|17,792||18+|united states|
 |Baitulmaal  Inc.|181.00 USD|[10](https://www.snap.com/political-ads/asset/b69175cb3f184f202e407ca1febc790e2dee76f4b791bf823bd66692487fab27?mediaType=png)|16,878|||united states|
