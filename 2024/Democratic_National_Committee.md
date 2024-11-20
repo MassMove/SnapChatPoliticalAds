@@ -1,14 +1,14 @@
 ## 2024 - Democratic National Committee 
 **Spent**: 77,953.00
 
-**Impressions**: 7,797,964
+**Impressions**: 7,798,109
 
 **Billing Addresses**: 131 16th Street NE,Washington,20003,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Democratic National Committee|71,998.00 USD||7,122,254||18+|united states|
-|Democratic National Committee|3,001.00 USD||436,817||18+|united states|
+|Democratic National Committee|71,998.00 USD||7,122,395||18+|united states|
+|Democratic National Committee|3,001.00 USD||436,821||18+|united states|
 |Democratic National Committee|234.00 USD|[2](https://www.snap.com/political-ads/asset/991dd7dac6dcd163db91dd30054fa42fa644dedf29144e8582260c580d5dfa90?mediaType=png)|19,044||18+|united states|
 |Democratic National Committee|84.00 USD|[3](https://www.snap.com/political-ads/asset/b430557659f75ed2f334a0d8c3949af83f8eb07af365b078bd05f75a76b768bf?mediaType=png)|12,092||18+|united states|
 |Democratic National Committee|71.00 USD|[4](https://www.snap.com/political-ads/asset/ddfb1ef2e1b0e775d1eeb206692bec52f194741288a82256239eb1d027758b91?mediaType=png)|10,235||18+|united states|

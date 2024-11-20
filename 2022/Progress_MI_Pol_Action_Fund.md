@@ -1,7 +1,7 @@
 ## 2022 - Progress MI Pol Action Fund 
-**Spent**: 194,993.00
+**Spent**: 195,915.00
 
-**Impressions**: 11,690,532
+**Impressions**: 11,748,815
 
 **Billing Addresses**: 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
 
@@ -42,39 +42,40 @@
 |The New Media Firm: Progress Michigan PAF|956.00 USD|[32](https://www.snap.com/political-ads/asset/39e5ff9d749eed41fa6a1632b31825e614c3342ae51499fc14cbe47eea48190c?mediaType=mp4)|71,676||18+|united states|
 |The New Media Firm: Progress Michigan PAF|1,272.00 USD|[33](https://www.snap.com/political-ads/asset/c1ae6fa9556b58560ec3c1170c7b4d79b59b501fb96ba8c29cc85622a676e77d?mediaType=mp4)|61,375||18+|united states|
 |The New Media Firm: Progress Michigan PAF|1,048.00 USD|[34](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|60,740||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,108.00 USD|[35](https://www.snap.com/political-ads/asset/e3f2ed02cc080a6fe37bcc53fe97bb3eb69a6cf231d2715654d90e247909636f?mediaType=mp4)|55,254||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,564.00 USD|[36](https://www.snap.com/political-ads/asset/ce5b5c2a6c9d66ca93ce793d1a3325a2926b18c16e84c0ebcc47c9cb4070e231?mediaType=mp4)|54,100||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,506.00 USD|[37](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|52,260||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,009.00 USD|[38](https://www.snap.com/political-ads/asset/ce5b5c2a6c9d66ca93ce793d1a3325a2926b18c16e84c0ebcc47c9cb4070e231?mediaType=mp4)|52,136||18+|united states|
-|The New Media Firm: Progress Michigan PAF|709.00 USD|[39](https://www.snap.com/political-ads/asset/449d2992350626eed07ba8099d3c3bd05592a3a3e1b17a3b567ac622ab4387d4?mediaType=mp4)|49,606||18+|united states|
-|The New Media Firm: Progress Michigan PAF|644.00 USD|[40](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|46,363||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,337.00 USD|[41](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|46,253||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,123.00 USD|[42](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|45,391||18+|united states|
-|The New Media Firm: Progress Michigan PAF|726.00 USD|[43](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|43,222||18+|united states|
-|The New Media Firm: Progress Michigan PAF|801.00 USD|[44](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|41,468||18+|united states|
-|The New Media Firm: Progress Michigan PAF|681.00 USD|[45](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|40,092||18+|united states|
-|The New Media Firm: Progress Michigan PAF|780.00 USD|[46](https://www.snap.com/political-ads/asset/e3f2ed02cc080a6fe37bcc53fe97bb3eb69a6cf231d2715654d90e247909636f?mediaType=mp4)|37,677||18+|united states|
-|The New Media Firm: Progress Michigan PAF|1,125.00 USD|[47](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|37,291||18+|united states|
-|The New Media Firm: Progress Michigan PAF|681.00 USD|[48](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|33,517||18+|united states|
-|The New Media Firm: Progress Michigan PAF|483.00 USD|[49](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|32,681||18+|united states|
-|The New Media Firm: Progress Michigan PAF|776.00 USD|[50](https://www.snap.com/political-ads/asset/e3f2ed02cc080a6fe37bcc53fe97bb3eb69a6cf231d2715654d90e247909636f?mediaType=mp4)|32,288||18+|united states|
-|The New Media Firm: Progress Michigan PAF|369.00 USD|[51](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|30,880||18+|united states|
-|The New Media Firm: Progress Michigan PAF|657.00 USD|[52](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|30,432||18+|united states|
-|The New Media Firm: Progress Michigan PAF|656.00 USD|[53](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|30,409||18+|united states|
-|The New Media Firm: Progress Michigan PAF|782.00 USD|[54](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|30,113||18+|united states|
-|The New Media Firm: Progress Michigan PAF|503.00 USD|[55](https://www.snap.com/political-ads/asset/39e5ff9d749eed41fa6a1632b31825e614c3342ae51499fc14cbe47eea48190c?mediaType=mp4)|28,567||18+|united states|
-|The New Media Firm: Progress Michigan PAF|581.00 USD|[56](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|26,538||18+|united states|
-|The New Media Firm: Progress Michigan PAF|391.00 USD|[57](https://www.snap.com/political-ads/asset/39e5ff9d749eed41fa6a1632b31825e614c3342ae51499fc14cbe47eea48190c?mediaType=mp4)|24,274||18+|united states|
-|The New Media Firm: Progress Michigan PAF|461.00 USD|[58](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|22,786||18+|united states|
-|The New Media Firm: Progress Michigan PAF|539.00 USD|[59](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|20,640||18+|united states|
-|The New Media Firm: Progress Michigan PAF|387.00 USD|[60](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|20,495||18+|united states|
-|The New Media Firm: Progress Michigan PAF|466.00 USD|[61](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|20,429||18+|united states|
-|The New Media Firm: Progress Michigan PAF|460.00 USD|[62](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|19,730||18+|united states|
-|The New Media Firm: Progress Michigan PAF|354.00 USD|[63](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|18,421||18+|united states|
-|The New Media Firm: Progress Michigan PAF|314.00 USD|[64](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|18,345||18+|united states|
-|The New Media Firm: Progress Michigan PAF|282.00 USD|[65](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|17,184||18+|united states|
-|The New Media Firm: Progress Michigan PAF|322.00 USD|[66](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|16,650||18+|united states|
-|The New Media Firm: Progress Michigan PAF|279.00 USD|[67](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|16,570||18+|united states|
-|The New Media Firm: Progress Michigan PAF|295.00 USD|[68](https://www.snap.com/political-ads/asset/c1ae6fa9556b58560ec3c1170c7b4d79b59b501fb96ba8c29cc85622a676e77d?mediaType=mp4)|15,842||18+|united states|
-|The New Media Firm: Progress Michigan PAF|228.00 USD|[69](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|14,292||18+|united states|
-|The New Media Firm: Progress Michigan PAF|241.00 USD|[70](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|14,194||18+|united states|
+|The New Media Firm: Progress Michigan PAF|922.00 USD|[35](https://www.snap.com/political-ads/asset/c1ae6fa9556b58560ec3c1170c7b4d79b59b501fb96ba8c29cc85622a676e77d?mediaType=mp4)|58,283||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,108.00 USD|[36](https://www.snap.com/political-ads/asset/e3f2ed02cc080a6fe37bcc53fe97bb3eb69a6cf231d2715654d90e247909636f?mediaType=mp4)|55,254||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,564.00 USD|[37](https://www.snap.com/political-ads/asset/ce5b5c2a6c9d66ca93ce793d1a3325a2926b18c16e84c0ebcc47c9cb4070e231?mediaType=mp4)|54,100||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,506.00 USD|[38](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|52,260||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,009.00 USD|[39](https://www.snap.com/political-ads/asset/ce5b5c2a6c9d66ca93ce793d1a3325a2926b18c16e84c0ebcc47c9cb4070e231?mediaType=mp4)|52,136||18+|united states|
+|The New Media Firm: Progress Michigan PAF|709.00 USD|[40](https://www.snap.com/political-ads/asset/449d2992350626eed07ba8099d3c3bd05592a3a3e1b17a3b567ac622ab4387d4?mediaType=mp4)|49,606||18+|united states|
+|The New Media Firm: Progress Michigan PAF|644.00 USD|[41](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|46,363||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,337.00 USD|[42](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|46,253||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,123.00 USD|[43](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|45,391||18+|united states|
+|The New Media Firm: Progress Michigan PAF|726.00 USD|[44](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|43,222||18+|united states|
+|The New Media Firm: Progress Michigan PAF|801.00 USD|[45](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|41,468||18+|united states|
+|The New Media Firm: Progress Michigan PAF|681.00 USD|[46](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|40,092||18+|united states|
+|The New Media Firm: Progress Michigan PAF|780.00 USD|[47](https://www.snap.com/political-ads/asset/e3f2ed02cc080a6fe37bcc53fe97bb3eb69a6cf231d2715654d90e247909636f?mediaType=mp4)|37,677||18+|united states|
+|The New Media Firm: Progress Michigan PAF|1,125.00 USD|[48](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|37,291||18+|united states|
+|The New Media Firm: Progress Michigan PAF|681.00 USD|[49](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|33,517||18+|united states|
+|The New Media Firm: Progress Michigan PAF|483.00 USD|[50](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|32,681||18+|united states|
+|The New Media Firm: Progress Michigan PAF|776.00 USD|[51](https://www.snap.com/political-ads/asset/e3f2ed02cc080a6fe37bcc53fe97bb3eb69a6cf231d2715654d90e247909636f?mediaType=mp4)|32,288||18+|united states|
+|The New Media Firm: Progress Michigan PAF|369.00 USD|[52](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|30,880||18+|united states|
+|The New Media Firm: Progress Michigan PAF|657.00 USD|[53](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|30,432||18+|united states|
+|The New Media Firm: Progress Michigan PAF|656.00 USD|[54](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|30,409||18+|united states|
+|The New Media Firm: Progress Michigan PAF|782.00 USD|[55](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|30,113||18+|united states|
+|The New Media Firm: Progress Michigan PAF|503.00 USD|[56](https://www.snap.com/political-ads/asset/39e5ff9d749eed41fa6a1632b31825e614c3342ae51499fc14cbe47eea48190c?mediaType=mp4)|28,567||18+|united states|
+|The New Media Firm: Progress Michigan PAF|581.00 USD|[57](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|26,538||18+|united states|
+|The New Media Firm: Progress Michigan PAF|391.00 USD|[58](https://www.snap.com/political-ads/asset/39e5ff9d749eed41fa6a1632b31825e614c3342ae51499fc14cbe47eea48190c?mediaType=mp4)|24,274||18+|united states|
+|The New Media Firm: Progress Michigan PAF|461.00 USD|[59](https://www.snap.com/political-ads/asset/dd5e5639e9d8a8dc8606f1c4405cc61777dacf892931bfa6b6c012e88aa3931e?mediaType=mp4)|22,786||18+|united states|
+|The New Media Firm: Progress Michigan PAF|539.00 USD|[60](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|20,640||18+|united states|
+|The New Media Firm: Progress Michigan PAF|387.00 USD|[61](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|20,495||18+|united states|
+|The New Media Firm: Progress Michigan PAF|466.00 USD|[62](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|20,429||18+|united states|
+|The New Media Firm: Progress Michigan PAF|460.00 USD|[63](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|19,730||18+|united states|
+|The New Media Firm: Progress Michigan PAF|354.00 USD|[64](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|18,421||18+|united states|
+|The New Media Firm: Progress Michigan PAF|314.00 USD|[65](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|18,345||18+|united states|
+|The New Media Firm: Progress Michigan PAF|282.00 USD|[66](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|17,184||18+|united states|
+|The New Media Firm: Progress Michigan PAF|322.00 USD|[67](https://www.snap.com/political-ads/asset/1e7481b089f063841bde6c3a29729df9f08ab481bc3cbfb207589ba1da9ee197?mediaType=mp4)|16,650||18+|united states|
+|The New Media Firm: Progress Michigan PAF|279.00 USD|[68](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|16,570||18+|united states|
+|The New Media Firm: Progress Michigan PAF|295.00 USD|[69](https://www.snap.com/political-ads/asset/c1ae6fa9556b58560ec3c1170c7b4d79b59b501fb96ba8c29cc85622a676e77d?mediaType=mp4)|15,842||18+|united states|
+|The New Media Firm: Progress Michigan PAF|228.00 USD|[70](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|14,292||18+|united states|
+|The New Media Firm: Progress Michigan PAF|241.00 USD|[71](https://www.snap.com/political-ads/asset/51b91f44aa334161b51403486baa0a0916b68f95b1d2aa31a564e62d0ae48302?mediaType=mp4)|14,194||18+|united states|

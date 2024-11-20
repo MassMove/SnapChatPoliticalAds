@@ -1,14 +1,14 @@
 ## 2024 - NextEra Energy Resources 
-**Spent**: 2,277.00
+**Spent**: 2,382.00
 
-**Impressions**: 188,865
+**Impressions**: 201,190
 
 **Billing Addresses**: 919 Central Ave,Auburn,68305,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |BCom Solutions: Cass County Solar|889.00 USD|[0](https://www.snap.com/political-ads/asset/29ac575137411ef86f548ce2fe326c668022091ce7d6623ba7f2bb92d542a801?mediaType=png)|69,774||18+|united states|
-|BCom Solutions: Cass County Solar|293.00 USD|[1](https://www.snap.com/political-ads/asset/66c976c6e02f5a9b2c3a6e1c3b5a6f7be4e2bd2bb07f80964b6777b3000f425c?mediaType=png)|41,295||18+|united states|
+|BCom Solutions: Cass County Solar|398.00 USD|[1](https://www.snap.com/political-ads/asset/66c976c6e02f5a9b2c3a6e1c3b5a6f7be4e2bd2bb07f80964b6777b3000f425c?mediaType=png)|53,620||18+|united states|
 |BCom Solutions: Cass County Solar|280.00 USD|[2](https://www.snap.com/political-ads/asset/c4dd96ef99d4a09164ce92d7cfac345e84362b2c9e8e07d022074e46bfc8ac4d?mediaType=png)|24,398||18+|united states|
 |BCom Solutions: Cass County Solar|265.00 USD|[3](https://www.snap.com/political-ads/asset/506f5d2c197005d3c03064c00af544537cbe27737634b309d64205d73079bfa7?mediaType=mp4)|22,202||18+|united states|
 |BCom Solutions: Cass County Solar|358.00 USD|[4](https://www.snap.com/political-ads/asset/e075002c997901d24eb9c8c83c19603e0cf0d54dd0c63e77d9dd6725720afdeb?mediaType=mp4)|18,140||18+|united states|
