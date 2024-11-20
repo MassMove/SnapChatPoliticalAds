@@ -1,7 +1,7 @@
 ## 2019 - SELC 
-**Spent**: 14,896.00
+**Spent**: 14,776.00
 
-**Impressions**: 23,414,782
+**Impressions**: 23,371,153
 
 **Billing Addresses**: US
 
@@ -40,21 +40,20 @@
 |Southern Environmental Law Center|122.00 USD|[135](https://www.snap.com/political-ads/asset/9302928a3eedf4d2ee01d5879a8243bc1ccf297403f4ba6fb341ba36440cd961?mediaType=jpg)|44,359|||united states|
 |Southern Environmental Law Center|120.00 USD|[136](https://www.snap.com/political-ads/asset/b37340bf4e9714c4228e61052784f56ba126b07bbbacb9888e1d74f9781b2214?mediaType=jpg)|44,138|||united states|
 |Southern Environmental Law Center|113.00 USD|[137](https://www.snap.com/political-ads/asset/b37340bf4e9714c4228e61052784f56ba126b07bbbacb9888e1d74f9781b2214?mediaType=jpg)|43,841|||united states|
-|Southern Environmental Law Center|120.00 USD|[138](https://www.snap.com/political-ads/asset/a566386c1f5a5c97e51ae188eba4bd55b99a9ba298bfbd9d572c225e29401906?mediaType=jpg)|43,629|||united states|
-|Southern Environmental Law Center|120.00 USD|[139](https://www.snap.com/political-ads/asset/32e91c0dde696c22b0ee9a8b067eecad28d58a9dd5ec21c426ae2e541438f0f1?mediaType=jpg)|43,499|||united states|
-|Southern Environmental Law Center|64.00 USD|[140](https://www.snap.com/political-ads/asset/4881957a04ef8c9c5bcafef7d92bc0bb4d5c9e0eb47ef9e1ffd89169a5346a8e?mediaType=mp4)|32,572|||united states|
-|Southern Environmental Law Center|56.00 USD|[141](https://www.snap.com/political-ads/asset/785e6cd18487ecb81427a48d530790c701791ef9ed9ff4cd0e0b60a6fd71229d?mediaType=png)|31,790|||united states|
-|Southern Environmental Law Center|61.00 USD|[142](https://www.snap.com/political-ads/asset/4881957a04ef8c9c5bcafef7d92bc0bb4d5c9e0eb47ef9e1ffd89169a5346a8e?mediaType=mp4)|31,648|||united states|
-|Southern Environmental Law Center|53.00 USD|[143](https://www.snap.com/political-ads/asset/0c2bdc46c8d11a7c9c82ee12c48d3bd5463be3cecbbaa03f286e918ea91d8a40?mediaType=png)|29,865|||united states|
-|Southern Environmental Law Center|57.00 USD|[144](https://www.snap.com/political-ads/asset/90bf8eb5de3f9e386e7388fd1bb289cbc8e4e7efd04f3429dc8c278844c48f61?mediaType=mp4)|28,452|||united states|
-|Southern Environmental Law Center|49.00 USD|[145](https://www.snap.com/political-ads/asset/1dcf7237086141a7aa8270f63e7d6da6b693bbf9a98216933a0cdcec9ce0eab7?mediaType=jpg)|23,473|||united states|
-|Southern Environmental Law Center|34.00 USD|[146](https://www.snap.com/political-ads/asset/1aaed2599ab74056acb2063b87bfa322e3a8074e24631bcc07fc34bc4c625886?mediaType=png)|16,448|||united states|
-|Southern Environmental Law Center|36.00 USD|[147](https://www.snap.com/political-ads/asset/d643cc6b648b4b5898a676b3bc4da1604282b5988a1938f373a6207008672e85?mediaType=jpg)|16,365|||united states|
-|Southern Environmental Law Center|36.00 USD|[148](https://www.snap.com/political-ads/asset/100e2850567e443d72a3ee4f942e2f99595d6c30d2dbb38bf66430010f5d9603?mediaType=jpg)|15,914|||united states|
-|Southern Environmental Law Center|33.00 USD|[149](https://www.snap.com/political-ads/asset/6dfa9898c36b8c1ca8e96dac2fe2dc6cec15a79883eecb7e4504283098e1ba4e?mediaType=jpg)|14,558|||united states|
-|Southern Environmental Law Center|41.00 USD|[150](https://www.snap.com/political-ads/asset/90bf8eb5de3f9e386e7388fd1bb289cbc8e4e7efd04f3429dc8c278844c48f61?mediaType=mp4)|13,540|||united states|
-|Southern Environmental Law Center|42.00 USD|[151](https://www.snap.com/political-ads/asset/1dcf7237086141a7aa8270f63e7d6da6b693bbf9a98216933a0cdcec9ce0eab7?mediaType=jpg)|13,531|||united states|
-|Southern Environmental Law Center|40.00 USD|[152](https://www.snap.com/political-ads/asset/d643cc6b648b4b5898a676b3bc4da1604282b5988a1938f373a6207008672e85?mediaType=jpg)|13,078|||united states|
-|Southern Environmental Law Center|39.00 USD|[153](https://www.snap.com/political-ads/asset/100e2850567e443d72a3ee4f942e2f99595d6c30d2dbb38bf66430010f5d9603?mediaType=jpg)|12,517|||united states|
-|Southern Environmental Law Center|38.00 USD|[154](https://www.snap.com/political-ads/asset/6dfa9898c36b8c1ca8e96dac2fe2dc6cec15a79883eecb7e4504283098e1ba4e?mediaType=jpg)|12,434|||united states|
-|Southern Environmental Law Center|17.00 USD|[155](https://www.snap.com/political-ads/asset/785e6cd18487ecb81427a48d530790c701791ef9ed9ff4cd0e0b60a6fd71229d?mediaType=png)|5,417|||united states|
+|Southern Environmental Law Center|120.00 USD|[138](https://www.snap.com/political-ads/asset/32e91c0dde696c22b0ee9a8b067eecad28d58a9dd5ec21c426ae2e541438f0f1?mediaType=jpg)|43,499|||united states|
+|Southern Environmental Law Center|64.00 USD|[139](https://www.snap.com/political-ads/asset/4881957a04ef8c9c5bcafef7d92bc0bb4d5c9e0eb47ef9e1ffd89169a5346a8e?mediaType=mp4)|32,572|||united states|
+|Southern Environmental Law Center|56.00 USD|[140](https://www.snap.com/political-ads/asset/785e6cd18487ecb81427a48d530790c701791ef9ed9ff4cd0e0b60a6fd71229d?mediaType=png)|31,790|||united states|
+|Southern Environmental Law Center|61.00 USD|[141](https://www.snap.com/political-ads/asset/4881957a04ef8c9c5bcafef7d92bc0bb4d5c9e0eb47ef9e1ffd89169a5346a8e?mediaType=mp4)|31,648|||united states|
+|Southern Environmental Law Center|53.00 USD|[142](https://www.snap.com/political-ads/asset/0c2bdc46c8d11a7c9c82ee12c48d3bd5463be3cecbbaa03f286e918ea91d8a40?mediaType=png)|29,865|||united states|
+|Southern Environmental Law Center|57.00 USD|[143](https://www.snap.com/political-ads/asset/90bf8eb5de3f9e386e7388fd1bb289cbc8e4e7efd04f3429dc8c278844c48f61?mediaType=mp4)|28,452|||united states|
+|Southern Environmental Law Center|49.00 USD|[144](https://www.snap.com/political-ads/asset/1dcf7237086141a7aa8270f63e7d6da6b693bbf9a98216933a0cdcec9ce0eab7?mediaType=jpg)|23,473|||united states|
+|Southern Environmental Law Center|34.00 USD|[145](https://www.snap.com/political-ads/asset/1aaed2599ab74056acb2063b87bfa322e3a8074e24631bcc07fc34bc4c625886?mediaType=png)|16,448|||united states|
+|Southern Environmental Law Center|36.00 USD|[146](https://www.snap.com/political-ads/asset/d643cc6b648b4b5898a676b3bc4da1604282b5988a1938f373a6207008672e85?mediaType=jpg)|16,365|||united states|
+|Southern Environmental Law Center|36.00 USD|[147](https://www.snap.com/political-ads/asset/100e2850567e443d72a3ee4f942e2f99595d6c30d2dbb38bf66430010f5d9603?mediaType=jpg)|15,914|||united states|
+|Southern Environmental Law Center|33.00 USD|[148](https://www.snap.com/political-ads/asset/6dfa9898c36b8c1ca8e96dac2fe2dc6cec15a79883eecb7e4504283098e1ba4e?mediaType=jpg)|14,558|||united states|
+|Southern Environmental Law Center|41.00 USD|[149](https://www.snap.com/political-ads/asset/90bf8eb5de3f9e386e7388fd1bb289cbc8e4e7efd04f3429dc8c278844c48f61?mediaType=mp4)|13,540|||united states|
+|Southern Environmental Law Center|42.00 USD|[150](https://www.snap.com/political-ads/asset/1dcf7237086141a7aa8270f63e7d6da6b693bbf9a98216933a0cdcec9ce0eab7?mediaType=jpg)|13,531|||united states|
+|Southern Environmental Law Center|40.00 USD|[151](https://www.snap.com/political-ads/asset/d643cc6b648b4b5898a676b3bc4da1604282b5988a1938f373a6207008672e85?mediaType=jpg)|13,078|||united states|
+|Southern Environmental Law Center|39.00 USD|[152](https://www.snap.com/political-ads/asset/100e2850567e443d72a3ee4f942e2f99595d6c30d2dbb38bf66430010f5d9603?mediaType=jpg)|12,517|||united states|
+|Southern Environmental Law Center|38.00 USD|[153](https://www.snap.com/political-ads/asset/6dfa9898c36b8c1ca8e96dac2fe2dc6cec15a79883eecb7e4504283098e1ba4e?mediaType=jpg)|12,434|||united states|
+|Southern Environmental Law Center|17.00 USD|[154](https://www.snap.com/political-ads/asset/785e6cd18487ecb81427a48d530790c701791ef9ed9ff4cd0e0b60a6fd71229d?mediaType=png)|5,417|||united states|

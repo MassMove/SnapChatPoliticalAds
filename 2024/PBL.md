@@ -1,7 +1,7 @@
 ## 2024 - PBL 
 **Spent**: 1,093.00
 
-**Impressions**: 151,536
+**Impressions**: 151,559
 
 **Billing Addresses**: Prinsengate 91,Bodø,8003,NO
 
@@ -19,3 +19,4 @@
 |PBL|2.00 USD|[12](https://www.snap.com/political-ads/asset/939485f0c8fb415c514695cb85df9fa79ef81d7230b74f46348f5900435cd76c?mediaType=mp4)|132||20+|norway|
 |PBL|2.00 USD|[13](https://www.snap.com/political-ads/asset/c1d157791cde572312f3915f58fbdb84da2033434a5da5302da64abd88d62113?mediaType=mp4)|129||20+|norway|
 |PBL|3.00 USD|[14](https://www.snap.com/political-ads/asset/7571dcd0a72262ec4fb08faf9c31104b84d755949ae4a627734b7c10601916e7?mediaType=mp4)|125||20+|norway|
+|PBL|0.00 USD|[15](https://www.snap.com/political-ads/asset/9211bc313c4a5e8c5dc32005131907d44b1db6dbdb43c4da7c9c1f2eba258173?mediaType=mp4)|23||18+|norway|

@@ -3,27 +3,27 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
 |[Pela](Pela.md) - Open Mind Developments Corporation Inc.|45,625.00 USD|49,203,807|||canada, united states|
 |[Gouvernement du Canada](Gouvernement_du_Canada.md) - Cossette Media Inc|124,115.00 CAD|48,643,887||18-, 18-24, 18-34|canada|
 |[PHD Canada](PHD_Canada.md) - PHD Canada|83,797.00 CAD|41,885,554||19-34|canada|
-|[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
+|[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|105,471.00 USD|38,390,635||18+|united states|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
 |[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18-34, 18-35, 18+|united kingdom|
 |[DNB](DNB.md) - DNB Bank ASA|111,957.00 EUR|29,844,629|FEMALE|18-34, 18+, 20+, 25+, 35+, 35++|norway|
 |[Trump MAGA Committee](Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
-|[SELC](SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
+|[SELC](SELC.md) - Southern Environmental Law Center|14,776.00 USD|23,371,153|||united states|
 |[UnRestrict Minnesota](UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
 |[Carat France](Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 |[OBOS](OBOS.md) - Red Media AS|31,722.00 USD|17,960,616|FEMALE|18+, 20+|norway|
@@ -321,10 +321,10 @@
 |[Leadership Conference Edu Fund](Leadership_Conference_Edu_Fund.md) - Wethos|65.00 USD|22,460||21-30|united states|
 |[Nadia Ghisolfi](Nadia_Ghisolfi.md) - Nadia Ghisolfi|69.00 EUR|21,595||18+|switzerland|
 |[Paid for by ASMSU](Paid_for_by_ASMSU.md) - MSU Office of Student Engagement|40.00 USD|21,302||17-30|united states|
+|[Sande Høgre](Sande_Høgre.md) - West Media|86.00 USD|21,067||18+|norway|
 |[Greenpeace USA](Greenpeace_USA.md) - Greenpeace Fund  Inc.|33.00 USD|19,923|||united states|
 |[Owen Thompson](Owen_Thompson.md) - Midlothian SNP: Owen Thompson, Vote for Owen Thompson, Vote Owen Thompson|111.00 GBP|19,396||18-25, 18+|united kingdom|
 |[Putting Kentucky First](Putting_Kentucky_First.md) - Putting Kentucky First|19.00 USD|17,546||18+|united states|
-|[Sande Høgre](Sande_Høgre.md) - West Media|59.00 USD|16,777||18+|norway|
 |[NYC Neighbors PAC](NYC_Neighbors_PAC.md) - Ebonique for Council|55.00 USD|16,694||18+|united states|
 |[Print Mine](Print_Mine.md) - Stratos Developments Ltd.|114.00 CAD|14,711|FEMALE|30+, 35++|united states|
 |[Pernille Schwaner](Pernille_Schwaner.md) - Pernille Schwaner - Liberal Alliance|37.00 EUR|13,267|FEMALE|18+|denmark|

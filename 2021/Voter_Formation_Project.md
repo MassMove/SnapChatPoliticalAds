@@ -1,7 +1,7 @@
 ## 2021 - Voter Formation Project 
-**Spent**: 27,034.00
+**Spent**: 27,127.00
 
-**Impressions**: 2,378,425
+**Impressions**: 2,383,651
 
 **Billing Addresses**: 712 H St NE PMB 41,Washington,20002,US
 
@@ -98,51 +98,52 @@
 |Voter Formation Project|64.00 USD|[88](https://www.snap.com/political-ads/asset/bb1de561ed197784bc46341047c909b3eadd47d8eff0bb40c54a203ced8ed8e1?mediaType=jpg)|5,620||18+|united states|
 |Voter Formation Project|33.00 USD|[89](https://www.snap.com/political-ads/asset/f909d70e4058f3e6de73cdf7ffed2e6f5ddf09dbe1c20b861f45dcc85bec2912?mediaType=jpg)|5,520|FEMALE|18-34|united states|
 |Voter Formation Project|60.00 USD|[90](https://www.snap.com/political-ads/asset/345b35f1e458ffa8bf9528cf3404a3456ed40e701c68042d5ff0d766bee18abe?mediaType=jpg)|5,247||18+|united states|
-|Voter Formation Project|44.00 USD|[91](https://www.snap.com/political-ads/asset/4ea9b73449b497e55df8b74dd3d77ee4fb0d6aa3bd46ff0fa9a948ca35d34cc9?mediaType=jpg)|5,197|FEMALE|18-34|united states|
-|Voter Formation Project|28.00 USD|[92](https://www.snap.com/political-ads/asset/13294a1867b6e31f3c2e595cab3a18f08f8a6b2f3f4931a906d57663fb2b1964?mediaType=jpg)|5,157|FEMALE|18-34|united states|
-|Voter Formation Project|60.00 USD|[93](https://www.snap.com/political-ads/asset/8564c82786a58cfb6fff12c01f0fc84bc610ab48e4eda0dd150c929a9dca9a44?mediaType=jpg)|5,150||18+|united states|
-|Voter Formation Project|32.00 USD|[94](https://www.snap.com/political-ads/asset/019bf5d00b9d5a5ecade70906520c750a5e713c5a8b348ab0afc6dc8815c5a39?mediaType=jpg)|4,974|FEMALE|18-34|united states|
-|Voter Formation Project|38.00 USD|[95](https://www.snap.com/political-ads/asset/0180a16a27acb8c689bfc0e62c1665446dff59d7149948e27e9d86eff71fd9ca?mediaType=mp4)|4,909|FEMALE|18-34|united states|
-|Voter Formation Project|38.00 USD|[96](https://www.snap.com/political-ads/asset/67c1256c7330b11b139eaf41ddfad0473dfa79fe6ce02a38bfacc5b6bc3ab8a5?mediaType=mp4)|4,880|FEMALE|18-34|united states|
-|Voter Formation Project|56.00 USD|[97](https://www.snap.com/political-ads/asset/71abfdea418e84d874b5dd3f9e6d2b8549384fcca7ce7ef0d29613a7c871da87?mediaType=jpg)|4,821||18+|united states|
-|Voter Formation Project|56.00 USD|[98](https://www.snap.com/political-ads/asset/78790293c836e1f8e0d7b21e1c2cde98c3ab1978ceafcae329cfdf41cdd44b03?mediaType=jpg)|4,743||18+|united states|
-|Voter Formation Project|55.00 USD|[99](https://www.snap.com/political-ads/asset/7eea3f0a09e3957cf408ba897dbcff8e3547033eb92bde5b91110d796019ef2e?mediaType=jpg)|4,715||18+|united states|
-|Voter Formation Project|27.00 USD|[100](https://www.snap.com/political-ads/asset/4ea9b73449b497e55df8b74dd3d77ee4fb0d6aa3bd46ff0fa9a948ca35d34cc9?mediaType=jpg)|4,675|FEMALE|18+|united states|
-|Voter Formation Project|24.00 USD|[101](https://www.snap.com/political-ads/asset/998b2c247adfe119bf3b9389e7312cca6d5d03ad2058165ca4f984559b104e81?mediaType=jpg)|4,479||18+|united states|
-|Voter Formation Project|78.00 USD|[102](https://www.snap.com/political-ads/asset/c33aa40c1fee840c09a5772caa2373b9db8c1efa88a5c47940a2542a3d19d848?mediaType=mp4)|4,433||18+|united states|
-|Voter Formation Project|32.00 USD|[103](https://www.snap.com/political-ads/asset/7ea9c56d982cdb4e3640696b3c26b339b58b69457320752efd35ec7160161c2b?mediaType=mp4)|3,965|FEMALE|18+|united states|
-|Voter Formation Project|22.00 USD|[104](https://www.snap.com/political-ads/asset/68aec26c849637a810c2ba52ca7c4ac5bcd0ef722690f2a2bcd37e0e70b97106?mediaType=mp4)|3,808||18+|united states|
-|Voter Formation Project|64.00 USD|[105](https://www.snap.com/political-ads/asset/fdc7f0b85c4b5d14071b74337c0498a26ca31788b6cd37b41733496dfbdb553e?mediaType=mp4)|3,622||18+|united states|
-|Voter Formation Project|62.00 USD|[106](https://www.snap.com/political-ads/asset/f737b06b535ffc5f54201eec6d447b569632386bf56acff8a032dbc8555b552f?mediaType=mp4)|3,466||18+|united states|
-|Voter Formation Project|41.00 USD|[107](https://www.snap.com/political-ads/asset/b9dd79b469eb0035fb0c3812f2d93e62dcb95bd478d92ec996b93eb7bc68f876?mediaType=jpg)|3,433||18+|united states|
-|Voter Formation Project|21.00 USD|[108](https://www.snap.com/political-ads/asset/a333f4ee46e0b9cd4e77f1877520d3a8f239374b67ff3493321ba7eadb49ca49?mediaType=jpg)|3,235|FEMALE|18+|united states|
-|Voter Formation Project|17.00 USD|[109](https://www.snap.com/political-ads/asset/68aec26c849637a810c2ba52ca7c4ac5bcd0ef722690f2a2bcd37e0e70b97106?mediaType=mp4)|3,113|FEMALE|18+|united states|
-|Voter Formation Project|18.00 USD|[110](https://www.snap.com/political-ads/asset/5f0673968e77fef3863c06e319a0f7a0d43a31b366f6383f0f9e361c8c570d8e?mediaType=mp4)|3,073|FEMALE|18-34|united states|
-|Voter Formation Project|16.00 USD|[111](https://www.snap.com/political-ads/asset/c8e02425dd10b68162ba18d63b630df25bc7f1d6429e65b0481fe7974129aa8d?mediaType=png)|2,983|FEMALE|18+|united states|
-|Voter Formation Project|17.00 USD|[112](https://www.snap.com/political-ads/asset/493a19ca2f60962f56538dc36c40b2141cadcf5facc02439dc04765b9ccc552b?mediaType=jpg)|2,731|FEMALE|18-34|united states|
-|Voter Formation Project|19.00 USD|[113](https://www.snap.com/political-ads/asset/b271b7d305e01861758bf87914ad55220ea763947051fd559ace88d9e1dd3a21?mediaType=mp4)|2,674|FEMALE|18+|united states|
-|Voter Formation Project|20.00 USD|[114](https://www.snap.com/political-ads/asset/c3bca0286c0f205e23f57f1b97027d979494ffca09804326e6925c106add4a87?mediaType=jpg)|2,625|FEMALE|18-34|united states|
-|Voter Formation Project|19.00 USD|[115](https://www.snap.com/political-ads/asset/fc06b38d63eaf0fd7fea9ae60f968d3671ef7dfdb046dddb8980cc029c435ec4?mediaType=mp4)|2,535|FEMALE|18+|united states|
-|Voter Formation Project|35.00 USD|[116](https://www.snap.com/political-ads/asset/cc4cf75a949e86b384753abeab6dd6c0a5c7b8a73e7e27d1d48b9303f77d0518?mediaType=jpg)|2,498||18+|united states|
-|Voter Formation Project|34.00 USD|[117](https://www.snap.com/political-ads/asset/e5d9b4e1d02ab6a2c6dfb100bb54bf328b78c5de75f4ace17e4a131b56cfff9a?mediaType=jpg)|2,408||18+|united states|
-|Voter Formation Project|12.00 USD|[118](https://www.snap.com/political-ads/asset/fd3163e68cbe3461d1aaa730bfb30e00d03976b17b8a6f1ec2056aeffa215f23?mediaType=jpg)|1,454|FEMALE|18+|united states|
-|Voter Formation Project|11.00 USD|[119](https://www.snap.com/political-ads/asset/40558cb86b686c00d0b5d016727c2f64362fdefab5667493791e092cf8c6a275?mediaType=jpg)|1,240|FEMALE|18+|united states|
-|Voter Formation Project|14.00 USD|[120](https://www.snap.com/political-ads/asset/01208559bd1683e541498dd4514a532c1e6f024b619fbd403436485fcb7528a8?mediaType=jpg)|1,210||18+|united states|
-|Voter Formation Project|7.00 USD|[121](https://www.snap.com/political-ads/asset/0192faf92e32ec9f9e43971c22eb11107e244789a8cdf2d57cf8d27bc9356628?mediaType=jpg)|1,181|FEMALE|18-34|united states|
-|Voter Formation Project|13.00 USD|[122](https://www.snap.com/political-ads/asset/f02a1f833db2f62fb1103c40910e3b89615593e409d43676155e27fcdfc600c5?mediaType=jpg)|1,154||18+|united states|
-|Voter Formation Project|13.00 USD|[123](https://www.snap.com/political-ads/asset/e0846c2f01f2dc5e6c7245a164e771b7ba7a2b94f607979879da58c3ee7d98e9?mediaType=jpg)|1,112||18+|united states|
-|Voter Formation Project|6.00 USD|[124](https://www.snap.com/political-ads/asset/54f341a22d20f3f477717e1e65cb1bb0832e5d3127a4b3dafc0ced5e71d15610?mediaType=jpg)|959|FEMALE|18-34|united states|
-|Voter Formation Project|5.00 USD|[125](https://www.snap.com/political-ads/asset/c3c8915d42f95eec3a15c911ef89e2809978ce4a8c6f84f34022e2394e1f39c0?mediaType=jpg)|959|FEMALE|18-34|united states|
-|Voter Formation Project|7.00 USD|[126](https://www.snap.com/political-ads/asset/2aeb00701dbbbabc5cd87dbb41ae217c8516d219c39b482b3bcbbbada896eadf?mediaType=jpg)|778|FEMALE|18+|united states|
-|Voter Formation Project|7.00 USD|[127](https://www.snap.com/political-ads/asset/b90ef77b5f4faec02806c443c4e6637064efaef076c16afcbacad357a6258ed6?mediaType=jpg)|778|FEMALE|18+|united states|
-|Voter Formation Project|3.00 USD|[128](https://www.snap.com/political-ads/asset/b16748535fa829cd6b56ea3bf6bdb5b0d8e3eda02eca8a4e82d4bac777a8bc44?mediaType=jpg)|477|FEMALE|18-34|united states|
-|Voter Formation Project|4.00 USD|[129](https://www.snap.com/political-ads/asset/51c8759a0c285962e8df3e7a9ce57bbd9b18fe6973b203f60b04d994e01ae542?mediaType=jpg)|460|FEMALE|18+|united states|
-|Voter Formation Project|5.00 USD|[130](https://www.snap.com/political-ads/asset/5563ef57ab63b73c7e24ae1be72005bac3a3f5ef03e548beef410f7e29c40ee0?mediaType=mp4)|407||18+|united states|
-|Voter Formation Project|4.00 USD|[131](https://www.snap.com/political-ads/asset/df59df36d0a4b3a49398cce3b5d0d0e3ae2b404e714634774f7ebb80e1d8f9cf?mediaType=jpg)|388|FEMALE|18+|united states|
-|Voter Formation Project|3.00 USD|[132](https://www.snap.com/political-ads/asset/7dd90f4584ee56367286579a649427612efe030eb75c612b9785f25bb2f44404?mediaType=jpg)|342|FEMALE|18+|united states|
-|Voter Formation Project|2.00 USD|[133](https://www.snap.com/political-ads/asset/a75c8b9debd9c894678ae1f184081a434226659c02833bfcdc897a114b34c88f?mediaType=jpg)|334|FEMALE|18-34|united states|
-|Voter Formation Project|4.00 USD|[134](https://www.snap.com/political-ads/asset/580329d9d083009ebf84b6ab69bcee2e8083e6377fdd1305cf63091931f7212f?mediaType=mp4)|305||18+|united states|
-|Voter Formation Project|2.00 USD|[135](https://www.snap.com/political-ads/asset/5c55b529d9f0a11291a4b31967a8001b6e3900c0cc698a70c193b8d95fba6722?mediaType=jpg)|256|FEMALE|18+|united states|
-|Voter Formation Project|1.00 USD|[136](https://www.snap.com/political-ads/asset/c1cf00e09efdbbd824e6b3d6293e6a4daff3c57b9a71bac5c41ea76e38911a8b?mediaType=jpg)|177|FEMALE|18-34|united states|
-|Voter Formation Project|1.00 USD|[137](https://www.snap.com/political-ads/asset/80760c91c2690bcc12ce38747df861dbcbd5a45abaf5f3f26d55603514982bf4?mediaType=jpg)|172|FEMALE|18+|united states|
-|Voter Formation Project|1.00 USD|[138](https://www.snap.com/political-ads/asset/1ce5fdc1014afc3c94ec7ad065282ca67b5b676515b1fac8be85d9cfbbaa5618?mediaType=jpg)|108|FEMALE|18+|united states|
+|Voter Formation Project|93.00 USD|[91](https://www.snap.com/political-ads/asset/77b3c05f08da3f42721d3b83e21a088d1d8b2756f32028af0428927ad5035ba5?mediaType=mp4)|5,226||18+|united states|
+|Voter Formation Project|44.00 USD|[92](https://www.snap.com/political-ads/asset/4ea9b73449b497e55df8b74dd3d77ee4fb0d6aa3bd46ff0fa9a948ca35d34cc9?mediaType=jpg)|5,197|FEMALE|18-34|united states|
+|Voter Formation Project|28.00 USD|[93](https://www.snap.com/political-ads/asset/13294a1867b6e31f3c2e595cab3a18f08f8a6b2f3f4931a906d57663fb2b1964?mediaType=jpg)|5,157|FEMALE|18-34|united states|
+|Voter Formation Project|60.00 USD|[94](https://www.snap.com/political-ads/asset/8564c82786a58cfb6fff12c01f0fc84bc610ab48e4eda0dd150c929a9dca9a44?mediaType=jpg)|5,150||18+|united states|
+|Voter Formation Project|32.00 USD|[95](https://www.snap.com/political-ads/asset/019bf5d00b9d5a5ecade70906520c750a5e713c5a8b348ab0afc6dc8815c5a39?mediaType=jpg)|4,974|FEMALE|18-34|united states|
+|Voter Formation Project|38.00 USD|[96](https://www.snap.com/political-ads/asset/0180a16a27acb8c689bfc0e62c1665446dff59d7149948e27e9d86eff71fd9ca?mediaType=mp4)|4,909|FEMALE|18-34|united states|
+|Voter Formation Project|38.00 USD|[97](https://www.snap.com/political-ads/asset/67c1256c7330b11b139eaf41ddfad0473dfa79fe6ce02a38bfacc5b6bc3ab8a5?mediaType=mp4)|4,880|FEMALE|18-34|united states|
+|Voter Formation Project|56.00 USD|[98](https://www.snap.com/political-ads/asset/71abfdea418e84d874b5dd3f9e6d2b8549384fcca7ce7ef0d29613a7c871da87?mediaType=jpg)|4,821||18+|united states|
+|Voter Formation Project|56.00 USD|[99](https://www.snap.com/political-ads/asset/78790293c836e1f8e0d7b21e1c2cde98c3ab1978ceafcae329cfdf41cdd44b03?mediaType=jpg)|4,743||18+|united states|
+|Voter Formation Project|55.00 USD|[100](https://www.snap.com/political-ads/asset/7eea3f0a09e3957cf408ba897dbcff8e3547033eb92bde5b91110d796019ef2e?mediaType=jpg)|4,715||18+|united states|
+|Voter Formation Project|27.00 USD|[101](https://www.snap.com/political-ads/asset/4ea9b73449b497e55df8b74dd3d77ee4fb0d6aa3bd46ff0fa9a948ca35d34cc9?mediaType=jpg)|4,675|FEMALE|18+|united states|
+|Voter Formation Project|24.00 USD|[102](https://www.snap.com/political-ads/asset/998b2c247adfe119bf3b9389e7312cca6d5d03ad2058165ca4f984559b104e81?mediaType=jpg)|4,479||18+|united states|
+|Voter Formation Project|78.00 USD|[103](https://www.snap.com/political-ads/asset/c33aa40c1fee840c09a5772caa2373b9db8c1efa88a5c47940a2542a3d19d848?mediaType=mp4)|4,433||18+|united states|
+|Voter Formation Project|32.00 USD|[104](https://www.snap.com/political-ads/asset/7ea9c56d982cdb4e3640696b3c26b339b58b69457320752efd35ec7160161c2b?mediaType=mp4)|3,965|FEMALE|18+|united states|
+|Voter Formation Project|22.00 USD|[105](https://www.snap.com/political-ads/asset/68aec26c849637a810c2ba52ca7c4ac5bcd0ef722690f2a2bcd37e0e70b97106?mediaType=mp4)|3,808||18+|united states|
+|Voter Formation Project|64.00 USD|[106](https://www.snap.com/political-ads/asset/fdc7f0b85c4b5d14071b74337c0498a26ca31788b6cd37b41733496dfbdb553e?mediaType=mp4)|3,622||18+|united states|
+|Voter Formation Project|62.00 USD|[107](https://www.snap.com/political-ads/asset/f737b06b535ffc5f54201eec6d447b569632386bf56acff8a032dbc8555b552f?mediaType=mp4)|3,466||18+|united states|
+|Voter Formation Project|41.00 USD|[108](https://www.snap.com/political-ads/asset/b9dd79b469eb0035fb0c3812f2d93e62dcb95bd478d92ec996b93eb7bc68f876?mediaType=jpg)|3,433||18+|united states|
+|Voter Formation Project|21.00 USD|[109](https://www.snap.com/political-ads/asset/a333f4ee46e0b9cd4e77f1877520d3a8f239374b67ff3493321ba7eadb49ca49?mediaType=jpg)|3,235|FEMALE|18+|united states|
+|Voter Formation Project|17.00 USD|[110](https://www.snap.com/political-ads/asset/68aec26c849637a810c2ba52ca7c4ac5bcd0ef722690f2a2bcd37e0e70b97106?mediaType=mp4)|3,113|FEMALE|18+|united states|
+|Voter Formation Project|18.00 USD|[111](https://www.snap.com/political-ads/asset/5f0673968e77fef3863c06e319a0f7a0d43a31b366f6383f0f9e361c8c570d8e?mediaType=mp4)|3,073|FEMALE|18-34|united states|
+|Voter Formation Project|16.00 USD|[112](https://www.snap.com/political-ads/asset/c8e02425dd10b68162ba18d63b630df25bc7f1d6429e65b0481fe7974129aa8d?mediaType=png)|2,983|FEMALE|18+|united states|
+|Voter Formation Project|17.00 USD|[113](https://www.snap.com/political-ads/asset/493a19ca2f60962f56538dc36c40b2141cadcf5facc02439dc04765b9ccc552b?mediaType=jpg)|2,731|FEMALE|18-34|united states|
+|Voter Formation Project|19.00 USD|[114](https://www.snap.com/political-ads/asset/b271b7d305e01861758bf87914ad55220ea763947051fd559ace88d9e1dd3a21?mediaType=mp4)|2,674|FEMALE|18+|united states|
+|Voter Formation Project|20.00 USD|[115](https://www.snap.com/political-ads/asset/c3bca0286c0f205e23f57f1b97027d979494ffca09804326e6925c106add4a87?mediaType=jpg)|2,625|FEMALE|18-34|united states|
+|Voter Formation Project|19.00 USD|[116](https://www.snap.com/political-ads/asset/fc06b38d63eaf0fd7fea9ae60f968d3671ef7dfdb046dddb8980cc029c435ec4?mediaType=mp4)|2,535|FEMALE|18+|united states|
+|Voter Formation Project|35.00 USD|[117](https://www.snap.com/political-ads/asset/cc4cf75a949e86b384753abeab6dd6c0a5c7b8a73e7e27d1d48b9303f77d0518?mediaType=jpg)|2,498||18+|united states|
+|Voter Formation Project|34.00 USD|[118](https://www.snap.com/political-ads/asset/e5d9b4e1d02ab6a2c6dfb100bb54bf328b78c5de75f4ace17e4a131b56cfff9a?mediaType=jpg)|2,408||18+|united states|
+|Voter Formation Project|12.00 USD|[119](https://www.snap.com/political-ads/asset/fd3163e68cbe3461d1aaa730bfb30e00d03976b17b8a6f1ec2056aeffa215f23?mediaType=jpg)|1,454|FEMALE|18+|united states|
+|Voter Formation Project|11.00 USD|[120](https://www.snap.com/political-ads/asset/40558cb86b686c00d0b5d016727c2f64362fdefab5667493791e092cf8c6a275?mediaType=jpg)|1,240|FEMALE|18+|united states|
+|Voter Formation Project|14.00 USD|[121](https://www.snap.com/political-ads/asset/01208559bd1683e541498dd4514a532c1e6f024b619fbd403436485fcb7528a8?mediaType=jpg)|1,210||18+|united states|
+|Voter Formation Project|7.00 USD|[122](https://www.snap.com/political-ads/asset/0192faf92e32ec9f9e43971c22eb11107e244789a8cdf2d57cf8d27bc9356628?mediaType=jpg)|1,181|FEMALE|18-34|united states|
+|Voter Formation Project|13.00 USD|[123](https://www.snap.com/political-ads/asset/f02a1f833db2f62fb1103c40910e3b89615593e409d43676155e27fcdfc600c5?mediaType=jpg)|1,154||18+|united states|
+|Voter Formation Project|13.00 USD|[124](https://www.snap.com/political-ads/asset/e0846c2f01f2dc5e6c7245a164e771b7ba7a2b94f607979879da58c3ee7d98e9?mediaType=jpg)|1,112||18+|united states|
+|Voter Formation Project|6.00 USD|[125](https://www.snap.com/political-ads/asset/54f341a22d20f3f477717e1e65cb1bb0832e5d3127a4b3dafc0ced5e71d15610?mediaType=jpg)|959|FEMALE|18-34|united states|
+|Voter Formation Project|5.00 USD|[126](https://www.snap.com/political-ads/asset/c3c8915d42f95eec3a15c911ef89e2809978ce4a8c6f84f34022e2394e1f39c0?mediaType=jpg)|959|FEMALE|18-34|united states|
+|Voter Formation Project|7.00 USD|[127](https://www.snap.com/political-ads/asset/2aeb00701dbbbabc5cd87dbb41ae217c8516d219c39b482b3bcbbbada896eadf?mediaType=jpg)|778|FEMALE|18+|united states|
+|Voter Formation Project|7.00 USD|[128](https://www.snap.com/political-ads/asset/b90ef77b5f4faec02806c443c4e6637064efaef076c16afcbacad357a6258ed6?mediaType=jpg)|778|FEMALE|18+|united states|
+|Voter Formation Project|3.00 USD|[129](https://www.snap.com/political-ads/asset/b16748535fa829cd6b56ea3bf6bdb5b0d8e3eda02eca8a4e82d4bac777a8bc44?mediaType=jpg)|477|FEMALE|18-34|united states|
+|Voter Formation Project|4.00 USD|[130](https://www.snap.com/political-ads/asset/51c8759a0c285962e8df3e7a9ce57bbd9b18fe6973b203f60b04d994e01ae542?mediaType=jpg)|460|FEMALE|18+|united states|
+|Voter Formation Project|5.00 USD|[131](https://www.snap.com/political-ads/asset/5563ef57ab63b73c7e24ae1be72005bac3a3f5ef03e548beef410f7e29c40ee0?mediaType=mp4)|407||18+|united states|
+|Voter Formation Project|4.00 USD|[132](https://www.snap.com/political-ads/asset/df59df36d0a4b3a49398cce3b5d0d0e3ae2b404e714634774f7ebb80e1d8f9cf?mediaType=jpg)|388|FEMALE|18+|united states|
+|Voter Formation Project|3.00 USD|[133](https://www.snap.com/political-ads/asset/7dd90f4584ee56367286579a649427612efe030eb75c612b9785f25bb2f44404?mediaType=jpg)|342|FEMALE|18+|united states|
+|Voter Formation Project|2.00 USD|[134](https://www.snap.com/political-ads/asset/a75c8b9debd9c894678ae1f184081a434226659c02833bfcdc897a114b34c88f?mediaType=jpg)|334|FEMALE|18-34|united states|
+|Voter Formation Project|4.00 USD|[135](https://www.snap.com/political-ads/asset/580329d9d083009ebf84b6ab69bcee2e8083e6377fdd1305cf63091931f7212f?mediaType=mp4)|305||18+|united states|
+|Voter Formation Project|2.00 USD|[136](https://www.snap.com/political-ads/asset/5c55b529d9f0a11291a4b31967a8001b6e3900c0cc698a70c193b8d95fba6722?mediaType=jpg)|256|FEMALE|18+|united states|
+|Voter Formation Project|1.00 USD|[137](https://www.snap.com/political-ads/asset/c1cf00e09efdbbd824e6b3d6293e6a4daff3c57b9a71bac5c41ea76e38911a8b?mediaType=jpg)|177|FEMALE|18-34|united states|
+|Voter Formation Project|1.00 USD|[138](https://www.snap.com/political-ads/asset/80760c91c2690bcc12ce38747df861dbcbd5a45abaf5f3f26d55603514982bf4?mediaType=jpg)|172|FEMALE|18+|united states|
+|Voter Formation Project|1.00 USD|[139](https://www.snap.com/political-ads/asset/1ce5fdc1014afc3c94ec7ad065282ca67b5b676515b1fac8be85d9cfbbaa5618?mediaType=jpg)|108|FEMALE|18+|united states|
