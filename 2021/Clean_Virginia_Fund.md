@@ -1,7 +1,7 @@
 ## 2021 - Clean Virginia Fund 
-**Spent**: 21,583.00
+**Spent**: 20,938.00
 
-**Impressions**: 1,044,021
+**Impressions**: 1,004,776
 
 **Billing Addresses**: 1317 Potomac Ave SE,Washington,20003,US
 
@@ -25,12 +25,11 @@
 |COMPETE Digital LLC: Clean Virginia Fund|1,042.00 USD|[15](https://www.snap.com/political-ads/asset/b3f7192ed57aebdc08f4e44bb4c861faa003b54c0cd590d304f0a23313924a63?mediaType=mp4)|39,939||18+|united states|
 |COMPETE Digital LLC: Clean Virginia Fund|1,008.00 USD|[16](https://www.snap.com/political-ads/asset/f442ee519c66a0153d9a06173f9691be9ce6cbb46c600925485444b460628286?mediaType=mp4)|39,785||18+|united states|
 |COMPETE Digital LLC: Jennifer Carroll Foy|558.00 USD|[17](https://www.snap.com/political-ads/asset/90caa3cbd66fb83238de1afbde2c0cfd6d97f58e50c896ec59b46eed27bd04ed?mediaType=mp4)|39,569||18+|united states|
-|COMPETE Digital LLC: Jennifer Carroll Foy|645.00 USD|[18](https://www.snap.com/political-ads/asset/80e41963e80dcdc7b7451bee1badc73994d87b0df30a22056ad0321771b9e6df?mediaType=mp4)|39,245||18+|united states|
-|COMPETE Digital LLC: Jennifer Carroll Foy|615.00 USD|[19](https://www.snap.com/political-ads/asset/98926700e24b6fc2b182a65f36a396d6602f23ccc5c4834b6f7d193e0b9e6094?mediaType=mp4)|38,471||18+|united states|
-|COMPETE Digital LLC: Clean Virginia Fund|907.00 USD|[20](https://www.snap.com/political-ads/asset/7e4e0f2264ca20b557daafc0919957579b747d177157bd469766ac167c3d0701?mediaType=mp4)|31,192||18+|united states|
-|COMPETE Digital LLC: Clean Virginia Fund|629.00 USD|[21](https://www.snap.com/political-ads/asset/56600f44d6d9958156058fbb786c68a7c6daa8c3012ecc11d69e237e8dbfaa86?mediaType=mp4)|22,561||18+|united states|
-|COMPETE Digital LLC|87.00 USD|[22](https://www.snap.com/political-ads/asset/d8460f037b7bd552e4fe704061e184e5db23c6fe021d579c39cd26ec9e537739?mediaType=jpg)|12,992||18+|united states|
-|COMPETE Digital LLC|158.00 USD|[23](https://www.snap.com/political-ads/asset/d8460f037b7bd552e4fe704061e184e5db23c6fe021d579c39cd26ec9e537739?mediaType=jpg)|12,425||18+|united states|
-|COMPETE Digital LLC|62.00 USD|[24](https://www.snap.com/political-ads/asset/d20a1132d8417fc57218c7cb201f2162efd9b215b78b0ea690ab44c6715ab469?mediaType=jpg)|8,404||18+|united states|
-|COMPETE Digital LLC|69.00 USD|[25](https://www.snap.com/political-ads/asset/d20a1132d8417fc57218c7cb201f2162efd9b215b78b0ea690ab44c6715ab469?mediaType=jpg)|5,013||18+|united states|
-|COMPETE Digital LLC: Clean Virginia Fund|82.00 USD|[26](https://www.snap.com/political-ads/asset/ad148583e2840416c6f851206b5dc69a59a3f29550996a7a53ef98c6eb8a3a76?mediaType=mp4)|3,652||18+|united states|
+|COMPETE Digital LLC: Jennifer Carroll Foy|615.00 USD|[18](https://www.snap.com/political-ads/asset/98926700e24b6fc2b182a65f36a396d6602f23ccc5c4834b6f7d193e0b9e6094?mediaType=mp4)|38,471||18+|united states|
+|COMPETE Digital LLC: Clean Virginia Fund|907.00 USD|[19](https://www.snap.com/political-ads/asset/7e4e0f2264ca20b557daafc0919957579b747d177157bd469766ac167c3d0701?mediaType=mp4)|31,192||18+|united states|
+|COMPETE Digital LLC: Clean Virginia Fund|629.00 USD|[20](https://www.snap.com/political-ads/asset/56600f44d6d9958156058fbb786c68a7c6daa8c3012ecc11d69e237e8dbfaa86?mediaType=mp4)|22,561||18+|united states|
+|COMPETE Digital LLC|87.00 USD|[21](https://www.snap.com/political-ads/asset/d8460f037b7bd552e4fe704061e184e5db23c6fe021d579c39cd26ec9e537739?mediaType=jpg)|12,992||18+|united states|
+|COMPETE Digital LLC|158.00 USD|[22](https://www.snap.com/political-ads/asset/d8460f037b7bd552e4fe704061e184e5db23c6fe021d579c39cd26ec9e537739?mediaType=jpg)|12,425||18+|united states|
+|COMPETE Digital LLC|62.00 USD|[23](https://www.snap.com/political-ads/asset/d20a1132d8417fc57218c7cb201f2162efd9b215b78b0ea690ab44c6715ab469?mediaType=jpg)|8,404||18+|united states|
+|COMPETE Digital LLC|69.00 USD|[24](https://www.snap.com/political-ads/asset/d20a1132d8417fc57218c7cb201f2162efd9b215b78b0ea690ab44c6715ab469?mediaType=jpg)|5,013||18+|united states|
+|COMPETE Digital LLC: Clean Virginia Fund|82.00 USD|[25](https://www.snap.com/political-ads/asset/ad148583e2840416c6f851206b5dc69a59a3f29550996a7a53ef98c6eb8a3a76?mediaType=mp4)|3,652||18+|united states|

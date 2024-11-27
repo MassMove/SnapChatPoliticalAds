@@ -1,7 +1,7 @@
 ## 2024 - Allegheny County 
-**Spent**: 4,848.00
+**Spent**: 5,006.00
 
-**Impressions**: 2,030,940
+**Impressions**: 2,055,038
 
 **Billing Addresses**: US
 
@@ -11,4 +11,5 @@
 |Allegheny County|1,924.00 USD|[4](https://www.snap.com/political-ads/asset/5413d44809b7649dfa483da9251801f9f46528ee1dabc0e7e3efe1c6140cc631?mediaType=png)|359,764||18+|united states|
 |Allegheny County|366.00 USD|[5](https://www.snap.com/political-ads/asset/f3a9d065cb6ef9a679f9db584b398b57f2db688af8bb3eb635ebc1110d469e7e?mediaType=mp4)|249,091|||united states|
 |Allegheny County|1,976.00 USD|[6](https://www.snap.com/political-ads/asset/d5af0d58569afefb64a5f07a8d36959a0544256eec9a2eeeddfde6f430a75afe?mediaType=mp4)|164,624||18+|united states|
-|Allegheny County|55.00 USD|[7](https://www.snap.com/political-ads/asset/dbee3c35e35244437af76a6f06facdc0240947de63fb15810614f332dc328dc3?mediaType=png)|9,741||18+|united states|
+|Allegheny County|158.00 USD|[7](https://www.snap.com/political-ads/asset/3cb822decc8f3ca816be276d00e315f5ccec06b2797db6ce83677fd6172c010c?mediaType=mp4)|24,098||18-|united states|
+|Allegheny County|55.00 USD|[8](https://www.snap.com/political-ads/asset/dbee3c35e35244437af76a6f06facdc0240947de63fb15810614f332dc328dc3?mediaType=png)|9,741||18+|united states|

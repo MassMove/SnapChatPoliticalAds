@@ -4,16 +4,16 @@ A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en
 
 Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).
 
-Last run: 2024-11-20.
+Last run: 2024-11-27.
 
 ## [2024](2024/README.md) 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[Harris for President](2024/Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18-24, 18-29, 18-34, 18+, 30-35|united states|
+|[Harris for President](2024/Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,056.00 USD|709,711,888||18-24, 18-29, 18-34, 18+, 30-35|united states|
 |[Biden for President](2024/Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18-29, 18-35, 18+, 30-35|united states|
 |[European Parliament](2024/European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](2024/The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,185,511.00 USD|139,837,570||18+|united states|
-|[Human Appeal France](2024/Human_Appeal_France.md) - ORIXA MEDIA|199,140.00 EUR|113,266,800||18+|france|
+|[Human Appeal France](2024/Human_Appeal_France.md) - ORIXA MEDIA|203,472.00 EUR|115,169,234||18+|france|
 |[Future Forward PAC](2024/Future_Forward_PAC.md) - Bully Pulpit Interactive|842,827.00 USD|104,616,389|FEMALE, MALE|18-34, 18-40, 18+|united states|
 |[Future Forward](2024/Future_Forward.md) - GMMB  Inc: Kamala Harris|782,558.00 USD|101,096,602||18-30, 18+|united states|
 |[WinSenate](2024/WinSenate.md) - Chong and Koster: EDF Action Votes, Win Senate, WinSenate|629,846.00 USD|99,541,066|FEMALE|18-44, 18-49, 18+|united states|
@@ -24,12 +24,12 @@ Last run: 2024-11-20.
 |[Restoration PAC](2024/Restoration_PAC.md) - Harris Media LLC|147,426.00 USD|45,857,979|MALE|18-34|united states|
 |[WINSENATE](2024/WINSENATE.md) - Wavelength Strategy: WinSenate, WinSenate AZ, WinSenate Michigan|290,867.00 USD|45,011,321||18-30, 18-34, 18+, 31+|united states|
 |[Last Best Place PAC](2024/Last_Best_Place_PAC.md) - MVAR Media: Last Best Place PAC, LBPP Youth Voter|329,127.00 USD|39,628,135||18-24, 18-25, 18-45, 18+|united states|
-|[Elissa Slotkin for Michigan](2024/Elissa_Slotkin_for_Michigan.md) - Wavelength Strategy: Elissa Slotkin for Michigan|290,121.00 USD|36,899,800|FEMALE, MALE|18-27, 18+, 25+|united states|
-|[MATW](2024/MATW.md) - MATW Project: Not Applicable, United States|278,337.00 AUD|36,485,125||18+, 20+, 22+, 24+, 25+|australia, germany, united arab emirates, united kingdom, united states|
-|[Duty and Honor](2024/Duty_and_Honor.md) - Chong and Koster: Duty and Honor NV, Duty and Honor OH, Win Senate Ohio|215,626.00 USD|34,074,184||18-34, 18-44, 18-45, 18+|united states|
+|[Elissa Slotkin for Michigan](2024/Elissa_Slotkin_for_Michigan.md) - Wavelength Strategy: Elissa Slotkin for Michigan|289,864.00 USD|36,872,114|FEMALE, MALE|18-27, 18+, 25+|united states|
+|[MATW](2024/MATW.md) - MATW Project: Australia, Not Applicable, United States|279,870.00 AUD|36,719,979||18+, 20+, 22+, 24+, 25+|australia, germany, united arab emirates, united kingdom, united states|
+|[Duty and Honor](2024/Duty_and_Honor.md) - Duty and Honor: Duty and Honor NV, Duty and Honor OH, Win Senate Ohio|215,626.00 USD|34,074,184||18-34, 18-44, 18-45, 18+|united states|
 |[Send the Vote](2024/Send_the_Vote.md) - Direct Persuasion Group|352,846.00 USD|31,714,492|MALE|18-35, 18-40, 18+|united states|
 |[Uber](2024/Uber.md) - Uber Technologies  Inc.|416,600.00 USD|30,118,144||18+|united states|
-|[Patagonia](2024/Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|259,685.00 EUR, USD|28,146,886||18-30, 18-49, 18+, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](2024/Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|260,122.00 EUR, USD|28,160,725||18-30, 18-49, 18+, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Amazon Prime Video](2024/Amazon_Prime_Video.md) - Amazon Prime Video|423,452.00 USD|26,727,900||18-34, 18-49, 18+|united states|
 |[The Keystone](2024/The_Keystone.md) - Courier Newsroom: The Keystone|391,149.00 USD|25,574,019||18+|united states|
 |[Team Snapchat](2024/Team_Snapchat.md) - Snap: US Presidential Election|899,991.00 USD|24,801,345||18-35, 18+|united states|
@@ -41,7 +41,7 @@ Last run: 2024-11-20.
 |[Unilever](2023/Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](2023/Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
 |[Patagonia](2023/Patagonia.md) - Patagonia|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
-|[Planned Parenthood](2023/Planned_Parenthood.md) - Planned Parenthood of the Pacific Southwest: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
+|[Planned Parenthood](2023/Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](2023/NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](2023/OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
 |[MESRI](2023/MESRI.md) - Dentsu Aegis Network France|23,375.00 EUR|25,279,314||20-30|france|
@@ -96,7 +96,7 @@ Last run: 2024-11-20.
 ## [2021](2021/README.md) 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[European Commission](2021/European_Commission.md) - Ogilvy Group SA-NV|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
+|[European Commission](2021/European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
 |[The Climate Pledge](2021/The_Climate_Pledge.md) - Mediabrands France: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
 |[American Civil Liberties Union](2021/American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
 |[Ben & Jerry's](2021/Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
@@ -111,7 +111,7 @@ Last run: 2024-11-20.
 |[Electoral Commission](2021/Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||16-17, 18-34|united kingdom|
 |[Paid for by FL Dept. of Health](2021/Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Department of Health](2021/Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
-|[Miljøpartiet de Grønne](2021/Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,321.00 NOK|19,735,757||18-22, 18-29, 18-30, 18-40, 18-45, 18+, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
+|[Miljøpartiet de Grønne](2021/Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||18-22, 18-29, 18-30, 18-40, 18-45, 18+, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
 |[Patagonia](2021/Patagonia.md) - Patagonia: Climate Crisis|52,419.00 EUR, USD|19,188,668||18-34, 18-35, 18-44, 18+, 21+|germany, italy, netherlands, united kingdom, united states|
 |[Dove](2021/Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sandy Hook Promise](2021/Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
@@ -125,14 +125,14 @@ Last run: 2024-11-20.
 ## [2020](2020/README.md) 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[truth](2020/truth.md) - Assembly|1,675,389.00 USD|909,300,919||15-17, 18-24, 24-|united states|
-|[Biden for President](2020/Biden_for_President.md) - Biden for President: Biden for President, Joe Biden, Joe Biden for President|3,751,924.00 USD|722,271,015||17-24, 17-27, 18-24, 18-34, 18-49, 18+|united states|
+|[truth](2020/truth.md) - Assembly|1,707,011.00 USD|928,876,631||15-17, 18-24, 24-|united states|
+|[Biden for President](2020/Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,751,924.00 USD|722,271,015||17-24, 17-27, 18-24, 18-34, 18-49, 18+|united states|
 |[Albbiom Marketing LLC](2020/Albbiom_Marketing_LLC.md) - Marud Khan: Donal Trump, Donald Trump, Donald Trunp, President Trump, PRESIDENT TRUMP|418,028.00 USD|435,191,562|FEMALE, MALE|18+, 20+, 21+, 22+|united states|
 |[Mike Bloomberg 2020, Inc.](2020/Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|1,037,149.00 USD|261,986,265||18-34, 24-38|united states|
-|[Voter Participation Center](2020/Voter_Participation_Center.md) - Chong and Koster: Voter Registration|989,880.00 USD|226,421,706|FEMALE|18-40, 18-45, 18+|united states|
+|[Voter Participation Center](2020/Voter_Participation_Center.md) - Chong and Koster: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18-40, 18-45, 18+|united states|
 |[California Secretary of State](2020/California_Secretary_of_State.md) - Assembly: California Secretary of State|486,434.00 USD|164,066,878||18+|united states|
-|[ACRONYM](2020/ACRONYM.md) - ACRONYM|934,895.00 USD|133,698,401|FEMALE|18-34, 18-35, 18+|united states|
-|[Planned Parenthood](2020/Planned_Parenthood.md) - Planned Parenthood of the Pacific Southwest|204,116.00 USD|129,357,823|FEMALE|17-, 18-24, 18-28, 18-34, 18-35, 18+, 35-|united states|
+|[ACRONYM](2020/ACRONYM.md) - ACRONYM|935,164.00 USD|133,729,086|FEMALE|18-34, 18-35, 18+|united states|
+|[Planned Parenthood](2020/Planned_Parenthood.md) - R/GA|204,116.00 USD|129,357,823|FEMALE|17-, 18-24, 18-28, 18-34, 18-35, 18+, 35-|united states|
 |[Old Navy](2020/Old_Navy.md) - PMG Worldwide  LLC|91,008.00 USD|127,832,019||18+|united states|
 |[Ben & Jerry's](2020/Ben_&_Jerry's.md) - Unilever US - 360i: Fossil Fuels, REFUGEE ACTION, Renewable Energy, Support HEROES Act|498,454.00 AUD, GBP, USD|117,573,289||18-34, 18-35, 18-40, 18+|australia, united kingdom, united states|
 |[Levi Strauss & Co.](2020/Levi_Strauss_&_Co..md) - Universal McCann New York|726,998.00 USD|101,115,858||18-34, 18-35|united states|
@@ -142,14 +142,14 @@ Last run: 2024-11-20.
 |[Warnock for Georgia](2020/Warnock_for_Georgia.md) - AL Media: Raphael Warnock, Reverend Raphael Warnock, Warnock for Georgia|305,680.00 USD|70,757,283||18+|united states|
 |[The Coca-Cola Company](2020/The_Coca-Cola_Company.md) - Universal McCann New York|156,999.00 USD|67,783,465||18-24, 18+|united states|
 |[Color of Change PAC](2020/Color_of_Change_PAC.md) - Color of Change PAC|200,352.00 USD|60,825,410||18-40, 18+|united states|
-|[Democratic National Committee](2020/Democratic_National_Committee.md) - Democratic National Committee: Democratic National Committee, DNC|168,635.00 USD|59,685,857||18-24, 18-25, 18-34, 18+, 25-34, 35+|united states|
+|[Democratic National Committee](2020/Democratic_National_Committee.md) - Bully Pulpit Interactive: Democratic National Committee, DNC|168,635.00 USD|59,685,857||18-24, 18-25, 18-34, 18+, 25-34, 35+|united states|
 |[Healthy Voting](2020/Healthy_Voting.md) - Panowatch  LLC: Healthy Voting|201,490.00 USD|52,147,794||18+|united states|
 |[PA Department of Health](2020/PA_Department_of_Health.md) - Red House Communications|84,688.00 USD|51,265,090||18+, 24-, 30-|united states|
 |[Amy McGrath for Senate](2020/Amy_McGrath_for_Senate.md) - Do Big Things: Amy McGrath for Senate|324,944.00 USD|50,689,308|FEMALE, MALE|18-40, 18+, 26+|united states|
 |[Jon Ossoff for Senate](2020/Jon_Ossoff_for_Senate.md) - Centro LLC: Jon Ossoff|160,598.00 USD|45,745,240||18+|united states|
 |[Paid for by FL Dept. of Health](2020/Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|83,966.00 USD|44,378,660||17-, 18-24|united states|
 |[Minnesota Department of Health](2020/Minnesota_Department_of_Health.md) - Media News Group Inc.: Minnesota Department of Health|111,947.00 USD|42,690,954||29-, 30+|united states|
-|[Future Majority](2020/Future_Majority.md) - Assemble The Agency|309,213.00 USD|40,831,492|FEMALE, MALE|18-29, 18-39, 18+|united states|
+|[Future Majority](2020/Future_Majority.md) - Assemble The Agency|309,136.00 USD|40,822,479|FEMALE, MALE|18-29, 18-39, 18+|united states|
 
 ## [2019](2019/README.md) 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
@@ -161,22 +161,22 @@ Last run: 2024-11-20.
 |[SIG](2019/SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](2019/Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](2019/Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](2019/Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](2019/Planned_Parenthood.md) - Planned Parenthood of Southern New England|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](2019/Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](2019/Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](2019/The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
 |[Pela](2019/Pela.md) - Open Mind Developments Corporation Inc.|45,625.00 USD|49,203,807|||canada, united states|
 |[Gouvernement du Canada](2019/Gouvernement_du_Canada.md) - Cossette Media Inc|124,115.00 CAD|48,643,887||18-, 18-24, 18-34|canada|
 |[PHD Canada](2019/PHD_Canada.md) - PHD Canada|83,797.00 CAD|41,885,554||19-34|canada|
+|[ACT NOW ON CLIMATE](2019/ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
 |[Australian Electoral Commission](2019/Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
-|[ACT NOW ON CLIMATE](2019/ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|105,471.00 USD|38,390,635||18+|united states|
 |[Be the Match](2019/Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
 |[Vote For Your Future](2019/Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[Avaaz Campaigns UK](2019/Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18-34, 18-35, 18+|united kingdom|
 |[DNB](2019/DNB.md) - DNB Bank ASA|111,957.00 EUR|29,844,629|FEMALE|18-34, 18+, 20+, 25+, 35+, 35++|norway|
 |[Trump MAGA Committee](2019/Trump_MAGA_Committee.md) - Realtime Media: Donald J Trump Merchandise|41,450.00 USD|25,901,768||18+, 24+, 30+, 35++|united states|
 |[Facts Over Flavor](2019/Facts_Over_Flavor.md) - RIESTER Sonoran LLC|61,530.00 USD|24,392,924||17-|united states|
-|[SELC](2019/SELC.md) - Southern Environmental Law Center|14,776.00 USD|23,371,153|||united states|
+|[SELC](2019/SELC.md) - Southern Environmental Law Center|14,896.00 USD|23,414,782|||united states|
 |[UnRestrict Minnesota](2019/UnRestrict_Minnesota.md) - UnRestrict Minnesota|56,817.00 USD|21,261,322||18+|united states|
 |[Carat France](2019/Carat_France.md) - Dentsu Aegis Network France|5,999.00 EUR|18,451,131||18+|france|
 

@@ -1,20 +1,20 @@
 ## 2024 - Vote Like a Madre 
 **Spent**: 54,394.00
 
-**Impressions**: 3,964,377
+**Impressions**: 3,964,385
 
 **Billing Addresses**: 1445 New York Ave NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Bully Pulpit Interactive|1,183.00 USD||235,732|FEMALE|18-34|united states|
-|Bully Pulpit Interactive|1,162.00 USD||229,710|FEMALE|18-34|united states|
+|Bully Pulpit Interactive|1,162.00 USD||229,711|FEMALE|18-34|united states|
 |Bully Pulpit Interactive|1,311.00 USD||218,277|FEMALE|35+|united states|
 |Bully Pulpit Interactive|1,191.00 USD||199,915|FEMALE|35+|united states|
 |Bully Pulpit Interactive|940.00 USD||158,899||18+|united states|
 |Bully Pulpit Interactive|937.00 USD||158,383||18+|united states|
-|Bully Pulpit Interactive|925.00 USD||155,878||18+|united states|
-|Bully Pulpit Interactive|901.00 USD||152,139||18+|united states|
+|Bully Pulpit Interactive|925.00 USD||155,879||18+|united states|
+|Bully Pulpit Interactive|901.00 USD||152,144||18+|united states|
 |Bully Pulpit Interactive|3,346.00 USD|[8](https://www.snap.com/political-ads/asset/7ee8eacf39fd684415317de7789bcf2335687c9093afb32581b942bd6e81b2be?mediaType=mp4)|149,496||18+|united states|
 |Bully Pulpit Interactive|2,350.00 USD|[9](https://www.snap.com/political-ads/asset/fe7220265e0b83eb4cbb346815baf9b9fceb5d20326e91694f337e46dc739c48?mediaType=mp4)|123,235||18+|united states|
 |Bully Pulpit Interactive|2,214.00 USD|[10](https://www.snap.com/political-ads/asset/cb4c49cefbeb1412fab9dc10b5125c9d7f9787c9aa9f542016a986eceee171cb?mediaType=mp4)|113,553||18+|united states|
@@ -32,7 +32,7 @@
 |Bully Pulpit Interactive|860.00 USD|[22](https://www.snap.com/political-ads/asset/fe7220265e0b83eb4cbb346815baf9b9fceb5d20326e91694f337e46dc739c48?mediaType=mp4)|43,457||18+|united states|
 |Bully Pulpit Interactive|899.00 USD|[23](https://www.snap.com/political-ads/asset/a06d993991627ee0584f34da776111f20c32d6f89ce1b0de48974e9686df5338?mediaType=mp4)|40,824||18+|united states|
 |Bully Pulpit Interactive|223.00 USD||39,414||18+|united states|
-|Bully Pulpit Interactive|209.00 USD||36,710||18+|united states|
+|Bully Pulpit Interactive|209.00 USD||36,711||18+|united states|
 |Bully Pulpit Interactive|680.00 USD|[26](https://www.snap.com/political-ads/asset/36756fee0f6f8a359838bbb25c7253f8878e2d0f9cadc966d0e07fd62575d933?mediaType=mp4)|35,899|FEMALE|35+|united states|
 |Bully Pulpit Interactive|721.00 USD|[27](https://www.snap.com/political-ads/asset/36756fee0f6f8a359838bbb25c7253f8878e2d0f9cadc966d0e07fd62575d933?mediaType=mp4)|35,538||18+|united states|
 |Bully Pulpit Interactive|633.00 USD|[28](https://www.snap.com/political-ads/asset/cb4c49cefbeb1412fab9dc10b5125c9d7f9787c9aa9f542016a986eceee171cb?mediaType=mp4)|34,800|FEMALE|35+|united states|
@@ -148,6 +148,6 @@
 |Bully Pulpit Interactive|0.00 USD|[138](https://www.snap.com/political-ads/asset/06fc4d1a1641c55e40cd2014ae7ce51fcdaf850d4dad31dfcba029357a9f499d?mediaType=mp4)|3||18+|united states|
 |Bully Pulpit Interactive|0.00 USD|[139](https://www.snap.com/political-ads/asset/06fc4d1a1641c55e40cd2014ae7ce51fcdaf850d4dad31dfcba029357a9f499d?mediaType=mp4)|3||18+|united states|
 |Bully Pulpit Interactive|0.00 USD|[140](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|3||18+|united states|
-|Bully Pulpit Interactive|0.00 USD|[141](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|18-34|united states|
+|Bully Pulpit Interactive|0.00 USD|[141](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|35+|united states|
 |Bully Pulpit Interactive|0.00 USD|[142](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2||18+|united states|
-|Bully Pulpit Interactive|0.00 USD|[143](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|35+|united states|
+|Bully Pulpit Interactive|0.00 USD|[143](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|18-34|united states|
