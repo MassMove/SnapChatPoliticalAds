@@ -47,9 +47,9 @@
 |[DCCC](DCCC.md) - Human Age Digital: DCCC, nevada 3rd congressional district, Pennsylvania 7th congressional district, Rudy Salas para el Congresso|64,396.00 USD|11,332,197||18+, 20+, 25+|united states|
 |[PPAWI Political Fund](PPAWI_Political_Fund.md) - Planned Parenthood Advocates of Wisconsin: Angie Sapik, David Estenson, Donnie Herman, Ed Hibsch, Jeff Smith, Josh Kaul, Laura Gapske, Lori Palmeri, Tim Michels, Tip McGuire|41,751.00 USD|10,860,497||18+|united states|
 |[The 'Gander Newsroom](The_'Gander_Newsroom.md) - SBDigital|177,426.00 USD|10,569,370||17+|united states|
-|[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|72,885.00 SEK|10,356,897||17-25, 18-25, 18-26|sweden|
+|[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|72,881.00 SEK|10,355,726||17-25, 18-25, 18-26|sweden|
 |[Fair Fight Action](Fair_Fight_Action.md) - Vision Media Services|37,284.00 USD|10,177,481||18-35, 18+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18-24, 18-25, 18-29, 18-35, 18+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18-24, 18-25, 18-29, 18-35, 18+|united states|
 |[CA Public Health](CA_Public_Health.md) - Unified|40,648.00 USD|9,990,111||18+|united states|
 |[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|74,159.00 USD|9,848,935||18+|united states|
 |[Family Friendly Action PAC](Family_Friendly_Action_PAC.md) - GMMB  Inc: Family Friendly Action PAC, Senate Majority PAC|37,607.00 USD|9,834,035||18-35, 18-45|united states|
@@ -81,7 +81,7 @@
 |[Everytown for Gun Safety Action](Everytown_for_Gun_Safety_Action.md) - Wavelength Strategy|31,133.00 USD|5,956,685|FEMALE|18+|united states|
 |[MI Planned Parenthood Votes](MI_Planned_Parenthood_Votes.md) - M&R Strategic Services  Inc.: Dana Nessel, Gretchen Whitmer, Jocelyn Benson, Richard Bernstein and Kyra Bolden|57,892.00 USD|5,925,412||18+|united states|
 |[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|140,273.00 NOK|5,918,944||18-19, 18+, 20+|norway|
-|[Commonwealth Communications](Commonwealth_Communications.md) - Do Big Things: Commonwealth Communications, GOTV Pennsylvania, Voting registration in Pennsylvania|110,167.00 USD|5,856,718||18-35, 18+|united states|
+|[Commonwealth Communications](Commonwealth_Communications.md) - The New Media Firm: Commonwealth Communications, GOTV Pennsylvania, Voting registration in Pennsylvania|110,167.00 USD|5,856,718||18-35, 18+|united states|
 |[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|74,289.00 USD|5,837,109|FEMALE|18-35, 18+|united states|
 |[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: Bee Nguyen GA SOS, Cheri Beasley US Senator for NC, Damon Chetson, Jocelyn Benson MI SOS, Keith Ellison MN Attorney General, Mandela Barnes US Senator for WI, Mary Moriarty Hennepin County Attorney, Satana Deberry for Durham DA|15,411.00 USD|5,606,782||18+|united states|
 |[Venstre, Danmarks Liberale Parti](Venstre,_Danmarks_Liberale_Parti.md) - Venstre - Danmarks Liberale Parti: Venstre|12,817.00 EUR|5,528,758||16-25, 18-45, 18-49, 18+, 35+|denmark|
@@ -115,7 +115,7 @@
 |[Josh Harder For Congress](Josh_Harder_For_Congress.md) - Wavelength Strategy: Josh Harder For Congress|60,315.00 USD|3,325,425|FEMALE|18-45, 18+|united states|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|17,985.00 USD|3,314,172||18+|united states|
 |[Bahrain Elections 2022](Bahrain_Elections_2022.md) - Bahrain Elections|744.00 USD|3,311,069||20+, 21+|bahrain|
-|[Galvanize Action](Galvanize_Action.md) - The New Media Firm: Galvanize Action|80,368.00 USD|3,304,067|FEMALE|18+|united states|
+|[Galvanize Action](Galvanize_Action.md) - The New Media Firm: Galvanize Action|77,863.00 USD|3,193,730|FEMALE|18+|united states|
 |[Élection Québec](Élection_Québec.md) - Cossette Media Inc: BVEE|15,228.00 CAD|3,068,310||18-44, 18+|canada|
 |[NYC Racial Justice Commission](NYC_Racial_Justice_Commission.md) - OpAD Media|22,832.00 USD|3,062,863||18+|united states|
 |[Scottish Government](Scottish_Government.md) - Republic of Media Ltd.|10,306.00 GBP|3,028,464|FEMALE, MALE|16-17, 18-25, 18-44, 18+|united kingdom|
@@ -144,7 +144,7 @@
 |[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media: Al Jabbar for Anaheim City Council, Ashleigh Aitken for Anaheim Mayor, Carlos Leon for Anaheim City Council|37,143.00 USD|2,246,494|FEMALE|18+|united states|
 |[Lasry for Wisconsin](Lasry_for_Wisconsin.md) - AL Media: Lasry for Wisconsin|6,359.00 USD|2,236,880||18+|united states|
 |[Friends of the Earth](Friends_of_the_Earth.md) - Friends of the Earth|3,532.00 GBP|2,198,994||18+|united kingdom|
-|[United We Dream Action](United_We_Dream_Action.md) - BerlinRosen: United We Dream Action|13,273.00 USD|2,194,022||17+, 18-35, 18+|united states|
+|[United We Dream Action](United_We_Dream_Action.md) - Authentic Campaigns Inc: United We Dream Action|13,273.00 USD|2,194,022||17+, 18-35, 18+|united states|
 |[End Citizens United](End_Citizens_United.md) - Wavelength Strategy: End Citizens United|13,442.00 USD|2,193,453||18+|united states|
 |[Fair Fight](Fair_Fight.md) - Vision Media Services|32,925.00 USD|2,115,645||18+|united states|
 |[Unison](Unison.md) - M.i. Media|12,105.00 GBP|2,054,569||18-30, 18+|united kingdom|
@@ -255,7 +255,6 @@
 |[Lauren Underwood for Congress](Lauren_Underwood_for_Congress.md) - Authentic Campaigns Inc: Lauren Underwood for Congress|8,998.00 USD|787,088||18-35|united states|
 |[Preserve the Good Life](Preserve_the_Good_Life.md) - BCom Solutions: Preserve the Good Life|4,978.00 USD|780,177||18+|united states|
 |[Strong Colorado for All](Strong_Colorado_for_All.md) - Blueprint Interactive|25,936.00 USD|778,415||18-34|united states|
-|[AlOula 24](AlOula_24.md) - AlOual 24: Ali Salem Aldeqbasi, Faisal AlKandari, Faisal Mohammed AlKandari, Khaled Saraya Alhajri, Msaed AlShammari|3,686.00 USD|769,595||21+|kuwait|
 |[Hampshire County Council](Hampshire_County_Council.md) - Hampshire County Council|1,908.00 GBP|769,123|FEMALE, MALE|15-17, 18-20, 18-21, 18-24, 18-25, 18-30, 18-45, 18+|united kingdom|
 |[Democratic National Committee](Democratic_National_Committee.md) - Democratic National Committee: Democratic National Committee|12,252.00 USD|759,330||18+|united states|
 |[Communication Workers of America](Communication_Workers_of_America.md) - Middle Seat Consulting  LLC|4,501.00 USD|759,239||18+|united states|
@@ -264,6 +263,7 @@
 |[WFP National PAC](WFP_National_PAC.md) - Middle Seat Consulting  LLC: WFP National PAC|5,838.00 USD|752,882|FEMALE|18-49, 18+|united states|
 |[League of Women Voters of CA](League_of_Women_Voters_of_CA.md) - League of Women Voters of California|7,820.00 USD|752,132||18-24|united states|
 |[الصيفي مبارك الصيفي](الصيفي_مبارك_الصيفي.md) - ads alwaan|1,463.00 USD|744,341||20+, 21+|kuwait|
+|[AlOula 24](AlOula_24.md) - AlOual 24: Ali Salem Aldeqbasi, Faisal AlKandari, Faisal Mohammed AlKandari, Msaed AlShammari|3,597.00 USD|737,835||21+|kuwait|
 |[Rubio for Senate](Rubio_for_Senate.md) - Targeted Victory  LLC: Marco Rubio|2,015.00 USD|731,910||18+|united states|
 |[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|5,753.00 CAD|710,586|FEMALE|18-35|canada|
 |[Care in Action, Inc.](Care_in_Action,_Inc..md) - Van Ness Creative Strategies LLC: Care in Action Inc|13,173.00 USD|692,475|FEMALE|18+|united states|

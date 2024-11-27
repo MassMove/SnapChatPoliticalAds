@@ -1,7 +1,7 @@
 ## 2020 - NextGen America 
-**Spent**: 220,130.00
+**Spent**: 220,155.00
 
-**Impressions**: 17,989,989
+**Impressions**: 18,001,916
 
 **Billing Addresses**: 1445 New York Ave NW,Washington,20005,US
 
@@ -67,35 +67,36 @@
 |Bully Pulpit Interactive|33.00 USD|[57](https://www.snap.com/political-ads/asset/8067357e91ba220684635ef99a008a55857319eee1ecc80fd9ec875efd885bda?mediaType=mp4)|16,069||18-35|united states|
 |Bully Pulpit Interactive|25.00 USD|[58](https://www.snap.com/political-ads/asset/abf7f813598907175e195d6a88183f97357d5e56c25280b11c43585829085d68?mediaType=mp4)|12,958||18-35|united states|
 |Bully Pulpit Interactive: Theresa Greenfield|128.00 USD|[59](https://www.snap.com/political-ads/asset/5ce9131d3f91ce48d774be86759dfde4fad9c7647039fd2584375e4007ee1bae?mediaType=mp4)|12,338||18-34|united states|
-|Bully Pulpit Interactive|22.00 USD|[60](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|11,916||18-35|united states|
-|Bully Pulpit Interactive|23.00 USD|[61](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|11,704||18-35|united states|
-|Bully Pulpit Interactive|17.00 USD|[62](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|10,385||18-35|united states|
-|Bully Pulpit Interactive|19.00 USD|[63](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|9,810||18-35|united states|
-|Bully Pulpit Interactive|15.00 USD|[64](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|9,464||18-35|united states|
-|Bully Pulpit Interactive|18.00 USD|[65](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|8,850||18-35|united states|
-|Bully Pulpit Interactive|17.00 USD|[66](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|8,461||18-35|united states|
-|Bully Pulpit Interactive: Sara Gideon|93.00 USD|[67](https://www.snap.com/political-ads/asset/88f0f5c4f880e35a3b1d064c86e9d9ad8f920085b8b91aaa48a1bd5681e28180?mediaType=mp4)|8,084||18-34|united states|
-|Bully Pulpit Interactive|11.00 USD|[68](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|7,240||18-35|united states|
-|Bully Pulpit Interactive|14.00 USD|[69](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|7,076||18-35|united states|
-|Bully Pulpit Interactive|12.00 USD|[70](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|6,670||18-35|united states|
-|Bully Pulpit Interactive|15.00 USD|[71](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|6,601||18-35|united states|
-|Bully Pulpit Interactive|13.00 USD|[72](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|6,304||18-35|united states|
-|Bully Pulpit Interactive|13.00 USD|[73](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|6,216||18-35|united states|
-|Bully Pulpit Interactive|11.00 USD|[74](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|6,051||18-35|united states|
-|Bully Pulpit Interactive|12.00 USD|[75](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|5,480||18-35|united states|
-|Bully Pulpit Interactive|10.00 USD|[76](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|5,402||18-35|united states|
-|Bully Pulpit Interactive|10.00 USD|[77](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|5,156||18-35|united states|
-|Bully Pulpit Interactive|10.00 USD|[78](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|4,726||18-35|united states|
-|Bully Pulpit Interactive|8.00 USD|[79](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|4,608||18-35|united states|
-|Bully Pulpit Interactive|8.00 USD|[80](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|4,552||18-35|united states|
-|Bully Pulpit Interactive|8.00 USD|[81](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|4,484||18-35|united states|
-|Bully Pulpit Interactive|8.00 USD|[82](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|4,066||18-35|united states|
-|Bully Pulpit Interactive: Theresa Greenfield|41.00 USD|[83](https://www.snap.com/political-ads/asset/5ce9131d3f91ce48d774be86759dfde4fad9c7647039fd2584375e4007ee1bae?mediaType=mp4)|4,041||18-34|united states|
-|Bully Pulpit Interactive: Sara Gideon|44.00 USD|[84](https://www.snap.com/political-ads/asset/88f0f5c4f880e35a3b1d064c86e9d9ad8f920085b8b91aaa48a1bd5681e28180?mediaType=mp4)|3,804||18-34|united states|
-|Bully Pulpit Interactive|7.00 USD|[85](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|3,613||18-35|united states|
-|Bully Pulpit Interactive|6.00 USD|[86](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|3,350||18-35|united states|
-|Bully Pulpit Interactive|6.00 USD|[87](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|3,240||18-35|united states|
-|Bully Pulpit Interactive|5.00 USD|[88](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|2,478||18-35|united states|
-|Bully Pulpit Interactive: Theresa Greenfield|21.00 USD|[89](https://www.snap.com/political-ads/asset/6e0f25d6d6f370b44e03c82219d55e13007b09ea166c4c2bd5041610797a3084?mediaType=mp4)|1,179||18-34|united states|
-|Bully Pulpit Interactive: Theresa Greenfield|16.00 USD|[90](https://www.snap.com/political-ads/asset/4a9ad2d3bee1833c869d6e321a26e308e66d6563ce4768d553de5077e44197ac?mediaType=mp4)|882||18-34|united states|
-|Bully Pulpit Interactive: Theresa Greenfield|9.00 USD|[91](https://www.snap.com/political-ads/asset/13747f0c39e792c3d533705e74a38fa0b8e0056e54eab85286273ee097e402e7?mediaType=mp4)|482||18-34|united states|
+|Bully Pulpit Interactive|25.00 USD|[60](https://www.snap.com/political-ads/asset/8067357e91ba220684635ef99a008a55857319eee1ecc80fd9ec875efd885bda?mediaType=mp4)|11,927||18-35|united states|
+|Bully Pulpit Interactive|22.00 USD|[61](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|11,916||18-35|united states|
+|Bully Pulpit Interactive|23.00 USD|[62](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|11,704||18-35|united states|
+|Bully Pulpit Interactive|17.00 USD|[63](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|10,385||18-35|united states|
+|Bully Pulpit Interactive|19.00 USD|[64](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|9,810||18-35|united states|
+|Bully Pulpit Interactive|15.00 USD|[65](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|9,464||18-35|united states|
+|Bully Pulpit Interactive|18.00 USD|[66](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|8,850||18-35|united states|
+|Bully Pulpit Interactive|17.00 USD|[67](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|8,461||18-35|united states|
+|Bully Pulpit Interactive: Sara Gideon|93.00 USD|[68](https://www.snap.com/political-ads/asset/88f0f5c4f880e35a3b1d064c86e9d9ad8f920085b8b91aaa48a1bd5681e28180?mediaType=mp4)|8,084||18-34|united states|
+|Bully Pulpit Interactive|11.00 USD|[69](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|7,240||18-35|united states|
+|Bully Pulpit Interactive|14.00 USD|[70](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|7,076||18-35|united states|
+|Bully Pulpit Interactive|12.00 USD|[71](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|6,670||18-35|united states|
+|Bully Pulpit Interactive|15.00 USD|[72](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|6,601||18-35|united states|
+|Bully Pulpit Interactive|13.00 USD|[73](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|6,304||18-35|united states|
+|Bully Pulpit Interactive|13.00 USD|[74](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|6,216||18-35|united states|
+|Bully Pulpit Interactive|11.00 USD|[75](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|6,051||18-35|united states|
+|Bully Pulpit Interactive|12.00 USD|[76](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|5,480||18-35|united states|
+|Bully Pulpit Interactive|10.00 USD|[77](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|5,402||18-35|united states|
+|Bully Pulpit Interactive|10.00 USD|[78](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|5,156||18-35|united states|
+|Bully Pulpit Interactive|10.00 USD|[79](https://www.snap.com/political-ads/asset/772eb2fe59ee5d86e3e20989a05b1f3d29e90bed2d39c8f1b8827fa6b0a97ba8?mediaType=mp4)|4,726||18-35|united states|
+|Bully Pulpit Interactive|8.00 USD|[80](https://www.snap.com/political-ads/asset/22e54d75abb5ba341d8c820cccb63adc3ea071eb43a7643cd1235955e0a0447e?mediaType=mp4)|4,608||18-35|united states|
+|Bully Pulpit Interactive|8.00 USD|[81](https://www.snap.com/political-ads/asset/cb700217a29155d9f723006ff86e0f31e784cb99108b1a9d34e3f16f25d76531?mediaType=mp4)|4,552||18-35|united states|
+|Bully Pulpit Interactive|8.00 USD|[82](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|4,484||18-35|united states|
+|Bully Pulpit Interactive|8.00 USD|[83](https://www.snap.com/political-ads/asset/80186dbd79616e0647a3ba99d7cfa4ca06818d7cc2be14b32c1e5c025ddb1dfd?mediaType=mp4)|4,066||18-35|united states|
+|Bully Pulpit Interactive: Theresa Greenfield|41.00 USD|[84](https://www.snap.com/political-ads/asset/5ce9131d3f91ce48d774be86759dfde4fad9c7647039fd2584375e4007ee1bae?mediaType=mp4)|4,041||18-34|united states|
+|Bully Pulpit Interactive: Sara Gideon|44.00 USD|[85](https://www.snap.com/political-ads/asset/88f0f5c4f880e35a3b1d064c86e9d9ad8f920085b8b91aaa48a1bd5681e28180?mediaType=mp4)|3,804||18-34|united states|
+|Bully Pulpit Interactive|7.00 USD|[86](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|3,613||18-35|united states|
+|Bully Pulpit Interactive|6.00 USD|[87](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|3,350||18-35|united states|
+|Bully Pulpit Interactive|6.00 USD|[88](https://www.snap.com/political-ads/asset/353228b494cad994f6ba07aa843fe995e68873cdab3ba72f20bc354401097680?mediaType=mp4)|3,240||18-35|united states|
+|Bully Pulpit Interactive|5.00 USD|[89](https://www.snap.com/political-ads/asset/0afb833faf58604bbe779156bc44df6874c8d206e8bb40e5493aa6e3f5b06596?mediaType=mp4)|2,478||18-35|united states|
+|Bully Pulpit Interactive: Theresa Greenfield|21.00 USD|[90](https://www.snap.com/political-ads/asset/6e0f25d6d6f370b44e03c82219d55e13007b09ea166c4c2bd5041610797a3084?mediaType=mp4)|1,179||18-34|united states|
+|Bully Pulpit Interactive: Theresa Greenfield|16.00 USD|[91](https://www.snap.com/political-ads/asset/4a9ad2d3bee1833c869d6e321a26e308e66d6563ce4768d553de5077e44197ac?mediaType=mp4)|882||18-34|united states|
+|Bully Pulpit Interactive: Theresa Greenfield|9.00 USD|[92](https://www.snap.com/political-ads/asset/13747f0c39e792c3d533705e74a38fa0b8e0056e54eab85286273ee097e402e7?mediaType=mp4)|482||18-34|united states|
