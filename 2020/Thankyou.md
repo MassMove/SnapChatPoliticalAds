@@ -1,7 +1,7 @@
 ## 2020 - Thankyou 
-**Spent**: 8,623.00
+**Spent**: 8,572.00
 
-**Impressions**: 5,936,281
+**Impressions**: 5,916,177
 
 **Billing Addresses**: 13468 Beach Ave,Los Angeles,90292,US
 
@@ -43,16 +43,15 @@
 |AudienceX|35.00 USD|[33](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|21,572||18-40|sweden|
 |AudienceX|61.00 USD|[34](https://www.snap.com/political-ads/asset/287464981bc460d9f444091005347910cfd8c3e6df069a0a73e2361ec959c92d?mediaType=mp4)|21,521||18-40|new zealand|
 |AudienceX|77.00 USD|[35](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|21,477||18-40|united states|
-|AudienceX|51.00 USD|[36](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|20,104||18-40|new zealand|
-|AudienceX|86.00 USD|[37](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|19,291||18-40|united states|
-|AudienceX|35.00 USD|[38](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|18,356||18-40|united kingdom|
-|AudienceX|32.00 USD|[39](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|17,037||18-40|united kingdom|
-|AudienceX|30.00 USD|[40](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|15,404||18-40|australia|
-|AudienceX|32.00 USD|[41](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|15,082||18-40|canada|
-|AudienceX|33.00 USD|[42](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|14,886||18-40|canada|
-|AudienceX|28.00 USD|[43](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|14,597||18-40|australia|
-|AudienceX|41.00 USD|[44](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|13,646||18-40|new zealand|
-|AudienceX|35.00 USD|[45](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|12,856||18-40|new zealand|
-|AudienceX|17.00 USD|[46](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|9,307||18-40|australia|
-|AudienceX|23.00 USD|[47](https://www.snap.com/political-ads/asset/287464981bc460d9f444091005347910cfd8c3e6df069a0a73e2361ec959c92d?mediaType=mp4)|8,134||18-40|sweden|
-|AudienceX|14.00 USD|[48](https://www.snap.com/political-ads/asset/287464981bc460d9f444091005347910cfd8c3e6df069a0a73e2361ec959c92d?mediaType=mp4)|5,619||18-40|australia|
+|AudienceX|86.00 USD|[36](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|19,291||18-40|united states|
+|AudienceX|35.00 USD|[37](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|18,356||18-40|united kingdom|
+|AudienceX|32.00 USD|[38](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|17,037||18-40|united kingdom|
+|AudienceX|30.00 USD|[39](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|15,404||18-40|australia|
+|AudienceX|32.00 USD|[40](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|15,082||18-40|canada|
+|AudienceX|33.00 USD|[41](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|14,886||18-40|canada|
+|AudienceX|28.00 USD|[42](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|14,597||18-40|australia|
+|AudienceX|41.00 USD|[43](https://www.snap.com/political-ads/asset/f2be83dc24f8c8d737f0f1dbb1059122f457684451afae83c34440fabe056e5c?mediaType=mp4)|13,646||18-40|new zealand|
+|AudienceX|35.00 USD|[44](https://www.snap.com/political-ads/asset/2ef33cfab3998187cc08934f7e2d1dc16d8bf7b1482823da195eac995e473acf?mediaType=mp4)|12,856||18-40|new zealand|
+|AudienceX|17.00 USD|[45](https://www.snap.com/political-ads/asset/e810db9947720d1b205c0fc151e3732bc1b3a464438cf38de05f757ac36c16f9?mediaType=mp4)|9,307||18-40|australia|
+|AudienceX|23.00 USD|[46](https://www.snap.com/political-ads/asset/287464981bc460d9f444091005347910cfd8c3e6df069a0a73e2361ec959c92d?mediaType=mp4)|8,134||18-40|sweden|
+|AudienceX|14.00 USD|[47](https://www.snap.com/political-ads/asset/287464981bc460d9f444091005347910cfd8c3e6df069a0a73e2361ec959c92d?mediaType=mp4)|5,619||18-40|australia|

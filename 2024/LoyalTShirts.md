@@ -1,7 +1,7 @@
 ## 2024 - LoyalTShirts 
-**Spent**: 633.00
+**Spent**: 649.00
 
-**Impressions**: 73,531
+**Impressions**: 76,320
 
 **Billing Addresses**: US
 
@@ -9,3 +9,5 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Loyaltshirts|378.00 USD|[0](https://www.snap.com/political-ads/asset/eea41b3e55db8fd21f2d1270bd7fe563084e88efca6dd34ad62d25112886a39e?mediaType=png)|51,324|FEMALE|18+|united states|
 |Loyaltshirts|255.00 USD|[1](https://www.snap.com/political-ads/asset/482445e18e534190d251f1de659033eff2a697c5f842260c72821c55a720e958?mediaType=png)|22,207|FEMALE|18+|united states|
+|Loyaltshirts|7.00 USD|[2](https://www.snap.com/political-ads/asset/6da380812add68ca3b5b22be56f86b2413f8da7078d03d42ff44716cc46064a0?mediaType=png)|2,316|||united states|
+|Loyaltshirts: LGBTQIA Rights Ad 1|9.00 USD|[3](https://www.snap.com/political-ads/asset/ca3fac0eaf59a7ce20b72bf08db3d52232e896ebfc03e0f2450fa305d5bbdaf6?mediaType=png)|473||18+|united states|
