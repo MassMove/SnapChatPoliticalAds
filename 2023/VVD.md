@@ -1,7 +1,7 @@
 ## 2023 - VVD 
-**Spent**: 13,765.00
+**Spent**: 13,701.00
 
-**Impressions**: 5,236,512
+**Impressions**: 5,225,585
 
 **Billing Addresses**: NL
 
@@ -51,33 +51,32 @@
 |Volkspartij voor Vrijheid en Democratie|87.00 EUR|[41](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|12,756||18+||
 |Volkspartij voor Vrijheid en Democratie|122.00 EUR|[42](https://www.snap.com/political-ads/asset/90c85adbd1e88c68902cb9ccafa8ad3898e22e32911bfec70eb8dd78aa4b2b63?mediaType=mp4)|12,083||18+||
 |Volkspartij voor Vrijheid en Democratie|91.00 EUR|[43](https://www.snap.com/political-ads/asset/e3395ebec8651160d1d8044521ed7f4dd0390ed8285ff19b65bce6a724f02fe7?mediaType=mp4)|11,597||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|64.00 EUR|[44](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|10,927||18+||
-|Volkspartij voor Vrijheid en Democratie|69.00 EUR|[45](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|9,475||18+||
-|Volkspartij voor Vrijheid en Democratie|52.00 EUR|[46](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|8,969||18+||
-|Volkspartij voor Vrijheid en Democratie|89.00 EUR|[47](https://www.snap.com/political-ads/asset/f4e53c7517f0e2eb6eb1c82e9abc1e7f859c0f1d133e01b0898bfb90de6e6fcd?mediaType=mp4)|8,712||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|52.00 EUR|[48](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|7,735||18+||
-|Volkspartij voor Vrijheid en Democratie|34.00 EUR|[49](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|6,961||18+||
-|Volkspartij voor Vrijheid en Democratie|28.00 EUR|[50](https://www.snap.com/political-ads/asset/7888f20ada4b746d2e60d732cc151ff3f9726d2883e456ee344dca8a9d116ba3?mediaType=mp4)|6,404||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|40.00 EUR|[51](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|5,589||18+||
-|Volkspartij voor Vrijheid en Democratie|32.00 EUR|[52](https://www.snap.com/political-ads/asset/33e23662c7f5cfcf5bae77744f62926cc3884ef4203bcf5ad5cb66258e0e7ac7?mediaType=mp4)|5,375||18+||
-|Volkspartij voor Vrijheid en Democratie|39.00 EUR|[53](https://www.snap.com/political-ads/asset/90c85adbd1e88c68902cb9ccafa8ad3898e22e32911bfec70eb8dd78aa4b2b63?mediaType=mp4)|4,934||18+||
-|Volkspartij voor Vrijheid en Democratie|24.00 EUR|[54](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|4,748||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|32.00 EUR|[55](https://www.snap.com/political-ads/asset/33e23662c7f5cfcf5bae77744f62926cc3884ef4203bcf5ad5cb66258e0e7ac7?mediaType=mp4)|4,178||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|16.00 EUR|[56](https://www.snap.com/political-ads/asset/c7350e0352614c3f557b69b84506cb9c6c94a0437a68a666cecb2cced3614976?mediaType=mp4)|3,806||18+||
-|Volkspartij voor Vrijheid en Democratie|18.00 EUR|[57](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|3,569||18+||
-|Volkspartij voor Vrijheid en Democratie|20.00 EUR|[58](https://www.snap.com/political-ads/asset/33e23662c7f5cfcf5bae77744f62926cc3884ef4203bcf5ad5cb66258e0e7ac7?mediaType=mp4)|3,523||18+||
-|Volkspartij voor Vrijheid en Democratie|20.00 EUR|[59](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|3,353||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|27.00 EUR|[60](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|3,301||18+||
-|Volkspartij voor Vrijheid en Democratie|24.00 EUR|[61](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|3,259||18+||
-|Volkspartij voor Vrijheid en Democratie|20.00 EUR|[62](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|3,098||18+||
-|Volkspartij voor Vrijheid en Democratie|21.00 EUR|[63](https://www.snap.com/political-ads/asset/90c85adbd1e88c68902cb9ccafa8ad3898e22e32911bfec70eb8dd78aa4b2b63?mediaType=mp4)|3,072||18+||
-|Volkspartij voor Vrijheid en Democratie|19.00 EUR|[64](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|2,996||18+||
-|Volkspartij voor Vrijheid en Democratie|17.00 EUR|[65](https://www.snap.com/political-ads/asset/217e9855ec5ae8dbf38ea387a951a5f44d5cfee4ece27da939bec75438699a4f?mediaType=mp4)|2,764||18+||
-|Volkspartij voor Vrijheid en Democratie|14.00 EUR|[66](https://www.snap.com/political-ads/asset/c7350e0352614c3f557b69b84506cb9c6c94a0437a68a666cecb2cced3614976?mediaType=mp4)|2,093||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|14.00 EUR|[67](https://www.snap.com/political-ads/asset/c7350e0352614c3f557b69b84506cb9c6c94a0437a68a666cecb2cced3614976?mediaType=mp4)|2,090||18+||
-|Volkspartij voor Vrijheid en Democratie|13.00 EUR|[68](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|2,010||18+||
-|Volkspartij voor Vrijheid en Democratie|10.00 EUR|[69](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|1,953||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|13.00 EUR|[70](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|1,941||18+||
-|Volkspartij voor Vrijheid en Democratie|11.00 EUR|[71](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|1,884||18+|netherlands|
-|Volkspartij voor Vrijheid en Democratie|10.00 EUR|[72](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|1,537||18+||
-|Volkspartij voor Vrijheid en Democratie|8.00 EUR|[73](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|1,363||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|69.00 EUR|[44](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|9,475||18+||
+|Volkspartij voor Vrijheid en Democratie|52.00 EUR|[45](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|8,969||18+||
+|Volkspartij voor Vrijheid en Democratie|89.00 EUR|[46](https://www.snap.com/political-ads/asset/f4e53c7517f0e2eb6eb1c82e9abc1e7f859c0f1d133e01b0898bfb90de6e6fcd?mediaType=mp4)|8,712||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|52.00 EUR|[47](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|7,735||18+||
+|Volkspartij voor Vrijheid en Democratie|34.00 EUR|[48](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|6,961||18+||
+|Volkspartij voor Vrijheid en Democratie|28.00 EUR|[49](https://www.snap.com/political-ads/asset/7888f20ada4b746d2e60d732cc151ff3f9726d2883e456ee344dca8a9d116ba3?mediaType=mp4)|6,404||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|40.00 EUR|[50](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|5,589||18+||
+|Volkspartij voor Vrijheid en Democratie|32.00 EUR|[51](https://www.snap.com/political-ads/asset/33e23662c7f5cfcf5bae77744f62926cc3884ef4203bcf5ad5cb66258e0e7ac7?mediaType=mp4)|5,375||18+||
+|Volkspartij voor Vrijheid en Democratie|39.00 EUR|[52](https://www.snap.com/political-ads/asset/90c85adbd1e88c68902cb9ccafa8ad3898e22e32911bfec70eb8dd78aa4b2b63?mediaType=mp4)|4,934||18+||
+|Volkspartij voor Vrijheid en Democratie|24.00 EUR|[53](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|4,748||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|32.00 EUR|[54](https://www.snap.com/political-ads/asset/33e23662c7f5cfcf5bae77744f62926cc3884ef4203bcf5ad5cb66258e0e7ac7?mediaType=mp4)|4,178||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|16.00 EUR|[55](https://www.snap.com/political-ads/asset/c7350e0352614c3f557b69b84506cb9c6c94a0437a68a666cecb2cced3614976?mediaType=mp4)|3,806||18+||
+|Volkspartij voor Vrijheid en Democratie|18.00 EUR|[56](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|3,569||18+||
+|Volkspartij voor Vrijheid en Democratie|20.00 EUR|[57](https://www.snap.com/political-ads/asset/33e23662c7f5cfcf5bae77744f62926cc3884ef4203bcf5ad5cb66258e0e7ac7?mediaType=mp4)|3,523||18+||
+|Volkspartij voor Vrijheid en Democratie|20.00 EUR|[58](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|3,353||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|27.00 EUR|[59](https://www.snap.com/political-ads/asset/188cec8ffe137920203757eed0fec5c9b536bcaead02f11c7a8b857a368a5a11?mediaType=mp4)|3,301||18+||
+|Volkspartij voor Vrijheid en Democratie|24.00 EUR|[60](https://www.snap.com/political-ads/asset/dfb988ba5bb11817b56d5d9879ea8813badebf81ab0db47cd033496b71bb8ef5?mediaType=mp4)|3,259||18+||
+|Volkspartij voor Vrijheid en Democratie|20.00 EUR|[61](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|3,098||18+||
+|Volkspartij voor Vrijheid en Democratie|21.00 EUR|[62](https://www.snap.com/political-ads/asset/90c85adbd1e88c68902cb9ccafa8ad3898e22e32911bfec70eb8dd78aa4b2b63?mediaType=mp4)|3,072||18+||
+|Volkspartij voor Vrijheid en Democratie|19.00 EUR|[63](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|2,996||18+||
+|Volkspartij voor Vrijheid en Democratie|17.00 EUR|[64](https://www.snap.com/political-ads/asset/217e9855ec5ae8dbf38ea387a951a5f44d5cfee4ece27da939bec75438699a4f?mediaType=mp4)|2,764||18+||
+|Volkspartij voor Vrijheid en Democratie|14.00 EUR|[65](https://www.snap.com/political-ads/asset/c7350e0352614c3f557b69b84506cb9c6c94a0437a68a666cecb2cced3614976?mediaType=mp4)|2,093||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|14.00 EUR|[66](https://www.snap.com/political-ads/asset/c7350e0352614c3f557b69b84506cb9c6c94a0437a68a666cecb2cced3614976?mediaType=mp4)|2,090||18+||
+|Volkspartij voor Vrijheid en Democratie|13.00 EUR|[67](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|2,010||18+||
+|Volkspartij voor Vrijheid en Democratie|10.00 EUR|[68](https://www.snap.com/political-ads/asset/a15d1b3e98b260a4b31dd2ca2c108da8ec23dd25f6415d3deb86c75f1ed8e6e4?mediaType=mp4)|1,953||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|13.00 EUR|[69](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|1,941||18+||
+|Volkspartij voor Vrijheid en Democratie|11.00 EUR|[70](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|1,884||18+|netherlands|
+|Volkspartij voor Vrijheid en Democratie|10.00 EUR|[71](https://www.snap.com/political-ads/asset/4f5d5b7acfab025ae8ba960986adfe45cfd6181f579015875418458ebb119c6f?mediaType=mp4)|1,537||18+||
+|Volkspartij voor Vrijheid en Democratie|8.00 EUR|[72](https://www.snap.com/political-ads/asset/0b344aa81c0144f3955d371fbf1b358b8bcadb6e97d01eb75ce52056ba8b0c37?mediaType=mp4)|1,363||18+|netherlands|

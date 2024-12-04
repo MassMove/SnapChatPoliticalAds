@@ -1,13 +1,13 @@
 ## 2024 - Invest In Our Lands, LLC 
-**Spent**: 2,311.00
+**Spent**: 2,505.00
 
-**Impressions**: 626,868
+**Impressions**: 669,423
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Precision Reach: Invest In Our Land|404.00 USD|[0](https://www.snap.com/political-ads/asset/aed075ea5782072975f7628f0dbeabb884850a0d2c8d3be74bcb64b2f808a6d5?mediaType=mp4)|127,779|||united states|
+|Precision Reach: Invest In Our Land|598.00 USD|[0](https://www.snap.com/political-ads/asset/aed075ea5782072975f7628f0dbeabb884850a0d2c8d3be74bcb64b2f808a6d5?mediaType=mp4)|170,334|||united states|
 |Precision Reach: Invest In Our Land|526.00 USD|[1](https://www.snap.com/political-ads/asset/22a09d56fbce127574b0c0ef2d831bafa7761e69f7c59d1dd391ac21a0781965?mediaType=mp4)|112,204|||united states|
 |Precision Reach: Invest In Our Land|116.00 USD|[2](https://www.snap.com/political-ads/asset/6c5ef1875fdcad376b85d54ac9c364037db308d8874d8a628cf15db51121787d?mediaType=mp4)|75,874|||united states|
 |Precision Reach: Invest In Our Land|86.00 USD|[3](https://www.snap.com/political-ads/asset/aed075ea5782072975f7628f0dbeabb884850a0d2c8d3be74bcb64b2f808a6d5?mediaType=mp4)|48,342|||united states|

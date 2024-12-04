@@ -1,7 +1,7 @@
 ## 2022 - PPAWI Political Fund 
-**Spent**: 41,751.00
+**Spent**: 41,743.00
 
-**Impressions**: 10,860,497
+**Impressions**: 10,858,758
 
 **Billing Addresses**: 302 N Jackson St,Milwaukee,53211,US
 
@@ -24,5 +24,4 @@
 |Planned Parenthood Advocates of Wisconsin: Lori Palmeri|1,198.00 USD|[14](https://www.snap.com/political-ads/asset/ab6707f3005c5389bb3496ec5da3511ed2b131aa9fbbca65dc2a14fc04bfaa59?mediaType=png)|230,192||18+|united states|
 |Planned Parenthood Advocates of Wisconsin: Laura Gapske|873.00 USD|[15](https://www.snap.com/political-ads/asset/ca1ab9d6dc088334355290a821faa2e5f3d14fad6ae7a6422b653aae0e01bcb1?mediaType=png)|181,372||18+|united states|
 |Planned Parenthood Advocates of Wisconsin: David Estenson|133.00 USD|[16](https://www.snap.com/political-ads/asset/0c34c65ffb7bd36a47a16963e169cda3861848d19bbd67d9a104d6a6cddd79c7?mediaType=png)|28,120||18+|united states|
-|Planned Parenthood Advocates of Wisconsin: David Estenson|8.00 USD|[17](https://www.snap.com/political-ads/asset/0c34c65ffb7bd36a47a16963e169cda3861848d19bbd67d9a104d6a6cddd79c7?mediaType=png)|1,739||18+|united states|
-|Planned Parenthood Advocates of Wisconsin: David Estenson|7.00 USD|[18](https://www.snap.com/political-ads/asset/0c34c65ffb7bd36a47a16963e169cda3861848d19bbd67d9a104d6a6cddd79c7?mediaType=png)|1,607||18+|united states|
+|Planned Parenthood Advocates of Wisconsin: David Estenson|7.00 USD|[17](https://www.snap.com/political-ads/asset/0c34c65ffb7bd36a47a16963e169cda3861848d19bbd67d9a104d6a6cddd79c7?mediaType=png)|1,607||18+|united states|

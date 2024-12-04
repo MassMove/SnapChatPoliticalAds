@@ -1,7 +1,7 @@
 ## 2024 - Paid for by TXSecretaryofState 
 **Spent**: 67,603.00
 
-**Impressions**: 14,188,250
+**Impressions**: 14,188,263
 
 **Billing Addresses**: 1019 Brazos Street, Suite 405 Austin, Texas 78711,Austin,78711,US
 
@@ -22,7 +22,7 @@
 |Vote Texas|1,999.00 USD|[14](https://www.snap.com/political-ads/asset/dd0553357f8228c0ed235dc4991bd29e7f46c5af048edd76e819e99e8b0cb48f?mediaType=mov)|359,779||18-49|united states|
 |Vote Texas|1,999.00 USD|[15](https://www.snap.com/political-ads/asset/0bddb3c5198fbbc13b62fe35129a40dec25ea18f4c8e9455f0fe93431490b9f2?mediaType=jpeg)|359,122||18-24|united states|
 |Vote Texas|1,800.00 USD|[16](https://www.snap.com/political-ads/asset/7e0c7ccab1d74921ac26c5c6ce680c641f913a83ae454f439b9c9bbce8335d5c?mediaType=jpeg)|337,943||18-22|united states|
-|Vote Texas|1,000.00 USD||282,422||18+|united states|
+|Vote Texas|1,000.00 USD||282,435||18+|united states|
 |Vote Texas|1,000.00 USD|[18](https://www.snap.com/political-ads/asset/39f37ff7f77db12129b22263b7b9b7f79d47bdee15fae4af1b87e71e75de019f?mediaType=mov)|264,621||18-49|united states|
 |Vote Texas|999.00 USD|[19](https://www.snap.com/political-ads/asset/10569bc2796abc732b8d30fe4e9b3c5990b8aa867d117847905cf97d3f0dc575?mediaType=jpg)|232,342||18+|united states|
 |Vote Texas|1,276.00 USD|[20](https://www.snap.com/political-ads/asset/b07ed273024b3d151de77a7d16e24c85be09007df4b4a5198a12b1ec70961585?mediaType=mov)|221,143||18-49|united states|

@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18-24, 18+|australia|
-|[Patagonia](Patagonia.md) - Patagonia|259,924.00 EUR, USD|55,822,027||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia Europe|259,424.00 EUR, USD|55,747,181||15+, 18-30, 18-34, 18-35, 18-40, 18-49, 18+, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
@@ -38,7 +38,7 @@
 |[Commonwealth Communications](Commonwealth_Communications.md) - Do Big Things: PA Supreme Court Race|25,216.00 USD|5,709,765||18-25, 18+, 44-|united states|
 |[PPAWI Political Fund](PPAWI_Political_Fund.md) - Planned Parenthood Advocates of Wisconsin: Dan Kelly|19,498.00 USD|5,603,632||18+|united states|
 |[Voice of Kuwait](Voice_of_Kuwait.md) - BPG KUWAIT: Voice of Kuwait|5,344.00 USD|5,593,479||21+|kuwait|
-|[VVD](VVD.md) - Volkspartij voor Vrijheid en Democratie|13,765.00 EUR|5,236,512||18+|netherlands|
+|[VVD](VVD.md) - Volkspartij voor Vrijheid en Democratie|13,701.00 EUR|5,225,585||18+|netherlands|
 |[De Ambrassade VZW](De_Ambrassade_VZW.md) - Vlaamse Jeugdraad|1,543.00 EUR|5,073,930||18-30, 30-|belgium|
 |[ثامر سعد السويط الظفيري](ثامر_سعد_السويط_الظفيري.md) - zainhassan: thamer saad, Thamer saad|3,349.00 USD|4,986,322||18+|kuwait|
 |[Fagforbundet](Fagforbundet.md) - Try Schjærven Media|561,591.00 NOK|4,725,829||18+|norway|
@@ -121,9 +121,9 @@
 |[Hussain Al Huraiti](Hussain_Al_Huraiti.md) - dotspacegroup for advertising and publishing: Hussain Al Huraiti|1,881.00 USD|855,415||18+|kuwait|
 |[Sosialistisk Venstreparti](Sosialistisk_Venstreparti.md) - Sosialistisk Venstreparti: Sosialistisk Venstreparti|14,000.00 NOK|833,830||18-45|norway|
 |[Mind Charity](Mind_Charity.md) - Medialab Group|920.00 GBP|821,785||18-24, 18-30|united kingdom|
+|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|3,214.00 USD|805,532|FEMALE|30-|united states|
 |[Polity](Polity.md) - LoKnow: Polity Election Marketplace|3,749.00 CAD|801,221||18+|canada|
 |[Vasemmistoliitto](Vasemmistoliitto.md) - Oy Dagmar Ab: Vasemmistoliitto|1,999.00 EUR|798,154||18-35|finland|
-|[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|3,154.00 USD|796,583|FEMALE|30-|united states|
 |[Social Democratic Party](Social_Democratic_Party.md) - OMD Finland Oy|4,995.00 EUR|784,738||18-34|finland|
 |[First Media](First_Media.md) - First Media V|11,149.00 USD|739,617||23+|united states|
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
@@ -132,7 +132,7 @@
 |[Blue Sky Waukesha, Inc.](Blue_Sky_Waukesha,_Inc..md) - Blue Sky Waukesha: Abortion Ad Spring Primary, Bob Tatterson for AD24, David Irwin for Elmbrook School Board, Dont Florida Our Wisconsin, Janet Protasiewicz for Wisconsin Supreme Court, Wisconsin 2023 General Election|6,049.00 USD|716,917|FEMALE|17+, 18+|united states|
 |[farz aldayhani](farz_aldayhani.md) - sourcemediakw: farz aldayhani|400.00 USD|714,456||21+|kuwait|
 |[hamad saif mohammad alharshani](hamad_saif_mohammad_alharshani.md) - hamadseeif|1,443.00 USD|695,390||18+|kuwait|
-|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Hammerfest: Gemeente Amsterdam|3,328.00 EUR|693,168||18-24, 18-25|netherlands|
+|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Digital Media Enzo B.V.: Gemeente Amsterdam|3,328.00 EUR|693,168||18-24, 18-25|netherlands|
 |[ChildFund](ChildFund.md) - TouchPoint Media|11,240.00 USD|689,887||18-24, 25-40|united states|
 |[New Jersey Education Association](New_Jersey_Education_Association.md) - The New Media Firm|13,628.00 USD|656,469||18+|united states|
 |[Kemal Kılıçdaroğlu](Kemal_Kılıçdaroğlu.md) - Goodroll Dijital Video Reklam Pazarlama Tic. A.Ş.: Kemal Kilicdaroglu|476.00 USD|655,933||18-24|turkey|
@@ -181,7 +181,7 @@
 |[Oslo SV](Oslo_SV.md) - Oslo SV|29,727.00 NOK|346,314||18-35, 18+|norway|
 |[Ohio Women's Alliance](Ohio_Women's_Alliance.md) - Chong and Koster|4,999.00 USD|332,348||18-25|united states|
 |[Agder Arbeiderparti](Agder_Arbeiderparti.md) - Agder Arbeiderparti: Arbeiderpartiet|13,169.00 NOK|328,365||16-25, 18-35, 18+|norway|
-|[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - adzgulf2023new: 200|887.00 USD|321,213||21+|kuwait|
+|[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - KUWAITADS1: 200|887.00 USD|321,213||21+|kuwait|
 |[Southwest Indiana Right to Life](Southwest_Indiana_Right_to_Life.md) - AXIOM|4,466.00 USD|318,908||18+|united states|
 |[Liberalistene Viken](Liberalistene_Viken.md) - Liberalistene Viken: Aleksander Carlsen, Kai Roger Hagen, Natalya Engelsrud Fritzen|18,222.00 NOK|314,126||18+|norway|
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Group C|1,325.00 USD|313,062||18+|united states|
@@ -255,7 +255,7 @@
 |[Finger Lakes Pregnancy Care](Finger_Lakes_Pregnancy_Care.md) - Stories Marketing: Cortland and Ithaca|1,224.00 USD|106,664|FEMALE|18-38|united states|
 |[Born This Way Foundation](Born_This_Way_Foundation.md) - Do Big Things|463.00 USD|105,636||15-34|united states|
 |[Falah Sultan Al-Mutairi](Falah_Sultan_Al-Mutairi.md) - Alshanalaam: Falah Sultan AMutairi|42.00 USD|104,891||21+|kuwait|
-|[نواف بهيش الهواش العازمي](نواف_بهيش_الهواش_العازمي.md) - kuwaitaomh|269.00 USD|103,501||20+, 21+|kuwait|
+|[نواف بهيش الهواش العازمي](نواف_بهيش_الهواش_العازمي.md) - ads alwaan|269.00 USD|103,501||20+, 21+|kuwait|
 |[HK Danmark](HK_Danmark.md) - HK Danmark|1,399.00 USD|97,635||18+|denmark|
 |[Yousef Al Nuaimi](Yousef_Al_Nuaimi.md) - Yousef Al neaimi Advocates & Legal Consultants: Yousef Al Nuaimi|248.00 USD|95,366||21+|united arab emirates|
 |[Wyandotte Pregnancy Clinic](Wyandotte_Pregnancy_Clinic.md) - Stories Marketing: Does Not Provide Abortions, Wyandotte and Olathe|582.00 USD|93,053|FEMALE|16-30, 18-38|united states|
@@ -321,8 +321,8 @@
 |[El Mirage](El_Mirage.md) - Strategies 360: Yes For El Mirage|300.00 USD|19,227||18+|united states|
 |[No Labels](No_Labels.md) - Embee Media: No Labels|209.00 USD|18,659||18+|united states|
 |[New Mexico Clean Air](New_Mexico_Clean_Air.md) - Semilla Strategies LLC: Advanced Clean Cars and Advanced Clean Trucks|421.00 USD|18,579||18-40|united states|
-|[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
 |[Southwest Women's Law Center](Southwest_Women's_Law_Center.md) - Southwest Women's Law Center: New Mexico Senate Bill 11|236.00 USD|13,523||18-40|united states|
+|[Action Canada](Action_Canada.md) - Point Blank Creative|100.00 CAD|13,523||16-24|canada|
 |[Zeal Investments UG](Zeal_Investments_UG.md) - Zeal Investments UG|106.00 USD|13,224||18+|italy|
 |[Albert Escobedo](Albert_Escobedo.md) - Albert Escobedo for Los Fresnos City Council Member Place 1: Albert Escobedo|79.00 USD|10,455||18-49, 18+|united states|
 |[Real Alternatives Indiana](Real_Alternatives_Indiana.md) - Stacked Marketing Group|148.00 USD|9,573|FEMALE|18-34|united states|

@@ -1,7 +1,7 @@
 ## 2022 - SSU-förbundet 
-**Spent**: 72,881.00
+**Spent**: 72,885.00
 
-**Impressions**: 10,355,726
+**Impressions**: 10,356,897
 
 **Billing Addresses**: Box 554,Stockholm,101 31,SE
 
@@ -38,3 +38,4 @@
 |SSU: SSU|4.00 SEK|[57](https://www.snap.com/political-ads/asset/5a65e1816661f93bb83f08294efcc70ac6c2a9b392b6525f017cfbe0ecdafc9d?mediaType=jpeg)|1,258||18-25|sweden|
 |SSU: SSU|4.00 SEK|[58](https://www.snap.com/political-ads/asset/953899fe6df0990ae4e8de220d224107ab5b66be2ef76f16db8b5060187fed7e?mediaType=png)|1,231||18-25|sweden|
 |SSU: SSU|4.00 SEK|[59](https://www.snap.com/political-ads/asset/d88ad90326d96b42bd6bb82fc277d7af4e3b883e7078613de061427447d57ef6?mediaType=png)|1,230||18-25|sweden|
+|SSU: SSU|4.00 SEK|[60](https://www.snap.com/political-ads/asset/829d4c658d2dc12133caecff20677b38146f6ebc00d91174d9f9e97783e659f0?mediaType=png)|1,171||18-25|sweden|

@@ -3,12 +3,12 @@
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
 |[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
-|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Recreational Equipment Inc.|323,790.00 USD|157,811,807||18+|united states|
+|[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu Aegis Network France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - Planned Parenthood of Southern New England|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
@@ -38,7 +38,7 @@
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|46,941.00 EUR|11,396,136||17+, 18+|norway|
 |[Action Canada SHR](Action_Canada_SHR.md) - Point Blank Creative|17,090.00 CAD|11,008,850|FEMALE, MALE|16-19, 20-23|canada|
 |[NY State of Health](NY_State_of_Health.md) - OpAD Media|42,452.00 USD|10,657,396||18-34|united states|
-|[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|41,703.00 USD|9,624,035||17+, 18+|united states|
+|[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|42,484.00 USD|9,830,879||17+, 18+|united states|
 |[SOAPPS](SOAPPS.md) - AGENCE NATIONALE DE PREVENTION ET DE FORMATION (ANPF)|4,706.00 EUR|9,162,404||23-33|france|
 |[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|14,000.00 EUR|8,973,546||18-25, 26-34, 35++|norway|
@@ -120,7 +120,7 @@
 |[Mejeriforeningen](Mejeriforeningen.md) - Reprise Media|4,011.00 EUR|2,121,387||25+|denmark|
 |[NRSC](NRSC.md) - Targeted Victory  LLC|8,156.00 USD|2,106,617||18+|united states|
 |[FLHSMV](FLHSMV.md) - Avanza Advertising  LLC: Holiday Travel, Teen Driver Safety|3,341.00 USD|2,015,074||14-21, 15+|united states|
-|[HOPE not hate Charitable Trust](HOPE_not_hate_Charitable_Trust.md) - HOPE not hate Charitable Trust|3,624.00 GBP|1,972,362||18-40|united kingdom|
+|[HOPE not hate Charitable Trust](HOPE_not_hate_Charitable_Trust.md) - HOPE not hate Charitable Trust|3,637.00 GBP|1,979,567||18-40|united kingdom|
 |[Department of Education](Department_of_Education.md) - Manning Gottlieb OMD - OmniGOV|3,128.00 GBP|1,944,429||19-24|united kingdom|
 |[Dr. Hisham Al-Saleh Campaign](Dr._Hisham_Al-Saleh_Campaign.md) - Mint|2,960.00 USD|1,922,475||21+|kuwait|
 |[SPR](SPR.md) - Toinen PHD|2,821.00 EUR|1,879,328|FEMALE|18-30, 18+|finland|
@@ -170,7 +170,7 @@
 |[Amp Aware](Amp_Aware.md) - Fluent  LLC|2,245.00 USD|794,249||25+|united states|
 |[Fellesforbundet](Fellesforbundet.md) - Idium 1881 AS|3,203.00 EUR|770,106||18+|norway|
 |[Centrum Seksueel Geweld](Centrum_Seksueel_Geweld.md) - Go eMarketing|599.00 EUR|760,814||18-36|netherlands|
-|[ifaw](ifaw.md) - International Fund for Animal Welfare|991.00 EUR|740,884||18+|netherlands|
+|[ifaw](ifaw.md) - International Fund for Animal Welfare|980.00 EUR|729,830||18+|netherlands|
 |[Cancerfonden](Cancerfonden.md) - All Rise Media AB: Cancerfonden - The Swedish Cancer Society|2,923.00 EUR|723,124|FEMALE|18+, 20+, 35+|sweden|
 |[OPC](OPC.md) - Cossette Media Inc|1,199.00 CAD|723,077||18-24|canada|
 |[Difi](Difi.md) - Hensikt AS|2,296.00 EUR|695,640|FEMALE|18-25, 25-27|norway|
@@ -211,6 +211,7 @@
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - Blueprint Interactive|972.00 USD|318,579|FEMALE|18-34|united states|
 |[Citizens for a Successful CB](Citizens_for_a_Successful_CB.md) - BCom Solutions|671.00 USD|304,906||18+|united states|
 |[Unie van Waterschappen](Unie_van_Waterschappen.md) - Pixl|293.00 EUR|298,866||18+|netherlands|
+|[Norsk Sykepleierforbund](Norsk_Sykepleierforbund.md) - Kikkut kommunikasjon as|1,162.00 USD|289,844||25+|norway|
 |[Paid for by khaled alanezi](Paid_for_by_khaled_alanezi.md) - Flater_q8|466.00 USD|282,718||17+|kuwait|
 |[Australian Labor Party](Australian_Labor_Party.md) - Australian Labor Party National Secretariat|1,000.00 AUD|269,662||18-34|australia|
 |[Florida Democratic Party](Florida_Democratic_Party.md) - Florida Democratic Party|678.00 USD|269,246||20-21|united states|
@@ -224,7 +225,6 @@
 |[United Way of Greater L.A.](United_Way_of_Greater_L.A..md) - Everyone In|274.00 USD|240,495||16+|united states|
 |[Luton Council](Luton_Council.md) - Luton Council|337.00 GBP|239,445||18-30|united kingdom|
 |[Moayyed AL-Shehab](Moayyed_AL-Shehab.md) - moalshehab2019|416.00 USD|238,579||17+, 18+, 20+|kuwait|
-|[Norsk Sykepleierforbund](Norsk_Sykepleierforbund.md) - Kikkut kommunikasjon as|940.00 USD|232,637||25+|norway|
 |[Už vilnių, kurio didžiuojamės](Už_vilnių,_kurio_didžiuojamės.md) - Media House LT|245.00 EUR|230,704||18+|lithuania|
 |[EkPlateBiryani](EkPlateBiryani.md) - 2570211 Ontario Inc|721.00 CAD|229,625||25+|canada|
 |[Negotia](Negotia.md) - Negotia|672.00 USD|223,499||25+|norway|
@@ -300,6 +300,7 @@
 |[Civology Inc.](Civology_Inc..md) - Civology: Civology|141.00 USD|41,758||18+|united states|
 |[US Polling Research](US_Polling_Research.md) - US Polling Research: US Polling Research|158.00 USD|41,436||35+|united states|
 |[NSEA](NSEA.md) - Nebraska State Education Association|100.00 USD|39,384||18+|united states|
+|[Høyre - politisk parti](Høyre_-_politisk_parti.md) - Bodø Høyre|118.00 USD|37,385||18+|norway|
 |[Cheshire West & Chester Council](Cheshire_West_&_Chester_Council.md) - Cheshire West and Chester Council|50.00 GBP|36,705||18-25|united kingdom|
 |[Eric Flowers Rep for IRC Sheriff](Eric_Flowers_Rep_for_IRC_Sheriff.md) - Flowers for Sheriff: Flowers for Sheriff|106.00 USD|36,439|||united states|
 |[Kongsvinger Arbeiderparti](Kongsvinger_Arbeiderparti.md) - Kongsvinger Arbeiderparti|119.00 EUR|35,051||18-25, 18+|norway|
