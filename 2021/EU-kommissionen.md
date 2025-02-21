@@ -3,7 +3,7 @@
 
 **Impressions**: 8,130,685
 
-**Billing Addresses**: KÄMPEGATAN 6,Göteborg,41104,SE
+**Billing Addresses**: Södra vägen 65,Göteborg,41254,SE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

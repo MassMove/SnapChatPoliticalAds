@@ -1,7 +1,7 @@
 ## 2024 - Vote Like a Madre 
 **Spent**: 54,394.00
 
-**Impressions**: 3,964,398
+**Impressions**: 3,964,401
 
 **Billing Addresses**: 1445 New York Ave NW,Washington,20005,US
 
@@ -18,7 +18,7 @@
 |Bully Pulpit Interactive|3,346.00 USD|[8](https://www.snap.com/political-ads/asset/7ee8eacf39fd684415317de7789bcf2335687c9093afb32581b942bd6e81b2be?mediaType=mp4)|149,496||18+|united states|
 |Bully Pulpit Interactive|2,350.00 USD|[9](https://www.snap.com/political-ads/asset/fe7220265e0b83eb4cbb346815baf9b9fceb5d20326e91694f337e46dc739c48?mediaType=mp4)|123,235||18+|united states|
 |Bully Pulpit Interactive|2,214.00 USD|[10](https://www.snap.com/political-ads/asset/cb4c49cefbeb1412fab9dc10b5125c9d7f9787c9aa9f542016a986eceee171cb?mediaType=mp4)|113,553||18+|united states|
-|Bully Pulpit Interactive|659.00 USD||111,661||18+|united states|
+|Bully Pulpit Interactive|659.00 USD||111,664||18+|united states|
 |Bully Pulpit Interactive|1,999.00 USD|[12](https://www.snap.com/political-ads/asset/013006099e0474faf568ef2b5029a531a76b78cc129dc1503ed39ba7fbadec2d?mediaType=mp4)|105,254||18+|united states|
 |Bully Pulpit Interactive|615.00 USD||105,206||18+|united states|
 |Bully Pulpit Interactive|2,520.00 USD|[14](https://www.snap.com/political-ads/asset/d155e9f2b5f23f1514e322333b2189ef0151af806ae72a936cd92047796a4dc9?mediaType=mp4)|102,963||18+|united states|

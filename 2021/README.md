@@ -16,7 +16,7 @@
 |[Electoral Commission](Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||16-17, 18-34|united kingdom|
 |[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
-|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,370,486.00 NOK|19,640,487||18-22, 18-29, 18-30, 18-40, 18-45, 18+, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
+|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||18-22, 18-29, 18-30, 18-40, 18-45, 18+, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
 |[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 EUR, USD|19,188,668||18-34, 18-35, 18-44, 18+, 21+|germany, italy, netherlands, united kingdom, united states|
 |[Dove](Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
@@ -33,7 +33,7 @@
 |[Illinois Clean Jobs Coalition](Illinois_Clean_Jobs_Coalition.md) - We Bridge Consulting LLC: Illinois Clean Jobs Coalition|18,000.00 USD|9,105,909||16+, 29-, 30+|united states|
 |[Care in Action](Care_in_Action.md) - Precision [TEST]: Care in Action, Virginia Election|96,121.00 USD|8,924,344|FEMALE|18+|united states|
 |[EU-kommissionen](EU-kommissionen.md) - Adsup AB|20,158.00 EUR|8,130,685||18-24, 25-29|sweden|
-|[Community Change Action](Community_Change_Action.md) - Do Big Things: immigration refrom, Presidential Inauguration|44,984.00 USD|7,910,744||17+, 18+|united states|
+|[Community Change Action](Community_Change_Action.md) - Community Change Action: immigration refrom, Presidential Inauguration|44,984.00 USD|7,910,744||17+, 18+|united states|
 |[Venstre](Venstre.md) - Venstre: frihet og muligheter, Guri Melby, internasjonalt samarbeid, Like muligheter for alle, Oljeleting, rusreform, Rusreformen, Velge Venstre|229,237.00 NOK|7,879,651|FEMALE|17-30, 17-34, 17-35, 17-45, 17+, 18-25, 18-30, 18-35, 18-40, 18-45, 18-49, 18+, 28+, 35+|norway|
 |[The People's Lawsuit](The_People's_Lawsuit.md) - Chong and Koster|24,985.00 USD|7,877,440||18-29|united states|
 |[MESRI](MESRI.md) - Dentsu Aegis Network France|9,259.00 EUR|7,582,846||18-25|france|
@@ -59,7 +59,7 @@
 |[Vote for NYC's Future](Vote_for_NYC's_Future.md) - Wavelength Strategy|39,710.00 USD|4,863,334||18+|united states|
 |[Fagbevægelsens Hovedorganisation](Fagbevægelsens_Hovedorganisation.md) - Mercantila A/S|144,995.00 DKK|4,840,723||15-45, 18+|denmark|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|41,459.00 CAD|4,795,864||18-34|canada|
-|[AUF](AUF.md) - Try Schjærven Media|27,242.00 EUR, NOK|4,753,189||16-17, 18-25|norway|
+|[AUF](AUF.md) - AUF Norge|27,242.00 EUR, NOK|4,753,189||16-17, 18-25|norway|
 |[NDRC](NDRC.md) - Wavelength Strategy|27,589.00 USD|4,684,868||18+|united states|
 |[Republican National Committee](Republican_National_Committee.md) - Republican National Committee: Republican National Committee|32,718.00 USD|4,653,494||18-24, 18-25, 18+, 25+|united states|
 |[Pulpmedia](Pulpmedia.md) - Httpool Online Marketing GmbH|10,000.00 EUR|4,540,377||18+|austria|
@@ -78,7 +78,7 @@
 |[LCV & Priorities USA](LCV_&_Priorities_USA.md) - Gambit Strategies|23,499.00 USD|3,283,479||18+|united states|
 |[Fund Texas Choice](Fund_Texas_Choice.md) - BerlinRosen|42,498.00 USD|3,205,497||35-|united states|
 |[Human Rights Campaign Foundation](Human_Rights_Campaign_Foundation.md) - Bully Pulpit Interactive|27,899.00 USD|3,155,090||18-25, 18-30, 18-35|puerto rico, united states|
-|[New Georgia Project](New_Georgia_Project.md) - Panowatch  LLC: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
+|[New Georgia Project](New_Georgia_Project.md) - ampersand strategies: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|5,576.00 GBP|3,120,115||18-30|united kingdom|
 |[ACLU](ACLU.md) - Wavelength Strategy: ACLU|36,054.00 USD|3,117,943|FEMALE|18-40, 18-49, 18+|united states|
 |[D66](D66.md) - Dept|7,357.00 EUR|3,110,013||18+|netherlands|
@@ -158,7 +158,7 @@
 |[American Bridge Foundation](American_Bridge_Foundation.md) - Wavelength Strategy|7,183.00 USD|1,121,015|FEMALE|18+|united states|
 |[Welsh Labour](Welsh_Labour.md) - Welsh Labour: Welsh Labour|1,756.00 GBP|1,090,499||18-23, 18+|united kingdom|
 |[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|17,822.00 SEK|1,082,094||15-23, 18-25, 18+, 20-, 21-|sweden|
-|[Welsh Government](Welsh_Government.md) - Powys Participation: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
+|[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.: Right to Vote|3,375.00 GBP|1,061,177||15-17, 15-25, 18-25|united kingdom, united states|
 |[Doctors Without Borders](Doctors_Without_Borders.md) - Doctors Without Borders|5,944.00 USD|1,048,126||18+, 25+|united states|
 |[Presse- und Informationsamt](Presse-_und_Informationsamt.md) - iProspect GmbH|8,631.00 EUR|1,045,306||18-24|germany|
 |[Clean Virginia Fund](Clean_Virginia_Fund.md) - COMPETE Digital LLC: Clean Virginia Fund, Jay Jones, Jennifer Carroll Foy|21,583.00 USD|1,044,021||18+|united states|
@@ -247,7 +247,7 @@
 |[Parole Justice NY](Parole_Justice_NY.md) - mv digital group: Peoples Campaign for Parole Justice|1,596.00 USD|261,480|||united states|
 |[Better Utah Institute](Better_Utah_Institute.md) - Better Utah Institute: Ballots are in the mail learn more about here, Civic Engagement Toolkit, RCV|590.00 USD|260,172||17+, 18+, 40-|united states|
 |[Bridgend County Borough Council](Bridgend_County_Borough_Council.md) - Bridgend County Borough Council: Senedd and PCC Election|443.00 GBP|259,254||14-25, 18-25|united kingdom|
-|[Campax Community](Campax_Community.md) - Campax|511.00 EUR|234,405||18-40, 18+|switzerland|
+|[Campax Community](Campax_Community.md) - Campax|529.00 EUR|240,155||18-40, 18+|switzerland|
 |[Espoon Keskusta](Espoon_Keskusta.md) - Keskustan Espoon kunnallisjärjestö ry|489.00 EUR|229,015||18+|finland|
 |[Invest in Arizona](Invest_in_Arizona.md) - Strategies 360|542.00 USD|224,993|||united states|
 |[Blåkors](Blåkors.md) - Digital Opptur: Bla Kors|1,147.00 EUR|223,582||18+|norway|
@@ -277,7 +277,7 @@
 |[DAGA](DAGA.md) - Do Big Things|2,045.00 USD|141,239||18+|united states|
 |[SUSA flexibel studentenwerk](SUSA_flexibel_studentenwerk.md) - SUSA flexibel studentenwerk|149.00 EUR|141,034||18-28, 18-30|netherlands|
 |[Protect the Promise](Protect_the_Promise.md) - LoudDoor  LLC|1,440.00 USD|140,234||35+|united states|
-|[Resource Media](Resource_Media.md) - RESOURCE MEDIA A NONPROFIT CORPORATION|1,261.00 USD|139,705||18+|united states|
+|[Resource Media](Resource_Media.md) - Spake Media|1,261.00 USD|139,705||18+|united states|
 |[Namsos kommune](Namsos_kommune.md) - Mystory Norge AS|982.00 EUR|135,979||18+|norway|
 |[Agder Høyre](Agder_Høyre.md) - Markussen Consulting: Aase Marthe Horrigmo, Amalie Gunnufsen, Amalie Kollstrand, Ingunn Foss, Nicolai Osteby fra Kristiansand, Svein Harberg|6,941.00 NOK|133,732|FEMALE|17-35, 17+, 19+, 30+, 35-|norway|
 |[RAY MCGUIRE FOR MAYOR, INC.](RAY_MCGUIRE_FOR_MAYOR,_INC..md) - Assemble The Agency: Ray McGuire for Mayor|1,319.00 USD|131,744||18+|united states|

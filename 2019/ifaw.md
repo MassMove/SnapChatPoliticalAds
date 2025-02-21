@@ -1,7 +1,7 @@
 ## 2019 - ifaw 
-**Spent**: 980.00
+**Spent**: 991.00
 
-**Impressions**: 729,830
+**Impressions**: 740,884
 
 **Billing Addresses**: 290 Summer St.,Yarmouth Port,02675,US
 
@@ -27,22 +27,23 @@
 |International Fund for Animal Welfare|18.00 EUR|[17](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|17,069||18+|netherlands|
 |International Fund for Animal Welfare|19.00 EUR|[18](https://www.snap.com/political-ads/asset/6275b4f9f9ef98c73258a40958e5e9d3223d2c05f25381f891731763a3efa63c?mediaType=png)|14,277||18+|netherlands|
 |International Fund for Animal Welfare|12.00 EUR|[19](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|11,069||18+|netherlands|
-|International Fund for Animal Welfare|10.00 EUR|[20](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|9,362||18+|netherlands|
-|International Fund for Animal Welfare|9.00 EUR|[21](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|8,323||18+|netherlands|
-|International Fund for Animal Welfare|8.00 EUR|[22](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|7,732||18+|netherlands|
-|International Fund for Animal Welfare|8.00 EUR|[23](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|7,130||18+|netherlands|
-|International Fund for Animal Welfare|5.00 EUR|[24](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|5,447||18+|netherlands|
-|International Fund for Animal Welfare|5.00 EUR|[25](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|5,048||18+|netherlands|
-|International Fund for Animal Welfare|5.00 EUR|[26](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|5,010||18+|netherlands|
-|International Fund for Animal Welfare|4.00 EUR|[27](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|4,293||18+|netherlands|
-|International Fund for Animal Welfare|4.00 EUR|[28](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|3,621||18+|netherlands|
-|International Fund for Animal Welfare|3.00 EUR|[29](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|3,435||18+|netherlands|
-|International Fund for Animal Welfare|3.00 EUR|[30](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|3,097||18+|netherlands|
-|International Fund for Animal Welfare|3.00 EUR|[31](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|3,074||18+|netherlands|
-|International Fund for Animal Welfare|2.00 EUR|[32](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|2,675||18+|netherlands|
-|International Fund for Animal Welfare|3.00 EUR|[33](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|2,654||18+|netherlands|
-|International Fund for Animal Welfare|2.00 EUR|[34](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|2,125||18+|netherlands|
-|International Fund for Animal Welfare|1.00 EUR|[35](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|1,264||18+|netherlands|
-|International Fund for Animal Welfare|1.00 EUR|[36](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|1,088||18+|netherlands|
-|International Fund for Animal Welfare|1.00 EUR|[37](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|1,061||18+|netherlands|
-|International Fund for Animal Welfare|1.00 EUR|[38](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|966||18+|netherlands|
+|International Fund for Animal Welfare|11.00 EUR|[20](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|11,054||18+|netherlands|
+|International Fund for Animal Welfare|10.00 EUR|[21](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|9,362||18+|netherlands|
+|International Fund for Animal Welfare|9.00 EUR|[22](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|8,323||18+|netherlands|
+|International Fund for Animal Welfare|8.00 EUR|[23](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|7,732||18+|netherlands|
+|International Fund for Animal Welfare|8.00 EUR|[24](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|7,130||18+|netherlands|
+|International Fund for Animal Welfare|5.00 EUR|[25](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|5,447||18+|netherlands|
+|International Fund for Animal Welfare|5.00 EUR|[26](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|5,048||18+|netherlands|
+|International Fund for Animal Welfare|5.00 EUR|[27](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|5,010||18+|netherlands|
+|International Fund for Animal Welfare|4.00 EUR|[28](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|4,293||18+|netherlands|
+|International Fund for Animal Welfare|4.00 EUR|[29](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|3,621||18+|netherlands|
+|International Fund for Animal Welfare|3.00 EUR|[30](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|3,435||18+|netherlands|
+|International Fund for Animal Welfare|3.00 EUR|[31](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|3,097||18+|netherlands|
+|International Fund for Animal Welfare|3.00 EUR|[32](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|3,074||18+|netherlands|
+|International Fund for Animal Welfare|2.00 EUR|[33](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|2,675||18+|netherlands|
+|International Fund for Animal Welfare|3.00 EUR|[34](https://www.snap.com/political-ads/asset/9a2d8ce178278b01f4fc11f1d11f7917af8a8b75c4f11b902ebc4ce705455fc0?mediaType=png)|2,654||18+|netherlands|
+|International Fund for Animal Welfare|2.00 EUR|[35](https://www.snap.com/political-ads/asset/4b54acc21a2fb5117f196db9a06ef409171e5359f08f1d486956112d153d9ce1?mediaType=mp4)|2,125||18+|netherlands|
+|International Fund for Animal Welfare|1.00 EUR|[36](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|1,264||18+|netherlands|
+|International Fund for Animal Welfare|1.00 EUR|[37](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|1,088||18+|netherlands|
+|International Fund for Animal Welfare|1.00 EUR|[38](https://www.snap.com/political-ads/asset/871a63ba0e575d1357c90a2b0d4e0ab1e4cd12fe3c93db5a6434a00df52c3738?mediaType=mp4)|1,061||18+|netherlands|
+|International Fund for Animal Welfare|1.00 EUR|[39](https://www.snap.com/political-ads/asset/cb9c2445beefff51016f41dbea843e2659de739800f583877c4fe0a4164beae3?mediaType=mp4)|966||18+|netherlands|

@@ -1,7 +1,7 @@
 ## 2024 - PBL 
-**Spent**: 1,288.00
+**Spent**: 1,292.00
 
-**Impressions**: 162,941
+**Impressions**: 163,295
 
 **Billing Addresses**: Prinsengate 91,Bodø,8003,NO
 
@@ -11,7 +11,7 @@
 |PBL|174.00 USD|[1](https://www.snap.com/political-ads/asset/1b59cbc7ab18c1abe7e804dc4c5a28ec304a016f92bf78b848b2a4cb846aace9?mediaType=mp4)|40,657||20+|norway|
 |PBL|285.00 USD|[2](https://www.snap.com/political-ads/asset/1aa7b53119203aa82d0dfb061665a9caed3f66b62201dac7089e3a13fe3e7b47?mediaType=mp4)|23,561||20+|norway|
 |PBL|287.00 USD|[3](https://www.snap.com/political-ads/asset/99e03e73e2912bf4ee06329e67a384e39954671486f05039abff1b9de85df76c?mediaType=mp4),[4](https://www.snap.com/political-ads/asset/8e15586b1f499fe3112efce797e7f415456c5b256157025fc559c2de23e870a4?mediaType=mp4),[5](https://www.snap.com/political-ads/asset/d6122f9e89e4c3d99155dbbb4cf41d82431728a328e807261d2048a6266beefa?mediaType=mp4),[6](https://www.snap.com/political-ads/asset/cc60978c73dc2945935f8a516aae28a11584b706f7faa6658b138a5394438e2d?mediaType=mp4)|18,649||20+|norway|
-|PBL|195.00 USD|[7](https://www.snap.com/political-ads/asset/9211bc313c4a5e8c5dc32005131907d44b1db6dbdb43c4da7c9c1f2eba258173?mediaType=mp4)|11,405||18+|norway|
+|PBL|199.00 USD|[7](https://www.snap.com/political-ads/asset/9211bc313c4a5e8c5dc32005131907d44b1db6dbdb43c4da7c9c1f2eba258173?mediaType=mp4)|11,759||18+|norway|
 |PBL|46.00 USD|[8](https://www.snap.com/political-ads/asset/08888f176f1862d98d3e4dfd028750ba16f1bc54b753638500c64e01c5b0b219?mediaType=mp4)|10,557||20+|norway|
 |PBL|28.00 USD|[9](https://www.snap.com/political-ads/asset/d68c6bee875b6ebaf17e1b60f206ac046684017af039f3db8a74f7c371a9d3ba?mediaType=mp4)|6,833||20+|norway|
 |PBL|18.00 USD|[10](https://www.snap.com/political-ads/asset/358a9445a447b9f4989d0b4950d84b872ec5f120034aa5312deadae3acf7305e?mediaType=mp4)|3,231||20+|norway|

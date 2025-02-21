@@ -3,7 +3,7 @@
 
 **Impressions**: 1,065,644
 
-**Billing Addresses**: Birger Jarlsgatan 25,Stockholm,11145,SE
+**Billing Addresses**: Humlegårdsgatan 17,Stockholm,11446,SE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
