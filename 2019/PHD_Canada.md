@@ -3,7 +3,7 @@
 
 **Impressions**: 41,885,554
 
-**Billing Addresses**: 96 Spadina Avenue, Suite 700,Toronto,M5V2J6,CA
+**Billing Addresses**: 1300-33 Bloor St. East Toronto              ,Toronto,M4W 3H1 ,CA
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

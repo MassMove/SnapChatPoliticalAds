@@ -3,7 +3,7 @@
 
 **Impressions**: 14,018
 
-**Billing Addresses**: SA
+**Billing Addresses**: Gaza,Gaza,9700,IL
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

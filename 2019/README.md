@@ -83,7 +83,7 @@
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|
@@ -170,7 +170,7 @@
 |[Amp Aware](Amp_Aware.md) - Fluent  LLC|2,245.00 USD|794,249||25+|united states|
 |[Fellesforbundet](Fellesforbundet.md) - Idium 1881 AS|3,203.00 EUR|770,106||18+|norway|
 |[Centrum Seksueel Geweld](Centrum_Seksueel_Geweld.md) - Go eMarketing|599.00 EUR|760,814||18-36|netherlands|
-|[ifaw](ifaw.md) - International Fund for Animal Welfare|980.00 EUR|729,830||18+|netherlands|
+|[ifaw](ifaw.md) - International Fund for Animal Welfare|991.00 EUR|740,884||18+|netherlands|
 |[Cancerfonden](Cancerfonden.md) - All Rise Media AB: Cancerfonden - The Swedish Cancer Society|2,923.00 EUR|723,124|FEMALE|18+, 20+, 35+|sweden|
 |[OPC](OPC.md) - Cossette Media Inc|1,199.00 CAD|723,077||18-24|canada|
 |[Difi](Difi.md) - Hensikt AS|2,296.00 EUR|695,640|FEMALE|18-25, 25-27|norway|
