@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
 |[The Climate Pledge](The_Climate_Pledge.md) - Mediabrands France: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
-|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
+|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
 |[Thorn](Thorn.md) - Thorn|100,650.00 USD|42,751,107||17-|united states|
 |[Fair Fight Action](Fair_Fight_Action.md) - AL Media: Fair Fight Action|327,862.00 USD|41,644,985||18-34, 18+|united states|
@@ -33,7 +33,7 @@
 |[Illinois Clean Jobs Coalition](Illinois_Clean_Jobs_Coalition.md) - We Bridge Consulting LLC: Illinois Clean Jobs Coalition|18,000.00 USD|9,105,909||16+, 29-, 30+|united states|
 |[Care in Action](Care_in_Action.md) - Precision [TEST]: Care in Action, Virginia Election|96,121.00 USD|8,924,344|FEMALE|18+|united states|
 |[EU-kommissionen](EU-kommissionen.md) - Adsup AB|20,158.00 EUR|8,130,685||18-24, 25-29|sweden|
-|[Community Change Action](Community_Change_Action.md) - Community Change Action: immigration refrom, Presidential Inauguration|44,984.00 USD|7,910,744||17+, 18+|united states|
+|[Community Change Action](Community_Change_Action.md) - Do Big Things: immigration refrom, Presidential Inauguration|44,984.00 USD|7,910,744||17+, 18+|united states|
 |[Venstre](Venstre.md) - Venstre: frihet og muligheter, Guri Melby, internasjonalt samarbeid, Like muligheter for alle, Oljeleting, rusreform, Rusreformen, Velge Venstre|229,237.00 NOK|7,879,651|FEMALE|17-30, 17-34, 17-35, 17-45, 17+, 18-25, 18-30, 18-35, 18-40, 18-45, 18-49, 18+, 28+, 35+|norway|
 |[The People's Lawsuit](The_People's_Lawsuit.md) - Chong and Koster|24,985.00 USD|7,877,440||18-29|united states|
 |[MESRI](MESRI.md) - Dentsu France|9,259.00 EUR|7,582,846||18-25|france|
@@ -43,7 +43,7 @@
 |[Eric Adams 2021](Eric_Adams_2021.md) - Do Big Things: Eric Adams, Eric Adams for NYC|19,995.00 USD|7,095,548||18+|united states|
 |[Democratic National Committee](Democratic_National_Committee.md) - Democratic National Committee: Terry for Virginia|44,996.00 USD|7,083,666|FEMALE|18-35|united states|
 |[Terry for Virginia](Terry_for_Virginia.md) - Terry for Virginia: Terry for Virginia|84,980.00 USD|6,556,269|FEMALE|18+, 23+, 24+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|46,160.00 USD|6,552,361|FEMALE|16-24, 18-24, 18-29, 18+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|46,160.00 USD|6,552,361|FEMALE|16-24, 18-24, 18-29, 18+|united states|
 |[NRCC](NRCC.md) - Targeted Victory  LLC: NRCC|37,996.00 USD|6,488,434||18+|united states|
 |[Progress Now](Progress_Now.md) - The New Media Firm: Progress Virginia|77,573.00 USD|6,313,911||18+|united states|
 |[NYC Campaign Finance Board](NYC_Campaign_Finance_Board.md) - Miller Advertising Agency  Inc.|28,775.00 USD|5,946,229||18-29|united states|
@@ -59,7 +59,7 @@
 |[Vote for NYC's Future](Vote_for_NYC's_Future.md) - Wavelength Strategy|39,710.00 USD|4,863,334||18+|united states|
 |[Fagbevægelsens Hovedorganisation](Fagbevægelsens_Hovedorganisation.md) - Mercantila A/S|144,995.00 DKK|4,840,723||15-45, 18+|denmark|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|41,459.00 CAD|4,795,864||18-34|canada|
-|[AUF](AUF.md) - Try Schjærven Media|27,242.00 EUR, NOK|4,753,189||16-17, 18-25|norway|
+|[AUF](AUF.md) - AUF Norge|27,242.00 EUR, NOK|4,753,189||16-17, 18-25|norway|
 |[NDRC](NDRC.md) - Wavelength Strategy|27,589.00 USD|4,684,868||18+|united states|
 |[Republican National Committee](Republican_National_Committee.md) - Republican National Committee: Republican National Committee|32,718.00 USD|4,653,494||18-24, 18-25, 18+, 25+|united states|
 |[Pulpmedia](Pulpmedia.md) - Httpool Online Marketing GmbH|10,000.00 EUR|4,540,377||18+|austria|
@@ -277,7 +277,7 @@
 |[DAGA](DAGA.md) - Do Big Things|2,045.00 USD|141,239||18+|united states|
 |[SUSA flexibel studentenwerk](SUSA_flexibel_studentenwerk.md) - SUSA flexibel studentenwerk|149.00 EUR|141,034||18-28, 18-30|netherlands|
 |[Protect the Promise](Protect_the_Promise.md) - LoudDoor  LLC|1,440.00 USD|140,234||35+|united states|
-|[Resource Media](Resource_Media.md) - Spake Media|1,261.00 USD|139,705||18+|united states|
+|[Resource Media](Resource_Media.md) - RESOURCE MEDIA A NONPROFIT CORPORATION|1,261.00 USD|139,705||18+|united states|
 |[Namsos kommune](Namsos_kommune.md) - Mystory Norge AS|982.00 EUR|135,979||18+|norway|
 |[Agder Høyre](Agder_Høyre.md) - Markussen Consulting: Aase Marthe Horrigmo, Amalie Gunnufsen, Amalie Kollstrand, Ingunn Foss, Nicolai Osteby fra Kristiansand, Svein Harberg|6,941.00 NOK|133,732|FEMALE|17-35, 17+, 19+, 30+, 35-|norway|
 |[RAY MCGUIRE FOR MAYOR, INC.](RAY_MCGUIRE_FOR_MAYOR,_INC..md) - Assemble The Agency: Ray McGuire for Mayor|1,319.00 USD|131,744||18+|united states|

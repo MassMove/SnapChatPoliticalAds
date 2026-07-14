@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18-24, 18-29, 18-34, 18+, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|577,395.00 EUR|310,405,738||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|577,397.00 EUR|310,407,048||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18-29, 18-35, 18+, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -18,10 +18,10 @@
 |[WINSENATE](WINSENATE.md) - Wavelength Strategy: WinSenate, WinSenate AZ, WinSenate Michigan|290,867.00 USD|45,011,321||18-30, 18-34, 18+, 31+|united states|
 |[Last Best Place PAC](Last_Best_Place_PAC.md) - MVAR Media: Last Best Place PAC, LBPP Youth Voter|329,127.00 USD|39,628,135||18-24, 18-25, 18-45, 18+|united states|
 |[Elissa Slotkin for Michigan](Elissa_Slotkin_for_Michigan.md) - Wavelength Strategy: Elissa Slotkin for Michigan|290,121.00 USD|36,899,800|FEMALE, MALE|18-27, 18+, 25+|united states|
-|[Duty and Honor](Duty_and_Honor.md) - Duty and Honor: Duty and Honor NV, Duty and Honor OH, Win Senate Ohio|215,626.00 USD|34,074,184||18-34, 18-44, 18-45, 18+|united states|
+|[Duty and Honor](Duty_and_Honor.md) - Chong and Koster: Duty and Honor NV, Duty and Honor OH, Win Senate Ohio|215,626.00 USD|34,074,184||18-34, 18-44, 18-45, 18+|united states|
 |[Send the Vote](Send_the_Vote.md) - Direct Persuasion Group|352,846.00 USD|31,714,492|MALE|18-35, 18-40, 18+|united states|
 |[Uber](Uber.md) - Uber Technologies  Inc.|416,600.00 USD|30,118,144||18+|united states|
-|[Patagonia](Patagonia.md) - Patagonia Europe: EU Parliament Elections, UK General Election|265,319.00 EUR, USD|28,271,395||18-30, 18-49, 18+, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|265,319.00 EUR, USD|28,271,395||18-30, 18-49, 18+, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Amazon Prime Video](Amazon_Prime_Video.md) - Amazon Prime Video|423,452.00 USD|26,727,900||18-34, 18-49, 18+|united states|
 |[Islamic Relief USA](Islamic_Relief_USA.md) - Islamic Relief USA|367,188.00 USD|25,785,946||18+, 19+, 20+, 21+, 23+, 25+|united states|
 |[The Keystone](The_Keystone.md) - Courier Newsroom: The Keystone|391,149.00 USD|25,574,019||18+|united states|
@@ -221,7 +221,7 @@
 |[MedGlobal](MedGlobal.md) - MedGlobal|17,833.00 USD|1,152,634||18+, 21+, 22+, 23+|canada, united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Commonwealth Communications: People Power Pennsylvania|26,392.00 USD|1,115,184||18-25, 18-30|united states|
 |[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap|91,999.00 NOK|1,097,738||18+|norway|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,009.00 USD|1,078,508|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,012.00 USD|1,078,782|FEMALE|30-|united states|
 |[Mercy Corps](Mercy_Corps.md) - Blue State Digital|33,161.00 USD|1,072,949||18+, 25+|united states|
 |[Western Native Voice Votes](Western_Native_Voice_Votes.md) - Navigate Campaigns: Western Native Voice Votes|10,000.00 USD|1,056,235||18+|united states|
 |[Socialdemokraterna Kronoberg](Socialdemokraterna_Kronoberg.md) - Context Media|23,490.00 SEK|1,044,527||18+|sweden|
@@ -395,7 +395,7 @@
 |[نواف بهيش العازمي](نواف_بهيش_العازمي.md) - om2024 new|723.00 USD|199,321||20+, 21+|kuwait|
 |[Michigan Voices](Michigan_Voices.md) - WKQ Media LLC: C3 Voter Education|1,170.00 USD|199,174|FEMALE|18+|united states|
 |[Dale Smith Jr](Dale_Smith_Jr.md) - Dale For Sixteenth: Dale Smith|1,099.00 USD|194,837||18+, 20+|united states|
-|[Progress North Carolina](Progress_North_Carolina.md) - Progress North Carolina|1,849.00 USD|194,805||18-25, 18-30|united states|
+|[Progress North Carolina](Progress_North_Carolina.md) - Rising Tide Interactive LLC|1,849.00 USD|194,805||18-25, 18-30|united states|
 |[Västerås stad](Västerås_stad.md) - Europa Direkt Vasteras: EU-val, Ska din granne bestamma 1, Ska din granne bestamma 2, Varfor rosta|11,027.00 SEK|192,561||18+|sweden|
 |[Essential Pregnancy Services](Essential_Pregnancy_Services.md) - Stories Marketing: Essential Pregnancy Services|2,528.00 USD|191,966|FEMALE|17+, 18+|united states|
 |[Energize NM](Energize_NM.md) - Dreams In Action NM: Beau Sandoval for Sandoval County Commission D2|1,132.00 USD|186,051||18+|united states|
@@ -520,7 +520,7 @@
 |[Americans for Trump 2024](Americans_for_Trump_2024.md) - Kyle Nelson: Donald Trump|222.00 USD|55,253||16+|united states|
 |[Thiara for Supervisor 2024](Thiara_for_Supervisor_2024.md) - Kodenum: Sarb for Supervisor 2024, Sarb Thiara for Supervisor|391.00 USD|54,741||18+|united states|
 |[Cornerstone Marketing Strategies](Cornerstone_Marketing_Strategies.md) - Cornerstone Marketing Strategies  LLC|2,082.00 USD|54,664|FEMALE|18-35|united states|
-|[الدكتور محمد حسين المهان](الدكتور_محمد_حسين_المهان.md) - fahad|210.00 USD|54,445||18+, 20+, 21+|kuwait|
+|[الدكتور محمد حسين المهان](الدكتور_محمد_حسين_المهان.md) - om2024 new|210.00 USD|54,445||18+, 20+, 21+|kuwait|
 |[Human Appeal INC](Human_Appeal_INC.md) - Human Appeal USA|234.00 USD|53,482||25+|united states|
 |[UnitedPatriot](UnitedPatriot.md) - UnitedPatriot: Kamala Harris|810.00 USD|53,293||18+|united states|
 |[صباح المحمد علي](صباح_المحمد_علي.md) - mjls alamh|121.00 USD|53,129||21+|kuwait|

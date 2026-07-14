@@ -148,6 +148,6 @@
 |Bully Pulpit Interactive|0.00 USD|[138](https://www.snap.com/political-ads/asset/06fc4d1a1641c55e40cd2014ae7ce51fcdaf850d4dad31dfcba029357a9f499d?mediaType=mp4)|3||18+|united states|
 |Bully Pulpit Interactive|0.00 USD|[139](https://www.snap.com/political-ads/asset/06fc4d1a1641c55e40cd2014ae7ce51fcdaf850d4dad31dfcba029357a9f499d?mediaType=mp4)|3|FEMALE|35+|united states|
 |Bully Pulpit Interactive|0.00 USD|[140](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|3||18+|united states|
-|Bully Pulpit Interactive|0.00 USD|[141](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|18-34|united states|
-|Bully Pulpit Interactive|0.00 USD|[142](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2||18+|united states|
-|Bully Pulpit Interactive|0.00 USD|[143](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|35+|united states|
+|Bully Pulpit Interactive|0.00 USD|[141](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2||18+|united states|
+|Bully Pulpit Interactive|0.00 USD|[142](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|35+|united states|
+|Bully Pulpit Interactive|0.00 USD|[143](https://www.snap.com/political-ads/asset/6f80054343e9b9a6f429d0246c2eb41f73df219053eb572cdba48fb8e46a4d6f?mediaType=mp4)|2|FEMALE|18-34|united states|

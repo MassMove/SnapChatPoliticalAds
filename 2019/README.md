@@ -8,7 +8,7 @@
 |[SIG](SIG.md) - Dentsu France|99,381.00 EUR|123,405,259|FEMALE|18-18, 18-24, 18-30, 18-34, 18+, 25+|france|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26-, 26+|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
-|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - R/GA|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18-24, 18+, 20-, 21-34, 21-45, 21+, 23-34, 24+, 25-, 34-, 35++|canada|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|250,000.00 USD|59,179,478||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: The Labour Party|115,829.00 GBP|51,959,434||18-24, 18-25, 18-34, 18+|united kingdom|
@@ -83,7 +83,7 @@
 |[Your Trump Shop](Your_Trump_Shop.md) - Your Trump Shop|4,240.00 USD|3,809,387|MALE|15+, 18+, 20+, 22+|united states|
 |[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive|12,173.00 USD|3,556,083|FEMALE|18+|united states|
 |[Campax Community](Campax_Community.md) - Campax: Aebischer, Eidg Parlamentswahlen 2019, Marina Carobbio, Marionna Schlatter, Regula Rytz Hans Stoeckli, Roberto Zanetti, Ruth Mueri, Schlatter Mueri Rytz Stockli Zanetti Carobbio|5,278.00 EUR|3,479,954||18+|switzerland|
-|[Høyre](Høyre.md) - Høyre|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
+|[Høyre](Høyre.md) - AlfGundersen|6,985.00 EUR, USD|3,436,476||18-29, 18-30, 18+, 20+|norway|
 |[Woodland Trust](Woodland_Trust.md) - MediaCom North|6,428.00 GBP|3,298,746||18+|united kingdom|
 |[Momentum](Momentum.md) - Momentum: Momentum General Election|9,033.00 GBP|3,204,099||18+|united kingdom|
 |[Valmyndigheten](Valmyndigheten.md) - Nowa Kommunikation AB|4,995.00 USD|3,173,250||18+|sweden|

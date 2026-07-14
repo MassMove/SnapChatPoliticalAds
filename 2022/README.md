@@ -9,7 +9,7 @@
 |[Gouvernement](Gouvernement.md) - Dentsu France|88,703.00 EUR|41,202,300||18-34, 18+|france|
 |[Kathy Hochul for NY](Kathy_Hochul_for_NY.md) - Wavelength Strategy: Kathy Hochul|258,466.00 USD|40,959,794||18-49, 18+|united states|
 |[Thorn](Thorn.md) - Thorn|64,498.00 USD|33,099,881|MALE|17-|united states|
-|[Patagonia](Patagonia.md) - Bully Pulpit Interactive: Patagonia Europe|154,381.00 EUR, USD|31,794,708||18-25, 18-49, 18+|canada, france, germany, italy, netherlands, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia: Patagonia Europe|154,381.00 EUR, USD|31,794,708||18-25, 18-49, 18+|canada, france, germany, italy, netherlands, united kingdom, united states|
 |[Planned Parenthood Advocates WI](Planned_Parenthood_Advocates_WI.md) - Planned Parenthood Advocates of Wisconsin: Eric Toney, Issue Advocacy, SCOTUS, Tim Michels|104,047.00 USD|29,352,879||18+|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|322,261.00 USD|27,792,536||18-34, 18-35, 21+|united states|
 |[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|137,038.00 USD|27,276,345||16-34, 16+|united states|
@@ -36,7 +36,7 @@
 |[Climate Power](Climate_Power.md) - Blue State Digital|47,074.00 USD|12,969,203||18-22, 18-24|united states|
 |[VAL DEMINGS FOR U.S. SENATE](VAL_DEMINGS_FOR_U.S._SENATE.md) - AL Media|36,749.00 USD|12,800,842||18+|united states|
 |[National Australia Day Council](National_Australia_Day_Council.md) - Australian Government Department of Finance|72,590.00 AUD|12,628,361||18-34|australia|
-|[Majority Forward](Majority_Forward.md) - Blueprint Interactive: Majority Forward, Ron Johnson|90,459.00 USD|12,552,858|FEMALE|18-30, 18-34, 18-45, 18+, 34-|united states|
+|[Majority Forward](Majority_Forward.md) - AL Media: Majority Forward, Ron Johnson|90,459.00 USD|12,552,858|FEMALE|18-30, 18-34, 18-45, 18+, 34-|united states|
 |[NRDC Action Fund](NRDC_Action_Fund.md) - NRDC Action Fund|42,619.00 USD|12,302,222||25+|united states|
 |[Abdulwahab Alessa](Abdulwahab_Alessa.md) - Different Media|38,997.00 USD|11,897,402||21+|kuwait|
 |[Leaders Igniting Transformation](Leaders_Igniting_Transformation.md) - Leaders Igniting Transformation: Online Voter Registration|205,660.00 USD|11,849,779||17-34, 17-35, 18-34, 18-35, 18-49|united states|
@@ -49,7 +49,7 @@
 |[The 'Gander Newsroom](The_'Gander_Newsroom.md) - SBDigital|177,426.00 USD|10,569,370||17+|united states|
 |[SSU-förbundet](SSU-förbundet.md) - SSU: SSU|72,885.00 SEK|10,356,897||17-25, 18-25, 18-26|sweden|
 |[Fair Fight Action](Fair_Fight_Action.md) - Vision Media Services|37,284.00 USD|10,177,481||18-35, 18+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18-24, 18-25, 18-29, 18-35, 18+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18-24, 18-25, 18-29, 18-35, 18+|united states|
 |[CA Public Health](CA_Public_Health.md) - Unified|40,648.00 USD|9,990,111||18+|united states|
 |[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|74,159.00 USD|9,848,935||18+|united states|
 |[Family Friendly Action PAC](Family_Friendly_Action_PAC.md) - GMMB  Inc: Family Friendly Action PAC, Senate Majority PAC|37,607.00 USD|9,834,035||18-35, 18-45|united states|
@@ -77,7 +77,7 @@
 |[GEORGIA HONOR](GEORGIA_HONOR.md) - MVAR Media|44,952.00 USD|6,402,368||18-49|united states|
 |[SEIU and HEP](SEIU_and_HEP.md) - Precision [TEST]: Help Fund NY Frontlines|18,364.00 USD|6,374,496||18+|united states|
 |[Duty and Honor (SMP WI)](Duty_and_Honor_(SMP_WI).md) - GMMB  Inc: Senate Majority PAC|22,234.00 USD|6,277,095||18-35, 18-45|united states|
-|[House Majority PAC](House_Majority_PAC.md) - AL Media: House Majority PAC|78,961.00 USD|5,984,081||18+|united states|
+|[House Majority PAC](House_Majority_PAC.md) - Wavelength Strategy: House Majority PAC|78,961.00 USD|5,984,081||18+|united states|
 |[Everytown for Gun Safety Action](Everytown_for_Gun_Safety_Action.md) - Wavelength Strategy|31,133.00 USD|5,956,685|FEMALE|18+|united states|
 |[MI Planned Parenthood Votes](MI_Planned_Parenthood_Votes.md) - M&R Strategic Services  Inc.: Dana Nessel, Gretchen Whitmer, Jocelyn Benson, Richard Bernstein and Kyra Bolden|57,892.00 USD|5,925,412||18+|united states|
 |[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|140,273.00 NOK|5,918,944||18-19, 18+, 20+|norway|
@@ -130,7 +130,7 @@
 |[Fetterman for PA](Fetterman_for_PA.md) - Middle Seat Consulting  LLC: John Fetterman, John Fetterman for PA|20,690.00 USD|2,691,075|MALE|18-30, 18+, 31-49|united states|
 |[CPLC Action Fund](CPLC_Action_Fund.md) - Magnifi: We Are CPLC|9,279.00 USD|2,585,488||18-35, 18-39|united states|
 |[Rick Caruso for Mayor 2022](Rick_Caruso_for_Mayor_2022.md) - Aisle 518 Strategies LLC: Rick Caruso for Mayor 2022|29,999.00 USD|2,550,169||18+|united states|
-|[Human Rights Campaign](Human_Rights_Campaign.md) - Whistle: Human Rights Campaign, The Equality Act|14,786.00 USD|2,537,555||18+|united states|
+|[Human Rights Campaign](Human_Rights_Campaign.md) - Bully Pulpit Interactive: Human Rights Campaign, The Equality Act|14,786.00 USD|2,537,555||18+|united states|
 |[Women Vote! PAC](Women_Vote!_PAC.md) - Wavelength Strategy|11,027.00 USD|2,513,824||18+|united states|
 |[Nevada Voters First](Nevada_Voters_First.md) - Bask Digital Media: Question 3|61,996.00 USD|2,511,529||18-34, 34+|united states|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|65,999.00 NOK|2,492,936||17-19, 18-40, 27+|norway|
@@ -164,7 +164,7 @@
 |[WWF Verdens naturfond](WWF_Verdens_naturfond.md) - MediaCom AS|83,216.00 NOK|1,790,664||18-40, 18+|norway|
 |[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee: UK government to welcome refugees|1,974.00 GBP, USD|1,778,516||16+, 18+|australia, canada, new zealand, poland, united kingdom|
 |[Black Progressive Action Coaliti](Black_Progressive_Action_Coaliti.md) - Break Something: Black Progressive Action Coalition, C3 GOTV Election Day 2022, C3 GOTV Georgia Senate Runoff 2022|14,651.00 USD|1,737,493||18+|united states|
-|[VVD](VVD.md) - Volkspartij voor Vrijheid en Democratie: VVD|2,358.00 EUR|1,734,509||18+|netherlands|
+|[VVD](VVD.md) - VVD: VVD|2,358.00 EUR|1,734,509||18+|netherlands|
 |[BlackPAC](BlackPAC.md) - Break Something: Georgia 7th District Democratic Primary|12,600.00 USD|1,712,773||18+|united states|
 |[Friends of Tina Kotek PAC 4792](Friends_of_Tina_Kotek_PAC_4792.md) - Winning Mark: Tina Kotek|13,317.00 USD|1,679,031|FEMALE, MALE|18+|united states|
 |[California Endowment](California_Endowment.md) - The Creative Space Group|4,545.00 USD|1,666,090||18-40, 18+, 40-|united states|
@@ -263,7 +263,7 @@
 |[Detroit Action](Detroit_Action.md) - Detroit Action: General Election 2022|4,033.00 USD|754,760||17-, 18-30, 18-35, 35-|united states|
 |[WFP National PAC](WFP_National_PAC.md) - Middle Seat Consulting  LLC: WFP National PAC|5,838.00 USD|752,882|FEMALE|18-49, 18+|united states|
 |[League of Women Voters of CA](League_of_Women_Voters_of_CA.md) - League of Women Voters of California|7,820.00 USD|752,132||18-24|united states|
-|[الصيفي مبارك الصيفي](الصيفي_مبارك_الصيفي.md) - Tocaan|1,463.00 USD|744,341||20+, 21+|kuwait|
+|[الصيفي مبارك الصيفي](الصيفي_مبارك_الصيفي.md) - ads alwaan|1,463.00 USD|744,341||20+, 21+|kuwait|
 |[Rubio for Senate](Rubio_for_Senate.md) - Targeted Victory  LLC: Marco Rubio|2,015.00 USD|731,910||18+|united states|
 |[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|5,753.00 CAD|710,586|FEMALE|18-35|canada|
 |[Care in Action, Inc.](Care_in_Action,_Inc..md) - Van Ness Creative Strategies LLC: Care in Action Inc|13,173.00 USD|692,475|FEMALE|18+|united states|
@@ -373,7 +373,7 @@
 |[PlanBørnefonden](PlanBørnefonden.md) - GroupM Search A/S|9,815.00 DKK|275,696||18+|denmark|
 |[City of Adelaide](City_of_Adelaide.md) - MEC Adelaide|1,500.00 AUD|272,185||18-35|australia|
 |[Paid for this ad Osama Al-Manawe](Paid_for_this_ad_Osama_Al-Manawe.md) - المرشح أسامة المناور: osama almenwer|401.00 USD|268,114|FEMALE|21+|kuwait|
-|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Gemeente Amsterdam|633.00 EUR|267,042||18-22, 18-25|netherlands|
+|[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Spitz Digital|633.00 EUR|267,042||18-22, 18-25|netherlands|
 |[Janet Mills for Maine](Janet_Mills_for_Maine.md) - AL Media: Janet Mills|7,336.00 USD|266,441|FEMALE|18+|united states|
 |[DESE](DESE.md) - Australian Government Department of Finance|2,590.00 AUD|261,469||16-17, 18-24|australia|
 |[Coalition for Safe, Responsible](Coalition_for_Safe,_Responsible.md) - Bask Digital Media: Proposition 27|4,372.00 USD|260,963||25-49|united states|
@@ -545,7 +545,7 @@
 |[Up to Us](Up_to_Us.md) - Up to Us|575.00 USD|30,901||18-24|united states|
 |[Parliamentary Service](Parliamentary_Service.md) - Attivo Limited: David Seymour MP|160.00 USD|28,628||17+, 18-30, 18-40|new zealand|
 |[FVAP](FVAP.md) - LumenAd: Federal Voting Assistance Program|121.00 USD|28,205||18-29|united states|
-|[مشعل راشد الجويسري](مشعل_راشد_الجويسري.md) - kuwaitasd|169.00 USD|27,952||20+, 21+|kuwait|
+|[مشعل راشد الجويسري](مشعل_راشد_الجويسري.md) - kuwainationalads|169.00 USD|27,952||20+, 21+|kuwait|
 |[عسكر عويد العنزي](عسكر_عويد_العنزي.md) - Askar alenezi: ASKAR ALENEZI|86.00 USD|26,788||20+|kuwait|
 |[committee to keep akers judge](committee_to_keep_akers_judge.md) - Keep Akers Judge|70.00 USD|25,961|||united states|
 |[Lara Bruner for CUSD](Lara_Bruner_for_CUSD.md) - Monsoon Studios  LLC: Lara Bruner for CUSD|486.00 USD|25,925||18+|united states|
