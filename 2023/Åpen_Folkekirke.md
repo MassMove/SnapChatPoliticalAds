@@ -1,12 +1,11 @@
-## 2023 - Åpen Folkekirke 
-**Spent**: 41,272.00
+## 2023 - Åpen folkekirke 
+**Spent**: 9,999.00
 
-**Impressions**: 2,059,668
+**Impressions**: 132,502
 
 **Billing Addresses**: Kongens gate 6, Postboks 740 Sentrum,Oslo,0105,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Mindshare Norway AS|14,156.00 NOK|[0](https://www.snap.com/political-ads/asset/6d3e514f5c370993fc3e54813e6fbe04717649b0adc16412e98f3b4a822161be?mediaType=mp4)|706,940||18+|norway|
-|Mindshare Norway AS|13,923.00 NOK|[1](https://www.snap.com/political-ads/asset/cb670343359da365035d4561b28ed4b8d8b8f8db7a121cd9567a762a9dc91db6?mediaType=mp4)|695,141||18+|norway|
-|Mindshare Norway AS|13,193.00 NOK|[2](https://www.snap.com/political-ads/asset/4a9d1534322e64f887b631d1e642fbc91ee91c2a045e7b5675bd3bfed3ad308b?mediaType=mp4)|657,587||18+|norway|
+|Mindshare Norway AS|5,065.00 NOK|[0](https://www.snap.com/political-ads/asset/95fbd5a11c540168e873dcf56a1cc83199400231b6f377b8b98a0d6f918d2baa?mediaType=mp4)|68,629||18+|norway|
+|Mindshare Norway AS|4,934.00 NOK|[1](https://www.snap.com/political-ads/asset/cf259d796baa04c41d2d705ef429ee2780ceba760ef6dcf369dfb20ef3a5e3d5?mediaType=mp4)|63,873||18+|norway|
