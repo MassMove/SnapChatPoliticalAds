@@ -154,6 +154,6 @@
 |yourimpactfdn|0.00 GBP|[144](https://www.snap.com/political-ads/asset/597be7e6f3ed0db4136d9520ebe6c3505b78bc549a2a5d5e5a354b8c27c8e5cd?mediaType=jpg)|2||20+|united states|
 |yourimpactfdn|0.00 GBP|[145](https://www.snap.com/political-ads/asset/597be7e6f3ed0db4136d9520ebe6c3505b78bc549a2a5d5e5a354b8c27c8e5cd?mediaType=jpg)|2||20+|united states|
 |yourimpactfdn|0.00 GBP|[146](https://www.snap.com/political-ads/asset/6618000a25f61e4b14223fdd04d0ebf0198973c301ebce2154b8a63a3e61bdae?mediaType=mp4)|2||20+|united states|
-|yourimpactfdn|0.00 GBP|[147](https://www.snap.com/political-ads/asset/58deb736109d32282af9e37f747b7a58e283732a8f79371bd66056b8792b6aa5?mediaType=mp4)|1||20+|united kingdom|
-|yourimpactfdn|0.00 GBP|[148](https://www.snap.com/political-ads/asset/58deb736109d32282af9e37f747b7a58e283732a8f79371bd66056b8792b6aa5?mediaType=mp4)|1||20+|united states|
+|yourimpactfdn|0.00 GBP|[147](https://www.snap.com/political-ads/asset/58deb736109d32282af9e37f747b7a58e283732a8f79371bd66056b8792b6aa5?mediaType=mp4)|1||20+|united states|
+|yourimpactfdn|0.00 GBP|[148](https://www.snap.com/political-ads/asset/58deb736109d32282af9e37f747b7a58e283732a8f79371bd66056b8792b6aa5?mediaType=mp4)|1||20+|united kingdom|
 |yourimpactfdn|0.00 GBP|[149](https://www.snap.com/political-ads/asset/6618000a25f61e4b14223fdd04d0ebf0198973c301ebce2154b8a63a3e61bdae?mediaType=mp4)|1||20+|united states|

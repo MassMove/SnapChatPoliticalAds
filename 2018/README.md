@@ -1,7 +1,7 @@
 ## 2018 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[SIG](SIG.md) - Dentsu France|23,454.00 EUR|20,803,405|FEMALE|18-24, 18+|france|
+|[SIG](SIG.md) - Dentsu France|23,454.00 EUR|20,803,405|FEMALE|18+, 18-24|france|
 |[NextGen America](NextGen_America.md) - Bully Pulpit Interactive|98,636.00 USD|18,590,894||18-34|united states|
 |[Show Up To Vote](Show_Up_To_Vote.md) - ACRONYM|66,733.00 USD|16,455,877|FEMALE, MALE|18+|united states|
 |[Knock The Vote](Knock_The_Vote.md) - ACRONYM|60,916.00 USD|15,591,968||18-28, 18-34|united states|
@@ -22,7 +22,7 @@
 |[Make Good Decisions](Make_Good_Decisions.md) - Emmis Communcations|8,946.00 USD|5,084,439||18-20|united states|
 |[Paid For by Trooien For USSenate](Paid_For_by_Trooien_For_USSenate.md) - LoudDoor  LLC|10,555.00 USD|4,159,265||18+|united states|
 |[Mouvement Réformateur](Mouvement_Réformateur.md) - Mouvement Réformateur|4,954.00 EUR|3,600,057||18-24|belgium|
-|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media|10,282.00 USD|3,590,345|FEMALE|15-19, 18-24, 18-25, 18+, 25+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|10,282.00 USD|3,590,345|FEMALE|15-19, 18+, 18-24, 18-25, 25+|united states|
 |[Nevada Conservation League PAC](Nevada_Conservation_League_PAC.md) - Break Something|23,742.00 USD|3,452,533||18+|united states|
 |[Lieutenant Governor's Office](Lieutenant_Governor's_Office.md) - Penna Powers|7,992.00 USD|3,335,544||18-34|united states|
 |[Pete King for Congress](Pete_King_for_Congress.md) - Congressman Pete King|8,437.00 USD|3,143,956||18+|united states|
@@ -30,7 +30,7 @@
 |[DCCC](DCCC.md) - Democratic Congressional Campaign Committee|18,173.00 USD|2,919,379||18+|united states|
 |[The Ohio Democratic Party](The_Ohio_Democratic_Party.md) - Ohio Democratic Party|7,580.00 USD|2,734,832|FEMALE|18-23|united states|
 |[WSPS](WSPS.md) - Cossette Health Inc.|5,000.00 CAD|2,691,949||16-22|canada|
-|[Voto Latino](Voto_Latino.md) - Mothership Strategies|8,380.00 USD|2,553,800||18-25, 18-34, 18+|united states|
+|[Voto Latino](Voto_Latino.md) - Mothership Strategies|8,380.00 USD|2,553,800||18+, 18-25, 18-34|united states|
 |[CDPHE](CDPHE.md) - Amélie Company|6,825.00 USD|2,272,441|FEMALE|15+, 20-, 21+|united states|
 |[British Army](British_Army.md) - Manning Gottlieb OMD - OmniGOV|4,923.00 GBP|2,158,576||25+|united kingdom|
 |[Alberta Health Services](Alberta_Health_Services.md) - Kick Media Inc.|3,973.00 CAD|2,125,332||16-25|canada|
@@ -41,17 +41,17 @@
 |[First Nations Health Authority](First_Nations_Health_Authority.md) - First Nations Health Authority|4,020.00 CAD|1,786,395||34-|canada|
 |[NAMI](NAMI.md) - National Alliance on Mental Illness|6,295.00 USD|1,666,871||18-20, 21-25, 26-30, 31-34, 35++|united states|
 |[Columbia/Boone Co Health Dept](Columbia_Boone_Co_Health_Dept.md) - Columbia/Boone County Department of Public Health and Human Services|2,897.00 USD|1,567,430|||united states|
-|[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media|6,005.00 USD|1,522,367|FEMALE|18-25, 18+|united states|
+|[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media|6,005.00 USD|1,522,367|FEMALE|18+, 18-25|united states|
 |[Our Lives Our Vote](Our_Lives_Our_Vote.md) - ACRONYM|4,081.00 USD|1,205,703||18-28|united states|
 |[King County Elections](King_County_Elections.md) - Mammoth|2,551.00 USD|1,196,776||18+|united states|
 |[Likewise Media](Likewise_Media.md) - ACRONYM|2,499.00 USD|1,110,812||18+|united states|
-|[Amnesty International](Amnesty_International.md) - Amnesty International Switzerland|1,214.00 EUR|993,308||18-22, 18+|switzerland|
+|[Amnesty International](Amnesty_International.md) - Amnesty International Switzerland|1,214.00 EUR|993,308||18+, 18-22|switzerland|
 |[Florida Democratic Party](Florida_Democratic_Party.md) - GPS Impact|3,706.00 USD|972,310||18+|united states|
 |[DoSomething.org](DoSomething.org.md) - Do Something  Inc.|2,420.00 USD|823,055||18-20|united states|
 |[Sundhedsstyrelsen](Sundhedsstyrelsen.md) - Reprise Media|2,008.00 EUR|804,011||19-19|denmark|
 |[Missouri Secretary of State](Missouri_Secretary_of_State.md) - Bucket Media Inc.|1,721.00 USD|802,812||18+|united states|
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Choice Creative Solutions|1,700.00 USD|789,334||18+|united states|
-|[OpenPoll](OpenPoll.md) - OpenPoll Inc|2,723.00 USD|768,749||17-29, 17+, 18-23, 18-29, 18+|united states|
+|[OpenPoll](OpenPoll.md) - OpenPoll Inc|2,723.00 USD|768,749||17+, 17-29, 18+, 18-23, 18-29|united states|
 |[AFSCME Nevada](AFSCME_Nevada.md) - Blueprint Interactive|4,610.00 USD|761,408||18+|united states|
 |[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|3,647.00 USD|725,384|FEMALE|18+|united states|
 |[Amnesty International UK](Amnesty_International_UK.md) - Amnesty International UK|1,281.00 GBP|703,862||18-24, 25+|united kingdom|
@@ -85,7 +85,7 @@
 |[SDM](SDM.md) - LPM|362.00 USD|209,651||26+|nigeria|
 |[Friends for Sydney Batch](Friends_for_Sydney_Batch.md) - Friends For Sydney Batch|639.00 USD|203,837||18+|united states|
 |[Fianna Fáil](Fianna_Fáil.md) - Fianna Fáil|256.00 EUR|173,508||18-24|ireland, united kingdom|
-|[House Victory Committee](House_Victory_Committee.md) - House Victory Committee|387.00 USD|158,971||18-30, 18+|united states|
+|[House Victory Committee](House_Victory_Committee.md) - House Victory Committee|387.00 USD|158,971||18+, 18-30|united states|
 |[NSW Advocate for Children & YP](NSW_Advocate_for_Children_&_YP.md) - ACYP|350.00 AUD|158,924||16-24|australia|
 |[ItAllCounts Pty Ltd](ItAllCounts_Pty_Ltd.md) - ItAllCounts Pty Ltd|619.00 AUD|152,633|FEMALE, MALE|30+, 35++|australia|
 |[Vera Institute of Justice](Vera_Institute_of_Justice.md) - Vera Institute of Justice|992.00 USD|148,163||22+|united states|
@@ -106,7 +106,7 @@
 |[Hospital Workers Rising](Hospital_Workers_Rising.md) - SEIU Healthcare PA|217.00 USD|58,544||19-27|united states|
 |[North Dakota Republican Party](North_Dakota_Republican_Party.md) - North Dakota Republican Party|293.00 USD|55,071||17+|united states|
 |[Murtaugh for Congress](Murtaugh_for_Congress.md) - Murtaugh for Congress|111.00 USD|51,966||18+|united states|
-|[ResTri Student Advocacy](ResTri_Student_Advocacy.md) - Research Triangle Student Advocacy|81.00 USD|36,069|FEMALE|18-34, 18+|united states|
+|[ResTri Student Advocacy](ResTri_Student_Advocacy.md) - Research Triangle Student Advocacy|81.00 USD|36,069|FEMALE|18+, 18-34|united states|
 |[West Sussex CC](West_Sussex_CC.md) - Digital Conversion|47.00 GBP|24,629||18-24|united kingdom|
 |[Students for Trump](Students_for_Trump.md) - OpenPoll Inc|73.00 USD|22,659||18-26|united states|
 |[Chuck Clemons for FL House](Chuck_Clemons_for_FL_House.md) - Chuck Clemons for Florida House District 21|66.00 USD|22,167||17+|united states|

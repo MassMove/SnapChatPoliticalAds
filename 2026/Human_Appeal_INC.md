@@ -476,8 +476,8 @@
 |Human Appeal USA|0.00 USD|[482](https://www.snap.com/political-ads/asset/f53f9d8774f2f8dba460d0dfeb64933cecd8b57439bf7119ec8a8516c87e7f8e?mediaType=mp4)|6||24+|united states|
 |Human Appeal USA|0.00 USD|[483](https://www.snap.com/political-ads/asset/07e439328b5f13d778411b0db6de26559de90d5d24c891732df61e19daa8002e?mediaType=mp4)|5||26+|united states|
 |Human Appeal USA|0.00 USD|[484](https://www.snap.com/political-ads/asset/31d88960b3516b13aa0911f72478fdbefd2d3f8d2ed062d3bde7fe8649ced9ae?mediaType=mp4)|5||25-50|united states|
-|Human Appeal USA|0.00 USD|[485](https://www.snap.com/political-ads/asset/4b873688aa6a492747da7c23cb01e10eae10599e1876bb3bb3139fd49865e0ca?mediaType=mp4)|5||25-50|united states|
-|Human Appeal USA|0.00 USD|[486](https://www.snap.com/political-ads/asset/4b873688aa6a492747da7c23cb01e10eae10599e1876bb3bb3139fd49865e0ca?mediaType=mp4)|5||26+|united states|
+|Human Appeal USA|0.00 USD|[485](https://www.snap.com/political-ads/asset/4b873688aa6a492747da7c23cb01e10eae10599e1876bb3bb3139fd49865e0ca?mediaType=mp4)|5||26+|united states|
+|Human Appeal USA|0.00 USD|[486](https://www.snap.com/political-ads/asset/4b873688aa6a492747da7c23cb01e10eae10599e1876bb3bb3139fd49865e0ca?mediaType=mp4)|5||25-50|united states|
 |Human Appeal USA|0.00 USD|[487](https://www.snap.com/political-ads/asset/57851a105e7ebea1031f75087f3beeb65f38d6dd32b28b2423084cfa2653f806?mediaType=mp4)|5||25-50|united states|
 |Human Appeal USA|0.00 USD|[488](https://www.snap.com/political-ads/asset/648738ee75317af72d10543e0f8f783235794b3a140dfd75949121eafcdc792e?mediaType=mp4)|5||25-50|united states|
 |Human Appeal USA|0.00 USD|[489](https://www.snap.com/political-ads/asset/7bdbeee982c2338f6d1baf299a77dbfda9cd486d452b7dc178eee14087c0cd27?mediaType=mp4)|5||25-50|united states|
