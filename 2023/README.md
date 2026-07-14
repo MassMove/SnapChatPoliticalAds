@@ -7,7 +7,7 @@
 |[Planned Parenthood](Planned_Parenthood.md) - ZAMBEZI: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18-26, 18-29, 18-30, 18-34, 18-35, 18+|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18-44, 18+, 25+|united states|
-|[MESRI](MESRI.md) - Dentsu Aegis Network France|23,375.00 EUR|25,279,314||20-30|france|
+|[MESRI](MESRI.md) - Dentsu France|23,375.00 EUR|25,279,314||20-30|france|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|47,500.00 EUR|21,605,615||18-26, 18+|norway|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Fylkestingsvalget 2023, Hoda skolemat|527,188.00 NOK|19,930,616|FEMALE, MALE|16-23, 17+, 18-30, 18-40, 18-45, 18+, 25-45, 30-, 30+, 35+|norway|
 |[Høyre](Høyre.md) - Amidays|1,437,774.00 NOK|19,655,696||18-25, 18-30, 18+, 25-45, 25+, 30-49, 30+|norway|
@@ -30,12 +30,12 @@
 |[Climate Power](Climate_Power.md) - Bully Pulpit Interactive|77,971.00 USD|7,281,558|FEMALE|18-30|united states|
 |[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.|63,887.00 USD|6,804,065||18+|united states|
 |[Sierra Club](Sierra_Club.md) - Sierra Club: Plastic Pollution|38,513.00 USD|6,741,775|||united states|
-|[Elections Alberta](Elections_Alberta.md) - DDB Edmonton Media|19,998.00 CAD|6,648,545||18+|canada|
+|[Elections Alberta](Elections_Alberta.md) - TBWA Canada|19,998.00 CAD|6,648,545||18+|canada|
 |[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: Matt Dugan, Paul Vallas|17,799.00 USD|6,578,259|||united states|
 |[Venstre](Venstre.md) - Venstre: Ole Martini, Venstre|180,947.00 NOK|6,554,166||17-22, 18-27, 18-29, 18-30, 18-35, 18-49, 18+, 22+, 26+, 30+|norway|
 |[Life ONG](Life_ONG.md) - LIFE ONG|15,153.00 EUR|6,212,840||25+|france|
 |[National Human Rights Committee](National_Human_Rights_Committee.md) - Boldadvert|8,104.00 USD|6,025,843|FEMALE|18+|qatar|
-|[Commonwealth Communications](Commonwealth_Communications.md) - GPS Impact: PA Supreme Court Race|25,216.00 USD|5,709,765||18-25, 18+, 44-|united states|
+|[Commonwealth Communications](Commonwealth_Communications.md) - Do Big Things: PA Supreme Court Race|25,216.00 USD|5,709,765||18-25, 18+, 44-|united states|
 |[PPAWI Political Fund](PPAWI_Political_Fund.md) - Planned Parenthood Advocates of Wisconsin: Dan Kelly|19,498.00 USD|5,603,632||18+|united states|
 |[Voice of Kuwait](Voice_of_Kuwait.md) - BPG KUWAIT: Voice of Kuwait|5,344.00 USD|5,593,479||21+|kuwait|
 |[VVD](VVD.md) - Volkspartij voor Vrijheid en Democratie|13,765.00 EUR|5,236,512||18+|netherlands|
@@ -143,7 +143,8 @@
 |[Fagforbundet Oslo](Fagforbundet_Oslo.md) - Try Schjærven Media|14,998.00 NOK|619,807||18+|norway|
 |[Electoral Commission NI](Electoral_Commission_NI.md) - Belfast Metropolitan College|1,990.00 GBP|615,471||18-34, 35+|united kingdom|
 |[Life Choices Center](Life_Choices_Center.md) - Ad Elements: Life Choices Center|1,169.00 USD|605,303|FEMALE|30-, 32-, 33-|united states|
-|[مخلد العازمي](مخلد_العازمي.md) - kuwaitalazmi|1,332.00 USD|566,169||21+|kuwait|
+|[Trøndelag Arbeiderparti](Trøndelag_Arbeiderparti.md) - Trøndelag Arbeiderparti: Arbeiderpartiet|67,759.00 NOK|604,593||18-35, 18+, 35+|norway|
+|[مخلد العازمي](مخلد_العازمي.md) - kuwaitaomh|1,332.00 USD|566,169||21+|kuwait|
 |[Nordre Follo Venstre](Nordre_Follo_Venstre.md) - Nordre Follo Venstre: Abid Raja med Camilla, Camilla Fem Gode Grunner, Valget 2023 Kampanjer|28,728.00 NOK|552,238||18-30, 18+, 25-37, 25+, 30+|norway|
 |[Elevate Women's Center](Elevate_Women's_Center.md) - Choose Life Marketing|2,263.00 USD|549,426|FEMALE|27-|united states|
 |[Octi AS](Octi_AS.md) - Trygg Media AS: Trondelag Fylkeskommune|15,724.00 NOK|543,256||18-24, 30+|norway|
@@ -152,7 +153,6 @@
 |[Priorities USA](Priorities_USA.md) - Priorities USA Action|9,958.00 USD|499,568||18+|united states|
 |[Montanans for Tester](Montanans_for_Tester.md) - Gambit Strategies|5,685.00 USD|497,488||18+|united states|
 |[WWF Suomi](WWF_Suomi.md) - Marketing Clinic|686.00 EUR|491,585||18-18|finland|
-|[Trøndelag Arbeiderparti](Trøndelag_Arbeiderparti.md) - Trøndelag Arbeiderparti: Arbeiderpartiet|50,598.00 NOK|491,016||18-35, 18+|norway|
 |[March for Our LIves](March_for_Our_LIves.md) - FOGLAMP|2,497.00 USD|489,605||18+|united states|
 |[Drammen Høyre](Drammen_Høyre.md) - Drammen Høyre|34,990.00 NOK|481,595||18-30, 18-49, 18+, 30+|norway|
 |[Wilderness Society Action Fund](Wilderness_Society_Action_Fund.md) - The Wilderness Society Action Fund|5,978.00 USD|463,904||18+|united states|

@@ -3,7 +3,7 @@
 
 **Impressions**: 281,732
 
-**Billing Addresses**: Vestre Svanholmen 4,Sandnes,4313,NO
+**Billing Addresses**: Olav Kyrres gate 21,Stavanger,4005,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

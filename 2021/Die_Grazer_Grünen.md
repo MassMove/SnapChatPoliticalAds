@@ -3,7 +3,7 @@
 
 **Impressions**: 2,068,741
 
-**Billing Addresses**: Lendplatz 40,Graz,8020,AT
+**Billing Addresses**: Hans-Sachs-Gasse 12,Graz,8010,AT
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

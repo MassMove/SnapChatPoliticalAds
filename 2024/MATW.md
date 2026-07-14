@@ -1,13 +1,13 @@
 ## 2024 - MATW 
-**Spent**: 429,077.00
+**Spent**: 482,475.00
 
-**Impressions**: 48,603,965
+**Impressions**: 51,683,991
 
 **Billing Addresses**: AE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|MATW Project|81,157.00 AUD|[0](https://www.snap.com/political-ads/asset/436b767ab1ab5b1af00d2d91c565d8c235f7979c9cbde998e0086df943825af2?mediaType=mp4)|5,134,058||20+|australia|
+|MATW Project|134,555.00 AUD|[0](https://www.snap.com/political-ads/asset/436b767ab1ab5b1af00d2d91c565d8c235f7979c9cbde998e0086df943825af2?mediaType=mp4)|8,214,084||20+|australia|
 |MATW Project|19,403.00 AUD|[1](https://www.snap.com/political-ads/asset/9f27ac7e9b6d67f256da844ca0ff2ea2ac181c4dcb208fa3577f094c8c9360f7?mediaType=jpeg)|2,956,297||18+|australia|
 |MATW Project: Not Applicable|1,333.00 AUD|[2](https://www.snap.com/political-ads/asset/70feffbe8c30216ce32aa66775fbdc24aca5e9aaf2cc336806552147467f3295?mediaType=mp4)|2,222,677||22+|united kingdom|
 |MATW Project|13,977.00 AUD|[3](https://www.snap.com/political-ads/asset/d282dd9db05f631f0ed97a32410b6128eef07cbf2c8db37b5db84d49433e188e?mediaType=jpg)|2,117,439||18+|united kingdom|
@@ -33,7 +33,7 @@
 |MATW Project: Not Applicable|3,598.00 AUD|[23](https://www.snap.com/political-ads/asset/bc1e8112f6936ecaa2e62db1f0b6a603896970f1f4c9e596ce4e8c295471ce9c?mediaType=mp4)|416,920||24+|australia|
 |MATW Project|3,151.00 AUD|[24](https://www.snap.com/political-ads/asset/e3dafbfe79225993e10eb035b22d9c569ec2f4456c37469837c72662ace4d3a6?mediaType=mp4)|415,181||24+|united kingdom|
 |MATW Project|3,592.00 AUD|[25](https://www.snap.com/political-ads/asset/e3dafbfe79225993e10eb035b22d9c569ec2f4456c37469837c72662ace4d3a6?mediaType=mp4)|414,527||24+|united kingdom|
-|MATW Project: Australia|77.00 AUD|[26](null)|372,932|||australia|
+|MATW Project: Australia|77.00 AUD|[26](null)|372,932||16+|australia|
 |MATW Project|2,199.00 AUD|[27](https://www.snap.com/political-ads/asset/6c5ca5e1498ca76ec14163f2c919365a02f42b542bed2ed486c917e49941be74?mediaType=mp4)|368,180||24+|united kingdom|
 |MATW Project|2,577.00 AUD|[28](https://www.snap.com/political-ads/asset/78406c2f9ce376d2c668ae2b98f6fedad33d5c1fb9af7ac598c9734c5bb85ef1?mediaType=mp4)|340,353||24+|united kingdom|
 |MATW Project|3,458.00 AUD|[29](https://www.snap.com/political-ads/asset/6c5ca5e1498ca76ec14163f2c919365a02f42b542bed2ed486c917e49941be74?mediaType=mp4)|312,619||24+|united kingdom|
@@ -45,7 +45,7 @@
 |MATW Project|2,956.00 AUD|[35](https://www.snap.com/political-ads/asset/a04c6a677cd28b55a14cf5662592fa6eb867520728260f944872d9f196de7d01?mediaType=mp4)|258,667||24+|united kingdom|
 |MATW Project: Not Applicable|2,124.00 AUD|[36](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|244,398||24+|united kingdom|
 |MATW Project|2,433.00 AUD|[37](https://www.snap.com/political-ads/asset/6c5ca5e1498ca76ec14163f2c919365a02f42b542bed2ed486c917e49941be74?mediaType=mp4)|240,641||24+|united kingdom|
-|MATW Project: Australia|42.00 AUD|[38](null)|239,032|||australia|
+|MATW Project: Australia|42.00 AUD|[38](null)|239,032||16+|australia|
 |MATW Project: Not Applicable|5,070.00 AUD|[39](https://www.snap.com/political-ads/asset/6fa81ca79118c7fade21c2e01417461fabfea64ff4f1cce080bf7d48b031b8bd?mediaType=mp4)|214,571||24+|united states|
 |MATW Project: Not Applicable|1,745.00 AUD|[40](https://www.snap.com/political-ads/asset/80004678ae933d0e49d58e8e9962137df48d7ff7b5b8a8ba8ba544052db76199?mediaType=png)|207,886||24+|united kingdom|
 |MATW Project: Not Applicable|1,604.00 AUD|[41](https://www.snap.com/political-ads/asset/a22335ee9a1f17c8959aa37cfac3fa15c1354d19276a24427c4a7d9ffc6b1b2b?mediaType=png)|207,698||24+|united kingdom|
@@ -57,7 +57,7 @@
 |MATW Project: Not Applicable|1,800.00 AUD|[47](https://www.snap.com/political-ads/asset/1db6a6e28ce7e16ee259f57be9cfe70f3998bf8563688c9982995287a21b471c?mediaType=mp4)|180,622||24+|australia|
 |MATW Project|1,601.00 AUD|[48](https://www.snap.com/political-ads/asset/78406c2f9ce376d2c668ae2b98f6fedad33d5c1fb9af7ac598c9734c5bb85ef1?mediaType=mp4)|172,968||24+|united kingdom|
 |MATW Project: Not Applicable|1,837.00 AUD|[49](https://www.snap.com/political-ads/asset/3cfca1e432304c4a5c973536e21e8cd390a0092bbf06380c2c87cf94f94f5c37?mediaType=jpeg)|169,505||24+|australia|
-|MATW Project: Australia|30.00 AUD||166,727|||australia|
+|MATW Project: Australia|30.00 AUD||166,727||16+|australia|
 |MATW Project: Not Applicable|1,404.00 AUD|[51](https://www.snap.com/political-ads/asset/3eefa3d0cb222599355390ad5686c97792fdee091e1eb75780101f9c680fa0c1?mediaType=mp4)|156,645||24+|united kingdom|
 |MATW Project: Not Applicable|1,681.00 AUD|[52](https://www.snap.com/political-ads/asset/ac8540a84c25d37c85a05e56c25e8a097f078d8410a91338b20b4b8371536377?mediaType=mp4)|156,314||24+|australia|
 |MATW Project: Not Applicable|3,207.00 AUD|[53](https://www.snap.com/political-ads/asset/d66e81c544ff12570888f8010e9a29afd17f9cd00129a50411fb26738268bc44?mediaType=png)|152,807||24+|united states|
@@ -692,8 +692,8 @@
 |MATW Project|0.00 AUD|[682](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|61||24+|united states|
 |MATW Project|0.00 AUD|[683](https://www.snap.com/political-ads/asset/cbce4c5b926efa398c2381995b8a86d354b353e60107b6deeeb58a482864c5d8?mediaType=jpeg)|59||24+|united kingdom|
 |MATW Project|0.00 AUD|[684](https://www.snap.com/political-ads/asset/106b086e97701424cec442e3abc46a4dc8349995b3fe32dcbf83eb1ea11b9e96?mediaType=mp4)|58||24+|united kingdom|
-|MATW Project|0.00 AUD|[685](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|united kingdom|
-|MATW Project|0.00 AUD|[686](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|australia|
+|MATW Project|0.00 AUD|[685](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|australia|
+|MATW Project|0.00 AUD|[686](https://www.snap.com/political-ads/asset/24107fa4a8ce805d755933c7365e7aa9380ff010c6c6d1836ab8a6e1ad3ca42f?mediaType=mp4)|57||24+|united kingdom|
 |MATW Project|0.00 AUD|[687](https://www.snap.com/political-ads/asset/2f309fc557b6b3faeb5856199a4708503eaa6908d81319d67b9a853a878a7db6?mediaType=jpeg)|56||24+|united kingdom|
 |MATW Project|0.00 AUD|[688](https://www.snap.com/political-ads/asset/3f7fdacc1978161e7b838b39d4030f6963b7702cae65d59a62842d3d21e3d0ba?mediaType=png)|54||24+|united states|
 |MATW Project|2.00 AUD|[689](https://www.snap.com/political-ads/asset/ce01e3aba9329516b78c30c738edb9f6ea47a762755e25788e886cbe53eed889?mediaType=mp4)|53||24+|united arab emirates|

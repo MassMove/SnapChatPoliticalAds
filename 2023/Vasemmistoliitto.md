@@ -3,7 +3,7 @@
 
 **Impressions**: 798,154
 
-**Billing Addresses**: Tacenska cesta 26,Ljubljana,1210,SI
+**Billing Addresses**: Annankatu 28,Helsinki,00100,FI
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

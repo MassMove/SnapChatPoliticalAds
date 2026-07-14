@@ -7,4 +7,4 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|The Media Precinct|111.00 AUD|[0](https://www.snap.com/political-ads/asset/a9407f428b9094c77eeac75a6303804b7f1cb5e7e037b141b259542209402d9e?mediaType=mp4)|285,736|||australia|
+|The Media Precinct|111.00 AUD|[0](https://www.snap.com/political-ads/asset/a9407f428b9094c77eeac75a6303804b7f1cb5e7e037b141b259542209402d9e?mediaType=mp4)|285,736||16+|australia|

@@ -3,7 +3,7 @@
 
 **Impressions**: 4,717,308
 
-**Billing Addresses**: Skur 41 Vippetangen,Oslo,0150 ,NO
+**Billing Addresses**: Kongens gate 2,Oslo,0153,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

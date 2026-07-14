@@ -7,9 +7,9 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Australian Labor Party: Australian Labor Party|396.00 AUD|[0](https://www.snap.com/political-ads/asset/aa5ae4d5beb1517a42f3bd5770b62220d25eb6e2e555d0cc757a08ac2e4350a1?mediaType=png)|248,622||25-|australia|
-|Australian Labor Party: Australian Labor Party|329.00 AUD|[1](https://www.snap.com/political-ads/asset/9aecd8ff97a498e8c5db41f89321abc8d44ba241abb032dbee0c9b760d1bee7f?mediaType=png)|170,377||25-|australia|
-|Australian Labor Party: Australian Labor Party|273.00 AUD|[2](https://www.snap.com/political-ads/asset/cef792fe8ccf5c0301bb9854b6916e787bcf34bfb51e50753b98c5d3e2a10b69?mediaType=png)|140,934||25-|australia|
+|Australian Labor Party: Australian Labor Party|396.00 AUD|[0](https://www.snap.com/political-ads/asset/aa5ae4d5beb1517a42f3bd5770b62220d25eb6e2e555d0cc757a08ac2e4350a1?mediaType=png)|248,622||16-25|australia|
+|Australian Labor Party: Australian Labor Party|329.00 AUD|[1](https://www.snap.com/political-ads/asset/9aecd8ff97a498e8c5db41f89321abc8d44ba241abb032dbee0c9b760d1bee7f?mediaType=png)|170,377||16-25|australia|
+|Australian Labor Party: Australian Labor Party|273.00 AUD|[2](https://www.snap.com/political-ads/asset/cef792fe8ccf5c0301bb9854b6916e787bcf34bfb51e50753b98c5d3e2a10b69?mediaType=png)|140,934||16-25|australia|
 |Australian Labor Party: Australian Labor Party VIC Branch|1,490.00 AUD|[3](https://www.snap.com/political-ads/asset/7323cf30b4a442d6890b23f89979de6a08aa3fa118ebe1a76dc9ac6a5b12dded?mediaType=png)|87,632||18-26|australia|
 |Australian Labor Party: Australian Labor Party|363.00 AUD|[4](https://www.snap.com/political-ads/asset/24c77f8f757177c45aa5420071ccac19cb7ef7735de5fc74927722d1781b5055?mediaType=png)|80,302||18-25|australia|
 |Australian Labor Party: Australian Labor Party|332.00 AUD|[5](https://www.snap.com/political-ads/asset/00e8ae881387bd86601e95b08b23ca7da15b40a48d848cc3ac45674b48fef5e4?mediaType=png)|69,363||18-25|australia|

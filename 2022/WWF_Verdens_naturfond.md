@@ -3,7 +3,7 @@
 
 **Impressions**: 1,790,664
 
-**Billing Addresses**: Postboks 8824 Youngstorget,Oslo,0028,NO
+**Billing Addresses**: Kongens gate 6, Postboks 740 Sentrum,Oslo,0105,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

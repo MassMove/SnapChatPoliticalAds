@@ -1,0 +1,97 @@
+## 2025 - SOS-barnebyer 
+**Spent**: 874,827.00
+
+**Impressions**: 73,984,551
+
+**Billing Addresses**: Johanna Wolls Väg 18, 2XL Online,Kävlinge,24436,SE
+
+|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
+|:---|---:|:---|---:|:---|:---|:---|
+|2XL Online|247,826.00 NOK|[0](https://www.snap.com/political-ads/asset/6d451ac166ed22ed0257051fb60ac356709891e4fda621aa06709e0fd8ebf6bc?mediaType=jpeg)|16,585,759||18+|norway|
+|2XL Online|78,893.00 NOK|[1](https://www.snap.com/political-ads/asset/edda786b1da174e7f672e59945656dc7527b21b6935f4af7a1a1770984637b05?mediaType=jpeg)|7,947,552||18+|norway|
+|2XL Online|76,559.00 NOK|[2](https://www.snap.com/political-ads/asset/451e97bc668f89cb04fb45e7d2873a1e36bcd0050e410b1452286d3ece2bc93d?mediaType=jpeg)|6,539,713||18+|norway|
+|2XL Online|27,754.00 NOK|[3](https://www.snap.com/political-ads/asset/2abd9e537b853b53d29112f370fdd9f7a2f336b866560e76f450c015519f5363?mediaType=jpeg)|4,049,127||18+|norway|
+|2XL Online|57,742.00 NOK|[4](https://www.snap.com/political-ads/asset/94049192a0c5aca33748d08b7832e161850bc6c7d655407bed8bdbd8c5cb94bc?mediaType=jpeg)|3,461,692||18+|norway|
+|2XL Online|35,284.00 NOK|[5](https://www.snap.com/political-ads/asset/9d429186c496d4b7ea5d67f7e950af23d0dca5f57cacdff817669cea316a0baf?mediaType=jpeg)|2,630,116||18+|norway|
+|2XL Online|17,885.00 NOK|[6](https://www.snap.com/political-ads/asset/fd71279b9b3fcff412adb2c25aca3f8bcb4c117e215be362936022246aa0cb28?mediaType=jpeg)|2,402,871||18+|norway|
+|2XL Online|15,818.00 NOK|[7](https://www.snap.com/political-ads/asset/0adf137ac19adeee699605d1411c7e7b34c181e6e7f5f68050028d9a26331c09?mediaType=png)|2,365,757||18+|norway|
+|2XL Online|16,345.00 NOK|[8](https://www.snap.com/political-ads/asset/e4c945b6af44e3909b95eee81ce824cafc0db8d3ffed5ed1da757d95cc53a97d?mediaType=mp4)|2,111,670||18+|norway|
+|2XL Online|17,351.00 NOK|[9](https://www.snap.com/political-ads/asset/8920f037a5938f195d350d02e9652e76a9e7b8e44eb2833022d0c36ce6e250bd?mediaType=mp4)|2,079,982||18+|norway|
+|2XL Online|14,603.00 NOK|[10](https://www.snap.com/political-ads/asset/e5eea476534fa90c7bad2bfdf1affe6ca0716112c9028f37ed97ca4727c26680?mediaType=jpeg)|1,809,249||18+|norway|
+|2XL Online|24,225.00 NOK|[11](https://www.snap.com/political-ads/asset/ce34d98be7934f399bd61c7434b2c654bc8c0485f70cab8c2ead7d82dd6813e2?mediaType=jpeg)|1,716,814||18+|norway|
+|2XL Online|19,310.00 NOK|[12](https://www.snap.com/political-ads/asset/96103f67660f2dd031db9aacdc4fb12a7b4b704693027ff4f5c71fabac895be2?mediaType=mp4)|1,643,434||18+|norway|
+|2XL Online|15,655.00 NOK|[13](https://www.snap.com/political-ads/asset/3e567b26f87409d7c32a5175867d004e60d718e5659e8218c137843cae4586d3?mediaType=jpeg)|1,458,078||18+|norway|
+|2XL Online|7,801.00 NOK|[14](https://www.snap.com/political-ads/asset/afd4130c22c138d8d4cff1e431b9ec020c71460e6a441b3471b9a9d302a348d5?mediaType=png)|1,374,861||18+|norway|
+|2XL Online|5,457.00 NOK|[15](https://www.snap.com/political-ads/asset/20838b5c51e55b52970a3b99575ddf3eed39a92736b504ecdbe7c76392fee38e?mediaType=jpeg)|1,238,015||18+|norway|
+|2XL Online|12,708.00 NOK|[16](https://www.snap.com/political-ads/asset/4390acf30eba688e4acfe806c2eea672ce6620410b5b55726295c6de5fcfbee9?mediaType=jpeg)|1,098,356||18+|norway|
+|2XL Online|10,183.00 NOK|[17](https://www.snap.com/political-ads/asset/ad98ac60ecc8abf5330bdbedc5a12d56f70fc12120bba5a0665ee51b69d3633d?mediaType=mp4)|1,070,788||18+|norway|
+|2XL Online|6,641.00 NOK|[18](https://www.snap.com/political-ads/asset/d60fedb92769f42e94e6e509177523d489d4e0b909160736bb574ca340569c2e?mediaType=jpeg)|871,212||18+|norway|
+|2XL Online|11,290.00 NOK|[19](https://www.snap.com/political-ads/asset/a63210e3a65790e336aa41e414ecb7824c5a962baa1d3f2ee093b09dadd49020?mediaType=jpeg)|664,499||18+|norway|
+|2XL Online|4,307.00 NOK|[20](https://www.snap.com/political-ads/asset/8e2a6686ae9cc78f901b70933f01ac775701213b70b59d3d81d06515eceab03c?mediaType=png)|641,238||18+|norway|
+|2XL Online|6,967.00 NOK|[21](https://www.snap.com/political-ads/asset/5bbab908d055a373060abb4c2a5b6effa3c37dc55ea9540c02aa75ed9c276ea1?mediaType=jpeg)|637,027||18+|norway|
+|2XL Online|3,703.00 NOK|[22](https://www.snap.com/political-ads/asset/353191c93e315b1e2dfdcd3dbbbd313adba47d424f6f7b22fad84a531748d277?mediaType=jpeg)|606,029||18+|norway|
+|2XL Online|5,317.00 NOK|[23](https://www.snap.com/political-ads/asset/7188f69766643249eaa002332537b849cf306c87c93371464cc1463737cf8b26?mediaType=jpeg)|580,899||18+|norway|
+|2XL Online|3,991.00 NOK|[24](https://www.snap.com/political-ads/asset/4cfa3e05e6fe03a834f2cf8e0ec40871f3fbc5ad09c845917865c31f1f9c0753?mediaType=jpeg)|559,006||18+|norway|
+|2XL Online|6,867.00 NOK|[25](https://www.snap.com/political-ads/asset/bc0ff253550652f04f7d88e1324e63b28e73a1b6c7f1dfc0241c36a9c9731527?mediaType=jpeg)|541,082||18+|norway|
+|2XL Online|11,310.00 NOK|[26](https://www.snap.com/political-ads/asset/68263b5c176e81f6a109bcd66d151d29a1d72ec05c9ac4a9a824a3ff75bdff92?mediaType=png)|525,655||18+|norway|
+|2XL Online|2,380.00 NOK|[27](https://www.snap.com/political-ads/asset/d9580a376a8e30a6b046531f3875ca9e55f40099aa93d9cc4f0dd2d7671b2ab7?mediaType=png)|458,067||18+|norway|
+|2XL Online|5,470.00 NOK|[28](https://www.snap.com/political-ads/asset/a65024dc1929ab34279ccabff0fedd86da3ed96ac352009361b39ab6b69f5cb3?mediaType=mp4)|448,412||18+|norway|
+|2XL Online|8,991.00 NOK|[29](https://www.snap.com/political-ads/asset/66f7c1a81e1cf73852f08097dddfb9d1a91712752df4392e91685390c202f4a0?mediaType=jpeg)|359,416||18+|norway|
+|2XL Online|3,249.00 NOK|[30](https://www.snap.com/political-ads/asset/2de4ace06beea1e4a793b6705b0eeef807785ffe11a93236d9f584bd11cd7ea6?mediaType=jpeg)|339,060||18+|norway|
+|2XL Online|2,917.00 NOK|[31](https://www.snap.com/political-ads/asset/25e70de4b97ba23e679ada7e82889b743e701dd29c344e5de3208bf9cf521fc0?mediaType=jpeg)|325,974||18+|norway|
+|2XL Online|2,385.00 NOK|[32](https://www.snap.com/political-ads/asset/120ed657b61f56bd59454fdfe1951080c25e962053874f11868807bd4789e934?mediaType=jpeg)|289,594||18+|norway|
+|2XL Online|2,533.00 NOK|[33](https://www.snap.com/political-ads/asset/1e345bd8d9be17562ef15b512d377305b83543e3ccb5a18e9a016c7a5dde9d8c?mediaType=jpeg)|287,735||18+|norway|
+|2XL Online|2,137.00 NOK|[34](https://www.snap.com/political-ads/asset/4eb71671a72e4214d483f436fdce40958f14bc84779b3b5c60003a2a9b0dc184?mediaType=jpeg)|248,420||18+|norway|
+|2XL Online|1,957.00 NOK|[35](https://www.snap.com/political-ads/asset/0a9aa969f85c865276d79c1894c5e0509d61b0c4334b52cdb318748f5283d042?mediaType=jpeg)|241,790||18+|norway|
+|2XL Online|1,822.00 NOK|[36](https://www.snap.com/political-ads/asset/6a31041be701e3ff7ee5877fc58f9dff59f6e18064b96b26d85579b8166af829?mediaType=jpeg)|223,709||18+|norway|
+|2XL Online|2,681.00 NOK|[37](https://www.snap.com/political-ads/asset/8c65b6e84e8f62ae6633a72e8a26ac36ed838c6ce3b1cbab5f260a4c04fd5e03?mediaType=jpeg)|222,413||18+|norway|
+|2XL Online|2,239.00 NOK|[38](https://www.snap.com/political-ads/asset/d5daaeb8ba2a55b702e1e617062ff79ba88e73c50a8268f21c798e7d63a650d2?mediaType=jpeg)|215,698||18+|norway|
+|2XL Online|1,468.00 NOK|[39](https://www.snap.com/political-ads/asset/0233d4e751cae9e445873d0a49195d51fb7508ee9f5eb82f1534c19567e80515?mediaType=jpeg)|200,697||18+|norway|
+|2XL Online|2,470.00 NOK|[40](https://www.snap.com/political-ads/asset/87666561f73952337d2ea6574f3f6cd5c0c87b9214dc48b71796b150fa931415?mediaType=mp4)|192,630||18+|norway|
+|2XL Online|1,984.00 NOK|[41](https://www.snap.com/political-ads/asset/8c57d2aa983bef6f5e8ba38f16443cf220c8f33e0409ba6328cfb9a4a5c8bd2f?mediaType=jpeg)|184,765||18+|norway|
+|2XL Online|2,330.00 NOK|[42](https://www.snap.com/political-ads/asset/c8024b16f70c2e735ce35aca3177731773448f0ef88615b20d93b2e28a89b1a6?mediaType=jpeg)|170,878||18+|norway|
+|2XL Online|3,879.00 NOK|[43](https://www.snap.com/political-ads/asset/ce47e6b329393b14a2bc898c4a8ce07a692e7428941e0a5d43bc5baa0d4b2e1b?mediaType=png)|156,168||18+|norway|
+|2XL Online|1,386.00 NOK|[44](https://www.snap.com/political-ads/asset/5156d3b1dd3e7c94817b1dcbd556535e2f2d2ea1173ddd1946469905bec03400?mediaType=jpeg)|153,953||18+|norway|
+|2XL Online|1,869.00 NOK|[45](https://www.snap.com/political-ads/asset/6a5eeea117c4d2cf0e34097adf07e7e881f9c9686b454ddf54d4d4a08764ebad?mediaType=jpeg)|144,991||18+|norway|
+|2XL Online|1,273.00 NOK|[46](https://www.snap.com/political-ads/asset/1c24d4115a321f5d2213bfa3c51db09c2768d684c9102225f158fba693bf9693?mediaType=jpeg)|137,943||18+|norway|
+|2XL Online|2,327.00 NOK|[47](https://www.snap.com/political-ads/asset/49f0459534165cab4274040524a715a3abc6b67c8950619ce8df758ccc0426ce?mediaType=jpeg)|128,618||18+|norway|
+|2XL Online|1,084.00 NOK|[48](https://www.snap.com/political-ads/asset/a3ceae522bb62e32c4b6544c8d6be151b85bf26cba6b6f46a5871bd97d25e2a9?mediaType=jpeg)|116,280||18+|norway|
+|2XL Online|1,681.00 NOK|[49](https://www.snap.com/political-ads/asset/744f0ac6475da4856b1175168cfa7c93b7cb9ddc8a044686eeb91e98a0214b77?mediaType=jpeg)|109,526||18+|norway|
+|2XL Online|1,094.00 NOK|[50](https://www.snap.com/political-ads/asset/22d23db96152e355a844cb1fdbb7d1e8ead594746ab71a0588e3cf0914a23c85?mediaType=jpeg)|103,835||18+|norway|
+|2XL Online|2,260.00 NOK|[51](https://www.snap.com/political-ads/asset/c7ca7e641f6e78a6e4c1308aabe3c6779c6dd2e3c68e4006219c50234fe3bba7?mediaType=png)|102,901||18+|norway|
+|2XL Online|2,760.00 NOK|[52](https://www.snap.com/political-ads/asset/8130721ee0a985ef3d0d0e806b56ec8be37ec4fd9ccdd1c6880485f93464b61e?mediaType=png)|99,299||18+|norway|
+|2XL Online|2,765.00 NOK|[53](https://www.snap.com/political-ads/asset/ebcaef8b86eaadb505ef587331dbbc76abacb8d3712c1f96bf12a842b6e2bb23?mediaType=png)|97,312||18+|norway|
+|2XL Online|2,018.00 NOK|[54](https://www.snap.com/political-ads/asset/07cfb92afc8606a17f14a8c2f36db5c3f47d54241de434b260b002933253c7a8?mediaType=png)|85,081||18+|norway|
+|2XL Online|6,198.00 NOK|[55](https://www.snap.com/political-ads/asset/6f205380ecd4fec91c8f7d9bee0f7dc5aa65fc836dc5c0b5a3d42d00261265c1?mediaType=mp4)|80,430||25+|norway|
+|2XL Online|713.00 NOK|[56](https://www.snap.com/political-ads/asset/27c77ec751aa75f87afd3be8b8aea41375e54e14c3440934b7a34b420f60b328?mediaType=png)|78,188||18+|norway|
+|2XL Online|2,064.00 NOK|[57](https://www.snap.com/political-ads/asset/52eed6f8472e919494212f123386752e766fb7ed7e621215b15a4150caa3673d?mediaType=mp4)|75,286||18+|norway|
+|2XL Online|726.00 NOK|[58](https://www.snap.com/political-ads/asset/9c3c89ded0f1289f4012ddab293e79f15cb01a816ff4347160b360153c074a13?mediaType=jpeg)|72,259||18+|norway|
+|2XL Online|731.00 NOK|[59](https://www.snap.com/political-ads/asset/fd71279b9b3fcff412adb2c25aca3f8bcb4c117e215be362936022246aa0cb28?mediaType=jpeg)|69,990||18+|norway|
+|2XL Online|1,506.00 NOK|[60](https://www.snap.com/political-ads/asset/2c1a04088934130e051f3513bef90ad4b7287f2ceb75d6caee40eefec34b98db?mediaType=png)|67,782||18+|norway|
+|2XL Online|818.00 NOK|[61](https://www.snap.com/political-ads/asset/5fc3bc046a528a641a4739934639eeebfcd00b8e3cb3c7516ddb87b9b9847880?mediaType=jpeg)|60,343||18+|norway|
+|2XL Online|652.00 NOK|[62](https://www.snap.com/political-ads/asset/080b6dc67987b90cf4dbbfb403bb56b92e0b755df34cb0792b6c4d8712228619?mediaType=jpeg)|56,383||18+|norway|
+|2XL Online|1,626.00 NOK|[63](https://www.snap.com/political-ads/asset/73eff7f59af1e8cb8258b26c656f2df1a98a20a73b84d63efdaa91dbf7ac8734?mediaType=png)|50,463||18+|norway|
+|2XL Online|4,757.00 NOK|[64](https://www.snap.com/political-ads/asset/886b66d55f042ddb073806d7c79c878922c7366d022f1c80913a5b0a3a23e877?mediaType=mp4)|37,819||25+|norway|
+|2XL Online|823.00 NOK|[65](https://www.snap.com/political-ads/asset/2b30d71a9138eca3d1c8225da98f449abdd9aee49b24fbb6569c3a64f71094da?mediaType=png)|36,610||18+|norway|
+|2XL Online|1,835.00 NOK|[66](https://www.snap.com/political-ads/asset/cea562584828a2c7d69ef83543d97c1fdfed0d87c0c17e5bac6ef11c1535b397?mediaType=png)|34,765||25+|norway|
+|2XL Online|2,622.00 NOK|[67](https://www.snap.com/political-ads/asset/3c01a72b1aaca92133c56932f462812e35f1a0f22f961ebe45d04358b22c0713?mediaType=mp4)|32,395||25+|norway|
+|2XL Online|197.00 NOK|[68](https://www.snap.com/political-ads/asset/4891e574bd9ab30d56ff13e8f7185d9a338a30ceb591e2ebbe000486269fdc4c?mediaType=png)|23,149||18+|norway|
+|2XL Online|2,849.00 NOK|[69](https://www.snap.com/political-ads/asset/dbaa80734e5a61262959ffb39393daf8299d403be665e98fc679d136f42e5a30?mediaType=mp4)|19,591||25+|norway|
+|2XL Online|1,581.00 NOK|[70](https://www.snap.com/political-ads/asset/00331fb59e902c1e85eb64055988186ed4c3c2a55e31a2e8ab7e5792b91d047e?mediaType=png)|17,207||25+|norway|
+|2XL Online|1,640.00 NOK|[71](https://www.snap.com/political-ads/asset/5915d81ef514cec96bacca28b9cab2d913f62edd4a85735f708d2f8d27f26d97?mediaType=png)|17,013||25+|norway|
+|2XL Online|3,755.00 NOK|[72](https://www.snap.com/political-ads/asset/3ba412fa8796c5de563b93d0a88e95a4ce2717de8d0ac095c5853d61e44865b3?mediaType=mp4)|14,875||25+|norway|
+|2XL Online|359.00 NOK|[73](https://www.snap.com/political-ads/asset/957f471245f114014853b5c64ef1d2c32658a29a434bdd03b73817e4f06c95c4?mediaType=png)|12,512||18+|norway|
+|2XL Online|278.00 NOK|[74](https://www.snap.com/political-ads/asset/4971853c3a6752310cffd60e253d52209c02273f40546dd93e37362083f4c664?mediaType=png)|11,344||18+|norway|
+|2XL Online|2,301.00 NOK|[75](https://www.snap.com/political-ads/asset/087393ed7f59b3361f621105db414082542cda1ae874b535c626e7a196c2465f?mediaType=mp4)|10,538||25+|norway|
+|2XL Online|71.00 NOK|[76](https://www.snap.com/political-ads/asset/8437c0880e2737bb6bcef37c8988dbd7dfb5b4c9e602137f98ca85c7c1c37f91?mediaType=jpeg)|9,668||18+|norway|
+|2XL Online|1,061.00 NOK|[77](https://www.snap.com/political-ads/asset/6f205380ecd4fec91c8f7d9bee0f7dc5aa65fc836dc5c0b5a3d42d00261265c1?mediaType=mp4)|7,638||25+|norway|
+|2XL Online|234.00 NOK|[78](https://www.snap.com/political-ads/asset/9c3c89ded0f1289f4012ddab293e79f15cb01a816ff4347160b360153c074a13?mediaType=jpeg)|6,058||25+|norway|
+|2XL Online|682.00 NOK|[79](https://www.snap.com/political-ads/asset/87d20c598198f3f7b18ddc931173937091d548c1207db7c4ac9d302ee7ee57bb?mediaType=mp4)|5,188||25+|norway|
+|2XL Online|83.00 NOK|[80](https://www.snap.com/political-ads/asset/ca2a9fb555f1ab68416c9ea6cdf7c13b60b03926b33892eccf5c2e2369199c81?mediaType=jpeg)|4,899||18+|norway|
+|2XL Online|816.00 NOK|[81](https://www.snap.com/political-ads/asset/92696bc69f0b2bda18ee0ef7a60d0d07bb03684c3f796e575d9ef1b29f18674d?mediaType=mp4)|3,860||25+|norway|
+|2XL Online|355.00 NOK|[82](https://www.snap.com/political-ads/asset/c82d69a385f4cba072297e59838a23d65a84e3046ed6ebc22a4d68eb7f8316f8?mediaType=mp4)|3,365||25+|norway|
+|2XL Online|69.00 NOK|[83](https://www.snap.com/political-ads/asset/1c24d4115a321f5d2213bfa3c51db09c2768d684c9102225f158fba693bf9693?mediaType=jpeg)|2,698||25+|norway|
+|2XL Online|85.00 NOK|[84](https://www.snap.com/political-ads/asset/120ed657b61f56bd59454fdfe1951080c25e962053874f11868807bd4789e934?mediaType=jpeg)|2,203||25+|norway|
+|2XL Online|90.00 NOK|[85](https://www.snap.com/political-ads/asset/0a9aa969f85c865276d79c1894c5e0509d61b0c4334b52cdb318748f5283d042?mediaType=jpeg)|2,122||25+|norway|
+|2XL Online|25.00 NOK|[86](https://www.snap.com/political-ads/asset/d9580a376a8e30a6b046531f3875ca9e55f40099aa93d9cc4f0dd2d7671b2ab7?mediaType=png)|1,690||25+|norway|
+|2XL Online|24.00 NOK|[87](https://www.snap.com/political-ads/asset/ad98ac60ecc8abf5330bdbedc5a12d56f70fc12120bba5a0665ee51b69d3633d?mediaType=mp4)|574||25+|norway|

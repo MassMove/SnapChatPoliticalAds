@@ -1,7 +1,7 @@
 ## 2018 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[SIG](SIG.md) - Dentsu Aegis Network France|23,454.00 EUR|20,803,405|FEMALE|18-24, 18+|france|
+|[SIG](SIG.md) - Dentsu France|23,454.00 EUR|20,803,405|FEMALE|18-24, 18+|france|
 |[NextGen America](NextGen_America.md) - Bully Pulpit Interactive|98,636.00 USD|18,590,894||18-34|united states|
 |[Show Up To Vote](Show_Up_To_Vote.md) - ACRONYM|66,733.00 USD|16,455,877|FEMALE, MALE|18+|united states|
 |[Knock The Vote](Knock_The_Vote.md) - ACRONYM|60,916.00 USD|15,591,968||18-28, 18-34|united states|
@@ -22,7 +22,7 @@
 |[Make Good Decisions](Make_Good_Decisions.md) - Emmis Communcations|8,946.00 USD|5,084,439||18-20|united states|
 |[Paid For by Trooien For USSenate](Paid_For_by_Trooien_For_USSenate.md) - LoudDoor  LLC|10,555.00 USD|4,159,265||18+|united states|
 |[Mouvement Réformateur](Mouvement_Réformateur.md) - Mouvement Réformateur|4,954.00 EUR|3,600,057||18-24|belgium|
-|[Planned Parenthood](Planned_Parenthood.md) - Open Hand Media|10,282.00 USD|3,590,345|FEMALE|15-19, 18-24, 18-25, 18+, 25+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|10,282.00 USD|3,590,345|FEMALE|15-19, 18-24, 18-25, 18+, 25+|united states|
 |[Nevada Conservation League PAC](Nevada_Conservation_League_PAC.md) - Break Something|23,742.00 USD|3,452,533||18+|united states|
 |[Lieutenant Governor's Office](Lieutenant_Governor's_Office.md) - Penna Powers|7,992.00 USD|3,335,544||18-34|united states|
 |[Pete King for Congress](Pete_King_for_Congress.md) - Congressman Pete King|8,437.00 USD|3,143,956||18+|united states|
@@ -86,7 +86,7 @@
 |[Friends for Sydney Batch](Friends_for_Sydney_Batch.md) - Friends For Sydney Batch|639.00 USD|203,837||18+|united states|
 |[Fianna Fáil](Fianna_Fáil.md) - Fianna Fáil|256.00 EUR|173,508||18-24|ireland, united kingdom|
 |[House Victory Committee](House_Victory_Committee.md) - House Victory Committee|387.00 USD|158,971||18-30, 18+|united states|
-|[NSW Advocate for Children & YP](NSW_Advocate_for_Children_&_YP.md) - ACYP|350.00 AUD|158,924||24-|australia|
+|[NSW Advocate for Children & YP](NSW_Advocate_for_Children_&_YP.md) - ACYP|350.00 AUD|158,924||16-24|australia|
 |[ItAllCounts Pty Ltd](ItAllCounts_Pty_Ltd.md) - ItAllCounts Pty Ltd|619.00 AUD|152,633|FEMALE, MALE|30+, 35++|australia|
 |[Vera Institute of Justice](Vera_Institute_of_Justice.md) - Vera Institute of Justice|992.00 USD|148,163||22+|united states|
 |[Wyoming Democratic Party](Wyoming_Democratic_Party.md) - Wyoming Democratic Party|473.00 USD|147,933||18+|united states|

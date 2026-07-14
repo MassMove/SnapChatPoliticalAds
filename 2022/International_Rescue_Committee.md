@@ -12,9 +12,9 @@
 |International Rescue Committee|355.00 USD|[2](https://www.snap.com/political-ads/asset/e924bdce8193b1f239eb8776ba1b3cf634eece0e92ddd37a5dae62763d49f7b6?mediaType=mp4)|237,317|||canada|
 |International Rescue Committee|90.00 USD|[3](https://www.snap.com/political-ads/asset/ae111c3bddde74cfc928af82f06ebf3329141583480a18b7fe569ead429f8d95?mediaType=mp4)|220,095||18+|poland|
 |International Rescue Committee|135.00 USD|[4](https://www.snap.com/political-ads/asset/3b0e3d1985f2e4a326fa57d2aff500c1e529cfebaec4298e7cb7a4830240e91f?mediaType=mp4)|117,777|||new zealand|
-|International Rescue Committee|141.00 USD|[5](https://www.snap.com/political-ads/asset/ae111c3bddde74cfc928af82f06ebf3329141583480a18b7fe569ead429f8d95?mediaType=mp4)|111,189|||australia|
-|International Rescue Committee|122.00 USD|[6](https://www.snap.com/political-ads/asset/e924bdce8193b1f239eb8776ba1b3cf634eece0e92ddd37a5dae62763d49f7b6?mediaType=mp4)|107,775|||australia|
-|International Rescue Committee|86.00 USD|[7](https://www.snap.com/political-ads/asset/3b0e3d1985f2e4a326fa57d2aff500c1e529cfebaec4298e7cb7a4830240e91f?mediaType=mp4)|93,899|||australia|
+|International Rescue Committee|141.00 USD|[5](https://www.snap.com/political-ads/asset/ae111c3bddde74cfc928af82f06ebf3329141583480a18b7fe569ead429f8d95?mediaType=mp4)|111,189||16+|australia|
+|International Rescue Committee|122.00 USD|[6](https://www.snap.com/political-ads/asset/e924bdce8193b1f239eb8776ba1b3cf634eece0e92ddd37a5dae62763d49f7b6?mediaType=mp4)|107,775||16+|australia|
+|International Rescue Committee|86.00 USD|[7](https://www.snap.com/political-ads/asset/3b0e3d1985f2e4a326fa57d2aff500c1e529cfebaec4298e7cb7a4830240e91f?mediaType=mp4)|93,899||16+|australia|
 |International Rescue Committee|73.00 USD|[8](https://www.snap.com/political-ads/asset/ae111c3bddde74cfc928af82f06ebf3329141583480a18b7fe569ead429f8d95?mediaType=mp4)|76,223|||new zealand|
 |International Rescue Committee|36.00 USD|[9](https://www.snap.com/political-ads/asset/e924bdce8193b1f239eb8776ba1b3cf634eece0e92ddd37a5dae62763d49f7b6?mediaType=mp4)|65,600||18+|poland|
 |International Rescue Committee|64.00 USD|[10](https://www.snap.com/political-ads/asset/ae111c3bddde74cfc928af82f06ebf3329141583480a18b7fe569ead429f8d95?mediaType=mp4)|58,498|||canada|
