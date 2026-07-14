@@ -155,7 +155,8 @@ namespace SCBot.Parsers
             foreach (var campaign in campaigns.
                 OrderByDescending(c => c.impressions).
                 ThenByDescending(c => c.spend).
-                ThenBy(c => c.creativeUrlsSort))
+                ThenBy(c => c.creativeUrlsSort, StringComparer.Ordinal).
+                ThenBy(c => c.organizationName, StringComparer.Ordinal))
             {
                 readMeAdvertiser += FormatLine(campaign, 0, true, includeAddresses).Replace("\"", "") + "\r\n";
             }
@@ -180,7 +181,7 @@ namespace SCBot.Parsers
 
             if (billingAddresses.Count > 1)
             {                
-                return "\r\n- " + string.Join("\r\n- ", billingAddresses.Distinct().OrderBy(a => a));
+                return "\r\n- " + string.Join("\r\n- ", billingAddresses.Distinct().OrderBy(a => a, StringComparer.Ordinal));
             }
 
             return string.Join(", ", billingAddresses.Distinct());
@@ -284,7 +285,7 @@ namespace SCBot.Parsers
             }
 
             var list = string.Empty;
-            foreach (var listItem in listItems.OrderBy(l => l))
+            foreach (var listItem in listItems.OrderBy(l => l, StringComparer.Ordinal))
             {
                 if (listItem != "")
                 {
