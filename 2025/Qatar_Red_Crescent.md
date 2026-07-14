@@ -1,0 +1,27 @@
+## 2025 - Qatar Red Crescent 
+**Spent**: 58,911.00
+
+**Impressions**: 39,082,880
+
+**Billing Addresses**: Al Baladiya St,Doha,00974,QA
+
+|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
+|:---|---:|:---|---:|:---|:---|:---|
+|qatar red crescent|45,053.00 USD|[0](https://www.snap.com/political-ads/asset/2862795420cc03e3e170d593b0c42f878a231cc8a5ac6f50deddf5720eded250?mediaType=jpeg),[1](https://www.snap.com/political-ads/asset/18f8e8104eab0925731fd5c47fbc46e235aaf3223145138687acde8d6b02f253?mediaType=jpeg),[2](https://www.snap.com/political-ads/asset/9e4bab542c595a9600ad761f44dc22972717b69d9d8a1d16a3815d003ac64f1d?mediaType=jpeg),[3](https://www.snap.com/political-ads/asset/633a01e955fdbbf29028a36fcd344e7b3bc24b8a0da01dba3295efa3811c0444?mediaType=jpeg),[4](https://www.snap.com/political-ads/asset/6a530fc883bf95995141db79b59c101a8a9fd3cef27c87419026c42859cd77b7?mediaType=jpeg),[5](https://www.snap.com/political-ads/asset/64fe8d2c86aab99b99e5b99ff04ca70ae7f185198b115028b4438252788b5699?mediaType=jpeg),[6](https://www.snap.com/political-ads/asset/ec0b75ce365acf4c7de36f9b69bb30173f1eb33b3a686664fd98a1ecf7c3732d?mediaType=jpeg),[7](https://www.snap.com/political-ads/asset/ba43cdc3b89209686903cc199eab9dd17dd2be31447d5be5325a57f80d1faedb?mediaType=jpeg),[8](https://www.snap.com/political-ads/asset/dfd154a3d6770dd25a8101082de3c167b18daccab64acc069cd848fb30ac17d7?mediaType=jpeg)|33,033,761||20+|qatar|
+|qatar red crescent|2,068.00 USD|[9](https://www.snap.com/political-ads/asset/2862795420cc03e3e170d593b0c42f878a231cc8a5ac6f50deddf5720eded250?mediaType=jpeg),[10](https://www.snap.com/political-ads/asset/18f8e8104eab0925731fd5c47fbc46e235aaf3223145138687acde8d6b02f253?mediaType=jpeg),[11](https://www.snap.com/political-ads/asset/9e4bab542c595a9600ad761f44dc22972717b69d9d8a1d16a3815d003ac64f1d?mediaType=jpeg),[12](https://www.snap.com/political-ads/asset/633a01e955fdbbf29028a36fcd344e7b3bc24b8a0da01dba3295efa3811c0444?mediaType=jpeg),[13](https://www.snap.com/political-ads/asset/6a530fc883bf95995141db79b59c101a8a9fd3cef27c87419026c42859cd77b7?mediaType=jpeg),[14](https://www.snap.com/political-ads/asset/64fe8d2c86aab99b99e5b99ff04ca70ae7f185198b115028b4438252788b5699?mediaType=jpeg),[15](https://www.snap.com/political-ads/asset/ec0b75ce365acf4c7de36f9b69bb30173f1eb33b3a686664fd98a1ecf7c3732d?mediaType=jpeg),[16](https://www.snap.com/political-ads/asset/ba43cdc3b89209686903cc199eab9dd17dd2be31447d5be5325a57f80d1faedb?mediaType=jpeg),[17](https://www.snap.com/political-ads/asset/dfd154a3d6770dd25a8101082de3c167b18daccab64acc069cd848fb30ac17d7?mediaType=jpeg)|3,276,785||20+|kuwait|
+|qatar red crescent|304.00 USD|[18](https://www.snap.com/political-ads/asset/cd8b109812317c2d6e8d04b2bb7cd82a6355f2e2ae2172b00b6859c42ac4fc35?mediaType=mp4)|685,141||20+|kuwait|
+|qatar red crescent|1,530.00 USD|[19](https://www.snap.com/political-ads/asset/ac285016eee864053acbd576a606187c5dad63a0d1d728c0bf2a86ef58d7d27c?mediaType=png)|390,369||20+|qatar|
+|qatar red crescent|2,722.00 USD|[20](https://www.snap.com/political-ads/asset/739fc5e7cc969edc8fac37c1bda00838f1b6eec109a628fe10109e59622180f7?mediaType=mp4)|370,917||25+|qatar|
+|qatar red crescent|1,088.00 USD|[21](https://www.snap.com/political-ads/asset/45bdcdc81fc76f91eb7d502f3be104fa0adf19ad89a0667f47f2f9e6759d87cf?mediaType=png)|260,841||20+|qatar|
+|qatar red crescent|176.00 USD|[22](https://www.snap.com/political-ads/asset/989c13b8f26abae73e0f946ad47877db8909164c6c1068d2d2bdd7ceaea99ad2?mediaType=mp4)|229,212||20+|kuwait|
+|qatar red crescent|742.00 USD|[23](https://www.snap.com/political-ads/asset/a8ded99d2b7c72c9d8513e8e6dcca20e7e6362481ecf4eaaea7a8e1f149fcbe2?mediaType=png)|165,896||20+|qatar|
+|qatar red crescent|684.00 USD|[24](https://www.snap.com/political-ads/asset/96444100c1d109fe508b2b54cc994e891bf06bca40b53e44c5e037a8b1e76b33?mediaType=png)|150,484||20+|qatar|
+|qatar red crescent|1,487.00 USD|[25](https://www.snap.com/political-ads/asset/af9457d2e591dee95c2ec57e58c0e8334ecde6270ec70498dc8ce2e630d27a22?mediaType=mp4)|131,613||18+|qatar|
+|qatar red crescent|954.00 USD|[26](https://www.snap.com/political-ads/asset/3c0f42fc8109d12d899762af406bc07c05e40f72ba319ca5822bd30aa83da31c?mediaType=mp4)|96,510||25+|qatar|
+|qatar red crescent|702.00 USD|[27](https://www.snap.com/political-ads/asset/1515cc1cd48d6c0c5a8219b62b12406c96b0544e9355f6e1c6ff485c18f7caca?mediaType=mp4)|81,557||24+|qatar|
+|qatar red crescent|698.00 USD|[28](https://www.snap.com/political-ads/asset/6a3445a773db3710226b68729e4f5b20c4f83f9b3b253016bf2bacff46079191?mediaType=mp4)|66,774||24+|qatar|
+|qatar red crescent|28.00 USD|[29](https://www.snap.com/political-ads/asset/2f2a3b531e6931e075fd1ea3b20fae743a0e9756c5a08cdc695e5811740da3b7?mediaType=mp4)|52,084||20+|kuwait|
+|qatar red crescent|283.00 USD|[30](https://www.snap.com/political-ads/asset/51ff0fe8c57dfdcb86f43d741cb892b0e5efd564b2b84c6879ad1c2d46c4a7d8?mediaType=mp4)|49,842||25+|qatar|
+|qatar red crescent|162.00 USD|[31](https://www.snap.com/political-ads/asset/51ff0fe8c57dfdcb86f43d741cb892b0e5efd564b2b84c6879ad1c2d46c4a7d8?mediaType=mp4)|25,424||25+|qatar|
+|qatar red crescent|162.00 USD|[32](https://www.snap.com/political-ads/asset/1515cc1cd48d6c0c5a8219b62b12406c96b0544e9355f6e1c6ff485c18f7caca?mediaType=mp4)|9,909||24+|qatar|
+|qatar red crescent|68.00 USD|[33](https://www.snap.com/political-ads/asset/3c0f42fc8109d12d899762af406bc07c05e40f72ba319ca5822bd30aa83da31c?mediaType=mp4)|5,761||25+|qatar|

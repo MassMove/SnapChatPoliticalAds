@@ -3,7 +3,7 @@
 
 **Impressions**: 28,628
 
-**Billing Addresses**: 158 Leinster Road,Merivale,8146,NZ
+**Billing Addresses**: 7 Abbey Street,Auckland,1010,NZ
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

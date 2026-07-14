@@ -1,18 +1,18 @@
 ## 2024 - Life for Relief and Development 
-**Spent**: 26,100.00
+**Spent**: 26,386.00
 
-**Impressions**: 3,672,201
+**Impressions**: 3,735,230
 
 **Billing Addresses**: 17300 w 10 mile rd,southfield,48075,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |NGO|319.00 USD|[0](https://www.snap.com/political-ads/asset/085b37ed75a29d9cd4287e0f29bf21d11187a47e3e95235428498e0fe311de2d?mediaType=png)|1,203,409||18+|morocco|
-|NGO|6,161.00 USD|[1](https://www.snap.com/political-ads/asset/5a35131af9e074d108193e3e1a8aa39d8aeaf509ac1015d3f9efcc32363ea0fb?mediaType=png)|439,485||18+|united states|
-|NGO|5,096.00 USD|[2](https://www.snap.com/political-ads/asset/3d88ab15f60dc29fcae2eca34716abf7db444db4a484d5f123911d213f9aa55d?mediaType=png)|335,773||18+|united states|
+|NGO|6,240.00 USD|[1](https://www.snap.com/political-ads/asset/5a35131af9e074d108193e3e1a8aa39d8aeaf509ac1015d3f9efcc32363ea0fb?mediaType=png)|445,145||18+|united states|
+|NGO|5,154.00 USD|[2](https://www.snap.com/political-ads/asset/3d88ab15f60dc29fcae2eca34716abf7db444db4a484d5f123911d213f9aa55d?mediaType=png)|341,428||18+|united states|
+|NGO|2,760.00 USD|[3](https://www.snap.com/political-ads/asset/1f668fd7def928050e83289e8f5b47d873a06772371eaec0ced0310db374e2ce?mediaType=jpeg)|227,610||18+|united states|
 |NGO|69.00 USD||217,987||20+|morocco|
-|NGO|2,659.00 USD|[4](https://www.snap.com/political-ads/asset/1f668fd7def928050e83289e8f5b47d873a06772371eaec0ced0310db374e2ce?mediaType=jpeg)|186,102||18+|united states|
-|NGO|1,756.00 USD|[5](https://www.snap.com/political-ads/asset/02815aa4a13a8dac3a93ec74a8a94470245c98dd30005f8da4b0e255f28a01cb?mediaType=jpeg)|137,565||18+|united states|
+|NGO|1,804.00 USD|[5](https://www.snap.com/political-ads/asset/02815aa4a13a8dac3a93ec74a8a94470245c98dd30005f8da4b0e255f28a01cb?mediaType=jpeg)|147,771||18+|united states|
 |NGO|18.00 USD|[6](https://www.snap.com/political-ads/asset/a15dbd01e12bb548ee77c842399033147995f796eee3eb3703e526d2f35d0691?mediaType=png)|87,960||21+|morocco|
 |NGO|19.00 USD|[7](https://www.snap.com/political-ads/asset/445bb5fd2576441bf272a45c47585d0611d22c119e76397219c2296f1470ea29?mediaType=png)|77,658||21+|morocco|
 |NGO|648.00 USD|[8](https://www.snap.com/political-ads/asset/8b499a9c45dc5e33fbeb8d0e0b769798dc685b5ec401d1a9eed9d792c503fb5e?mediaType=mp4)|60,808||20+|united states|

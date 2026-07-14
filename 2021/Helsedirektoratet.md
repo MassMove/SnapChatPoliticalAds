@@ -3,7 +3,7 @@
 
 **Impressions**: 4,896,020
 
-**Billing Addresses**: Kongens gate 6,Oslo,0153,NO
+**Billing Addresses**: Kongens gate 6, Postboks 740 Sentrum,Oslo,0105,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

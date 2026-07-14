@@ -2,8 +2,8 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[European Commission](European_Commission.md) - Mediabrands NV/SA|387,387.00 EUR|229,268,182||16-24, 16-29, 16-34, 18-29|austria, belgium, croatia, czech republic, finland, france, germany, greece, italy, lithuania, luxembourg, romania, slovakia (slovak republic), slovenia|
-|[The Climate Pledge](The_Climate_Pledge.md) - IPG Mediabrands Ltd: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
-|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
+|[The Climate Pledge](The_Climate_Pledge.md) - Mediabrands France: The Climate Pledge|945,825.00 EUR, GBP, USD|184,599,180||18+|france, germany, united kingdom, united states|
+|[American Civil Liberties Union](American_Civil_Liberties_Union.md) - American Civil Liberties Union  Inc.: St Louis Mayoral Primary Election, St Louis Mayoral Race 2021|576,240.00 USD|152,827,837|FEMALE|18-25, 18-29, 18-45, 18-49, 18+, 26-34, 30-49|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i|359,859.00 USD|85,411,500||18+|united states|
 |[Thorn](Thorn.md) - Thorn|100,650.00 USD|42,751,107||17-|united states|
 |[Fair Fight Action](Fair_Fight_Action.md) - AL Media: Fair Fight Action|327,862.00 USD|41,644,985||18-34, 18+|united states|
@@ -36,22 +36,22 @@
 |[Community Change Action](Community_Change_Action.md) - Community Change Action: immigration refrom, Presidential Inauguration|44,984.00 USD|7,910,744||17+, 18+|united states|
 |[Venstre](Venstre.md) - Venstre: frihet og muligheter, Guri Melby, internasjonalt samarbeid, Like muligheter for alle, Oljeleting, rusreform, Rusreformen, Velge Venstre|229,237.00 NOK|7,879,651|FEMALE|17-30, 17-34, 17-35, 17-45, 17+, 18-25, 18-30, 18-35, 18-40, 18-45, 18-49, 18+, 28+, 35+|norway|
 |[The People's Lawsuit](The_People's_Lawsuit.md) - Chong and Koster|24,985.00 USD|7,877,440||18-29|united states|
-|[MESRI](MESRI.md) - Dentsu Aegis Network France|9,259.00 EUR|7,582,846||18-25|france|
-|[Government of British Columbia](Government_of_British_Columbia.md) - Vizeum Canada|38,601.00 CAD|7,439,441||18-30, 18-49, 18+, 19+|canada|
+|[MESRI](MESRI.md) - Dentsu France|9,259.00 EUR|7,582,846||18-25|france|
+|[Government of British Columbia](Government_of_British_Columbia.md) - lProspect Canada lnc|38,601.00 CAD|7,439,441||18-30, 18-49, 18+, 19+|canada|
 |[NSW Electoral Commission](NSW_Electoral_Commission.md) - Wavemaker Sydney|14,821.00 AUD|7,231,273||17-24|australia|
 |[DemocracyNYC](DemocracyNYC.md) - OpAD Media|78,000.00 USD|7,179,692||18+|united states|
 |[Eric Adams 2021](Eric_Adams_2021.md) - Do Big Things: Eric Adams, Eric Adams for NYC|19,995.00 USD|7,095,548||18+|united states|
 |[Democratic National Committee](Democratic_National_Committee.md) - Democratic National Committee: Terry for Virginia|44,996.00 USD|7,083,666|FEMALE|18-35|united states|
 |[Terry for Virginia](Terry_for_Virginia.md) - Terry for Virginia: Terry for Virginia|84,980.00 USD|6,556,269|FEMALE|18+, 23+, 24+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|46,160.00 USD|6,552,361|FEMALE|16-24, 18-24, 18-29, 18+|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|46,160.00 USD|6,552,361|FEMALE|16-24, 18-24, 18-29, 18+|united states|
 |[NRCC](NRCC.md) - Targeted Victory  LLC: NRCC|37,996.00 USD|6,488,434||18+|united states|
 |[Progress Now](Progress_Now.md) - The New Media Firm: Progress Virginia|77,573.00 USD|6,313,911||18+|united states|
 |[NYC Campaign Finance Board](NYC_Campaign_Finance_Board.md) - Miller Advertising Agency  Inc.|28,775.00 USD|5,946,229||18-29|united states|
-|[Frederique Morcillo](Frederique_Morcillo.md) - Dentsu Aegis Network France|24,605.00 EUR|5,663,137||18-30, 18+|germany, italy, spain, united kingdom, united states|
+|[Frederique Morcillo](Frederique_Morcillo.md) - Dentsu France|24,605.00 EUR|5,663,137||18-30, 18+|germany, italy, spain, united kingdom, united states|
 |[Planned Parenthood Virginia PAC](Planned_Parenthood_Virginia_PAC.md) - Blueprint Interactive|51,478.00 USD|5,453,705||18-34, 18-35, 18+|united states|
 |[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|10,921.00 USD|5,387,674||16+|united states|
 |[Trossamfundet Svenska kyrkan](Trossamfundet_Svenska_kyrkan.md) - Emerse Sverige AB|9,809.00 USD|5,261,363||16-20, 21-44|sweden|
-|[Min. Solidarités et Santé](Min._Solidarités_et_Santé.md) - Dentsu Aegis Network France|16,500.00 EUR|5,179,055||18-25, 26-35|france|
+|[Min. Solidarités et Santé](Min._Solidarités_et_Santé.md) - Dentsu France|16,500.00 EUR|5,179,055||18-25, 26-35|france|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - M&R Strategic Services  Inc.|37,566.00 USD|5,054,450||18-24|united states|
 |[Center for American Progress](Center_for_American_Progress.md) - Media Cause: Build Back Better, Student Debt Relief|18,957.00 USD|4,998,742||18-29, 25+|united states|
 |[NC WARN](NC_WARN.md) - New Path Digital: NC Climate Emergency|19,168.00 USD|4,979,121||18+|united states|
@@ -59,7 +59,7 @@
 |[Vote for NYC's Future](Vote_for_NYC's_Future.md) - Wavelength Strategy|39,710.00 USD|4,863,334||18+|united states|
 |[Fagbevægelsens Hovedorganisation](Fagbevægelsens_Hovedorganisation.md) - Mercantila A/S|144,995.00 DKK|4,840,723||15-45, 18+|denmark|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|41,459.00 CAD|4,795,864||18-34|canada|
-|[AUF](AUF.md) - AUF Norge|27,242.00 EUR, NOK|4,753,189||16-17, 18-25|norway|
+|[AUF](AUF.md) - Try Schjærven Media|27,242.00 EUR, NOK|4,753,189||16-17, 18-25|norway|
 |[NDRC](NDRC.md) - Wavelength Strategy|27,589.00 USD|4,684,868||18+|united states|
 |[Republican National Committee](Republican_National_Committee.md) - Republican National Committee: Republican National Committee|32,718.00 USD|4,653,494||18-24, 18-25, 18+, 25+|united states|
 |[Pulpmedia](Pulpmedia.md) - Httpool Online Marketing GmbH|10,000.00 EUR|4,540,377||18+|austria|
@@ -78,7 +78,7 @@
 |[LCV & Priorities USA](LCV_&_Priorities_USA.md) - Gambit Strategies|23,499.00 USD|3,283,479||18+|united states|
 |[Fund Texas Choice](Fund_Texas_Choice.md) - BerlinRosen|42,498.00 USD|3,205,497||35-|united states|
 |[Human Rights Campaign Foundation](Human_Rights_Campaign_Foundation.md) - Bully Pulpit Interactive|27,899.00 USD|3,155,090||18-25, 18-30, 18-35|puerto rico, united states|
-|[New Georgia Project](New_Georgia_Project.md) - ampersand strategies: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
+|[New Georgia Project](New_Georgia_Project.md) - Panowatch  LLC: Voter Turnout|21,885.00 USD|3,130,424||18+|united states|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|5,576.00 GBP|3,120,115||18-30|united kingdom|
 |[ACLU](ACLU.md) - Wavelength Strategy: ACLU|36,054.00 USD|3,117,943|FEMALE|18-40, 18-49, 18+|united states|
 |[D66](D66.md) - Dept|7,357.00 EUR|3,110,013||18+|netherlands|
@@ -152,7 +152,7 @@
 |[Mabel Wadsworth Center](Mabel_Wadsworth_Center.md) - Chong and Koster|5,996.00 USD|1,223,323||40-|united states|
 |[ACRONYM](ACRONYM.md) - ACRONYM|11,359.00 USD|1,217,279||18+|united states|
 |[LO](LO.md) - Spooon Agency Norway|3,819.00 EUR|1,215,017||20+|norway|
-|[Monumental Change](Monumental_Change.md) - Bohemia Group|5,091.00 AUD|1,199,796||17-, 18+|australia|
+|[Monumental Change](Monumental_Change.md) - Bohemia Group|5,091.00 AUD|1,199,796||16-17, 18+|australia|
 |[THEFIRE.ORG](THEFIRE.ORG.md) - The Foundation for Individual Rights in Education|1,644.00 USD|1,171,304||16+|united states|
 |[Andreas Hus](Andreas_Hus.md) - Pressure|40,000.00 NOK|1,130,767||25+, 35+|norway|
 |[American Bridge Foundation](American_Bridge_Foundation.md) - Wavelength Strategy|7,183.00 USD|1,121,015|FEMALE|18+|united states|
@@ -169,7 +169,7 @@
 |[Colorado Dept. of Transportation](Colorado_Dept._of_Transportation.md) - Vladimir Jones|2,992.00 USD|1,018,203||21-34|united states|
 |[Fondation Future 3](Fondation_Future_3.md) - 13Arty Consulting SA: Initiative Suisse libre de pesticides de synthese|1,996.00 EUR|1,013,127||18+|switzerland|
 |[Progressive Turnout Project](Progressive_Turnout_Project.md) - Progressive Turnout Project: Progressive Turnout Project|5,260.00 USD|1,005,888||18-34|united states|
-|[City of Edmonton](City_of_Edmonton.md) - DDB Edmonton Media|5,497.00 CAD|983,689||18+|canada|
+|[City of Edmonton](City_of_Edmonton.md) - TBWA Canada|5,497.00 CAD|983,689||18+|canada|
 |[Engage Michigan](Engage_Michigan.md) - The New Media Firm: Engage Michigan|3,357.00 USD|956,100||18+|united states|
 |[SEIU Virginia](SEIU_Virginia.md) - The New Media Firm: Progress Virginia, SEIU Virginia|7,471.00 USD|950,251||18+|united states|
 |[SCEA](SCEA.md) - The New Media Firm|5,401.00 USD|876,708|||united states|

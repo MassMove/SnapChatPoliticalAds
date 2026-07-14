@@ -1,12 +1,102 @@
 ## 2025 - Helping Hand USA Self Service 
-**Spent**: 159.00
+**Spent**: 11,670.00
 
-**Impressions**: 6,480
+**Impressions**: 672,446
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Helping Hand USA|81.00 USD|[0](https://www.snap.com/political-ads/asset/a17bb9172398737254473f13b72d340a72506aac673dfd9266c7eb6fdf7c8adc?mediaType=jpg)|3,398||18+|united states|
-|Helping Hand USA|63.00 USD|[1](https://www.snap.com/political-ads/asset/92819b901af4a54fdfde08c99e04243b2bbdcf26609999c0c73eb3ba75d1c0f5?mediaType=jpg)|2,419||18+|united states|
-|Helping Hand USA|15.00 USD|[2](https://www.snap.com/political-ads/asset/1575ec92788b306763951b1b9dbfee61136e2a95b51d0d7fb527bc6a09bd1d8e?mediaType=jpg)|663||18+|united states|
+|Helping Hand USA|350.00 USD|[0](https://www.snap.com/political-ads/asset/63480a1f93dae2b9f0fc9c8aec32a9db64b0705b85c99c915ffc123d1dff251c?mediaType=mp4)|80,898|||united states|
+|Helping Hand USA|315.00 USD|[1](https://www.snap.com/political-ads/asset/a2aa0c6c35216854e5de20048ba9ad67d6121831b8f6469aff09e5c8efa91fe6?mediaType=jpg)|73,132||18+|united states|
+|Helping Hand USA|311.00 USD|[2](https://www.snap.com/political-ads/asset/8c34883425365a3df8baeccac3815d6644d20cde54645fd08d2a89aa14108a6e?mediaType=jpg)|72,305||18+|united states|
+|Helping Hand USA|303.00 USD|[3](https://www.snap.com/political-ads/asset/4c78353c4ffba618dfc3b7eaf6dbcf208d9b01c96b14575dda5cfdf1cf19ab36?mediaType=jpg)|70,547||18+|united states|
+|Helping Hand USA|1,508.00 USD|[4](https://www.snap.com/political-ads/asset/f2c5e801f81cf999897dbc071429ccdc24260b4c85ebb77c84363fbc030b791f?mediaType=jpg)|43,286||21+|united states|
+|Helping Hand USA|1,340.00 USD|[5](https://www.snap.com/political-ads/asset/f2c5e801f81cf999897dbc071429ccdc24260b4c85ebb77c84363fbc030b791f?mediaType=jpg)|39,098||21+|united states|
+|Helping Hand USA|509.00 USD|[6](https://www.snap.com/political-ads/asset/b1e0ff32a771ae6a1d1ea99a0ef1a4e371f7ba4f4a2e7a20158a63d65ca41a77?mediaType=mp4)|33,188||18+|united states|
+|Helping Hand USA|509.00 USD|[7](https://www.snap.com/political-ads/asset/122c93655e346052aecbc7f35933d2c00cd8b13fe45b3bdf7524daf051a746a1?mediaType=mp4)|32,405||18+|united states|
+|Helping Hand USA|463.00 USD|[8](https://www.snap.com/political-ads/asset/9a7e2671c4ad9077c62931c3d83b51c722b24d46803d7b1a63b70ec6e5c9ced4?mediaType=jpeg)|27,865||18+|united states|
+|Helping Hand USA|498.00 USD|[9](https://www.snap.com/political-ads/asset/08cbf4b8d985c4a197a05ec24fab6dcadb782728fb2730cb3c3c8f4e3b4042bb?mediaType=jpg)|18,850||21+|united states|
+|Helping Hand USA|495.00 USD|[10](https://www.snap.com/political-ads/asset/08cbf4b8d985c4a197a05ec24fab6dcadb782728fb2730cb3c3c8f4e3b4042bb?mediaType=jpg)|15,994||21+|united states|
+|Helping Hand USA|380.00 USD|[11](https://www.snap.com/political-ads/asset/ad96944743b1980b446123eedafe18e171a725fc6957c1c6d8cea9af1e1130d4?mediaType=jpg)|10,958||21+|united states|
+|Helping Hand USA|247.00 USD|[12](https://www.snap.com/political-ads/asset/ad96944743b1980b446123eedafe18e171a725fc6957c1c6d8cea9af1e1130d4?mediaType=jpg)|6,770||21+|united states|
+|Helping Hand USA|252.00 USD|[13](https://www.snap.com/political-ads/asset/40105b128b37848a83a93b6dbd3b43e4ce66e64bb9376f2e4bae1eef9246850a?mediaType=png)|5,516||20+|united states|
+|Helping Hand USA|224.00 USD|[14](https://www.snap.com/political-ads/asset/b3b2017e395c1b62195095903cc2e7cda36f74b7617c5641729842f099bde413?mediaType=jpg)|5,429||21+|united states|
+|Helping Hand USA|82.00 USD|[15](https://www.snap.com/political-ads/asset/1fcda14757e9c21546d1e6f6bee744a511dc21316d93f4a2a8a575d88a1a7124?mediaType=png)|5,164||18+|united states|
+|Helping Hand USA|72.00 USD|[16](https://www.snap.com/political-ads/asset/9a45937cd008cc1776233ee1c0d44b312987c88a7ad2eb068d95a38594aa36dd?mediaType=png)|5,083||18+|united states|
+|Helping Hand USA|227.00 USD|[17](https://www.snap.com/political-ads/asset/3376eabfb19704fe55655dbdffdfee0d764d2e9e384764152058b8ce3130d96e?mediaType=png)|4,764||20+|united states|
+|Helping Hand USA|84.00 USD|[18](https://www.snap.com/political-ads/asset/7c8b6709ffefe77af903069a9ace7521a557c2646bab083dcd854055393aea96?mediaType=png)|4,758||18+|united states|
+|Helping Hand USA|101.00 USD|[19](https://www.snap.com/political-ads/asset/01fe0b53b3edf0c15b0cbcfab3ba466854cccc6d1dcb45bad3a54fe753f8f86c?mediaType=png)|4,620||18+|united states|
+|Helping Hand USA|143.00 USD|[20](https://www.snap.com/political-ads/asset/4f2755bd49136a0a003b09d53e5a7219ee27f5f40a1b1a699caafa95db294017?mediaType=jpeg)|4,518||21+|united states|
+|Helping Hand USA|79.00 USD|[21](https://www.snap.com/political-ads/asset/bc538b0e984b78804b0f4764a84538b2061b7f5cffa1cd927ad83a3cac37de48?mediaType=png)|4,015||18+|united states|
+|Helping Hand USA|202.00 USD|[22](https://www.snap.com/political-ads/asset/af7e316d9d53e751ba90ab21dd092d29bd477287650d8c45541d06df602e456e?mediaType=jpg)|3,929||21+|united states|
+|Helping Hand USA|191.00 USD|[23](https://www.snap.com/political-ads/asset/c8f8123e68e668d66e989615c7e9f4706c8a3f759c5af659a3848eec61ae2d0c?mediaType=png)|3,848||20+|united states|
+|Helping Hand USA|111.00 USD|[24](https://www.snap.com/political-ads/asset/bb48cda528b88a837a5fb6264f000082f270cb10b652846d903e52abaef26a91?mediaType=jpeg)|3,806||21+|united states|
+|Helping Hand USA|87.00 USD|[25](https://www.snap.com/political-ads/asset/a17bb9172398737254473f13b72d340a72506aac673dfd9266c7eb6fdf7c8adc?mediaType=jpg)|3,625||18+|united states|
+|Helping Hand USA|155.00 USD|[26](https://www.snap.com/political-ads/asset/d92541c73bf4276ff08628274d7dd4e28a0eff487e162f0188d74de74c006efd?mediaType=png)|3,623||20+|united states|
+|Helping Hand USA|192.00 USD|[27](https://www.snap.com/political-ads/asset/39cfb086890275b6a4b6313ca8af743e44f69c28b68ed663fe84de869fdd5beb?mediaType=png)|3,462||20+|united states|
+|Helping Hand USA|79.00 USD|[28](https://www.snap.com/political-ads/asset/6bc8690e58b46e5fbcf0e48b6c3313e6b10146d5849c0d610f0dbb89db446c38?mediaType=png)|3,266||18+|united states|
+|Helping Hand USA|70.00 USD|[29](https://www.snap.com/political-ads/asset/e5465e0c905b8887a56f9ee3c8ee172c53b7f730c4e9b16622f70d943f842d30?mediaType=png)|3,166||18+|united states|
+|Helping Hand USA|73.00 USD|[30](https://www.snap.com/political-ads/asset/4bd152d22db1d4712e3c908e65082735f8c299e20363e9d1ddaac0139295f9e1?mediaType=png)|3,134||18+|united states|
+|Helping Hand USA|54.00 USD|[31](https://www.snap.com/political-ads/asset/caf20c3ca647fa48c1c1a98d9f0e46e487219b372e949d11eef070c4023d7672?mediaType=png)|2,966||18+|united states|
+|Helping Hand USA|71.00 USD|[32](https://www.snap.com/political-ads/asset/92819b901af4a54fdfde08c99e04243b2bbdcf26609999c0c73eb3ba75d1c0f5?mediaType=jpg)|2,744||18+|united states|
+|Helping Hand USA|31.00 USD|[33](https://www.snap.com/political-ads/asset/1320dd14d7dabe7dbfaca64f1051eee9e2497992105727305b2933933411dc95?mediaType=png)|2,723||19-50|united states|
+|Helping Hand USA|60.00 USD|[34](https://www.snap.com/political-ads/asset/680a7356d096396f18f37ddc1731b5342d9d0a467bdf3b2cda58a5c3d905f5e9?mediaType=png)|2,668||18+|united states|
+|Helping Hand USA|47.00 USD|[35](https://www.snap.com/political-ads/asset/ce574c2344b87958e4bf3d036a17b6756d6b62a5274f594a5ab29f9a7678a2c9?mediaType=png)|2,453||18+|united states|
+|Helping Hand USA|40.00 USD|[36](https://www.snap.com/political-ads/asset/d56ac07e91e55731b0250e84ce3c6271ca06dc811e5bcb61cfa5b0b6a66592c2?mediaType=png)|2,320||20+|united states|
+|Helping Hand USA|33.00 USD|[37](https://www.snap.com/political-ads/asset/e444ed11c937ad98a807016cc6ae7ede951f6231a28b8d75997b3382606d0829?mediaType=png)|2,272||19-50|united states|
+|Helping Hand USA|135.00 USD|[38](https://www.snap.com/political-ads/asset/d92541c73bf4276ff08628274d7dd4e28a0eff487e162f0188d74de74c006efd?mediaType=png)|2,166||20+|united states|
+|Helping Hand USA|51.00 USD|[39](https://www.snap.com/political-ads/asset/a13b75e47b96eba4c00cb4a8b74f4935270f2ef503e51a6e5cde5eb260a464f5?mediaType=png)|2,093||18+|united states|
+|Helping Hand USA|47.00 USD|[40](https://www.snap.com/political-ads/asset/96ca8c6bff300fb95708f3a508dbcc833797a323b5bda4e38bf41db7621c2ae3?mediaType=png)|2,067||20+|united states|
+|Helping Hand USA|32.00 USD|[41](https://www.snap.com/political-ads/asset/198f95ceaa1c4cef244de9104721c3d58526c22b6d41632e2e4fc09da3d62226?mediaType=png)|1,961||18+|united states|
+|Helping Hand USA|27.00 USD|[42](https://www.snap.com/political-ads/asset/4132f60a24f6df71cc77a9683dd85e5f31084b62d8511f0df2f2f4c7b278752c?mediaType=png)|1,961||19-50|united states|
+|Helping Hand USA|120.00 USD|[43](https://www.snap.com/political-ads/asset/b3b2017e395c1b62195095903cc2e7cda36f74b7617c5641729842f099bde413?mediaType=jpg)|1,957||21+|united states|
+|Helping Hand USA|94.00 USD|[44](https://www.snap.com/political-ads/asset/40105b128b37848a83a93b6dbd3b43e4ce66e64bb9376f2e4bae1eef9246850a?mediaType=png)|1,854||20+|united states|
+|Helping Hand USA|38.00 USD|[45](https://www.snap.com/political-ads/asset/0f6427448835693abc7cc7db31692b1df442f21b1ad3e0b902880f6369ed37ca?mediaType=png)|1,787||20-50|united states|
+|Helping Hand USA|84.00 USD|[46](https://www.snap.com/political-ads/asset/39cfb086890275b6a4b6313ca8af743e44f69c28b68ed663fe84de869fdd5beb?mediaType=png)|1,763||20+|united states|
+|Helping Hand USA|28.00 USD|[47](https://www.snap.com/political-ads/asset/7e8bd298bba6f0cb07ef1c678cb188ff5393b58c441174fdac41ef257c1ad906?mediaType=png)|1,713||18+|united states|
+|Helping Hand USA|25.00 USD|[48](https://www.snap.com/political-ads/asset/fd9558bd26b27880e3fbb2f77b2a618e4f3f564085f2cd18185f61be0b215676?mediaType=png)|1,676||20-50|united states|
+|Helping Hand USA|43.00 USD|[49](https://www.snap.com/political-ads/asset/ba1f7ff6f91ac02b5fcd4086e780e03f492535eae5aee7e96ac94c9f9e3da497?mediaType=jpg)|1,583||21+|united states|
+|Helping Hand USA|23.00 USD|[50](https://www.snap.com/political-ads/asset/d726cf643d4d29aa98607b4307560d0ace9b3df139c15d375eaef604d44dbc86?mediaType=png)|1,466||20+|united states|
+|Helping Hand USA|39.00 USD|[51](https://www.snap.com/political-ads/asset/cae2e1b434db2219e5e69bfbcf37ffc61e5e28c25934977bb9901456c4f9f5e4?mediaType=png)|1,404||18+|united states|
+|Helping Hand USA|47.00 USD|[52](https://www.snap.com/political-ads/asset/af7e316d9d53e751ba90ab21dd092d29bd477287650d8c45541d06df602e456e?mediaType=jpg)|1,358||21+|united states|
+|Helping Hand USA|27.00 USD|[53](https://www.snap.com/political-ads/asset/5accc42129bf47ff588aca86acacf6b2319b8b940cc1efe3a68016920312dbbb?mediaType=png)|1,358||18+|united states|
+|Helping Hand USA|38.00 USD|[54](https://www.snap.com/political-ads/asset/ceb1b86d1bab7f5f747daa7847283e1b42a2574c618aedd3e1ee4157cdde4eab?mediaType=png)|1,351||18+|united states|
+|Helping Hand USA|62.00 USD|[55](https://www.snap.com/political-ads/asset/c8f8123e68e668d66e989615c7e9f4706c8a3f759c5af659a3848eec61ae2d0c?mediaType=png)|1,280||20+|united states|
+|Helping Hand USA|66.00 USD|[56](https://www.snap.com/political-ads/asset/3376eabfb19704fe55655dbdffdfee0d764d2e9e384764152058b8ce3130d96e?mediaType=png)|1,273||20+|united states|
+|Helping Hand USA|33.00 USD|[57](https://www.snap.com/political-ads/asset/4f2755bd49136a0a003b09d53e5a7219ee27f5f40a1b1a699caafa95db294017?mediaType=jpeg)|1,138||21+|united states|
+|Helping Hand USA|32.00 USD|[58](https://www.snap.com/political-ads/asset/e444ed11c937ad98a807016cc6ae7ede951f6231a28b8d75997b3382606d0829?mediaType=png)|1,115||19-50|united states|
+|Helping Hand USA|29.00 USD|[59](https://www.snap.com/political-ads/asset/ba1f7ff6f91ac02b5fcd4086e780e03f492535eae5aee7e96ac94c9f9e3da497?mediaType=jpg)|1,102||21+|united states|
+|Helping Hand USA|32.00 USD|[60](https://www.snap.com/political-ads/asset/ac133e47300ea6cc017b86df303fd0f00944ca594bf2dbfeafe5c1c4f18d84ff?mediaType=png)|1,045||18+|united states|
+|Helping Hand USA|14.00 USD|[61](https://www.snap.com/political-ads/asset/7548b0bfbeb4f410dc85bb68b4af8557e6d1d2003b21d4e80d3c87e8ba14b310?mediaType=png)|1,028||20+|united states|
+|Helping Hand USA|17.00 USD|[62](https://www.snap.com/political-ads/asset/fccdba671e6be9417848b197dd78e208d5cad1daf4aefbcd9887e1ff6b90a1e0?mediaType=png)|980||20+|united states|
+|Helping Hand USA|34.00 USD|[63](https://www.snap.com/political-ads/asset/1320dd14d7dabe7dbfaca64f1051eee9e2497992105727305b2933933411dc95?mediaType=png)|947||19-50|united states|
+|Helping Hand USA|22.00 USD|[64](https://www.snap.com/political-ads/asset/f72ef440e59cc25fff624f4e6d54e5b2add06889812edf4c2040043003330c10?mediaType=png)|931||20+|united states|
+|Helping Hand USA|19.00 USD|[65](https://www.snap.com/political-ads/asset/1cb7a56a4872857e12b090a0f570cefd244a525a0e8574556bb807595e277567?mediaType=jpeg)|850||21+|united states|
+|Helping Hand USA|29.00 USD|[66](https://www.snap.com/political-ads/asset/fa67688a7061f09c548b1116da1fcd90456c895d29b7b0763c2bc5028328c3cb?mediaType=jpg)|825||21+|united states|
+|Helping Hand USA|23.00 USD|[67](https://www.snap.com/political-ads/asset/fd9cecb74fc41a1c2d229f688481f710c0968491b895362dac63966908032ff4?mediaType=png)|816||20-50|united states|
+|Helping Hand USA|24.00 USD|[68](https://www.snap.com/political-ads/asset/09d1fa99a2e2f12c30a6988aec913606f3c8a036bd6df586575c00e65ae1e93e?mediaType=jpg)|751||21+|united states|
+|Helping Hand USA|18.00 USD|[69](https://www.snap.com/political-ads/asset/09d1fa99a2e2f12c30a6988aec913606f3c8a036bd6df586575c00e65ae1e93e?mediaType=jpg)|742||21+|united states|
+|Helping Hand USA|24.00 USD|[70](https://www.snap.com/political-ads/asset/fa67688a7061f09c548b1116da1fcd90456c895d29b7b0763c2bc5028328c3cb?mediaType=jpg)|733||21+|united states|
+|Helping Hand USA|11.00 USD|[71](https://www.snap.com/political-ads/asset/4525b6bc6a9b0e18254a2ad9dc20b418860e90570b767e6599a699e88f90f797?mediaType=png)|733||20+|united states|
+|Helping Hand USA|34.00 USD|[72](https://www.snap.com/political-ads/asset/56e2e4aa0843334f8506297affe1c0fbe4738643b5c00d0f0a15ca8a1c2d1af3?mediaType=jpeg)|673||21+|united states|
+|Helping Hand USA|15.00 USD|[73](https://www.snap.com/political-ads/asset/1575ec92788b306763951b1b9dbfee61136e2a95b51d0d7fb527bc6a09bd1d8e?mediaType=jpg)|663||18+|united states|
+|Helping Hand USA|23.00 USD|[74](https://www.snap.com/political-ads/asset/c2fa47c3809fd43e58ed0bfd1a39e7b5baf46725b719fa73390d5a3b4a0fddff?mediaType=mp4)|628||20+|united states|
+|Helping Hand USA|30.00 USD|[75](https://www.snap.com/political-ads/asset/51f048a26b2a2ab765b187dd651ed0fc4ee5ce5426f2077316ad0bc9d2f81e15?mediaType=png)|626||20+|united states|
+|Helping Hand USA|16.00 USD|[76](https://www.snap.com/political-ads/asset/898e3ee6b2b98f3c21f990b2790b9a116e8e45cf7e6acb9833a4c85e96a3aaa6?mediaType=png)|606||20-50|united states|
+|Helping Hand USA|23.00 USD|[77](https://www.snap.com/political-ads/asset/4132f60a24f6df71cc77a9683dd85e5f31084b62d8511f0df2f2f4c7b278752c?mediaType=png)|594||19-50|united states|
+|Helping Hand USA|11.00 USD|[78](https://www.snap.com/political-ads/asset/a9269c268cef3f4a456963d2f2f37b46709c4f859c1fbdf16d64d82f960f1c3a?mediaType=png)|586||20+|united states|
+|Helping Hand USA|13.00 USD|[79](https://www.snap.com/political-ads/asset/b30fbb178e9f78ebc19e6ea10cba54effab7a97c68f8d681feb2265e1a2fd795?mediaType=png)|502||19-50|united states|
+|Helping Hand USA|38.00 USD|[80](https://www.snap.com/political-ads/asset/56e2e4aa0843334f8506297affe1c0fbe4738643b5c00d0f0a15ca8a1c2d1af3?mediaType=jpeg)|494||21+|united states|
+|Helping Hand USA|14.00 USD|[81](https://www.snap.com/political-ads/asset/b30fbb178e9f78ebc19e6ea10cba54effab7a97c68f8d681feb2265e1a2fd795?mediaType=png)|335||19-50|united states|
+|Helping Hand USA|12.00 USD|[82](https://www.snap.com/political-ads/asset/4f2755bd49136a0a003b09d53e5a7219ee27f5f40a1b1a699caafa95db294017?mediaType=jpeg)|290||21+|united states|
+|Helping Hand USA|15.00 USD|[83](https://www.snap.com/political-ads/asset/aa6ba2959b02007139e7f210d0628141271a69063bd2e2fb6c15a28605b3ffe7?mediaType=jpg)|279||21+|united states|
+|Helping Hand USA|9.00 USD|[84](https://www.snap.com/political-ads/asset/aa6ba2959b02007139e7f210d0628141271a69063bd2e2fb6c15a28605b3ffe7?mediaType=jpg)|209||21+|united states|
+|Helping Hand USA|10.00 USD|[85](https://www.snap.com/political-ads/asset/4f2755bd49136a0a003b09d53e5a7219ee27f5f40a1b1a699caafa95db294017?mediaType=jpeg)|181||21+|united states|
+|Helping Hand USA|7.00 USD|[86](https://www.snap.com/political-ads/asset/e1581a81f38e1ee27afedd2a37e8a17f40b710a2128ba5616f2c306ec4e8a785?mediaType=jpg)|170||21+|united states|
+|Helping Hand USA|6.00 USD|[87](https://www.snap.com/political-ads/asset/5d607293db73fbaa40bd1fab04ef3828877b7ee5e9b36f4045ae81a8f958122b?mediaType=jpg)|166||21+|united states|
+|Helping Hand USA|4.00 USD|[88](https://www.snap.com/political-ads/asset/ba09c1da1a3250059ff6cf8058a8ffee90cea10386fb66174a4012ef96e993ad?mediaType=jpg)|110||21+|united states|
+|Helping Hand USA|6.00 USD|[89](https://www.snap.com/political-ads/asset/51f048a26b2a2ab765b187dd651ed0fc4ee5ce5426f2077316ad0bc9d2f81e15?mediaType=png)|105||20+|united states|
+|Helping Hand USA|2.00 USD|[90](https://www.snap.com/political-ads/asset/4f2755bd49136a0a003b09d53e5a7219ee27f5f40a1b1a699caafa95db294017?mediaType=jpeg)|102||21+|united states|
+|Helping Hand USA|4.00 USD|[91](https://www.snap.com/political-ads/asset/5d607293db73fbaa40bd1fab04ef3828877b7ee5e9b36f4045ae81a8f958122b?mediaType=jpg)|85||21+|united states|
+|Helping Hand USA|3.00 USD|[92](https://www.snap.com/political-ads/asset/ba09c1da1a3250059ff6cf8058a8ffee90cea10386fb66174a4012ef96e993ad?mediaType=jpg)|67||21+|united states|

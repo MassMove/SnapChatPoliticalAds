@@ -3,7 +3,7 @@
 
 **Impressions**: 668,771
 
-**Billing Addresses**: BE
+**Billing Addresses**: Rue du Marquis, 1,Bruxelles,1000,BE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
