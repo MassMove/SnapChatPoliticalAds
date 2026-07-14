@@ -31,6 +31,65 @@ namespace SCBot.Parsers
                     }
                 }
             }
+
+            NormalizeRawCsv(dataFile);
+        }
+
+        private static void NormalizeRawCsv(string dataFile)
+        {
+            if (!File.Exists(dataFile))
+            {
+                return;
+            }
+
+            var lines = File.ReadAllText(dataFile).Split(new[] { "\r\n" }, StringSplitOptions.None);
+            if (lines.Length <= 1)
+            {
+                return;
+            }
+
+            var header = lines[0];
+            var records = new List<string>();
+            for (int i = 1; i < lines.Length; i++)
+            {
+                var line = lines[i];
+                if (i == lines.Length - 1 && line.Length == 0)
+                {
+                    continue; // trailing newline produces a final empty element
+                }
+
+                if (IsRecordStart(line) || records.Count == 0)
+                {
+                    records.Add(line);
+                }
+                else
+                {
+                    records[records.Count - 1] += "\r\n" + line;
+                }
+            }
+
+            records.Sort(StringComparer.Ordinal);
+
+            File.WriteAllText(dataFile, header + "\r\n" + string.Join("\r\n", records) + "\r\n");
+        }
+
+        // A record starts with a 64-character lowercase hex ADID followed by a comma.
+        private static bool IsRecordStart(string line)
+        {
+            if (line.Length < 65 || line[64] != ',')
+            {
+                return false;
+            }
+            for (int i = 0; i < 64; i++)
+            {
+                char c = line[i];
+                bool isHex = (c >= '0' && c <= '9') || (c >= 'a' && c <= 'f') || (c >= 'A' && c <= 'F');
+                if (!isHex)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         public List<Campaign> Parse(string filePath)
@@ -112,7 +171,10 @@ namespace SCBot.Parsers
                     }
                 }
 
-                return campaigns.OrderByDescending(c => c.impressions).ToList();
+                return campaigns
+                    .OrderByDescending(c => c.impressions)
+                    .ThenBy(c => c.payingAdvertiserName, StringComparer.Ordinal)
+                    .ToList();
             }
             catch (IOException)
             {

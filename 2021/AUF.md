@@ -4,8 +4,8 @@
 **Impressions**: 4,753,189
 
 **Billing Addresses**: 
-- Øvre Slottsgate 8,Oslo,0157,NO
 - Yongstorget 2A,Oslo,0028,NO
+- Øvre Slottsgate 8,Oslo,0157,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
