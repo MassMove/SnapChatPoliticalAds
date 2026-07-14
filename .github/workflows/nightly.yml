@@ -34,7 +34,7 @@ jobs:
         run: mkdir -p "$(date -u +%Y)"
 
       - name: Run SCBot
-        working-directory: SCBot/SCBot/bin/Release/net6.0
+        working-directory: SCBot/bin/Release/net6.0
         run: dotnet SCBot.dll
 
       - name: Commit and push changes
