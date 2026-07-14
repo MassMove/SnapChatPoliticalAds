@@ -1,0 +1,50 @@
+name: Nightly data update
+
+on:
+  schedule:
+    # 05:00 UTC every day
+    - cron: '0 5 * * *'
+  workflow_dispatch: {}
+
+# Allow the job to push the regenerated data back to the repo
+permissions:
+  contents: write
+
+# Don't let a slow run overlap with the next scheduled one
+concurrency:
+  group: nightly-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: Build
+        run: dotnet build SCBot.sln -c Release
+
+      - name: Ensure current-year folder exists
+        run: mkdir -p "$(date -u +%Y)"
+
+      - name: Run SCBot
+        working-directory: SCBot/SCBot/bin/Release/net6.0
+        run: dotnet SCBot.dll
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update with $(date -u +%Y-%m-%d) data"
+            git push
+          fi
