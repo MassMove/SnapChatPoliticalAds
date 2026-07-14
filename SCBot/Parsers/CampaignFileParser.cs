@@ -2,6 +2,7 @@
 using SCBot.Models;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.IO.Compression;
 using System.Net;
@@ -115,7 +116,11 @@ namespace SCBot.Parsers
             }
             catch (IOException)
             {
-                return default;
+                // Don't swallow into a null return: the caller immediately
+                // enumerates the result, and an empty/partial run must not
+                // overwrite good data. Fail loudly so the nightly job stops
+                // before the commit step.
+                throw;
             }
         }
 
@@ -125,11 +130,11 @@ namespace SCBot.Parsers
             campaign.organizationName = fields[7].Replace(",", " ");
 
             long spend;
-            long.TryParse(fields[3], out spend);    
+            long.TryParse(fields[3], NumberStyles.Integer, CultureInfo.InvariantCulture, out spend);
             campaign.spend = spend;
 
             long impressions;
-            long.TryParse(fields[4], out impressions);
+            long.TryParse(fields[4], NumberStyles.Integer, CultureInfo.InvariantCulture, out impressions);
             campaign.impressions = impressions;
 
             campaign.creativeUrls.Add(fields[1]);

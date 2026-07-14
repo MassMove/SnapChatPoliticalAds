@@ -1,6 +1,5 @@
 ﻿using SCBot.Parsers;
 using System;
-using System.Linq;
 
 namespace SCBot
 {
@@ -28,7 +27,6 @@ namespace SCBot
                 campaignFileParser.Download(dataFile, url);
 
                 var campaigns = campaignFileParser.Parse(dataFile);
-                campaigns.OrderByDescending(c => c.spend);
                 campaignSummaryWriter.Write(dataSummaryFile, campaigns);
                 campaignSummaryWriter.WriteReadMeYear(campaigns, year, dataFile);
                 readMe = campaignSummaryWriter.WriteReadMe(campaigns, readMe, year);

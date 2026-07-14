@@ -2,6 +2,7 @@
 using SCBot.Models;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 
@@ -30,8 +31,8 @@ namespace SCBot.Parsers
                 foreach (Campaign campaign in items)
                 {
                     string line = FormatItem(campaign.organizationName) + ",";
-                    line += campaign.spend + ",";
-                    line += campaign.impressions + ",";
+                    line += campaign.spend.ToString(CultureInfo.InvariantCulture) + ",";
+                    line += campaign.impressions.ToString(CultureInfo.InvariantCulture) + ",";
                     line += FormatItem(campaign.currencyCodes[0]) + ",";
                     line += FormatItem(campaign.candidateBallotNames[0]) + ",";
                     line += FormatItem(campaign.payingAdvertiserNames[0]) + ",";
@@ -129,9 +130,9 @@ namespace SCBot.Parsers
             var campaigns = advertiserCampaigns.Where(c => c.payingAdvertiserName == advertiser).ToList();
 
             var readMeAdvertiser = "## " + year + " - " + advertiser + " \r\n";
-            readMeAdvertiser += $"**Spent**: {campaigns.Select(c => c.spend).Sum().ToString("N")}\r\n";
+            readMeAdvertiser += $"**Spent**: {campaigns.Select(c => c.spend).Sum().ToString("N", CultureInfo.InvariantCulture)}\r\n";
             readMeAdvertiser += "\r\n";
-            readMeAdvertiser += $"**Impressions**: {campaigns.Select(c => c.impressions).Sum().ToString("N0")}\r\n";
+            readMeAdvertiser += $"**Impressions**: {campaigns.Select(c => c.impressions).Sum().ToString("N0", CultureInfo.InvariantCulture)}\r\n";
             readMeAdvertiser += "\r\n";
             readMeAdvertiser += $"**Billing Addresses**: {FormatAddresses(campaigns)}\r\n";
             readMeAdvertiser += "\r\n";
@@ -244,7 +245,7 @@ namespace SCBot.Parsers
 
             line += "|";
 
-            line += campaign.spend.ToString("N") + " " + FormatList(campaign.currencyCodes) + "|";
+            line += campaign.spend.ToString("N", CultureInfo.InvariantCulture) + " " + FormatList(campaign.currencyCodes) + "|";
 
             if (year == 0)
             {
@@ -259,7 +260,7 @@ namespace SCBot.Parsers
                     line += FormatUrls(campaign.creativeUrls, 0) + "|";
                 }
             }
-            line += campaign.impressions.ToString("N0") + "|";
+            line += campaign.impressions.ToString("N0", CultureInfo.InvariantCulture) + "|";
             line += FormatList(campaign.genders) + "|";
             line += FormatList(campaign.ageBrackets) + "|";
             line += FormatList(campaign.countryCodes) + "|";
