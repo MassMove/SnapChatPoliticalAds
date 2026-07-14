@@ -1,12 +1,15 @@
-## 2022 - Somos PAC 
-**Spent**: 26,934.00
+## 2022 - SOMOS PAC 
+**Spent**: 27,496.00
 
-**Impressions**: 1,234,043
+**Impressions**: 1,477,044
 
-**Billing Addresses**: 901 H STREET NE, Apt 519,washington dc,20002,US
+**Billing Addresses**: 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Somos Pac: Mark Kelly|14,047.00 USD|[0](https://www.snap.com/political-ads/asset/acdaf6db0d0a06878528c931d477923266fccf9f180a50ac1f376bce20696526?mediaType=mp4)|725,941||18+|united states|
-|Somos Pac: Mark Kelly|9,397.00 USD|[1](https://www.snap.com/political-ads/asset/4f7fafc742b65bb04d96d9d16f2cc2f8f84b6353d1281a27db92881481255ac5?mediaType=mp4)|346,646||18+|united states|
-|Somos Pac: Mark Kelly|3,490.00 USD|[2](https://www.snap.com/political-ads/asset/b60212b7a859b7854e7ce64b2744b55502971a236b3e8a1eb2977d367bc4bc66?mediaType=mp4)|161,456||18+|united states|
+|Blueprint Interactive|12,837.00 USD|[0](https://www.snap.com/political-ads/asset/e03ac1d31e7d96924e7c99554128e3679181f30100f2b360324df48e947722b2?mediaType=mp4)|583,119||18+|united states|
+|Blueprint Interactive|5,888.00 USD|[1](https://www.snap.com/political-ads/asset/216f45476d968150fd2b23284369c785e5cc08ac21500eaad17f7df579602351?mediaType=mp4)|380,959||18+|united states|
+|Blueprint Interactive|3,563.00 USD|[2](https://www.snap.com/political-ads/asset/3be1995c19d8a2d05465ec151bdc4c15e1154c57a1d08211840c44700742d334?mediaType=mp4)|182,208||18+|united states|
+|Blueprint Interactive|1,768.00 USD|[3](https://www.snap.com/political-ads/asset/88369613c004ee6cd5a99e46b7f19c5b4f01ae2449c2d4daa910f844d87869d2?mediaType=mp4)|134,046||18+|united states|
+|Blueprint Interactive|1,542.00 USD|[4](https://www.snap.com/political-ads/asset/cb396c7839d00ae93607742222e3a1928dbc496e7c93f25660b0e076ff5fa9eb?mediaType=mp4)|100,675||18+|united states|
+|Blueprint Interactive|1,898.00 USD|[5](https://www.snap.com/political-ads/asset/e826ce0df779f38bd2244105e5b0a3d2e295c067d916d1dd2c61a8c64cefd11f?mediaType=mp4)|96,037||18+|united states|
