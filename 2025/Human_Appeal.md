@@ -1,7 +1,7 @@
 ## 2025 - Human Appeal 
-**Spent**: 341,504.00
+**Spent**: 341,506.00
 
-**Impressions**: 68,829,330
+**Impressions**: 68,829,656
 
 **Billing Addresses**: Pennine House Carrs Road,Cheadle,SK8 2BL,GB
 
@@ -14,7 +14,7 @@
 |Human Appeal|17,327.00 GBP|[4](https://www.snap.com/political-ads/asset/30ee39a036c068a718c3e9484d9154dfc07793250273808483d8f26f09ac0def?mediaType=mp4)|2,899,700||20+|united kingdom|
 |Human Appeal|19,675.00 GBP|[5](https://www.snap.com/political-ads/asset/f2efdba4722ea3e4992ca2a6aead97c22b882304c1e56195ab9631156d495497?mediaType=mp4)|2,671,187||18+|united kingdom|
 |Human Appeal|11,406.00 GBP|[6](https://www.snap.com/political-ads/asset/62d09b19bf048a52a8d63c5916884c959cf2d12e88d7c1ddb0e5a5a7d27318fd?mediaType=png)|2,345,820||18+|united kingdom|
-|Human Appeal|16,222.00 GBP|[7](https://www.snap.com/political-ads/asset/d16d3b9ae868913658359dcbe590a0f17be36810a274004262bafa38870243d0?mediaType=mp4)|2,167,757||18+|united kingdom|
+|Human Appeal|16,224.00 GBP|[7](https://www.snap.com/political-ads/asset/d16d3b9ae868913658359dcbe590a0f17be36810a274004262bafa38870243d0?mediaType=mp4)|2,168,083||18+|united kingdom|
 |Human Appeal|13,512.00 GBP|[8](https://www.snap.com/political-ads/asset/cdcab24182fd7c7c33a6e30176b8bbceb4a116a2157790883604a2ec548e08eb?mediaType=mp4)|1,632,026||18+|united kingdom|
 |Human Appeal|3,445.00 GBP|[9](https://www.snap.com/political-ads/asset/48e416a4563cdde48656ffd921f06243a283bb29499fd354fe9efefdc5a6f900?mediaType=mp4)|1,460,938||18+|united kingdom|
 |Human Appeal|10,000.00 GBP|[10](https://www.snap.com/political-ads/asset/2bb9fc963a7a64c08eb6687ba8c4e07274ca8610a18b182ce362ccaa1075f834?mediaType=mp4)|1,325,925||18+|united kingdom|

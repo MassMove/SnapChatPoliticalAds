@@ -1,7 +1,7 @@
 ## 2026 - Turning Point USA 
-**Spent**: 2,029.00
+**Spent**: 2,032.00
 
-**Impressions**: 158,728
+**Impressions**: 158,834
 
 **Billing Addresses**: 8821 Research Drive,Irinve,92618,US
 
@@ -27,7 +27,7 @@
 |TRAFFIK|18.00 USD|[17](https://www.snap.com/political-ads/asset/38d46b80dc9950d0f8715b10ad394127d2166ed5ca415c96fb71bb3a5698f852?mediaType=png)|1,613||18-22|united states|
 |TRAFFIK|20.00 USD|[18](https://www.snap.com/political-ads/asset/38d46b80dc9950d0f8715b10ad394127d2166ed5ca415c96fb71bb3a5698f852?mediaType=png)|1,447||18-22|united states|
 |TRAFFIK|19.00 USD|[19](https://www.snap.com/political-ads/asset/c07a57245adef876a614032c2f9a1669d6f2c294c3a54b6fe882357034ce69d6?mediaType=png)|1,270||18-22|united states|
-|TRAFFIK|20.00 USD|[20](https://www.snap.com/political-ads/asset/819a4c6f6fc2a5164f2c32f5b648bff19f8d8fcfd1aff1fb3e702b6652e841af?mediaType=png)|1,219||18-22|united states|
+|TRAFFIK|21.00 USD|[20](https://www.snap.com/political-ads/asset/819a4c6f6fc2a5164f2c32f5b648bff19f8d8fcfd1aff1fb3e702b6652e841af?mediaType=png)|1,248||18-22|united states|
 |TRAFFIK|25.00 USD|[21](https://www.snap.com/political-ads/asset/c07a57245adef876a614032c2f9a1669d6f2c294c3a54b6fe882357034ce69d6?mediaType=png)|1,161||18-22|united states|
 |TRAFFIK|18.00 USD|[22](https://www.snap.com/political-ads/asset/38d46b80dc9950d0f8715b10ad394127d2166ed5ca415c96fb71bb3a5698f852?mediaType=png)|1,124||18-22|united states|
 |TRAFFIK|15.00 USD|[23](https://www.snap.com/political-ads/asset/df47c03ebea499355c6a466cb46955673f8caed2f6ae8b88b3b90e8aad55f7db?mediaType=png)|1,118||18-22|united states|
@@ -36,11 +36,11 @@
 |TRAFFIK|12.00 USD|[26](https://www.snap.com/political-ads/asset/38d46b80dc9950d0f8715b10ad394127d2166ed5ca415c96fb71bb3a5698f852?mediaType=png)|924||18-22|united states|
 |TRAFFIK|34.00 USD|[27](https://www.snap.com/political-ads/asset/c7c2d5d301e070d16dbb369fbd9b07642256283af210a588e1ea91721ca77ca1?mediaType=png)|919||18-22|united states|
 |TRAFFIK|14.00 USD|[28](https://www.snap.com/political-ads/asset/4eb269fdf2b4698044abb4c37d74b349eee63e40a8c4df43c68b31ba20174244?mediaType=png)|917||18-22|united states|
-|TRAFFIK|25.00 USD|[29](https://www.snap.com/political-ads/asset/c07a57245adef876a614032c2f9a1669d6f2c294c3a54b6fe882357034ce69d6?mediaType=png)|913||18-22|united states|
-|TRAFFIK|20.00 USD|[30](https://www.snap.com/political-ads/asset/3cf0aa46e6d2923b6213674c57287844b364946ca7c6dfb60b17c08b3e35f86d?mediaType=png)|897||18-22|united states|
-|TRAFFIK|12.00 USD|[31](https://www.snap.com/political-ads/asset/fbcb4134cc67a6e3734f66a1f00f5411fadc694979a2afc23aa536e694c51713?mediaType=png)|876||18-22|united states|
-|TRAFFIK|19.00 USD|[32](https://www.snap.com/political-ads/asset/819a4c6f6fc2a5164f2c32f5b648bff19f8d8fcfd1aff1fb3e702b6652e841af?mediaType=png)|874||18-22|united states|
-|TRAFFIK|33.00 USD|[33](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|869||18-22|united states|
+|TRAFFIK|35.00 USD|[29](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|915||18-22|united states|
+|TRAFFIK|25.00 USD|[30](https://www.snap.com/political-ads/asset/c07a57245adef876a614032c2f9a1669d6f2c294c3a54b6fe882357034ce69d6?mediaType=png)|913||18-22|united states|
+|TRAFFIK|20.00 USD|[31](https://www.snap.com/political-ads/asset/3cf0aa46e6d2923b6213674c57287844b364946ca7c6dfb60b17c08b3e35f86d?mediaType=png)|897||18-22|united states|
+|TRAFFIK|12.00 USD|[32](https://www.snap.com/political-ads/asset/fbcb4134cc67a6e3734f66a1f00f5411fadc694979a2afc23aa536e694c51713?mediaType=png)|876||18-22|united states|
+|TRAFFIK|19.00 USD|[33](https://www.snap.com/political-ads/asset/819a4c6f6fc2a5164f2c32f5b648bff19f8d8fcfd1aff1fb3e702b6652e841af?mediaType=png)|874||18-22|united states|
 |TRAFFIK|15.00 USD|[34](https://www.snap.com/political-ads/asset/c44db35e3a344c53d49dceb17b667027f844ad38b5f9ecf467a4136f71934cef?mediaType=png)|858||18-22|united states|
 |TRAFFIK|9.00 USD|[35](https://www.snap.com/political-ads/asset/4eb269fdf2b4698044abb4c37d74b349eee63e40a8c4df43c68b31ba20174244?mediaType=png)|847||18-22|united states|
 |TRAFFIK|8.00 USD|[36](https://www.snap.com/political-ads/asset/df47c03ebea499355c6a466cb46955673f8caed2f6ae8b88b3b90e8aad55f7db?mediaType=png)|739||18-22|united states|
@@ -66,17 +66,17 @@
 |TRAFFIK|6.00 USD|[56](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|457||18-22|united states|
 |TRAFFIK|7.00 USD|[57](https://www.snap.com/political-ads/asset/37c03a398c6d458b5ba1eb13130c04fb723045c4360159abb7f84ee39c655cab?mediaType=png)|445||18-22|united states|
 |TRAFFIK|5.00 USD|[58](https://www.snap.com/political-ads/asset/38d46b80dc9950d0f8715b10ad394127d2166ed5ca415c96fb71bb3a5698f852?mediaType=png)|438||18-22|united states|
-|TRAFFIK|4.00 USD|[59](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|411||18-22|united states|
-|TRAFFIK|4.00 USD|[60](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|407||18-22|united states|
-|TRAFFIK|5.00 USD|[61](https://www.snap.com/political-ads/asset/7485e9c70c63b168bc266f49dc446f6fbc19ef2b9909556944db19721fb951e9?mediaType=png)|402||18-22|united states|
-|TRAFFIK|15.00 USD|[62](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|400||18-22|united states|
+|TRAFFIK|15.00 USD|[59](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|413||18-22|united states|
+|TRAFFIK|4.00 USD|[60](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|411||18-22|united states|
+|TRAFFIK|4.00 USD|[61](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|407||18-22|united states|
+|TRAFFIK|5.00 USD|[62](https://www.snap.com/political-ads/asset/7485e9c70c63b168bc266f49dc446f6fbc19ef2b9909556944db19721fb951e9?mediaType=png)|402||18-22|united states|
 |TRAFFIK|5.00 USD|[63](https://www.snap.com/political-ads/asset/819a4c6f6fc2a5164f2c32f5b648bff19f8d8fcfd1aff1fb3e702b6652e841af?mediaType=png)|395||18-22|united states|
 |TRAFFIK|4.00 USD|[64](https://www.snap.com/political-ads/asset/a2c1847c40c33cb3a4ebf2004f9fed427cc7336a146ddabc3c5a31a3e5bd3727?mediaType=png)|388||18-22|united states|
 |TRAFFIK|6.00 USD|[65](https://www.snap.com/political-ads/asset/a2d317b729822b6585423d904fdab51f7d78d13fd89b5d472034bb6f49b9fed0?mediaType=png)|384||18-22|united states|
-|TRAFFIK|13.00 USD|[66](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|367||18-22|united states|
+|TRAFFIK|13.00 USD|[66](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|369||18-22|united states|
 |TRAFFIK|4.00 USD|[67](https://www.snap.com/political-ads/asset/a2c1847c40c33cb3a4ebf2004f9fed427cc7336a146ddabc3c5a31a3e5bd3727?mediaType=png)|358||18-22|united states|
-|TRAFFIK|4.00 USD|[68](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|353||18-22|united states|
-|TRAFFIK|12.00 USD|[69](https://www.snap.com/political-ads/asset/c44db35e3a344c53d49dceb17b667027f844ad38b5f9ecf467a4136f71934cef?mediaType=png)|343||18-22|united states|
+|TRAFFIK|12.00 USD|[68](https://www.snap.com/political-ads/asset/c44db35e3a344c53d49dceb17b667027f844ad38b5f9ecf467a4136f71934cef?mediaType=png)|353||18-22|united states|
+|TRAFFIK|4.00 USD|[69](https://www.snap.com/political-ads/asset/90972173fc585285706670a92646829c9fa6a03003a7888b7cd7fb898453a6bd?mediaType=png)|353||18-22|united states|
 |TRAFFIK|8.00 USD|[70](https://www.snap.com/political-ads/asset/77140ea02a3cc0f3942f562021ea5cda5eb3f233b7210630bb53b739c2fad35a?mediaType=mp4)|330||18-22|united states|
 |TRAFFIK|4.00 USD|[71](https://www.snap.com/political-ads/asset/a2d317b729822b6585423d904fdab51f7d78d13fd89b5d472034bb6f49b9fed0?mediaType=png)|329||18-22|united states|
 |TRAFFIK|3.00 USD|[72](https://www.snap.com/political-ads/asset/0be7cab03ab066463589f303aa44da8865aba214e89ae13fc4c77603633515e4?mediaType=png)|318||18-22|united states|
@@ -98,7 +98,7 @@
 |TRAFFIK|3.00 USD|[88](https://www.snap.com/political-ads/asset/37c03a398c6d458b5ba1eb13130c04fb723045c4360159abb7f84ee39c655cab?mediaType=png)|176||18-22|united states|
 |TRAFFIK|2.00 USD|[89](https://www.snap.com/political-ads/asset/12397d1de0ac04f78cfacf8a805b1782cb8993e706ddcd118461d9ff4f77b97e?mediaType=png)|172||18-22|united states|
 |TRAFFIK|1.00 USD|[90](https://www.snap.com/political-ads/asset/fbcb4134cc67a6e3734f66a1f00f5411fadc694979a2afc23aa536e694c51713?mediaType=png)|164||18-22|united states|
-|TRAFFIK|9.00 USD|[91](https://www.snap.com/political-ads/asset/c7c2d5d301e070d16dbb369fbd9b07642256283af210a588e1ea91721ca77ca1?mediaType=png)|154||18-22|united states|
+|TRAFFIK|9.00 USD|[91](https://www.snap.com/political-ads/asset/c7c2d5d301e070d16dbb369fbd9b07642256283af210a588e1ea91721ca77ca1?mediaType=png)|158||18-22|united states|
 |TRAFFIK|5.00 USD|[92](https://www.snap.com/political-ads/asset/c7c2d5d301e070d16dbb369fbd9b07642256283af210a588e1ea91721ca77ca1?mediaType=png)|146||18-22|united states|
 |TRAFFIK|1.00 USD|[93](https://www.snap.com/political-ads/asset/0d46766e96649ad83bf2cdbbcfc18de354a80cc7fc84618cb2d4d8315c010673?mediaType=png)|144||18-22|united states|
 |TRAFFIK|1.00 USD|[94](https://www.snap.com/political-ads/asset/4eb269fdf2b4698044abb4c37d74b349eee63e40a8c4df43c68b31ba20174244?mediaType=png)|143||18-22|united states|
@@ -116,8 +116,8 @@
 |TRAFFIK|1.00 USD|[106](https://www.snap.com/political-ads/asset/4bc680ed5df571fc7a0ae7492b9c718ffb3ab308aa4ff101d4d1edec082528ce?mediaType=png)|70||18-22|united states|
 |TRAFFIK|0.00 USD|[107](https://www.snap.com/political-ads/asset/a2c1847c40c33cb3a4ebf2004f9fed427cc7336a146ddabc3c5a31a3e5bd3727?mediaType=png)|70||18-22|united states|
 |TRAFFIK|0.00 USD|[108](https://www.snap.com/political-ads/asset/4eb269fdf2b4698044abb4c37d74b349eee63e40a8c4df43c68b31ba20174244?mediaType=png)|67||18-22|united states|
-|TRAFFIK|0.00 USD|[109](https://www.snap.com/political-ads/asset/fbcb4134cc67a6e3734f66a1f00f5411fadc694979a2afc23aa536e694c51713?mediaType=png)|64||18-22|united states|
-|TRAFFIK|0.00 USD|[110](https://www.snap.com/political-ads/asset/d022395a8745e37db0a710ffccc04e244e9be9ccc5e6e8df81f724e71286eb22?mediaType=png)|62||18-22|united states|
+|TRAFFIK|0.00 USD|[109](https://www.snap.com/political-ads/asset/d022395a8745e37db0a710ffccc04e244e9be9ccc5e6e8df81f724e71286eb22?mediaType=png)|64||18-22|united states|
+|TRAFFIK|0.00 USD|[110](https://www.snap.com/political-ads/asset/fbcb4134cc67a6e3734f66a1f00f5411fadc694979a2afc23aa536e694c51713?mediaType=png)|64||18-22|united states|
 |TRAFFIK|1.00 USD|[111](https://www.snap.com/political-ads/asset/4bc680ed5df571fc7a0ae7492b9c718ffb3ab308aa4ff101d4d1edec082528ce?mediaType=png)|55||18-22|united states|
 |TRAFFIK|3.00 USD|[112](https://www.snap.com/political-ads/asset/d022395a8745e37db0a710ffccc04e244e9be9ccc5e6e8df81f724e71286eb22?mediaType=png)|49||18-22|united states|
 |TRAFFIK|0.00 USD|[113](https://www.snap.com/political-ads/asset/4bc680ed5df571fc7a0ae7492b9c718ffb3ab308aa4ff101d4d1edec082528ce?mediaType=png)|42||18-22|united states|
