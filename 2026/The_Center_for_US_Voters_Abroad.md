@@ -1,7 +1,7 @@
 ## 2026 - The Center for US Voters Abroad 
 **Spent**: 1,680.00
 
-**Impressions**: 190,432
+**Impressions**: 190,433
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
@@ -23,7 +23,7 @@
 |Chong and Koster|23.00 USD|[13](https://www.snap.com/political-ads/asset/cf60c5ecc1e1812728b3f57f63de85a3b6a1f1a1a20c90cea62c775396ed207f?mediaType=png)|4,267||18+|mexico|
 |Chong and Koster|54.00 USD|[14](https://www.snap.com/political-ads/asset/cf60c5ecc1e1812728b3f57f63de85a3b6a1f1a1a20c90cea62c775396ed207f?mediaType=png)|3,995||18+|canada|
 |Chong and Koster|36.00 USD|[15](https://www.snap.com/political-ads/asset/197e7387e616eb4fc14124a85c9ab71864bb68936d9c164072645e5b3423c684?mediaType=png)|3,986||18+|france|
-|Chong and Koster|53.00 USD|[16](https://www.snap.com/political-ads/asset/197e7387e616eb4fc14124a85c9ab71864bb68936d9c164072645e5b3423c684?mediaType=png)|3,964||18+|germany|
+|Chong and Koster|53.00 USD|[16](https://www.snap.com/political-ads/asset/197e7387e616eb4fc14124a85c9ab71864bb68936d9c164072645e5b3423c684?mediaType=png)|3,965||18+|germany|
 |Chong and Koster|20.00 USD|[17](https://www.snap.com/political-ads/asset/197e7387e616eb4fc14124a85c9ab71864bb68936d9c164072645e5b3423c684?mediaType=png)|3,794||18+|mexico|
 |Chong and Koster|35.00 USD|[18](https://www.snap.com/political-ads/asset/8e01a6cf5b9ab62895c43b4ce5571b2db88568ccbe9d3c5e66f0f34a2ea59ebf?mediaType=png)|3,732||18+|united kingdom|
 |Chong and Koster|42.00 USD|[19](https://www.snap.com/political-ads/asset/cf60c5ecc1e1812728b3f57f63de85a3b6a1f1a1a20c90cea62c775396ed207f?mediaType=png)|3,697||18+|united kingdom|

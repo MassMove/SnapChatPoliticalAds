@@ -1,13 +1,13 @@
 ## 2025 - Your Impact Foundation 
-**Spent**: 14,021.00
+**Spent**: 14,023.00
 
-**Impressions**: 8,668,691
+**Impressions**: 8,669,008
 
 **Billing Addresses**: GB
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|yourimpactfdn|5,078.00 GBP|[0](https://www.snap.com/political-ads/asset/b107e22c5c45b1de578527d7f5a49bf939652bc18653685f1f2766c082ef2a4c?mediaType=mp4)|2,055,829||20+|united kingdom|
+|yourimpactfdn|5,080.00 GBP|[0](https://www.snap.com/political-ads/asset/b107e22c5c45b1de578527d7f5a49bf939652bc18653685f1f2766c082ef2a4c?mediaType=mp4)|2,056,146||20+|united kingdom|
 |yourimpactfdn|947.00 GBP|[1](https://www.snap.com/political-ads/asset/25c03a5653875d0990da80bc8d58a87fc25e3632c9c97508ee2c67ededc6d2bd?mediaType=mp4)|994,133||20+|united kingdom|
 |yourimpactfdn|585.00 GBP|[2](https://www.snap.com/political-ads/asset/1700dc7c624cefd7a0033495005e73a6ebcc3c5cdaefaa6615c704fb29335a24?mediaType=mp4)|808,790||20+|united kingdom|
 |yourimpactfdn|337.00 GBP|[3](https://www.snap.com/political-ads/asset/17e485cfaa4b2cef62a6a1c3d1b046431bf942e832f1c8caeb35a6c2f1e164c4?mediaType=mp4)|465,429||20+|united kingdom|
