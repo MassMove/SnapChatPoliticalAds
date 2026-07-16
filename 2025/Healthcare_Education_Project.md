@@ -1,7 +1,7 @@
 ## 2025 - Healthcare Education Project 
-**Spent**: 20,726.00
+**Spent**: 20,692.00
 
-**Impressions**: 1,071,636
+**Impressions**: 1,069,798
 
 **Billing Addresses**: US
 
@@ -61,14 +61,13 @@
 |Assemble the Agency: Medicaid Access|33.00 USD|[51](https://www.snap.com/political-ads/asset/b8a1f18c1c1c4bb73c03cbcbe55a0df301f7e7168c7eefc3c371a208444c06b8?mediaType=png)|2,112||18+|united states|
 |Assemble the Agency: Medicaid Access|32.00 USD|[52](https://www.snap.com/political-ads/asset/761fc8851e20535a356e9ee7a95e5da5d510cc4e88117536b8be774a212d924f?mediaType=png)|1,851||18+|united states|
 |Assemble the Agency: Medicaid Access|17.00 USD|[53](https://www.snap.com/political-ads/asset/267dbe60c691738c9f22b01f8c24f9c94358d9d90da385060fae8cc70a354731?mediaType=jpg)|1,842||18+|united states|
-|Assemble the Agency: Medicaid Access|34.00 USD|[54](https://www.snap.com/political-ads/asset/64becadb91d1877fb62dc6e4bccd3245d650f1d35d611cc6a5004c16baf9efa6?mediaType=jpg)|1,838||18+|united states|
-|Assemble the Agency: Medicaid Access|22.00 USD|[55](https://www.snap.com/political-ads/asset/f0bd0c593a5ae46a4c63f9a473fd35f636d142888ea2b880842982487c184159?mediaType=png)|1,801||18+|united states|
-|Assemble the Agency: Medicaid Access|25.00 USD|[56](https://www.snap.com/political-ads/asset/d698e35656ed54f4e67ae4c52d978067d68dfb928bbc9f9b67ececc74778d2fc?mediaType=jpg)|1,732||18+|united states|
-|Assemble the Agency: Medicaid Access|29.00 USD|[57](https://www.snap.com/political-ads/asset/26adb6fc99a5c9bda39be6eb3a077e3657766522e19a036a3a11dbd27d408d9c?mediaType=png)|1,547||18+|united states|
-|Assemble the Agency: Medicaid Access|14.00 USD|[58](https://www.snap.com/political-ads/asset/73d1e943c9d9ee43dcdb7c128e71720520ac59dc133ce9aea1601c8e435780c2?mediaType=jpg)|1,058||18+|united states|
-|Assemble the Agency: Medicaid Access|15.00 USD|[59](https://www.snap.com/political-ads/asset/2f1d6282dda16b16aeb589e8106f333480cd521eee20e38a32da9d145a2fe943?mediaType=jpg)|892||18+|united states|
-|Assemble the Agency: Medicaid Access|7.00 USD|[60](https://www.snap.com/political-ads/asset/08dee65f243ad392ab958f56e8a18be2b2d725989ea0d7f3d63696679909e1f0?mediaType=jpg)|656||18+|united states|
-|Assemble the Agency: Medicaid Access|4.00 USD|[61](https://www.snap.com/political-ads/asset/ebf051c05de0516e72d019d44ad033f52ec319cb4a94003af6b758b3df1dcb7a?mediaType=jpg)|368||18+|united states|
-|Assemble the Agency: Medicaid Access|3.00 USD|[62](https://www.snap.com/political-ads/asset/9476524cc7553d8fc5e951cef50dfda858719aec77be0a5de386bae8af259e08?mediaType=jpg)|293||18+|united states|
-|Assemble the Agency: Medicaid Access|2.00 USD|[63](https://www.snap.com/political-ads/asset/cf21ec85d58ef24a02eaee104a0bad4f4f9bf79fbd1f42b838f99c3d9917c4c0?mediaType=jpg)|263||18+|united states|
-|Assemble the Agency: Medicaid Access|2.00 USD|[64](https://www.snap.com/political-ads/asset/fb7de33eaacbc4e65bd19c5df047095e532d8cea894ec0323ded9ea351978dca?mediaType=jpg)|217||18+|united states|
+|Assemble the Agency: Medicaid Access|22.00 USD|[54](https://www.snap.com/political-ads/asset/f0bd0c593a5ae46a4c63f9a473fd35f636d142888ea2b880842982487c184159?mediaType=png)|1,801||18+|united states|
+|Assemble the Agency: Medicaid Access|25.00 USD|[55](https://www.snap.com/political-ads/asset/d698e35656ed54f4e67ae4c52d978067d68dfb928bbc9f9b67ececc74778d2fc?mediaType=jpg)|1,732||18+|united states|
+|Assemble the Agency: Medicaid Access|29.00 USD|[56](https://www.snap.com/political-ads/asset/26adb6fc99a5c9bda39be6eb3a077e3657766522e19a036a3a11dbd27d408d9c?mediaType=png)|1,547||18+|united states|
+|Assemble the Agency: Medicaid Access|14.00 USD|[57](https://www.snap.com/political-ads/asset/73d1e943c9d9ee43dcdb7c128e71720520ac59dc133ce9aea1601c8e435780c2?mediaType=jpg)|1,058||18+|united states|
+|Assemble the Agency: Medicaid Access|15.00 USD|[58](https://www.snap.com/political-ads/asset/2f1d6282dda16b16aeb589e8106f333480cd521eee20e38a32da9d145a2fe943?mediaType=jpg)|892||18+|united states|
+|Assemble the Agency: Medicaid Access|7.00 USD|[59](https://www.snap.com/political-ads/asset/08dee65f243ad392ab958f56e8a18be2b2d725989ea0d7f3d63696679909e1f0?mediaType=jpg)|656||18+|united states|
+|Assemble the Agency: Medicaid Access|4.00 USD|[60](https://www.snap.com/political-ads/asset/ebf051c05de0516e72d019d44ad033f52ec319cb4a94003af6b758b3df1dcb7a?mediaType=jpg)|368||18+|united states|
+|Assemble the Agency: Medicaid Access|3.00 USD|[61](https://www.snap.com/political-ads/asset/9476524cc7553d8fc5e951cef50dfda858719aec77be0a5de386bae8af259e08?mediaType=jpg)|293||18+|united states|
+|Assemble the Agency: Medicaid Access|2.00 USD|[62](https://www.snap.com/political-ads/asset/cf21ec85d58ef24a02eaee104a0bad4f4f9bf79fbd1f42b838f99c3d9917c4c0?mediaType=jpg)|263||18+|united states|
+|Assemble the Agency: Medicaid Access|2.00 USD|[63](https://www.snap.com/political-ads/asset/fb7de33eaacbc4e65bd19c5df047095e532d8cea894ec0323ded9ea351978dca?mediaType=jpg)|217||18+|united states|

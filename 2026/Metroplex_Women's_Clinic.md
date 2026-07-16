@@ -1,7 +1,7 @@
 ## 2026 - Metroplex Women's Clinic 
-**Spent**: 639.00
+**Spent**: 640.00
 
-**Impressions**: 51,620
+**Impressions**: 51,676
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -23,6 +23,6 @@
 |Cornerstone Marketing Strategies  LLC|12.00 USD|[13](https://www.snap.com/political-ads/asset/513bc204c5c4fe226688e32edacf5134441c5579fe7e74f260fd56e9cf3b1ecf?mediaType=mp4)|725|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|7.00 USD|[14](https://www.snap.com/political-ads/asset/29680befcb0857ddf8c366904025016f1695dab9c30f81526eb326f96fef12f4?mediaType=mp4)|416|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|6.00 USD|[15](https://www.snap.com/political-ads/asset/513bc204c5c4fe226688e32edacf5134441c5579fe7e74f260fd56e9cf3b1ecf?mediaType=mp4)|364|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|4.00 USD|[16](https://www.snap.com/political-ads/asset/513bc204c5c4fe226688e32edacf5134441c5579fe7e74f260fd56e9cf3b1ecf?mediaType=mp4)|282|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|5.00 USD|[16](https://www.snap.com/political-ads/asset/513bc204c5c4fe226688e32edacf5134441c5579fe7e74f260fd56e9cf3b1ecf?mediaType=mp4)|338|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|3.00 USD|[17](https://www.snap.com/political-ads/asset/09f00ff5b5c40cf167eba4e07acd184f04b42a4175db9b1d0e4c76bc997c90b5?mediaType=mp4)|236|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|1.00 USD|[18](https://www.snap.com/political-ads/asset/29680befcb0857ddf8c366904025016f1695dab9c30f81526eb326f96fef12f4?mediaType=mp4)|159|FEMALE|16-34|united states|

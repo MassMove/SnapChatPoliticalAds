@@ -1,7 +1,7 @@
 ## 2024 - Montanans for Tester 
-**Spent**: 47,345.00
+**Spent**: 47,333.00
 
-**Impressions**: 3,936,443
+**Impressions**: 3,934,307
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
@@ -62,13 +62,12 @@
 |Gambit Strategies: Montanans for Tester|95.00 USD|[52](https://www.snap.com/political-ads/asset/5f75fb8de46b6b9774a3eb7d158976c4f269dffdd3605cd7fb3da06552ea7dfe?mediaType=mp4)|3,183||18-49|united states|
 |Gambit Strategies: Montanans for Tester|14.00 USD|[53](https://www.snap.com/political-ads/asset/bbd871fbb4bd5055137252f0c773e7ed16aa19090e9af8e3dc72f2a06934406d?mediaType=mp4)|2,375||18-49|united states|
 |Gambit Strategies: Montanans for Tester|52.00 USD|[54](https://www.snap.com/political-ads/asset/45f727d3d4f1b2cc3275b18179bd95301ee02d16d36c5797c9c1f19bde923235?mediaType=mp4)|2,146||18-49|united states|
-|Gambit Strategies: Montanans for Tester|12.00 USD|[55](https://www.snap.com/political-ads/asset/adddf704b901ae2ebe453048dbf4b143bf81061c93c28a5b527b76631821c73f?mediaType=mp4)|2,136||18-49|united states|
-|Gambit Strategies: Montanans for Tester|12.00 USD|[56](https://www.snap.com/political-ads/asset/9f2ab73630bafe81e5988efecc4ae78e18f8e727f3613d5973492110cff24efe?mediaType=mp4)|2,103||18-49|united states|
-|Gambit Strategies: Montanans for Tester|12.00 USD|[57](https://www.snap.com/political-ads/asset/b4ceafc7f27de321c7dc7fca33afb1edf6ac870646ece9ab5535c4cd9caaef0b?mediaType=mp4)|2,062||18-49|united states|
-|Gambit Strategies: Montanans for Tester|12.00 USD|[58](https://www.snap.com/political-ads/asset/e1a74827dc869defc984de00c692abe8065f17091ea9ee201fda84485d35bb97?mediaType=png)|2,011||18-49|united states|
-|Gambit Strategies: Montanans for Tester|11.00 USD|[59](https://www.snap.com/political-ads/asset/126807ca8c76c81b96d99a558c0375a77911e3c743dece2665de7c7bd2cdb964?mediaType=png)|2,009||18-49|united states|
-|Gambit Strategies: Montanans for Tester|11.00 USD|[60](https://www.snap.com/political-ads/asset/be91dd3075e90d368dce5b2e5aebb477304b583ffe55b4305fc9f32218e2e3eb?mediaType=png)|2,001||18-49|united states|
-|Gambit Strategies: Montanans for Tester|11.00 USD|[61](https://www.snap.com/political-ads/asset/e44935b2067264e5c328346d4bc30ca184f1eeeee97d0ba2aff17d6b6944107b?mediaType=png)|1,980||18-49|united states|
-|Gambit Strategies: Montanans for Tester|11.00 USD|[62](https://www.snap.com/political-ads/asset/9dfc4d0f570065e8dcdd2b5531677f9307a6222af353fd57ba49555067dc2840?mediaType=png)|1,944||18-49|united states|
-|Gambit Strategies: Montanans for Tester|43.00 USD|[63](https://www.snap.com/political-ads/asset/8f1461777e3de9571219b6735e1d648fc43b02e9b52fd126c00e2368ed078555?mediaType=mp4)|1,817||18-49|united states|
-|Gambit Strategies: Montanans for Tester|0.00 USD|[64](https://www.snap.com/political-ads/asset/d1e507f183cb8012938488c52cfaee1acccd0cf8ab1841535f043c64dca75083?mediaType=mp4)|3||18-49|united states|
+|Gambit Strategies: Montanans for Tester|12.00 USD|[55](https://www.snap.com/political-ads/asset/9f2ab73630bafe81e5988efecc4ae78e18f8e727f3613d5973492110cff24efe?mediaType=mp4)|2,103||18-49|united states|
+|Gambit Strategies: Montanans for Tester|12.00 USD|[56](https://www.snap.com/political-ads/asset/b4ceafc7f27de321c7dc7fca33afb1edf6ac870646ece9ab5535c4cd9caaef0b?mediaType=mp4)|2,062||18-49|united states|
+|Gambit Strategies: Montanans for Tester|12.00 USD|[57](https://www.snap.com/political-ads/asset/e1a74827dc869defc984de00c692abe8065f17091ea9ee201fda84485d35bb97?mediaType=png)|2,011||18-49|united states|
+|Gambit Strategies: Montanans for Tester|11.00 USD|[58](https://www.snap.com/political-ads/asset/126807ca8c76c81b96d99a558c0375a77911e3c743dece2665de7c7bd2cdb964?mediaType=png)|2,009||18-49|united states|
+|Gambit Strategies: Montanans for Tester|11.00 USD|[59](https://www.snap.com/political-ads/asset/be91dd3075e90d368dce5b2e5aebb477304b583ffe55b4305fc9f32218e2e3eb?mediaType=png)|2,001||18-49|united states|
+|Gambit Strategies: Montanans for Tester|11.00 USD|[60](https://www.snap.com/political-ads/asset/e44935b2067264e5c328346d4bc30ca184f1eeeee97d0ba2aff17d6b6944107b?mediaType=png)|1,980||18-49|united states|
+|Gambit Strategies: Montanans for Tester|11.00 USD|[61](https://www.snap.com/political-ads/asset/9dfc4d0f570065e8dcdd2b5531677f9307a6222af353fd57ba49555067dc2840?mediaType=png)|1,944||18-49|united states|
+|Gambit Strategies: Montanans for Tester|43.00 USD|[62](https://www.snap.com/political-ads/asset/8f1461777e3de9571219b6735e1d648fc43b02e9b52fd126c00e2368ed078555?mediaType=mp4)|1,817||18-49|united states|
+|Gambit Strategies: Montanans for Tester|0.00 USD|[63](https://www.snap.com/political-ads/asset/d1e507f183cb8012938488c52cfaee1acccd0cf8ab1841535f043c64dca75083?mediaType=mp4)|3||18-49|united states|

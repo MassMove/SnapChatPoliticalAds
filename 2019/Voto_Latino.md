@@ -1,7 +1,7 @@
 ## 2019 - Voto Latino 
-**Spent**: 4,472.00
+**Spent**: 4,440.00
 
-**Impressions**: 1,534,868
+**Impressions**: 1,528,269
 
 **Billing Addresses**: 4422 N Ravenswood Ave # 101,Chicago,60640-5803,US
 
@@ -21,5 +21,4 @@
 |Authentic Campaigns Inc|63.00 USD|[11](https://www.snap.com/political-ads/asset/fdd69e9b1fc068787ee76c31f214e4b493f3638bbf544f69eb0e1e209faf3e6b?mediaType=png)|14,699||34-|united states|
 |Authentic Campaigns Inc|60.00 USD|[12](https://www.snap.com/political-ads/asset/601be894e1cf8aa3a26ad09116764c15a255bd0fa4486607728f508a435ba31c?mediaType=mp4)|14,598|||united states|
 |Authentic Campaigns Inc|33.00 USD|[13](https://www.snap.com/political-ads/asset/16a669f6d7f4ab73477fecf550fc6a7360b82395eab05e503855d0a1dda786e1?mediaType=png)|7,344|||united states|
-|Authentic Campaigns Inc|32.00 USD|[14](https://www.snap.com/political-ads/asset/8b7e98e011df510b0880ce7e2bfedb518fdfe32f8f2f2a39959bea661a1add06?mediaType=png)|6,599|||united states|
-|Authentic Campaigns Inc|9.00 USD|[15](https://www.snap.com/political-ads/asset/ea25a24f1d381bab3df4346a0f21734172fda475ff70b682e6f7fc168a6a3050?mediaType=png)|2,100|||united states|
+|Authentic Campaigns Inc|9.00 USD|[14](https://www.snap.com/political-ads/asset/ea25a24f1d381bab3df4346a0f21734172fda475ff70b682e6f7fc168a6a3050?mediaType=png)|2,100|||united states|

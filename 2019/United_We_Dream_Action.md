@@ -1,7 +1,7 @@
 ## 2019 - United We Dream Action 
-**Spent**: 1,293.00
+**Spent**: 1,284.00
 
-**Impressions**: 334,670
+**Impressions**: 331,396
 
 **Billing Addresses**: 1730 Rhode Island Ave NW Suite 1014,Washington,20036,US
 
@@ -51,42 +51,41 @@
 |Blueprint Interactive|22.00 USD|[41](https://www.snap.com/political-ads/asset/e041879fa65cbcc1ea7e625c4f4f43fca17cfb2e3304a77808a4d3148cb38a52?mediaType=mp4)|3,418||18-29|united states|
 |Blueprint Interactive|11.00 USD|[42](https://www.snap.com/political-ads/asset/e041879fa65cbcc1ea7e625c4f4f43fca17cfb2e3304a77808a4d3148cb38a52?mediaType=mp4)|3,326||18-29|united states|
 |Blueprint Interactive|23.00 USD|[43](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|3,311||18-29|united states|
-|Blueprint Interactive|9.00 USD|[44](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|3,274||18-29|united states|
-|Blueprint Interactive|11.00 USD|[45](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|3,142||18-29|united states|
-|Blueprint Interactive|12.00 USD|[46](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|2,918||18-29|united states|
-|Blueprint Interactive|17.00 USD|[47](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,808|||united states|
-|Blueprint Interactive|9.00 USD|[48](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,755||18-29|united states|
-|Blueprint Interactive|9.00 USD|[49](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,755||18-29|united states|
-|Blueprint Interactive|8.00 USD|[50](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,708||18-29|united states|
-|Blueprint Interactive|9.00 USD|[51](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|2,670||18-29|united states|
-|Blueprint Interactive|7.00 USD|[52](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|2,638||18-29|united states|
-|Blueprint Interactive|8.00 USD|[53](https://www.snap.com/political-ads/asset/c55717d2070991e8796ac8766e1d8e4f9ae0ad7bb83da478f958952a1b09880c?mediaType=mp4)|2,405||18-29|united states|
-|Blueprint Interactive|7.00 USD|[54](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,225||18-29|united states|
-|Blueprint Interactive|5.00 USD|[55](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,224||18-29|united states|
-|Blueprint Interactive|7.00 USD|[56](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,219||18-29|united states|
-|Blueprint Interactive|14.00 USD|[57](https://www.snap.com/political-ads/asset/e041879fa65cbcc1ea7e625c4f4f43fca17cfb2e3304a77808a4d3148cb38a52?mediaType=mp4)|2,185|||united states|
-|Blueprint Interactive|8.00 USD|[58](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,007||18-29|united states|
-|Blueprint Interactive|7.00 USD|[59](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,862||18-29|united states|
-|Blueprint Interactive|12.00 USD|[60](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,813||18-29|united states|
-|Blueprint Interactive|12.00 USD|[61](https://www.snap.com/political-ads/asset/e041879fa65cbcc1ea7e625c4f4f43fca17cfb2e3304a77808a4d3148cb38a52?mediaType=mp4)|1,798||18-29|united states|
-|Blueprint Interactive|5.00 USD|[62](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,705||18-29|united states|
-|Blueprint Interactive|11.00 USD|[63](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|1,622||18-29|united states|
-|Blueprint Interactive|6.00 USD|[64](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,595||18-29|united states|
-|Blueprint Interactive|9.00 USD|[65](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|1,553||18-29|united states|
-|Blueprint Interactive|6.00 USD|[66](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|1,530||18-29|united states|
-|Blueprint Interactive|5.00 USD|[67](https://www.snap.com/political-ads/asset/c55717d2070991e8796ac8766e1d8e4f9ae0ad7bb83da478f958952a1b09880c?mediaType=mp4)|1,480||18-29|united states|
-|Blueprint Interactive|4.00 USD|[68](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|1,364||18-29|united states|
-|Blueprint Interactive|3.00 USD|[69](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,237||18-29|united states|
-|Blueprint Interactive|8.00 USD|[70](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,169||18-29|united states|
-|Blueprint Interactive|3.00 USD|[71](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|1,135||18-29|united states|
-|Blueprint Interactive|6.00 USD|[72](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|1,050||18-29|united states|
-|Blueprint Interactive|3.00 USD|[73](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|943||18-29|united states|
-|Blueprint Interactive|3.00 USD|[74](https://www.snap.com/political-ads/asset/c55717d2070991e8796ac8766e1d8e4f9ae0ad7bb83da478f958952a1b09880c?mediaType=mp4)|913||18-29|united states|
-|Blueprint Interactive|5.00 USD|[75](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|896||18-29|united states|
-|Blueprint Interactive|2.00 USD|[76](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|890||18-29|united states|
-|Blueprint Interactive|5.00 USD|[77](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|854||18-29|united states|
-|Blueprint Interactive|5.00 USD|[78](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|827||18-29|united states|
-|Blueprint Interactive|2.00 USD|[79](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|702||18-29|united states|
-|Blueprint Interactive|2.00 USD|[80](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|644||18-29|united states|
-|Blueprint Interactive|1.00 USD|[81](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|518||18-29|united states|
-|Blueprint Interactive|2.00 USD|[82](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|456||18-29|united states|
+|Blueprint Interactive|11.00 USD|[44](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|3,142||18-29|united states|
+|Blueprint Interactive|12.00 USD|[45](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|2,918||18-29|united states|
+|Blueprint Interactive|17.00 USD|[46](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,808|||united states|
+|Blueprint Interactive|9.00 USD|[47](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,755||18-29|united states|
+|Blueprint Interactive|9.00 USD|[48](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,755||18-29|united states|
+|Blueprint Interactive|8.00 USD|[49](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,708||18-29|united states|
+|Blueprint Interactive|9.00 USD|[50](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|2,670||18-29|united states|
+|Blueprint Interactive|7.00 USD|[51](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|2,638||18-29|united states|
+|Blueprint Interactive|8.00 USD|[52](https://www.snap.com/political-ads/asset/c55717d2070991e8796ac8766e1d8e4f9ae0ad7bb83da478f958952a1b09880c?mediaType=mp4)|2,405||18-29|united states|
+|Blueprint Interactive|7.00 USD|[53](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,225||18-29|united states|
+|Blueprint Interactive|5.00 USD|[54](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,224||18-29|united states|
+|Blueprint Interactive|7.00 USD|[55](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|2,219||18-29|united states|
+|Blueprint Interactive|14.00 USD|[56](https://www.snap.com/political-ads/asset/e041879fa65cbcc1ea7e625c4f4f43fca17cfb2e3304a77808a4d3148cb38a52?mediaType=mp4)|2,185|||united states|
+|Blueprint Interactive|8.00 USD|[57](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|2,007||18-29|united states|
+|Blueprint Interactive|7.00 USD|[58](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,862||18-29|united states|
+|Blueprint Interactive|12.00 USD|[59](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,813||18-29|united states|
+|Blueprint Interactive|12.00 USD|[60](https://www.snap.com/political-ads/asset/e041879fa65cbcc1ea7e625c4f4f43fca17cfb2e3304a77808a4d3148cb38a52?mediaType=mp4)|1,798||18-29|united states|
+|Blueprint Interactive|5.00 USD|[61](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,705||18-29|united states|
+|Blueprint Interactive|11.00 USD|[62](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|1,622||18-29|united states|
+|Blueprint Interactive|6.00 USD|[63](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,595||18-29|united states|
+|Blueprint Interactive|9.00 USD|[64](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|1,553||18-29|united states|
+|Blueprint Interactive|6.00 USD|[65](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|1,530||18-29|united states|
+|Blueprint Interactive|5.00 USD|[66](https://www.snap.com/political-ads/asset/c55717d2070991e8796ac8766e1d8e4f9ae0ad7bb83da478f958952a1b09880c?mediaType=mp4)|1,480||18-29|united states|
+|Blueprint Interactive|4.00 USD|[67](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|1,364||18-29|united states|
+|Blueprint Interactive|3.00 USD|[68](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,237||18-29|united states|
+|Blueprint Interactive|8.00 USD|[69](https://www.snap.com/political-ads/asset/07575532dc6eb46b2930f7ec3b7866460080546bf6a122a5c4e0f511b146d315?mediaType=mp4)|1,169||18-29|united states|
+|Blueprint Interactive|3.00 USD|[70](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|1,135||18-29|united states|
+|Blueprint Interactive|6.00 USD|[71](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|1,050||18-29|united states|
+|Blueprint Interactive|3.00 USD|[72](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|943||18-29|united states|
+|Blueprint Interactive|3.00 USD|[73](https://www.snap.com/political-ads/asset/c55717d2070991e8796ac8766e1d8e4f9ae0ad7bb83da478f958952a1b09880c?mediaType=mp4)|913||18-29|united states|
+|Blueprint Interactive|5.00 USD|[74](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|896||18-29|united states|
+|Blueprint Interactive|2.00 USD|[75](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|890||18-29|united states|
+|Blueprint Interactive|5.00 USD|[76](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|854||18-29|united states|
+|Blueprint Interactive|5.00 USD|[77](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|827||18-29|united states|
+|Blueprint Interactive|2.00 USD|[78](https://www.snap.com/political-ads/asset/66e9fe76efeed3aff8e89a6928d5134f9c1929c0b75621b86cc9a56935b76318?mediaType=mp4)|702||18-29|united states|
+|Blueprint Interactive|2.00 USD|[79](https://www.snap.com/political-ads/asset/4220462dc5e26e2f59a3f052107efbdb54a46279fd28cbeb6239b65dc9479104?mediaType=mp4)|644||18-29|united states|
+|Blueprint Interactive|1.00 USD|[80](https://www.snap.com/political-ads/asset/0f1fcf02663eb49b59cb737bea6f71a9b07bf6263fa2c6533ad9ad8274726ecc?mediaType=mp4)|518||18-29|united states|
+|Blueprint Interactive|2.00 USD|[81](https://www.snap.com/political-ads/asset/3d3d4ca62388ed8b6bb7b2c57e964e6cdd60d2c3f9f0bcb7aa2f7bf61ce044ff?mediaType=mp4)|456||18-29|united states|

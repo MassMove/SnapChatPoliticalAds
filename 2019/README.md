@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[general mills](general_mills.md) - General Mills|1,683,056.00 USD|512,909,841||18-, 25-|united states|
-|[truth](truth.md) - Assembly|803,390.00 USD|268,204,613||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
+|[truth](truth.md) - Assembly|797,795.00 USD|263,936,905||15-17, 15-24, 18-24, 18-34, 24-|puerto rico, united states|
 |[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu France|99,381.00 EUR|123,405,259|FEMALE|18+, 18-18, 18-24, 18-30, 18-34, 25+|france|
@@ -105,7 +105,6 @@
 |[Police Scotland](Police_Scotland.md) - Republic of Media Ltd.|3,797.00 GBP|2,627,872|MALE|18+, 18-34|united kingdom|
 |[JouwGGD](JouwGGD.md) - Go eMarketing|2,246.00 EUR|2,587,553||18-18, 18-20|netherlands|
 |[liberteeshop](liberteeshop.md) - liberteeshop.com|3,149.00 USD|2,519,057||16+, 18+|united states|
-|[Department of Justice NI](Department_of_Justice_NI.md) - Ardmore Advertising|2,499.00 GBP|2,518,412||18+|united kingdom|
 |[SGI](SGI.md) - Phoenix Advertising Group  Inc.|4,862.00 CAD|2,476,690||16+|canada|
 |[McCain Institute](McCain_Institute.md) - MBuy|7,759.00 USD|2,442,311||18-34|united states|
 |[Brady Campaign](Brady_Campaign.md) - Blueprint Interactive|8,139.00 USD|2,327,153||18+|united states|
@@ -120,7 +119,7 @@
 |[Mejeriforeningen](Mejeriforeningen.md) - Reprise Media|4,011.00 EUR|2,121,387||25+|denmark|
 |[NRSC](NRSC.md) - Targeted Victory  LLC|8,156.00 USD|2,106,617||18+|united states|
 |[FLHSMV](FLHSMV.md) - Avanza Advertising  LLC: Holiday Travel, Teen Driver Safety|3,341.00 USD|2,015,074||14-21, 15+|united states|
-|[HOPE not hate Charitable Trust](HOPE_not_hate_Charitable_Trust.md) - HOPE not hate Charitable Trust|3,637.00 GBP|1,979,567||18-40|united kingdom|
+|[HOPE not hate Charitable Trust](HOPE_not_hate_Charitable_Trust.md) - HOPE not hate Charitable Trust|3,628.00 GBP|1,974,666||18-40|united kingdom|
 |[Department of Education](Department_of_Education.md) - Manning Gottlieb OMD - OmniGOV|3,128.00 GBP|1,944,429||19-24|united kingdom|
 |[Dr. Hisham Al-Saleh Campaign](Dr._Hisham_Al-Saleh_Campaign.md) - Mint|2,960.00 USD|1,922,475||21+|kuwait|
 |[SPR](SPR.md) - Toinen PHD|2,821.00 EUR|1,879,328|FEMALE|18+, 18-30|finland|
@@ -132,7 +131,7 @@
 |[Paid for by FLHSMV](Paid_for_by_FLHSMV.md) - Avanza Advertising  LLC: Teen Driver Safety|2,665.00 USD|1,603,602||14-21, 18-34|united states|
 |[SPÖ NÖ](SPÖ_NÖ.md) - SPÖ Niederösterreich: SPOE NOE|999.00 EUR|1,597,273||18+|austria|
 |[GLSEN](GLSEN.md) - GLSEN|4,453.00 USD|1,575,324|MALE|18-19|puerto rico, united states|
-|[Voto Latino](Voto_Latino.md) - Authentic Campaigns Inc|4,472.00 USD|1,534,868||18+, 34-|united states|
+|[Voto Latino](Voto_Latino.md) - Authentic Campaigns Inc|4,440.00 USD|1,528,269||18+, 34-|united states|
 |[Doctors Without Borders Canada](Doctors_Without_Borders_Canada.md) - The Aber Group|2,892.00 CAD|1,496,144||18+|canada|
 |[BEBAT](BEBAT.md) - BUBKA Antwerp|1,000.00 EUR|1,403,826|||belgium|
 |[University of California](University_of_California.md) - Parcon Media|5,985.00 USD|1,401,561||21+, 21-25|united states|
@@ -147,7 +146,7 @@
 |[Kamala Harris For The People](Kamala_Harris_For_The_People.md) - Authentic Campaigns Inc|4,869.00 USD|1,137,820||21+, 25+, 30+|united states|
 |[The Venn Media](The_Venn_Media.md) - The Venn Media|2,170.00 USD|1,137,375||17-23, 17-25, 18+, 22+|united states|
 |[Potawatomi Bingo Casino](Potawatomi_Bingo_Casino.md) - Platform Digital  Inc: Pays Big Waukegan|10,146.00 USD|1,134,746||18+|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|3,418.00 USD|1,125,012||18+, 18-34|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|3,414.00 USD|1,124,066||18+, 18-34|united states|
 |[National Education Association](National_Education_Association.md) - Blueprint Interactive|2,021.00 USD|1,122,771||15-34|united states|
 |[Dept Child Safety, Youth & Women](Dept_Child_Safety,_Youth_&_Women.md) - Department of Child Safety  Youth and Women|2,519.00 AUD|1,112,691||16-17, 16-18, 16-25, 19-30|australia|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|2,348.00 USD|1,093,433|||united states|
@@ -205,7 +204,7 @@
 |[Nat'l Domestic Workers Alliance](Nat'l_Domestic_Workers_Alliance.md) - M&R Strategic Services  Inc.|1,205.00 USD|349,521|FEMALE|18+|united states|
 |[Søren Valgreen Knudsen](Søren_Valgreen_Knudsen.md) - SørenValgreen|779.00 USD|342,936||18-20, 18-34, 20-25, 20-26, 21-25, 26-34|denmark|
 |[TRY Opt](TRY_Opt.md) - Try Schjærven Media|731.00 EUR|339,537||20+|norway|
-|[United We Dream Action](United_We_Dream_Action.md) - Blueprint Interactive|1,293.00 USD|334,670||18-29|united states|
+|[United We Dream Action](United_We_Dream_Action.md) - Blueprint Interactive|1,284.00 USD|331,396||18-29|united states|
 |[Mohammed AlSaeed](Mohammed_AlSaeed.md) - مرشح الدائرة الثالثة : محمد طلال السعيد|387.00 USD|328,866|||kuwait|
 |[Alliance for Gun Responsibility](Alliance_for_Gun_Responsibility.md) - NWP Consulting|660.00 USD|325,827||21-|united states|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - Blueprint Interactive|972.00 USD|318,579|FEMALE|18-34|united states|
@@ -248,7 +247,6 @@
 |[Socialdemokraterna i Helsingborg](Socialdemokraterna_i_Helsingborg.md) - Jakobsson Addemotion AB: Folkomrostning Helsingborg|319.00 EUR|150,425||18+|sweden|
 |[Paid for by khaled  aayedalanezi](Paid_for_by_khaled__aayedalanezi.md) - Flater_q8|246.00 USD|148,264||19+|kuwait|
 |[Democratic National Committee](Democratic_National_Committee.md) - Democratic National Committee|630.00 USD|147,894||18+|united states|
-|[The Official Agent of Kelly Day](The_Official_Agent_of_Kelly_Day.md) - Kelly Day PPC: Kelly Day|350.00 CAD|145,957||18+|canada|
 |[Tønsberg/Re Høyre](Tønsberg_Re_Høyre.md) - Tønsberg Blad|367.00 USD|136,225||18+|norway|
 |[Bernie 2020](Bernie_2020.md) - Aisle 518 Strategies LLC|361.00 USD|135,584||17+|united states|
 |[Kristiansand Høyre](Kristiansand_Høyre.md) - Kristiansand Høyre|317.00 USD|135,368|||norway|
@@ -307,7 +305,6 @@
 |[Tim Smith for Mayor Campaign](Tim_Smith_for_Mayor_Campaign.md) - The Prosper Group|96.00 USD|33,462||18+|united states|
 |[الدكتور مهلهل المضف](الدكتور_مهلهل_المضف.md) - MMD Digital Solutions|48.00 USD|32,119||18+|kuwait|
 |[The Freedom Store](The_Freedom_Store.md) - YaaBuddy Ads: Donald J Trump|330.00 CAD|30,217||28+|united states|
-|[Miljøpartiet De Grønne Nærøysund](Miljøpartiet_De_Grønne_Nærøysund.md) - Øyvind Nordstrand|95.00 EUR|30,103||18+|norway|
 |[NSJP 2019](NSJP_2019.md) - Arthur Walsh: NSJP 2019|99.00 USD|29,508||18-23|united states|
 |[cdH](cdH.md) - François Kinard|34.00 EUR|28,345||17+|belgium|
 |[Tønsbergs Blad](Tønsbergs_Blad.md) - Tønsberg Blad|117.00 USD|27,687||18+|norway|
@@ -338,6 +335,7 @@
 |[Lochtefeld For Us](Lochtefeld_For_Us.md) - Lochtefeld For Us: Eric Lochtefeld|26.00 USD|7,361||18+, 18-34|united states|
 |[Stratos Developments Ltd.](Stratos_Developments_Ltd..md) - Stratos Developments Ltd.|43.00 CAD|6,951||30+|united states|
 |[Middle Enterprises Pty Ltd](Middle_Enterprises_Pty_Ltd.md) - Middle Enterprises Pty Ltd|24.00 AUD|5,953|||united states|
+|[Miljøpartiet De Grønne Nærøysund](Miljøpartiet_De_Grønne_Nærøysund.md) - Øyvind Nordstrand|20.00 EUR|4,857||18+|norway|
 |[Act Svenska kyrkan](Act_Svenska_kyrkan.md) - Act Svenska kyrkan|1.00 EUR|3,675||18-30|sweden|
 |[Everhart for WV](Everhart_for_WV.md) - Everhart for West Virginia: WV House of Delegates - District 67|20.00 USD|3,393||18+|united states|
 |[Facedrive](Facedrive.md) - Facedrive|5.00 CAD|2,995|||canada|

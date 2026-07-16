@@ -1,13 +1,13 @@
 ## 2025 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|496,359.00 CAD|181,467,072||16+, 16-17, 18+, 18-24, 18-34|canada|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|378,282.00 EUR|151,251,013||18+|france|
+|[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|496,176.00 CAD|181,335,957||16+, 16-17, 18+, 18-24, 18-34|canada|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|378,313.00 EUR|151,268,961||18+|france|
 |[FDTN to Combat Antisemitism](FDTN_to_Combat_Antisemitism.md) - standup2jewhate|649,983.00 USD|117,469,815||18-34|united states|
 |[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co|178,944.00 EUR|104,700,513||18+, 18-30|norway|
-|[Electoral Commission](Electoral_Commission.md) - Agenda Media|179,892.00 GBP|91,876,511||18-24, 25+|united kingdom|
-|[SOS-barnebyer](SOS-barnebyer.md) - 2XL Online|874,827.00 NOK|73,984,551||18+, 25+|norway|
-|[Human Appeal](Human_Appeal.md) - Human Appeal|341,828.00 GBP|68,905,546||18+, 20+|united kingdom|
+|[Electoral Commission](Electoral_Commission.md) - Agenda Media|170,804.00 GBP|86,496,403||18-24, 25+|united kingdom|
+|[SOS-barnebyer](SOS-barnebyer.md) - 2XL Online|867,851.00 NOK|73,468,357||18+, 25+|norway|
+|[Human Appeal](Human_Appeal.md) - Human Appeal|342,413.00 GBP|69,036,265||18+, 20+|united kingdom|
 |[Høyre](Høyre.md) - Amidays|2,439,061.00 NOK|67,916,331||18+, 18-25, 18-30, 18-45, 18-50, 25-35, 26-35, 35+|norway|
 |[Trumpet of Patriots](Trumpet_of_Patriots.md) - Trumpet of Patriots: Trumpet of Patriots|902,385.00 AUD|48,670,348||16-40, 18+, 20+|australia|
 |[California Secretary of State](California_Secretary_of_State.md) - Unified|528,671.00 USD|47,976,631||18+, 25-45|united states|
@@ -17,11 +17,11 @@
 |[Valgdirektoratet](Valgdirektoratet.md) - Spooon Agency Norway|149,873.00 NOK|28,507,967||18+, 18-35, 36+|norway|
 |[Make American Fentanyl Free Inc](Make_American_Fentanyl_Free_Inc.md) - MNI Targeted Media: Make American Fentanyl Free Inc|153,410.00 USD|25,560,605||18-35, 35-50|united states|
 |[Electoral Commission Ireland](Electoral_Commission_Ireland.md) - Dentsu Aegis Network Ireland|40,719.00 EUR|20,433,165||18+|ireland|
-|[Project Unloaded Inc](Project_Unloaded_Inc.md) - Project Unloaded|91,240.00 USD|19,787,019|MALE|17-, 20-|united states|
+|[Project Unloaded Inc](Project_Unloaded_Inc.md) - Project Unloaded|91,233.00 USD|19,785,018|MALE|17-, 20-|united states|
 |[Zweites Deutsches Fernsehen](Zweites_Deutsches_Fernsehen.md) - Mediaplus International GmbH & Co. KG: Die Bundestagswahl 2025|29,418.00 EUR|19,331,234||18-21|germany|
 |[Qatar Charity](Qatar_Charity.md) - Your Speaker|67,554.00 USD|18,414,840||18+|kuwait, qatar|
 |[Venstre](Venstre.md) - Venstre: Venstre|355,193.00 NOK|13,278,122|MALE|15-19, 16-25, 17-30, 18+, 18-25, 18-32, 18-45, 30+|norway|
-|[Islamic Relief USA](Islamic_Relief_USA.md) - Islamic Relief USA|269,396.00 USD|12,858,181||18-50, 20+, 21+, 21-50, 22+, 22-50, 23+, 23-50, 24+, 25+|united states|
+|[Islamic Relief USA](Islamic_Relief_USA.md) - Islamic Relief USA|269,439.00 USD|12,865,282||18-50, 20+, 21+, 21-50, 22+, 22-50, 23+, 23-50, 24+, 25+|united states|
 |[Stadt Wien](Stadt_Wien.md) - Stadt Wien|24,592.00 EUR|12,781,416||16+, 18+|austria|
 |[Elections Ontario](Elections_Ontario.md) - Starcom Canada|119,519.00 CAD|12,690,593||18+|canada|
 |[Bufdir / Ung.no](Bufdir___Ung.no.md) - Ung.no|405,543.00 NOK|12,659,371||17-, 18-20, 18-25, 20-|norway|
@@ -31,13 +31,13 @@
 |[Project Unloaded, Inc.](Project_Unloaded,_Inc..md) - Project Unloaded|47,798.00 USD|9,605,490|MALE|17-|united states|
 |[The Free Press](The_Free_Press.md) - The Free Press|59,966.00 USD|9,021,524||18+|united states|
 |[Oslo Venstre](Oslo_Venstre.md) - Oslo Venstre: Grunde Almeland|89,999.00 NOK|8,755,093|MALE|18-45, 20+, 22-45, 25+, 30-50|norway|
-|[Your Impact Foundation](Your_Impact_Foundation.md) - yourimpactfdn|14,023.00 GBP|8,669,008||18+, 20+|united kingdom, united states|
 |[Human Appeal Belgium](Human_Appeal_Belgium.md) - ORIXA MEDIA|15,679.00 EUR|8,573,175||18+|belgium|
 |[Lettlest Media AS](Lettlest_Media_AS.md) - Brainify AS|5,237.00 NOK|8,553,678||16-25|norway|
+|[Your Impact Foundation](Your_Impact_Foundation.md) - yourimpactfdn|13,881.00 GBP|8,419,313||18+, 20+|united kingdom, united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Ben and Jerry s Homemade Inc|91,349.00 USD|8,368,923||18-44|united states|
-|[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|63,167.00 USD|8,035,121||18+|united states|
 |[Life ONG](Life_ONG.md) - LIFE ONG|20,968.00 EUR|7,993,458||25+, 27+|france|
-|[Patagonia](Patagonia.md) - Patagonia|84,824.00 EUR, USD|7,852,546||18+|canada, germany, united kingdom, united states|
+|[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|61,527.00 USD|7,932,280||18+|united states|
+|[Patagonia](Patagonia.md) - Patagonia|84,359.00 EUR, USD|7,814,401||18+|canada, germany, united kingdom, united states|
 |[Secours Islamique France](Secours_Islamique_France.md) - Secours Islamique France|15,828.00 EUR|7,440,006||18+, 20-45|france|
 |[PPFA](PPFA.md) - Chong and Koster|171,750.00 USD|7,420,063|FEMALE|18-40|united states|
 |[Oslo Høyre](Oslo_Høyre.md) - Oslo Høyre|162,777.00 NOK|6,629,204||18+, 18-22, 18-25, 25-35|norway|
@@ -45,7 +45,7 @@
 |[Oslo kommune](Oslo_kommune.md) - Oslo kommune|36,231.00 NOK|5,789,338||17+|norway|
 |[New York City Campaign Finance B](New_York_City_Campaign_Finance_B.md) - DSPolitical|39,502.00 USD|5,507,523||18-40|united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Priorities USA|38,545.00 USD|5,376,201|FEMALE|18-44|united states|
-|[HUMAN APPEAL](HUMAN_APPEAL.md) - Human Appeal  Arabic|30,002.00 GBP|4,949,723||24+|qatar, united arab emirates|
+|[HUMAN APPEAL](HUMAN_APPEAL.md) - Human Appeal  Arabic|29,999.00 GBP|4,949,551||24+|qatar, united arab emirates|
 |[WWF verdens naturfond](WWF_verdens_naturfond.md) - WWF Verdens naturfond|407,716.00 NOK|4,612,457||18-50|norway|
 |[MATW](MATW.md) - MATW Project: Australia, australia|47,676.00 AUD|4,536,115||16+, 18+, 20+, 22+|australia, canada, united kingdom, united states|
 |[AUF](AUF.md) - AUF Norge|109,326.00 EUR, NOK|4,014,799||16-19|norway|
@@ -72,7 +72,7 @@
 |[Australian Greens](Australian_Greens.md) - Nunn Media Pty. Ltd.: The Greens Victoria Senate, The Greens Western Australia|20,989.00 AUD|2,474,645||18-29, 18-49|australia|
 |[CDPHE](CDPHE.md) - Division-D|12,153.00 USD|2,471,863||18+|united states|
 |[Invest In Our Lands, LLC](Invest_In_Our_Lands,_LLC.md) - Precision Reach: Invest In Our Land|34,132.00 USD|2,279,703|||united states|
-|[MedGlobal](MedGlobal.md) - MedGlobal|16,558.00 USD|2,194,412||18+, 20+, 21+, 24+|united states|
+|[MedGlobal](MedGlobal.md) - MedGlobal|16,562.00 USD|2,195,167||18+, 20+, 21+, 24+|united states|
 |[Alsalam charity](Alsalam_charity.md) - alsalam charity|13,359.00 USD|2,151,889||20+, 25+, 30+|kuwait, qatar|
 |[Australian Labour Party](Australian_Labour_Party.md) - Australian Labor Party|53,771.00 AUD|2,142,880||18+, 18-34|australia|
 |[Fagforbundet](Fagforbundet.md) - Fagforbundet|149,977.00 NOK|2,066,340||18-29|norway|
@@ -101,7 +101,7 @@
 |[NRDC Action Fund](NRDC_Action_Fund.md) - Natural Resources Defense Council: NRDC Action Fund|13,873.00 USD|1,435,214||18-34|united states|
 |[American Civil Liberties Union](American_Civil_Liberties_Union.md) - Bully Pulpit Interactive|27,367.00 USD|1,430,846||18-35|united states|
 |[Anchor of Hope](Anchor_of_Hope.md) - Anchor of Hope|2,611.00 USD|1,416,401|FEMALE|18+|united states|
-|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|19,806.00 USD|1,415,001|FEMALE|18+, 18-35|united states|
+|[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|19,356.00 USD|1,369,379|FEMALE|18+, 18-35|united states|
 |[WALKINSHAW FOR CONGRESS](WALKINSHAW_FOR_CONGRESS.md) - BCom Solutions: Walkinshaw for Congress|4,000.00 USD|1,345,125||18+|united states|
 |[Manraj Thukral](Manraj_Thukral.md) - Adsol|3,087.00 INR|1,309,804||18+|india|
 |[Østfold fylkeskommune](Østfold_fylkeskommune.md) - Ostfold fylkeskommune: Stortingsvalg 2025|2,258.00 USD|1,307,434||18+, 18-35, 35+|norway|
@@ -112,15 +112,15 @@
 |[baladalkhair](baladalkhair.md) - baladelkhair|13,287.00 USD|1,222,918||23+, 25+, 27+, 30+|kuwait|
 |[Die Grünen](Die_Grünen.md) - Httpool Online Marketing GmbH|4,799.00 EUR|1,197,833||18+|austria|
 |[Vasemmistoliitto](Vasemmistoliitto.md) - Oy Dagmar Ab: Vasemmistoliitto|2,999.00 EUR|1,193,759||18-30|finland|
-|[Human Appeal INC](Human_Appeal_INC.md) - Human Appeal USA|40,625.00 USD|1,192,479||24+|united states|
+|[Human Appeal INC](Human_Appeal_INC.md) - Human Appeal USA|40,568.00 USD|1,189,966||24+|united states|
 |[Earthjustice](Earthjustice.md) - Precision [TEST]: Earthjustice|17,371.00 USD|1,165,517||18-34|united states|
 |[Ascend Women's Center](Ascend_Women's_Center.md) - Choose Life Marketing|2,076.00 USD|1,160,983|FEMALE|30-|united states|
 |[Welsh Government](Welsh_Government.md) - Golley Slater Ltd.|289.00 GBP|1,132,243||17-|united kingdom|
-|[Avant Garde Media](Avant_Garde_Media.md) - MI Digital Solution|28,351.00 USD|1,122,084|FEMALE|18+, 18-45, 21+, 21-45|united states|
+|[Avant Garde Media](Avant_Garde_Media.md) - MI Digital Solution|28,385.00 USD|1,123,495|FEMALE|18+, 18-45, 21+, 21-45|united states|
 |[Ads & Data](Ads_&_Data.md) - Pebble Media|1,978.00 EUR|1,110,437||18+|belgium|
 |[Allegheny County](Allegheny_County.md) - Allegheny County|6,850.00 USD|1,092,306||17+|united states|
 |[ALERT](ALERT.md) - TBWA Canada|1,680.00 CAD|1,081,468||17-|canada|
-|[Healthcare Education Project](Healthcare_Education_Project.md) - Assemble the Agency: Medicaid Access|20,726.00 USD|1,071,636||18+|united states|
+|[Healthcare Education Project](Healthcare_Education_Project.md) - Assemble the Agency: Medicaid Access|20,692.00 USD|1,069,798||18+|united states|
 |[Lagalise Cannabis Australia INC](Lagalise_Cannabis_Australia_INC.md) - Legalise Cannabis Party|1,000.00 AUD|1,043,889||18+|australia|
 |[Riverside County](Riverside_County.md) - Search for Businesses  LLC: State Measure 50|6,691.00 USD|1,017,343||18+|united states|
 |[Riksdagsförvaltningen](Riksdagsförvaltningen.md) - Nowa Kommunikation AB|58,999.00 SEK|1,011,621||18-24|sweden|
@@ -132,20 +132,20 @@
 |[Fellesforbundet](Fellesforbundet.md) - Adseo|5,754.00 EUR|925,357||18+|norway|
 |[ACLU of Michigan](ACLU_of_Michigan.md) - ACLU of Michigan: Protect Trans Youth|7,993.00 USD|914,459||18-25, 26-|united states|
 |[LC Medical](LC_Medical.md) - Stories Marketing|4,426.00 USD|900,140|FEMALE|16-38, 17-38|united states|
-|[Life Choices Clinic](Life_Choices_Clinic.md) - Stories Marketing: Life Choices Clinic|4,908.00 USD|864,555|FEMALE|16-38, 17-38, 18+|united states|
-|[Choices Pregnancy & Health](Choices_Pregnancy_&_Health.md) - Stories Marketing|4,995.00 USD|840,846|FEMALE|16-38, 17-38, 18+|united states|
+|[Life Choices Clinic](Life_Choices_Clinic.md) - Stories Marketing: Life Choices Clinic|4,918.00 USD|866,706|FEMALE|16-38, 17-38, 18+|united states|
+|[Choices Pregnancy & Health](Choices_Pregnancy_&_Health.md) - Stories Marketing|5,005.00 USD|843,230|FEMALE|16-38, 17-38, 18+|united states|
 |[Mercy Corps](Mercy_Corps.md) - Blue State Digital|28,986.00 USD|820,892||25+|united states|
 |[ProgressNow Education](ProgressNow_Education.md) - Green & Wood Media Services|13,931.00 USD|801,618||18-25, 18-39|united states|
 |[Innervisions Healthcare](Innervisions_Healthcare.md) - Choose Life Marketing|1,085.00 USD|783,944|FEMALE|30-|united states|
-|[Finger Lakes Pregnancy Care](Finger_Lakes_Pregnancy_Care.md) - Stories Marketing: Finger Lakes Pregnancy Care|5,084.00 USD|776,032|FEMALE|16-35, 17+, 17-38|united states|
+|[Finger Lakes Pregnancy Care](Finger_Lakes_Pregnancy_Care.md) - Stories Marketing: Finger Lakes Pregnancy Care|5,095.00 USD|777,748|FEMALE|16-35, 17+, 17-38|united states|
 |[LaVie Health Clinic](LaVie_Health_Clinic.md) - Choose Life Marketing|2,466.00 USD|774,710|FEMALE|34-|united states|
-|[Human Life Services](Human_Life_Services.md) - Stories Marketing: Human Life Services|4,958.00 USD|769,560|FEMALE|16+, 17+, 18-38|united states|
+|[Human Life Services](Human_Life_Services.md) - Stories Marketing: Human Life Services|4,968.00 USD|770,100|FEMALE|16+, 17+, 18-38|united states|
 |[Southern Poverty Law Center](Southern_Poverty_Law_Center.md) - GMMB  Inc|21,000.00 USD|741,478||18-40|united states|
 |[A Better Wisconsin Together](A_Better_Wisconsin_Together.md) - Blueprint Interactive: A Better Wisconsin Together|21,120.00 USD|737,162||18+|united states|
 |[Trøndelag Arbeiderparti](Trøndelag_Arbeiderparti.md) - Trøndelag Arbeiderparti: Arbeiderpartiet, Trond Giske|43,606.00 NOK|735,588|FEMALE, MALE|18-19, 35-44, 35-45, 35-50, 45+, 45-54|norway|
 |[Sosialistisk Venstreparti (SV)](Sosialistisk_Venstreparti_(SV).md) - Sosialistisk Venstreparti (SV): Sosialistisk Venstreparti|54,996.00 NOK|731,522||18+, 18-35|norway|
-|[Options Women's Center](Options_Women's_Center.md) - Stories Marketing|4,025.00 USD|710,978|FEMALE|16-38, 18-38|united states|
-|[Pregnancy Help Center](Pregnancy_Help_Center.md) - Stories Marketing: Pregnancy Help Center of Rice Lake|4,885.00 USD|704,616|FEMALE|15-38, 18+|united states|
+|[Options Women's Center](Options_Women's_Center.md) - Stories Marketing|4,036.00 USD|713,492|FEMALE|16-38, 18-38|united states|
+|[Pregnancy Help Center](Pregnancy_Help_Center.md) - Stories Marketing: Pregnancy Help Center of Rice Lake|4,895.00 USD|706,920|FEMALE|15-38, 18+|united states|
 |[Staatskanzlei des Landes MV](Staatskanzlei_des_Landes_MV.md) - H2F Kommunikationsagentur|989.00 EUR|697,208||15-18, 18-22|germany|
 |[Mercy-USA](Mercy-USA.md) - Mercy USA|15,460.00 USD|675,201||18+, 21+, 22+, 23+, 25+|united states|
 |[Unicef-Komiteen i Norge](Unicef-Komiteen_i_Norge.md) - UNICEF-Komiteen i Norge|10,069.00 EUR|674,009|FEMALE|18+, 25+, 30+, 35+|norway|
@@ -167,18 +167,18 @@
 |[جمعية تكوين](جمعية_تكوين.md) - باكستان|3,498.00 USD|575,575||20+, 25+|kuwait|
 |[HSE Ireland](HSE_Ireland.md) - More Fresh Thought Ltd|996.00 EUR|570,938|FEMALE|18-35|ireland|
 |[Trøndelag SV](Trøndelag_SV.md) - Tr&oslash;ndelag Sosialistiske Venstreparti: Gudrun Lidal, Stortingsvalget|9,892.00 NOK|539,169||18+|norway|
-|[Crossroads Pregnancy Clinic](Crossroads_Pregnancy_Clinic.md) - Stories Marketing: Crossroads Pregnancy Clinic|2,468.00 USD|529,190|FEMALE|16-38, 17-38, 18+|united states|
+|[Crossroads Pregnancy Clinic](Crossroads_Pregnancy_Clinic.md) - Stories Marketing: Crossroads Pregnancy Clinic|2,474.00 USD|530,551|FEMALE|16-38, 17-38, 18+|united states|
 |[Rahma Worldwide Self Service](Rahma_Worldwide_Self_Service.md) - Rahma Worldwide|8,433.00 USD|523,626||18+, 20+, 21+|united states|
 |[Georgia Conservation Voters](Georgia_Conservation_Voters.md) - Corsair Campaigns|9,922.00 USD|518,575||18+|united states|
-|[Reliance Center](Reliance_Center.md) - Stories Marketing: Reliance Center|5,267.00 USD|492,809|FEMALE|16-38, 16-45, 17+, 17-38, 18-35|united states|
+|[Reliance Center](Reliance_Center.md) - Stories Marketing: Reliance Center|5,276.00 USD|493,958|FEMALE|16-38, 16-45, 17+, 17-38, 18-35|united states|
 |[CCIG](CCIG.md) - Etienne & Etienne Sàrl: 2025 CCIG STORY SNAPCHAT lancement|742.00 EUR|484,902||18+|switzerland|
 |[Chambre Genevoise Immobilière](Chambre_Genevoise_Immobilière.md) - NON &agrave; l'IN180: Initiative 180 Geneve|728.00 EUR|473,859||18+, 18-35|switzerland|
-|[A Better Choice](A_Better_Choice.md) - Stories Marketing|2,942.00 USD|467,274|FEMALE|17-38|united states|
+|[A Better Choice](A_Better_Choice.md) - Stories Marketing|2,953.00 USD|469,594|FEMALE|17-38|united states|
 |[Life Choices Center](Life_Choices_Center.md) - Ad Elements: Life Choices Center|1,035.00 USD|465,046|FEMALE|30-|united states|
 |[NuoriEspoo](NuoriEspoo.md) - Avidly|832.00 EUR|464,723||18-|finland|
 |[United Association](United_Association.md) - Powers Interactive Digital: Abigail Spanberger for Governor, Mikie Sherrill for Governor, Not Applicable|3,855.00 USD|464,622||18+|united states|
 |[Rælingen kommune](Rælingen_kommune.md) - Rælingen kommune|6,998.00 NOK|459,028|||norway|
-|[The Hope Center](The_Hope_Center.md) - Stories Marketing: The Hope Center|2,584.00 USD|424,724|FEMALE|17+, 17-38, 18+|united states|
+|[The Hope Center](The_Hope_Center.md) - Stories Marketing: The Hope Center|2,589.00 USD|425,881|FEMALE|17+, 17-38, 18+|united states|
 |[WWF Suomi](WWF_Suomi.md) - Marketing Clinic|1,015.00 EUR|398,068||17-|finland|
 |[Stavanger kommune](Stavanger_kommune.md) - Stavanger kommune|13,546.00 NOK|395,197||18-35, 18-45|norway|
 |[Syrian American Medical Society](Syrian_American_Medical_Society.md) - Syrian American Medical Society|6,618.00 USD|393,739||18+, 21+, 22+, 24+|united states|
@@ -197,18 +197,17 @@
 |[Redd Barna](Redd_Barna.md) - Redd Barna|4,747.00 NOK|310,385||17-|norway|
 |[Elections NB](Elections_NB.md) - Bonshaw Media|4,349.00 CAD|304,645||25+|canada|
 |[Options for Women - River Falls](Options_for_Women_-_River_Falls.md) - Options For Women - River Falls|1,992.00 USD|301,695|FEMALE|35-|united states|
-|[Tasmanian Labor](Tasmanian_Labor.md) - AUSTRALIAN LABOR PARTY TASMANIAN BRANCH: Tasmanian Labor|2,947.00 AUD|301,317||18-30|australia|
 |[The Media Precinct](The_Media_Precinct.md) - The Media Precinct|111.00 AUD|285,736||16+|australia|
-|[7B Care Clinic](7B_Care_Clinic.md) - Stories Marketing: 7B Care Clinic|4,049.00 USD|285,380|FEMALE|16+, 18-38, 35-|united states|
+|[Tasmanian Labor](Tasmanian_Labor.md) - AUSTRALIAN LABOR PARTY TASMANIAN BRANCH: Tasmanian Labor|2,771.00 AUD|283,752||18-30|australia|
 |[California Planned Parenthood](California_Planned_Parenthood.md) - Polaris Campaigns: California Planned Parenthood|1,849.00 USD|283,723|FEMALE|18-35|united states|
-|[Al-Sheikh Abdullah Nouri Charity](Al-Sheikh_Abdullah_Nouri_Charity.md) - Al-Sheikh Abdullah Nouri Charity|2,106.00 USD|277,955||21+, 22+, 25+|kuwait|
+|[7B Care Clinic](7B_Care_Clinic.md) - Stories Marketing|4,017.00 USD|282,790|FEMALE|18-38, 35-|united states|
 |[Life Options Pregnancy Center](Life_Options_Pregnancy_Center.md) - Choose Life Marketing|891.00 USD|277,721|FEMALE|34-|united states|
 |[Michigan Voices](Michigan_Voices.md) - WKQ Media LLC: Promoting the upcoming city and town elections, Voter Turnout and Education|2,763.00 USD|272,994||18+|united states|
 |[Steirische Volkspartei](Steirische_Volkspartei.md) - Steirische Volkspartei: Gemeinderatswahlen 2025|787.00 EUR|272,344||16-20|austria|
 |[Yes On 29 Ballot Committee](Yes_On_29_Ballot_Committee.md) - Judd Hoos|718.00 USD|271,597||18+|united states|
 |[BRIS](BRIS.md) - Vizeum Sverige AB|18,500.00 SEK|268,448||36+|sweden|
 |[Wyandotte Pregnancy Clinic](Wyandotte_Pregnancy_Clinic.md) - Stories Marketing: Wyandotte Pregnancy Clinic|3,108.00 USD|262,620|FEMALE|15+, 17+, 18-35, 18-38|united states|
-|[The Pregnancy Center Of Rockford](The_Pregnancy_Center_Of_Rockford.md) - Stories Marketing: Pregnancy Center of Rockford|6,505.00 USD|259,216|FEMALE|16-38, 18+, 18-38|united states|
+|[The Pregnancy Center Of Rockford](The_Pregnancy_Center_Of_Rockford.md) - Stories Marketing: Pregnancy Center of Rockford|6,518.00 USD|260,252|FEMALE|16-38, 18+, 18-38|united states|
 |[Abiding Care Center](Abiding_Care_Center.md) - Stories Marketing: Abiding Care Center|1,650.00 USD|256,061|FEMALE|16+, 16-38, 18-38|united states|
 |[Rødt Akershus](Rødt_Akershus.md) - Rødt Akershus|1,000.00 NOK|254,768||18+|norway|
 |[Tasmanian Electoral Commission](Tasmanian_Electoral_Commission.md) - Pivotus|2,993.00 AUD|250,166||18+|australia|
@@ -225,13 +224,13 @@
 |[Pregnancy Justice](Pregnancy_Justice.md) - Chong and Koster|5,498.00 USD|221,653|FEMALE|18-35|united states|
 |[Access Esperanza Clinics](Access_Esperanza_Clinics.md) - Chong and Koster|4,599.00 USD|220,719||18-34|united states|
 |[Bold Alliance Inc](Bold_Alliance_Inc.md) - BCom Solutions|1,997.00 USD|215,186||18+|united states|
+|[Anchor Of Hope](Anchor_Of_Hope.md) - Stories Marketing|3,419.00 USD|208,235|FEMALE|18-38|united states|
 |[Only One](Only_One.md) - Only One|999.00 USD|207,805||18+|united kingdom|
-|[Anchor Of Hope](Anchor_Of_Hope.md) - Stories Marketing|3,411.00 USD|207,513|FEMALE|18-38|united states|
-|[NNN](NNN.md) - Adseo|22,967.00 NOK|204,715||18+|norway|
+|[Al-Sheikh Abdullah Nouri Charity](Al-Sheikh_Abdullah_Nouri_Charity.md) - Al-Sheikh Abdullah Nouri Charity|1,950.00 USD|206,489||21+, 22+, 25+|kuwait|
 |[Liberal Party of Australia (Tas)](Liberal_Party_of_Australia_(Tas).md) - Liberal Party of Australia (Tasmanian Division)|2,180.00 AUD|204,330||18+|australia|
 |[souf marketing](souf_marketing.md) - souf marketing agency|2,800.00 USD|202,552||25+, 30+|kuwait|
 |[Life for Relief and Development](Life_for_Relief_and_Development.md) - NGO|2,472.00 USD|198,168||18+, 21+, 22+|united states|
-|[Whidbey Island Women's Clinic](Whidbey_Island_Women's_Clinic.md) - Stories Marketing|2,170.00 USD|192,720|FEMALE|17-38|united states|
+|[Whidbey Island Women's Clinic](Whidbey_Island_Women's_Clinic.md) - Stories Marketing|2,175.00 USD|193,303|FEMALE|17-38|united states|
 |[Al Najat Charity](Al_Najat_Charity.md) - Digital Media Services FZ-LLC|2,165.00 USD|192,688||25+|kuwait|
 |[Skifte för Sverige](Skifte_för_Sverige.md) - Skiftet|5,789.00 SEK|192,219||18+|sweden|
 |[McAuliff for HD 30](McAuliff_for_HD_30.md) - Ethos Campaigns LLC: John McAuliff|2,906.00 USD|190,159||18+|united states|
@@ -254,6 +253,7 @@
 |[Cambridge Bicycle Safety IEPAC](Cambridge_Bicycle_Safety_IEPAC.md) - Cambridge Bicycle Safety IEPAC|992.00 USD|144,293||18-54|united states|
 |[Energie-Control Austria](Energie-Control_Austria.md) - Campaigning Bureau|600.00 EUR|144,261|FEMALE|18-26|austria|
 |[AFL-CIO](AFL-CIO.md) - Assemble the Agency: Day of Action, Susan Crawford|1,554.00 USD|140,099||18+|united states|
+|[NNN](NNN.md) - Adseo|15,256.00 NOK|140,022||18+|norway|
 |[ALMANABR](ALMANABR.md) - ALMANABR|1,477.00 USD|136,270||24+, 24-54|kuwait|
 |[Palmerbet](Palmerbet.md) - Palmerbet|990.00 AUD|134,741|MALE|18-36|australia|
 |[West Yorks Combined Authority](West_Yorks_Combined_Authority.md) - West Yorkshire Combined Authority|1,380.00 GBP|134,586||18+, 30-54|united kingdom|
@@ -284,7 +284,6 @@
 |[hoffath.org](hoffath.org.md) - Kuwaiti charity to serve the Holy Quran and its Sciences|990.00 USD|69,044||24+, 25+|kuwait|
 |[World Food Program USA](World_Food_Program_USA.md) - Friends of the World Food Program  Inc.|2,996.00 USD|67,092||18-32|united states|
 |[Friends of Chris Murphy](Friends_of_Chris_Murphy.md) - Aisle 518 Strategies LLC: Friends of Chris Murphy|1,187.00 USD|66,422||18+|united states|
-|[PBL](PBL.md) - PBL|723.00 USD|63,926||18+|norway|
 |[CARMODY FOR DISTRICT JUDGE](CARMODY_FOR_DISTRICT_JUDGE.md) - Majority Strategies|1,789.00 USD|63,009||18+|united states|
 |[Elections Manitoba](Elections_Manitoba.md) - Elections Manitoba|279.00 CAD|61,233||16-24|canada|
 |[Ocean Conservancy](Ocean_Conservancy.md) - Chong and Koster|1,189.00 USD|57,983||30-|united states|
@@ -295,6 +294,7 @@
 |[Omar Ochoa for Mayor Campaign](Omar_Ochoa_for_Mayor_Campaign.md) - Human Age Digital: Omar Ochoa for Mayor|1,164.00 USD|48,930||18+|united states|
 |[Cross for the College](Cross_for_the_College.md) - Cross Law Firm: Lee Cross for JCCC 2025|275.00 USD|47,632||18+|united states|
 |[Djurens Rätt](Djurens_Rätt.md) - Djurens Rätt|4,000.00 SEK|45,051||18+|sweden|
+|[PBL](PBL.md) - PBL|523.00 USD|44,573||18+|norway|
 |[Manos De Dios, NFP](Manos_De_Dios,_NFP.md) - Manos De Dios  NFP|749.00 USD|43,831|||united states|
 |[COMMITTEE TO ELECT RENÉE LUDLAM](COMMITTEE_TO_ELECT_RENÉE_LUDLAM.md) - Subterra Insights: Strong Schools D20|247.00 USD|43,733||18+|united states|
 |[Veli-Matti Oksanen](Veli-Matti_Oksanen.md) - Veli-Matti Oksanen: Veli Matti Oksanen|160.00 EUR|42,700||18+|finland|

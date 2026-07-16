@@ -1,7 +1,7 @@
 ## 2026 - MD State Board of Elections 
-**Spent**: 17,206.00
+**Spent**: 17,191.00
 
-**Impressions**: 2,727,960
+**Impressions**: 2,727,422
 
 **Billing Addresses**: 616 Water St, Suite 225,Baltimore,21202,US
 
@@ -110,53 +110,52 @@
 |Mission Media  LLC|20.00 USD|[100](https://www.snap.com/political-ads/asset/10d28994c6ef8fc0d162590bbd37e615e24d7db7d8895cdd82b01bd98768a973?mediaType=mp4)|550||18+|united states|
 |Mission Media  LLC|20.00 USD|[101](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|547||18+|united states|
 |Mission Media  LLC|18.00 USD|[102](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|543||18+|united states|
-|Mission Media  LLC|15.00 USD|[103](https://www.snap.com/political-ads/asset/68b2d2a90bec7011a3ecdd1de921bf51a2f0324c9d4be24bda5c0897e7f7be3a?mediaType=mp4)|538||18+|united states|
-|Mission Media  LLC|14.00 USD|[104](https://www.snap.com/political-ads/asset/929aec8dd324f5a1b8c38f885eb18795f14204fbb2d563c80185ce1edde37cb9?mediaType=mp4)|510||18+|united states|
-|Mission Media  LLC|18.00 USD|[105](https://www.snap.com/political-ads/asset/f1601ac1349cf7d41910bef10d309f5b6a39147231d3942aafcf84064e091e25?mediaType=mp4)|483||18+|united states|
-|Mission Media  LLC|2.00 USD|[106](https://www.snap.com/political-ads/asset/624b45ab30ac0e08e2e2c1698d3b53fc4047fdfb7323f584db431ac5b0a67f86?mediaType=mp4)|447||18-44|united states|
-|Mission Media  LLC|15.00 USD|[107](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|441||18+|united states|
-|Mission Media  LLC|12.00 USD|[108](https://www.snap.com/political-ads/asset/649f6e913fac230b5a07154e8c8c44ab806997ff96063af1ccb6ec79c7b1015e?mediaType=mp4)|436||18+|united states|
-|Mission Media  LLC|11.00 USD|[109](https://www.snap.com/political-ads/asset/cd73f9f5659f8a79d11322dfdddf5cd801188932b83ac4c2eb6dfc824af4e537?mediaType=mp4)|422||18+|united states|
-|Mission Media  LLC|10.00 USD|[110](https://www.snap.com/political-ads/asset/10d28994c6ef8fc0d162590bbd37e615e24d7db7d8895cdd82b01bd98768a973?mediaType=mp4)|406||18+|united states|
-|Mission Media  LLC|9.00 USD|[111](https://www.snap.com/political-ads/asset/877447bf4bf22ee08d5ac325875d3fdee08ea83bfa43026cc48cac98bab9982a?mediaType=mp4)|401||18+|united states|
-|Mission Media  LLC|2.00 USD|[112](https://www.snap.com/political-ads/asset/c3d00a7882914171af4306e4dc027276fb8299b9e883fedbda07b7b350fffa76?mediaType=mp4)|401||18-44|united states|
-|Mission Media  LLC|2.00 USD|[113](https://www.snap.com/political-ads/asset/13f5d49fdb80047677c63ea057b4b262735782134a836e3ab5397106beb943ca?mediaType=mp4)|390||18-44|united states|
-|Mission Media  LLC|1.00 USD|[114](https://www.snap.com/political-ads/asset/a076ddf61552f0f08b9c16ea895120a5e4a4497490c49fa7b7a3e3f04416b9e9?mediaType=mp4)|384||18-44|united states|
-|Mission Media  LLC|10.00 USD|[115](https://www.snap.com/political-ads/asset/877447bf4bf22ee08d5ac325875d3fdee08ea83bfa43026cc48cac98bab9982a?mediaType=mp4)|379||18+|united states|
-|Mission Media  LLC|8.00 USD|[116](https://www.snap.com/political-ads/asset/647fa753ebf0525f07a02af77215dd25b92aa129225f0b7f8966b87c7ecb6aae?mediaType=mp4)|373||18+|united states|
-|Mission Media  LLC|20.00 USD|[117](https://www.snap.com/political-ads/asset/cd73f9f5659f8a79d11322dfdddf5cd801188932b83ac4c2eb6dfc824af4e537?mediaType=mp4)|360||18+|united states|
-|Mission Media  LLC|14.00 USD|[118](https://www.snap.com/political-ads/asset/cd73f9f5659f8a79d11322dfdddf5cd801188932b83ac4c2eb6dfc824af4e537?mediaType=mp4)|349||18+|united states|
-|Mission Media  LLC|9.00 USD|[119](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|349||18+|united states|
-|Mission Media  LLC|11.00 USD|[120](https://www.snap.com/political-ads/asset/68b2d2a90bec7011a3ecdd1de921bf51a2f0324c9d4be24bda5c0897e7f7be3a?mediaType=mp4)|328||18+|united states|
-|Mission Media  LLC|17.00 USD|[121](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|313||18+|united states|
-|Mission Media  LLC|11.00 USD|[122](https://www.snap.com/political-ads/asset/2961f617ae4e146d6f2e17ae4d6ad361e4ecc1c1ebf7d6a69d784aa40da22101?mediaType=mp4)|306||18+|united states|
-|Mission Media  LLC|9.00 USD|[123](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|295||18+|united states|
-|Mission Media  LLC|10.00 USD|[124](https://www.snap.com/political-ads/asset/647fa753ebf0525f07a02af77215dd25b92aa129225f0b7f8966b87c7ecb6aae?mediaType=mp4)|291||18+|united states|
-|Mission Media  LLC|6.00 USD|[125](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|262||18+|united states|
-|Mission Media  LLC|1.00 USD|[126](https://www.snap.com/political-ads/asset/aa600994dba0a1049e04a2f4734f8a8cc6b78566dc4244499e5a0341d4b3a953?mediaType=mp4)|259||18-44|united states|
-|Mission Media  LLC|7.00 USD|[127](https://www.snap.com/political-ads/asset/649f6e913fac230b5a07154e8c8c44ab806997ff96063af1ccb6ec79c7b1015e?mediaType=mp4)|246||18+|united states|
-|Mission Media  LLC|13.00 USD|[128](https://www.snap.com/political-ads/asset/f1601ac1349cf7d41910bef10d309f5b6a39147231d3942aafcf84064e091e25?mediaType=mp4)|243||18+|united states|
-|Mission Media  LLC|13.00 USD|[129](https://www.snap.com/political-ads/asset/10d28994c6ef8fc0d162590bbd37e615e24d7db7d8895cdd82b01bd98768a973?mediaType=mp4)|236||18+|united states|
-|Mission Media  LLC|7.00 USD|[130](https://www.snap.com/political-ads/asset/649f6e913fac230b5a07154e8c8c44ab806997ff96063af1ccb6ec79c7b1015e?mediaType=mp4)|223||18+|united states|
-|Mission Media  LLC|8.00 USD|[131](https://www.snap.com/political-ads/asset/647fa753ebf0525f07a02af77215dd25b92aa129225f0b7f8966b87c7ecb6aae?mediaType=mp4)|208||18+|united states|
-|Mission Media  LLC|4.00 USD|[132](https://www.snap.com/political-ads/asset/68b2d2a90bec7011a3ecdd1de921bf51a2f0324c9d4be24bda5c0897e7f7be3a?mediaType=mp4)|206||18+|united states|
-|Mission Media  LLC|9.00 USD|[133](https://www.snap.com/political-ads/asset/8ac7292ecbec18c4e461c43b4ddda6096ed2debb63b32e9cfee43ac18a57d9cf?mediaType=mp4)|205||18+|united states|
-|Mission Media  LLC|6.00 USD|[134](https://www.snap.com/political-ads/asset/8ac7292ecbec18c4e461c43b4ddda6096ed2debb63b32e9cfee43ac18a57d9cf?mediaType=mp4)|205||18+|united states|
-|Mission Media  LLC|4.00 USD|[135](https://www.snap.com/political-ads/asset/2cafbe149f9fbf93ddd9c5861c8953b605a29e3178f38a3e025f27cdb68948a4?mediaType=mp4)|205||18+|united states|
-|Mission Media  LLC|7.00 USD|[136](https://www.snap.com/political-ads/asset/0f8d6fcabb46e272883f2ce4b64069fcb71f7835c08ce918639d19f77ab4a3b6?mediaType=mp4)|199||18+|united states|
-|Mission Media  LLC|5.00 USD|[137](https://www.snap.com/political-ads/asset/2961f617ae4e146d6f2e17ae4d6ad361e4ecc1c1ebf7d6a69d784aa40da22101?mediaType=mp4)|191||18+|united states|
-|Mission Media  LLC|5.00 USD|[138](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|183||18+|united states|
-|Mission Media  LLC|8.00 USD|[139](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|178||18+|united states|
-|Mission Media  LLC|6.00 USD|[140](https://www.snap.com/political-ads/asset/877447bf4bf22ee08d5ac325875d3fdee08ea83bfa43026cc48cac98bab9982a?mediaType=mp4)|173||18+|united states|
-|Mission Media  LLC|8.00 USD|[141](https://www.snap.com/political-ads/asset/2cafbe149f9fbf93ddd9c5861c8953b605a29e3178f38a3e025f27cdb68948a4?mediaType=mp4)|172||18+|united states|
-|Mission Media  LLC|3.00 USD|[142](https://www.snap.com/political-ads/asset/0f8d6fcabb46e272883f2ce4b64069fcb71f7835c08ce918639d19f77ab4a3b6?mediaType=mp4)|170||18+|united states|
-|Mission Media  LLC|8.00 USD|[143](https://www.snap.com/political-ads/asset/8ac7292ecbec18c4e461c43b4ddda6096ed2debb63b32e9cfee43ac18a57d9cf?mediaType=mp4)|148||18+|united states|
-|Mission Media  LLC|6.00 USD|[144](https://www.snap.com/political-ads/asset/929aec8dd324f5a1b8c38f885eb18795f14204fbb2d563c80185ce1edde37cb9?mediaType=mp4)|139||18+|united states|
-|Mission Media  LLC|4.00 USD|[145](https://www.snap.com/political-ads/asset/02384d5144b88dcf27b39ab91d7fb54a7b09c50672f334996436c4a6fbd225cc?mediaType=mp4)|133||18+|united states|
-|Mission Media  LLC|4.00 USD|[146](https://www.snap.com/political-ads/asset/32710f4f6b7968493210ed508015572a6983b0f073d13dfc2b5b4870b3b891de?mediaType=mp4)|118||18+|united states|
-|Mission Media  LLC|2.00 USD|[147](https://www.snap.com/political-ads/asset/02384d5144b88dcf27b39ab91d7fb54a7b09c50672f334996436c4a6fbd225cc?mediaType=mp4)|115||18+|united states|
-|Mission Media  LLC|1.00 USD|[148](https://www.snap.com/political-ads/asset/929aec8dd324f5a1b8c38f885eb18795f14204fbb2d563c80185ce1edde37cb9?mediaType=mp4)|109||18+|united states|
-|Mission Media  LLC|3.00 USD|[149](https://www.snap.com/political-ads/asset/2961f617ae4e146d6f2e17ae4d6ad361e4ecc1c1ebf7d6a69d784aa40da22101?mediaType=mp4)|100||18+|united states|
-|Mission Media  LLC|4.00 USD|[150](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|96||18+|united states|
-|Mission Media  LLC|1.00 USD|[151](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|66||18+|united states|
-|Mission Media  LLC|1.00 USD|[152](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|56||18+|united states|
+|Mission Media  LLC|14.00 USD|[103](https://www.snap.com/political-ads/asset/929aec8dd324f5a1b8c38f885eb18795f14204fbb2d563c80185ce1edde37cb9?mediaType=mp4)|510||18+|united states|
+|Mission Media  LLC|18.00 USD|[104](https://www.snap.com/political-ads/asset/f1601ac1349cf7d41910bef10d309f5b6a39147231d3942aafcf84064e091e25?mediaType=mp4)|483||18+|united states|
+|Mission Media  LLC|2.00 USD|[105](https://www.snap.com/political-ads/asset/624b45ab30ac0e08e2e2c1698d3b53fc4047fdfb7323f584db431ac5b0a67f86?mediaType=mp4)|447||18-44|united states|
+|Mission Media  LLC|15.00 USD|[106](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|441||18+|united states|
+|Mission Media  LLC|12.00 USD|[107](https://www.snap.com/political-ads/asset/649f6e913fac230b5a07154e8c8c44ab806997ff96063af1ccb6ec79c7b1015e?mediaType=mp4)|436||18+|united states|
+|Mission Media  LLC|11.00 USD|[108](https://www.snap.com/political-ads/asset/cd73f9f5659f8a79d11322dfdddf5cd801188932b83ac4c2eb6dfc824af4e537?mediaType=mp4)|422||18+|united states|
+|Mission Media  LLC|10.00 USD|[109](https://www.snap.com/political-ads/asset/10d28994c6ef8fc0d162590bbd37e615e24d7db7d8895cdd82b01bd98768a973?mediaType=mp4)|406||18+|united states|
+|Mission Media  LLC|9.00 USD|[110](https://www.snap.com/political-ads/asset/877447bf4bf22ee08d5ac325875d3fdee08ea83bfa43026cc48cac98bab9982a?mediaType=mp4)|401||18+|united states|
+|Mission Media  LLC|2.00 USD|[111](https://www.snap.com/political-ads/asset/c3d00a7882914171af4306e4dc027276fb8299b9e883fedbda07b7b350fffa76?mediaType=mp4)|401||18-44|united states|
+|Mission Media  LLC|2.00 USD|[112](https://www.snap.com/political-ads/asset/13f5d49fdb80047677c63ea057b4b262735782134a836e3ab5397106beb943ca?mediaType=mp4)|390||18-44|united states|
+|Mission Media  LLC|1.00 USD|[113](https://www.snap.com/political-ads/asset/a076ddf61552f0f08b9c16ea895120a5e4a4497490c49fa7b7a3e3f04416b9e9?mediaType=mp4)|384||18-44|united states|
+|Mission Media  LLC|10.00 USD|[114](https://www.snap.com/political-ads/asset/877447bf4bf22ee08d5ac325875d3fdee08ea83bfa43026cc48cac98bab9982a?mediaType=mp4)|379||18+|united states|
+|Mission Media  LLC|8.00 USD|[115](https://www.snap.com/political-ads/asset/647fa753ebf0525f07a02af77215dd25b92aa129225f0b7f8966b87c7ecb6aae?mediaType=mp4)|373||18+|united states|
+|Mission Media  LLC|20.00 USD|[116](https://www.snap.com/political-ads/asset/cd73f9f5659f8a79d11322dfdddf5cd801188932b83ac4c2eb6dfc824af4e537?mediaType=mp4)|360||18+|united states|
+|Mission Media  LLC|14.00 USD|[117](https://www.snap.com/political-ads/asset/cd73f9f5659f8a79d11322dfdddf5cd801188932b83ac4c2eb6dfc824af4e537?mediaType=mp4)|349||18+|united states|
+|Mission Media  LLC|9.00 USD|[118](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|349||18+|united states|
+|Mission Media  LLC|11.00 USD|[119](https://www.snap.com/political-ads/asset/68b2d2a90bec7011a3ecdd1de921bf51a2f0324c9d4be24bda5c0897e7f7be3a?mediaType=mp4)|328||18+|united states|
+|Mission Media  LLC|17.00 USD|[120](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|313||18+|united states|
+|Mission Media  LLC|11.00 USD|[121](https://www.snap.com/political-ads/asset/2961f617ae4e146d6f2e17ae4d6ad361e4ecc1c1ebf7d6a69d784aa40da22101?mediaType=mp4)|306||18+|united states|
+|Mission Media  LLC|9.00 USD|[122](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|295||18+|united states|
+|Mission Media  LLC|10.00 USD|[123](https://www.snap.com/political-ads/asset/647fa753ebf0525f07a02af77215dd25b92aa129225f0b7f8966b87c7ecb6aae?mediaType=mp4)|291||18+|united states|
+|Mission Media  LLC|6.00 USD|[124](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|262||18+|united states|
+|Mission Media  LLC|1.00 USD|[125](https://www.snap.com/political-ads/asset/aa600994dba0a1049e04a2f4734f8a8cc6b78566dc4244499e5a0341d4b3a953?mediaType=mp4)|259||18-44|united states|
+|Mission Media  LLC|7.00 USD|[126](https://www.snap.com/political-ads/asset/649f6e913fac230b5a07154e8c8c44ab806997ff96063af1ccb6ec79c7b1015e?mediaType=mp4)|246||18+|united states|
+|Mission Media  LLC|13.00 USD|[127](https://www.snap.com/political-ads/asset/f1601ac1349cf7d41910bef10d309f5b6a39147231d3942aafcf84064e091e25?mediaType=mp4)|243||18+|united states|
+|Mission Media  LLC|13.00 USD|[128](https://www.snap.com/political-ads/asset/10d28994c6ef8fc0d162590bbd37e615e24d7db7d8895cdd82b01bd98768a973?mediaType=mp4)|236||18+|united states|
+|Mission Media  LLC|7.00 USD|[129](https://www.snap.com/political-ads/asset/649f6e913fac230b5a07154e8c8c44ab806997ff96063af1ccb6ec79c7b1015e?mediaType=mp4)|223||18+|united states|
+|Mission Media  LLC|8.00 USD|[130](https://www.snap.com/political-ads/asset/647fa753ebf0525f07a02af77215dd25b92aa129225f0b7f8966b87c7ecb6aae?mediaType=mp4)|208||18+|united states|
+|Mission Media  LLC|4.00 USD|[131](https://www.snap.com/political-ads/asset/68b2d2a90bec7011a3ecdd1de921bf51a2f0324c9d4be24bda5c0897e7f7be3a?mediaType=mp4)|206||18+|united states|
+|Mission Media  LLC|9.00 USD|[132](https://www.snap.com/political-ads/asset/8ac7292ecbec18c4e461c43b4ddda6096ed2debb63b32e9cfee43ac18a57d9cf?mediaType=mp4)|205||18+|united states|
+|Mission Media  LLC|6.00 USD|[133](https://www.snap.com/political-ads/asset/8ac7292ecbec18c4e461c43b4ddda6096ed2debb63b32e9cfee43ac18a57d9cf?mediaType=mp4)|205||18+|united states|
+|Mission Media  LLC|4.00 USD|[134](https://www.snap.com/political-ads/asset/2cafbe149f9fbf93ddd9c5861c8953b605a29e3178f38a3e025f27cdb68948a4?mediaType=mp4)|205||18+|united states|
+|Mission Media  LLC|7.00 USD|[135](https://www.snap.com/political-ads/asset/0f8d6fcabb46e272883f2ce4b64069fcb71f7835c08ce918639d19f77ab4a3b6?mediaType=mp4)|199||18+|united states|
+|Mission Media  LLC|5.00 USD|[136](https://www.snap.com/political-ads/asset/2961f617ae4e146d6f2e17ae4d6ad361e4ecc1c1ebf7d6a69d784aa40da22101?mediaType=mp4)|191||18+|united states|
+|Mission Media  LLC|5.00 USD|[137](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|183||18+|united states|
+|Mission Media  LLC|8.00 USD|[138](https://www.snap.com/political-ads/asset/16d3bc865355ed2dddef8e5156b3b39fa49f3733f524f94b57c9d3490c605ef9?mediaType=mp4)|178||18+|united states|
+|Mission Media  LLC|6.00 USD|[139](https://www.snap.com/political-ads/asset/877447bf4bf22ee08d5ac325875d3fdee08ea83bfa43026cc48cac98bab9982a?mediaType=mp4)|173||18+|united states|
+|Mission Media  LLC|8.00 USD|[140](https://www.snap.com/political-ads/asset/2cafbe149f9fbf93ddd9c5861c8953b605a29e3178f38a3e025f27cdb68948a4?mediaType=mp4)|172||18+|united states|
+|Mission Media  LLC|3.00 USD|[141](https://www.snap.com/political-ads/asset/0f8d6fcabb46e272883f2ce4b64069fcb71f7835c08ce918639d19f77ab4a3b6?mediaType=mp4)|170||18+|united states|
+|Mission Media  LLC|8.00 USD|[142](https://www.snap.com/political-ads/asset/8ac7292ecbec18c4e461c43b4ddda6096ed2debb63b32e9cfee43ac18a57d9cf?mediaType=mp4)|148||18+|united states|
+|Mission Media  LLC|6.00 USD|[143](https://www.snap.com/political-ads/asset/929aec8dd324f5a1b8c38f885eb18795f14204fbb2d563c80185ce1edde37cb9?mediaType=mp4)|139||18+|united states|
+|Mission Media  LLC|4.00 USD|[144](https://www.snap.com/political-ads/asset/02384d5144b88dcf27b39ab91d7fb54a7b09c50672f334996436c4a6fbd225cc?mediaType=mp4)|133||18+|united states|
+|Mission Media  LLC|4.00 USD|[145](https://www.snap.com/political-ads/asset/32710f4f6b7968493210ed508015572a6983b0f073d13dfc2b5b4870b3b891de?mediaType=mp4)|118||18+|united states|
+|Mission Media  LLC|2.00 USD|[146](https://www.snap.com/political-ads/asset/02384d5144b88dcf27b39ab91d7fb54a7b09c50672f334996436c4a6fbd225cc?mediaType=mp4)|115||18+|united states|
+|Mission Media  LLC|1.00 USD|[147](https://www.snap.com/political-ads/asset/929aec8dd324f5a1b8c38f885eb18795f14204fbb2d563c80185ce1edde37cb9?mediaType=mp4)|109||18+|united states|
+|Mission Media  LLC|3.00 USD|[148](https://www.snap.com/political-ads/asset/2961f617ae4e146d6f2e17ae4d6ad361e4ecc1c1ebf7d6a69d784aa40da22101?mediaType=mp4)|100||18+|united states|
+|Mission Media  LLC|4.00 USD|[149](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|96||18+|united states|
+|Mission Media  LLC|1.00 USD|[150](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|66||18+|united states|
+|Mission Media  LLC|1.00 USD|[151](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|56||18+|united states|

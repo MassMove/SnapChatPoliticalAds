@@ -1,7 +1,7 @@
 ## 2022 - SAAD ALFAJI 
-**Spent**: 1,053.00
+**Spent**: 1,041.00
 
-**Impressions**: 418,499
+**Impressions**: 412,935
 
 **Billing Addresses**: waha b2 st 8 house 14,Al Waha,00007,KW
 
@@ -35,19 +35,18 @@
 |AFKARKOM: SAAD ALFAJI|26.00 USD|[25](https://www.snap.com/political-ads/asset/84cbfa1d93f59d1f30399f3560a8da2dd30e51a3f9c71629fa82d55a081eae33?mediaType=mp4)|6,907|||kuwait|
 |AFKARKOM: SAAD ALFAJI|13.00 USD|[26](https://www.snap.com/political-ads/asset/8f442eef992296b228c4fa2cf21530a494d4a09e5475e2f50e3a8ee976754ecd?mediaType=jpg)|6,001|||kuwait|
 |AFKARKOM: SAAD ALFAJI|8.00 USD|[27](https://www.snap.com/political-ads/asset/25ee379b8e13e249df5f1ebffcab67b067645ed36e76211ea24a40a177c2dcff?mediaType=jpg)|5,746|||kuwait|
-|AFKARKOM: SAAD ALFAJI|12.00 USD|[28](https://www.snap.com/political-ads/asset/0e4f30191703d1e077a7bc99e59eaf402a0d6d30ceec4e2c7a6aad152b222709?mediaType=mp4)|5,564|||kuwait|
-|AFKARKOM: SAAD ALFAJI|20.00 USD|[29](https://www.snap.com/political-ads/asset/0e759568a2b254b50c2f68319ae4949790884c9a42870a217fb5d97b0eb28cfa?mediaType=mp4)|5,235|||kuwait|
-|AFKARKOM: SAAD ALFAJI|18.00 USD|[30](https://www.snap.com/political-ads/asset/a4e1c2edd361b081d3ca82197b53b985d7c3c9a3d7f0a7f9ee5841e0e14d325c?mediaType=mp4)|4,783|||kuwait|
-|AFKARKOM: SAAD ALFAJI|20.00 USD|[31](https://www.snap.com/political-ads/asset/f356536091612127cbb526d2d75e27c5dd398ad2cb209fccd5c9d90666e426e2?mediaType=mp4)|4,198|||kuwait|
-|AFKARKOM: SAAD ALFAJI|8.00 USD|[32](https://www.snap.com/political-ads/asset/7c7c719284633679f35124b76b1f12bef42cc247929d66a521eaf8218e20494e?mediaType=png)|3,843|||kuwait|
-|AFKARKOM: SAAD ALFAJI|11.00 USD|[33](https://www.snap.com/political-ads/asset/c526a5c0173c771ed6e33774305da5761829c6960f9dab809d34d87482570ec4?mediaType=mp4)|3,725|||kuwait|
-|AFKARKOM: SAAD ALFAJI|12.00 USD|[34](https://www.snap.com/political-ads/asset/a4e1c2edd361b081d3ca82197b53b985d7c3c9a3d7f0a7f9ee5841e0e14d325c?mediaType=mp4)|3,277|||kuwait|
-|AFKARKOM: SAAD ALFAJI|6.00 USD|[35](https://www.snap.com/political-ads/asset/60b8d821ca81260be6925032e9580af3bf8656cb8b9e690ad5e181d5735cb948?mediaType=mp4)|3,046|||kuwait|
-|AFKARKOM: SAAD ALFAJI|3.00 USD|[36](https://www.snap.com/political-ads/asset/44fb5ac085fe38bb78313b31cfbc5c9e417bc1fd371f0e66590ef6f496d0b8a6?mediaType=mp4)|1,793|||kuwait|
-|AFKARKOM: SAAD ALFAJI|7.00 USD|[37](https://www.snap.com/political-ads/asset/60b8d821ca81260be6925032e9580af3bf8656cb8b9e690ad5e181d5735cb948?mediaType=mp4)|1,713|||kuwait|
-|AFKARKOM: SAAD ALFAJI|2.00 USD|[38](https://www.snap.com/political-ads/asset/40cf7954d00672baef4788f26a8e4244a7fd5b47f03932786d3a91e97e10097e?mediaType=mp4)|1,010|||kuwait|
-|AFKARKOM: SAAD ALFAJI|2.00 USD|[39](https://www.snap.com/political-ads/asset/27512f4e2428cd77293e4c23edd97b96a3cd3d318c0c578487e7e42273a2f773?mediaType=mp4)|901|||kuwait|
-|AFKARKOM: SAAD ALFAJI|1.00 USD|[40](https://www.snap.com/political-ads/asset/1247b2a73f2af98f15501ba644e758adedaab6ccbfbdc5b9448fd24a38dfb9d7?mediaType=mp4)|647|||kuwait|
-|AFKARKOM: SAAD ALFAJI|2.00 USD|[41](https://www.snap.com/political-ads/asset/c526a5c0173c771ed6e33774305da5761829c6960f9dab809d34d87482570ec4?mediaType=mp4)|562|||kuwait|
-|AFKARKOM: SAAD ALFAJI|0.00 USD|[42](https://www.snap.com/political-ads/asset/0e759568a2b254b50c2f68319ae4949790884c9a42870a217fb5d97b0eb28cfa?mediaType=mp4)|385|||kuwait|
-|AFKARKOM: SAAD ALFAJI|1.00 USD|[43](https://www.snap.com/political-ads/asset/1247b2a73f2af98f15501ba644e758adedaab6ccbfbdc5b9448fd24a38dfb9d7?mediaType=mp4)|343|||kuwait|
+|AFKARKOM: SAAD ALFAJI|20.00 USD|[28](https://www.snap.com/political-ads/asset/0e759568a2b254b50c2f68319ae4949790884c9a42870a217fb5d97b0eb28cfa?mediaType=mp4)|5,235|||kuwait|
+|AFKARKOM: SAAD ALFAJI|18.00 USD|[29](https://www.snap.com/political-ads/asset/a4e1c2edd361b081d3ca82197b53b985d7c3c9a3d7f0a7f9ee5841e0e14d325c?mediaType=mp4)|4,783|||kuwait|
+|AFKARKOM: SAAD ALFAJI|20.00 USD|[30](https://www.snap.com/political-ads/asset/f356536091612127cbb526d2d75e27c5dd398ad2cb209fccd5c9d90666e426e2?mediaType=mp4)|4,198|||kuwait|
+|AFKARKOM: SAAD ALFAJI|8.00 USD|[31](https://www.snap.com/political-ads/asset/7c7c719284633679f35124b76b1f12bef42cc247929d66a521eaf8218e20494e?mediaType=png)|3,843|||kuwait|
+|AFKARKOM: SAAD ALFAJI|11.00 USD|[32](https://www.snap.com/political-ads/asset/c526a5c0173c771ed6e33774305da5761829c6960f9dab809d34d87482570ec4?mediaType=mp4)|3,725|||kuwait|
+|AFKARKOM: SAAD ALFAJI|12.00 USD|[33](https://www.snap.com/political-ads/asset/a4e1c2edd361b081d3ca82197b53b985d7c3c9a3d7f0a7f9ee5841e0e14d325c?mediaType=mp4)|3,277|||kuwait|
+|AFKARKOM: SAAD ALFAJI|6.00 USD|[34](https://www.snap.com/political-ads/asset/60b8d821ca81260be6925032e9580af3bf8656cb8b9e690ad5e181d5735cb948?mediaType=mp4)|3,046|||kuwait|
+|AFKARKOM: SAAD ALFAJI|3.00 USD|[35](https://www.snap.com/political-ads/asset/44fb5ac085fe38bb78313b31cfbc5c9e417bc1fd371f0e66590ef6f496d0b8a6?mediaType=mp4)|1,793|||kuwait|
+|AFKARKOM: SAAD ALFAJI|7.00 USD|[36](https://www.snap.com/political-ads/asset/60b8d821ca81260be6925032e9580af3bf8656cb8b9e690ad5e181d5735cb948?mediaType=mp4)|1,713|||kuwait|
+|AFKARKOM: SAAD ALFAJI|2.00 USD|[37](https://www.snap.com/political-ads/asset/40cf7954d00672baef4788f26a8e4244a7fd5b47f03932786d3a91e97e10097e?mediaType=mp4)|1,010|||kuwait|
+|AFKARKOM: SAAD ALFAJI|2.00 USD|[38](https://www.snap.com/political-ads/asset/27512f4e2428cd77293e4c23edd97b96a3cd3d318c0c578487e7e42273a2f773?mediaType=mp4)|901|||kuwait|
+|AFKARKOM: SAAD ALFAJI|1.00 USD|[39](https://www.snap.com/political-ads/asset/1247b2a73f2af98f15501ba644e758adedaab6ccbfbdc5b9448fd24a38dfb9d7?mediaType=mp4)|647|||kuwait|
+|AFKARKOM: SAAD ALFAJI|2.00 USD|[40](https://www.snap.com/political-ads/asset/c526a5c0173c771ed6e33774305da5761829c6960f9dab809d34d87482570ec4?mediaType=mp4)|562|||kuwait|
+|AFKARKOM: SAAD ALFAJI|0.00 USD|[41](https://www.snap.com/political-ads/asset/0e759568a2b254b50c2f68319ae4949790884c9a42870a217fb5d97b0eb28cfa?mediaType=mp4)|385|||kuwait|
+|AFKARKOM: SAAD ALFAJI|1.00 USD|[42](https://www.snap.com/political-ads/asset/1247b2a73f2af98f15501ba644e758adedaab6ccbfbdc5b9448fd24a38dfb9d7?mediaType=mp4)|343|||kuwait|

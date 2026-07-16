@@ -1,7 +1,7 @@
 ## 2020 - SpunOut.ie 
 **Spent**: 647.00
 
-**Impressions**: 1,175,355
+**Impressions**: 1,174,527
 
 **Billing Addresses**: Sean McBride House, 48 Fleet Street,,Dublin 2,D02 T883,IE
 
@@ -101,18 +101,17 @@
 |SpunOut.ie|0.00 EUR|[91](https://www.snap.com/political-ads/asset/d704583eeaa12e4e1d38cfdbe9078b47354003e3bccbd56ddc3db37faad0ee63?mediaType=mp4)|866||18-25|ireland|
 |SpunOut.ie|0.00 EUR|[92](https://www.snap.com/political-ads/asset/26cfd344ff6cc5b0a73054cb83016a33858cb423feeb2bc93d6afb489ca0a310?mediaType=mp4)|853||18-25|ireland|
 |SpunOut.ie|0.00 EUR|[93](https://www.snap.com/political-ads/asset/b9b0c530fafc43e7d46132f9b4bac56b4aeb42fd51af5751e660efdd777bdd43?mediaType=mp4)|845||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[94](https://www.snap.com/political-ads/asset/45dffcd2a5c6eb0d5b8de64b4405e5d332ab2befea66e88e60bb2e01a6edb208?mediaType=mp4)|828||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[95](https://www.snap.com/political-ads/asset/eabfc4ee94120052a883489c1e58824b2af0e2b331b6114f8c56363dff74e589?mediaType=mp4)|808||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[96](https://www.snap.com/political-ads/asset/425480056ebf64821d94839afef4c72785b68ff0616ed142d24728ad84c84336?mediaType=mp4)|805||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[97](https://www.snap.com/political-ads/asset/baa3bb313ed78e42a2f3e5c6326e19cecda02feca5a94a7353328c996838c8e7?mediaType=mp4)|756||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[98](https://www.snap.com/political-ads/asset/8d74d03e33290faf78d9d00dc790376078158f1004112bce50ed329d4bb829fd?mediaType=mp4)|750||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[99](https://www.snap.com/political-ads/asset/db88c762bb1456fbf67368f65564aa062a7f9a21633efdfcbc163fd2b80b1f25?mediaType=mp4)|739||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[100](https://www.snap.com/political-ads/asset/c873fb72a2b6b5a1bca88b013f3eac9af4c8af42ba05f146afd20d33f0fc444f?mediaType=mp4)|735||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[101](https://www.snap.com/political-ads/asset/425480056ebf64821d94839afef4c72785b68ff0616ed142d24728ad84c84336?mediaType=mp4)|698||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[102](https://www.snap.com/political-ads/asset/eabfc4ee94120052a883489c1e58824b2af0e2b331b6114f8c56363dff74e589?mediaType=mp4)|687||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[103](https://www.snap.com/political-ads/asset/551dfcd029dfa90b87510d4f9034587354459722c8f6b7d3f418c5a2f194a611?mediaType=mp4)|685||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[104](https://www.snap.com/political-ads/asset/d704583eeaa12e4e1d38cfdbe9078b47354003e3bccbd56ddc3db37faad0ee63?mediaType=mp4)|611||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[105](https://www.snap.com/political-ads/asset/baa3bb313ed78e42a2f3e5c6326e19cecda02feca5a94a7353328c996838c8e7?mediaType=mp4)|588||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[106](https://www.snap.com/political-ads/asset/baa3bb313ed78e42a2f3e5c6326e19cecda02feca5a94a7353328c996838c8e7?mediaType=mp4)|510||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[107](https://www.snap.com/political-ads/asset/551dfcd029dfa90b87510d4f9034587354459722c8f6b7d3f418c5a2f194a611?mediaType=mp4)|442||18-25|ireland|
-|SpunOut.ie|0.00 EUR|[108](https://www.snap.com/political-ads/asset/551dfcd029dfa90b87510d4f9034587354459722c8f6b7d3f418c5a2f194a611?mediaType=mp4)|186||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[94](https://www.snap.com/political-ads/asset/eabfc4ee94120052a883489c1e58824b2af0e2b331b6114f8c56363dff74e589?mediaType=mp4)|808||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[95](https://www.snap.com/political-ads/asset/425480056ebf64821d94839afef4c72785b68ff0616ed142d24728ad84c84336?mediaType=mp4)|805||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[96](https://www.snap.com/political-ads/asset/baa3bb313ed78e42a2f3e5c6326e19cecda02feca5a94a7353328c996838c8e7?mediaType=mp4)|756||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[97](https://www.snap.com/political-ads/asset/8d74d03e33290faf78d9d00dc790376078158f1004112bce50ed329d4bb829fd?mediaType=mp4)|750||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[98](https://www.snap.com/political-ads/asset/db88c762bb1456fbf67368f65564aa062a7f9a21633efdfcbc163fd2b80b1f25?mediaType=mp4)|739||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[99](https://www.snap.com/political-ads/asset/c873fb72a2b6b5a1bca88b013f3eac9af4c8af42ba05f146afd20d33f0fc444f?mediaType=mp4)|735||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[100](https://www.snap.com/political-ads/asset/425480056ebf64821d94839afef4c72785b68ff0616ed142d24728ad84c84336?mediaType=mp4)|698||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[101](https://www.snap.com/political-ads/asset/eabfc4ee94120052a883489c1e58824b2af0e2b331b6114f8c56363dff74e589?mediaType=mp4)|687||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[102](https://www.snap.com/political-ads/asset/551dfcd029dfa90b87510d4f9034587354459722c8f6b7d3f418c5a2f194a611?mediaType=mp4)|685||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[103](https://www.snap.com/political-ads/asset/d704583eeaa12e4e1d38cfdbe9078b47354003e3bccbd56ddc3db37faad0ee63?mediaType=mp4)|611||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[104](https://www.snap.com/political-ads/asset/baa3bb313ed78e42a2f3e5c6326e19cecda02feca5a94a7353328c996838c8e7?mediaType=mp4)|588||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[105](https://www.snap.com/political-ads/asset/baa3bb313ed78e42a2f3e5c6326e19cecda02feca5a94a7353328c996838c8e7?mediaType=mp4)|510||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[106](https://www.snap.com/political-ads/asset/551dfcd029dfa90b87510d4f9034587354459722c8f6b7d3f418c5a2f194a611?mediaType=mp4)|442||18-25|ireland|
+|SpunOut.ie|0.00 EUR|[107](https://www.snap.com/political-ads/asset/551dfcd029dfa90b87510d4f9034587354459722c8f6b7d3f418c5a2f194a611?mediaType=mp4)|186||18-25|ireland|

@@ -1,7 +1,7 @@
 ## 2025 - ElectionsCanada/ÉlectionsCanada 
-**Spent**: 496,359.00
+**Spent**: 496,176.00
 
-**Impressions**: 181,467,072
+**Impressions**: 181,335,957
 
 **Billing Addresses**: P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA
 
@@ -78,42 +78,41 @@
 |Cossette Media Inc|1,576.00 CAD|[68](https://www.snap.com/political-ads/asset/f9ba1403129dac24d293d358dbdb1c2bc3175c7bdc01fc69d2d377720cee0e1e?mediaType=mp4)|199,038||18+|canada|
 |Cossette Media Inc|4,579.00 CAD|[69](https://www.snap.com/political-ads/asset/42e1c2bc912a7525aa6464f9c690aadde56c13147add1b676228ab799e075732?mediaType=mp4)|157,483||18-24|canada|
 |Cossette Media Inc|3,798.00 CAD|[70](https://www.snap.com/political-ads/asset/1405963d73d36770c50b2f1400c79e538465a2575feb26bca1783eae120b9525?mediaType=mp4)|140,429||18-24|canada|
-|Cossette Media Inc|183.00 CAD|[71](https://www.snap.com/political-ads/asset/a2528eeb29043696a17c0faa07e7e7b493600fa3aedbf167314ca80afdde1d15?mediaType=mp4)|131,115|||canada|
-|Cossette Media Inc|110.00 CAD|[72](https://www.snap.com/political-ads/asset/38614a8e626ce07f866b20752d4aae9835e55c4f5235a38df833321d1e34ff9b?mediaType=mp4)|118,947||18+|canada|
-|Cossette Media Inc|111.00 CAD|[73](https://www.snap.com/political-ads/asset/f1579a760fc723c035fc4e78e09409ddc0fee559b7199db5f9403398d8e4f6fa?mediaType=mp4)|112,042||18+|canada|
-|Cossette Media Inc|552.00 CAD|[74](https://www.snap.com/political-ads/asset/cff28897f6fbd36a126916f6fdeb5940a563a06baf3f89350b4b43d12724ac5e?mediaType=mp4)|112,007||18-24|canada|
-|Cossette Media Inc|110.00 CAD|[75](https://www.snap.com/political-ads/asset/6716e94d232e1074692a88d15d14aa60bcf2d7d02751c9299a753a80aba945b3?mediaType=mp4)|109,388||18+|canada|
-|Cossette Media Inc|553.00 CAD|[76](https://www.snap.com/political-ads/asset/0c51789a1f5b823db351761741f43e13edc915c2e1e1a7345c2a76c7e41b745e?mediaType=mp4)|97,592||18-24|canada|
-|Cossette Media Inc|110.00 CAD|[77](https://www.snap.com/political-ads/asset/fe3b300d607875989b8e1f3b26691c785caa3cad4d1857ce2b6418b9c9296e92?mediaType=mp4)|97,491||18+|canada|
+|Cossette Media Inc|110.00 CAD|[71](https://www.snap.com/political-ads/asset/38614a8e626ce07f866b20752d4aae9835e55c4f5235a38df833321d1e34ff9b?mediaType=mp4)|118,947||18+|canada|
+|Cossette Media Inc|111.00 CAD|[72](https://www.snap.com/political-ads/asset/f1579a760fc723c035fc4e78e09409ddc0fee559b7199db5f9403398d8e4f6fa?mediaType=mp4)|112,042||18+|canada|
+|Cossette Media Inc|552.00 CAD|[73](https://www.snap.com/political-ads/asset/cff28897f6fbd36a126916f6fdeb5940a563a06baf3f89350b4b43d12724ac5e?mediaType=mp4)|112,007||18-24|canada|
+|Cossette Media Inc|110.00 CAD|[74](https://www.snap.com/political-ads/asset/6716e94d232e1074692a88d15d14aa60bcf2d7d02751c9299a753a80aba945b3?mediaType=mp4)|109,388||18+|canada|
+|Cossette Media Inc|553.00 CAD|[75](https://www.snap.com/political-ads/asset/0c51789a1f5b823db351761741f43e13edc915c2e1e1a7345c2a76c7e41b745e?mediaType=mp4)|97,592||18-24|canada|
+|Cossette Media Inc|110.00 CAD|[76](https://www.snap.com/political-ads/asset/fe3b300d607875989b8e1f3b26691c785caa3cad4d1857ce2b6418b9c9296e92?mediaType=mp4)|97,491||18+|canada|
 |Cossette Media Inc|210.00 CAD||88,487||18+|canada|
 |Cossette Media Inc|197.00 CAD||79,752||18+|canada|
 |Cossette Media Inc|306.00 CAD||78,932||18+|canada|
-|Cossette Media Inc|552.00 CAD|[81](https://www.snap.com/political-ads/asset/2d4e38d4d71c1036a1a0095a448ab303f63ed1e1aa6e55175c4319b090670af7?mediaType=mp4)|78,429||18-24|canada|
+|Cossette Media Inc|552.00 CAD|[80](https://www.snap.com/political-ads/asset/2d4e38d4d71c1036a1a0095a448ab303f63ed1e1aa6e55175c4319b090670af7?mediaType=mp4)|78,429||18-24|canada|
 |Cossette Media Inc|361.00 CAD||74,885||18+|canada|
-|Cossette Media Inc|553.00 CAD|[83](https://www.snap.com/political-ads/asset/6302e03c54eb08ec88975697d4e7e199c3493d3793e7055b507a2b9150a0b7de?mediaType=mp4)|69,236||18-24|canada|
-|Cossette Media Inc|82.00 CAD|[84](https://www.snap.com/political-ads/asset/94058fe068dbf35abb36e72f0a005273284fdc4f993ba0814eec520f2358399f?mediaType=mp4)|60,258||18+|canada|
-|Cossette Media Inc|82.00 CAD|[85](https://www.snap.com/political-ads/asset/618ec176cb28f572479e797e39ea46d5329fd4df9dc5b4c93194095eabf9ea04?mediaType=mp4)|48,613||18+|canada|
-|Cossette Media Inc|82.00 CAD|[86](https://www.snap.com/political-ads/asset/c389cd437104c81a70b298ebfde40915572d55e2de43915f6c66ee517602c32b?mediaType=mp4)|46,076||18+|canada|
-|Cossette Media Inc|83.00 CAD|[87](https://www.snap.com/political-ads/asset/2a9c8e2d73e62c1243a5b2621797afcbf06fd5d559d60e8d03b61d048828dbd5?mediaType=mp4)|43,058||18+|canada|
-|Cossette Media Inc|110.00 CAD|[88](https://www.snap.com/political-ads/asset/ab436d53c169a5f439e9cc250ae83e29fd2a8b938c5b9f28e2a11f9a85c01aaf?mediaType=mp4)|35,543||18+|canada|
-|Cossette Media Inc|990.00 CAD|[89](https://www.snap.com/political-ads/asset/3dd8b267513081d6bdc5b9b815984de76cc4ced3b1cade171a99b5489919f49b?mediaType=mp4)|28,963||18-24|canada|
-|Cossette Media Inc|110.00 CAD|[90](https://www.snap.com/political-ads/asset/1060bda0a589e189daf9a11c7c5a2a5caa35546fcc4717470de642fa3fb6f6de?mediaType=mp4)|26,910||18+|canada|
-|Cossette Media Inc|110.00 CAD|[91](https://www.snap.com/political-ads/asset/6e0121e36797384306ae451a077e793493898deefc9646bd9b6298a2a7577546?mediaType=mp4)|25,598||18+|canada|
-|Cossette Media Inc|111.00 CAD|[92](https://www.snap.com/political-ads/asset/0e8aa07cd9b457891e0a10fd156b1be8d328196618f306844c34f7b3a981ae20?mediaType=mp4)|24,354||18+|canada|
-|Cossette Media Inc|75.00 CAD|[93](https://www.snap.com/political-ads/asset/78dd2f9f9e442e82854764aa5fa18fe4c4f0d9c660e8df736ef8a9e602013968?mediaType=mp4)|17,306||18-24|canada|
-|Cossette Media Inc|72.00 CAD|[94](https://www.snap.com/political-ads/asset/9044c6ed4b9f9738d7d272a595d26525c6a23eff44072d7c9083ff9b2e74416a?mediaType=mp4)|16,587||18-24|canada|
-|Cossette Media Inc|82.00 CAD|[95](https://www.snap.com/political-ads/asset/e62ea00f7d5a001e806da9681de3d9740d652ff9ca9f50edbd3dade35d2f206b?mediaType=mp4)|15,315||18+|canada|
-|Cossette Media Inc|476.00 CAD|[96](https://www.snap.com/political-ads/asset/6429fc1c056a1ef1b56b0dfc448024a90cb6c04c5a94f83472c030b219fa05ea?mediaType=mp4)|14,873||18-24|canada|
-|Cossette Media Inc|82.00 CAD|[97](https://www.snap.com/political-ads/asset/72dcdbc882efe585cf4b981c570beaebed6dc562c7de949b2ee883fd90f0d7a2?mediaType=mp4)|12,990||18+|canada|
-|Cossette Media Inc|82.00 CAD|[98](https://www.snap.com/political-ads/asset/788576570f912cfe3dfe47b149e9f62c55e241b0b5c91098015dfa084b7cd9b7?mediaType=mp4)|11,007||18+|canada|
-|Cossette Media Inc|83.00 CAD|[99](https://www.snap.com/political-ads/asset/c49922657b2acf120dd9cafff90b22f2a6407d11e387b849fef11eac300cc2dc?mediaType=mp4)|9,292||18+|canada|
-|Cossette Media Inc|5.00 CAD|[100](https://www.snap.com/political-ads/asset/dffe22e7e8300c2a20c3284f83fd21fcb4d13125c0a109308d95862a5c38a8ec?mediaType=mp4)|7,398||18-24|canada|
-|Cossette Media Inc|5.00 CAD|[101](https://www.snap.com/political-ads/asset/b9282dbd7e55d1c070aac65ea6cc57803afe8297504071b55acc7f00cb87b941?mediaType=mp4)|7,243||18-24|canada|
-|Cossette Media Inc|5.00 CAD|[102](https://www.snap.com/political-ads/asset/6198e443c79c7e57cb1450e23014bf19721248bc23833f50890e5a6ffd0cb35b?mediaType=mp4)|6,576||18-24|canada|
-|Cossette Media Inc|5.00 CAD|[103](https://www.snap.com/political-ads/asset/bfebaada0e04da336afc5fd4c6d642b4d309c6001d15d4480824977e7e706180?mediaType=mp4)|6,395||18-24|canada|
-|Cossette Media Inc|15.00 CAD|[104](https://www.snap.com/political-ads/asset/b7d37f6f0955f7df46d18cf01db28fe51ae3a903237b32b4730775c17b654e86?mediaType=mp4)|5,309||18-24|canada|
-|Cossette Media Inc|14.00 CAD|[105](https://www.snap.com/political-ads/asset/17b51f396dbbb62df3273be39f2a8df165039c8855040da42af130900c4363d7?mediaType=mp4)|5,105||18-24|canada|
-|Cossette Media Inc|4.00 CAD|[106](https://www.snap.com/political-ads/asset/5b86a1cd1442223bb01f5ff34533be7872d343fb2dc26ac7232665a56605fc7f?mediaType=mp4)|2,839||18-24|canada|
-|Cossette Media Inc|4.00 CAD|[107](https://www.snap.com/political-ads/asset/6cac9801cca350e2fa7946654fc467ed7756560640ca81bd33da4ec8ee8c882a?mediaType=mp4)|2,751||18-24|canada|
-|Cossette Media Inc|3.00 CAD|[108](https://www.snap.com/political-ads/asset/4b9d7f32ea97028ea90ffdd6af161acee87478a7499dce4ab84657b5756c60bb?mediaType=mp4)|1,814||18-24|canada|
-|Cossette Media Inc|3.00 CAD|[109](https://www.snap.com/political-ads/asset/3da42caf876d8ca30edba39660cfc8916c5a04e31445e8674c8543150139fb16?mediaType=mp4)|1,701||18-24|canada|
+|Cossette Media Inc|553.00 CAD|[82](https://www.snap.com/political-ads/asset/6302e03c54eb08ec88975697d4e7e199c3493d3793e7055b507a2b9150a0b7de?mediaType=mp4)|69,236||18-24|canada|
+|Cossette Media Inc|82.00 CAD|[83](https://www.snap.com/political-ads/asset/94058fe068dbf35abb36e72f0a005273284fdc4f993ba0814eec520f2358399f?mediaType=mp4)|60,258||18+|canada|
+|Cossette Media Inc|82.00 CAD|[84](https://www.snap.com/political-ads/asset/618ec176cb28f572479e797e39ea46d5329fd4df9dc5b4c93194095eabf9ea04?mediaType=mp4)|48,613||18+|canada|
+|Cossette Media Inc|82.00 CAD|[85](https://www.snap.com/political-ads/asset/c389cd437104c81a70b298ebfde40915572d55e2de43915f6c66ee517602c32b?mediaType=mp4)|46,076||18+|canada|
+|Cossette Media Inc|83.00 CAD|[86](https://www.snap.com/political-ads/asset/2a9c8e2d73e62c1243a5b2621797afcbf06fd5d559d60e8d03b61d048828dbd5?mediaType=mp4)|43,058||18+|canada|
+|Cossette Media Inc|110.00 CAD|[87](https://www.snap.com/political-ads/asset/ab436d53c169a5f439e9cc250ae83e29fd2a8b938c5b9f28e2a11f9a85c01aaf?mediaType=mp4)|35,543||18+|canada|
+|Cossette Media Inc|990.00 CAD|[88](https://www.snap.com/political-ads/asset/3dd8b267513081d6bdc5b9b815984de76cc4ced3b1cade171a99b5489919f49b?mediaType=mp4)|28,963||18-24|canada|
+|Cossette Media Inc|110.00 CAD|[89](https://www.snap.com/political-ads/asset/1060bda0a589e189daf9a11c7c5a2a5caa35546fcc4717470de642fa3fb6f6de?mediaType=mp4)|26,910||18+|canada|
+|Cossette Media Inc|110.00 CAD|[90](https://www.snap.com/political-ads/asset/6e0121e36797384306ae451a077e793493898deefc9646bd9b6298a2a7577546?mediaType=mp4)|25,598||18+|canada|
+|Cossette Media Inc|111.00 CAD|[91](https://www.snap.com/political-ads/asset/0e8aa07cd9b457891e0a10fd156b1be8d328196618f306844c34f7b3a981ae20?mediaType=mp4)|24,354||18+|canada|
+|Cossette Media Inc|75.00 CAD|[92](https://www.snap.com/political-ads/asset/78dd2f9f9e442e82854764aa5fa18fe4c4f0d9c660e8df736ef8a9e602013968?mediaType=mp4)|17,306||18-24|canada|
+|Cossette Media Inc|72.00 CAD|[93](https://www.snap.com/political-ads/asset/9044c6ed4b9f9738d7d272a595d26525c6a23eff44072d7c9083ff9b2e74416a?mediaType=mp4)|16,587||18-24|canada|
+|Cossette Media Inc|82.00 CAD|[94](https://www.snap.com/political-ads/asset/e62ea00f7d5a001e806da9681de3d9740d652ff9ca9f50edbd3dade35d2f206b?mediaType=mp4)|15,315||18+|canada|
+|Cossette Media Inc|476.00 CAD|[95](https://www.snap.com/political-ads/asset/6429fc1c056a1ef1b56b0dfc448024a90cb6c04c5a94f83472c030b219fa05ea?mediaType=mp4)|14,873||18-24|canada|
+|Cossette Media Inc|82.00 CAD|[96](https://www.snap.com/political-ads/asset/72dcdbc882efe585cf4b981c570beaebed6dc562c7de949b2ee883fd90f0d7a2?mediaType=mp4)|12,990||18+|canada|
+|Cossette Media Inc|82.00 CAD|[97](https://www.snap.com/political-ads/asset/788576570f912cfe3dfe47b149e9f62c55e241b0b5c91098015dfa084b7cd9b7?mediaType=mp4)|11,007||18+|canada|
+|Cossette Media Inc|83.00 CAD|[98](https://www.snap.com/political-ads/asset/c49922657b2acf120dd9cafff90b22f2a6407d11e387b849fef11eac300cc2dc?mediaType=mp4)|9,292||18+|canada|
+|Cossette Media Inc|5.00 CAD|[99](https://www.snap.com/political-ads/asset/dffe22e7e8300c2a20c3284f83fd21fcb4d13125c0a109308d95862a5c38a8ec?mediaType=mp4)|7,398||18-24|canada|
+|Cossette Media Inc|5.00 CAD|[100](https://www.snap.com/political-ads/asset/b9282dbd7e55d1c070aac65ea6cc57803afe8297504071b55acc7f00cb87b941?mediaType=mp4)|7,243||18-24|canada|
+|Cossette Media Inc|5.00 CAD|[101](https://www.snap.com/political-ads/asset/6198e443c79c7e57cb1450e23014bf19721248bc23833f50890e5a6ffd0cb35b?mediaType=mp4)|6,576||18-24|canada|
+|Cossette Media Inc|5.00 CAD|[102](https://www.snap.com/political-ads/asset/bfebaada0e04da336afc5fd4c6d642b4d309c6001d15d4480824977e7e706180?mediaType=mp4)|6,395||18-24|canada|
+|Cossette Media Inc|15.00 CAD|[103](https://www.snap.com/political-ads/asset/b7d37f6f0955f7df46d18cf01db28fe51ae3a903237b32b4730775c17b654e86?mediaType=mp4)|5,309||18-24|canada|
+|Cossette Media Inc|14.00 CAD|[104](https://www.snap.com/political-ads/asset/17b51f396dbbb62df3273be39f2a8df165039c8855040da42af130900c4363d7?mediaType=mp4)|5,105||18-24|canada|
+|Cossette Media Inc|4.00 CAD|[105](https://www.snap.com/political-ads/asset/5b86a1cd1442223bb01f5ff34533be7872d343fb2dc26ac7232665a56605fc7f?mediaType=mp4)|2,839||18-24|canada|
+|Cossette Media Inc|4.00 CAD|[106](https://www.snap.com/political-ads/asset/6cac9801cca350e2fa7946654fc467ed7756560640ca81bd33da4ec8ee8c882a?mediaType=mp4)|2,751||18-24|canada|
+|Cossette Media Inc|3.00 CAD|[107](https://www.snap.com/political-ads/asset/4b9d7f32ea97028ea90ffdd6af161acee87478a7499dce4ab84657b5756c60bb?mediaType=mp4)|1,814||18-24|canada|
+|Cossette Media Inc|3.00 CAD|[108](https://www.snap.com/political-ads/asset/3da42caf876d8ca30edba39660cfc8916c5a04e31445e8674c8543150139fb16?mediaType=mp4)|1,701||18-24|canada|

@@ -1,7 +1,7 @@
 ## 2026 - Amathea 
-**Spent**: 3,569.00
+**Spent**: 3,417.00
 
-**Impressions**: 211,052
+**Impressions**: 209,121
 
 **Billing Addresses**: NO
 
@@ -16,4 +16,3 @@
 |Amathea: Stiftelsen Amathea|112.00 NOK|[6](https://www.snap.com/political-ads/asset/fb744dab8cfd7a24b0e8e39a883025e97b19d36cb8503efdeeeca71e68d849f8?mediaType=mp4)|9,695||20-45|norway|
 |Amathea: Stiftelsen Amathea|205.00 NOK|[7](https://www.snap.com/political-ads/asset/a6f18ea4af06d4b2ce4dc60238e7b7bc952453c59dfaa4a23f75c2107c5f50cf?mediaType=mp4)|2,317||18-45|norway|
 |Amathea: Stiftelsen Amathea|230.00 NOK|[8](https://www.snap.com/political-ads/asset/4e8aad14acabdcf2aa4819125d45ba4a87fe1bcb2c7d7490d23e372da3ef5bdf?mediaType=mp4)|2,312||18-45|norway|
-|Amathea: Stiftelsen Amathea|152.00 NOK|[9](https://www.snap.com/political-ads/asset/a6f18ea4af06d4b2ce4dc60238e7b7bc952453c59dfaa4a23f75c2107c5f50cf?mediaType=mp4)|1,931||18-45|norway|

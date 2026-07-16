@@ -1,7 +1,7 @@
 ## 2025 - Tasmanian Labor 
-**Spent**: 2,947.00
+**Spent**: 2,771.00
 
-**Impressions**: 301,317
+**Impressions**: 283,752
 
 **Billing Addresses**: Level 2, 63 Salamanca Plate,Battery Point,7004,AU
 
@@ -20,4 +20,3 @@
 |AUSTRALIAN LABOR PARTY TASMANIAN BRANCH: Tasmanian Labor|185.00 AUD|[10](https://www.snap.com/political-ads/asset/2fba6e2e66c05b68b78db71c772aefad04d50d572c2fe108de25ad89b521f3bc?mediaType=mp4)|18,422||18-30|australia|
 |AUSTRALIAN LABOR PARTY TASMANIAN BRANCH: Tasmanian Labor|183.00 AUD|[11](https://www.snap.com/political-ads/asset/e219147ea187a110427af9617a91c24439d644fdf6457091a328d5ba9d1176dd?mediaType=mp4)|18,371||18-30|australia|
 |AUSTRALIAN LABOR PARTY TASMANIAN BRANCH: Tasmanian Labor|179.00 AUD|[12](https://www.snap.com/political-ads/asset/b483f5242e5ebb9c4f4122dc63643214df25b8f919a9a4c34e3c624117b8838c?mediaType=mp4)|17,925||18-30|australia|
-|AUSTRALIAN LABOR PARTY TASMANIAN BRANCH: Tasmanian Labor|176.00 AUD|[13](https://www.snap.com/political-ads/asset/70fe72d507b8f156ae036ecee19aedf1ecf38a7d3f36bfef2a102cb46b735862?mediaType=mp4)|17,565||18-30|australia|

@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18+, 18-24|australia|
-|[Patagonia](Patagonia.md) - Patagonia Europe|259,924.00 EUR, USD|55,822,027||15+, 18+, 18-30, 18-34, 18-35, 18-40, 18-49, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia Europe|259,774.00 EUR, USD|55,815,092||15+, 18+, 18-30, 18-34, 18-35, 18-40, 18-49, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18+, 18-26, 18-29, 18-30, 18-34, 18-35|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18+, 18-44, 25+|united states|
@@ -11,10 +11,10 @@
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|47,500.00 EUR|21,605,615||18+, 18-26|norway|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Fylkestingsvalget 2023, Hoda skolemat|527,188.00 NOK|19,930,616|FEMALE, MALE|16-23, 17+, 18+, 18-30, 18-40, 18-45, 25-45, 30+, 30-, 35+|norway|
 |[Høyre](Høyre.md) - Amidays|1,437,774.00 NOK|19,655,696||18+, 18-25, 18-30, 25+, 25-45, 30+, 30-49|norway|
-|[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|92,900.00 USD|16,532,955||16+, 18+, 18-24|united states|
+|[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|92,819.00 USD|16,528,402||16+, 18+, 18-24|united states|
 |[PPFA](PPFA.md) - Chong and Koster|137,292.00 USD|16,482,492|FEMALE|18-35, 20-49|united states|
 |[The Body Shop UK](The_Body_Shop_UK.md) - The Body Shop Intl Plc|9,611.00 GBP|13,174,259||15-17|united kingdom|
-|[GC/ESDC-EDSC](GC_ESDC-EDSC.md) - Cossette Media Inc|72,481.00 CAD|12,832,224||34-|canada|
+|[GC/ESDC-EDSC](GC_ESDC-EDSC.md) - Cossette Media Inc|71,209.00 CAD|12,702,946||34-|canada|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: TurnUp Activism|52,393.00 USD|12,341,747|FEMALE|15+, 18-18, 18-25, 18-28, 18-29|united states|
 |[New York City Campaign Finance B](New_York_City_Campaign_Finance_B.md) - DSPolitical: Local NYC General Election Awareness, Local New York City Primary Election awareness|67,251.00 USD|12,270,827||18+, 18-35|united states|
 |[Facts for Peace LLC](Facts_for_Peace_LLC.md) - Facts for Peace LLC: Facts For Peace|192,177.00 USD|11,426,050|FEMALE, MALE|18-24, 18-29|united states|
@@ -129,7 +129,6 @@
 |[NextGen Climate Action Committe](NextGen_Climate_Action_Committe.md) - AL Media|8,286.00 USD|731,535||18-35|united states|
 |[Texas State Teachers Association](Texas_State_Teachers_Association.md) - Corsair Campaigns|1,499.00 USD|726,654||18+|united states|
 |[BNNVARA](BNNVARA.md) - BNNVARA|3,160.00 EUR|718,234||18-25|netherlands|
-|[Blue Sky Waukesha, Inc.](Blue_Sky_Waukesha,_Inc..md) - Blue Sky Waukesha: Abortion Ad Spring Primary, Bob Tatterson for AD24, David Irwin for Elmbrook School Board, Dont Florida Our Wisconsin, Janet Protasiewicz for Wisconsin Supreme Court, Wisconsin 2023 General Election|6,049.00 USD|716,917|FEMALE|17+, 18+|united states|
 |[farz aldayhani](farz_aldayhani.md) - sourcemediakw: farz aldayhani|400.00 USD|714,456||21+|kuwait|
 |[hamad saif mohammad alharshani](hamad_saif_mohammad_alharshani.md) - hamadseeif|1,443.00 USD|695,390||18+|kuwait|
 |[Gemeente Amsterdam](Gemeente_Amsterdam.md) - Digital Media Enzo B.V.: Gemeente Amsterdam|3,328.00 EUR|693,168||18-24, 18-25|netherlands|
@@ -138,6 +137,7 @@
 |[Kemal Kılıçdaroğlu](Kemal_Kılıçdaroğlu.md) - Goodroll Dijital Video Reklam Pazarlama Tic. A.Ş.: Kemal Kilicdaroglu|476.00 USD|655,933||18-24|turkey|
 |[Natuurmonumenten](Natuurmonumenten.md) - Jalt|2,020.00 EUR|650,909||18-45, 25+|netherlands|
 |[Wenatchee Right To Life](Wenatchee_Right_To_Life.md) - Townsquare Ignite: Right To Life|1,283.00 USD|650,184||24-, 30-|united states|
+|[Blue Sky Waukesha, Inc.](Blue_Sky_Waukesha,_Inc..md) - Blue Sky Waukesha: Abortion Ad Spring Primary, Bob Tatterson for AD24, David Irwin for Elmbrook School Board, Dont Florida Our Wisconsin, Janet Protasiewicz for Wisconsin Supreme Court, Wisconsin 2023 General Election|5,049.00 USD|642,351|FEMALE|17+, 18+|united states|
 |[DrAbdulhadiAjmi](DrAbdulhadiAjmi.md) - Digital Media Services FZ-LLC: Dr Abdulhadi Ajmi|3,198.00 USD|633,589||21+|kuwait|
 |[Options Pregnancy Center](Options_Pregnancy_Center.md) - Marketron|1,560.00 USD|628,537|FEMALE|34-|united states|
 |[Fagforbundet Oslo](Fagforbundet_Oslo.md) - Try Schjærven Media|14,998.00 NOK|619,807||18+|norway|
@@ -237,7 +237,6 @@
 |[Zoecare](Zoecare.md) - Townsquare Ignite|906.00 USD|138,655|FEMALE|16+|united states|
 |[Elissa Slotkin for Michigan](Elissa_Slotkin_for_Michigan.md) - Wavelength Strategy: Elissa Slotkin for Michigan|1,957.00 USD|138,534||18+|united states|
 |[Color Of Change](Color_Of_Change.md) - Color Of Change|2,500.00 USD|137,751|||united states|
-|[SAIH](SAIH.md) - Brunch Oslo|6,278.00 NOK|137,102||19-35|norway|
 |[Michael Feggans for Virginia](Michael_Feggans_for_Virginia.md) - Ethos Campaigns LLC: Michael Feggans|3,041.00 USD|136,701||18+|united states|
 |[Social q8 Markting Agency](Social_q8_Markting_Agency.md) - Sponsor Kwt: Social q8 Markting Agency|49.00 USD|136,236|||kuwait|
 |[RepresentUs](RepresentUs.md) - Break Something|1,178.00 USD|135,270||18+|united states|
@@ -283,6 +282,7 @@
 |[Lifetime Adoption](Lifetime_Adoption.md) - Lifetime Adoption: None|912.00 USD|55,327|FEMALE|18-33|united states|
 |[Dr. Mohammed hadi hayef alhuwail](Dr._Mohammed_hadi_hayef_alhuwail.md) - Optimize Advertising and marketing company LLC|150.00 USD|54,336||18+|kuwait|
 |[NA](NA.md) - Run for Something PAC|681.00 USD|52,340||18-35|united states|
+|[SAIH](SAIH.md) - Brunch Oslo|3,875.00 NOK|52,042||19-35|norway|
 |[Stjørdal Arbeiderparti](Stjørdal_Arbeiderparti.md) - Stjørdal Arbeiderparti|2,687.00 NOK|50,943||17+|norway|
 |[Møre og Romsdal Arbeiderparti](Møre_og_Romsdal_Arbeiderparti.md) - Møre og Romsdal Arbeiderparti|1,000.00 NOK|49,683||18+, 18-49|norway|
 |[Bodø Venstre](Bodø_Venstre.md) - Bodø Venstre: Ida Gudding Johnsen|4,507.00 NOK|49,396||18+|norway|
@@ -290,7 +290,7 @@
 |[Choices Pregnancy & Health](Choices_Pregnancy_&_Health.md) - Stories Marketing: Choices Pregnancy Health|595.00 USD|44,615|FEMALE|18-36|united states|
 |[Gemeente Dalfsen](Gemeente_Dalfsen.md) - SocialMediaMen|164.00 EUR|43,314||18+|netherlands|
 |[La Sodevika leve](La_Sodevika_leve.md) - Something Else Marketing AS: La Sodevika leve|3,734.00 NOK|41,443||18+|norway|
-|[Michigan Voices](Michigan_Voices.md) - Chong and Koster|386.00 USD|40,979||18+|united states|
+|[Michigan Voices](Michigan_Voices.md) - Chong and Koster|378.00 USD|40,155||18+|united states|
 |[Friends of Susanna Gibson](Friends_of_Susanna_Gibson.md) - Ethos Campaigns LLC: Susanna Gibson|869.00 USD|40,135||18+|united states|
 |[Tanami media , ebrahem alhajri](Tanami_media_,_ebrahem_alhajri.md) - TANAMI MEDIA|8.00 USD|39,243|||kuwait|
 |[Run for Something](Run_for_Something.md) - Run for Something PAC|747.00 USD|38,820||18-40|united states|

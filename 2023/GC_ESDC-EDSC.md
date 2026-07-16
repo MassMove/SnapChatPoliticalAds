@@ -1,7 +1,7 @@
 ## 2023 - GC/ESDC-EDSC 
-**Spent**: 72,481.00
+**Spent**: 71,209.00
 
-**Impressions**: 12,832,224
+**Impressions**: 12,702,946
 
 **Billing Addresses**: P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA
 
@@ -31,8 +31,7 @@
 |Cossette Media Inc|1,156.00 CAD|[21](https://www.snap.com/political-ads/asset/c9cd7c9acf0f9702931e3b7d1d56916b20d19606e24668ab8f736b719863f435?mediaType=mp4)|158,295||34-|canada|
 |Cossette Media Inc|948.00 CAD|[22](https://www.snap.com/political-ads/asset/2d1b0779a581626b7ec49af16b79b86b19d68d145401cb9b39007aaee4bd7407?mediaType=mp4)|155,937||34-|canada|
 |Cossette Media Inc|746.00 CAD|[23](https://www.snap.com/political-ads/asset/c9cd7c9acf0f9702931e3b7d1d56916b20d19606e24668ab8f736b719863f435?mediaType=mp4)|138,122||34-|canada|
-|Cossette Media Inc|1,272.00 CAD|[24](https://www.snap.com/political-ads/asset/8efe509983aadbe0860387b04d340d4c5ccd2801ee80b1170a2884aac5ad7c8c?mediaType=mp4)|129,278||34-|canada|
-|Cossette Media Inc|1,874.00 CAD|[25](https://www.snap.com/political-ads/asset/c9cd7c9acf0f9702931e3b7d1d56916b20d19606e24668ab8f736b719863f435?mediaType=mp4)|26,045|||canada|
-|Cossette Media Inc|1,874.00 CAD|[26](https://www.snap.com/political-ads/asset/d5f248badb975de4160a39f6b0ca0bb0bf4fd4ba32db789c55b6a974490d8683?mediaType=mp4)|25,880|||canada|
-|Cossette Media Inc|1,875.00 CAD|[27](https://www.snap.com/political-ads/asset/2d1b0779a581626b7ec49af16b79b86b19d68d145401cb9b39007aaee4bd7407?mediaType=mp4)|25,851|||canada|
-|Cossette Media Inc|1,874.00 CAD|[28](https://www.snap.com/political-ads/asset/8efe509983aadbe0860387b04d340d4c5ccd2801ee80b1170a2884aac5ad7c8c?mediaType=mp4)|25,554|||canada|
+|Cossette Media Inc|1,874.00 CAD|[24](https://www.snap.com/political-ads/asset/c9cd7c9acf0f9702931e3b7d1d56916b20d19606e24668ab8f736b719863f435?mediaType=mp4)|26,045|||canada|
+|Cossette Media Inc|1,874.00 CAD|[25](https://www.snap.com/political-ads/asset/d5f248badb975de4160a39f6b0ca0bb0bf4fd4ba32db789c55b6a974490d8683?mediaType=mp4)|25,880|||canada|
+|Cossette Media Inc|1,875.00 CAD|[26](https://www.snap.com/political-ads/asset/2d1b0779a581626b7ec49af16b79b86b19d68d145401cb9b39007aaee4bd7407?mediaType=mp4)|25,851|||canada|
+|Cossette Media Inc|1,874.00 CAD|[27](https://www.snap.com/political-ads/asset/8efe509983aadbe0860387b04d340d4c5ccd2801ee80b1170a2884aac5ad7c8c?mediaType=mp4)|25,554|||canada|
