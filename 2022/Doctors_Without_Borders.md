@@ -1,7 +1,7 @@
 ## 2022 - Doctors Without Borders 
-**Spent**: 10,114.00
+**Spent**: 10,235.00
 
-**Impressions**: 1,378,899
+**Impressions**: 1,387,759
 
 **Billing Addresses**: 40 rector street,New York,10006,US
 
@@ -22,5 +22,6 @@
 |Doctors Without Borders|240.00 USD|[12](https://www.snap.com/political-ads/asset/f3392934647654742880a52fd51074446db717b98498774c480dd45d11db9645?mediaType=mp4)|36,631||18+|united states|
 |Doctors Without Borders|50.00 USD|[13](https://www.snap.com/political-ads/asset/02435d5f95302bbdf8f80e59fc3eac9932d5fbf6c603455dc4876dc175dad346?mediaType=mp4)|12,818||18+|united states|
 |Doctors Without Borders|120.00 USD|[14](https://www.snap.com/political-ads/asset/f3392934647654742880a52fd51074446db717b98498774c480dd45d11db9645?mediaType=mp4)|8,896||18+|united states|
-|Doctors Without Borders|67.00 USD|[15](https://www.snap.com/political-ads/asset/02435d5f95302bbdf8f80e59fc3eac9932d5fbf6c603455dc4876dc175dad346?mediaType=mp4)|4,396||18+|united states|
-|Doctors Without Borders|34.00 USD|[16](https://www.snap.com/political-ads/asset/02435d5f95302bbdf8f80e59fc3eac9932d5fbf6c603455dc4876dc175dad346?mediaType=mp4)|2,278||18+|united states|
+|Doctors Without Borders|121.00 USD|[15](https://www.snap.com/political-ads/asset/f3392934647654742880a52fd51074446db717b98498774c480dd45d11db9645?mediaType=mp4)|8,860||18+|united states|
+|Doctors Without Borders|67.00 USD|[16](https://www.snap.com/political-ads/asset/02435d5f95302bbdf8f80e59fc3eac9932d5fbf6c603455dc4876dc175dad346?mediaType=mp4)|4,396||18+|united states|
+|Doctors Without Borders|34.00 USD|[17](https://www.snap.com/political-ads/asset/02435d5f95302bbdf8f80e59fc3eac9932d5fbf6c603455dc4876dc175dad346?mediaType=mp4)|2,278||18+|united states|

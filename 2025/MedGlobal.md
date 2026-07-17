@@ -1,7 +1,7 @@
 ## 2025 - MedGlobal 
-**Spent**: 16,562.00
+**Spent**: 16,567.00
 
-**Impressions**: 2,195,167
+**Impressions**: 2,196,369
 
 **Billing Addresses**: US
 
@@ -10,11 +10,11 @@
 |MedGlobal|109.00 USD|[0](https://www.snap.com/political-ads/asset/f9dcf267e5941e5b35bde1c7c1254a727498f645731f742a0c5bc8f22a5fcbef?mediaType=png)|423,745||18+|united states|
 |MedGlobal|129.00 USD|[1](https://www.snap.com/political-ads/asset/0e51f701aa76ee309fd047c6d4ceabb10a25aa492242271ee4f0f58153bdb8b0?mediaType=png)|317,652||18+|united states|
 |MedGlobal|158.00 USD|[2](https://www.snap.com/political-ads/asset/50e44bac45dd86b31bf1a765a419f99f25636751c285ae2e93e16937fdc0d645?mediaType=png)|251,427||18+|united states|
-|MedGlobal|892.00 USD|[3](https://www.snap.com/political-ads/asset/d473db527721cc553ac6e1f439fe2cb29fa5864890afbc71db01443e8ddc441a?mediaType=png)|148,721|||united states|
+|MedGlobal|893.00 USD|[3](https://www.snap.com/political-ads/asset/d473db527721cc553ac6e1f439fe2cb29fa5864890afbc71db01443e8ddc441a?mediaType=png)|149,051|||united states|
 |MedGlobal|68.00 USD|[4](https://www.snap.com/political-ads/asset/f9dcf267e5941e5b35bde1c7c1254a727498f645731f742a0c5bc8f22a5fcbef?mediaType=png)|93,842||18+|united states|
 |MedGlobal|1,614.00 USD|[5](https://www.snap.com/political-ads/asset/f441c8d77ad59d3c3356b78f2c9f6af2d2516a4a75209e3947212ae7e550dcb2?mediaType=mp4)|75,352||24+|united states|
 |MedGlobal|146.00 USD|[6](https://www.snap.com/political-ads/asset/50e44bac45dd86b31bf1a765a419f99f25636751c285ae2e93e16937fdc0d645?mediaType=png)|73,271||18+|united states|
-|MedGlobal|566.00 USD|[7](https://www.snap.com/political-ads/asset/2f113e6fa6bbfbc3f078209198beafdd724802773e7c2ccc554e2c4492aea317?mediaType=png)|72,318|||united states|
+|MedGlobal|570.00 USD|[7](https://www.snap.com/political-ads/asset/2f113e6fa6bbfbc3f078209198beafdd724802773e7c2ccc554e2c4492aea317?mediaType=png)|73,190|||united states|
 |MedGlobal|20.00 USD|[8](https://www.snap.com/political-ads/asset/dbf3a5fa39278d0bf166346cbe75b94d050bb845c44dc71542f4b35e2e23bd7c?mediaType=png)|51,028||18+|united states|
 |MedGlobal|697.00 USD|[9](https://www.snap.com/political-ads/asset/deee237d9515701056d148e82686112cb69bba6c5b31b706d6b20c0eb68cf6b3?mediaType=mp4)|30,473||18+|united states|
 |MedGlobal|739.00 USD|[10](https://www.snap.com/political-ads/asset/cb4aad5608dbc91219833ac61cc2cfc29232abb01de785aebddf704055be5d44?mediaType=mp4)|30,124||21+|united states|

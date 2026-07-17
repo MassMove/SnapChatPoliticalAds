@@ -1,7 +1,7 @@
 ## 2024 - Project Unloaded, Inc. 
-**Spent**: 101,840.00
+**Spent**: 101,841.00
 
-**Impressions**: 22,432,104
+**Impressions**: 22,432,551
 
 **Billing Addresses**: 1 East Erie Street, Suite 525 #4787,Chicago,60611,US
 
@@ -432,5 +432,6 @@
 |Project Unloaded|2.00 USD|[422](https://www.snap.com/political-ads/asset/ece4688db7b37ba719ed2a469a8865fc67a69130b84f51aa0620289cda33016e?mediaType=mp4)|562||17-|united states|
 |Project Unloaded|2.00 USD|[423](https://www.snap.com/political-ads/asset/07721ef5ab25680e9b3d37b31e4704066e5439eb3b9a13cce2a0b72eb05a341c?mediaType=mp4)|534||17-|united states|
 |Project Unloaded|1.00 USD|[424](https://www.snap.com/political-ads/asset/ece4688db7b37ba719ed2a469a8865fc67a69130b84f51aa0620289cda33016e?mediaType=mp4)|504||17-|united states|
-|Project Unloaded|1.00 USD|[425](https://www.snap.com/political-ads/asset/92730f30b5fb3715ebc2512fbe5045c5baaf908104121c1f7cd59e607037b7ce?mediaType=mp4)|301||17-|united states|
-|Project Unloaded|1.00 USD|[426](https://www.snap.com/political-ads/asset/92730f30b5fb3715ebc2512fbe5045c5baaf908104121c1f7cd59e607037b7ce?mediaType=mp4)|284||17-|united states|
+|Project Unloaded|1.00 USD|[425](https://www.snap.com/political-ads/asset/ece4688db7b37ba719ed2a469a8865fc67a69130b84f51aa0620289cda33016e?mediaType=mp4)|447||17-|united states|
+|Project Unloaded|1.00 USD|[426](https://www.snap.com/political-ads/asset/92730f30b5fb3715ebc2512fbe5045c5baaf908104121c1f7cd59e607037b7ce?mediaType=mp4)|301||17-|united states|
+|Project Unloaded|1.00 USD|[427](https://www.snap.com/political-ads/asset/92730f30b5fb3715ebc2512fbe5045c5baaf908104121c1f7cd59e607037b7ce?mediaType=mp4)|284||17-|united states|

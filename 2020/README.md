@@ -2,23 +2,23 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[truth](truth.md) - Assembly|1,707,011.00 USD|928,876,631||15-17, 18-24, 24-|united states|
-|[Biden for President](Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,745,963.00 USD|721,710,172||17-24, 17-27, 18+, 18-24, 18-34, 18-49|united states|
+|[Biden for President](Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,751,924.00 USD|722,271,015||17-24, 17-27, 18+, 18-24, 18-34, 18-49|united states|
 |[Albbiom Marketing LLC](Albbiom_Marketing_LLC.md) - Marud Khan: Donal Trump, Donald Trump, Donald Trunp, PRESIDENT TRUMP, President Trump|418,028.00 USD|435,191,562|FEMALE, MALE|18+, 20+, 21+, 22+|united states|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|1,037,149.00 USD|261,986,265||18-34, 24-38|united states|
 |[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18+, 18-40, 18-45|united states|
 |[California Secretary of State](California_Secretary_of_State.md) - Assembly: California Secretary of State|486,434.00 USD|164,066,878||18+|united states|
-|[ACRONYM](ACRONYM.md) - ACRONYM|933,835.00 USD|133,488,407|FEMALE|18+, 18-34, 18-35|united states|
+|[ACRONYM](ACRONYM.md) - ACRONYM|935,164.00 USD|133,729,086|FEMALE|18+, 18-34, 18-35|united states|
 |[Planned Parenthood](Planned_Parenthood.md) - R/GA|204,116.00 USD|129,357,823|FEMALE|17-, 18+, 18-24, 18-28, 18-34, 18-35, 35-|united states|
 |[Old Navy](Old_Navy.md) - PMG Worldwide  LLC|91,008.00 USD|127,832,019||18+|united states|
-|[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i: Fossil Fuels, REFUGEE ACTION, Renewable Energy, Support HEROES Act|482,425.00 AUD, GBP, USD|113,998,420||18+, 18-34, 18-35, 18-40|australia, united kingdom, united states|
+|[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i: Fossil Fuels, REFUGEE ACTION, Renewable Energy, Support HEROES Act|498,454.00 AUD, GBP, USD|117,573,289||18+, 18-34, 18-35, 18-40|australia, united kingdom, united states|
 |[Levi Strauss & Co.](Levi_Strauss_&_Co..md) - Universal McCann New York|726,998.00 USD|101,115,858||18-34, 18-35|united states|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|177,855.00 USD|71,662,477||18-24, 18-30, 18-39|united states|
-|[PACRONYM](PACRONYM.md) - Lockwood Strategy: Show Up To Vote|272,532.00 USD|71,474,874|FEMALE|18+, 18-39|united states|
+|[PACRONYM](PACRONYM.md) - Lockwood Strategy: Show Up To Vote|272,925.00 USD|71,617,001|FEMALE|18+, 18-39|united states|
 |[Snap Inc.](Snap_Inc..md) - Brand_Politics|149,317.00 USD|70,886,784||18-34|united states|
 |[Warnock for Georgia](Warnock_for_Georgia.md) - AL Media: Raphael Warnock, Reverend Raphael Warnock, Warnock for Georgia|305,680.00 USD|70,757,283||18+|united states|
 |[The Coca-Cola Company](The_Coca-Cola_Company.md) - Universal McCann New York|156,999.00 USD|67,783,465||18+, 18-24|united states|
 |[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC|200,352.00 USD|60,825,410||18+, 18-40|united states|
-|[Democratic National Committee](Democratic_National_Committee.md) - Hawkfish LLC: DNC, Democratic National Committee|168,600.00 USD|59,683,420||18+, 18-24, 18-25, 18-34, 25-34, 35+|united states|
+|[Democratic National Committee](Democratic_National_Committee.md) - Hawkfish LLC: DNC, Democratic National Committee|168,635.00 USD|59,685,857||18+, 18-24, 18-25, 18-34, 25-34, 35+|united states|
 |[Healthy Voting](Healthy_Voting.md) - Panowatch  LLC: Healthy Voting|201,490.00 USD|52,147,794||18+|united states|
 |[PA Department of Health](PA_Department_of_Health.md) - Red House Communications|84,688.00 USD|51,265,090||18+, 24-, 30-|united states|
 |[Amy McGrath for Senate](Amy_McGrath_for_Senate.md) - Do Big Things: Amy McGrath for Senate|324,944.00 USD|50,689,308|FEMALE, MALE|18+, 18-40, 26+|united states|
@@ -40,7 +40,7 @@
 |[PFEI](PFEI.md) - The New Media Firm: Progress Florida Education Institute|180,390.00 USD|24,961,357||18+|united states|
 |[National Australia Day Council](National_Australia_Day_Council.md) - Australian Government Department of Finance|59,802.00 AUD|24,789,002||18+|australia|
 |[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|20,677.00 USD|23,777,056|||united states|
-|[Progress North Carolina](Progress_North_Carolina.md) - Wavelength Strategy: Progress North Carolina|109,286.00 USD|22,633,407||18+|united states|
+|[Progress North Carolina](Progress_North_Carolina.md) - Wavelength Strategy: Progress North Carolina|109,917.00 USD|22,713,958||18+|united states|
 |[Rothmans, Benson & Hedges](Rothmans,_Benson_&_Hedges.md) - Data Sciences|46,912.00 CAD|22,266,281||19+|canada|
 |[NY State Board of Elections](NY_State_Board_of_Elections.md) - OpAD Media|93,320.00 USD|22,024,140||18-24|united states|
 |[innocent Deutschland GmbH](innocent_Deutschland_GmbH.md) - esome Advertising Technologies GmbH|33,854.00 EUR|21,799,751||18+|germany|
@@ -79,7 +79,7 @@
 |[Minnesota Secretary of State](Minnesota_Secretary_of_State.md) - Periscope  Inc.|44,088.00 USD|11,943,134||18+|united states|
 |[Unilever (Seventh Generation)](Unilever_(Seventh_Generation).md) - Unilever US - Mindshare|63,790.00 USD|11,841,083||18-44|united states|
 |[Ranked Choice Voting 2020 Comm.](Ranked_Choice_Voting_2020_Comm..md) - The New Media Firm: Yes On 2 MA Ranked Choice Voting 2020 Committee|118,503.00 USD|11,817,829||18+, 18-35|united states|
-|[NextGen Climate Action Committee](NextGen_Climate_Action_Committee.md) - Bully Pulpit Interactive: Al Gross, Joe Biden, Sara Gideon, Theresa Greenfield|137,535.00 USD|11,462,346||18-34, 18-35|united states|
+|[NextGen Climate Action Committee](NextGen_Climate_Action_Committee.md) - Bully Pulpit Interactive: Al Gross, Joe Biden, Sara Gideon, Theresa Greenfield|137,692.00 USD|11,470,562||18-34, 18-35|united states|
 |[DSCC](DSCC.md) - Wavelength Strategy|57,619.00 USD|11,290,895||18-40|united states|
 |[Leadership Conf Education Fund](Leadership_Conf_Education_Fund.md) - Panowatch  LLC: 2020 US Census|41,486.00 USD|11,129,300||18+|united states|
 |[People for People](People_for_People.md) - Vote Like a Woman: Vote Like a Woman|26,532.00 USD|10,983,006|FEMALE|18+|united states|
@@ -87,7 +87,7 @@
 |[LCCHR](LCCHR.md) - Bully Pulpit Interactive: Voting Rights Protections|39,955.00 USD|10,883,081||18+, 18-30, 18-34, 18-35|united states|
 |[USA Facts](USA_Facts.md) - Targeted Victory  LLC|37,608.00 USD|10,464,111||18-35|united states|
 |[Better US Now](Better_US_Now.md) - Better US Now: President Trump|13,579.00 USD|9,578,812|MALE|18+, 18-24, 19+, 20+, 21+, 35+|united states|
-|[Biden Victory Fund](Biden_Victory_Fund.md) - Biden Victory Fund: Biden Victory Fund|27,209.00 USD|9,298,859||18+, 20+, 23+, 25+|united states|
+|[Biden Victory Fund](Biden_Victory_Fund.md) - Biden Victory Fund: Biden Victory Fund|27,242.00 USD|9,312,666||18+, 20+, 23+, 25+|united states|
 |[A Better Wisconsin Together](A_Better_Wisconsin_Together.md) - The New Media Firm: A Better Wisconsin Together, A Better Wisconsin Together Political Fund|76,097.00 USD|8,992,034||18+|united states|
 |[DCCC](DCCC.md) - Democratic Congressional Campaign Committee: CA 48 House Race, CA-25 GOTV, Candace Valenzuela, Corrupto Carlos Gimenez, DCCC, El Sheriff Troy Nehls no respeta Texas, Mas Caro Menos Cobertura, Titere de Trump, Votemos por Smith|41,199.00 USD|8,864,639|FEMALE|18+, 18-29, 18-40, 18-49, 35+|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|46,093.00 CAD|8,840,894||18+, 20+, 21+|canada|
@@ -114,8 +114,8 @@
 |[38 Degrees](38_Degrees.md) - 38 Degrees|5,986.00 GBP|7,126,227||18+|united kingdom|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|16,089.00 USD|7,121,891||17-|united states|
 |[Millions of Michiganians](Millions_of_Michiganians.md) - The New Media Firm: IE Supporting Joe Biden for President, IE Supporting Senator Gary Peters, IE Supporting VP Joe Biden for President|42,448.00 USD|7,084,843||18+|united states|
+|[America First Action](America_First_Action.md) - America First Action: America First Action|79,009.00 USD|7,073,009||18+, 25+|united states|
 |[INVESTinED​](INVESTinED​.md) - Adtaxi: INVESTinED|85,048.00 USD|6,919,253|FEMALE|25+|united states|
-|[America First Action](America_First_Action.md) - America First Action: America First Action|74,541.00 USD|6,756,036||18+, 25+|united states|
 |[Sundhedsstyrelsen](Sundhedsstyrelsen.md) - Reprise Media|41,070.00 DKK, EUR|6,732,894|FEMALE, MALE|18-19, 20-24|denmark|
 |[iHeartMedia](iHeartMedia.md) - iHeartMedia Inc.: PSA of musicians encouraging users to vote|51,395.00 USD|6,677,243||18+|united states|
 |[Prager University](Prager_University.md) - Prager University|14,282.00 USD|6,638,610||16-30, 18-35|united states|
@@ -125,8 +125,8 @@
 |[AFL-CIO](AFL-CIO.md) - Middle Seat Consulting  LLC: NA|13,217.00 USD|6,400,366||30+, 30-|united states|
 |[Progress MI Pol Action Fund](Progress_MI_Pol_Action_Fund.md) - The New Media Firm: Macomb County MI County Prosecutor IE, Michigan Supreme Court, Progress Michigan Political Action Fund|40,387.00 USD|6,326,394||18+|united states|
 |[314 Action](314_Action.md) - Wavelength Strategy: 314 Action|69,300.00 USD|6,313,915|FEMALE|18+|united states|
+|[Rise, Inc.](Rise,_Inc..md) - Veracity Media|27,695.00 USD|6,123,969||17-18, 18+, 18-25, 18-30, 18-40|united states|
 |[BLACK VOTE PA](BLACK_VOTE_PA.md) - AL Media: Black Vote PA|19,124.00 USD|6,035,129||18+|united states|
-|[Rise, Inc.](Rise,_Inc..md) - Veracity Media|26,697.00 USD|6,005,190||17-18, 18+, 18-25, 18-30, 18-40|united states|
 |[Conservation Colorado](Conservation_Colorado.md) - Blueprint Interactive|15,337.00 USD|5,952,388|FEMALE, MALE|18+|united states|
 |[Thankyou](Thankyou.md) - AudienceX|8,623.00 USD|5,936,281||18-40|australia, brazil, canada, france, germany, indonesia, japan, netherlands, new zealand, nigeria, philippines, south africa, sweden, united arab emirates, united kingdom, united states|
 |[National Women's Law Center](National_Women's_Law_Center.md) - Chong and Koster|6,000.00 USD|5,902,786|FEMALE|15-34|united states|
@@ -140,21 +140,21 @@
 |[PACT Coalition](PACT_Coalition.md) - Nexstar Digital: PACT Coalition|5,790.00 USD|5,445,898||18+|united states|
 |[Care in Action](Care_in_Action.md) - Precision [TEST]: GA Runoff|10,837.00 USD|5,383,400|FEMALE|18+|united states|
 |[Move Health Care Forward NJ](Move_Health_Care_Forward_NJ.md) - mv digital group: Move Health Care Forward NJ|17,470.00 USD|5,339,740|||united states|
+|[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive: Rocky Mountain Values|16,062.00 USD|5,144,857|FEMALE|18+|united states|
 |[عايض نايف أبوخوصة العتيبي](عايض_نايف_أبوخوصة_العتيبي.md) - ayadalotaibi: Aayed Alotaibi, Aayed alotaibi Video|10,334.00 USD|5,124,763|FEMALE, MALE|17+, 18+|kuwait|
 |[Mohamed Al Mutair](Mohamed_Al_Mutair.md) - Mohammed Al Mutair: Mohamed Al Mutair|13,453.00 USD|5,112,549||21+|kuwait|
 |[MI Planned Parenthood Votes](MI_Planned_Parenthood_Votes.md) - The New Media Firm: Count Every Vote, Gary Peters, Joe Biden and Kamala Harris, John James, Michigan Congressional Candidates|41,383.00 USD|4,996,906|FEMALE|18+|united states|
 |[Elections Saskatchewan](Elections_Saskatchewan.md) - DSA Media|11,482.00 CAD|4,993,274||18+|canada|
-|[Rocky Mountain Values](Rocky_Mountain_Values.md) - Blueprint Interactive: Rocky Mountain Values|15,344.00 USD|4,838,345|FEMALE|18+|united states|
 |[SOS Barnebyer](SOS_Barnebyer.md) - Dentsu Norge AS – RED dentsu X|84,033.00 NOK|4,756,541||30+|norway|
 |[Spotify](Spotify.md) - WhoSay Inc.|15,890.00 USD|4,695,675||18-24|united states|
 |[Human-Etisk Forbund](Human-Etisk_Forbund.md) - Synlighet AS|10,144.00 USD|4,682,787||14-, 15-45, 18+, 18-25, 18-44, 18-45, 26-40, 26-45, 35+|norway|
 |[Helsedirektoratet](Helsedirektoratet.md) - Mindshare Norway AS|195,641.00 NOK|4,663,165||15-17, 18-20|norway|
+|[NRF](NRF.md) - Wavelength Strategy: National Redistricting Foundation|24,317.00 USD|4,615,142||18+|united states|
 |[Change.org PBC](Change.org_PBC.md) - Change.org PBC|6,210.00 USD|4,614,843||16+|united states|
 |[Refuge](Refuge.md) - Refuge|3,185.00 GBP|4,602,249||25+|united kingdom|
 |[Ministère du Conseil Exécutif](Ministère_du_Conseil_Exécutif.md) - Cossette Media Inc|11,177.00 CAD|4,568,049||18-34|canada|
 |[Foot Locker](Foot_Locker.md) - Omnicom Media Group Holdings Inc.|18,602.00 USD|4,523,268||18-38|united states|
 |[Latino Victory Project](Latino_Victory_Project.md) - Horizon Media: Vote Like A Madre|69,162.00 USD|4,519,466|FEMALE|18+, 18-49|united states|
-|[NRF](NRF.md) - Wavelength Strategy: National Redistricting Foundation|23,606.00 USD|4,508,884||18+|united states|
 |[Sara Gideon for Maine](Sara_Gideon_for_Maine.md) - Bully Pulpit Interactive: Sara Gideon|32,552.00 USD|4,452,664||18+|united states|
 |[WOMEN VOTE!](WOMEN_VOTE!.md) - Lockwood Strategy: Women Vote|38,140.00 USD|4,442,541|FEMALE|18+, 18-40|united states|
 |[CPC PAC](CPC_PAC.md) - Wavelength Strategy: Mondaire Jones|19,885.00 USD|4,416,601||18+, 18-34|united states|
@@ -182,8 +182,8 @@
 |[Donald J. Trump for President](Donald_J._Trump_for_President.md) - Donald J. Trump for President: Donald J Trump, Donald J Trump for President|60,760.00 USD|3,622,804||18+, 18-45|united states|
 |[HeadCount](HeadCount.md) - DKC Analytics|10,375.00 USD|3,613,755||18-24|united states|
 |[مبارك زيد العرو](مبارك_زيد_العرو.md) - optimize advertising & marketing company wll|6,345.00 USD|3,596,912||18+, 21+|kuwait|
+|[Global Citizen](Global_Citizen.md) - Global Citizen: Just Vote|14,655.00 USD|3,579,146||18-30, 18-35|united states|
 |[Progress Georgia](Progress_Georgia.md) - Winning Mark|29,552.00 USD|3,569,303||18+|united states|
-|[Global Citizen](Global_Citizen.md) - Global Citizen: Just Vote|14,607.00 USD|3,563,814||18-30, 18-35|united states|
 |[LO](LO.md) - Spooon Agency Norway|7,875.00 EUR|3,548,428||18-40, 20+|norway|
 |[Progress For North Carolina](Progress_For_North_Carolina.md) - BuzzFeed Inc.: Progress NC|7,997.00 USD|3,547,980||18+|united states|
 |[Women Vote!](Women_Vote!.md) - The New Media Firm: Women Vote|42,172.00 USD|3,490,085|FEMALE, MALE|18+|united states|
@@ -268,10 +268,10 @@
 |[UNICEF](UNICEF.md) - UNICEF|2,347.00 USD|1,703,028||25+|saudi arabia|
 |[Cancerfonden](Cancerfonden.md) - All Rise Media AB|3,745.00 EUR|1,693,674|FEMALE, MALE|25+, 30+, 35+|sweden|
 |[Muhannad Al Sayer](Muhannad_Al_Sayer.md) - Local Flavor Marketing & PR: Muhannad Al Sayer|2,337.00 USD|1,688,417||21+|kuwait|
+|[Wisconsin Conservation Voters](Wisconsin_Conservation_Voters.md) - Wavelength Strategy: Wisconsin Conservation Voters|11,357.00 USD|1,678,634||18+|united states|
 |[Sara Jacobs for Congress](Sara_Jacobs_for_Congress.md) - Blueprint Interactive: Sara Jacobs|10,689.00 USD|1,627,053||18+|united states|
 |[Hyresgästföreningen Stockholm](Hyresgästföreningen_Stockholm.md) - Trickle|1,992.00 EUR|1,609,338||20-30|sweden|
 |[Brady PAC](Brady_PAC.md) - Wavelength Strategy|6,954.00 USD|1,607,687||18-34|united states|
-|[Wisconsin Conservation Voters](Wisconsin_Conservation_Voters.md) - Wavelength Strategy: Wisconsin Conservation Voters|10,647.00 USD|1,601,836||18+|united states|
 |[Together For Future](Together_For_Future.md) - DCMN GmbH: Together For Future|5,740.00 EUR|1,598,869||30+|germany|
 |[MI PP Votes Super PAC](MI_PP_Votes_Super_PAC.md) - The New Media Firm: Bridget Mary McCormack and Elizabeth Welch, Michigan State Legislative Candidates|20,457.00 USD|1,586,332|FEMALE|18+|united states|
 |[DAGA People's Lawyer Project MT](DAGA_People's_Lawyer_Project_MT.md) - The New Media Firm: Austin Knudsen|23,538.00 USD|1,582,104||18+|united states|
@@ -279,6 +279,7 @@
 |[Detroit Action](Detroit_Action.md) - Milo Detroit: Detroit Action|5,306.00 USD|1,562,551||18+, 18-25, 18-35|united states|
 |[FLHSMV](FLHSMV.md) - Avanza Advertising  LLC: Spring Break|2,810.00 USD|1,537,138||16-39, 18-32|united states|
 |[Fellesforbundet](Fellesforbundet.md) - Idium 1881 AS|4,222.00 EUR|1,505,200||16-22, 18+|norway|
+|[Florida Democratic Party](Florida_Democratic_Party.md) - Florida Democratic Party: Florida Democratic Party|7,237.00 USD|1,457,582||18-25, 30+|united states|
 |[TxDOT](TxDOT.md) - Sherry Matthews|12,310.00 USD|1,439,010||18-49|united states|
 |[Defend American Democracy](Defend_American_Democracy.md) - Blueprint Interactive: Defend American Democracy|7,660.00 USD|1,431,333||18+|united states|
 |[Cameo](Cameo.md) - Cameo: Rock the Vote|1,843.00 USD|1,427,618|||united states|
@@ -290,7 +291,6 @@
 |[Ahmad Alhamad](Ahmad_Alhamad.md) - alhamad: Ahmad Alhamad|2,500.00 USD|1,355,558||20+|kuwait|
 |[Batil Alrajma](Batil_Alrajma.md) - Digital Media Services FZ-LLC: Batil Alrajma|2,072.00 USD|1,348,902||21+|kuwait|
 |[Tangelo LLC](Tangelo_LLC.md) - Tangeo LLC: Nonpartisan|2,352.00 USD|1,347,849||18-30, 24-|united states|
-|[Florida Democratic Party](Florida_Democratic_Party.md) - Florida Democratic Party: Florida Democratic Party|6,985.00 USD|1,343,249||18-25, 30+|united states|
 |[Venstre](Venstre.md) - Venstre|2,032.00 USD|1,341,637||17-24, 17-25, 18-24|norway|
 |[Indian American Impact Fund](Indian_American_Impact_Fund.md) - INDIAN AMERICAN IMPACT FUND: The IMPACT Fund|48,591.00 USD|1,341,440||18+|united states|
 |[WWF Suomi](WWF_Suomi.md) - Marketing Clinic|1,590.00 EUR|1,320,557||18-18|finland|
@@ -305,7 +305,7 @@
 |[Instituto Power](Instituto_Power.md) - Aqui Se Vota: GOTV, Get Out The Vote|4,306.00 USD|1,225,052|||united states|
 |[Spokane County Elections](Spokane_County_Elections.md) - Desautel Hege: Voter Registration and Education|2,498.00 USD|1,198,806|||united states|
 |[Wild Montana Action Fund](Wild_Montana_Action_Fund.md) - Wild Montana Action|6,078.00 USD|1,193,934||18-40|united states|
-|[SpunOut.ie](SpunOut.ie.md) - SpunOut.ie: SpunOut|647.00 EUR|1,174,527||18-25|ireland|
+|[SpunOut.ie](SpunOut.ie.md) - SpunOut.ie: SpunOut|647.00 EUR|1,175,355||18-25|ireland|
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Centro LLC|3,433.00 USD|1,171,334||18+|united states|
 |[Sock Fancy](Sock_Fancy.md) - Sock Fancy|2,040.00 USD|1,149,648|||united states|
 |[Working Families Party — IE](Working_Families_Party_—_IE.md) - Middle Seat Consulting  LLC: Working Families Party IE|2,371.00 USD|1,137,307||18-35|united states|
@@ -461,10 +461,10 @@
 |[Homes for All](Homes_for_All.md) - Homes for All: Kalamazoo County Housing Proposal|1,547.00 USD|329,875||18+, 18-35|united states|
 |[سلمان الحليلة العازمي](سلمان_الحليلة_العازمي.md) - لجولي الكويت|703.00 USD|327,598||18+, 20+, 21+|kuwait|
 |[paid for  by Ammar Al-Ajami](paid_for__by_Ammar_Al-Ajami.md) - شركه بيتا ادز: paid for by Ammar Alajami|654.00 USD|326,314||21+|kuwait|
+|[Accelerate Change Network](Accelerate_Change_Network.md) - Accelerate Change|777.00 USD|325,045||18+|united states|
 |[Bennett for Senate](Bennett_for_Senate.md) - Riveter Digital|1,759.00 USD|324,330||18+, 18-30|united states|
 |[Yousef Al Fadhalah](Yousef_Al_Fadhalah.md) - Senyar Group Agency: Yousef Al Fadhalah, Yousef AlFadhalah|955.00 USD|323,857||18+|kuwait|
 |[Fems for Democracy](Fems_for_Democracy.md) - The New Media Firm|1,688.00 USD|321,880|FEMALE|18+|united states|
-|[Accelerate Change Network](Accelerate_Change_Network.md) - Accelerate Change|757.00 USD|312,916||18+|united states|
 |[Mohammed aljabri](Mohammed_aljabri.md) - DMC|498.00 USD|311,262||20+|kuwait|
 |[Dr. Adel Ashkanani](Dr._Adel_Ashkanani.md) - Yaser Masoud Rateeb Jeed|303.00 USD|311,016|||kuwait|
 |[Prova Design, LLC](Prova_Design,_LLC.md) - Prova Design LLC|598.00 USD|308,790|||united states|
@@ -478,13 +478,14 @@
 |[Friends of Dave Koehler](Friends_of_Dave_Koehler.md) - Riveter Digital: Dave Koehler for IL State Senate, Dave Koehler for Senate|1,796.00 USD|296,521||18+|united states|
 |[GA Budget & Policy Institute](GA_Budget_&_Policy_Institute.md) - Blueprint Interactive: Georgia Budget and Policy Institute|1,621.00 USD|293,704|FEMALE|18+|united states|
 |[khalid AlShatti](khalid_AlShatti.md) - Senyar Group Agency: khalid AlShatti|354.00 USD|292,728||18+|kuwait|
+|[The California Endowment](The_California_Endowment.md) - RLA Collective  A Ruder Finn Company|2,000.00 USD|291,028||18+|united states|
 |[Duwaim AlMuwaizri](Duwaim_AlMuwaizri.md) - optimize advertising & marketing company wll: Duwaim AlMuwaizri|349.00 USD|289,494||20+|kuwait|
+|[Fehaid Party](Fehaid_Party.md) - Fehaid Party: Fehaid Aldeehani, Fehaid Party|444.00 USD|289,267||20+, 21+|kuwait|
 |[عسكر عويد العنزي](عسكر_عويد_العنزي.md) - MEDIA LAND-KW|464.00 USD|287,347||20+, 21+|kuwait|
 |[Terre des Femmes](Terre_des_Femmes.md) - loved digital GmbH|1,429.00 EUR|285,094||18+|germany|
 |[Cameron County Votes](Cameron_County_Votes.md) - digital AIM: Cameron County Votes|1,175.00 USD|280,418||18+|united states|
 |[Donald Trump for President, Inc](Donald_Trump_for_President,_Inc.md) - Realtime Media: Donald J Trump for President|921.00 USD|279,132||18+|united states|
 |[Dept Child Safety, Youth & Women](Dept_Child_Safety,_Youth_&_Women.md) - Department of Child Safety  Youth and Women: CBComp 2020 YouthU16 Snapchat|299.00 AUD|278,931||16-16|australia|
-|[Fehaid Party](Fehaid_Party.md) - Fehaid Party: Fehaid Aldeehani, Fehaid Party|428.00 USD|278,397||20+, 21+|kuwait|
 |[ahmed alenezi](ahmed_alenezi.md) - Omma 2020: Ahmad Alenezi, Ahmad alenezi|532.00 USD|277,250||21+, 21-45|kuwait|
 |[Democracy Wants You](Democracy_Wants_You.md) - democracy wants you: Election 2020|677.00 USD|275,319||17-25, 18+, 18-24, 18-30, 18-34, 18-40|united states|
 |[NILC Immigrant Justice Fund](NILC_Immigrant_Justice_Fund.md) - Blueprint Interactive|416.00 USD|273,757||16-30, 27+|united states|
@@ -534,13 +535,13 @@
 |[National Wildlife Federation](National_Wildlife_Federation.md) - National Wildlife Federation|352.00 USD|180,821|FEMALE|18+, 25-45|united states|
 |[Groundwork](Groundwork.md) - Groundwork: Groundwork Greater Manchester|123.00 GBP|180,665||18-18|united kingdom|
 |[Veganerpartiet](Veganerpartiet.md) - Veganerpartiet: GIV OS EN UNDERSKRIFT, Veganerpartiet|333.00 EUR|180,460|FEMALE|18+, 18-25|denmark|
+|[Māori Party](Māori_Party.md) - Acquire Online: Maori Party|1,151.00 AUD|176,992|FEMALE|16-30, 18-34|new zealand|
 |[dr a alduwailah](dr_a_alduwailah.md) - nahi|200.00 USD|176,724|||kuwait|
 |[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - kuwaitasd|239.00 USD|176,405||21+|kuwait|
 |[ALEK FOR OREGON](ALEK_FOR_OREGON.md) - Campaign Solutions: Alek Skarlatos|1,513.00 USD|175,958||18+|united states|
 |[Spiros Mantzavinos for the 7th](Spiros_Mantzavinos_for_the_7th.md) - The New Media Firm: Spiros Mantzavinos for State Senate|2,311.00 USD|175,822||18+|united states|
 |[Elad Gross for Missouri](Elad_Gross_for_Missouri.md) - Elad Gross for Missouri: Elad Gross|388.00 USD|175,088||18+, 18-39, 18-40|united states|
 |[Kim Mangone for Congress](Kim_Mangone_for_Congress.md) - Blueprint Interactive: Kim Mangone|850.00 USD|174,134||18+|united states|
-|[Māori Party](Māori_Party.md) - Acquire Online: Maori Party|1,105.00 AUD|173,394|FEMALE|16-30, 18-34|new zealand|
 |[Betty Guardado for City Council](Betty_Guardado_for_City_Council.md) - Strategies 360: Betty Guardado|700.00 USD|173,183|FEMALE|18-35|united states|
 |[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|1,057.00 USD|172,506||18+|united states|
 |[Central City Association](Central_City_Association.md) - Strategies 360: Voter Registration|686.00 USD|171,467||18-30|united states|
@@ -619,6 +620,7 @@
 |[SPD Kreisverband Ebersberg](SPD_Kreisverband_Ebersberg.md) - Omid Atai - Ihr Landrat für Ebersberg: Omid Atai, Omid in forest, Omid with dog|215.00 EUR|80,744||18+|germany|
 |[Danny Ellyson For Congress](Danny_Ellyson_For_Congress.md) - Ellyson For Congress: Danny Ellyson, Danny Ellyson For United States Congress|134.00 USD|79,203||18+|united states|
 |[Emmanuel Zamora](Emmanuel_Zamora.md) - Emmanuel Zamora: Emmanuel Zamora|168.00 USD|77,355||18+|united states|
+|[Paid for By CaffeBrev](Paid_for_By_CaffeBrev.md) - CaffeBrev: Black Lives Matter|107.00 USD|77,176|||united states|
 |[The CTE David Dudenhoefer](The_CTE_David_Dudenhoefer.md) - The Committee to Elect David Dudenhoefer: David Dudenhoefer for Congress|250.00 USD|76,645||18+|united states|
 |[AHA Foundation](AHA_Foundation.md) - Model B|512.00 USD|76,543||21+|united states|
 |[Verla Insko for State House](Verla_Insko_for_State_House.md) - BCom Solutions|274.00 USD|71,407||25+|united states|
@@ -681,6 +683,7 @@
 |[The Natalie Broussard  Campaign](The_Natalie_Broussard__Campaign.md) - Townsquare Ignite: Natalie Broussard|126.00 USD|40,189||18+|united states|
 |[Danny for WV](Danny_for_WV.md) - The Committee to Elect Danny Hamrick: Danny Hamrick|150.00 USD|39,320||18+|united states|
 |[Sunrise Movement](Sunrise_Movement.md) - Aisle 518: Sunrise Movement|143.00 USD|38,945||18-34|united states|
+|[Chance Trahan](Chance_Trahan.md) - Chance for President: Chance Trahan|150.00 USD|38,536|FEMALE|18+|united states|
 |[Valerie Plame for Congress](Valerie_Plame_for_Congress.md) - Run the World Digital: Valerie Plame for Congress|127.00 USD|37,673||30+|united states|
 |[Liz Stefanics for NM SD39](Liz_Stefanics_for_NM_SD39.md) - Run the World Digital: Liz Stefanics for NM SD39|236.00 USD|37,134||18+|united states|
 |[Socialdemokraterna i Helsingborg](Socialdemokraterna_i_Helsingborg.md) - Jakobsson Addemotion AB: Folkomrostning Helsingborg|180.00 EUR|36,901||18-35|sweden|
@@ -704,10 +707,10 @@
 |[Jase & Guymara 2020](Jase_&_Guymara_2020.md) - Jase and Guymara 2020: USG President|160.00 USD|25,818|||united states|
 |[City of Ottawa](City_of_Ottawa.md) - City of Ottawa|73.00 CAD|24,702||18+|canada|
 |[Melanie for New Mexico HD28](Melanie_for_New_Mexico_HD28.md) - Run the World Digital: Melanie Stansbury for NM HD28|153.00 USD|23,979||18+|united states|
+|[Finder Coins](Finder_Coins.md) - Media Sting: Joe Biden|91.00 USD|23,959||20+|united states|
 |[Sami Al Dabbous](Sami_Al_Dabbous.md) - Sami Al Dabbous|25.00 USD|23,488|||kuwait|
 |[Jene for Arkansas](Jene_for_Arkansas.md) - Jene for Arkansas: Jene Huffman Gilreath|189.00 USD|22,655||18+|united states|
 |[gali clothing](gali_clothing.md) - Gali Clothing|19.00 USD|22,409|FEMALE|35-|united states|
-|[Finder Coins](Finder_Coins.md) - Media Sting: Joe Biden|82.00 USD|22,362||20+|united states|
 |[Abigail Wheeler for the 66th](Abigail_Wheeler_for_the_66th.md) - Wheeler for the 66th: Abigail Wheeler|90.00 USD|22,019||18+|united states|
 |[Spotlight Media](Spotlight_Media.md) - Spotlight Media  LLC: Trump|32.00 USD|21,948|MALE|25+|united states|
 |[City of Henderson](City_of_Henderson.md) - City of Henderson|99.00 USD|21,460||17-20|united states|

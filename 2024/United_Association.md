@@ -1,7 +1,7 @@
 ## 2024 - United Association 
-**Spent**: 9,938.00
+**Spent**: 9,950.00
 
-**Impressions**: 1,292,838
+**Impressions**: 1,294,984
 
 **Billing Addresses**: US
 
@@ -79,27 +79,28 @@
 |Powers Interactive Digital: Kamala Harris for President|13.00 USD|[69](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|2,279||18+|united states|
 |Powers Interactive Digital: Kamala Harris for President|13.00 USD|[70](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|2,251||18+|united states|
 |Powers Interactive Digital: Kamala Harris for President|13.00 USD|[71](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|2,227||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|20.00 USD|[72](https://www.snap.com/political-ads/asset/f8edc721414892e30fb71ec5653f79c1d44512f652f159236b4450f3ddea22bb?mediaType=mp4)|2,007||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|19.00 USD|[73](https://www.snap.com/political-ads/asset/3450a9f1a5e2319cde1116fe8e04a316772caedfcb3277cc9e18c9ab722a0996?mediaType=mp4)|1,942||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|18.00 USD|[74](https://www.snap.com/political-ads/asset/4280b49e09e15d20f565b9d37686b80aba5805b14ecfbcb0ebbaaa82714de596?mediaType=mp4)|1,890||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|19.00 USD|[75](https://www.snap.com/political-ads/asset/6c1b11d91bb1239d484ee3e323e3abb65b4f6fa45c283f4a77776ac6a0228e40?mediaType=mp4)|1,875||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|18.00 USD|[76](https://www.snap.com/political-ads/asset/761e948d1d3fc5f2fb57449f31613963e1149104407760d7ae3dd91a9adf714e?mediaType=mp4)|1,873||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|18.00 USD|[77](https://www.snap.com/political-ads/asset/73fa5cd0ac58e0979b29d1f4804acc35f67883c9176f3fdd04be218abd6e8b93?mediaType=mp4)|1,858||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[78](https://www.snap.com/political-ads/asset/df5849832455aaa6b0b2a27cd84a3e10eaef682cfdad89d8fea2a3f9208e1982?mediaType=mp4)|1,783||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[79](https://www.snap.com/political-ads/asset/b5958d0db90d8bced0d42763e48fbbc6293cc8ec5e7a5977e5094d070ee9dc84?mediaType=mp4)|1,755||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[80](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|1,709||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[81](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|1,701||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[82](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|1,663||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[83](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|1,566||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[84](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|1,338||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[85](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|1,323||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[86](https://www.snap.com/political-ads/asset/df5849832455aaa6b0b2a27cd84a3e10eaef682cfdad89d8fea2a3f9208e1982?mediaType=mp4)|1,300||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[87](https://www.snap.com/political-ads/asset/b5958d0db90d8bced0d42763e48fbbc6293cc8ec5e7a5977e5094d070ee9dc84?mediaType=mp4)|1,297||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[88](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|1,271||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[89](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|1,234||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[90](https://www.snap.com/political-ads/asset/df5849832455aaa6b0b2a27cd84a3e10eaef682cfdad89d8fea2a3f9208e1982?mediaType=mp4)|417||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[91](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|403||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[92](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|402||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[93](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|396||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[94](https://www.snap.com/political-ads/asset/b5958d0db90d8bced0d42763e48fbbc6293cc8ec5e7a5977e5094d070ee9dc84?mediaType=mp4)|383||18+|united states|
-|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[95](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|376||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|12.00 USD|[72](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|2,146||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|20.00 USD|[73](https://www.snap.com/political-ads/asset/f8edc721414892e30fb71ec5653f79c1d44512f652f159236b4450f3ddea22bb?mediaType=mp4)|2,007||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|19.00 USD|[74](https://www.snap.com/political-ads/asset/3450a9f1a5e2319cde1116fe8e04a316772caedfcb3277cc9e18c9ab722a0996?mediaType=mp4)|1,942||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|18.00 USD|[75](https://www.snap.com/political-ads/asset/4280b49e09e15d20f565b9d37686b80aba5805b14ecfbcb0ebbaaa82714de596?mediaType=mp4)|1,890||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|19.00 USD|[76](https://www.snap.com/political-ads/asset/6c1b11d91bb1239d484ee3e323e3abb65b4f6fa45c283f4a77776ac6a0228e40?mediaType=mp4)|1,875||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|18.00 USD|[77](https://www.snap.com/political-ads/asset/761e948d1d3fc5f2fb57449f31613963e1149104407760d7ae3dd91a9adf714e?mediaType=mp4)|1,873||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|18.00 USD|[78](https://www.snap.com/political-ads/asset/73fa5cd0ac58e0979b29d1f4804acc35f67883c9176f3fdd04be218abd6e8b93?mediaType=mp4)|1,858||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[79](https://www.snap.com/political-ads/asset/df5849832455aaa6b0b2a27cd84a3e10eaef682cfdad89d8fea2a3f9208e1982?mediaType=mp4)|1,783||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[80](https://www.snap.com/political-ads/asset/b5958d0db90d8bced0d42763e48fbbc6293cc8ec5e7a5977e5094d070ee9dc84?mediaType=mp4)|1,755||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[81](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|1,709||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[82](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|1,701||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|10.00 USD|[83](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|1,663||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[84](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|1,566||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[85](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|1,338||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[86](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|1,323||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[87](https://www.snap.com/political-ads/asset/df5849832455aaa6b0b2a27cd84a3e10eaef682cfdad89d8fea2a3f9208e1982?mediaType=mp4)|1,300||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[88](https://www.snap.com/political-ads/asset/b5958d0db90d8bced0d42763e48fbbc6293cc8ec5e7a5977e5094d070ee9dc84?mediaType=mp4)|1,297||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[89](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|1,271||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|9.00 USD|[90](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|1,234||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[91](https://www.snap.com/political-ads/asset/df5849832455aaa6b0b2a27cd84a3e10eaef682cfdad89d8fea2a3f9208e1982?mediaType=mp4)|417||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[92](https://www.snap.com/political-ads/asset/db905f25d70418407e42865c8f2958313f2f51b0eca50ede4ee4a60fce311127?mediaType=mp4)|403||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[93](https://www.snap.com/political-ads/asset/eaf9ff5786f36ab0cdf1efb00dc7cf60f8b08626fe2738de31f5f8d6cc897279?mediaType=mp4)|402||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[94](https://www.snap.com/political-ads/asset/e0bb802908bad1bb6c14c49fa4d3e055417eaabb3814fee6a047ddb3fb8b2a41?mediaType=mp4)|396||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[95](https://www.snap.com/political-ads/asset/b5958d0db90d8bced0d42763e48fbbc6293cc8ec5e7a5977e5094d070ee9dc84?mediaType=mp4)|383||18+|united states|
+|Powers Interactive Digital: Kamala Harris for President|2.00 USD|[96](https://www.snap.com/political-ads/asset/cc0db09e564e36056ceaa293e041875fb8192856e2789becd64a1fdac8738784?mediaType=mp4)|376||18+|united states|

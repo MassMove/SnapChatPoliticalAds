@@ -1,7 +1,7 @@
 ## 2021 - & Authorized by Wyden for Senate 
 **Spent**: 310.00
 
-**Impressions**: 71,887
+**Impressions**: 71,894
 
 **Billing Addresses**: US
 
@@ -69,8 +69,9 @@
 |Mandate Media: Senator Ron Wyden|0.00 USD|[59](https://www.snap.com/political-ads/asset/1a46a22931127b069b30f45ef17acf2c99235f65184ee88362cbd8c4f11cb8fe?mediaType=png)|10||18+|united states|
 |Mandate Media: Senator Ron Wyden|0.00 USD|[60](https://www.snap.com/political-ads/asset/1a46a22931127b069b30f45ef17acf2c99235f65184ee88362cbd8c4f11cb8fe?mediaType=png)|9||18+|united states|
 |Mandate Media: Senator Ron Wyden|0.00 USD|[61](https://www.snap.com/political-ads/asset/7ec1d8031f846c461486af8aea00b6b7d0aeb87030df8c69cee5ff09303d7be1?mediaType=png)|8||18+|united states|
-|Mandate Media: Senator Ron Wyden|0.00 USD|[62](https://www.snap.com/political-ads/asset/1a46a22931127b069b30f45ef17acf2c99235f65184ee88362cbd8c4f11cb8fe?mediaType=png)|3||18+|united states|
-|Mandate Media: Senator Ron Wyden|0.00 USD|[63](https://www.snap.com/political-ads/asset/683ace1ead927f33bb019bb9b823ff8505ece0cbf8470ef0851919da56ae6d18?mediaType=png)|3||18+|united states|
-|Mandate Media: Senator Ron Wyden|0.00 USD|[64](https://www.snap.com/political-ads/asset/7ec1d8031f846c461486af8aea00b6b7d0aeb87030df8c69cee5ff09303d7be1?mediaType=png)|2||18+|united states|
-|Mandate Media: Senator Ron Wyden|0.00 USD|[65](https://www.snap.com/political-ads/asset/683ace1ead927f33bb019bb9b823ff8505ece0cbf8470ef0851919da56ae6d18?mediaType=png)|1||18+|united states|
+|Mandate Media: Senator Ron Wyden|0.00 USD|[62](https://www.snap.com/political-ads/asset/1a46a22931127b069b30f45ef17acf2c99235f65184ee88362cbd8c4f11cb8fe?mediaType=png)|7||18+|united states|
+|Mandate Media: Senator Ron Wyden|0.00 USD|[63](https://www.snap.com/political-ads/asset/1a46a22931127b069b30f45ef17acf2c99235f65184ee88362cbd8c4f11cb8fe?mediaType=png)|3||18+|united states|
+|Mandate Media: Senator Ron Wyden|0.00 USD|[64](https://www.snap.com/political-ads/asset/683ace1ead927f33bb019bb9b823ff8505ece0cbf8470ef0851919da56ae6d18?mediaType=png)|3||18+|united states|
+|Mandate Media: Senator Ron Wyden|0.00 USD|[65](https://www.snap.com/political-ads/asset/7ec1d8031f846c461486af8aea00b6b7d0aeb87030df8c69cee5ff09303d7be1?mediaType=png)|2||18+|united states|
 |Mandate Media: Senator Ron Wyden|0.00 USD|[66](https://www.snap.com/political-ads/asset/683ace1ead927f33bb019bb9b823ff8505ece0cbf8470ef0851919da56ae6d18?mediaType=png)|1||18+|united states|
+|Mandate Media: Senator Ron Wyden|0.00 USD|[67](https://www.snap.com/political-ads/asset/683ace1ead927f33bb019bb9b823ff8505ece0cbf8470ef0851919da56ae6d18?mediaType=png)|1||18+|united states|

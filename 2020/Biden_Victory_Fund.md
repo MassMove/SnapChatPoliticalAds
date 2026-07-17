@@ -1,7 +1,7 @@
 ## 2020 - Biden Victory Fund 
-**Spent**: 27,209.00
+**Spent**: 27,242.00
 
-**Impressions**: 9,298,859
+**Impressions**: 9,312,666
 
 **Billing Addresses**: 430 South Capitol Street SE,Washington,20003,US
 
@@ -54,21 +54,22 @@
 |Biden Victory Fund: Biden Victory Fund|44.00 USD|[44](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|16,442||23+|united states|
 |Biden Victory Fund: Biden Victory Fund|33.00 USD|[45](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|15,670||20+|united states|
 |Biden Victory Fund: Biden Victory Fund|29.00 USD|[46](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|13,972||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|95.00 USD|[47](https://www.snap.com/political-ads/asset/7cfae03afa8768c2e6264eb24d8a4a3bbaef0ea4ae873180fce2b374aa5b99d7?mediaType=png)|13,290||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|25.00 USD|[48](https://www.snap.com/political-ads/asset/a1d943f9c6d31cde16ad759952b1f1cbda77e1bed37c10775d7a23d61c3e5949?mediaType=png)|12,699||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|19.00 USD|[49](https://www.snap.com/political-ads/asset/cc3e1587ecaffd19c59452a584100d831f7e13bb3f6e134cfc2ef09bd44cb594?mediaType=png)|10,044||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|20.00 USD|[50](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|8,326||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|53.00 USD|[51](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|7,608||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|16.00 USD|[52](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|6,429||25+|united states|
-|Biden Victory Fund: Biden Victory Fund|8.00 USD|[53](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|6,395||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|58.00 USD|[54](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|6,386||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|12.00 USD|[55](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|6,295||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|12.00 USD|[56](https://www.snap.com/political-ads/asset/d95e1d5dde98baa3f626d103ccd83d41a7a952434d83823c3875fc55f99d2b14?mediaType=png)|6,269||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|13.00 USD|[57](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|5,782||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|9.00 USD|[58](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|5,144||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|7.00 USD|[59](https://www.snap.com/political-ads/asset/a1d943f9c6d31cde16ad759952b1f1cbda77e1bed37c10775d7a23d61c3e5949?mediaType=png)|4,722||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|6.00 USD|[60](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|2,651||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|16.00 USD|[61](https://www.snap.com/political-ads/asset/a1d943f9c6d31cde16ad759952b1f1cbda77e1bed37c10775d7a23d61c3e5949?mediaType=png)|2,553||18+|united states|
-|Biden Victory Fund: Biden Victory Fund|6.00 USD|[62](https://www.snap.com/political-ads/asset/cc3e1587ecaffd19c59452a584100d831f7e13bb3f6e134cfc2ef09bd44cb594?mediaType=png)|988||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|2.00 USD|[63](https://www.snap.com/political-ads/asset/d95e1d5dde98baa3f626d103ccd83d41a7a952434d83823c3875fc55f99d2b14?mediaType=png)|356||20+|united states|
-|Biden Victory Fund: Biden Victory Fund|2.00 USD|[64](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|324||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|33.00 USD|[47](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|13,807||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|95.00 USD|[48](https://www.snap.com/political-ads/asset/7cfae03afa8768c2e6264eb24d8a4a3bbaef0ea4ae873180fce2b374aa5b99d7?mediaType=png)|13,290||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|25.00 USD|[49](https://www.snap.com/political-ads/asset/a1d943f9c6d31cde16ad759952b1f1cbda77e1bed37c10775d7a23d61c3e5949?mediaType=png)|12,699||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|19.00 USD|[50](https://www.snap.com/political-ads/asset/cc3e1587ecaffd19c59452a584100d831f7e13bb3f6e134cfc2ef09bd44cb594?mediaType=png)|10,044||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|20.00 USD|[51](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|8,326||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|53.00 USD|[52](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|7,608||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|16.00 USD|[53](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|6,429||25+|united states|
+|Biden Victory Fund: Biden Victory Fund|8.00 USD|[54](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|6,395||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|58.00 USD|[55](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|6,386||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|12.00 USD|[56](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|6,295||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|12.00 USD|[57](https://www.snap.com/political-ads/asset/d95e1d5dde98baa3f626d103ccd83d41a7a952434d83823c3875fc55f99d2b14?mediaType=png)|6,269||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|13.00 USD|[58](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|5,782||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|9.00 USD|[59](https://www.snap.com/political-ads/asset/1ba7fbab3f244ea4db0e52855969fd50ee2ba30c04b261d22fd6dca4cc79ec45?mediaType=png)|5,144||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|7.00 USD|[60](https://www.snap.com/political-ads/asset/a1d943f9c6d31cde16ad759952b1f1cbda77e1bed37c10775d7a23d61c3e5949?mediaType=png)|4,722||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|6.00 USD|[61](https://www.snap.com/political-ads/asset/c56cefb4168ead65739c59f2da6bb93679557056dc3be4a15469e65e7cff23a4?mediaType=png)|2,651||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|16.00 USD|[62](https://www.snap.com/political-ads/asset/a1d943f9c6d31cde16ad759952b1f1cbda77e1bed37c10775d7a23d61c3e5949?mediaType=png)|2,553||18+|united states|
+|Biden Victory Fund: Biden Victory Fund|6.00 USD|[63](https://www.snap.com/political-ads/asset/cc3e1587ecaffd19c59452a584100d831f7e13bb3f6e134cfc2ef09bd44cb594?mediaType=png)|988||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|2.00 USD|[64](https://www.snap.com/political-ads/asset/d95e1d5dde98baa3f626d103ccd83d41a7a952434d83823c3875fc55f99d2b14?mediaType=png)|356||20+|united states|
+|Biden Victory Fund: Biden Victory Fund|2.00 USD|[65](https://www.snap.com/political-ads/asset/e233142946dae64c4526548af790ac2e27ebb9a83f49db0bdd1d74682ee33965?mediaType=png)|324||20+|united states|

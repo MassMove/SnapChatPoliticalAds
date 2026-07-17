@@ -1,7 +1,7 @@
 ## 2026 - baladalkhair 
-**Spent**: 12,564.00
+**Spent**: 12,569.00
 
-**Impressions**: 2,207,890
+**Impressions**: 2,208,955
 
 **Billing Addresses**: محافظة العاصمة/الخالدية - ق2 - ش20 - منزل 18 مقابل جمعية الخالدية,Hawalli,30000,KW
 
@@ -40,10 +40,11 @@
 |baladelkhair|8.00 USD|[30](https://www.snap.com/political-ads/asset/070bf21a8107edd6bdb365f79c57c43405a4f50577212d8a163955e02caed89c?mediaType=png)|1,797||25+|kuwait|
 |baladelkhair|11.00 USD|[31](https://www.snap.com/political-ads/asset/a0aa149348811f9770f88d6794c2aed690de6fe71f5b5f237b880214144b4160?mediaType=png)|1,161||25+|kuwait|
 |baladelkhair|5.00 USD|[32](https://www.snap.com/political-ads/asset/9a7585199049a3e5fcbc26bf2a1e306e9e08419a8a15eef364cd5c971bf7c55e?mediaType=mp4)|1,108||25+|kuwait|
-|baladelkhair|9.00 USD|[33](https://www.snap.com/political-ads/asset/01490ef5c0280c81e15a836f79cc469a2d1a196a3be8485caf5b95568d0be877?mediaType=png)|939||25+|kuwait|
-|baladelkhair|9.00 USD|[34](https://www.snap.com/political-ads/asset/fb47d3da0b3b0c62ddd297aac89bb768449abbb19187157dfb185d5ca503304d?mediaType=mp4)|901||25+|kuwait|
-|baladelkhair|2.00 USD|[35](https://www.snap.com/political-ads/asset/e54f9c2a6efcd723b927bd573c5f3db511b0601b1944cc39baaa79b3ba82aba9?mediaType=png)|597||25+|kuwait|
-|baladelkhair|5.00 USD|[36](https://www.snap.com/political-ads/asset/abcfb6aa01adf6528f1d02f7eeb14115fafc33bcc283f1881e61b4a77e4c6522?mediaType=png)|473||25+|kuwait|
-|baladelkhair|1.00 USD|[37](https://www.snap.com/political-ads/asset/7e7b960e5c14581ce1a35ce08ed4c61bbdbbde92a77dab6d8fd2f0f5f05c52a5?mediaType=png)|399||25+|kuwait|
-|baladelkhair|2.00 USD|[38](https://www.snap.com/political-ads/asset/069376e67cd2467d3e11c3f254a13843af3f67786cf12c455f3218205ce52aa3?mediaType=png)|214||25+|kuwait|
-|baladelkhair|1.00 USD|[39](https://www.snap.com/political-ads/asset/9862d5c5ab7baa07710c5e609f6c4478069435878a36ae90b21b66d89ca54ee7?mediaType=mp4)|194||25+|kuwait|
+|baladelkhair|5.00 USD|[33](https://www.snap.com/political-ads/asset/8cda46eda71d7d59884b9aa456273a4114b3d319762ffb387d712c016a1482ab?mediaType=png)|1,065||25+|kuwait|
+|baladelkhair|9.00 USD|[34](https://www.snap.com/political-ads/asset/01490ef5c0280c81e15a836f79cc469a2d1a196a3be8485caf5b95568d0be877?mediaType=png)|939||25+|kuwait|
+|baladelkhair|9.00 USD|[35](https://www.snap.com/political-ads/asset/fb47d3da0b3b0c62ddd297aac89bb768449abbb19187157dfb185d5ca503304d?mediaType=mp4)|901||25+|kuwait|
+|baladelkhair|2.00 USD|[36](https://www.snap.com/political-ads/asset/e54f9c2a6efcd723b927bd573c5f3db511b0601b1944cc39baaa79b3ba82aba9?mediaType=png)|597||25+|kuwait|
+|baladelkhair|5.00 USD|[37](https://www.snap.com/political-ads/asset/abcfb6aa01adf6528f1d02f7eeb14115fafc33bcc283f1881e61b4a77e4c6522?mediaType=png)|473||25+|kuwait|
+|baladelkhair|1.00 USD|[38](https://www.snap.com/political-ads/asset/7e7b960e5c14581ce1a35ce08ed4c61bbdbbde92a77dab6d8fd2f0f5f05c52a5?mediaType=png)|399||25+|kuwait|
+|baladelkhair|2.00 USD|[39](https://www.snap.com/political-ads/asset/069376e67cd2467d3e11c3f254a13843af3f67786cf12c455f3218205ce52aa3?mediaType=png)|214||25+|kuwait|
+|baladelkhair|1.00 USD|[40](https://www.snap.com/political-ads/asset/9862d5c5ab7baa07710c5e609f6c4478069435878a36ae90b21b66d89ca54ee7?mediaType=mp4)|194||25+|kuwait|
