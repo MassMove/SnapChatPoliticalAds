@@ -1,12 +1,12 @@
 ## 2026 - Electoral Commission NZ 
-**Spent**: 10,363.00
+**Spent**: 10,676.00
 
-**Impressions**: 8,996,662
+**Impressions**: 9,234,419
 
 **Billing Addresses**: Level 2, 36 Lorne Street,Auckland CBD,1010,NZ
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |VMLY&R|3,998.00 NZD|[0](https://www.snap.com/political-ads/asset/1a6f20451169e51e4563e4be1701fff06c77a922401c9f4591b003f09996f9c5?mediaType=mp4)|4,056,952||18+|new zealand|
-|VMLY&R|3,524.00 NZD|[1](https://www.snap.com/political-ads/asset/2408654091fb07f9dedc242b3b619b245f413bec7ad5a5a7c1f92df03ad46185?mediaType=mp4)|2,662,933||18+|new zealand|
-|VMLY&R|2,841.00 NZD|[2](https://www.snap.com/political-ads/asset/d14ce66bbb1fbe39ea66cb4760fc80b690327144ef11d3514053b7ac3140e890?mediaType=mp4)|2,276,777||18+|new zealand|
+|VMLY&R|3,822.00 NZD|[1](https://www.snap.com/political-ads/asset/2408654091fb07f9dedc242b3b619b245f413bec7ad5a5a7c1f92df03ad46185?mediaType=mp4)|2,888,241||18+|new zealand|
+|VMLY&R|2,856.00 NZD|[2](https://www.snap.com/political-ads/asset/d14ce66bbb1fbe39ea66cb4760fc80b690327144ef11d3514053b7ac3140e890?mediaType=mp4)|2,289,226||18+|new zealand|
