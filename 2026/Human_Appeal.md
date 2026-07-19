@@ -1,7 +1,7 @@
 ## 2026 - Human Appeal 
-**Spent**: 209,217.00
+**Spent**: 209,244.00
 
-**Impressions**: 29,538,649
+**Impressions**: 29,545,809
 
 **Billing Addresses**: Pennine House Carrs Road,Cheadle,SK8 2BL,GB
 
@@ -13,7 +13,7 @@
 |Human Appeal|3,987.00 GBP|[3](https://www.snap.com/political-ads/asset/afa8576e1e6ce9486302392ef456301bd6328e45bd575861c76d824d875216b5?mediaType=mp4)|1,670,776||18+||
 |Human Appeal|5,002.00 GBP|[4](https://www.snap.com/political-ads/asset/c6d90a1de84a8689ac09d80879b4e052bc268f107ac29523e89fbad137c2ad8f?mediaType=jpeg)|1,343,810||18+|united kingdom|
 |Human Appeal|7,442.00 GBP|[5](https://www.snap.com/political-ads/asset/8e6fce9dfe337402d9bebdf7354000e1f41e17f5b6b04938ea7fa9cef4d308b4?mediaType=mp4)|915,901||18+|united kingdom|
-|Human Appeal|3,933.00 GBP|[6](https://www.snap.com/political-ads/asset/0a538fb2b5cdcb9490b9a54cb072ccf3dda89c00e63527dcdd0eb0b979c4af46?mediaType=mp4)|787,166||18+|united kingdom|
+|Human Appeal|3,954.00 GBP|[6](https://www.snap.com/political-ads/asset/0a538fb2b5cdcb9490b9a54cb072ccf3dda89c00e63527dcdd0eb0b979c4af46?mediaType=mp4)|792,873||18+|united kingdom|
 |Human Appeal|7,275.00 GBP|[7](https://www.snap.com/political-ads/asset/ecb5982f4d7055600f32c1f6af948bb93bafe3692d69483afe6d2535dc6812d0?mediaType=mp4)|744,294||18+|united kingdom|
 |Human Appeal|4,759.00 GBP|[8](https://www.snap.com/political-ads/asset/47f6ec7f4ab74c115fe81dbad9ffbbf5ef91996223cbfdafdadf4377fbae3797?mediaType=mp4)|610,491||18+|united kingdom|
 |Human Appeal|1,461.00 GBP|[9](https://www.snap.com/political-ads/asset/7df7b02b5f2950afe9d266c3291597f64cb3719a0ec9083a2215453c4a743b5a?mediaType=mp4)|602,667||18+||
@@ -72,9 +72,9 @@
 |Human Appeal|474.00 GBP|[62](https://www.snap.com/political-ads/asset/4300d425c410cfbeffe868ab810a78f48e7a6b96728dec07f42b575ed0e88a5a?mediaType=mp4)|65,848||18+|united kingdom|
 |Human Appeal|506.00 GBP|[63](https://www.snap.com/political-ads/asset/67c6ce374a412901e92d2e30788e4f3f4ff6655703c7c67c5d7d6c12f9c92de8?mediaType=mp4)|65,841||18+|united kingdom|
 |Human Appeal|1,203.00 GBP|[64](https://www.snap.com/political-ads/asset/fd4b732d07cca0831df7b2afcf3de47cc430b727636493c60c414c881f0056f3?mediaType=mp4)|63,625||18+|united kingdom|
-|Human Appeal|535.00 GBP|[65](https://www.snap.com/political-ads/asset/5bcce673f77789e93917d0c07749cf5867ffb49f5d29efb68c6b44e728689865?mediaType=mp4)|63,167||18+|united kingdom|
-|Human Appeal|484.00 GBP|[66](https://www.snap.com/political-ads/asset/77786a9bfea6747c540d95649301156f4ff6edc9e7c649a37ada0a749e7fe8d7?mediaType=mp4)|63,166||18+|united kingdom|
-|Human Appeal|210.00 GBP|[67](https://www.snap.com/political-ads/asset/bc71b09ae8c8019203699b0877cb71053bf22d294dcfb15d60b43cae5ad1b523?mediaType=jpeg)|62,595||18+|united kingdom|
+|Human Appeal|213.00 GBP|[65](https://www.snap.com/political-ads/asset/bc71b09ae8c8019203699b0877cb71053bf22d294dcfb15d60b43cae5ad1b523?mediaType=jpeg)|63,472||18+|united kingdom|
+|Human Appeal|535.00 GBP|[66](https://www.snap.com/political-ads/asset/5bcce673f77789e93917d0c07749cf5867ffb49f5d29efb68c6b44e728689865?mediaType=mp4)|63,167||18+|united kingdom|
+|Human Appeal|484.00 GBP|[67](https://www.snap.com/political-ads/asset/77786a9bfea6747c540d95649301156f4ff6edc9e7c649a37ada0a749e7fe8d7?mediaType=mp4)|63,166||18+|united kingdom|
 |Human Appeal|361.00 GBP|[68](https://www.snap.com/political-ads/asset/20671b1f886c1bd7ffd56de9880718fe70d77fa5101ff973c56d3bda5cc6a68c?mediaType=jpeg)|57,556||18+|united kingdom|
 |Human Appeal|510.00 GBP|[69](https://www.snap.com/political-ads/asset/998a7d170320bd2f5f92808695969e694800f86a4f28ca1646e392b272ae2bd3?mediaType=mp4)|55,834||18+|united kingdom|
 |Human Appeal|535.00 GBP|[70](https://www.snap.com/political-ads/asset/dcb26c5c03cd6d218f28f2ec2c40c10aa1b3b6b980bd409b0b706bcb62763439?mediaType=mp4)|55,728||18+|united kingdom|
@@ -149,8 +149,8 @@
 |Human Appeal|53.00 GBP|[139](https://www.snap.com/political-ads/asset/2950837cf3c68e666867dd978bdf0e8f9967e611aa7871605633a83e79596d05?mediaType=jpeg)|8,276||18+|united kingdom|
 |Human Appeal|50.00 GBP|[140](https://www.snap.com/political-ads/asset/cab05c5739284111895a5869e62d6a649ec433faadc96135a8a5c4f03d913d5b?mediaType=jpeg)|7,364||18+|united kingdom|
 |Human Appeal|92.00 GBP|[141](https://www.snap.com/political-ads/asset/5a3d677b9db5ba378c91bc69bcabe23f2ea94970954997fdba363b3af36f73a8?mediaType=mp4)|7,226||18+|united kingdom|
-|Human Appeal|50.00 GBP|[142](https://www.snap.com/political-ads/asset/ddfd67346e8e74554782ee0426516ad504626ae2779c02d0c6189f0a68eb37e6?mediaType=jpeg)|7,031||18+|united kingdom|
-|Human Appeal|41.00 GBP|[143](https://www.snap.com/political-ads/asset/897604d79ab0c1246baa239e390cdad14892eb67bd6029560ed133d07dff9a7e?mediaType=mp4)|6,882||18+|united kingdom|
+|Human Appeal|43.00 GBP|[142](https://www.snap.com/political-ads/asset/897604d79ab0c1246baa239e390cdad14892eb67bd6029560ed133d07dff9a7e?mediaType=mp4)|7,042||18+|united kingdom|
+|Human Appeal|50.00 GBP|[143](https://www.snap.com/political-ads/asset/ddfd67346e8e74554782ee0426516ad504626ae2779c02d0c6189f0a68eb37e6?mediaType=jpeg)|7,031||18+|united kingdom|
 |Human Appeal|36.00 GBP|[144](https://www.snap.com/political-ads/asset/4ce10d1d3439bbdfd9044e1198c6dfb423056ea21c2c36c227da66545bb4e5f1?mediaType=jpeg)|6,835||18+|united kingdom|
 |Human Appeal|45.00 GBP|[145](https://www.snap.com/political-ads/asset/44c3f94d4e2eef38a991fa049b826ef1a6c49bd68f120bfa2352b5b499692e49?mediaType=jpeg)|6,436||18+|united kingdom|
 |Human Appeal|43.00 GBP|[146](https://www.snap.com/political-ads/asset/3060957f4baee50fd4f9411d6057dc4f951efe3b8b48b121d746f350254afc8f?mediaType=jpeg)|6,433||18+|united kingdom|
@@ -176,15 +176,15 @@
 |Human Appeal|88.00 GBP|[166](https://www.snap.com/political-ads/asset/edba456a596d726e69c09cd330d4e379ac2a325aebdcd566d7fdece286646fe5?mediaType=mp4)|5,283||18+|united kingdom|
 |Human Appeal|35.00 GBP|[167](https://www.snap.com/political-ads/asset/df78cd6eb87c63732b0c1eebe4c1e91a54944b782a4ed9f9ba8e1c59d90ffe0e?mediaType=png)|5,244||18+|united kingdom|
 |Human Appeal|33.00 GBP|[168](https://www.snap.com/political-ads/asset/d54ed69c5d5a0664d28837b31b08da874b650d0783c87db09f4331ce00cf8e84?mediaType=jpeg)|5,196||18+|united kingdom|
-|Human Appeal|45.00 GBP|[169](https://www.snap.com/political-ads/asset/14768822623e542899602aeee5ffdb5608e400018c7dde74cc5be60aa6202b43?mediaType=mp4)|5,088||18+|united kingdom|
-|Human Appeal|31.00 GBP|[170](https://www.snap.com/political-ads/asset/eefce9ba2d8571cace70599f9b4d75507286a0eff74e104a4429ebcd2a14a4ce?mediaType=mp4)|5,076||18+|united kingdom|
-|Human Appeal|26.00 GBP|[171](https://www.snap.com/political-ads/asset/3060957f4baee50fd4f9411d6057dc4f951efe3b8b48b121d746f350254afc8f?mediaType=jpeg)|4,983||18+|united kingdom|
-|Human Appeal|55.00 GBP|[172](https://www.snap.com/political-ads/asset/1baf80187de1df5589191142159500953f060734e9dd8be408137d43bbf9dec5?mediaType=mp4)|4,886||18+|united kingdom|
-|Human Appeal|49.00 GBP|[173](https://www.snap.com/political-ads/asset/0964899412a9c8772432657bb828778636a7c23822348121719644598e157ac7?mediaType=mp4)|4,884||18+|united kingdom|
-|Human Appeal|53.00 GBP|[174](https://www.snap.com/political-ads/asset/9d761bb0c9c3e0f6bc58a3a9f8c5e537e3e36de5bace47e2148cf6af1db275b4?mediaType=mp4)|4,870||18+|united kingdom|
-|Human Appeal|29.00 GBP|[175](https://www.snap.com/political-ads/asset/2c93983e2cfd4bee6aff605f01b0711e0b93985115683cce3ac3460e2e64a2aa?mediaType=jpeg)|4,727||18+|united kingdom|
-|Human Appeal|26.00 GBP|[176](https://www.snap.com/political-ads/asset/cab05c5739284111895a5869e62d6a649ec433faadc96135a8a5c4f03d913d5b?mediaType=jpeg)|4,707||18+|united kingdom|
-|Human Appeal|23.00 GBP|[177](https://www.snap.com/political-ads/asset/e3d86b0301869e03744a7dbbeee4ce0950cf1f007ee4662cebf21377c281aada?mediaType=jpeg)|4,700||18+|united kingdom|
+|Human Appeal|24.00 GBP|[169](https://www.snap.com/political-ads/asset/e3d86b0301869e03744a7dbbeee4ce0950cf1f007ee4662cebf21377c281aada?mediaType=jpeg)|5,116||18+|united kingdom|
+|Human Appeal|45.00 GBP|[170](https://www.snap.com/political-ads/asset/14768822623e542899602aeee5ffdb5608e400018c7dde74cc5be60aa6202b43?mediaType=mp4)|5,088||18+|united kingdom|
+|Human Appeal|31.00 GBP|[171](https://www.snap.com/political-ads/asset/eefce9ba2d8571cace70599f9b4d75507286a0eff74e104a4429ebcd2a14a4ce?mediaType=mp4)|5,076||18+|united kingdom|
+|Human Appeal|26.00 GBP|[172](https://www.snap.com/political-ads/asset/3060957f4baee50fd4f9411d6057dc4f951efe3b8b48b121d746f350254afc8f?mediaType=jpeg)|4,983||18+|united kingdom|
+|Human Appeal|55.00 GBP|[173](https://www.snap.com/political-ads/asset/1baf80187de1df5589191142159500953f060734e9dd8be408137d43bbf9dec5?mediaType=mp4)|4,886||18+|united kingdom|
+|Human Appeal|49.00 GBP|[174](https://www.snap.com/political-ads/asset/0964899412a9c8772432657bb828778636a7c23822348121719644598e157ac7?mediaType=mp4)|4,884||18+|united kingdom|
+|Human Appeal|53.00 GBP|[175](https://www.snap.com/political-ads/asset/9d761bb0c9c3e0f6bc58a3a9f8c5e537e3e36de5bace47e2148cf6af1db275b4?mediaType=mp4)|4,870||18+|united kingdom|
+|Human Appeal|29.00 GBP|[176](https://www.snap.com/political-ads/asset/2c93983e2cfd4bee6aff605f01b0711e0b93985115683cce3ac3460e2e64a2aa?mediaType=jpeg)|4,727||18+|united kingdom|
+|Human Appeal|26.00 GBP|[177](https://www.snap.com/political-ads/asset/cab05c5739284111895a5869e62d6a649ec433faadc96135a8a5c4f03d913d5b?mediaType=jpeg)|4,707||18+|united kingdom|
 |Human Appeal|33.00 GBP|[178](https://www.snap.com/political-ads/asset/1f3a12d89725b91a2abd97d5af31b25c9c49a0c57c0481421e211a47d2cc2021?mediaType=mp4)|4,551||18+|united kingdom|
 |Human Appeal|38.00 GBP|[179](https://www.snap.com/political-ads/asset/b7c69fd62b115090d3552f3f08251ef086a5fd9fd0df457bdc90ffdd3af4ba11?mediaType=mp4)|4,529||18+|united kingdom|
 |Human Appeal|25.00 GBP|[180](https://www.snap.com/political-ads/asset/cbb983d9032816db70c282497356e9136289f63cb39692e4a84a96eb474c57e3?mediaType=jpeg)|4,488||18+|united kingdom|

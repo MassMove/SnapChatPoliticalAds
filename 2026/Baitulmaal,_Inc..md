@@ -1,17 +1,17 @@
 ## 2026 - Baitulmaal, Inc. 
-**Spent**: 8,562.00
+**Spent**: 8,574.00
 
-**Impressions**: 454,990
+**Impressions**: 455,888
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Baitulmaal  Inc.|2,301.00 USD|[0](https://www.snap.com/political-ads/asset/f5d9b9aa00475bdeabb6965e8d8424b277bb3879c5f658a71846d724232d77ec?mediaType=mp4)|137,058||18+|united states|
-|Baitulmaal  Inc.|1,526.00 USD|[1](https://www.snap.com/political-ads/asset/2e7b6e997e3ee77ad3a8ea9a553e6a41f7f86e7aecb229d66ab5827ba74aafbf?mediaType=mp4)|90,370||18+|united states|
+|Baitulmaal  Inc.|1,528.00 USD|[1](https://www.snap.com/political-ads/asset/2e7b6e997e3ee77ad3a8ea9a553e6a41f7f86e7aecb229d66ab5827ba74aafbf?mediaType=mp4)|90,557||18+|united states|
 |Baitulmaal  Inc.|310.00 USD|[2](https://www.snap.com/political-ads/asset/619ca7639cb9f4fe3ee20669139a6b51a6c173b7c42f27e1fa1eb43c8879ff10?mediaType=mp4)|22,193||18+|united states|
 |Baitulmaal  Inc.|487.00 USD|[3](https://www.snap.com/political-ads/asset/79677568e2501a0b2258e242789108334b9c96ea21cdc7a7c81c817cc0baee53?mediaType=mp4)|21,953||18+|united states|
-|Baitulmaal  Inc.|299.00 USD|[4](https://www.snap.com/political-ads/asset/350c6fa583e5f0f97fc83d23531cedba29a469c0f65fe4f5ec7c719b1de9c184?mediaType=mp4)|17,833||18+|united states|
+|Baitulmaal  Inc.|309.00 USD|[4](https://www.snap.com/political-ads/asset/350c6fa583e5f0f97fc83d23531cedba29a469c0f65fe4f5ec7c719b1de9c184?mediaType=mp4)|18,544||18+|united states|
 |Baitulmaal  Inc.|311.00 USD|[5](https://www.snap.com/political-ads/asset/6cd0cb37e3d258c2df1487efd43ddb0b3a8de041f1fca1c60677bc00a4dd5ba4?mediaType=mp4)|16,572||18+|united states|
 |Baitulmaal  Inc.|183.00 USD|[6](https://www.snap.com/political-ads/asset/b5ffb8c63f5ed3e896367fab7665ba70d4ad03639ca47d36cd697cc2c15e0e9b?mediaType=png)|11,819||18+|united states|
 |Baitulmaal  Inc.|158.00 USD|[7](https://www.snap.com/political-ads/asset/09de084661825fdcdf63263d3c1c5943c145e38d08ad2726d50b078053875dd0?mediaType=mp4)|10,831||18+|united states|

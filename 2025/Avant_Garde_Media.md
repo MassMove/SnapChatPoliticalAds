@@ -1,14 +1,14 @@
 ## 2025 - Avant Garde Media 
-**Spent**: 28,445.00
+**Spent**: 28,479.00
 
-**Impressions**: 1,124,977
+**Impressions**: 1,126,365
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|MI Digital Solution|10,885.00 USD|[0](https://www.snap.com/political-ads/asset/5d465e65a33dbc2e75cc3d1ee31972a3a52300eae90c17845f5abb1760dd0ab2?mediaType=jpg)|387,793|FEMALE|18-45|united states|
-|MI Digital Solution|8,693.00 USD|[1](https://www.snap.com/political-ads/asset/69af4390d96fbdecc8a8c62596b4a4a36fc6f86df927f50268de90dea03d1b3e?mediaType=jpg)|307,309|FEMALE|18-45|united states|
+|MI Digital Solution|10,902.00 USD|[0](https://www.snap.com/political-ads/asset/5d465e65a33dbc2e75cc3d1ee31972a3a52300eae90c17845f5abb1760dd0ab2?mediaType=jpg)|388,394|FEMALE|18-45|united states|
+|MI Digital Solution|8,710.00 USD|[1](https://www.snap.com/political-ads/asset/69af4390d96fbdecc8a8c62596b4a4a36fc6f86df927f50268de90dea03d1b3e?mediaType=jpg)|308,096|FEMALE|18-45|united states|
 |MI Digital Solution|1,017.00 USD|[2](https://www.snap.com/political-ads/asset/4cdc4e014b50cc0b371de0f06a5174f9048bd75d17fb1faf580965e281ed66f5?mediaType=jpg)|277,148||18+|united states|
 |MI Digital Solution|2,633.00 USD|[3](https://www.snap.com/political-ads/asset/1b674f9b82b31bad85c63c0fcadc0d509dd74f6fff27751c25c2c33a4528af72?mediaType=jpg)|92,898|FEMALE|18-45|united states|
 |MI Digital Solution|5,107.00 USD|[4](https://www.snap.com/political-ads/asset/bd197ac6b7c8f924a4fa9eabca5b8e2742b29d3d111b8d1f669d87a290310891?mediaType=jpeg)|48,360||21+|united states|

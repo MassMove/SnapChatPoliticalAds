@@ -1,7 +1,7 @@
 ## 2026 - Caring Hearts Pregnancy Center 
-**Spent**: 2,721.00
+**Spent**: 2,732.00
 
-**Impressions**: 575,809
+**Impressions**: 576,323
 
 **Billing Addresses**: 
 - 1515 Aldersgate Rd,Little Rock,72205,US
@@ -13,7 +13,7 @@
 |Caring Hearts Pregnancy Center|198.00 USD|[1](https://www.snap.com/political-ads/asset/41dbf518d0d438271519eb76ef5403b464fd20b0fb856afc86f661f38d8fe24c?mediaType=mp4)|90,699|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|158.00 USD|[2](https://www.snap.com/political-ads/asset/382a795ee177515e715e2f84ebf084178abf891d7ce67d344d28c115dfd75bf3?mediaType=mp4)|75,510|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|164.00 USD|[3](https://www.snap.com/political-ads/asset/da6507e1684e31cd1285c7cf6972246feb4f426af105c36176e4ea173102cba8?mediaType=mp4)|58,313|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
-|Stories Marketing|1,238.00 USD|[4](https://www.snap.com/political-ads/asset/45b243c20dc2d7ccc2bd2018b1ba8dfa2e5d0baee97041fe8b997249e0311f4d?mediaType=mp4)|52,638|FEMALE|18-38|united states|4509 Kings Lake Ct,Chattanooga,37416,US|
+|Stories Marketing|1,249.00 USD|[4](https://www.snap.com/political-ads/asset/45b243c20dc2d7ccc2bd2018b1ba8dfa2e5d0baee97041fe8b997249e0311f4d?mediaType=mp4)|53,152|FEMALE|18-38|united states|4509 Kings Lake Ct,Chattanooga,37416,US|
 |Caring Hearts Pregnancy Center|145.00 USD|[5](https://www.snap.com/political-ads/asset/382a795ee177515e715e2f84ebf084178abf891d7ce67d344d28c115dfd75bf3?mediaType=mp4)|37,558|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|70.00 USD|[6](https://www.snap.com/political-ads/asset/f9598a87168d1eac0b20f050f8c9e36ee1dccb7cc943e4d1841ccf222746f4c8?mediaType=mp4)|31,824|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|63.00 USD|[7](https://www.snap.com/political-ads/asset/3a6e00612f5b01b2d7622b0c9b9e13e5750ac377fad493077857f720fe9f0dce?mediaType=mp4)|28,796|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
