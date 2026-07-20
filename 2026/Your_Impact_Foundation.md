@@ -1,16 +1,16 @@
 ## 2026 - Your Impact Foundation 
-**Spent**: 9,239.00
+**Spent**: 9,268.00
 
-**Impressions**: 3,429,996
+**Impressions**: 3,448,099
 
 **Billing Addresses**: GB
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|yourimpactfdn|1,129.00 GBP|[0](https://www.snap.com/political-ads/asset/f477f955ffc4064b7ee38e6e75d95f215975ba5ae81b4df66e2b9adb66802b71?mediaType=mp4)|850,642||20+|united kingdom|
+|yourimpactfdn|1,145.00 GBP|[0](https://www.snap.com/political-ads/asset/f477f955ffc4064b7ee38e6e75d95f215975ba5ae81b4df66e2b9adb66802b71?mediaType=mp4)|859,874||20+|united kingdom|
 |yourimpactfdn|1,969.00 GBP|[1](https://www.snap.com/political-ads/asset/4d690dc8017fa196ce14f080255de11c1d7464bbf863a5970c9648cc4cdc14e7?mediaType=mp4)|730,694||20+|united kingdom|
-|yourimpactfdn|396.00 GBP|[2](https://www.snap.com/political-ads/asset/aba21f29c5617de3d19ace2df4d74f3a074076c3e07fb2eaee2eddafd6951f61?mediaType=mp4)|276,969||20+|united kingdom|
-|yourimpactfdn|594.00 GBP|[3](https://www.snap.com/political-ads/asset/0fc61cbcea468081da2f42e759b5aab17fb48f7d6960fae359cc35e421102689?mediaType=mp4)|273,892||20+|united kingdom|
+|yourimpactfdn|607.00 GBP|[2](https://www.snap.com/political-ads/asset/0fc61cbcea468081da2f42e759b5aab17fb48f7d6960fae359cc35e421102689?mediaType=mp4)|282,763||20+|united kingdom|
+|yourimpactfdn|396.00 GBP|[3](https://www.snap.com/political-ads/asset/aba21f29c5617de3d19ace2df4d74f3a074076c3e07fb2eaee2eddafd6951f61?mediaType=mp4)|276,969||20+|united kingdom|
 |yourimpactfdn|1,201.00 GBP|[4](https://www.snap.com/political-ads/asset/aaeeee0db7a10161e017067871ea52b15be4d7249a1d9b740317b1a9c606d917?mediaType=mp4)|243,409||20+|united kingdom|
 |yourimpactfdn|127.00 GBP|[5](https://www.snap.com/political-ads/asset/0edb1e2bd2fce9bc6c098f5fc86d667636ee2922a4c78d5e4d467f9deb643206?mediaType=mp4)|153,109||20+|united kingdom|
 |yourimpactfdn|494.00 GBP|[6](https://www.snap.com/political-ads/asset/207faa80c17d6086d465050e353b3b8539b1096c0f87cafb4a3320da12b0361b?mediaType=mp4)|105,324||20+|united kingdom|
