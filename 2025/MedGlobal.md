@@ -1,7 +1,7 @@
 ## 2025 - MedGlobal 
-**Spent**: 16,580.00
+**Spent**: 16,587.00
 
-**Impressions**: 2,199,323
+**Impressions**: 2,200,828
 
 **Billing Addresses**: US
 
@@ -10,9 +10,9 @@
 |MedGlobal|109.00 USD|[0](https://www.snap.com/political-ads/asset/f9dcf267e5941e5b35bde1c7c1254a727498f645731f742a0c5bc8f22a5fcbef?mediaType=png)|423,745||18+|united states|
 |MedGlobal|129.00 USD|[1](https://www.snap.com/political-ads/asset/0e51f701aa76ee309fd047c6d4ceabb10a25aa492242271ee4f0f58153bdb8b0?mediaType=png)|317,652||18+|united states|
 |MedGlobal|158.00 USD|[2](https://www.snap.com/political-ads/asset/50e44bac45dd86b31bf1a765a419f99f25636751c285ae2e93e16937fdc0d645?mediaType=png)|251,427||18+|united states|
-|MedGlobal|898.00 USD|[3](https://www.snap.com/political-ads/asset/d473db527721cc553ac6e1f439fe2cb29fa5864890afbc71db01443e8ddc441a?mediaType=png)|149,709|||united states|
+|MedGlobal|900.00 USD|[3](https://www.snap.com/political-ads/asset/d473db527721cc553ac6e1f439fe2cb29fa5864890afbc71db01443e8ddc441a?mediaType=png)|150,127|||united states|
 |MedGlobal|68.00 USD|[4](https://www.snap.com/political-ads/asset/f9dcf267e5941e5b35bde1c7c1254a727498f645731f742a0c5bc8f22a5fcbef?mediaType=png)|93,842||18+|united states|
-|MedGlobal|578.00 USD|[5](https://www.snap.com/political-ads/asset/2f113e6fa6bbfbc3f078209198beafdd724802773e7c2ccc554e2c4492aea317?mediaType=png)|75,486|||united states|
+|MedGlobal|583.00 USD|[5](https://www.snap.com/political-ads/asset/2f113e6fa6bbfbc3f078209198beafdd724802773e7c2ccc554e2c4492aea317?mediaType=png)|76,573|||united states|
 |MedGlobal|1,614.00 USD|[6](https://www.snap.com/political-ads/asset/f441c8d77ad59d3c3356b78f2c9f6af2d2516a4a75209e3947212ae7e550dcb2?mediaType=mp4)|75,352||24+|united states|
 |MedGlobal|146.00 USD|[7](https://www.snap.com/political-ads/asset/50e44bac45dd86b31bf1a765a419f99f25636751c285ae2e93e16937fdc0d645?mediaType=png)|73,271||18+|united states|
 |MedGlobal|20.00 USD|[8](https://www.snap.com/political-ads/asset/dbf3a5fa39278d0bf166346cbe75b94d050bb845c44dc71542f4b35e2e23bd7c?mediaType=png)|51,028||18+|united states|

@@ -22,7 +22,7 @@
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|32,988.00 USD|17,562,859||16-24, 17-, 18-22, 24-|united states|
 |[Min. Solidarités et Santé](Min._Solidarités_et_Santé.md) - Dentsu France|41,851.00 EUR|17,136,457|FEMALE|17-, 18-34, 20-35|france|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|16,963.00 GBP|16,885,181||18-34|united kingdom|
-|[One Georgia, Inc.](One_Georgia,_Inc..md) - AL Media: One Georgia|235,349.00 USD|16,869,646|FEMALE, MALE|18+, 18-24, 18-34, 25+|united states|
+|[One Georgia, Inc.](One_Georgia,_Inc..md) - AL Media: One Georgia|235,469.00 USD|16,874,558|FEMALE, MALE|18+, 18-24, 18-34, 25+|united states|
 |[Metropolitan Police Service](Metropolitan_Police_Service.md) - Wavemaker UK|37,600.00 GBP|16,713,505||17-, 17-19|united kingdom|
 |[Arizona Democratic Party](Arizona_Democratic_Party.md) - Wavelength Strategy|114,915.00 USD|16,552,540||18+, 18-24, 18-34|united states|
 |[University of Pittsburgh](University_of_Pittsburgh.md) - Centro LLC|44,441.00 USD|15,529,121||18-34|united states|

@@ -1,7 +1,7 @@
 ## 2026 - Pregnancy Health Decision Center 
-**Spent**: 1,390.00
+**Spent**: 1,408.00
 
-**Impressions**: 84,764
+**Impressions**: 85,426
 
 **Billing Addresses**: US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |PDHC|150.00 USD|[0](https://www.snap.com/political-ads/asset/09e706acd375aae42df143a65af5e0c68a66c9c10d0a1e4a1266fdad76fe311f?mediaType=png)|25,594||18+|united states|
 |PDHC|110.00 USD|[1](https://www.snap.com/political-ads/asset/a40e763d6c32602b1afe749fe981422b5a169cee3c15f4542aced4346f8bd33c?mediaType=mp4)|15,997|||united states|
-|PDHC|310.00 USD|[2](https://www.snap.com/political-ads/asset/0c9946d4578464239776ac9388de5ce61e9d4b5ea85b61e4c5cd5d2ce1b03550?mediaType=jpg)|14,739|FEMALE|18-50|united states|
+|PDHC|328.00 USD|[2](https://www.snap.com/political-ads/asset/0c9946d4578464239776ac9388de5ce61e9d4b5ea85b61e4c5cd5d2ce1b03550?mediaType=jpg)|15,401|FEMALE|18-50|united states|
 |PDHC|300.00 USD|[3](https://www.snap.com/political-ads/asset/2dca3eb92d2a8e9b4f9ca5a010737034c02b03961e3bd8db49253dbcf1afa50e?mediaType=mp4)|11,837|FEMALE|18-50|united states|
 |PDHC|300.00 USD|[4](https://www.snap.com/political-ads/asset/774168432c03f25f8c8a24ccca386407d271b26c6fee6771875d65680ffe86d3?mediaType=mp4)|9,538|FEMALE|18-50|united states|
 |PDHC|110.00 USD|[5](https://www.snap.com/political-ads/asset/a40e763d6c32602b1afe749fe981422b5a169cee3c15f4542aced4346f8bd33c?mediaType=mp4)|4,516||18+|united states|
