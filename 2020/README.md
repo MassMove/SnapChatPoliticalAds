@@ -5,7 +5,7 @@
 |[Biden for President](Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,751,924.00 USD|722,271,015||17-24, 17-27, 18+, 18-24, 18-34, 18-49|united states|
 |[Albbiom Marketing LLC](Albbiom_Marketing_LLC.md) - Marud Khan: Donal Trump, Donald Trump, Donald Trunp, PRESIDENT TRUMP, President Trump|418,028.00 USD|435,191,562|FEMALE, MALE|18+, 20+, 21+, 22+|united states|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|1,037,149.00 USD|261,986,265||18-34, 24-38|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18+, 18-40, 18-45|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18+, 18-40, 18-45|united states|
 |[California Secretary of State](California_Secretary_of_State.md) - Assembly: California Secretary of State|486,434.00 USD|164,066,878||18+|united states|
 |[ACRONYM](ACRONYM.md) - ACRONYM|935,164.00 USD|133,729,086|FEMALE|18+, 18-34, 18-35|united states|
 |[Planned Parenthood](Planned_Parenthood.md) - R/GA|204,116.00 USD|129,357,823|FEMALE|17-, 18+, 18-24, 18-28, 18-34, 18-35, 35-|united states|
@@ -39,7 +39,7 @@
 |[Education Nationale](Education_Nationale.md) - Dentsu France|10,495.00 EUR|25,171,080||15-17|france|
 |[PFEI](PFEI.md) - The New Media Firm: Progress Florida Education Institute|180,390.00 USD|24,961,357||18+|united states|
 |[National Australia Day Council](National_Australia_Day_Council.md) - Australian Government Department of Finance|59,802.00 AUD|24,789,002||18+|australia|
-|[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|20,677.00 USD|23,777,056|||united states|
+|[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - C+K|20,677.00 USD|23,777,056|||united states|
 |[Progress North Carolina](Progress_North_Carolina.md) - Wavelength Strategy: Progress North Carolina|109,917.00 USD|22,713,958||18+|united states|
 |[Rothmans, Benson & Hedges](Rothmans,_Benson_&_Hedges.md) - Data Sciences|46,912.00 CAD|22,266,281||19+|canada|
 |[NY State Board of Elections](NY_State_Board_of_Elections.md) - OpAD Media|93,320.00 USD|22,024,140||18-24|united states|
@@ -129,7 +129,7 @@
 |[BLACK VOTE PA](BLACK_VOTE_PA.md) - AL Media: Black Vote PA|19,124.00 USD|6,035,129||18+|united states|
 |[Conservation Colorado](Conservation_Colorado.md) - Blueprint Interactive|15,337.00 USD|5,952,388|FEMALE, MALE|18+|united states|
 |[Thankyou](Thankyou.md) - AudienceX|8,623.00 USD|5,936,281||18-40|australia, brazil, canada, france, germany, indonesia, japan, netherlands, new zealand, nigeria, philippines, south africa, sweden, united arab emirates, united kingdom, united states|
-|[National Women's Law Center](National_Women's_Law_Center.md) - Chong and Koster|6,000.00 USD|5,902,786|FEMALE|15-34|united states|
+|[National Women's Law Center](National_Women's_Law_Center.md) - C+K|6,000.00 USD|5,902,786|FEMALE|15-34|united states|
 |[Tennessee Secretary of State](Tennessee_Secretary_of_State.md) - Tennessee Secretary of State: Poll Official, Vote Early, Vote Early Video|10,815.00 USD|5,879,741||16+, 16-39, 16-40, 18+|united states|
 |[Thorn](Thorn.md) - Thorn|23,719.00 USD|5,842,395||18-|united states|
 |[Næringslivets Hovedorganisasjon](Næringslivets_Hovedorganisasjon.md) - Næringslivets Hovedorganisasjon|5,496.00 EUR|5,729,065||18-30, 31+|norway|
@@ -501,7 +501,7 @@
 |[Refuse Fascism](Refuse_Fascism.md) - Refuse Fascism: Against Trump|850.00 USD|245,277||18-40|united states|
 |[Boyer For Chester County](Boyer_For_Chester_County.md) - Boyer For Chester County: Kyle Boyer for PA Senate District 19, Kyle Boyer for State Senate District 19, Kyle J Boyer, Kyle J Boyer for PA Senate, Kyle J Boyer for PA Senate District 19, Kyle J Boyer for State Senate|462.00 USD|241,704||17+, 18+, 18-30, 21+, 25+|united states|
 |[JOE COLLINS FOR CONGRESS](JOE_COLLINS_FOR_CONGRESS.md) - Campaign Solutions: JOE COLLINS FOR CONGRESS|899.00 USD|239,179||18+|united states|
-|[Chong + Koster](Chong_+_Koster.md) - Chong and Koster|1,103.00 USD|238,497|FEMALE|18-35|united states|
+|[Chong + Koster](Chong_+_Koster.md) - C+K|1,103.00 USD|238,497|FEMALE|18-35|united states|
 |[الدكتور حمود مبرك العازمي](الدكتور_حمود_مبرك_العازمي.md) - kuwainationalads|345.00 USD|236,340||21+|kuwait|
 |[UW-Madison](UW-Madison.md) - UW-Madison Division of Continuing Studies: BadgersVote|1,157.00 USD|236,082||18-23, 18-24|united states|
 |[Colorado Dept. of Transportation](Colorado_Dept._of_Transportation.md) - Vladimir Jones|2,249.00 USD|235,180||21-34|united states|
@@ -543,7 +543,7 @@
 |[Elad Gross for Missouri](Elad_Gross_for_Missouri.md) - Elad Gross for Missouri: Elad Gross|388.00 USD|175,088||18+, 18-39, 18-40|united states|
 |[Kim Mangone for Congress](Kim_Mangone_for_Congress.md) - Blueprint Interactive: Kim Mangone|850.00 USD|174,134||18+|united states|
 |[Betty Guardado for City Council](Betty_Guardado_for_City_Council.md) - Strategies 360: Betty Guardado|700.00 USD|173,183|FEMALE|18-35|united states|
-|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|1,057.00 USD|172,506||18+|united states|
+|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - C+K|1,057.00 USD|172,506||18+|united states|
 |[Central City Association](Central_City_Association.md) - Strategies 360: Voter Registration|686.00 USD|171,467||18-30|united states|
 |[مساعد عبدالرحمن المطيري](مساعد_عبدالرحمن_المطيري.md) - optimize advertising & marketing company wll|540.00 USD|171,220||21+|kuwait|
 |[MSEA-SEIU Local 1989](MSEA-SEIU_Local_1989.md) - The New Media Firm: MSEA - SEIU Local 1989|1,106.00 USD|170,895||18+|united states|
@@ -635,7 +635,7 @@
 |[Knock Knock LLC](Knock_Knock_LLC.md) - Your Voice Your Vote MN|210.00 USD|63,784||18+|united states|
 |[Copp Media](Copp_Media.md) - iFocus Marketing|237.00 USD|63,740||25+|united states|
 |[Pasha Baker for FL House 28](Pasha_Baker_for_FL_House_28.md) - You Should Run: Pasha Baker|245.00 USD|63,023||18+|united states|
-|[Planned Parenthood Advocates MT](Planned_Parenthood_Advocates_MT.md) - Chong and Koster|1,780.00 USD|62,742|FEMALE|18-45|united states|
+|[Planned Parenthood Advocates MT](Planned_Parenthood_Advocates_MT.md) - C+K|1,780.00 USD|62,742|FEMALE|18-45|united states|
 |[Commando Designs](Commando_Designs.md) - Commando Designs|38.00 USD|62,427||30+|united states|
 |[French for Arizona](French_for_Arizona.md) - Run the World Digital: Felicia French|1,130.00 USD|60,716||18+, 18-40|united states|
 |[sue finney 4 mn house](sue_finney_4_mn_house.md) - Vote 2020: Sue Finney 4 MN House|350.00 USD|59,838||18+|united states|

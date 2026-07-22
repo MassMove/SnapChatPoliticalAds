@@ -7,4 +7,4 @@
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Chong and Koster|1,780.00 USD|[0](https://www.snap.com/political-ads/asset/082334d08a0decd3c56fe9c314e9373c561b0c41cb0d07988e35703b44567b45?mediaType=mp4)|62,742|FEMALE|18-45|united states|
+|C+K|1,780.00 USD|[0](https://www.snap.com/political-ads/asset/082334d08a0decd3c56fe9c314e9373c561b0c41cb0d07988e35703b44567b45?mediaType=mp4)|62,742|FEMALE|18-45|united states|

@@ -6,7 +6,7 @@
 |[Recreational Equipment, Inc.](Recreational_Equipment,_Inc..md) - Mediavest Spark|323,790.00 USD|157,811,807||18+|united states|
 |[Government of Canada](Government_of_Canada.md) - Cossette Media Inc|286,558.00 CAD|133,347,331||18-, 18-24, 18-34|canada|
 |[SIG](SIG.md) - Dentsu France|99,381.00 EUR|123,405,259|FEMALE|18+, 18-18, 18-24, 18-30, 18-34, 25+|france|
-|[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|82,347.00 USD|107,250,423||26+, 26-|united states|
+|[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - C+K|82,347.00 USD|107,250,423||26+, 26-|united states|
 |[Elections Canada](Elections_Canada.md) - Cossette Media Inc|106,028.00 CAD|84,856,471||18+|canada|
 |[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive|180,073.00 USD|75,463,713|FEMALE|16-30, 17-, 18-34|united states|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|127,394.00 CAD|73,567,574|FEMALE, MALE|18+, 18-24, 20-, 21+, 21-34, 21-45, 23-34, 24+, 25-, 34-, 35++|canada|
@@ -59,7 +59,7 @@
 |[Éducation nationale](Éducation_nationale.md) - Dentsu France|2,500.00 EUR|5,901,638||18-18|france|
 |[Elections Alberta](Elections_Alberta.md) - TBWA Canada|15,205.00 CAD|5,899,911||18+|canada|
 |[Venstre](Venstre.md) - Venstre|10,445.00 USD|5,887,284||18-28, 18-32|norway|
-|[Youth Testify](Youth_Testify.md) - Chong and Koster|10,714.00 USD|5,772,103||17-24|united states|
+|[Youth Testify](Youth_Testify.md) - C+K|10,714.00 USD|5,772,103||17-24|united states|
 |[If Not Now Digital Ltd](If_Not_Now_Digital_Ltd.md) - If Not Now Digital Ltd: Register to Vote, Register to vote|9,840.00 GBP|5,733,345||18-30|united kingdom|
 |[Education Nationale](Education_Nationale.md) - Dentsu France|3,997.00 EUR|5,726,570||15-17, 18-21|france|
 |[DEFRA](DEFRA.md) - Manning Gottlieb OMD - OmniGOV|6,373.00 GBP|5,606,975||18-24|united kingdom|
@@ -147,12 +147,12 @@
 |[Kamala Harris For The People](Kamala_Harris_For_The_People.md) - Authentic Campaigns Inc|4,869.00 USD|1,137,820||21+, 25+, 30+|united states|
 |[The Venn Media](The_Venn_Media.md) - The Venn Media|2,170.00 USD|1,137,375||17-23, 17-25, 18+, 22+|united states|
 |[Potawatomi Bingo Casino](Potawatomi_Bingo_Casino.md) - Platform Digital  Inc: Pays Big Waukegan|10,146.00 USD|1,134,746||18+|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|3,418.00 USD|1,125,012||18+, 18-34|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K|3,418.00 USD|1,125,012||18+, 18-34|united states|
 |[National Education Association](National_Education_Association.md) - Blueprint Interactive|2,021.00 USD|1,122,771||15-34|united states|
 |[Dept Child Safety, Youth & Women](Dept_Child_Safety,_Youth_&_Women.md) - Department of Child Safety  Youth and Women|2,519.00 AUD|1,112,691||16-17, 16-18, 16-25, 19-30|australia|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|2,348.00 USD|1,093,433|||united states|
 |[Oppland fylkeskommune](Oppland_fylkeskommune.md) - Ferskvann Reklamebyrå AS|2,164.00 USD|1,078,171||18+, 18-25|norway|
-|[URGE](URGE.md) - Chong and Koster|2,816.00 USD|1,065,292||17+|united states|
+|[URGE](URGE.md) - C+K|2,816.00 USD|1,065,292||17+|united states|
 |[Oslo Arbeiderparti](Oslo_Arbeiderparti.md) - Oslo Arbeiderparti|2,428.00 EUR|1,052,950||18+, 25+|norway|
 |[Røde Kors Oslo](Røde_Kors_Oslo.md) - Papaya design & marketing|4,445.00 USD|1,042,689|FEMALE, MALE|18-30, 23-|norway|
 |[Action contre la Faim](Action_contre_la_Faim.md) - Periscope Creations|1,110.00 EUR|1,026,978||18-34|france|

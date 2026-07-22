@@ -7,7 +7,7 @@
 |[Knock The Vote](Knock_The_Vote.md) - ACRONYM|60,916.00 USD|15,591,968||18-28, 18-34|united states|
 |[Beto for Texas](Beto_for_Texas.md) - Middle Seat Consulting  LLC|41,183.00 USD|10,611,356||18+, 30-|united states|
 |[Department of Justice NI](Department_of_Justice_NI.md) - Ardmore Advertising|10,000.00 GBP|9,981,576||16-24|united kingdom|
-|[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - Chong and Koster|16,385.00 USD|9,861,587||25-|united states|
+|[Everytown for Gun Safety AF](Everytown_for_Gun_Safety_AF.md) - C+K|16,385.00 USD|9,861,587||25-|united states|
 |[Change Now](Change_Now.md) - Lockwood Strategy|20,225.00 USD|9,522,456|||united states|
 |[Home Office](Home_Office.md) - Dentsu Aegis Network|11,477.00 GBP|9,255,039|FEMALE, MALE|18-24|united kingdom|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|12,977.00 CAD|8,853,765|FEMALE, MALE|25-29|canada|
@@ -53,7 +53,7 @@
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Choice Creative Solutions|1,700.00 USD|789,334||18+|united states|
 |[OpenPoll](OpenPoll.md) - OpenPoll Inc|2,723.00 USD|768,749||17+, 17-29, 18+, 18-23, 18-29|united states|
 |[AFSCME Nevada](AFSCME_Nevada.md) - Blueprint Interactive|4,610.00 USD|761,408||18+|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|3,647.00 USD|725,384|FEMALE|18+|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K|3,647.00 USD|725,384|FEMALE|18+|united states|
 |[Amnesty International UK](Amnesty_International_UK.md) - Amnesty International UK|1,281.00 GBP|703,862||18-24, 25+|united kingdom|
 |[Liberal Party](Liberal_Party.md) - Tubemogul  Inc.|2,121.00 USD|700,127|FEMALE||australia|
 |[Friends of Jess King](Friends_of_Jess_King.md) - Friends of Jess King|2,586.00 USD|691,292||17+, 18+|united states|

@@ -12,7 +12,7 @@
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Fylkestingsvalget 2023, Hoda skolemat|527,188.00 NOK|19,930,616|FEMALE, MALE|16-23, 17+, 18+, 18-30, 18-40, 18-45, 25-45, 30+, 30-, 35+|norway|
 |[Høyre](Høyre.md) - Amidays|1,437,774.00 NOK|19,655,696||18+, 18-25, 18-30, 25+, 25-45, 30+, 30-49|norway|
 |[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|92,900.00 USD|16,532,955||16+, 18+, 18-24|united states|
-|[PPFA](PPFA.md) - Chong and Koster|137,292.00 USD|16,482,492|FEMALE|18-35, 20-49|united states|
+|[PPFA](PPFA.md) - C+K|137,292.00 USD|16,482,492|FEMALE|18-35, 20-49|united states|
 |[The Body Shop UK](The_Body_Shop_UK.md) - The Body Shop Intl Plc|9,611.00 GBP|13,174,259||15-17|united kingdom|
 |[GC/ESDC-EDSC](GC_ESDC-EDSC.md) - Cossette Media Inc|72,481.00 CAD|12,832,224||34-|canada|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: TurnUp Activism|52,393.00 USD|12,341,747|FEMALE|15+, 18-18, 18-25, 18-28, 18-29|united states|
@@ -95,7 +95,7 @@
 |[Peoples Democratic Party](Peoples_Democratic_Party.md) - Ad Dynamo: AtikuOkowa2023|1,998.00 USD|1,156,623||18+|nigeria|
 |[Plan C Pills](Plan_C_Pills.md) - Unified/IHM Local|2,686.00 USD|1,150,573|FEMALE|18-34|united states|
 |[NSSF](NSSF.md) - Red Edge LLC|36,703.00 USD|1,130,776|FEMALE|25-49|united states|
-|[Avow](Avow.md) - Chong and Koster|11,351.00 USD|1,129,425||18-30, 30-|united states|
+|[Avow](Avow.md) - C+K|11,351.00 USD|1,129,425||18-30, 30-|united states|
 |[ACS CAN](ACS_CAN.md) - M&R Strategic Services  Inc.|13,418.00 USD|1,129,317||18+|united states|
 |[New Zealand National Party](New_Zealand_National_Party.md) - Rainmakers MSA|1,662.00 USD|1,113,304||18-24|new zealand|
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Level Up Your Voting|13,982.00 USD|1,108,441||18-20|united states|
@@ -112,7 +112,7 @@
 |[SEIU](SEIU.md) - M&R Strategic Services  Inc.|9,779.00 USD|992,921||18+|united states|
 |[GRÜNE Schweiz / VERT-E-S suisse](GRÜNE_Schweiz___VERT-E-S_suisse.md) - art.I.schock GmbH: Gruene Schweiz|2,500.00 EUR|963,300||18-34|switzerland|
 |[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap, Fjern formueskatt arbeidende kapital|91,541.00 NOK|940,784|FEMALE|18+, 18-35|norway|
-|[SHERo MS](SHERo_MS.md) - Chong and Koster|6,607.00 USD|934,626||16+|united states|
+|[SHERo MS](SHERo_MS.md) - C+K|6,607.00 USD|934,626||16+|united states|
 |[Texas AFT](Texas_AFT.md) - Corsair Campaigns|1,920.00 USD|928,091||18+|united states|
 |[احمد محمد الحمد](احمد_محمد_الحمد.md) - sama kwt|3,070.00 USD|921,664||16+, 17+, 18+, 19+, 20+|kuwait|
 |[محمد مساعد الدوسري](محمد_مساعد_الدوسري.md) - مكتب محاماة|724.00 USD|914,303||21+|kuwait|
@@ -160,7 +160,7 @@
 |[Tromsø Arbeiderparti](Tromsø_Arbeiderparti.md) - Hensikt AS|14,998.00 NOK|455,110||18+|norway|
 |[WALGA](WALGA.md) - Unify Digital|3,569.00 AUD|444,948||18-24|australia|
 |[Abortion Finder](Abortion_Finder.md) - Abortion Finder|3,196.00 USD|437,371|FEMALE|18-40|united states|
-|[The Womxn Project Education Fund](The_Womxn_Project_Education_Fund.md) - Chong and Koster|4,176.00 USD|434,871||18+|united states|
+|[The Womxn Project Education Fund](The_Womxn_Project_Education_Fund.md) - C+K|4,176.00 USD|434,871||18+|united states|
 |[Trout Unlimited](Trout_Unlimited.md) - Monsoon Studios  LLC|1,498.00 USD|431,306|||united states|
 |[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|4,929.00 USD|429,289||18+|united states|
 |[Leaders Igniting Transformation](Leaders_Igniting_Transformation.md) - Leaders Igniting Transformation|3,000.00 USD|422,426||17-35, 18-35|united states|
@@ -179,7 +179,7 @@
 |[Innlandet fylkeskommune.](Innlandet_fylkeskommune..md) - Innlandet Fylkeskommune|7,798.00 NOK|362,184||18-28, 18-34|norway|
 |[KATIE PORTER FOR SENATE](KATIE_PORTER_FOR_SENATE.md) - Middle Seat Consulting  LLC: Katie Porter|7,764.00 USD|346,393||18+|united states|
 |[Oslo SV](Oslo_SV.md) - Oslo SV|29,727.00 NOK|346,314||18+, 18-35|norway|
-|[Ohio Women's Alliance](Ohio_Women's_Alliance.md) - Chong and Koster|4,999.00 USD|332,348||18-25|united states|
+|[Ohio Women's Alliance](Ohio_Women's_Alliance.md) - C+K|4,999.00 USD|332,348||18-25|united states|
 |[Agder Arbeiderparti](Agder_Arbeiderparti.md) - Agder Arbeiderparti: Arbeiderpartiet|13,169.00 NOK|328,365||16-25, 18+, 18-35|norway|
 |[الدكتور احمد مطيع العازمي](الدكتور_احمد_مطيع_العازمي.md) - adzgulf2023new: 200|887.00 USD|321,213||21+|kuwait|
 |[Southwest Indiana Right to Life](Southwest_Indiana_Right_to_Life.md) - AXIOM|4,466.00 USD|318,908||18+|united states|
@@ -187,7 +187,7 @@
 |[Iowa Secretary of State](Iowa_Secretary_of_State.md) - Group C|1,325.00 USD|313,062||18+|united states|
 |[طلال فهد جاسم الدبوس](طلال_فهد_جاسم_الدبوس.md) - Optimize Advertising and marketing company LLC|863.00 USD|299,830||21+|kuwait|
 |[Counterspark](Counterspark.md) - Blueprint Interactive|6,734.00 USD|295,628||18+, 18-30|united states|
-|[Equality Federation](Equality_Federation.md) - Chong and Koster|4,994.00 USD|293,168||18+|united states|
+|[Equality Federation](Equality_Federation.md) - C+K|4,994.00 USD|293,168||18+|united states|
 |[PPAA](PPAA.md) - Blueprint Interactive|2,450.00 USD|289,814||18-40|united states|
 |[Stavanger kommune](Stavanger_kommune.md) - Stavanger kommune|17,652.00 NOK|281,732||18+, 18-25, 35+|norway|
 |[Liberalistene Ringerike](Liberalistene_Ringerike.md) - Liberalistene Ringerike|4,995.00 NOK|276,650|MALE|18+|norway|
@@ -209,7 +209,7 @@
 |[DemsVote](DemsVote.md) - Seda Custom Design LLC: Everett Mitchell Janet Protasiewicz, matthew gergely joe mcandrew abigail salisbury|550.00 USD|217,072|FEMALE|18-35|united states|
 |[Tasmanian Electoral Office](Tasmanian_Electoral_Office.md) - Omnicom Media Group (Australia) Pty Ltd|1,509.00 AUD|214,912||18+|australia|
 |[mousa dalah alrasheedi](mousa_dalah_alrasheedi.md) - mousa alrasheedi: mubarakaltasha|322.00 USD|212,047||21+|kuwait|
-|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|2,674.00 USD|202,079|FEMALE|18+, 18-35|united states|
+|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - C+K|2,674.00 USD|202,079|FEMALE|18+, 18-35|united states|
 |[Världsnaturfonden WWF](Världsnaturfonden_WWF.md) - 2XL Online|5,809.00 SEK|188,802|FEMALE|25+|sweden|
 |[Lily for Delegate](Lily_for_Delegate.md) - BattleAxe Digital: Lily Franklin|911.00 USD|188,582||18-24|united states|
 |[سعود عبدالعزيز العصفور](سعود_عبدالعزيز_العصفور.md) - الحملة الانتخابية سعود العصفور: Saud Alasfoor|500.00 USD|186,810|||kuwait|
@@ -290,7 +290,7 @@
 |[Choices Pregnancy & Health](Choices_Pregnancy_&_Health.md) - Stories Marketing: Choices Pregnancy Health|595.00 USD|44,615|FEMALE|18-36|united states|
 |[Gemeente Dalfsen](Gemeente_Dalfsen.md) - SocialMediaMen|164.00 EUR|43,314||18+|netherlands|
 |[La Sodevika leve](La_Sodevika_leve.md) - Something Else Marketing AS: La Sodevika leve|3,734.00 NOK|41,443||18+|norway|
-|[Michigan Voices](Michigan_Voices.md) - Chong and Koster|386.00 USD|40,979||18+|united states|
+|[Michigan Voices](Michigan_Voices.md) - C+K|386.00 USD|40,979||18+|united states|
 |[Friends of Susanna Gibson](Friends_of_Susanna_Gibson.md) - Ethos Campaigns LLC: Susanna Gibson|869.00 USD|40,135||18+|united states|
 |[Tanami media , ebrahem alhajri](Tanami_media_,_ebrahem_alhajri.md) - TANAMI MEDIA|8.00 USD|39,243|||kuwait|
 |[Run for Something](Run_for_Something.md) - Run for Something PAC|747.00 USD|38,820||18-40|united states|

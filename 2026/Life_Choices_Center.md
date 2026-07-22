@@ -1,14 +1,14 @@
 ## 2026 - Life Choices Center 
-**Spent**: 497.00
+**Spent**: 503.00
 
-**Impressions**: 131,368
+**Impressions**: 132,600
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Ad Elements: Life Choices Center|45.00 USD|[0](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|15,709|FEMALE|30-|united states|
-|Ad Elements: Life Choices Center|58.00 USD|[1](https://www.snap.com/political-ads/asset/2e3d434066be85b9bbc0a7d1ff524018203e14a145fb401fb604b1353ec71759?mediaType=mp4)|14,569|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|62.00 USD|[1](https://www.snap.com/political-ads/asset/2e3d434066be85b9bbc0a7d1ff524018203e14a145fb401fb604b1353ec71759?mediaType=mp4)|15,606|FEMALE|34-|united states|
 |Ad Elements: Life Choices Center|39.00 USD|[2](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|10,165|FEMALE|34-|united states|
 |Ad Elements: Life Choices Center|33.00 USD|[3](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|9,226|FEMALE|34-|united states|
 |Ad Elements: Life Choices Center|49.00 USD|[4](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|8,645|FEMALE|34-|united states|
@@ -25,7 +25,7 @@
 |Ad Elements: Life Choices Center|22.00 USD|[15](https://www.snap.com/political-ads/asset/e8ec1b69af24568a9c634ea5ce302e605fcee02ded8326e04169372dbd2a0ed4?mediaType=mp4)|3,982|FEMALE|34-|united states|
 |Ad Elements: Life Choices Center|9.00 USD|[16](https://www.snap.com/political-ads/asset/4b29655ab03ede8659e1dcb4b4aa6d15a583acfe49a2f28638a6699a75911831?mediaType=mp4)|2,427|FEMALE|30-|united states|
 |Ad Elements: Life Choices Center|6.00 USD|[17](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|1,796|FEMALE|30-|united states|
-|Ad Elements: Life Choices Center|9.00 USD|[18](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|1,665|FEMALE|34-|united states|
-|Ad Elements: Life Choices Center|7.00 USD|[19](https://www.snap.com/political-ads/asset/e8ec1b69af24568a9c634ea5ce302e605fcee02ded8326e04169372dbd2a0ed4?mediaType=mp4)|1,591|FEMALE|34-|united states|
-|Ad Elements: Life Choices Center|3.00 USD|[20](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|820|FEMALE|34-|united states|
-|Ad Elements: Life Choices Center|2.00 USD|[21](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|508|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|8.00 USD|[18](https://www.snap.com/political-ads/asset/e8ec1b69af24568a9c634ea5ce302e605fcee02ded8326e04169372dbd2a0ed4?mediaType=mp4)|1,688|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|9.00 USD|[19](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|1,665|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|4.00 USD|[20](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|881|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|2.00 USD|[21](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|545|FEMALE|34-|united states|

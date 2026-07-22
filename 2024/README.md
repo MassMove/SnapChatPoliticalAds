@@ -2,15 +2,15 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|577,929.00 EUR|310,642,637||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|578,054.00 EUR|310,698,941||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
 |[Future Forward PAC](Future_Forward_PAC.md) - Bully Pulpit Interactive|842,827.00 USD|104,616,389|FEMALE, MALE|18+, 18-34, 18-40|united states|
 |[Future Forward](Future_Forward.md) - GMMB  Inc: Kamala Harris|782,558.00 USD|101,096,602||18+, 18-30|united states|
-|[WinSenate](WinSenate.md) - Chong and Koster: EDF Action Votes, Win Senate, WinSenate|629,846.00 USD|99,541,066|FEMALE|18+, 18-44, 18-49|united states|
+|[WinSenate](WinSenate.md) - C+K: EDF Action Votes, Win Senate, WinSenate|629,846.00 USD|99,541,066|FEMALE|18+, 18-44, 18-49|united states|
 |[Future Forward USA](Future_Forward_USA.md) - Bully Pulpit Interactive|903,206.00 USD|85,655,883|FEMALE|18+, 18-34, 20+, 27-43|united states|
-|[Majority Forward](Majority_Forward.md) - Chong and Koster: Majority Forward|668,723.00 USD|65,299,775||18+, 18-34|united states|
+|[Majority Forward](Majority_Forward.md) - C+K: Majority Forward|668,723.00 USD|65,299,775||18+, 18-34|united states|
 |[Working America](Working_America.md) - Working America|457,680.00 USD|58,940,152||18+|united states|
 |[MATW](MATW.md) - MATW Project: Australia, Not Applicable, United States|482,475.00 AUD|51,683,991||16+, 18+, 20+, 22+, 24+, 25+|australia, germany, united arab emirates, united kingdom, united states|
 |[By Duty to America](By_Duty_to_America.md) - MNI Targeted Media: Duty to America|212,456.00 USD|49,510,297|MALE|18+, 18-35|united states|
@@ -45,7 +45,7 @@
 |[Future Forward USA Action](Future_Forward_USA_Action.md) - Bully Pulpit Interactive|81,198.00 USD|14,845,629||18+||
 |[Colorado Department of State](Colorado_Department_of_State.md) - Colorado Secretary of State|74,930.00 USD|14,359,897||18+|united states|
 |[Paid for by TXSecretaryofState](Paid_for_by_TXSecretaryofState.md) - Vote Texas|67,603.00 USD|14,188,263||18+, 18-22, 18-24, 18-49, 35+|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|369,591.00 USD|14,137,450|FEMALE|18+, 18-35|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K|369,591.00 USD|14,137,450|FEMALE|18+, 18-35|united states|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: TurnUp Activism|69,198.00 USD|14,098,059|FEMALE|17-29, 18-29|united states|
 |[Facts for Peace LLC](Facts_for_Peace_LLC.md) - Facts for Peace LLC|259,124.00 USD|13,920,924|FEMALE, MALE|18-24, 18-29|united states|
 |[League of Conservation Voters](League_of_Conservation_Voters.md) - Watershed Strategy|148,448.00 USD|12,655,898||18-30, 18-35, 30-|united states|
@@ -100,7 +100,7 @@
 |[عايض نايف ابوخوصه العتيبي](عايض_نايف_ابوخوصه_العتيبي.md) - aayad2024: AAYED, AAYED 60, AAYED ALOTAIBI, AAYED aLOTAIBI|17,385.00 USD|4,689,648|FEMALE, MALE|21+|kuwait|
 |[دكتور محمد عبدالله المطر](دكتور_محمد_عبدالله_المطر.md) - Different Media|6,587.00 USD|4,653,803||18+|kuwait|
 |[Rivamo AG](Rivamo_AG.md) - Httpool Online Marketing GmbH|39,994.00 EUR|4,478,650||18+, 18-35|switzerland|
-|[We Testify](We_Testify.md) - Chong and Koster|13,349.00 USD|4,412,249||16+|united states|
+|[We Testify](We_Testify.md) - C+K|13,349.00 USD|4,412,249||16+|united states|
 |[Die Volkspartei](Die_Volkspartei.md) - Campaigning Bureau: Die Volkspartei, Volkspartei|14,996.00 EUR|4,261,302||16-21|austria|
 |[Priorities USA Action & BlackPAC](Priorities_USA_Action_&_BlackPAC.md) - Priorities USA|54,942.00 USD|4,159,811|MALE|18+, 18-49|united states|
 |[Future Pennsylvania PAC](Future_Pennsylvania_PAC.md) - Commonwealth Communications|168,480.00 USD|4,096,458|MALE|18-24|united states|
@@ -140,7 +140,7 @@
 |[Los Angeles County Registrar-Rec](Los_Angeles_County_Registrar-Rec.md) - DSPolitical: GOTV|13,726.00 USD|2,799,050||18+, 18-40|united states|
 |[DSCC](DSCC.md) - Wavelength Strategy|15,896.00 USD|2,797,292||18+|united states|
 |[Die Grünen](Die_Grünen.md) - Httpool Online Marketing GmbH|11,969.00 EUR|2,749,554||18+, 18-40|austria|
-|[EDF Action Votes](EDF_Action_Votes.md) - Chong and Koster|26,541.00 USD|2,730,603||18-44|united states|
+|[EDF Action Votes](EDF_Action_Votes.md) - C+K|26,541.00 USD|2,730,603||18-44|united states|
 |[Ministerie v. Binnenlandse Zaken](Ministerie_v._Binnenlandse_Zaken.md) - Initiative Media B.V|6,457.00 EUR|2,726,848||18-25|netherlands|
 |[الهيئةالخيرية الإسلامية العالمية](الهيئةالخيرية_الإسلامية_العالمية.md) - الهيئة الخيرية الإسلامية العالمية|29,605.00 USD|2,723,439||18+, 25+, 27+, 28+, 30+|kuwait|
 |[MAJORITY FORWARD](MAJORITY_FORWARD.md) - MVAR Media: Majority Forward|17,926.00 USD|2,718,432||18+|united states|
@@ -171,7 +171,7 @@
 |[Florida Future Leaders](Florida_Future_Leaders.md) - Florida Future Leaders: Florida Amendment 3 Marijuana Legalization, Florida Amendment 3 and 4 and youth turnout|11,732.00 USD|2,080,134||18-30|united states|
 |[When We All Vote](When_We_All_Vote.md) - Trilogy Interactive: When We All Vote|18,517.00 USD|2,052,017||14-17, 18-29, 18-44|united states|
 |[Battleground New York Action](Battleground_New_York_Action.md) - SBDigital|31,095.00 USD|1,997,254||18+|united states|
-|[The Center for US Voters Abroad](The_Center_for_US_Voters_Abroad.md) - Chong and Koster: Request Ballot|10,624.00 USD|1,930,711||18+|australia, canada, france, germany, united kingdom|
+|[The Center for US Voters Abroad](The_Center_for_US_Voters_Abroad.md) - C+K: Request Ballot|10,624.00 USD|1,930,711||18+|australia, canada, france, germany, united kingdom|
 |[عايض عبدالهادي](عايض_عبدالهادي.md) - ayedh2024: Ayedh|1,145.00 USD|1,878,175||18+, 20+, 21+|kuwait|
 |[Fight Like Hell PAC](Fight_Like_Hell_PAC.md) - Authentic Campaigns Inc|31,931.00 USD|1,857,315||18-25, 18-30|united states|
 |[Ads & Data](Ads_&_Data.md) - Pebble Media|7,839.00 EUR|1,844,636||18+, 18-35, 18-40, 18-49|belgium|
@@ -221,18 +221,18 @@
 |[MedGlobal](MedGlobal.md) - MedGlobal|17,833.00 USD|1,152,634||18+, 21+, 22+, 23+|canada, united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Commonwealth Communications: People Power Pennsylvania|26,392.00 USD|1,115,184||18-25, 18-30|united states|
 |[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap|91,999.00 NOK|1,097,738||18+|norway|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,108.00 USD|1,094,932|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,124.00 USD|1,097,353|FEMALE|30-|united states|
 |[Mercy Corps](Mercy_Corps.md) - Blue State Digital|33,161.00 USD|1,072,949||18+, 25+|united states|
 |[Western Native Voice Votes](Western_Native_Voice_Votes.md) - Navigate Campaigns: Western Native Voice Votes|10,000.00 USD|1,056,235||18+|united states|
 |[Socialdemokraterna Kronoberg](Socialdemokraterna_Kronoberg.md) - Context Media|23,490.00 SEK|1,044,527||18+|sweden|
-|[Feminist Majority Foundation](Feminist_Majority_Foundation.md) - Chong and Koster|7,302.00 USD|1,029,058||18-35|united states|
+|[Feminist Majority Foundation](Feminist_Majority_Foundation.md) - C+K|7,302.00 USD|1,029,058||18-35|united states|
 |[Ascend Women's Center](Ascend_Women's_Center.md) - Choose Life Marketing|5,164.00 USD|1,022,484|FEMALE|30-|united states|
 |[Orange County Registrar ofVoters](Orange_County_Registrar_ofVoters.md) - Majesty Ventures LLC: Orange County Registrar of Voters, Paid for by Orange County Voter Registrar|3,245.00 USD|1,010,758||18+|united states|
 |[IEC South Africa](IEC_South_Africa.md) - Ad Dynamo|3,234.00 USD|1,007,285||18-34|south africa|
 |[Avow](Avow.md) - Authentic Campaigns Inc: Vote Against Prop A|15,298.00 USD|999,530|FEMALE|18+, 18-45|united states|
 |[Swing Left](Swing_Left.md) - Swing Left|6,860.00 USD|995,713||18-35|united states|
 |[NOAH - for dyrs rettigheter](NOAH_-_for_dyrs_rettigheter.md) - NOAH - for dyrs rettigheter|15,673.00 NOK|992,358||18+|norway|
-|[KYRFF](KYRFF.md) - Chong and Koster|4,999.00 USD|991,791||18-25|united states|
+|[KYRFF](KYRFF.md) - C+K|4,999.00 USD|991,791||18-25|united states|
 |[NSSF](NSSF.md) - Red Edge LLC|35,357.00 USD|975,677|FEMALE|25-40, 25-49|united states|
 |[New Economic Frontier](New_Economic_Frontier.md) - New Economic Frontier: Measure 5|4,999.00 USD|970,057||18-35|united states|
 |[Alexandria Ocasio-Cortez](Alexandria_Ocasio-Cortez.md) - Middle Seat Consulting  LLC: Alexandria Ocasio Cortez|29,110.00 USD|965,438||18+, 25+, 35+|united states|
@@ -258,7 +258,7 @@
 |[DLCC](DLCC.md) - Blue State Digital: DLCC|5,997.00 USD|705,038||25+|united states|
 |[City of Regina](City_of_Regina.md) - City of Regina|3,720.00 CAD|694,866||18+|canada|
 |[ALMANABR](ALMANABR.md) - ALMANABR|5,127.00 USD|690,199||22+, 22-49, 24+, 25+, 25-49|kuwait|
-|[Apiary for Practical Support](Apiary_for_Practical_Support.md) - Chong and Koster|7,998.00 USD|688,618||18-30|united states|
+|[Apiary for Practical Support](Apiary_for_Practical_Support.md) - C+K|7,998.00 USD|688,618||18-30|united states|
 |[SMJusDEG](SMJusDEG.md) - meetome GmbH: Europa-Wahl|699.00 EUR|681,808|||germany|
 |[Contra Costa Clerk-Recorder](Contra_Costa_Clerk-Recorder.md) - Contra Costa County Clerk-Recorder: Contra Costa County Elections Division|8,615.00 USD|675,343||17-35, 18-30, 18-34|united states|
 |[Plan International Belgium](Plan_International_Belgium.md) - Plan International Belgium|1,100.00 EUR|668,771||18-35|belgium|
@@ -294,7 +294,7 @@
 |[Workers Family Party](Workers_Family_Party.md) - Producer Labs LLC|2,300.00 USD|463,271||18+|united states|
 |[Morgan LaMantia for State Senate](Morgan_LaMantia_for_State_Senate.md) - COMPETE Digital LLC|14,695.00 USD|457,601||18+|united states|
 |[NWLC Action Fund](NWLC_Action_Fund.md) - M&R Strategic Services  Inc.|5,650.00 USD|447,092|FEMALE||united states|
-|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|4,489.00 USD|444,518||18-35|united states|
+|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - C+K|4,489.00 USD|444,518||18-35|united states|
 |[Good Trouble Collaborative](Good_Trouble_Collaborative.md) - SBDigital: GOTV|6,372.00 USD|439,029||18-28|united states|
 |[National Governors Association](National_Governors_Association.md) - Unified: Disagree Better|1,794.00 USD|434,368||18+||
 |[Opportunity Arizona](Opportunity_Arizona.md) - Monsoon Studios  LLC|7,200.00 USD|433,814||18-35|united states|
@@ -355,7 +355,7 @@
 |[Allie Phillips for Change](Allie_Phillips_for_Change.md) - Ethos Campaigns LLC: Allie Phillips|1,660.00 USD|278,586||18+|united states|
 |[Al Najat Charity](Al_Najat_Charity.md) - Digital Media Services FZ-LLC|2,073.00 USD|277,523||25+|kuwait|
 |[Al ihsan charity Association](Al_ihsan_charity_Association.md) - alihsancharity|388.00 USD|275,238||20+, 24+|united arab emirates|
-|[Amplify Georgia](Amplify_Georgia.md) - Chong and Koster|7,997.00 USD|275,170||18-44|united states|
+|[Amplify Georgia](Amplify_Georgia.md) - C+K|7,997.00 USD|275,170||18-44|united states|
 |[Abdullah knderi our client](Abdullah_knderi_our_client.md) - ICON MEDIA|941.00 USD|274,493||20+|kuwait|
 |[Rock Island County Clerk](Rock_Island_County_Clerk.md) - Media Link  Inc.: General Primary Election Rock Island County Ill|3,610.00 USD|273,609||18+|united states|
 |[Radio-Canada](Radio-Canada.md) - Radio-Canada|2,941.00 CAD|270,089||18+, 18-34, 35+|canada|
@@ -437,7 +437,7 @@
 |[Community Change Action](Community_Change_Action.md) - Boulder Strategies LLC: Guaranteed Income|743.00 USD|140,567||18-45|united states|
 |[Shuaib Shabab Al-Muwaizri](Shuaib_Shabab_Al-Muwaizri.md) - سورس ميديا: Shuaib Shabab AlMuwaizri|148.00 USD|139,871||17+|kuwait|
 |[UnidosUS](UnidosUS.md) - Mantra Media Group LLC|1,947.00 USD|135,076||18+||
-|[El Pueblo](El_Pueblo.md) - Chong and Koster|4,943.00 USD|134,105||18-35|united states|
+|[El Pueblo](El_Pueblo.md) - C+K|4,943.00 USD|134,105||18-35|united states|
 |[The Dan Bongino Show](The_Dan_Bongino_Show.md) - Dan Bongino|2,294.00 USD|132,654|MALE|35+|united states|
 |[Anton Nilsson till EU](Anton_Nilsson_till_EU.md) - Stodforeningen Anton Nilsson till EU: Anton Nilsson till EU|412.00 EUR|131,867||18+, 18-35|finland|
 |[Al Jazeera English](Al_Jazeera_English.md) - Optimum Media Direction FZ LLC|1,999.00 USD|129,760||25-44|south africa, united kingdom|
@@ -474,7 +474,7 @@
 |[Trend DM](Trend_DM.md) - Trend DM Kuwait: Fahad Elazeb, Fahd Elazeb|301.00 USD|96,080||21+|kuwait|
 |[fahed alazeb](fahed_alazeb.md) - D3ayat: fahed alazeb|137.00 USD|95,817|||kuwait|
 |[Committee to Elect Joe Emrick](Committee_to_Elect_Joe_Emrick.md) - Majority Strategies: Committee to Elect Joe Emrick|1,350.00 USD|94,792||18+|united states|
-|[Sister Song](Sister_Song.md) - Chong and Koster: SisterSong|1,990.00 USD|93,614||18+|united states|
+|[Sister Song](Sister_Song.md) - C+K: SisterSong|1,990.00 USD|93,614||18+|united states|
 |[Marion County Election Board](Marion_County_Election_Board.md) - Marion County Election Board|1,671.00 USD|93,509||18+, 18-34|united states|
 |[Gemeente Hilversum](Gemeente_Hilversum.md) - Social Feature B.V.|231.00 EUR|92,918||18-25, 25-|netherlands|
 |[Protect Our Winters](Protect_Our_Winters.md) - Protect Our Winters|999.00 USD|90,916||18-40|united states|

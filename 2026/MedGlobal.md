@@ -1,7 +1,7 @@
 ## 2026 - MedGlobal 
 **Spent**: 4,581.00
 
-**Impressions**: 292,656
+**Impressions**: 292,658
 
 **Billing Addresses**: US
 
@@ -51,4 +51,4 @@
 |MedGlobal|5.00 USD|[41](https://www.snap.com/political-ads/asset/1413ca8ad5ffa46065bedb0b5eed33d433c4b6a50e6dd422b8baab4116878f0b?mediaType=png)|294||18+|united states|
 |MedGlobal|4.00 USD|[42](https://www.snap.com/political-ads/asset/1413ca8ad5ffa46065bedb0b5eed33d433c4b6a50e6dd422b8baab4116878f0b?mediaType=png)|272|||united states|
 |MedGlobal|7.00 USD|[43](https://www.snap.com/political-ads/asset/e79b90033290590a3654dcbff56a649aa49461f68027ffbe24e0e0fded31a32c?mediaType=png)|255||18+|united states|
-|MedGlobal|0.00 USD|[44](https://www.snap.com/political-ads/asset/e09d3acc48b20c4662dc57396ede65137c9f3d3962c2755a36f65fcbcea5ab35?mediaType=png)|52||18+|united states|
+|MedGlobal|0.00 USD|[44](https://www.snap.com/political-ads/asset/e09d3acc48b20c4662dc57396ede65137c9f3d3962c2755a36f65fcbcea5ab35?mediaType=png)|54||18+|united states|

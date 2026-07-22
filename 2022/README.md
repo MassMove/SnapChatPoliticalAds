@@ -1,7 +1,7 @@
 ## 2022 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[PPFA](PPFA.md) - Chong and Koster|552,638.00 USD|108,761,626|FEMALE|18+, 18-35|united states|
+|[PPFA](PPFA.md) - C+K|552,638.00 USD|108,761,626|FEMALE|18+, 18-35|united states|
 |[Google Canada](Google_Canada.md) - Essence Global Canada Inc.: Bill C 11|1,266,085.00 CAD|98,480,618||18-34|canada|
 |[Department of Social Services](Department_of_Social_Services.md) - Australian Government Department of Finance|364,995.00 AUD|90,519,033||16-17, 18-24|australia|
 |[Warnock for Georgia](Warnock_for_Georgia.md) - AL Media: Warnock For Georgia|454,261.00 USD|85,246,384|FEMALE|18+, 18-24, 18-40|united states|
@@ -72,7 +72,7 @@
 |[Dove](Dove.md) - Unilever US - Mindshare|32,757.00 USD|6,916,061|FEMALE|18-49|united states|
 |[Mind Charity](Mind_Charity.md) - Medialab Group|23,447.00 GBP|6,888,962||18+, 20-40|united kingdom|
 |[BLACK PROGRESSIVE ACTION COALITI](BLACK_PROGRESSIVE_ACTION_COALITI.md) - MVAR Media: BPAC|28,120.00 USD|6,818,856||18-49, 49-|united states|
-|[I Need An Abortion](I_Need_An_Abortion.md) - Chong and Koster|4,531.00 USD|6,811,426|FEMALE|25-|united states|
+|[I Need An Abortion](I_Need_An_Abortion.md) - C+K|4,531.00 USD|6,811,426|FEMALE|25-|united states|
 |[Voto Latino](Voto_Latino.md) - Rising Tide Interactive LLC: Voto Latino|26,389.00 USD|6,611,017||18+, 18-29, 18-39|united states|
 |[GEORGIA HONOR](GEORGIA_HONOR.md) - MVAR Media|44,952.00 USD|6,402,368||18-49|united states|
 |[SEIU and HEP](SEIU_and_HEP.md) - Precision [TEST]: Help Fund NY Frontlines|18,364.00 USD|6,374,496||18+|united states|
@@ -82,7 +82,7 @@
 |[MI Planned Parenthood Votes](MI_Planned_Parenthood_Votes.md) - M&R Strategic Services  Inc.: Dana Nessel, Gretchen Whitmer, Jocelyn Benson, Richard Bernstein and Kyra Bolden|57,892.00 USD|5,925,412||18+|united states|
 |[Røde Kors](Røde_Kors.md) - Mindshare Norway AS|140,273.00 NOK|5,918,944||18+, 18-19, 20+|norway|
 |[Commonwealth Communications](Commonwealth_Communications.md) - The New Media Firm: Commonwealth Communications, GOTV Pennsylvania, Voting registration in Pennsylvania|110,167.00 USD|5,856,718||18+, 18-35|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - Chong and Koster|74,289.00 USD|5,837,109|FEMALE|18+, 18-35|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K|74,289.00 USD|5,837,109|FEMALE|18+, 18-35|united states|
 |[Color of Change PAC](Color_of_Change_PAC.md) - Color of Change PAC: Bee Nguyen GA SOS, Cheri Beasley US Senator for NC, Damon Chetson, Jocelyn Benson MI SOS, Keith Ellison MN Attorney General, Mandela Barnes US Senator for WI, Mary Moriarty Hennepin County Attorney, Satana Deberry for Durham DA|15,411.00 USD|5,606,782||18+|united states|
 |[Venstre, Danmarks Liberale Parti](Venstre,_Danmarks_Liberale_Parti.md) - Venstre - Danmarks Liberale Parti: Venstre|12,817.00 EUR|5,528,758||16-25, 18+, 18-45, 18-49, 35+|denmark|
 |[One for All Committee](One_for_All_Committee.md) - The New Media Firm: Fetterman PA and Barnes WI for US Senate, Galvanize Action, John Fetterman for US Senate, Mandela Barnes for Senate|128,337.00 USD|5,498,761|FEMALE|18+|united states|
@@ -125,7 +125,7 @@
 |[University of California](University_of_California.md) - Parcon Media|24,238.00 USD|2,772,361||18+, 18-24, 18-30, 21+, 22+|united states|
 |[New York City Campaign Finance B](New_York_City_Campaign_Finance_B.md) - DSPolitical: NYC Campaign Finance Board GOTV|35,666.00 USD|2,744,305||18+|united states|
 |[Middlesex County, NJ](Middlesex_County,_NJ.md) - Marketing Doctor Inc|14,453.00 USD|2,742,760||18+|united states|
-|[Senate Majority PAC](Senate_Majority_PAC.md) - Chong and Koster|10,797.00 USD|2,739,276||18+|united states|
+|[Senate Majority PAC](Senate_Majority_PAC.md) - C+K|10,797.00 USD|2,739,276||18+|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|23,347.00 AUD|2,718,139||16+|australia|
 |[Fetterman for PA](Fetterman_for_PA.md) - Middle Seat Consulting  LLC: John Fetterman, John Fetterman for PA|20,690.00 USD|2,691,075|MALE|18+, 18-30, 31-49|united states|
 |[CPLC Action Fund](CPLC_Action_Fund.md) - Latino Loud: We Are CPLC|9,279.00 USD|2,585,488||18-35, 18-39|united states|
@@ -182,9 +182,9 @@
 |[CPC PAC](CPC_PAC.md) - Wavelength Strategy: Congressional Progressive Caucus PAC|11,295.00 USD|1,490,510||18+|united states|
 |[SOMOS PAC](SOMOS_PAC.md) - Blueprint Interactive|27,496.00 USD|1,477,044||18+|united states|
 |[Mohammed Almutair](Mohammed_Almutair.md) - Digital Media Services FZ-LLC: Mohammed Almutair|3,637.00 USD|1,444,820||18+|kuwait|
-|[Florida Planned Parenthood PAC](Florida_Planned_Parenthood_PAC.md) - Chong and Koster: Charlie Crist|9,856.00 USD|1,442,409|||united states|
+|[Florida Planned Parenthood PAC](Florida_Planned_Parenthood_PAC.md) - C+K: Charlie Crist|9,856.00 USD|1,442,409|||united states|
 |[March for Our LIves](March_for_Our_LIves.md) - FOGLAMP: March for Our Lives|11,217.00 USD|1,433,211||18+|united states|
-|[WI Alliance for Women's Health](WI_Alliance_for_Women's_Health.md) - Chong and Koster|9,211.00 USD|1,426,355|FEMALE|18-35|united states|
+|[WI Alliance for Women's Health](WI_Alliance_for_Women's_Health.md) - C+K|9,211.00 USD|1,426,355|FEMALE|18-35|united states|
 |[It Gets Better Project](It_Gets_Better_Project.md) - It Gets Better Project|11,148.00 USD|1,421,524||17-, 18-24, 30-|united states|
 |[Rise Above Colorado](Rise_Above_Colorado.md) - Huddled Masses|4,000.00 USD|1,418,938||17-|united states|
 |[Priorities USA Action & LCV](Priorities_USA_Action_&_LCV.md) - Gambit Strategies|20,536.00 USD|1,410,108||18+|united states|
@@ -220,7 +220,7 @@
 |[Americans for Fair Treatment](Americans_for_Fair_Treatment.md) - Red Edge LLC|11,000.00 USD|1,119,717||25+|united states|
 |[Opportunity for All Action Fund](Opportunity_for_All_Action_Fund.md) - AL Media|3,372.00 USD|1,111,874||18+|united states|
 |[Organizing Empowerment PAC](Organizing_Empowerment_PAC.md) - Do Big Things: Voter registration in Nevada|19,000.00 USD|1,072,618||18+|united states|
-|[We Testify](We_Testify.md) - Chong and Koster|14,996.00 USD|1,067,832||18-29|united states|
+|[We Testify](We_Testify.md) - C+K|14,996.00 USD|1,067,832||18-29|united states|
 |[College Promise Coalition](College_Promise_Coalition.md) - College Promise Coalition: College Promise Coalition|8,076.00 USD|1,066,057||18-25|united states|
 |[Kommunal](Kommunal.md) - Scream Mediabyrå Stockholm|80,961.00 SEK|1,065,644|FEMALE|20-29|sweden|
 |[Ahmad Mahmoud Askar](Ahmad_Mahmoud_Askar.md) - dotspacegroup for advertising and publishing: Ahmad Mahmoud Askar|1,143.00 USD|1,059,412||21+|kuwait|
@@ -248,7 +248,7 @@
 |[Socialdemokraterna Region Sthlm](Socialdemokraterna_Region_Sthlm.md) - Socialdemokraterna i Stockholmsregionen: Socialdemokraterna i Stockholmsregionen|40,285.00 SEK|854,735||18+|sweden|
 |[Leader of the Opposition](Leader_of_the_Opposition.md) - Unify Digital|6,998.00 AUD|832,621||18-34, 35+|australia|
 |[Future Coalition](Future_Coalition.md) - Van Ness Creative Strategies LLC: Reproductive Rights|8,707.00 USD|811,737||18-30|united states|
-|[Feminist Women's Health Center](Feminist_Women's_Health_Center.md) - Chong and Koster|5,149.00 USD|808,622||18-45|united states|
+|[Feminist Women's Health Center](Feminist_Women's_Health_Center.md) - C+K|5,149.00 USD|808,622||18-45|united states|
 |[One Hundred Black Men](One_Hundred_Black_Men.md) - Mower|2,249.00 USD|808,395||14-24|united states|
 |[Faisal abdulaziz Al-Masoud](Faisal_abdulaziz_Al-Masoud.md) - KYAAN CO: Fahad Abdulaziz AlMasoud|2,559.00 USD|798,394|||kuwait|
 |[Care in Action PAC](Care_in_Action_PAC.md) - Van Ness Creative Strategies LLC: Care workers|14,014.00 USD|791,202|FEMALE|18+|united states|
@@ -364,7 +364,7 @@
 |[Haqeqa socialmedia co](Haqeqa_socialmedia_co.md) - عايض أبو خوصه|733.00 USD|299,580|FEMALE|21+|kuwait|
 |[Bee For Georgia](Bee_For_Georgia.md) - AL Media: Bee Nguyen For Georgia|2,953.00 USD|298,042|FEMALE|18+|united states|
 |[Socialdemokraterna Kalmar kommun](Socialdemokraterna_Kalmar_kommun.md) - Context Media|1,185.00 EUR|296,590||18+|sweden|
-|[COLOR LATINA](COLOR_LATINA.md) - Chong and Koster|2,748.00 USD|295,388||18-30|united states|
+|[COLOR LATINA](COLOR_LATINA.md) - C+K|2,748.00 USD|295,388||18-30|united states|
 |[Committee to Elect Aileen Gunthe](Committee_to_Elect_Aileen_Gunthe.md) - Veracity Media: Aileen Gunther|1,738.00 USD|286,479||18+|united states|
 |[Community Change Action](Community_Change_Action.md) - Trilogy Interactive|3,816.00 USD|286,101||18+|united states|
 |[Bold Alliance Inc](Bold_Alliance_Inc.md) - BCom Solutions: Bold Alliance Inc|634.00 USD|283,950||18-34|united states|
@@ -526,7 +526,7 @@
 |[Paid for this ad Saeed Al-Qahtan](Paid_for_this_ad_Saeed_Al-Qahtan.md) - sourcemediakw: saeed alqahtani|25.00 USD|43,156||21+|kuwait|
 |[احمد مطيع العازمي](احمد_مطيع_العازمي.md) - kuwaitasd|158.00 USD|43,055||20+, 21+|kuwait|
 |[Victoria County Public Health](Victoria_County_Public_Health.md) - Victoria County Public Health Department|94.00 USD|42,519||18+|united states|
-|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - Chong and Koster|666.00 USD|41,836||18-35|united states|
+|[NARAL Pro-Choice America](NARAL_Pro-Choice_America.md) - C+K|666.00 USD|41,836||18-35|united states|
 |[ICON MEDIA](ICON_MEDIA.md) - ICON MEDIA|276.00 USD|41,497||20+, 21+|kuwait|
 |[Supermajority](Supermajority.md) - M&R Strategic Services  Inc.|1,017.00 USD|41,055|FEMALE|18-35|united states|
 |[New Mexico Voices for Children](New_Mexico_Voices_for_Children.md) - Semilla Strategies LLC: New Mexico Constitutional Amendment 1|117.00 USD|39,173||17-45|united states|
