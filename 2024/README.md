@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|578,185.00 EUR|310,759,765||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|578,308.00 EUR|310,818,034||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -45,7 +45,7 @@
 |[Future Forward USA Action](Future_Forward_USA_Action.md) - Bully Pulpit Interactive|81,198.00 USD|14,845,629||18+||
 |[Colorado Department of State](Colorado_Department_of_State.md) - Colorado Secretary of State|74,930.00 USD|14,359,897||18+|united states|
 |[Paid for by TXSecretaryofState](Paid_for_by_TXSecretaryofState.md) - Vote Texas|67,603.00 USD|14,188,263||18+, 18-22, 18-24, 18-49, 35+|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - C+K|369,591.00 USD|14,137,450|FEMALE|18+, 18-35|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K|368,593.00 USD|14,107,769|FEMALE|18+, 18-35|united states|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: TurnUp Activism|69,198.00 USD|14,098,059|FEMALE|17-29, 18-29|united states|
 |[Facts for Peace LLC](Facts_for_Peace_LLC.md) - Facts for Peace LLC|259,124.00 USD|13,920,924|FEMALE, MALE|18-24, 18-29|united states|
 |[League of Conservation Voters](League_of_Conservation_Voters.md) - Watershed Strategy|148,448.00 USD|12,655,898||18-30, 18-35, 30-|united states|
@@ -108,8 +108,8 @@
 |[Österreichische Post AG](Österreichische_Post_AG.md) - Österreichische Post AG|6,362.00 EUR|4,020,354||18+|austria|
 |[LCV and Priorities USA](LCV_and_Priorities_USA.md) - Priorities USA|20,064.00 USD|4,018,155||18-44|united states|
 |[Vote Like a Madre](Vote_Like_a_Madre.md) - Bully Pulpit Interactive|54,394.00 USD|3,964,401|FEMALE|18+, 18-34, 35+|united states|
-|[Montanans for Tester](Montanans_for_Tester.md) - Gambit Strategies: Montanans for Tester|47,345.00 USD|3,936,443||18-34, 18-49|united states|
 |[Michigan Secretary of State](Michigan_Secretary_of_State.md) - Ignite Social Media|19,998.00 USD|3,878,002||18+|united states|
+|[Montanans for Tester](Montanans_for_Tester.md) - Gambit Strategies: Montanans for Tester|45,687.00 USD|3,864,422||18-34, 18-49|united states|
 |[Daniel Lurie for Mayor](Daniel_Lurie_for_Mayor.md) - Gambit Strategies: Daniel Lurie for Mayor|47,677.00 USD|3,799,826||18-34|united states|
 |[Planned Parenthood Votes](Planned_Parenthood_Votes.md) - Blueprint Interactive|25,025.00 USD|3,792,132||18-35|united states|
 |[Life for Relief and Development](Life_for_Relief_and_Development.md) - NGO|26,386.00 USD|3,735,230||18+, 20+, 21+, 22+|canada, france, morocco, united arab emirates, united kingdom, united states|
@@ -220,7 +220,7 @@
 |[Moving Montana Forward](Moving_Montana_Forward.md) - Navigate Campaigns|5,998.00 USD|1,163,112||18-39|united states|
 |[MedGlobal](MedGlobal.md) - MedGlobal|17,833.00 USD|1,152,634||18+, 21+, 22+, 23+|canada, united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Commonwealth Communications: People Power Pennsylvania|26,392.00 USD|1,115,184||18-25, 18-30|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,138.00 USD|1,099,749|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,154.00 USD|1,102,132|FEMALE|30-|united states|
 |[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap|91,999.00 NOK|1,097,738||18+|norway|
 |[Mercy Corps](Mercy_Corps.md) - Blue State Digital|33,161.00 USD|1,072,949||18+, 25+|united states|
 |[Western Native Voice Votes](Western_Native_Voice_Votes.md) - Navigate Campaigns: Western Native Voice Votes|10,000.00 USD|1,056,235||18+|united states|

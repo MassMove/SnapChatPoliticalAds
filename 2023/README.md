@@ -12,7 +12,7 @@
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet: Fylkestingsvalget 2023, Hoda skolemat|527,188.00 NOK|19,930,616|FEMALE, MALE|16-23, 17+, 18+, 18-30, 18-40, 18-45, 25-45, 30+, 30-, 35+|norway|
 |[Høyre](Høyre.md) - Amidays|1,437,774.00 NOK|19,655,696||18+, 18-25, 18-30, 25+, 25-45, 30+, 30-49|norway|
 |[Fight for $15](Fight_for_$15.md) - M&R Strategic Services  Inc.|92,900.00 USD|16,532,955||16+, 18+, 18-24|united states|
-|[PPFA](PPFA.md) - C+K|137,292.00 USD|16,482,492|FEMALE|18-35, 20-49|united states|
+|[PPFA](PPFA.md) - C+K|136,882.00 USD|16,341,051|FEMALE|18-35, 20-49|united states|
 |[The Body Shop UK](The_Body_Shop_UK.md) - The Body Shop Intl Plc|9,611.00 GBP|13,174,259||15-17|united kingdom|
 |[GC/ESDC-EDSC](GC_ESDC-EDSC.md) - Cossette Media Inc|72,481.00 CAD|12,832,224||34-|canada|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: TurnUp Activism|52,393.00 USD|12,341,747|FEMALE|15+, 18-18, 18-25, 18-28, 18-29|united states|
