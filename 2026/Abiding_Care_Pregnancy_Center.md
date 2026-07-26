@@ -1,12 +1,12 @@
 ## 2026 - Abiding Care Pregnancy Center 
-**Spent**: 516.00
+**Spent**: 522.00
 
-**Impressions**: 19,382
+**Impressions**: 19,663
 
 **Billing Addresses**: 220 N Main St.,Medford,55451,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Extend Web Services|269.00 USD|[0](https://www.snap.com/political-ads/asset/4c024b69346d8af239af684ad17462a636f2d77254147a4cd3252e12acc7d229?mediaType=mp4)|10,601|FEMALE|18-35|united states|
-|Extend Web Services|190.00 USD|[1](https://www.snap.com/political-ads/asset/3341ef64ef320fb41bab4cfd16e7c788dab17fff3e54a31a067ad95c50034188?mediaType=mp4)|6,315|FEMALE|18-35|united states|
-|Extend Web Services|57.00 USD|[2](https://www.snap.com/political-ads/asset/8e9ce29166e9561fa1265d582cb9da8d9a17ad862297cae30dee7ca8f06b84b2?mediaType=png)|2,466|FEMALE|18-35|united states|
+|Extend Web Services|271.00 USD|[0](https://www.snap.com/political-ads/asset/4c024b69346d8af239af684ad17462a636f2d77254147a4cd3252e12acc7d229?mediaType=mp4)|10,698|FEMALE|18-35|united states|
+|Extend Web Services|194.00 USD|[1](https://www.snap.com/political-ads/asset/3341ef64ef320fb41bab4cfd16e7c788dab17fff3e54a31a067ad95c50034188?mediaType=mp4)|6,482|FEMALE|18-35|united states|
+|Extend Web Services|57.00 USD|[2](https://www.snap.com/political-ads/asset/8e9ce29166e9561fa1265d582cb9da8d9a17ad862297cae30dee7ca8f06b84b2?mediaType=png)|2,483|FEMALE|18-35|united states|
