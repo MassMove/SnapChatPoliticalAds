@@ -1,15 +1,15 @@
 ## 2026 - Your Impact Foundation 
-**Spent**: 9,448.00
+**Spent**: 9,477.00
 
-**Impressions**: 3,551,847
+**Impressions**: 3,570,535
 
 **Billing Addresses**: GB
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|yourimpactfdn|1,235.00 GBP|[0](https://www.snap.com/political-ads/asset/f477f955ffc4064b7ee38e6e75d95f215975ba5ae81b4df66e2b9adb66802b71?mediaType=mp4)|905,568||20+|united kingdom|
+|yourimpactfdn|1,246.00 GBP|[0](https://www.snap.com/political-ads/asset/f477f955ffc4064b7ee38e6e75d95f215975ba5ae81b4df66e2b9adb66802b71?mediaType=mp4)|911,941||20+|united kingdom|
 |yourimpactfdn|1,969.00 GBP|[1](https://www.snap.com/political-ads/asset/4d690dc8017fa196ce14f080255de11c1d7464bbf863a5970c9648cc4cdc14e7?mediaType=mp4)|730,694||20+|united kingdom|
-|yourimpactfdn|690.00 GBP|[2](https://www.snap.com/political-ads/asset/0fc61cbcea468081da2f42e759b5aab17fb48f7d6960fae359cc35e421102689?mediaType=mp4)|335,832||20+|united kingdom|
+|yourimpactfdn|707.00 GBP|[2](https://www.snap.com/political-ads/asset/0fc61cbcea468081da2f42e759b5aab17fb48f7d6960fae359cc35e421102689?mediaType=mp4)|347,134||20+|united kingdom|
 |yourimpactfdn|396.00 GBP|[3](https://www.snap.com/political-ads/asset/aba21f29c5617de3d19ace2df4d74f3a074076c3e07fb2eaee2eddafd6951f61?mediaType=mp4)|276,969||20+|united kingdom|
 |yourimpactfdn|1,201.00 GBP|[4](https://www.snap.com/political-ads/asset/aaeeee0db7a10161e017067871ea52b15be4d7249a1d9b740317b1a9c606d917?mediaType=mp4)|243,409||20+|united kingdom|
 |yourimpactfdn|127.00 GBP|[5](https://www.snap.com/political-ads/asset/0edb1e2bd2fce9bc6c098f5fc86d667636ee2922a4c78d5e4d467f9deb643206?mediaType=mp4)|153,109||20+|united kingdom|
@@ -37,7 +37,7 @@
 |yourimpactfdn|18.00 GBP|[27](https://www.snap.com/political-ads/asset/f3620e765ad562e1861451985c3a81c9ea3f79867b41b5d14ee5a58b05de50a1?mediaType=mp4)|6,939||20+|united kingdom|
 |yourimpactfdn|46.00 GBP|[28](https://www.snap.com/political-ads/asset/b823982fda7fcf3993c483d1bd42b4dad1d293e6a8eba026fb776c757478555e?mediaType=mp4)|6,540||20+|united kingdom|
 |yourimpactfdn|21.00 GBP|[29](https://www.snap.com/political-ads/asset/3785e292d1088555418b03a468ef0c7d0b04db67454e2d3275e40f17f0b0d6fc?mediaType=mp4)|6,469||20+|united kingdom|
-|yourimpactfdn|7.00 GBP|[30](https://www.snap.com/political-ads/asset/9fc4cd89d1a45d87eddcace2a488f7eaa88a401a13a684431cb0470238e316fe?mediaType=mp4)|4,985||20+|united kingdom|
+|yourimpactfdn|8.00 GBP|[30](https://www.snap.com/political-ads/asset/9fc4cd89d1a45d87eddcace2a488f7eaa88a401a13a684431cb0470238e316fe?mediaType=mp4)|5,998||20+|united kingdom|
 |yourimpactfdn|23.00 GBP|[31](https://www.snap.com/political-ads/asset/3d08596bde1361a5aaaea1396648e808e193be4e29951ab41e6a95ac3765c340?mediaType=mp4)|4,355||20+|united kingdom|
 |yourimpactfdn|22.00 GBP|[32](https://www.snap.com/political-ads/asset/a12c896a2254bcba06051c124ea8f51614945b13ffe2c879c316621558668db6?mediaType=mp4)|3,928||20+|united kingdom|
 |yourimpactfdn|27.00 GBP|[33](https://www.snap.com/political-ads/asset/c3ee054c4a552b161c546dd512f46dbbd29c0991e99ede2b8fb7a39aba8adb7b?mediaType=mp4)|3,745||20+|united kingdom|

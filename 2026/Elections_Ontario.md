@@ -1,11 +1,11 @@
 ## 2026 - Elections Ontario 
-**Spent**: 4,975.00
+**Spent**: 5,381.00
 
-**Impressions**: 5,314,336
+**Impressions**: 5,764,390
 
 **Billing Addresses**: 111 Queen St East,Toronto,M5C 1S2,CA
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Starcom Canada|4,837.00 CAD|[0](https://www.snap.com/political-ads/asset/580a93de76f3457ac10d03d1ceb6812bce8b62738818d251007404e0f164aaaf?mediaType=mp4)|5,162,519||16-17|canada|
-|Starcom Canada|138.00 CAD|[1](https://www.snap.com/political-ads/asset/2e5ca5ed9b18c95611a8a685bc4fb4c500f7ee163a6e0393171133695d3e2a35?mediaType=mp4)|151,817||16-17|canada|
+|Starcom Canada|5,231.00 CAD|[0](https://www.snap.com/political-ads/asset/580a93de76f3457ac10d03d1ceb6812bce8b62738818d251007404e0f164aaaf?mediaType=mp4)|5,599,277||16-17|canada|
+|Starcom Canada|150.00 CAD|[1](https://www.snap.com/political-ads/asset/2e5ca5ed9b18c95611a8a685bc4fb4c500f7ee163a6e0393171133695d3e2a35?mediaType=mp4)|165,113||16-17|canada|
