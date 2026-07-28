@@ -1,10 +1,10 @@
 ## 2026 - First Choice Pregnancy Services 
-**Spent**: 1,249.00
+**Spent**: 1,259.00
 
-**Impressions**: 47,239
+**Impressions**: 47,714
 
 **Billing Addresses**: 4509 Kings Lake Court,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|1,249.00 USD|[0](https://www.snap.com/political-ads/asset/937ff8827f1b8c1286d4dc78d6a5d4c7915618184345ab2c73b0c6e00319dc11?mediaType=mp4)|47,239|FEMALE|17+|united states|
+|Stories Marketing|1,259.00 USD|[0](https://www.snap.com/political-ads/asset/937ff8827f1b8c1286d4dc78d6a5d4c7915618184345ab2c73b0c6e00319dc11?mediaType=mp4)|47,714|FEMALE|17+|united states|
