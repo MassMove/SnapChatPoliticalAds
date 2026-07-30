@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|578,863.00 EUR|311,077,274||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|578,967.00 EUR|311,121,643||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -158,11 +158,11 @@
 |[WILL ROLLINS FOR CONGRESS](WILL_ROLLINS_FOR_CONGRESS.md) - MVAR Media: Will Rollins for Congress|19,476.00 USD|2,380,202||18+, 18-45|united states|
 |[Government of British Columbia](Government_of_British_Columbia.md) - lProspect Canada lnc|19,998.00 CAD|2,379,886||18-30|canada|
 |[Citizens Not Politicians](Citizens_Not_Politicians.md) - Trilogy Interactive: Ohio Issue 1|44,000.00 USD|2,350,150||18-35|united states|
+|[ACT Electoral Commission](ACT_Electoral_Commission.md) - Universal McCann A Division Of Mediabrands Australia Pty. Ltd.|10,421.00 AUD|2,343,011||17+|australia|
 |[baladalkhair](baladalkhair.md) - baladelkhair: baladelkhair|32,046.00 USD|2,313,793||23+, 24+, 25+, 28+, 30+|kuwait|
 |[Claiming Our Voices](Claiming_Our_Voices.md) - Claiming Our Voices: Get Out the Vote|5,280.00 USD|2,302,390||18+|united states|
 |[Lauren Underwood for Congress](Lauren_Underwood_for_Congress.md) - Authentic Campaigns Inc: Lauren Underwood for Congress|18,499.00 USD|2,250,437||18-35|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: Sadiq Khan|4,376.00 GBP|2,235,068||18+, 18-35|united kingdom|
-|[ACT Electoral Commission](ACT_Electoral_Commission.md) - Universal McCann A Division Of Mediabrands Australia Pty. Ltd.|9,742.00 AUD|2,219,133||17+|australia|
 |[Allegheny County](Allegheny_County.md) - Allegheny County|6,244.00 USD|2,216,396||18+, 18-|united states|
 |[Sex & Samfund](Sex_&_Samfund.md) - Sex & Samfund|1,241.00 EUR|2,206,760||15-25, 18-25, 18-29|denmark|
 |[Fund Her](Fund_Her.md) - Break Something: Catherine Stefani for Assembly, Christy Holstege for Assembly, Darshana Patel for Assembly, Dr Phlunte Riddle for Assemblymember, Jessica Caloza for Assembly, LaShae Sharp Collins for Assembly, Sade Elhwarary for Assembly, Tara Sreekrishnan for Assembly, Tara Sreekrishnan for Assemblymember|50,793.00 USD|2,189,805|FEMALE|18+|united states|
@@ -219,8 +219,8 @@
 |[Send The Vote](Send_The_Vote.md) - Daily Mail|6,497.00 USD|1,176,352||18+|united states|
 |[Moving Montana Forward](Moving_Montana_Forward.md) - Navigate Campaigns|5,998.00 USD|1,163,112||18-39|united states|
 |[MedGlobal](MedGlobal.md) - MedGlobal|17,833.00 USD|1,152,634||18+, 21+, 22+, 23+|canada, united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,244.00 USD|1,116,318|FEMALE|30-|united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Commonwealth Communications: People Power Pennsylvania|26,392.00 USD|1,115,184||18-25, 18-30|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,228.00 USD|1,113,845|FEMALE|30-|united states|
 |[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap|91,999.00 NOK|1,097,738||18+|norway|
 |[Mercy Corps](Mercy_Corps.md) - Blue State Digital|33,161.00 USD|1,072,949||18+, 25+|united states|
 |[Western Native Voice Votes](Western_Native_Voice_Votes.md) - Navigate Campaigns: Western Native Voice Votes|10,000.00 USD|1,056,235||18+|united states|
