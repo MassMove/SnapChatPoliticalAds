@@ -1,11 +1,11 @@
 ## 2026 - Dentsu Aegis Network FR 
-**Spent**: 2,741.00
+**Spent**: 2,891.00
 
-**Impressions**: 2,756,092
+**Impressions**: 2,872,117
 
 **Billing Addresses**: 67 Av. de Wagram,Paris,75017,FR
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Dentsu France|1,547.00 EUR|[0](https://www.snap.com/political-ads/asset/48b149fd926a0219cf00076002775bebba860a3c72dd0b0fabb567c1d0ddbdeb?mediaType=mp4)|1,856,246||26+|france|
-|Dentsu France|1,194.00 EUR|[1](https://www.snap.com/political-ads/asset/3dfa29f5071e1ec382776f6734547c88df9eb7e4dfbd9356512c4db6690b785a?mediaType=mp4)|899,846||18-25|france|
+|Dentsu France|1,666.00 EUR|[0](https://www.snap.com/political-ads/asset/48b149fd926a0219cf00076002775bebba860a3c72dd0b0fabb567c1d0ddbdeb?mediaType=mp4)|1,943,201||26+|france|
+|Dentsu France|1,225.00 EUR|[1](https://www.snap.com/political-ads/asset/3dfa29f5071e1ec382776f6734547c88df9eb7e4dfbd9356512c4db6690b785a?mediaType=mp4)|928,916||18-25|france|
