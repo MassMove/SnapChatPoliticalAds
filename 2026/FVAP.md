@@ -1,11 +1,11 @@
 ## 2026 - FVAP 
-**Spent**: 9,522.00
+**Spent**: 9,720.00
 
-**Impressions**: 715,694
+**Impressions**: 738,415
 
 **Billing Addresses**: 701 N Westshore Blvd #200,Tampa,33609,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|FVAP: Federal Voting Assistance Program|5,123.00 USD|[0](https://www.snap.com/political-ads/asset/96439beec25ce4a7dea40fd1e417c605eb6bf1cf112002559ebfd58dd36eaa88?mediaType=mp4)|449,898||18-29|united states|
+|FVAP: Federal Voting Assistance Program|5,321.00 USD|[0](https://www.snap.com/political-ads/asset/96439beec25ce4a7dea40fd1e417c605eb6bf1cf112002559ebfd58dd36eaa88?mediaType=mp4)|472,619||18-29|united states|
 |FVAP: Federal Voting Assistance Program|4,399.00 USD|[1](https://www.snap.com/political-ads/asset/20be47197087c8ccf2f840e8912922d4b69925b5f7aaaa8f7593d2148582fd05?mediaType=png)|265,796||18-29|united states|
