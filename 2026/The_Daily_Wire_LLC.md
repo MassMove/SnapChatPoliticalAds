@@ -1,7 +1,7 @@
 ## 2026 - The Daily Wire LLC 
-**Spent**: 139,957.00
+**Spent**: 140,159.00
 
-**Impressions**: 12,080,237
+**Impressions**: 12,107,343
 
 **Billing Addresses**: 1821 12th Avenue South, Suite 460,Nashville,37203,US
 
@@ -39,20 +39,20 @@
 |The Daily Wire LLC|1,288.00 USD|[29](https://www.snap.com/political-ads/asset/d522064b6e56fdfb18d4fc5f17e1725dc76aeeb8ce978d4cfeeef6a285ea5c45?mediaType=mp4)|105,708|MALE|25+|united states|
 |The Daily Wire LLC|1,360.00 USD|[30](https://www.snap.com/political-ads/asset/44c08cad4c9b279b92826b91629b372c7988e1466c432ea938e3a89de1a38fa6?mediaType=png)|104,937||18+|united states|
 |The Daily Wire LLC|936.00 USD|[31](https://www.snap.com/political-ads/asset/513bf372d5f61838728d890546292dd15a2c12be2d632d7b575df065c718c899?mediaType=mp4)|94,353||18+|united states|
-|The Daily Wire LLC|857.00 USD|[32](https://www.snap.com/political-ads/asset/09df723f01650d3df0843a55b7ddf45c3c7169463cbf304e49e5a77e3900a4d0?mediaType=png)|88,011||18+|united states|
-|The Daily Wire LLC|1,240.00 USD|[33](https://www.snap.com/political-ads/asset/6289bb8987a140f326966b5c827494e9f77c7d5d6b39d446102702c853d0b148?mediaType=mp4)|86,258||18+|united states|
-|The Daily Wire LLC|930.00 USD|[34](https://www.snap.com/political-ads/asset/a6ff472980095d593359aa723e38709a3984d396587a4b899aaa43beedba4cfd?mediaType=mp4)|85,642||18+|united states|
-|The Daily Wire LLC|983.00 USD|[35](https://www.snap.com/political-ads/asset/f96a4525061fa9af32e27c041b41ff15cfb5ef189c43293f06d20e2f83f57df0?mediaType=mp4)|83,827||18+|united states|
-|The Daily Wire LLC|1,608.00 USD|[36](https://www.snap.com/political-ads/asset/1dd8edd6cfa6c93b52da626a5bb451d188bd62e5ef0bd7d99c1635051fbe0a73?mediaType=png)|81,826||18+|united states|
-|The Daily Wire LLC|1,158.00 USD|[37](https://www.snap.com/political-ads/asset/afd2bcf9476b8dd71bac5106e70f8ebadb35c0088eae7f8803ac92482f4de6ed?mediaType=mp4)|79,758||18+|united states|
-|The Daily Wire LLC|450.00 USD|[38](https://www.snap.com/political-ads/asset/e5979e30cc1eb78ef62342f5c576f4f771e11b8f4076fbe7ab627af7e4920cca?mediaType=png)|79,602||18+|united states|
-|The Daily Wire LLC|1,211.00 USD|[39](https://www.snap.com/political-ads/asset/7cfda1c25f1907a5bc68834fa1bf7cf7bc7c846e10a18e7ac30e3f88f9c23048?mediaType=mp4)|77,157|MALE|25+|united states|
-|The Daily Wire LLC|893.00 USD|[40](https://www.snap.com/political-ads/asset/fa31540b26a356cc4c0f903e4ddf7c5cd00391d83149c2da981508abf99133d2?mediaType=png)|74,111||18+|united states|
-|The Daily Wire LLC|850.00 USD|[41](https://www.snap.com/political-ads/asset/5d869cfd195204b53bab9c9172db2a45ae1b414c1bbcf910a5f1f3953f5199e3?mediaType=png)|73,830||18+|united states|
-|The Daily Wire LLC|1,002.00 USD|[42](https://www.snap.com/political-ads/asset/dfc71fce1ec1bdd1519d4ed816ecfa34bf334bd63bb52d0a6a3a7da1ea973aee?mediaType=mp4)|69,114|MALE|25+|united states|
-|The Daily Wire LLC|715.00 USD|[43](https://www.snap.com/political-ads/asset/d30b7f34cbad2edafba9876acb6160dac2bf0cc23abcd66bb433d50256125f24?mediaType=png)|64,368||21+|united states|
-|The Daily Wire LLC|1,083.00 USD|[44](https://www.snap.com/political-ads/asset/4b48e1219a108dcb40abeff681e608d950c1392b21ae175e29285e3c44290d0a?mediaType=png)|63,256||18+|united states|
-|The Daily Wire LLC|592.00 USD|[45](https://www.snap.com/political-ads/asset/341458bfc4bea1f56fa8215ed0e2cecc324e8f46c3659c2ead34e6d9f340c38c?mediaType=mp4)|61,840||25+|united states|
+|The Daily Wire LLC|794.00 USD|[32](https://www.snap.com/political-ads/asset/341458bfc4bea1f56fa8215ed0e2cecc324e8f46c3659c2ead34e6d9f340c38c?mediaType=mp4)|88,946||25+|united states|
+|The Daily Wire LLC|857.00 USD|[33](https://www.snap.com/political-ads/asset/09df723f01650d3df0843a55b7ddf45c3c7169463cbf304e49e5a77e3900a4d0?mediaType=png)|88,011||18+|united states|
+|The Daily Wire LLC|1,240.00 USD|[34](https://www.snap.com/political-ads/asset/6289bb8987a140f326966b5c827494e9f77c7d5d6b39d446102702c853d0b148?mediaType=mp4)|86,258||18+|united states|
+|The Daily Wire LLC|930.00 USD|[35](https://www.snap.com/political-ads/asset/a6ff472980095d593359aa723e38709a3984d396587a4b899aaa43beedba4cfd?mediaType=mp4)|85,642||18+|united states|
+|The Daily Wire LLC|983.00 USD|[36](https://www.snap.com/political-ads/asset/f96a4525061fa9af32e27c041b41ff15cfb5ef189c43293f06d20e2f83f57df0?mediaType=mp4)|83,827||18+|united states|
+|The Daily Wire LLC|1,608.00 USD|[37](https://www.snap.com/political-ads/asset/1dd8edd6cfa6c93b52da626a5bb451d188bd62e5ef0bd7d99c1635051fbe0a73?mediaType=png)|81,826||18+|united states|
+|The Daily Wire LLC|1,158.00 USD|[38](https://www.snap.com/political-ads/asset/afd2bcf9476b8dd71bac5106e70f8ebadb35c0088eae7f8803ac92482f4de6ed?mediaType=mp4)|79,758||18+|united states|
+|The Daily Wire LLC|450.00 USD|[39](https://www.snap.com/political-ads/asset/e5979e30cc1eb78ef62342f5c576f4f771e11b8f4076fbe7ab627af7e4920cca?mediaType=png)|79,602||18+|united states|
+|The Daily Wire LLC|1,211.00 USD|[40](https://www.snap.com/political-ads/asset/7cfda1c25f1907a5bc68834fa1bf7cf7bc7c846e10a18e7ac30e3f88f9c23048?mediaType=mp4)|77,157|MALE|25+|united states|
+|The Daily Wire LLC|893.00 USD|[41](https://www.snap.com/political-ads/asset/fa31540b26a356cc4c0f903e4ddf7c5cd00391d83149c2da981508abf99133d2?mediaType=png)|74,111||18+|united states|
+|The Daily Wire LLC|850.00 USD|[42](https://www.snap.com/political-ads/asset/5d869cfd195204b53bab9c9172db2a45ae1b414c1bbcf910a5f1f3953f5199e3?mediaType=png)|73,830||18+|united states|
+|The Daily Wire LLC|1,002.00 USD|[43](https://www.snap.com/political-ads/asset/dfc71fce1ec1bdd1519d4ed816ecfa34bf334bd63bb52d0a6a3a7da1ea973aee?mediaType=mp4)|69,114|MALE|25+|united states|
+|The Daily Wire LLC|715.00 USD|[44](https://www.snap.com/political-ads/asset/d30b7f34cbad2edafba9876acb6160dac2bf0cc23abcd66bb433d50256125f24?mediaType=png)|64,368||21+|united states|
+|The Daily Wire LLC|1,083.00 USD|[45](https://www.snap.com/political-ads/asset/4b48e1219a108dcb40abeff681e608d950c1392b21ae175e29285e3c44290d0a?mediaType=png)|63,256||18+|united states|
 |The Daily Wire LLC|1,649.00 USD|[46](https://www.snap.com/political-ads/asset/149521e3158c46be4c08a37348958a2d8657bb707b9d6352178f0aa52edc6eb2?mediaType=mp4)|56,988||35+|united states|
 |The Daily Wire LLC|575.00 USD|[47](https://www.snap.com/political-ads/asset/b5dd58c8ec4fc421cdd080145a047a8b5ed3d77093c47dd76aeccb696a63b0cb?mediaType=mp4)|56,206||18+|united states|
 |The Daily Wire LLC|759.00 USD|[48](https://www.snap.com/political-ads/asset/e60118fccabe45d34597f8ffe8b3517d7db234f9a7dbece10e987f06ea910fb1?mediaType=mp4)|55,151||18+|united states|
