@@ -1,10 +1,10 @@
 ## 2026 - Informed Choice of Iowa Corp 
-**Spent**: 1,948.00
+**Spent**: 1,964.00
 
-**Impressions**: 246,139
+**Impressions**: 248,436
 
 **Billing Addresses**: 821 SOUTH GILBERT ST,IOWA CITY,52240,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Informed Choices Medical Clinics|1,948.00 USD|[0](https://www.snap.com/political-ads/asset/ac93a9aba8dd0dee0709c4a83ecc50884d8da55eb60bedf7bdf0573e484094a2?mediaType=mp4)|246,139|FEMALE|29-|united states|
+|Informed Choices Medical Clinics|1,964.00 USD|[0](https://www.snap.com/political-ads/asset/ac93a9aba8dd0dee0709c4a83ecc50884d8da55eb60bedf7bdf0573e484094a2?mediaType=mp4)|248,436|FEMALE|29-|united states|

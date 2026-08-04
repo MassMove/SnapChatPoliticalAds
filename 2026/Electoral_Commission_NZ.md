@@ -1,7 +1,7 @@
 ## 2026 - Electoral Commission NZ 
-**Spent**: 14,781.00
+**Spent**: 15,132.00
 
-**Impressions**: 12,305,587
+**Impressions**: 12,510,776
 
 **Billing Addresses**: Level 2, 36 Lorne Street,Auckland CBD,1010,NZ
 
@@ -9,6 +9,6 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |VMLY&R|3,998.00 NZD|[0](https://www.snap.com/political-ads/asset/1a6f20451169e51e4563e4be1701fff06c77a922401c9f4591b003f09996f9c5?mediaType=mp4)|4,056,952||18+|new zealand|
 |VMLY&R|4,000.00 NZD|[1](https://www.snap.com/political-ads/asset/2408654091fb07f9dedc242b3b619b245f413bec7ad5a5a7c1f92df03ad46185?mediaType=mp4)|3,008,610||18+|new zealand|
-|VMLY&R|3,486.00 NZD|[2](https://www.snap.com/political-ads/asset/558604d358bcff868b003790b4d1d44f36d0f6e9dc487160af3a2c67d88aa2ff?mediaType=mp4)|2,683,992||18+|new zealand|
-|VMLY&R|3,098.00 NZD|[3](https://www.snap.com/political-ads/asset/d14ce66bbb1fbe39ea66cb4760fc80b690327144ef11d3514053b7ac3140e890?mediaType=mp4)|2,500,627||18+|new zealand|
-|VMLY&R|199.00 NZD|[4](https://www.snap.com/political-ads/asset/497e520c3b15d19b5459bf44866d82cbc4a7d5300e52d26e93e4c8c73b7e9842?mediaType=mp4)|55,406||16-24|new zealand|
+|VMLY&R|3,697.00 NZD|[2](https://www.snap.com/political-ads/asset/558604d358bcff868b003790b4d1d44f36d0f6e9dc487160af3a2c67d88aa2ff?mediaType=mp4)|2,844,503||18+|new zealand|
+|VMLY&R|3,113.00 NZD|[3](https://www.snap.com/political-ads/asset/d14ce66bbb1fbe39ea66cb4760fc80b690327144ef11d3514053b7ac3140e890?mediaType=mp4)|2,514,366||18+|new zealand|
+|VMLY&R|324.00 NZD|[4](https://www.snap.com/political-ads/asset/497e520c3b15d19b5459bf44866d82cbc4a7d5300e52d26e93e4c8c73b7e9842?mediaType=mp4)|86,345||16-24|new zealand|

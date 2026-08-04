@@ -1,17 +1,17 @@
 ## 2024 - A New Generation 
-**Spent**: 8,305.00
+**Spent**: 8,319.00
 
-**Impressions**: 1,126,986
+**Impressions**: 1,129,671
 
 **Billing Addresses**: 3027 Landover Blvd,Spring Hill,34608,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|A New Generation|1,573.00 USD|[0](https://www.snap.com/political-ads/asset/f6eeffeda68386bcd9aed7fc3951efcbf10be3bce3396a58da567603d913f06b?mediaType=png)|226,260|FEMALE|30-|united states|
-|A New Generation|1,617.00 USD|[1](https://www.snap.com/political-ads/asset/199e5eb61b3ca4f359be4147881b9606399712390536989070cec670645b0f87?mediaType=png)|207,771|FEMALE|30-|united states|
-|A New Generation|1,154.00 USD|[2](https://www.snap.com/political-ads/asset/4cc94376e16359bac4a94f22cd91b58ec462727f9a712e7995f5d96fdebfa8ba?mediaType=png)|169,109|FEMALE|30-|united states|
-|A New Generation|1,388.00 USD|[3](https://www.snap.com/political-ads/asset/a19f5cd335809e4dd6010b23986f86daa5c41001ac81470e82c224249124175e?mediaType=png)|155,121|FEMALE|30-|united states|
-|A New Generation|831.00 USD|[4](https://www.snap.com/political-ads/asset/199e5eb61b3ca4f359be4147881b9606399712390536989070cec670645b0f87?mediaType=png)|123,243|FEMALE|30-|united states|
-|A New Generation|805.00 USD|[5](https://www.snap.com/political-ads/asset/f7f96352e6c35cd3f93515b4a5b4769a8dd3f6f9b7a0a713008ebce287e8da14?mediaType=png)|114,372|FEMALE|30-|united states|
-|A New Generation|428.00 USD|[6](https://www.snap.com/political-ads/asset/8bc56cb8e0c7d02f20181acea55395e64046344d75dab6075afaee4c55b33745?mediaType=png)|68,223|FEMALE|30-|united states|
-|A New Generation|509.00 USD|[7](https://www.snap.com/political-ads/asset/b7f8f863a63b32e37dba5a43d74f3eaf29a1ca20fa0359ed6714c2e58dca35d5?mediaType=png)|62,887|FEMALE|30-|united states|
+|A New Generation|1,584.00 USD|[0](https://www.snap.com/political-ads/asset/f6eeffeda68386bcd9aed7fc3951efcbf10be3bce3396a58da567603d913f06b?mediaType=png)|228,363|FEMALE|30-|united states|
+|A New Generation|1,617.00 USD|[1](https://www.snap.com/political-ads/asset/199e5eb61b3ca4f359be4147881b9606399712390536989070cec670645b0f87?mediaType=png)|207,816|FEMALE|30-|united states|
+|A New Generation|1,155.00 USD|[2](https://www.snap.com/political-ads/asset/4cc94376e16359bac4a94f22cd91b58ec462727f9a712e7995f5d96fdebfa8ba?mediaType=png)|169,277|FEMALE|30-|united states|
+|A New Generation|1,390.00 USD|[3](https://www.snap.com/political-ads/asset/a19f5cd335809e4dd6010b23986f86daa5c41001ac81470e82c224249124175e?mediaType=png)|155,301|FEMALE|30-|united states|
+|A New Generation|831.00 USD|[4](https://www.snap.com/political-ads/asset/199e5eb61b3ca4f359be4147881b9606399712390536989070cec670645b0f87?mediaType=png)|123,259|FEMALE|30-|united states|
+|A New Generation|805.00 USD|[5](https://www.snap.com/political-ads/asset/f7f96352e6c35cd3f93515b4a5b4769a8dd3f6f9b7a0a713008ebce287e8da14?mediaType=png)|114,412|FEMALE|30-|united states|
+|A New Generation|428.00 USD|[6](https://www.snap.com/political-ads/asset/8bc56cb8e0c7d02f20181acea55395e64046344d75dab6075afaee4c55b33745?mediaType=png)|68,278|FEMALE|30-|united states|
+|A New Generation|509.00 USD|[7](https://www.snap.com/political-ads/asset/b7f8f863a63b32e37dba5a43d74f3eaf29a1ca20fa0359ed6714c2e58dca35d5?mediaType=png)|62,965|FEMALE|30-|united states|
