@@ -3,7 +3,7 @@
 
 **Impressions**: 464,723
 
-**Billing Addresses**: Konepajankuja 1,Helsinki,00530,FI
+**Billing Addresses**: Sturenkatu 2a,Helsinki,00530,FI
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|

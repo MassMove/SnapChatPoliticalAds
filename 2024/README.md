@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|579,620.00 EUR|311,495,950||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|579,753.00 EUR|311,572,348||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -219,7 +219,7 @@
 |[Send The Vote](Send_The_Vote.md) - Daily Mail|6,497.00 USD|1,176,352||18+|united states|
 |[Moving Montana Forward](Moving_Montana_Forward.md) - Navigate Campaigns|5,998.00 USD|1,163,112||18-39|united states|
 |[MedGlobal](MedGlobal.md) - MedGlobal|17,833.00 USD|1,152,634||18+, 21+, 22+, 23+|canada, united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,319.00 USD|1,129,671|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,334.00 USD|1,132,262|FEMALE|30-|united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Commonwealth Communications: People Power Pennsylvania|26,392.00 USD|1,115,184||18-25, 18-30|united states|
 |[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap|91,999.00 NOK|1,097,738||18+|norway|
 |[Mercy Corps](Mercy_Corps.md) - Blue State Digital|33,161.00 USD|1,072,949||18+, 25+|united states|
