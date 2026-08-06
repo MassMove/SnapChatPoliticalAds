@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[truth](truth.md) - Assembly|1,707,011.00 USD|928,876,631||15-17, 18-24, 24-|united states|
-|[Biden for President](Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,751,772.00 USD|722,208,691||17-24, 17-27, 18+, 18-24, 18-34, 18-49|united states|
+|[Biden for President](Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,751,924.00 USD|722,271,015||17-24, 17-27, 18+, 18-24, 18-34, 18-49|united states|
 |[Albbiom Marketing LLC](Albbiom_Marketing_LLC.md) - Marud Khan: Donal Trump, Donald Trump, Donald Trunp, PRESIDENT TRUMP, President Trump|418,028.00 USD|435,191,562|FEMALE, MALE|18+, 20+, 21+, 22+|united states|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|1,037,149.00 USD|261,986,265||18-34, 24-38|united states|
 |[Voter Participation Center](Voter_Participation_Center.md) - C+K: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18+, 18-40, 18-45|united states|
@@ -60,8 +60,8 @@
 |[Vote Yes For Fairness](Vote_Yes_For_Fairness.md) - GMMB  Inc: Vote Yes For Fairness|59,213.00 USD|16,189,608||18-34|united states|
 |[Donald J. Trump For President](Donald_J._Trump_For_President.md) - Realtime Media: Donald J Trump for President|211,358.00 USD|15,729,551||18+|united states|
 |[Hickenlooper for Colorado](Hickenlooper_for_Colorado.md) - Precision [TEST]: John Hickenlooper|57,955.00 USD|15,577,797||18-34|united states|
+|[The Collective PAC](The_Collective_PAC.md) - Hawkfish LLC: Collective PAC|103,636.00 USD|15,112,237||18+, 18-30|united states|
 |[HCA](HCA.md) - Desautel Hege|49,927.00 USD|15,084,976||18-24|united states|
-|[The Collective PAC](The_Collective_PAC.md) - Hawkfish LLC: Collective PAC|103,121.00 USD|15,045,471||18+, 18-30|united states|
 |[Resources Legacy Fund](Resources_Legacy_Fund.md) - Precision [TEST]|85,420.00 USD|14,397,375||18+, 21+, 25+|united states|
 |[Florida Watch](Florida_Watch.md) - The New Media Firm: Florida Watch|96,418.00 USD|14,268,624||18+|united states|
 |[Bundespolizei](Bundespolizei.md) - iProspect GmbH|20,000.00 EUR|14,266,618||18-35|germany|

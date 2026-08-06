@@ -16,7 +16,7 @@
 |[Electoral Commission](Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||16-17, 18-34|united kingdom|
 |[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
-|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,388,075.00 NOK|19,720,799||18+, 18-22, 18-29, 18-30, 18-40, 18-45, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
+|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||18+, 18-22, 18-29, 18-30, 18-40, 18-45, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
 |[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 EUR, USD|19,188,668||18+, 18-34, 18-35, 18-44, 21+|germany, italy, netherlands, united kingdom, united states|
 |[Dove](Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
@@ -339,13 +339,13 @@
 |[Building Back Together](Building_Back_Together.md) - Building Back Together|93.00 USD|41,327|||united states|
 |[Friends of Irene Shin](Friends_of_Irene_Shin.md) - Run the World Digital: Irene Shin for Delegate|604.00 USD|40,877|FEMALE|25+|united states|
 |[Ohio Citizen Action](Ohio_Citizen_Action.md) - Ohio Citizen Action|248.00 USD|38,858||18+|united states|
+|[350.org](350.org.md) - Middle Seat Consulting  LLC|274.00 USD|38,664||25+|united states|
 |[Ikoyi - Obalende LCDA](Ikoyi_-_Obalende_LCDA.md) - La Vida Brand Exhibition: Fuad Atanda Lawal|28.00 USD|37,440||20+|nigeria|
 |[Nicole Beatty](Nicole_Beatty.md) - AdSkope: Nicole Beatty|41.00 CAD|36,420||19+|canada|
 |[Official Agent for Connie Cody](Official_Agent_for_Connie_Cody.md) - Connie Cody|199.00 CAD|35,857||18+|canada|
 |[Sami Al-Khafaji](Sami_Al-Khafaji.md) - Sami Al-Khafaji: Sami Al Khafaji|59.00 EUR|35,564||18-28|finland|
 |[Progress Michigan](Progress_Michigan.md) - The New Media Firm: Progress Michigan|103.00 USD|33,684||18+|united states|
 |[Arizona Democratic Party](Arizona_Democratic_Party.md) - Run the World Digital: Arizona Democratic Party|390.00 USD|33,581||35+|united states|
-|[350.org](350.org.md) - Middle Seat Consulting  LLC|244.00 USD|33,097||25+|united states|
 |[Don Huffines Campaign](Don_Huffines_Campaign.md) - Huffines Campaign: Don Huffines|388.00 USD|32,766|||united states|
 |[Friends of Tony Moreno](Friends_of_Tony_Moreno.md) - Real Steel Mayor: Tony Moreno for Pittsburgh Mayor|160.00 USD|28,034||18+|united states|
 |[Abram Benedict](Abram_Benedict.md) - Abram Benedict: Abram Benedict|141.00 CAD|26,855||18+|canada|
