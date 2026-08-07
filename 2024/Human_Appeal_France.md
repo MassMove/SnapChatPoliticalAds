@@ -1,7 +1,7 @@
 ## 2024 - Human Appeal France 
-**Spent**: 579,992.00
+**Spent**: 580,201.00
 
-**Impressions**: 311,718,282
+**Impressions**: 311,842,554
 
 **Billing Addresses**: 72 rue d'hauteville,PARIS,75010,FR
 
@@ -38,14 +38,14 @@
 |ORIXA MEDIA|4,091.00 EUR|[28](https://www.snap.com/political-ads/asset/e9c32b51a4f07b940c0fc21207b7ce8265aaa8dc1ce68b4df28bb3d3b10bc1f4?mediaType=mp4)|2,532,717||18+|france|
 |ORIXA MEDIA|10,235.00 EUR|[29](https://www.snap.com/political-ads/asset/0fd26101c756bb4a859354fd4fc1fa4dab3a3474e342b108492eabea0b3503f3?mediaType=mp4)|2,331,684||18+|france|
 |ORIXA MEDIA|3,401.00 EUR|[30](https://www.snap.com/political-ads/asset/1172f21265bbc61e735eac0547c90e08b7e574ef6f7ac9ffbd40e4c69ccadc0b?mediaType=mp4)|2,019,700||18+|france|
-|ORIXA MEDIA|2,628.00 EUR|[31](https://www.snap.com/political-ads/asset/677de7558a9a55e6344135b3fd8d58a684aa57f53278394444e601258c4e47fb?mediaType=mp4)|1,660,232||18+|france|
+|ORIXA MEDIA|2,741.00 EUR|[31](https://www.snap.com/political-ads/asset/677de7558a9a55e6344135b3fd8d58a684aa57f53278394444e601258c4e47fb?mediaType=mp4)|1,744,612||18+|france|
 |ORIXA MEDIA|3,379.00 EUR|[32](https://www.snap.com/political-ads/asset/00536caffd5cc444e9d1b1f29859b37ec722c3a5161e4c7cee262861880671f2?mediaType=mp4)|1,617,836||18+|france|
 |ORIXA MEDIA|3,000.00 EUR|[33](https://www.snap.com/political-ads/asset/2bd24d9de5ca5a16a0d83557cf75c36458268eb597e989c2e90bcb0adfb28e0c?mediaType=mp4)|1,565,159||18+|france|
 |ORIXA MEDIA|2,758.00 EUR|[34](https://www.snap.com/political-ads/asset/2bd24d9de5ca5a16a0d83557cf75c36458268eb597e989c2e90bcb0adfb28e0c?mediaType=mp4)|1,531,051||18+|france|
 |ORIXA MEDIA|3,801.00 EUR|[35](https://www.snap.com/political-ads/asset/d06b0737fbf37728054cd67e4144c3d6c200bddf6c7a3414df7fcdb78b91679a?mediaType=mp4)|1,520,155||18+|france|
 |ORIXA MEDIA|2,470.00 EUR|[36](https://www.snap.com/political-ads/asset/4b5066988e0e4659e38ad2ecebffa8c565d016b6d1e84b2e57263b5d6a7fe111?mediaType=mp4)|1,334,668||18+|france|
 |ORIXA MEDIA|2,654.00 EUR|[37](https://www.snap.com/political-ads/asset/3c4a7015a48396e6ee4b4b42c28993f2782edf580ac5ed38c2990e70515252a0?mediaType=mp4)|1,329,656||18+|france|
-|ORIXA MEDIA|2,174.00 EUR|[38](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|1,301,183||18+|france|
+|ORIXA MEDIA|2,209.00 EUR|[38](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|1,318,069||18+|france|
 |ORIXA MEDIA|2,149.00 EUR|[39](https://www.snap.com/political-ads/asset/00536caffd5cc444e9d1b1f29859b37ec722c3a5161e4c7cee262861880671f2?mediaType=mp4)|1,254,304||18+|france|
 |ORIXA MEDIA|4,821.00 EUR|[40](https://www.snap.com/political-ads/asset/4cac4f435b81f2cd2a3d40e6fb2389d5606785c5a9469d266cf5d8a27d331b77?mediaType=mp4)|1,251,369||18+|france|
 |ORIXA MEDIA|2,288.00 EUR|[41](https://www.snap.com/political-ads/asset/d06b0737fbf37728054cd67e4144c3d6c200bddf6c7a3414df7fcdb78b91679a?mediaType=mp4)|1,134,002||18+|france|
@@ -53,8 +53,8 @@
 |ORIXA MEDIA|1,890.00 EUR|[43](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|1,105,671||18+|france|
 |ORIXA MEDIA|1,843.00 EUR|[44](https://www.snap.com/political-ads/asset/250e686b7ad7504f73af0ebd758919e23b72e015a22abbd362e8c25729004c85?mediaType=mp4)|1,063,376||18+|france|
 |ORIXA MEDIA|1,757.00 EUR|[45](https://www.snap.com/political-ads/asset/4b5066988e0e4659e38ad2ecebffa8c565d016b6d1e84b2e57263b5d6a7fe111?mediaType=mp4)|926,828||18+|france|
-|ORIXA MEDIA|1,851.00 EUR|[46](https://www.snap.com/political-ads/asset/d06b0737fbf37728054cd67e4144c3d6c200bddf6c7a3414df7fcdb78b91679a?mediaType=mp4)|916,618||18+|france|
-|ORIXA MEDIA|1,587.00 EUR|[47](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|907,844||18+|france|
+|ORIXA MEDIA|1,619.00 EUR|[46](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|924,418||18+|france|
+|ORIXA MEDIA|1,851.00 EUR|[47](https://www.snap.com/political-ads/asset/d06b0737fbf37728054cd67e4144c3d6c200bddf6c7a3414df7fcdb78b91679a?mediaType=mp4)|916,618||18+|france|
 |ORIXA MEDIA|1,511.00 EUR|[48](https://www.snap.com/political-ads/asset/4b5066988e0e4659e38ad2ecebffa8c565d016b6d1e84b2e57263b5d6a7fe111?mediaType=mp4)|840,247||18+|france|
 |ORIXA MEDIA|1,669.00 EUR|[49](https://www.snap.com/political-ads/asset/212210963cc46b2ace6eb78a6c6167dbd71dc7b3f325344e9fefe43ff4074d4f?mediaType=mp4)|823,959||18+|france|
 |ORIXA MEDIA|1,467.00 EUR|[50](https://www.snap.com/political-ads/asset/5f3c56185cea5ce66eb3735f7559b158f9be4290ed353c7c9d41857f2ba068d5?mediaType=mp4)|790,990||18+|france|
@@ -102,13 +102,13 @@
 |ORIXA MEDIA|354.00 EUR|[92](https://www.snap.com/political-ads/asset/6f7a2ac8e851f1af074c260052c63e73819d4351c427b21fcf0a379acbf4a456?mediaType=mp4)|190,837||18+|france|
 |ORIXA MEDIA|357.00 EUR|[93](https://www.snap.com/political-ads/asset/dcd9eb94688f39a785bc95e0495293c328c2c48a36a5b2f516a9e97959f11935?mediaType=mp4)|189,316||18+|france|
 |ORIXA MEDIA|295.00 EUR|[94](https://www.snap.com/political-ads/asset/b3270473b7550f3061ecb7b8bc2ac076b9df1f2170492a0fecb699a87de5bd8b?mediaType=mp4)|183,354||18+|france|
-|ORIXA MEDIA|609.00 EUR|[95](https://www.snap.com/political-ads/asset/677de7558a9a55e6344135b3fd8d58a684aa57f53278394444e601258c4e47fb?mediaType=mp4)|169,549||18+|france|
+|ORIXA MEDIA|622.00 EUR|[95](https://www.snap.com/political-ads/asset/677de7558a9a55e6344135b3fd8d58a684aa57f53278394444e601258c4e47fb?mediaType=mp4)|172,693||18+|france|
 |ORIXA MEDIA|263.00 EUR|[96](https://www.snap.com/political-ads/asset/d1810fecf12f0f18ab74a4b6495462430b58f394aa5277797990a9ad607e6387?mediaType=mp4)|153,953||18+|france|
 |ORIXA MEDIA|379.00 EUR|[97](https://www.snap.com/political-ads/asset/2a76757766c73c9d5c7a3d2a7dcc7d13945cdc73e0ca53c64320cf7c9e04c5c6?mediaType=mp4)|141,283||18+|france|
 |ORIXA MEDIA|259.00 EUR|[98](https://www.snap.com/political-ads/asset/89fa2cc1817b2481e43b6a93c7d539f4d0d6435ce28e5f2b1b822b0294ae7564?mediaType=mp4)|140,473||18+|france|
 |ORIXA MEDIA|232.00 EUR|[99](https://www.snap.com/political-ads/asset/9458778f9046b995fd9565de6de11d35f27c9e2e79fc75b7e64acdb97edd0887?mediaType=mp4)|134,115||18+|france|
 |ORIXA MEDIA|227.00 EUR|[100](https://www.snap.com/political-ads/asset/93f13cd6bd5bef6a8eb5a241ee0a3c9521e132cfe764f99626dd966f4c9dd454?mediaType=mp4)|130,686||18+|france|
-|ORIXA MEDIA|388.00 EUR|[101](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|109,590||18+|france|
+|ORIXA MEDIA|404.00 EUR|[101](https://www.snap.com/political-ads/asset/6440cb863d1c389c81e171856af8f3f31c94724b4a5fff00731a5ee329ba5deb?mediaType=mp4)|112,878||18+|france|
 |ORIXA MEDIA|200.00 EUR|[102](https://www.snap.com/political-ads/asset/e6156d45335cb80e2d82246ca953518e4ad7fa9adcf5d0c05e694962c0c96552?mediaType=mp4)|106,282||18+|france|
 |ORIXA MEDIA|222.00 EUR|[103](https://www.snap.com/political-ads/asset/d3d5fd7e4f8bab2b952e868a408e0b53c0175ec667bbf0e12731fdd18d47dbb6?mediaType=mp4)|103,178||18+|france|
 |ORIXA MEDIA|198.00 EUR|[104](https://www.snap.com/political-ads/asset/9458778f9046b995fd9565de6de11d35f27c9e2e79fc75b7e64acdb97edd0887?mediaType=mp4)|103,013||18+|france|

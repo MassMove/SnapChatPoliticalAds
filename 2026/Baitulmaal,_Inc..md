@@ -1,26 +1,26 @@
 ## 2026 - Baitulmaal, Inc. 
-**Spent**: 9,404.00
+**Spent**: 9,441.00
 
-**Impressions**: 523,435
+**Impressions**: 525,659
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Baitulmaal  Inc.|2,301.00 USD|[0](https://www.snap.com/political-ads/asset/f5d9b9aa00475bdeabb6965e8d8424b277bb3879c5f658a71846d724232d77ec?mediaType=mp4)|137,058||18+|united states|
-|Baitulmaal  Inc.|1,708.00 USD|[1](https://www.snap.com/political-ads/asset/2e7b6e997e3ee77ad3a8ea9a553e6a41f7f86e7aecb229d66ab5827ba74aafbf?mediaType=mp4)|106,759||18+|united states|
-|Baitulmaal  Inc.|489.00 USD|[2](https://www.snap.com/political-ads/asset/350c6fa583e5f0f97fc83d23531cedba29a469c0f65fe4f5ec7c719b1de9c184?mediaType=mp4)|36,935||18+|united states|
+|Baitulmaal  Inc.|1,722.00 USD|[1](https://www.snap.com/political-ads/asset/2e7b6e997e3ee77ad3a8ea9a553e6a41f7f86e7aecb229d66ab5827ba74aafbf?mediaType=mp4)|107,633||18+|united states|
+|Baitulmaal  Inc.|498.00 USD|[2](https://www.snap.com/political-ads/asset/350c6fa583e5f0f97fc83d23531cedba29a469c0f65fe4f5ec7c719b1de9c184?mediaType=mp4)|37,491||18+|united states|
 |Baitulmaal  Inc.|310.00 USD|[3](https://www.snap.com/political-ads/asset/619ca7639cb9f4fe3ee20669139a6b51a6c173b7c42f27e1fa1eb43c8879ff10?mediaType=mp4)|22,193||18+|united states|
 |Baitulmaal  Inc.|487.00 USD|[4](https://www.snap.com/political-ads/asset/79677568e2501a0b2258e242789108334b9c96ea21cdc7a7c81c817cc0baee53?mediaType=mp4)|21,953||18+|united states|
 |Baitulmaal  Inc.|311.00 USD|[5](https://www.snap.com/political-ads/asset/6cd0cb37e3d258c2df1487efd43ddb0b3a8de041f1fca1c60677bc00a4dd5ba4?mediaType=mp4)|16,572||18+|united states|
 |Baitulmaal  Inc.|183.00 USD|[6](https://www.snap.com/political-ads/asset/b5ffb8c63f5ed3e896367fab7665ba70d4ad03639ca47d36cd697cc2c15e0e9b?mediaType=png)|11,819||18+|united states|
 |Baitulmaal  Inc.|158.00 USD|[7](https://www.snap.com/political-ads/asset/09de084661825fdcdf63263d3c1c5943c145e38d08ad2726d50b078053875dd0?mediaType=mp4)|10,831||18+|united states|
 |Baitulmaal  Inc.|131.00 USD|[8](https://www.snap.com/political-ads/asset/c44f5d53b71d9a96f380d81b5c806cfa272b33435f8eac1c8ab7398b233fc2ee?mediaType=mp4)|9,626||18+|united states|
-|Baitulmaal  Inc.|147.00 USD|[9](https://www.snap.com/political-ads/asset/815e025896b88e7b88d5b33b0d6812187725ba69dbd46243a516dd41262d88de?mediaType=png)|6,594||18+|united states|
-|Baitulmaal  Inc.|72.00 USD|[10](https://www.snap.com/political-ads/asset/2dc8dc6bb0a88fd37df06b2f04a3fdc299bb00091101359b3e59dc2ae9b8d34d?mediaType=mp4)|6,264||18+|united states|
+|Baitulmaal  Inc.|81.00 USD|[9](https://www.snap.com/political-ads/asset/2dc8dc6bb0a88fd37df06b2f04a3fdc299bb00091101359b3e59dc2ae9b8d34d?mediaType=mp4)|6,705||18+|united states|
+|Baitulmaal  Inc.|147.00 USD|[10](https://www.snap.com/political-ads/asset/815e025896b88e7b88d5b33b0d6812187725ba69dbd46243a516dd41262d88de?mediaType=png)|6,594||18+|united states|
 |Baitulmaal  Inc.|124.00 USD|[11](https://www.snap.com/political-ads/asset/fcc3960a906a331d002e10c6829613fd05dddfc3f599c74724c934d209b3f06c?mediaType=png)|5,612||18+|united states|
-|Baitulmaal  Inc.|70.00 USD|[12](https://www.snap.com/political-ads/asset/971766acd2e9f0bdc9a4e056bb5d6969d479a267babe5557052f6a3016fec20a?mediaType=mp4)|5,219||18+|united states|
-|Baitulmaal  Inc.|54.00 USD|[13](https://www.snap.com/political-ads/asset/fad2efe4d75aabd08c6568c89a20d9b2adf80ac64ecf14ac3df2042cd5dcbb43?mediaType=mp4)|5,174||18+|united states|
+|Baitulmaal  Inc.|59.00 USD|[12](https://www.snap.com/political-ads/asset/fad2efe4d75aabd08c6568c89a20d9b2adf80ac64ecf14ac3df2042cd5dcbb43?mediaType=mp4)|5,527||18+|united states|
+|Baitulmaal  Inc.|70.00 USD|[13](https://www.snap.com/political-ads/asset/971766acd2e9f0bdc9a4e056bb5d6969d479a267babe5557052f6a3016fec20a?mediaType=mp4)|5,219||18+|united states|
 |Baitulmaal  Inc.|130.00 USD|[14](https://www.snap.com/political-ads/asset/53451e5eec0ea370e6c3332e9775e0cec29be5e6a346760b5e859592bc030238?mediaType=png)|4,833||18+|united states|
 |Baitulmaal  Inc.|108.00 USD|[15](https://www.snap.com/political-ads/asset/28486dba81a9d4ee86b5c9e326ddb090e4fd64793f5037994947d69a63eabca1?mediaType=png)|4,658||22+|united states|
 |Baitulmaal  Inc.|106.00 USD|[16](https://www.snap.com/political-ads/asset/eb74c2d8ffd2a572796cae317f6588b27e3d58adc1bb0580580018849e1d41d5?mediaType=png)|4,650||22+|united states|
