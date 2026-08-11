@@ -1,11 +1,11 @@
 ## 2026 - Affordable Pennsylvania 
-**Spent**: 721.00
+**Spent**: 740.00
 
-**Impressions**: 46,291
+**Impressions**: 47,743
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gambit Strategies|549.00 USD|[0](https://www.snap.com/political-ads/asset/83ffb6d61f37b7585b43a9e4eca8ab98e67810d70184496b8079c37ac3abdbe9?mediaType=png)|35,534||18+|united states|
+|Gambit Strategies|568.00 USD|[0](https://www.snap.com/political-ads/asset/83ffb6d61f37b7585b43a9e4eca8ab98e67810d70184496b8079c37ac3abdbe9?mediaType=png)|36,986||18+|united states|
 |Gambit Strategies|172.00 USD|[1](https://www.snap.com/political-ads/asset/9d2985a426c88eea24b864664d38752d5e65cbf1cf6fcb95651841a11081ee61?mediaType=png)|10,757||18+|united states|
