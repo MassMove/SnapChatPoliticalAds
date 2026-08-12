@@ -1,7 +1,7 @@
 ## 2026 - CareNet of Owensboro Kentucky 
-**Spent**: 825.00
+**Spent**: 837.00
 
-**Impressions**: 89,340
+**Impressions**: 90,524
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -25,8 +25,8 @@
 |Cornerstone Marketing Strategies  LLC|27.00 USD|[15](https://www.snap.com/political-ads/asset/f15045bde5d570446ca70af373d16605406c874132a753cdcc730772374e839e?mediaType=mp4)|2,477|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|25.00 USD|[16](https://www.snap.com/political-ads/asset/baf3888f3489f793f5993a1efe239a2f069272f4cc0e16a456cedea8564d2fbe?mediaType=mp4)|1,759|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|16.00 USD|[17](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|1,616|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|14.00 USD|[18](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|1,191|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|13.00 USD|[19](https://www.snap.com/political-ads/asset/a11fb6afc7dc97dc9fe15cb8de2a79f7097b4a04778e7126f98b49ae34fbde8a?mediaType=mp4)|1,043|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|6.00 USD|[20](https://www.snap.com/political-ads/asset/b9dd498a70b5974c04d6f7b223930bdbab56ad2f6914f50639e48511aeb3b9d3?mediaType=mp4)|679|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|5.00 USD|[21](https://www.snap.com/political-ads/asset/254584fb4e9b8d0226ea875ea70009a1e96f439fbab428dff3e173c73b400e7b?mediaType=mp4)|389|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|1.00 USD|[22](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|194|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|10.00 USD|[18](https://www.snap.com/political-ads/asset/b9dd498a70b5974c04d6f7b223930bdbab56ad2f6914f50639e48511aeb3b9d3?mediaType=mp4)|1,213|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|14.00 USD|[19](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|1,191|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|13.00 USD|[20](https://www.snap.com/political-ads/asset/a11fb6afc7dc97dc9fe15cb8de2a79f7097b4a04778e7126f98b49ae34fbde8a?mediaType=mp4)|1,043|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|10.00 USD|[21](https://www.snap.com/political-ads/asset/254584fb4e9b8d0226ea875ea70009a1e96f439fbab428dff3e173c73b400e7b?mediaType=mp4)|728|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|4.00 USD|[22](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|505|FEMALE|16-34|united states|
