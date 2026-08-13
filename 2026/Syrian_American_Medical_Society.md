@@ -1,7 +1,7 @@
 ## 2026 - Syrian American Medical Society 
-**Spent**: 1,321.00
+**Spent**: 1,335.00
 
-**Impressions**: 71,394
+**Impressions**: 72,441
 
 **Billing Addresses**: 1012 14th Street, NW Ste 910,Washington ,20005,US
 
@@ -19,11 +19,11 @@
 |Syrian American Medical Society|85.00 USD|[9](https://www.snap.com/political-ads/asset/b62468e4c43ba655df3b2b8e0566cfbc028e6e2268333e110fd00cefaf6c0ee2?mediaType=png)|3,250||22+|united states|
 |Syrian American Medical Society|53.00 USD|[10](https://www.snap.com/political-ads/asset/b00afca466e312b8d03bc3a302c0fdd0588ddf4b44df4f5bc52a306295a7ef79?mediaType=png)|1,945||22+|united states|
 |Syrian American Medical Society|22.00 USD|[11](https://www.snap.com/political-ads/asset/8c5877478021c28aaa89bcd2ef6ef7c5018cbe32e65a180a20d8154507e11407?mediaType=mp4)|1,690||18+|united states|
-|Syrian American Medical Society|13.00 USD|[12](https://www.snap.com/political-ads/asset/b8035ca3c0becced332f659ee83716bc66ddd4cc67e129446dea0e9e6587c26b?mediaType=png)|671||18+|united states|
-|Syrian American Medical Society|5.00 USD|[13](https://www.snap.com/political-ads/asset/1b047d1cc35b4decbe9d457f4f92c96bcb8bb3621c5064d3041afea5793dcae1?mediaType=png)|437||18+|united states|
-|Syrian American Medical Society|6.00 USD|[14](https://www.snap.com/political-ads/asset/5be16fba3e3629a141bddaf52d245b9763ac7bfb99d0a144bc36207dfc193faa?mediaType=png)|426||18+|united states|
-|Syrian American Medical Society|4.00 USD|[15](https://www.snap.com/political-ads/asset/ccdcee5d96113e35b477718282c9abe480aab35625b831858aa8b5ad10b9fc92?mediaType=png)|355||18+|united states|
-|Syrian American Medical Society|2.00 USD|[16](https://www.snap.com/political-ads/asset/e271ec0e2b22c945d84a0580d7cf3ddb8dc392c1e948602546b8249f20cc06d0?mediaType=png)|320||18+|united states|
+|Syrian American Medical Society|17.00 USD|[12](https://www.snap.com/political-ads/asset/b8035ca3c0becced332f659ee83716bc66ddd4cc67e129446dea0e9e6587c26b?mediaType=png)|1,007||18+|united states|
+|Syrian American Medical Society|9.00 USD|[13](https://www.snap.com/political-ads/asset/ccdcee5d96113e35b477718282c9abe480aab35625b831858aa8b5ad10b9fc92?mediaType=png)|696||18+|united states|
+|Syrian American Medical Society|8.00 USD|[14](https://www.snap.com/political-ads/asset/5be16fba3e3629a141bddaf52d245b9763ac7bfb99d0a144bc36207dfc193faa?mediaType=png)|584||18+|united states|
+|Syrian American Medical Society|4.00 USD|[15](https://www.snap.com/political-ads/asset/e271ec0e2b22c945d84a0580d7cf3ddb8dc392c1e948602546b8249f20cc06d0?mediaType=png)|456||18+|united states|
+|Syrian American Medical Society|5.00 USD|[16](https://www.snap.com/political-ads/asset/1b047d1cc35b4decbe9d457f4f92c96bcb8bb3621c5064d3041afea5793dcae1?mediaType=png)|437||18+|united states|
 |Syrian American Medical Society|3.00 USD|[17](https://www.snap.com/political-ads/asset/d1b7e5c215990f33845a9f5b872160dde995a27c88e2b50726cdf8db02cc9235?mediaType=mp4)|302||18+|united states|
 |Syrian American Medical Society|3.00 USD|[18](https://www.snap.com/political-ads/asset/fc91f01a6d76b57e7bdace6acc899c37f92a18e20c5f78613fe18fc36f278844?mediaType=png)|238||18+|united states|
-|Syrian American Medical Society|1.00 USD|[19](https://www.snap.com/political-ads/asset/df9b586e8f7517795ab115282b93c66845328423589a2f4ada05a1c16ef95a91?mediaType=png)|90||18+|united states|
+|Syrian American Medical Society|2.00 USD|[19](https://www.snap.com/political-ads/asset/df9b586e8f7517795ab115282b93c66845328423589a2f4ada05a1c16ef95a91?mediaType=png)|166||18+|united states|
