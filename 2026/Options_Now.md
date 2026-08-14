@@ -1,7 +1,7 @@
 ## 2026 - Options Now 
-**Spent**: 624.00
+**Spent**: 634.00
 
-**Impressions**: 70,248
+**Impressions**: 71,101
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -23,3 +23,6 @@
 |Cornerstone Marketing Strategies  LLC|7.00 USD|[13](https://www.snap.com/political-ads/asset/90ab760653ae28025b38a1c1fc71be27ece969fbdcc4e7b1399861019dcd40b7?mediaType=mp4)|628|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|7.00 USD|[14](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|619|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|9.00 USD|[15](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|569|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|5.00 USD|[16](https://www.snap.com/political-ads/asset/d3620d31c4a3eaf69d4a9766c2dc8a26d901d0cd8fb5566a862d77c86ecaa1d1?mediaType=mp4)|398|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|4.00 USD|[17](https://www.snap.com/political-ads/asset/5345132c602c8d04131c5a24b17401fc44da70d6529a286e7704960fa9031df0?mediaType=mp4)|343|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|1.00 USD|[18](https://www.snap.com/political-ads/asset/90ab760653ae28025b38a1c1fc71be27ece969fbdcc4e7b1399861019dcd40b7?mediaType=mp4)|112|FEMALE|16-34|united states|

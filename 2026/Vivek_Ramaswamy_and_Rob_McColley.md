@@ -1,7 +1,7 @@
 ## 2026 - Vivek Ramaswamy and Rob McColley 
-**Spent**: 8,745.00
+**Spent**: 8,781.00
 
-**Impressions**: 627,972
+**Impressions**: 629,434
 
 **Billing Addresses**: US
 
@@ -15,3 +15,4 @@
 |Vivek Ramaswamy|427.00 USD|[5](https://www.snap.com/political-ads/asset/b4b577d7029eee80321f3e1cca106a15f1001facf52a93762a697d8261df3c51?mediaType=mp4)|30,031||18+|united states|
 |Vivek Ramaswamy|415.00 USD|[6](https://www.snap.com/political-ads/asset/398cdceed2441b6bc5ae742f5f62327d358a649f61ea8152299a856ffafaf7f9?mediaType=mp4)|29,433||18+|united states|
 |Vivek Ramaswamy|347.00 USD|[7](https://www.snap.com/political-ads/asset/f18d7899bd825da316bb67b2d2631dd5efd2de4d0a07d07b5845067b5fb24054?mediaType=mp4)|25,033||18+|united states|
+|Vivek Ramaswamy: Vivek Ramaswamy and Rob McColley for Ohio|36.00 USD|[8](https://www.snap.com/political-ads/asset/7c564bf86d7e9219f3a40928e50a03e980b41861b6cda602dfcdd14b3f0393dd?mediaType=mp4)|1,462|||united states|
