@@ -1,16 +1,16 @@
 ## 2026 - Abundant Housing Mass PAC 
-**Spent**: 3,027.00
+**Spent**: 4,087.00
 
-**Impressions**: 132,318
+**Impressions**: 174,168
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|GMMB  Inc|1,313.00 USD|[0](https://www.snap.com/political-ads/asset/e849c6736f864ed7176cd555d9d7539fd46581558fd84e3926e2cecff98c0424?mediaType=mp4)|55,325||18+|united states|
-|GMMB  Inc|879.00 USD|[1](https://www.snap.com/political-ads/asset/894ffa7455941c7b668fa87df8214c960c3cb94db757d863e94467bb6daed7f2?mediaType=mp4)|35,373||18+|united states|
-|GMMB  Inc|256.00 USD|[2](https://www.snap.com/political-ads/asset/477af9d0b5c2b9bcd69ad2bef1fcb9798490cc3990e190521d41997bc3f97f61?mediaType=mp4)|9,983||18+|united states|
-|GMMB  Inc|195.00 USD|[3](https://www.snap.com/political-ads/asset/da9508a891bc08e87db7319c4b400512da44a1b54a0fcefe9da530753674d218?mediaType=mp4)|7,367||18+|united states|
+|GMMB  Inc|2,052.00 USD|[0](https://www.snap.com/political-ads/asset/e849c6736f864ed7176cd555d9d7539fd46581558fd84e3926e2cecff98c0424?mediaType=mp4)|84,554||18+|united states|
+|GMMB  Inc|1,018.00 USD|[1](https://www.snap.com/political-ads/asset/894ffa7455941c7b668fa87df8214c960c3cb94db757d863e94467bb6daed7f2?mediaType=mp4)|40,859||18+|united states|
+|GMMB  Inc|338.00 USD|[2](https://www.snap.com/political-ads/asset/477af9d0b5c2b9bcd69ad2bef1fcb9798490cc3990e190521d41997bc3f97f61?mediaType=mp4)|13,379||18+|united states|
+|GMMB  Inc|295.00 USD|[3](https://www.snap.com/political-ads/asset/da9508a891bc08e87db7319c4b400512da44a1b54a0fcefe9da530753674d218?mediaType=mp4)|11,106||18+|united states|
 |GMMB  Inc|110.00 USD|[4](https://www.snap.com/political-ads/asset/da9508a891bc08e87db7319c4b400512da44a1b54a0fcefe9da530753674d218?mediaType=mp4)|6,173||18+|united states|
 |GMMB  Inc|87.00 USD|[5](https://www.snap.com/political-ads/asset/e849c6736f864ed7176cd555d9d7539fd46581558fd84e3926e2cecff98c0424?mediaType=mp4)|5,770||18+|united states|
 |GMMB  Inc|98.00 USD|[6](https://www.snap.com/political-ads/asset/477af9d0b5c2b9bcd69ad2bef1fcb9798490cc3990e190521d41997bc3f97f61?mediaType=mp4)|5,394||18+|united states|
