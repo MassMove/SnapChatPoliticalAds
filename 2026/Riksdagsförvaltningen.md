@@ -1,7 +1,7 @@
 ## 2026 - Riksdagsförvaltningen 
-**Spent**: 52,308.00
+**Spent**: 53,544.00
 
-**Impressions**: 749,551
+**Impressions**: 788,693
 
 **Billing Addresses**: Södra Hamngatan 35,Göteborg,41114,SE
 
@@ -14,9 +14,9 @@
 |Nowa Kommunikation AB|3,720.00 SEK|[4](https://www.snap.com/political-ads/asset/551d61c9d8259ef7cd6d5b71a0d3b1e5a211bde43ab3a7af5087305e48e844ac?mediaType=mp4)|63,476||18-30|sweden|
 |Nowa Kommunikation AB|3,735.00 SEK|[5](https://www.snap.com/political-ads/asset/1c335c4a273413893177795179e00ae47c04baaa734a9a3aab9c7f8fbd111392?mediaType=mp4)|62,917||18-30|sweden|
 |Nowa Kommunikation AB|3,601.00 SEK|[6](https://www.snap.com/political-ads/asset/68fd0a4e01eae11b67115349e3961e0a21e38de6db72d6f8769ef10d341e90c2?mediaType=mp4)|62,253||18-30|sweden|
-|Nowa Kommunikation AB|5,895.00 SEK|[7](https://www.snap.com/political-ads/asset/1c335c4a273413893177795179e00ae47c04baaa734a9a3aab9c7f8fbd111392?mediaType=mp4)|60,164||18-30|sweden|
-|Nowa Kommunikation AB|4,758.00 SEK|[8](https://www.snap.com/political-ads/asset/71a471df41a5b0601b7adb7ba1f442a4bb892b9d8506d2e55f4dac186aa36f9f?mediaType=mp4)|50,170||18-30|sweden|
-|Nowa Kommunikation AB|4,719.00 SEK|[9](https://www.snap.com/political-ads/asset/68fd0a4e01eae11b67115349e3961e0a21e38de6db72d6f8769ef10d341e90c2?mediaType=mp4)|43,429||18-30|sweden|
-|Nowa Kommunikation AB|3,270.00 SEK|[10](https://www.snap.com/political-ads/asset/02235e48694a173f178959b6267c77d5d91b1255aaee4c14e03be648e9afa619?mediaType=mp4)|42,806||18-30|sweden|
-|Nowa Kommunikation AB|1,145.00 SEK|[11](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|38,965||18-30|sweden|
-|Nowa Kommunikation AB|1,115.00 SEK|[12](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|31,706||18-35|sweden|
+|Nowa Kommunikation AB|1,775.00 SEK|[7](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|61,132||18-30|sweden|
+|Nowa Kommunikation AB|5,895.00 SEK|[8](https://www.snap.com/political-ads/asset/1c335c4a273413893177795179e00ae47c04baaa734a9a3aab9c7f8fbd111392?mediaType=mp4)|60,164||18-30|sweden|
+|Nowa Kommunikation AB|4,758.00 SEK|[9](https://www.snap.com/political-ads/asset/71a471df41a5b0601b7adb7ba1f442a4bb892b9d8506d2e55f4dac186aa36f9f?mediaType=mp4)|50,170||18-30|sweden|
+|Nowa Kommunikation AB|1,721.00 SEK|[10](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|48,681||18-35|sweden|
+|Nowa Kommunikation AB|4,719.00 SEK|[11](https://www.snap.com/political-ads/asset/68fd0a4e01eae11b67115349e3961e0a21e38de6db72d6f8769ef10d341e90c2?mediaType=mp4)|43,429||18-30|sweden|
+|Nowa Kommunikation AB|3,270.00 SEK|[12](https://www.snap.com/political-ads/asset/02235e48694a173f178959b6267c77d5d91b1255aaee4c14e03be648e9afa619?mediaType=mp4)|42,806||18-30|sweden|

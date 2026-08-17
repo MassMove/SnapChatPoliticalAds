@@ -1,10 +1,10 @@
 ## 2026 - First Step Women's Center 
-**Spent**: 617.00
+**Spent**: 628.00
 
-**Impressions**: 62,652
+**Impressions**: 63,896
 
 **Billing Addresses**: 4509 Kings Lake Court,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|617.00 USD|[0](https://www.snap.com/political-ads/asset/2dde5053353001b11406f9180100f5a524f2a0d514581a94067a881e63777776?mediaType=mp4)|62,652|FEMALE|17-36|united states|
+|Stories Marketing|628.00 USD|[0](https://www.snap.com/political-ads/asset/2dde5053353001b11406f9180100f5a524f2a0d514581a94067a881e63777776?mediaType=mp4)|63,896|FEMALE|17-36|united states|
