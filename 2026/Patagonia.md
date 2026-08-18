@@ -1,7 +1,7 @@
 ## 2026 - Patagonia 
-**Spent**: 56,409.00
+**Spent**: 56,552.00
 
-**Impressions**: 4,949,577
+**Impressions**: 4,963,241
 
 **Billing Addresses**: 
 - 235 W Santa Clara St,Ventura,93001,US
@@ -21,9 +21,9 @@
 |Patagonia|223.00 USD|[9](https://www.snap.com/political-ads/asset/1cbeff600308a0085d5034dd79215ccce2b2ef1f5b4fce75cb5dbca1dcc6879e?mediaType=mp4)|86,859||18+|canada|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|792.00 USD|[10](https://www.snap.com/political-ads/asset/fd865e8fa0c1e7096a874b1496d281b7a2e1b488c4f4aa3c7bb7a573611fa113?mediaType=png),[11](https://www.snap.com/political-ads/asset/b6f97fdf8eda2a551a26616a3bb252562aef023aeb8332e5c4f40a1ed036362b?mediaType=png)|78,453||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|388.00 USD|[12](https://www.snap.com/political-ads/asset/d783942a8e4eef3058115dcac799dd24d091af8143caaeb4780042b44a31dfeb?mediaType=mp4)|74,897||18+|canada|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia Europe|400.00 EUR|[13](https://www.snap.com/political-ads/asset/ab318b9dc711e2d81ec45b5a9bc8a683f08b1566671bb53603f3ebb41d04fefc?mediaType=mp4)|71,626||18+|united kingdom|Jollemanhof 11,Amsterdam,1061TJ,NL|
-|Patagonia|251.00 USD|[14](https://www.snap.com/political-ads/asset/57e56feb81298a3b8fee0438491f341c48eade09871c91f5ed9a978a2f407cbe?mediaType=mp4)|68,478||18+|canada|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|200.00 USD|[15](https://www.snap.com/political-ads/asset/657670b73ce8e8ca1b8d37042ccc1f9f09c1c0606e827941747b0142c7434a28?mediaType=mp4)|66,960||18+|canada|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|217.00 USD|[13](https://www.snap.com/political-ads/asset/657670b73ce8e8ca1b8d37042ccc1f9f09c1c0606e827941747b0142c7434a28?mediaType=mp4)|72,809||18+|canada|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia Europe|400.00 EUR|[14](https://www.snap.com/political-ads/asset/ab318b9dc711e2d81ec45b5a9bc8a683f08b1566671bb53603f3ebb41d04fefc?mediaType=mp4)|71,626||18+|united kingdom|Jollemanhof 11,Amsterdam,1061TJ,NL|
+|Patagonia|251.00 USD|[15](https://www.snap.com/political-ads/asset/57e56feb81298a3b8fee0438491f341c48eade09871c91f5ed9a978a2f407cbe?mediaType=mp4)|68,478||18+|canada|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|505.00 USD|[16](https://www.snap.com/political-ads/asset/fd865e8fa0c1e7096a874b1496d281b7a2e1b488c4f4aa3c7bb7a573611fa113?mediaType=png),[17](https://www.snap.com/political-ads/asset/b6f97fdf8eda2a551a26616a3bb252562aef023aeb8332e5c4f40a1ed036362b?mediaType=png)|61,471||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|223.00 USD|[18](https://www.snap.com/political-ads/asset/c72d3c230dd328d9f4417258d42ceb05308010bf8f3ed42b913a632021a61387?mediaType=mp4)|58,582||18+|canada|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|223.00 USD|[19](https://www.snap.com/political-ads/asset/41010a643f3e70e7d6dfd80556f8d577b5841caf5959a0c8ded9bfdd2ca3651c?mediaType=mp4)|55,467||18+|canada|235 W Santa Clara St,Ventura,93001,US|
@@ -35,9 +35,9 @@
 |Patagonia|207.00 USD|[25](https://www.snap.com/political-ads/asset/0403acbd5640a3bb902f661dff6bef4f57ba7a85d6e91cd35b5e8447c73206cd?mediaType=mp4)|45,673||18+|canada|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|358.00 USD|[26](https://www.snap.com/political-ads/asset/d0c88a8273ee32d32d1bd14f426af7d7baaff95b0bec285d97774954076728bf?mediaType=mp4)|35,499||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia Europe|200.00 EUR|[27](https://www.snap.com/political-ads/asset/1b632d43b7d065f9be7450eb84faafc465161f6e29d36a153cc916797510687d?mediaType=mp4)|34,729||18+|united kingdom|Jollemanhof 11,Amsterdam,1061TJ,NL|
-|Patagonia|335.00 USD|[28](https://www.snap.com/political-ads/asset/ad259ad65678798eaf4b963a504997b85ef3afff8fa4f84263d3c3e52489a5e1?mediaType=mp4)|32,593||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|601.00 USD|[29](https://www.snap.com/political-ads/asset/90ba43a1df4b8d8f7d12654e958334833e133b62f1a6ab861d5b5025461cacb8?mediaType=mp4)|32,028||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|366.00 USD|[30](https://www.snap.com/political-ads/asset/16ec74f4cf633ed1c9e5f5631f3385b98de337e455d490bb476aa45bc62c69ef?mediaType=mp4)|30,830||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|398.00 USD|[28](https://www.snap.com/political-ads/asset/16ec74f4cf633ed1c9e5f5631f3385b98de337e455d490bb476aa45bc62c69ef?mediaType=mp4)|33,004||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|335.00 USD|[29](https://www.snap.com/political-ads/asset/ad259ad65678798eaf4b963a504997b85ef3afff8fa4f84263d3c3e52489a5e1?mediaType=mp4)|32,593||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|601.00 USD|[30](https://www.snap.com/political-ads/asset/90ba43a1df4b8d8f7d12654e958334833e133b62f1a6ab861d5b5025461cacb8?mediaType=mp4)|32,028||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|601.00 USD|[31](https://www.snap.com/political-ads/asset/8cd44f321ffed6e9d69a0638f0a7ea1f2c333ae712b8379e3890636f95665ea6?mediaType=mp4)|30,389||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|601.00 USD|[32](https://www.snap.com/political-ads/asset/6e07062297b270f43776b340ec893d269b4ed9509a9905782fa8b4e06bdfb8b3?mediaType=mp4)|29,708||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|601.00 USD|[33](https://www.snap.com/political-ads/asset/8aa16a118c098038f67dd5f72a3671ef2f686b4917dd668f4e185401c38df083?mediaType=mp4)|29,332||18+|united states|235 W Santa Clara St,Ventura,93001,US|
@@ -51,13 +51,13 @@
 |Patagonia|432.00 USD|[41](https://www.snap.com/political-ads/asset/f7d2649440568897e7dc8b7e575e92a4751032d9267441d41043091c02ac2c9a?mediaType=mp4)|22,862||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|306.00 USD|[42](https://www.snap.com/political-ads/asset/fd865e8fa0c1e7096a874b1496d281b7a2e1b488c4f4aa3c7bb7a573611fa113?mediaType=png)|22,662||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|237.00 USD|[43](https://www.snap.com/political-ads/asset/5c6554a9b141f469a98a9e299c4b78b24418829c8209e09454a8b8bb027bf287?mediaType=mp4)|21,281||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|251.00 USD|[44](https://www.snap.com/political-ads/asset/112b87855751554ddd76f0c5ef355c9b326fe653d153dc169c6b11848dac8673?mediaType=mp4)|20,626||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|199.00 USD|[45](https://www.snap.com/political-ads/asset/86751c745073511d37ddfd2dc5ae75115dced6ce41edbd1f8dfc06794e7da6b6?mediaType=mp4)|20,496||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[46](https://www.snap.com/political-ads/asset/0a385dccb32906bc68a01e4542744d6db6d1a8a39e1965d67b9a0c00119b8753?mediaType=mp4)|20,087||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|251.00 USD|[47](https://www.snap.com/political-ads/asset/d6b739dd8807b5fb97ea572bb4bdb34fcf52d44e07240fe98066695f7c68552f?mediaType=mp4)|19,968||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[48](https://www.snap.com/political-ads/asset/7373edd9ecae2319eac0584df4109cd670009ee135852c635dd16f3772dd2c50?mediaType=mp4)|19,945||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|211.00 USD|[49](https://www.snap.com/political-ads/asset/98e2bc971ac73fe5b9fc9703daba59c55d3398de81e44090fdac2eb5467f3644?mediaType=mp4)|19,635||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|304.00 USD|[50](https://www.snap.com/political-ads/asset/2ba8f8718d0b442c63cfe2d83400d7ab240de273df82b830333f8c46673361c2?mediaType=mp4)|19,506||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|336.00 USD|[44](https://www.snap.com/political-ads/asset/2ba8f8718d0b442c63cfe2d83400d7ab240de273df82b830333f8c46673361c2?mediaType=mp4)|21,093||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|251.00 USD|[45](https://www.snap.com/political-ads/asset/112b87855751554ddd76f0c5ef355c9b326fe653d153dc169c6b11848dac8673?mediaType=mp4)|20,626||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|199.00 USD|[46](https://www.snap.com/political-ads/asset/86751c745073511d37ddfd2dc5ae75115dced6ce41edbd1f8dfc06794e7da6b6?mediaType=mp4)|20,496||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[47](https://www.snap.com/political-ads/asset/0a385dccb32906bc68a01e4542744d6db6d1a8a39e1965d67b9a0c00119b8753?mediaType=mp4)|20,087||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|251.00 USD|[48](https://www.snap.com/political-ads/asset/d6b739dd8807b5fb97ea572bb4bdb34fcf52d44e07240fe98066695f7c68552f?mediaType=mp4)|19,968||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[49](https://www.snap.com/political-ads/asset/7373edd9ecae2319eac0584df4109cd670009ee135852c635dd16f3772dd2c50?mediaType=mp4)|19,945||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|211.00 USD|[50](https://www.snap.com/political-ads/asset/98e2bc971ac73fe5b9fc9703daba59c55d3398de81e44090fdac2eb5467f3644?mediaType=mp4)|19,635||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|199.00 USD|[51](https://www.snap.com/political-ads/asset/ac55f0a2c2559e96d84d1bb8969fbade3a63682b0e9eef95b402522f72c3bd0c?mediaType=mp4)|19,050||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|333.00 USD|[52](https://www.snap.com/political-ads/asset/a85bc35e08b59a7ac89bdc0d44f400ce846457e9bd6d8993af9d4f0629f79d3c?mediaType=mp4)|18,836||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|324.00 USD|[53](https://www.snap.com/political-ads/asset/796d01b2ea67b02da37cad87f2084bb010581cf371a1e0c21975896410ee5fdd?mediaType=mp4)|18,760||18+|united states|235 W Santa Clara St,Ventura,93001,US|
@@ -70,12 +70,12 @@
 |Patagonia|223.00 USD|[60](https://www.snap.com/political-ads/asset/c2a8c71a769ed7d9896a5a9adcb0d4a28760256e1a0f676955f20d3577703687?mediaType=mp4)|17,239||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|237.00 USD|[61](https://www.snap.com/political-ads/asset/1caed74487c4d611d4d164f1161bfba3d131e7f8b0d736cc61c762c63fae484e?mediaType=mp4)|16,998||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|195.00 USD|[62](https://www.snap.com/political-ads/asset/04b08f2378dc3f890c6d1d30c276b33c25d0b380103667d62f364c980549d7ea?mediaType=mp4)|16,898||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|143.00 USD|[63](https://www.snap.com/political-ads/asset/fd865e8fa0c1e7096a874b1496d281b7a2e1b488c4f4aa3c7bb7a573611fa113?mediaType=png),[64](https://www.snap.com/political-ads/asset/b6f97fdf8eda2a551a26616a3bb252562aef023aeb8332e5c4f40a1ed036362b?mediaType=png)|16,731||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|153.00 USD|[65](https://www.snap.com/political-ads/asset/7a2ebaaad41d035328902429317bde3f2595b96b9e40c8ea326ebc17cf48a9e1?mediaType=mp4)|16,729||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|350.00 USD|[66](https://www.snap.com/political-ads/asset/e84295cef37bcec43fe726c2427e12c9c847d5113bf356ef9fe976a7d2d896b8?mediaType=mp4)|16,714||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|279.00 USD|[67](https://www.snap.com/political-ads/asset/602512c53cee1a3b17b2d9539a24954afce79262a7157e58158a86b5791b5f77?mediaType=mp4)|16,689||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|237.00 USD|[68](https://www.snap.com/political-ads/asset/00ecf3a1c023f471ee98e7db4c8e6b6fb7ac1822db0a96693e390409e9576f32?mediaType=mp4)|16,631||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|221.00 USD|[69](https://www.snap.com/political-ads/asset/a3f8b3d4fa609411f2b07d7fdd40acf1fd70c7bd144422bef0c66d480147982d?mediaType=mp4)|16,561||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[63](https://www.snap.com/political-ads/asset/a3f8b3d4fa609411f2b07d7fdd40acf1fd70c7bd144422bef0c66d480147982d?mediaType=mp4)|16,755||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|143.00 USD|[64](https://www.snap.com/political-ads/asset/fd865e8fa0c1e7096a874b1496d281b7a2e1b488c4f4aa3c7bb7a573611fa113?mediaType=png),[65](https://www.snap.com/political-ads/asset/b6f97fdf8eda2a551a26616a3bb252562aef023aeb8332e5c4f40a1ed036362b?mediaType=png)|16,731||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|153.00 USD|[66](https://www.snap.com/political-ads/asset/7a2ebaaad41d035328902429317bde3f2595b96b9e40c8ea326ebc17cf48a9e1?mediaType=mp4)|16,729||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|350.00 USD|[67](https://www.snap.com/political-ads/asset/e84295cef37bcec43fe726c2427e12c9c847d5113bf356ef9fe976a7d2d896b8?mediaType=mp4)|16,714||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|279.00 USD|[68](https://www.snap.com/political-ads/asset/602512c53cee1a3b17b2d9539a24954afce79262a7157e58158a86b5791b5f77?mediaType=mp4)|16,689||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|237.00 USD|[69](https://www.snap.com/political-ads/asset/00ecf3a1c023f471ee98e7db4c8e6b6fb7ac1822db0a96693e390409e9576f32?mediaType=mp4)|16,631||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|153.00 USD|[70](https://www.snap.com/political-ads/asset/0d82b6e747907ecd5b2ae97a0385be25e8b174b2f59edd743906215709a9a3f2?mediaType=mp4)|16,173||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|223.00 USD|[71](https://www.snap.com/political-ads/asset/09a09fdad7e18967f3e49a960f5481ff0de58f31a5405b688f054efede3c3b53?mediaType=mp4)|16,084||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|223.00 USD|[72](https://www.snap.com/political-ads/asset/9d7f62bd5cc240004352f132f2b9f5083e49eaddaddb0f3e8390c59abbad4a26?mediaType=mp4)|16,067||18+|united states|235 W Santa Clara St,Ventura,93001,US|
@@ -92,8 +92,8 @@
 |Patagonia|153.00 USD|[83](https://www.snap.com/political-ads/asset/ff0de04920ffb8a3e6d7196b270c153d23c5c49f074c9c76f49468892b4e8a96?mediaType=mp4)|14,013||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|155.00 USD|[84](https://www.snap.com/political-ads/asset/cd16ee75a61e43d3dfc78a6f559ed04847cd10cc0a9d60a4ee28622e42972acc?mediaType=mp4)|13,899||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|223.00 USD|[85](https://www.snap.com/political-ads/asset/8c7d48cd26e41ca2c8f16eec674554285e1f3e99a8642fd7fdab89e203b47871?mediaType=mp4)|13,891||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|195.00 USD|[86](https://www.snap.com/political-ads/asset/8adf9fe30a5724f3cf94fec0cfb7e048da7567a5352f3e61c9c07edacfc690f0?mediaType=mp4)|13,546||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|220.00 USD|[87](https://www.snap.com/political-ads/asset/970348f8830c4395d63dd1dfee81f280b204c2a232266ed1383202646c052ef9?mediaType=mp4)|13,498||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[86](https://www.snap.com/political-ads/asset/970348f8830c4395d63dd1dfee81f280b204c2a232266ed1383202646c052ef9?mediaType=mp4)|13,684||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|195.00 USD|[87](https://www.snap.com/political-ads/asset/8adf9fe30a5724f3cf94fec0cfb7e048da7567a5352f3e61c9c07edacfc690f0?mediaType=mp4)|13,546||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|279.00 USD|[88](https://www.snap.com/political-ads/asset/33c2d75fbe5de9d7c473a5b5217c18aa4139da83fb485277c72f51ad8112cd24?mediaType=mp4)|13,339||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|195.00 USD|[89](https://www.snap.com/political-ads/asset/29153b5304057bc1f016a60909ab58aaa83ca1ac4decaf6f120d4768d297ffe2?mediaType=mp4)|13,335||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|153.00 USD|[90](https://www.snap.com/political-ads/asset/2616663323874961cf65c876c74059e61b3542aa6b65133361303dd6ea767cf9?mediaType=mp4)|13,286||18+|united states|235 W Santa Clara St,Ventura,93001,US|
@@ -101,20 +101,20 @@
 |Patagonia|223.00 USD|[92](https://www.snap.com/political-ads/asset/d73534a91aad90ec2132385a8755a1d64da4c01376c71aeea16c4fffcba2b470?mediaType=mp4)|13,015||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|195.00 USD|[93](https://www.snap.com/political-ads/asset/a8ade7cdaaa6355bdf847bf21a3b02e43bfaf55421a70a2b859099ddce933ae3?mediaType=png)|13,005||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|153.00 USD|[94](https://www.snap.com/political-ads/asset/b660f9d778919cd098d5eabc68a95f17525e03ca8cd58aca95f0608e4506bcd9?mediaType=mp4)|12,977||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|195.00 USD|[95](https://www.snap.com/political-ads/asset/81e8b3a744d04585aad3b63f966719ac114cac57cef095c093db3680b63df07d?mediaType=mp4)|12,762||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[96](https://www.snap.com/political-ads/asset/f60d0b57331be05a32c47ad132295a6c70fd995d58cb614f7305b08ca957253f?mediaType=mp4)|12,752||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|220.00 USD|[97](https://www.snap.com/political-ads/asset/50e0d94d127168bc3a3ecb70d68cd0a5231d569bb92ced62abf61c77b14d4230?mediaType=mp4)|12,728||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|166.00 USD|[98](https://www.snap.com/political-ads/asset/336915850773fcd73e9b2d9ae35d4f9f4bf9f32e519eb610987e573668b9b64f?mediaType=mp4)|12,659||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[99](https://www.snap.com/political-ads/asset/4f9d6839cba9b86d4af351fa6049c6f94869842d027c1b3790c6d0e705e43a07?mediaType=mp4)|12,567||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[100](https://www.snap.com/political-ads/asset/50e24acb47b86a208349d1d05ea276cc7af43d5a7039336c5b5f4b79784e8380?mediaType=mp4)|12,431||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[101](https://www.snap.com/political-ads/asset/4dfcdff9d145518dba9d0ecdc2dd1372a434d64aa1ea9f47b052d35f437bdcdc?mediaType=mp4)|12,429||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|202.00 USD|[102](https://www.snap.com/political-ads/asset/a19c3c2619233eeae0049e7168c6663816aea55e7528fa432a937a299f2b6e4d?mediaType=mp4)|12,420||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|237.00 USD|[103](https://www.snap.com/political-ads/asset/5560bbcdad7fb15d4f8f79afcab8ee4bddc5288d60f245c9051025ae47645d76?mediaType=mp4)|12,291||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|153.00 USD|[104](https://www.snap.com/political-ads/asset/1eda3ccde677a617865a096e72926aa85403253f17081a7dee1afd5d686d9499?mediaType=mp4)|12,290||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|195.00 USD|[105](https://www.snap.com/political-ads/asset/6b9aa1d500d44727dad280757a39bfa3d06e848fc7d501ff0f0b306995c53ba9?mediaType=mp4)|12,175||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|223.00 USD|[106](https://www.snap.com/political-ads/asset/5f441ede4dca89cc04a5a587bd0e4fec822c483919b7fb7c69cf01f8471bc860?mediaType=mp4)|12,090||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|153.00 USD|[107](https://www.snap.com/political-ads/asset/e6fd6c7c46340292df6d54d3a3132c8b6bfc030b99955e207910290a9f6d07a2?mediaType=png)|12,073||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|200.00 USD|[108](https://www.snap.com/political-ads/asset/15df5885b74adfdc3221094e180f37661069172c52a85fa94063db9aef1037c5?mediaType=mp4)|12,041||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|217.00 USD|[95](https://www.snap.com/political-ads/asset/15df5885b74adfdc3221094e180f37661069172c52a85fa94063db9aef1037c5?mediaType=mp4)|12,958||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|195.00 USD|[96](https://www.snap.com/political-ads/asset/81e8b3a744d04585aad3b63f966719ac114cac57cef095c093db3680b63df07d?mediaType=mp4)|12,762||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[97](https://www.snap.com/political-ads/asset/f60d0b57331be05a32c47ad132295a6c70fd995d58cb614f7305b08ca957253f?mediaType=mp4)|12,752||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|220.00 USD|[98](https://www.snap.com/political-ads/asset/50e0d94d127168bc3a3ecb70d68cd0a5231d569bb92ced62abf61c77b14d4230?mediaType=mp4)|12,728||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|166.00 USD|[99](https://www.snap.com/political-ads/asset/336915850773fcd73e9b2d9ae35d4f9f4bf9f32e519eb610987e573668b9b64f?mediaType=mp4)|12,659||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[100](https://www.snap.com/political-ads/asset/4f9d6839cba9b86d4af351fa6049c6f94869842d027c1b3790c6d0e705e43a07?mediaType=mp4)|12,567||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|203.00 USD|[101](https://www.snap.com/political-ads/asset/a19c3c2619233eeae0049e7168c6663816aea55e7528fa432a937a299f2b6e4d?mediaType=mp4)|12,520||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[102](https://www.snap.com/political-ads/asset/50e24acb47b86a208349d1d05ea276cc7af43d5a7039336c5b5f4b79784e8380?mediaType=mp4)|12,431||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[103](https://www.snap.com/political-ads/asset/4dfcdff9d145518dba9d0ecdc2dd1372a434d64aa1ea9f47b052d35f437bdcdc?mediaType=mp4)|12,429||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|237.00 USD|[104](https://www.snap.com/political-ads/asset/5560bbcdad7fb15d4f8f79afcab8ee4bddc5288d60f245c9051025ae47645d76?mediaType=mp4)|12,291||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|153.00 USD|[105](https://www.snap.com/political-ads/asset/1eda3ccde677a617865a096e72926aa85403253f17081a7dee1afd5d686d9499?mediaType=mp4)|12,290||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|195.00 USD|[106](https://www.snap.com/political-ads/asset/6b9aa1d500d44727dad280757a39bfa3d06e848fc7d501ff0f0b306995c53ba9?mediaType=mp4)|12,175||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|223.00 USD|[107](https://www.snap.com/political-ads/asset/5f441ede4dca89cc04a5a587bd0e4fec822c483919b7fb7c69cf01f8471bc860?mediaType=mp4)|12,090||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|153.00 USD|[108](https://www.snap.com/political-ads/asset/e6fd6c7c46340292df6d54d3a3132c8b6bfc030b99955e207910290a9f6d07a2?mediaType=png)|12,073||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|195.00 USD|[109](https://www.snap.com/political-ads/asset/84912aa6d973089e4749fe6c15783fd01d77028f0def1d742540d49c92957cfa?mediaType=mp4)|11,900||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|223.00 USD|[110](https://www.snap.com/political-ads/asset/20058bfad706702b231c80a35f691a243d8baeb4eaf337c7a1a030ec9a2b4a3b?mediaType=mp4)|11,461||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|207.00 USD|[111](https://www.snap.com/political-ads/asset/9c287799b891e5b3c9d99464e7540d2b13f7e26fe97da13437fa8e672b106cbe?mediaType=mp4)|11,174||18+|united states|235 W Santa Clara St,Ventura,93001,US|
@@ -125,12 +125,12 @@
 |Patagonia|125.00 USD|[116](https://www.snap.com/political-ads/asset/ca0f44d4139c6af8b2f2ab428d96dfeaa85b521e3e05fbb7a79e6eebe35e2a08?mediaType=mp4)|8,500||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|175.00 USD|[117](https://www.snap.com/political-ads/asset/d61f0f1508859046ea0d7d8b1c66f19438f2fc7221f137e53f248a09f20a196f?mediaType=mp4)|8,415||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|128.00 USD|[118](https://www.snap.com/political-ads/asset/7ca5530a64d4990b84b604c01b8d4366db4a2cac3f7b770daca16e9dab3871b9?mediaType=mp4)|7,876||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|128.00 USD|[119](https://www.snap.com/political-ads/asset/5f116fbce22d6b434b5ddd0a259bb1e1b5f6aa687cd788dfa3773951f3e68de6?mediaType=mp4)|6,749||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|84.00 USD|[120](https://www.snap.com/political-ads/asset/de1457e91b7a264418589c8ba8f7b13fdc077004cef47600097fd1c84156f071?mediaType=png)|5,621||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|64.00 USD|[121](https://www.snap.com/political-ads/asset/c7239cd496f765a76b68459477e0ea97e7acc022d521a47fdf45153d8d9fcb23?mediaType=mp4)|5,017||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|141.00 USD|[119](https://www.snap.com/political-ads/asset/5f116fbce22d6b434b5ddd0a259bb1e1b5f6aa687cd788dfa3773951f3e68de6?mediaType=mp4)|7,377||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|74.00 USD|[120](https://www.snap.com/political-ads/asset/c7239cd496f765a76b68459477e0ea97e7acc022d521a47fdf45153d8d9fcb23?mediaType=mp4)|6,255||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|84.00 USD|[121](https://www.snap.com/political-ads/asset/de1457e91b7a264418589c8ba8f7b13fdc077004cef47600097fd1c84156f071?mediaType=png)|5,621||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|58.00 USD|[122](https://www.snap.com/political-ads/asset/e6fd6c7c46340292df6d54d3a3132c8b6bfc030b99955e207910290a9f6d07a2?mediaType=png)|4,765||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|114.00 USD|[123](https://www.snap.com/political-ads/asset/7ed25140e50dc2ce856220f7deec433dcaec6acc7959f8166d0b9b15c3762e03?mediaType=mp4)|3,808||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|63.00 USD|[124](https://www.snap.com/political-ads/asset/7ca5530a64d4990b84b604c01b8d4366db4a2cac3f7b770daca16e9dab3871b9?mediaType=mp4)|3,678||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|74.00 USD|[125](https://www.snap.com/political-ads/asset/7ca5530a64d4990b84b604c01b8d4366db4a2cac3f7b770daca16e9dab3871b9?mediaType=mp4)|3,635||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|70.00 USD|[126](https://www.snap.com/political-ads/asset/7ed25140e50dc2ce856220f7deec433dcaec6acc7959f8166d0b9b15c3762e03?mediaType=mp4)|2,841||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|45.00 USD|[127](https://www.snap.com/political-ads/asset/2e0a5515b13652a7a0050ecb72b09498b81899674b247f862b90c6112db32f43?mediaType=mp4)|2,608||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|61.00 USD|[126](https://www.snap.com/political-ads/asset/2e0a5515b13652a7a0050ecb72b09498b81899674b247f862b90c6112db32f43?mediaType=mp4)|3,399||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|70.00 USD|[127](https://www.snap.com/political-ads/asset/7ed25140e50dc2ce856220f7deec433dcaec6acc7959f8166d0b9b15c3762e03?mediaType=mp4)|2,841||18+|united states|235 W Santa Clara St,Ventura,93001,US|

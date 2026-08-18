@@ -1,10 +1,10 @@
 ## 2026 - New Jersey OAG 
-**Spent**: 2,861.00
+**Spent**: 2,935.00
 
-**Impressions**: 94,625
+**Impressions**: 98,443
 
 **Billing Addresses**: 100 S Jefferson rd. ,Whippany,07981,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Sucess Communications Group|2,861.00 USD|[0](https://www.snap.com/political-ads/asset/341c24d888f3f6fae838b9620fa22cf1d07749cafa6c03d160e10e22593835fa?mediaType=mp4)|94,625||18+|united states|
+|Sucess Communications Group|2,935.00 USD|[0](https://www.snap.com/political-ads/asset/341c24d888f3f6fae838b9620fa22cf1d07749cafa6c03d160e10e22593835fa?mediaType=mp4)|98,443||18+|united states|
