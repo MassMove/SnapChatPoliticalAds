@@ -1,7 +1,7 @@
 ## 2026 - Human Appeal Canada 
-**Spent**: 16,956.00
+**Spent**: 16,972.00
 
-**Impressions**: 2,540,229
+**Impressions**: 2,544,531
 
 **Billing Addresses**: CA
 
@@ -55,20 +55,20 @@
 |Human Appeal Canada|132.00 CAD|[45](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|8,255||25+|canada|
 |Human Appeal Canada|34.00 CAD|[46](https://www.snap.com/political-ads/asset/f6c968a5b709b78bdd565daf53ca50436726943ea82d1b1d937523cdc67732f2?mediaType=mp4)|7,946||25+|canada|
 |Human Appeal Canada|79.00 CAD|[47](https://www.snap.com/political-ads/asset/81b4fc4360242231cd66105b163427f7cdcee2a8a54c07e95b3aa0d7af9dae5e?mediaType=mp4)|7,806||25+|canada|
-|Human Appeal Canada|49.00 CAD|[48](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|5,938||25+|canada|
-|Human Appeal Canada|56.00 CAD|[49](https://www.snap.com/political-ads/asset/35a5824a135380b7ad574f3fac28288d8b5f452a8a8a995c24d38c9361250ee5?mediaType=png)|5,747||18+|canada|
-|Human Appeal Canada|62.00 CAD|[50](https://www.snap.com/political-ads/asset/be08f5423ae706d3c4dbcf7c4657ade4dc3f5930e9c561162abb6613ec32fbc4?mediaType=mp4)|5,685||25+|canada|
-|Human Appeal Canada|38.00 CAD|[51](https://www.snap.com/political-ads/asset/be94324ba399e31bdb17d6bcec395dea8dadef7d5e41076047f921d2a4252d26?mediaType=mp4)|5,516||25+|canada|
-|Human Appeal Canada|23.00 CAD|[52](https://www.snap.com/political-ads/asset/4efa9ee998cd557b39219b3adc18b0eb21d5290c95d4316269273a60b30aad40?mediaType=png)|5,443||18+|canada|
-|Human Appeal Canada|30.00 CAD|[53](https://www.snap.com/political-ads/asset/3eff3399bcb8e9bec8f0d7dfac2fa37028c708402acee1619fdb14d346e4423e?mediaType=mp4)|5,386||25+|canada|
-|Human Appeal Canada|52.00 CAD|[54](https://www.snap.com/political-ads/asset/97c6354c9f834f20da4e369f076f8e904b6a51c8a35c9b219ad2dda2edb33cf6?mediaType=mp4)|4,907||25+|canada|
-|Human Appeal Canada|55.00 CAD|[55](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|4,839||25+|canada|
-|Human Appeal Canada|43.00 CAD|[56](https://www.snap.com/political-ads/asset/06d0228f8752113aa3e51ef9af7bdbce2725a5410ad6a910a704b89d25d881ed?mediaType=mp4)|4,817||25+|canada|
-|Human Appeal Canada|22.00 CAD|[57](https://www.snap.com/political-ads/asset/224b0615a40fdb7d72bb7a0feedd1ec64923152c556a80f24e1ce7ddd36f3bf3?mediaType=mp4)|4,591||25+|canada|
-|Human Appeal Canada|43.00 CAD|[58](https://www.snap.com/political-ads/asset/3eff3399bcb8e9bec8f0d7dfac2fa37028c708402acee1619fdb14d346e4423e?mediaType=mp4)|4,587||25+|canada|
-|Human Appeal Canada|24.00 CAD|[59](https://www.snap.com/political-ads/asset/3eff3399bcb8e9bec8f0d7dfac2fa37028c708402acee1619fdb14d346e4423e?mediaType=mp4)|4,319||25+|canada|
-|Human Appeal Canada|18.00 CAD|[60](https://www.snap.com/political-ads/asset/65f57f23ca4dfe6be6272ca61b42a5b2e2db8b113be3de3a535a252064ff0507?mediaType=png)|4,238||18+|canada|
-|Human Appeal Canada|8.00 CAD|[61](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|4,104|||canada|
+|Human Appeal Canada|16.00 CAD|[48](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|6,783|||canada|
+|Human Appeal Canada|49.00 CAD|[49](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|5,938||25+|canada|
+|Human Appeal Canada|56.00 CAD|[50](https://www.snap.com/political-ads/asset/35a5824a135380b7ad574f3fac28288d8b5f452a8a8a995c24d38c9361250ee5?mediaType=png)|5,747||18+|canada|
+|Human Appeal Canada|62.00 CAD|[51](https://www.snap.com/political-ads/asset/be08f5423ae706d3c4dbcf7c4657ade4dc3f5930e9c561162abb6613ec32fbc4?mediaType=mp4)|5,685||25+|canada|
+|Human Appeal Canada|38.00 CAD|[52](https://www.snap.com/political-ads/asset/be94324ba399e31bdb17d6bcec395dea8dadef7d5e41076047f921d2a4252d26?mediaType=mp4)|5,516||25+|canada|
+|Human Appeal Canada|23.00 CAD|[53](https://www.snap.com/political-ads/asset/4efa9ee998cd557b39219b3adc18b0eb21d5290c95d4316269273a60b30aad40?mediaType=png)|5,443||18+|canada|
+|Human Appeal Canada|30.00 CAD|[54](https://www.snap.com/political-ads/asset/3eff3399bcb8e9bec8f0d7dfac2fa37028c708402acee1619fdb14d346e4423e?mediaType=mp4)|5,386||25+|canada|
+|Human Appeal Canada|52.00 CAD|[55](https://www.snap.com/political-ads/asset/97c6354c9f834f20da4e369f076f8e904b6a51c8a35c9b219ad2dda2edb33cf6?mediaType=mp4)|4,907||25+|canada|
+|Human Appeal Canada|55.00 CAD|[56](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|4,839||25+|canada|
+|Human Appeal Canada|43.00 CAD|[57](https://www.snap.com/political-ads/asset/06d0228f8752113aa3e51ef9af7bdbce2725a5410ad6a910a704b89d25d881ed?mediaType=mp4)|4,817||25+|canada|
+|Human Appeal Canada|22.00 CAD|[58](https://www.snap.com/political-ads/asset/224b0615a40fdb7d72bb7a0feedd1ec64923152c556a80f24e1ce7ddd36f3bf3?mediaType=mp4)|4,591||25+|canada|
+|Human Appeal Canada|43.00 CAD|[59](https://www.snap.com/political-ads/asset/3eff3399bcb8e9bec8f0d7dfac2fa37028c708402acee1619fdb14d346e4423e?mediaType=mp4)|4,587||25+|canada|
+|Human Appeal Canada|24.00 CAD|[60](https://www.snap.com/political-ads/asset/3eff3399bcb8e9bec8f0d7dfac2fa37028c708402acee1619fdb14d346e4423e?mediaType=mp4)|4,319||25+|canada|
+|Human Appeal Canada|18.00 CAD|[61](https://www.snap.com/political-ads/asset/65f57f23ca4dfe6be6272ca61b42a5b2e2db8b113be3de3a535a252064ff0507?mediaType=png)|4,238||18+|canada|
 |Human Appeal Canada|47.00 CAD|[62](https://www.snap.com/political-ads/asset/450fe73f31100cf8e3b8cb92b5caa7ba292a28ba67a355d28c9dc8311861bc06?mediaType=png)|3,833||18+|canada|
 |Human Appeal Canada|21.00 CAD|[63](https://www.snap.com/political-ads/asset/06d0228f8752113aa3e51ef9af7bdbce2725a5410ad6a910a704b89d25d881ed?mediaType=mp4)|3,766||25+|canada|
 |Human Appeal Canada|14.00 CAD|[64](https://www.snap.com/political-ads/asset/65f57f23ca4dfe6be6272ca61b42a5b2e2db8b113be3de3a535a252064ff0507?mediaType=png)|3,569||18+|canada|
@@ -84,18 +84,18 @@
 |Human Appeal Canada|14.00 CAD|[74](https://www.snap.com/political-ads/asset/06d0228f8752113aa3e51ef9af7bdbce2725a5410ad6a910a704b89d25d881ed?mediaType=mp4)|2,031||25+|canada|
 |Human Appeal Canada|11.00 CAD|[75](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|1,828||25+|canada|
 |Human Appeal Canada|17.00 CAD|[76](https://www.snap.com/political-ads/asset/3988ad9d176e39cf32faf09542dcaacd3acd3e1819204fc5f1cad8a9375608d5?mediaType=mp4)|1,613||25+|canada|
-|Human Appeal Canada|9.00 CAD|[77](https://www.snap.com/political-ads/asset/0983b8c7cd7b94ddb2bd789878b45784f6d3c4c1f65d6b766296b25937ceff56?mediaType=mp4)|1,385||25+|canada|
-|Human Appeal Canada|14.00 CAD|[78](https://www.snap.com/political-ads/asset/da23ab0e83e4684d35a1d2c85a4fca795281b199eae24639a00f0d396e132789?mediaType=png)|1,311||18+|canada|
-|Human Appeal Canada|8.00 CAD|[79](https://www.snap.com/political-ads/asset/0983b8c7cd7b94ddb2bd789878b45784f6d3c4c1f65d6b766296b25937ceff56?mediaType=mp4)|1,308||25+|canada|
-|Human Appeal Canada|12.00 CAD|[80](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|1,180||25+|canada|
-|Human Appeal Canada|12.00 CAD|[81](https://www.snap.com/political-ads/asset/81b4fc4360242231cd66105b163427f7cdcee2a8a54c07e95b3aa0d7af9dae5e?mediaType=mp4)|1,162||25+|canada|
-|Human Appeal Canada|5.00 CAD|[82](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|1,026||25+|canada|
-|Human Appeal Canada|9.00 CAD|[83](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|1,024||25+|canada|
-|Human Appeal Canada|5.00 CAD|[84](https://www.snap.com/political-ads/asset/06d0228f8752113aa3e51ef9af7bdbce2725a5410ad6a910a704b89d25d881ed?mediaType=mp4)|896||25+|canada|
-|Human Appeal Canada|7.00 CAD|[85](https://www.snap.com/political-ads/asset/35a5824a135380b7ad574f3fac28288d8b5f452a8a8a995c24d38c9361250ee5?mediaType=png)|889||18+|canada|
-|Human Appeal Canada|3.00 CAD|[86](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|887||25+|canada|
-|Human Appeal Canada|4.00 CAD|[87](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|808||25+|canada|
-|Human Appeal Canada|5.00 CAD|[88](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|800||25+|canada|
+|Human Appeal Canada|9.00 CAD|[77](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|1,607||25+|canada|
+|Human Appeal Canada|7.00 CAD|[78](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|1,456||25+|canada|
+|Human Appeal Canada|9.00 CAD|[79](https://www.snap.com/political-ads/asset/0983b8c7cd7b94ddb2bd789878b45784f6d3c4c1f65d6b766296b25937ceff56?mediaType=mp4)|1,385||25+|canada|
+|Human Appeal Canada|14.00 CAD|[80](https://www.snap.com/political-ads/asset/da23ab0e83e4684d35a1d2c85a4fca795281b199eae24639a00f0d396e132789?mediaType=png)|1,311||18+|canada|
+|Human Appeal Canada|8.00 CAD|[81](https://www.snap.com/political-ads/asset/0983b8c7cd7b94ddb2bd789878b45784f6d3c4c1f65d6b766296b25937ceff56?mediaType=mp4)|1,308||25+|canada|
+|Human Appeal Canada|12.00 CAD|[82](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|1,180||25+|canada|
+|Human Appeal Canada|12.00 CAD|[83](https://www.snap.com/political-ads/asset/81b4fc4360242231cd66105b163427f7cdcee2a8a54c07e95b3aa0d7af9dae5e?mediaType=mp4)|1,162||25+|canada|
+|Human Appeal Canada|5.00 CAD|[84](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|1,026||25+|canada|
+|Human Appeal Canada|9.00 CAD|[85](https://www.snap.com/political-ads/asset/85e6ad5a126df52e7cf4b94e7db95672b8245bca27a07df2468d4eea373a6190?mediaType=mp4)|1,024||25+|canada|
+|Human Appeal Canada|5.00 CAD|[86](https://www.snap.com/political-ads/asset/06d0228f8752113aa3e51ef9af7bdbce2725a5410ad6a910a704b89d25d881ed?mediaType=mp4)|896||25+|canada|
+|Human Appeal Canada|7.00 CAD|[87](https://www.snap.com/political-ads/asset/35a5824a135380b7ad574f3fac28288d8b5f452a8a8a995c24d38c9361250ee5?mediaType=png)|889||18+|canada|
+|Human Appeal Canada|3.00 CAD|[88](https://www.snap.com/political-ads/asset/b6bd63dcfe0ad167970d4fea6d3ace691a9109904c9651900b30b40095d66e25?mediaType=mp4)|887||25+|canada|
 |Human Appeal Canada|8.00 CAD|[89](https://www.snap.com/political-ads/asset/3988ad9d176e39cf32faf09542dcaacd3acd3e1819204fc5f1cad8a9375608d5?mediaType=mp4)|655||25+|canada|
-|Human Appeal Canada|2.00 CAD|[90](https://www.snap.com/political-ads/asset/be08f5423ae706d3c4dbcf7c4657ade4dc3f5930e9c561162abb6613ec32fbc4?mediaType=mp4)|306||25+|canada|
-|Human Appeal Canada|1.00 CAD|[91](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|206||25+|canada|
+|Human Appeal Canada|2.00 CAD|[90](https://www.snap.com/political-ads/asset/b7bd483a43cfce363fe8c16843d9cbb94606133fab852317d6f7d571354eb920?mediaType=mp4)|374||25+|canada|
+|Human Appeal Canada|2.00 CAD|[91](https://www.snap.com/political-ads/asset/be08f5423ae706d3c4dbcf7c4657ade4dc3f5930e9c561162abb6613ec32fbc4?mediaType=mp4)|306||25+|canada|

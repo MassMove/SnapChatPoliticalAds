@@ -3,7 +3,7 @@
 
 **Impressions**: 6,732,894
 
-**Billing Addresses**: Skt. Petri Passage 52 ,København K,1165,DK
+**Billing Addresses**: Midtermolen 3, 4,København,2100,DK
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
