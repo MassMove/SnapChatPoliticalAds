@@ -1,11 +1,11 @@
 ## 2026 - American Democracy Project 
-**Spent**: 10,028.00
+**Spent**: 10,201.00
 
-**Impressions**: 476,105
+**Impressions**: 488,165
 
 **Billing Addresses**: 1930 18th St NW Suite B2 #562,Washingotn,20009,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Break Something|7,691.00 USD|[0](https://www.snap.com/political-ads/asset/f37ca725c34d7168544b03aba3f2b5513d57342a1f50b5b5715635c01ac7a0ce?mediaType=mp4)|376,565||18+|united states|
-|Break Something|2,337.00 USD|[1](https://www.snap.com/political-ads/asset/49b12095cf9a8aead8593c5fff2b7f822a7311537914824011f1b3092605a309?mediaType=mp4)|99,540||18+|united states|
+|Break Something|7,840.00 USD|[0](https://www.snap.com/political-ads/asset/f37ca725c34d7168544b03aba3f2b5513d57342a1f50b5b5715635c01ac7a0ce?mediaType=mp4)|386,981||18+|united states|
+|Break Something|2,361.00 USD|[1](https://www.snap.com/political-ads/asset/49b12095cf9a8aead8593c5fff2b7f822a7311537914824011f1b3092605a309?mediaType=mp4)|101,184||18+|united states|

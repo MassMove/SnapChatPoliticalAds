@@ -106,7 +106,7 @@
 |[Komitee Ehe für alle](Komitee_Ehe_für_alle.md) - digital/organizing: EhefuerAlle|4,206.00 EUR|2,145,870||18-29, 29-|switzerland|
 |[Plan International Canada](Plan_International_Canada.md) - The Aber Group|6,816.00 CAD|2,080,085||18+, 24-, 35+|canada|
 |[Die Grazer Grünen](Die_Grazer_Grünen.md) - Cloudthinkn Werbeagentur KG: Judith Schwentner|3,003.00 EUR|2,068,741||18+|austria|
-|[Liberal Party of Canada](Liberal_Party_of_Canada.md) - Data Sciences: Liberal Party of Canada|35,115.00 CAD|2,052,534||18+|canada|
+|[Liberal Party of Canada](Liberal_Party_of_Canada.md) - Data Sciences: Liberal Party of Canada|35,244.00 CAD|2,057,812||18+|canada|
 |[New Jersey Education Association](New_Jersey_Education_Association.md) - The New Media Firm: New Jersey Education Association|15,034.00 USD|2,036,398||18+|united states|
 |[Hotel Association of NYC](Hotel_Association_of_NYC.md) - Pythia Public: Save the NYC Hotel Industry|15,894.00 USD|2,004,048||21+|united states|
 |[Scottish National Party](Scottish_National_Party.md) - Scottish National Party: Scottish National Party|4,482.00 GBP|1,938,875|FEMALE, MALE|16+, 16-24, 18+|united kingdom|
