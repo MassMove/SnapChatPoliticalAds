@@ -1,15 +1,15 @@
 ## 2026 - Riksdagsförvaltningen 
-**Spent**: 57,153.00
+**Spent**: 58,425.00
 
-**Impressions**: 863,571
+**Impressions**: 887,924
 
 **Billing Addresses**: Södra Hamngatan 35,Göteborg,41114,SE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Nowa Kommunikation AB|3,589.00 SEK|[0](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|106,550||18-30|sweden|
-|Nowa Kommunikation AB|4,582.00 SEK|[1](https://www.snap.com/political-ads/asset/02235e48694a173f178959b6267c77d5d91b1255aaee4c14e03be648e9afa619?mediaType=mp4)|85,671||18-30|sweden|
-|Nowa Kommunikation AB|3,516.00 SEK|[2](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|78,141||18-35|sweden|
+|Nowa Kommunikation AB|4,234.00 SEK|[0](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|121,222||18-30|sweden|
+|Nowa Kommunikation AB|4,143.00 SEK|[1](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|87,822||18-35|sweden|
+|Nowa Kommunikation AB|4,582.00 SEK|[2](https://www.snap.com/political-ads/asset/02235e48694a173f178959b6267c77d5d91b1255aaee4c14e03be648e9afa619?mediaType=mp4)|85,671||18-30|sweden|
 |Nowa Kommunikation AB|5,999.00 SEK|[3](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|74,821||18-30|sweden|
 |Nowa Kommunikation AB|6,000.00 SEK|[4](https://www.snap.com/political-ads/asset/63cb057cbafd03f8a81467a51410b45663e4fc7f13eeaf7ec4876643783f07ba?mediaType=mp4)|68,522||18-30|sweden|
 |Nowa Kommunikation AB|3,769.00 SEK|[5](https://www.snap.com/political-ads/asset/71a471df41a5b0601b7adb7ba1f442a4bb892b9d8506d2e55f4dac186aa36f9f?mediaType=mp4)|64,651||18-30|sweden|

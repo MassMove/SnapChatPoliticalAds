@@ -1,16 +1,16 @@
 ## 2026 - GoodPower 
-**Spent**: 1,751.00
+**Spent**: 2,055.00
 
-**Impressions**: 164,341
+**Impressions**: 232,594
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|GoodPower: No one|367.00 USD|[0](https://www.snap.com/political-ads/asset/593a41a0bcbc612af4627bd8cdf8d8aa84b2f8c90d6122ca08a990e286c086d5?mediaType=mp4)|81,038||18+|united states|
-|GoodPower: No one|62.00 USD|[1](https://www.snap.com/political-ads/asset/0d38b1afd3f0fcf6eeaaeb31478e1f160e2966c4d1d4680cce000ad95cc2b9f9?mediaType=mp4)|14,342||18+|united states|
-|GoodPower: No one|48.00 USD|[2](https://www.snap.com/political-ads/asset/ce2c2766436183d311d18709ff44edfb95b06142f70a88828064d65502a812a6?mediaType=mp4)|10,901||18+|united states|
-|GoodPower: No one|44.00 USD|[3](https://www.snap.com/political-ads/asset/61df64f1db3ec27540dad03dcccd4012d44a3cd81c62b8823c490f05a47877fc?mediaType=mp4)|10,132||18+|united states|
+|GoodPower: No one|575.00 USD|[0](https://www.snap.com/political-ads/asset/593a41a0bcbc612af4627bd8cdf8d8aa84b2f8c90d6122ca08a990e286c086d5?mediaType=mp4)|127,840||18+|united states|
+|GoodPower: No one|98.00 USD|[1](https://www.snap.com/political-ads/asset/ce2c2766436183d311d18709ff44edfb95b06142f70a88828064d65502a812a6?mediaType=mp4)|22,107||18+|united states|
+|GoodPower: No one|86.00 USD|[2](https://www.snap.com/political-ads/asset/0d38b1afd3f0fcf6eeaaeb31478e1f160e2966c4d1d4680cce000ad95cc2b9f9?mediaType=mp4)|19,692||18+|united states|
+|GoodPower: No one|66.00 USD|[3](https://www.snap.com/political-ads/asset/61df64f1db3ec27540dad03dcccd4012d44a3cd81c62b8823c490f05a47877fc?mediaType=mp4)|15,027||18+|united states|
 |GoodPower: NA|61.00 USD|[4](https://www.snap.com/political-ads/asset/6c023b0e64b30dff9c3e61ea65fb64d93cc4685404596d35438aac69105bb39f?mediaType=mp4)|3,041||18+|united states|
 |GoodPower: NA|48.00 USD|[5](https://www.snap.com/political-ads/asset/e8618c055b31e468b42b59bcd455868f39fa4a9a6bbd24e6113c6a2afeb08b3f?mediaType=mp4)|3,019||18+|united states|
 |GoodPower: NA|43.00 USD|[6](https://www.snap.com/political-ads/asset/e8618c055b31e468b42b59bcd455868f39fa4a9a6bbd24e6113c6a2afeb08b3f?mediaType=mp4)|2,964||18+|united states|
