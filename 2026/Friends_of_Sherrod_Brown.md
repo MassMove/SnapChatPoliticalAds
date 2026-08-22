@@ -1,7 +1,7 @@
 ## 2026 - Friends of Sherrod Brown 
-**Spent**: 18,439.00
+**Spent**: 18,733.00
 
-**Impressions**: 3,957,429
+**Impressions**: 4,016,370
 
 **Billing Addresses**: US
 
@@ -14,10 +14,10 @@
 |Wavelength Strategy: Friends of Sherrod Brown|1,195.00 USD|[4](https://www.snap.com/political-ads/asset/e4150e8c266f47e326f351a0265986d9e384b0a076ee64cbeac9e6e8e6d23565?mediaType=png)|264,514||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|1,053.00 USD|[5](https://www.snap.com/political-ads/asset/a21e76eaa1feb5b0a00eb281b58e6df65358056bc89e9ad190309a60e83c98e2?mediaType=mp4)|229,670||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|940.00 USD|[6](https://www.snap.com/political-ads/asset/bf91e976f6ac423fc634893ca1b1f8639646a330b4e5e384dbf5180af06fbaae?mediaType=png)|196,834||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|787.00 USD|[7](https://www.snap.com/political-ads/asset/58ac47f390fd59393eb36f19758621773307f9ffd58ea8da212a2d591afc8ad3?mediaType=png)|183,733||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|820.00 USD|[8](https://www.snap.com/political-ads/asset/ac9e850c245aa3517f0861e277d1479bcda9ce5d98d4344b976f0ef03f5991f5?mediaType=mp4)|163,182||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|720.00 USD|[9](https://www.snap.com/political-ads/asset/48f495df1ebc83f3d85e903803a9944185fb1ec1d706281dbab1535b85411886?mediaType=mp4)|154,587||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|713.00 USD|[10](https://www.snap.com/political-ads/asset/f84f8cf7fd7ec38e404e31bb0717cf4e133bd48487c71f64a48dc947e47e1a04?mediaType=mp4)|146,652||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|946.00 USD|[7](https://www.snap.com/political-ads/asset/f84f8cf7fd7ec38e404e31bb0717cf4e133bd48487c71f64a48dc947e47e1a04?mediaType=mp4)|193,413||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|787.00 USD|[8](https://www.snap.com/political-ads/asset/58ac47f390fd59393eb36f19758621773307f9ffd58ea8da212a2d591afc8ad3?mediaType=png)|183,733||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|820.00 USD|[9](https://www.snap.com/political-ads/asset/ac9e850c245aa3517f0861e277d1479bcda9ce5d98d4344b976f0ef03f5991f5?mediaType=mp4)|163,182||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|720.00 USD|[10](https://www.snap.com/political-ads/asset/48f495df1ebc83f3d85e903803a9944185fb1ec1d706281dbab1535b85411886?mediaType=mp4)|154,587||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|706.00 USD|[11](https://www.snap.com/political-ads/asset/9071b0bfe2e3cd71ddcde44fa90a6d7ce34dbe434108ab59ab4660878c3f253a?mediaType=mp4)|144,852||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|796.00 USD|[12](https://www.snap.com/political-ads/asset/0c76a8cb91378694e0f6f09189c20031ad2cdf19c3d976e5947a48a56d008253?mediaType=png)|143,733||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|511.00 USD|[13](https://www.snap.com/political-ads/asset/e0b61a72b89f2af7c1c4a3bfeebb1514a9f9eaf9f81525d74837ca69d71c1da3?mediaType=png)|119,936||18-29|united states|
@@ -33,7 +33,7 @@
 |Wavelength Strategy: Friends of Sherrod Brown|227.00 USD|[23](https://www.snap.com/political-ads/asset/67d44c71487e9fee48c9b76e4dd18f61d3bb8ea13c2a9d31b448c27a63b81489?mediaType=mp4)|49,560||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|164.00 USD|[24](https://www.snap.com/political-ads/asset/8b02fc470fb13cb343d248d560ac39231e0d545ac32f88c40da80733a31e3627?mediaType=mp4)|40,183||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|162.00 USD|[25](https://www.snap.com/political-ads/asset/0c6017b2d90716a02c88e042c9928429a6e962461ece559397330b3668c39ee5?mediaType=mp4)|34,496||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|117.00 USD|[26](https://www.snap.com/political-ads/asset/dc77c45f53167d0f35463f2f51e60cd0d277197d0a9e047ce4ed553043e1888d?mediaType=mp4)|24,364||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|105.00 USD|[27](https://www.snap.com/political-ads/asset/fac2be7a0150d06bf55fbd7f2101c0fc2e65a7e671086ed76ce5e1c39333cb19?mediaType=png)|21,584||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|143.00 USD|[26](https://www.snap.com/political-ads/asset/dc77c45f53167d0f35463f2f51e60cd0d277197d0a9e047ce4ed553043e1888d?mediaType=mp4)|29,572||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|140.00 USD|[27](https://www.snap.com/political-ads/asset/fac2be7a0150d06bf55fbd7f2101c0fc2e65a7e671086ed76ce5e1c39333cb19?mediaType=png)|28,556||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|84.00 USD|[28](https://www.snap.com/political-ads/asset/e0b61a72b89f2af7c1c4a3bfeebb1514a9f9eaf9f81525d74837ca69d71c1da3?mediaType=png)|20,610||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|62.00 USD|[29](https://www.snap.com/political-ads/asset/2b1eaa4f6ed66fb78482c1486b7a9d83c9a10715392c0f711e807188849e92b5?mediaType=mp4)|15,543||18-29|united states|

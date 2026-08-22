@@ -151,7 +151,7 @@
 |[The Wu Committee](The_Wu_Committee.md) - AL Media: Michelle Wu|9,128.00 USD|1,231,955||18+|united states|
 |[Mabel Wadsworth Center](Mabel_Wadsworth_Center.md) - C+K|5,996.00 USD|1,223,323||40-|united states|
 |[ACRONYM](ACRONYM.md) - ACRONYM|11,359.00 USD|1,217,279||18+|united states|
-|[LO](LO.md) - Spooon Agency Norway|3,758.00 EUR|1,205,736||20+|norway|
+|[LO](LO.md) - Spooon Agency Norway|3,819.00 EUR|1,215,017||20+|norway|
 |[Monumental Change](Monumental_Change.md) - Bohemia Group|5,091.00 AUD|1,199,796||16-17, 18+|australia|
 |[THEFIRE.ORG](THEFIRE.ORG.md) - The Foundation for Individual Rights in Education|1,644.00 USD|1,171,304||16+|united states|
 |[Andreas Hus](Andreas_Hus.md) - Pressure|40,000.00 NOK|1,130,767||25+, 35+|norway|
