@@ -4,18 +4,18 @@ A bot to suMMarize the [Snap Chat Political Ads Library](https://www.snap.com/en
 
 Source and summarized data in CSV format: [/SCData](https://github.com/MassMove/SCBot/tree/master/SCData).
 
-Last run: 2026-08-22.
+Last run: 2026-08-23.
 
 ## [2026](2026/README.md) 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[Blue Square Alliance Against Hat](2026/Blue_Square_Alliance_Against_Hat.md) - standup2jewhate|804,303.00 USD|335,292,148||18-34|united states|
+|[Blue Square Alliance Against Hat](2026/Blue_Square_Alliance_Against_Hat.md) - standup2jewhate|809,967.00 USD|336,723,537||18-34|united states|
 |[Electoral Commission](2026/Electoral_Commission.md) - Agenda Media|297,371.00 GBP|173,391,527||16+, 16-17, 18+, 18-24, 25+|united kingdom|
 |[Al Khidmat Foundation](2026/Al_Khidmat_Foundation.md) - Jack of Digital (SMC-Pvt.) Limited|8,156.00 USD|55,111,952||13+, 18+, 20+|pakistan, united states|
-|[Project Unloaded Inc](2026/Project_Unloaded_Inc.md) - Project Unloaded|139,694.00 USD|53,356,526||17-, 20-|united states|
-|[Human Appeal](2026/Human_Appeal.md) - Human Appeal|210,204.00 GBP|29,762,987||18+|united kingdom|
+|[Project Unloaded Inc](2026/Project_Unloaded_Inc.md) - Project Unloaded|139,742.00 USD|53,361,333||17-, 20-|united states|
+|[Human Appeal](2026/Human_Appeal.md) - Human Appeal|210,229.00 GBP|29,767,207||18+|united kingdom|
 |[FDTN to Combat Antisemitism](2026/FDTN_to_Combat_Antisemitism.md) - standup2jewhate|62,723.00 USD|19,854,710||18-34|united states|
-|[Electoral Commission NZ](2026/Electoral_Commission_NZ.md) - VMLY&R|26,108.00 NZD|16,269,112||16-24, 18+|new zealand|
+|[Electoral Commission NZ](2026/Electoral_Commission_NZ.md) - VMLY&R|26,686.00 NZD|16,525,214||16-24, 18+|new zealand|
 |[Secours Islamique France](2026/Secours_Islamique_France.md) - Secours Islamique France|21,110.00 EUR|13,941,231||20-45|france|
 |[The Daily Wire LLC](2026/The_Daily_Wire_LLC.md) - The Daily Wire LLC|148,508.00 USD|13,609,405|MALE|18+, 21+, 25+, 35+|united states|
 |[Ministerie v. Binnenlandse Zaken](2026/Ministerie_v._Binnenlandse_Zaken.md) - Initiative Media B.V|75,809.00 EUR|13,395,864||18-25, 18-30|netherlands|
@@ -23,28 +23,28 @@ Last run: 2026-08-22.
 |[Virginians for Fair Elections](2026/Virginians_for_Fair_Elections.md) - AL Media: Virginians for Fair Elections|72,823.00 USD|12,021,920||18-24|united states|
 |[Kalshi Inc](2026/Kalshi_Inc.md) - Kalshi Inc|73,046.00 USD|11,128,342|MALE|18+|united states|
 |[Feel Good Action](2026/Feel_Good_Action.md) - Feel Good Action: National Preregistration Day|19,979.00 USD|10,090,073||17-|united states|
-|[Opportunity Action Fund](2026/Opportunity_Action_Fund.md) - MVAR Media: Opportunity Action Fund|82,653.00 USD|9,832,478||18+|united states|
-|[Ben & Jerry's](2026/Ben_&_Jerry's.md) - Ben and Jerry s Homemade Inc|75,567.00 USD|8,298,167||18-44|united states|
+|[Opportunity Action Fund](2026/Opportunity_Action_Fund.md) - MVAR Media: Opportunity Action Fund|84,565.00 USD|10,043,397||18+|united states|
+|[Ben & Jerry's](2026/Ben_&_Jerry's.md) - Ben and Jerry s Homemade Inc|80,718.00 USD|8,860,088||18-44|united states|
 |[Qatar Red Crescent](2026/Qatar_Red_Crescent.md) - qatar red crescent|13,871.00 USD|8,175,539||20+, 22+, 24+|qatar|
 |[Song for Charlie / Snap](2026/Song_for_Charlie___Snap.md) - Song for Charlie Inc.: Song for Charlie|8,333.00 USD|7,643,972||22-|united states|
 |[Robert Wood Johnson Foundation](2026/Robert_Wood_Johnson_Foundation.md) - GMMB  Inc: NA, Robert Wood Johnson Foundation|104,986.00 USD|6,686,935||18+|united states|
 |[PPFA](2026/PPFA.md) - C+K|47,603.00 USD|5,604,020|FEMALE|18-35, 18-44, 45+|united states|
 |[The Swedish Election Authority](2026/The_Swedish_Election_Authority.md) - Nowa Kommunikation AB|141,281.00 SEK|5,586,138||18+|sweden|
-|[Vivek for Ohio](2026/Vivek_for_Ohio.md) - Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|24,913.00 USD|5,290,060||18-34|united states|
-|[AFL-CIO](2026/AFL-CIO.md) - Assemble the Agency|18,477.00 USD|5,248,126||18+|united states|
-|[HUMAN APPEAL](2026/HUMAN_APPEAL.md) - Human Appeal  Arabic|12,928.00 GBP|5,135,263||24+, 25+, 25-54, 26+|qatar, united arab emirates|
-|[Patagonia](2026/Patagonia.md) - Patagonia Europe|56,778.00 EUR, USD|4,984,076||18+|canada, united kingdom, united states|
+|[AFL-CIO](2026/AFL-CIO.md) - Assemble the Agency|18,946.00 USD|5,362,843||18+|united states|
+|[Vivek for Ohio](2026/Vivek_for_Ohio.md) - Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|25,223.00 USD|5,356,090||18-34|united states|
+|[HUMAN APPEAL](2026/HUMAN_APPEAL.md) - Human Appeal  Arabic|12,960.00 GBP|5,140,192||24+, 25+, 25-54, 26+|qatar, united arab emirates|
+|[Patagonia](2026/Patagonia.md) - Patagonia Europe|56,805.00 EUR, USD|4,986,264||18+|canada, united kingdom, united states|
 
 ## [2025](2025/README.md) 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[ElectionsCanada/ÉlectionsCanada](2025/ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|496,359.00 CAD|181,467,072||16+, 16-17, 18+, 18-24, 18-34|canada|
-|[Human Appeal France](2025/Human_Appeal_France.md) - ORIXA MEDIA|378,990.00 EUR|151,806,269||18+|france|
+|[Human Appeal France](2025/Human_Appeal_France.md) - ORIXA MEDIA|379,002.00 EUR|151,817,917||18+|france|
 |[FDTN to Combat Antisemitism](2025/FDTN_to_Combat_Antisemitism.md) - standup2jewhate|649,983.00 USD|117,469,815||18-34|united states|
 |[Fremskrittspartiet](2025/Fremskrittspartiet.md) - Los & Co|178,944.00 EUR|104,700,513||18+, 18-30|norway|
 |[Electoral Commission](2025/Electoral_Commission.md) - Agenda Media|179,892.00 GBP|91,876,511||18-24, 25+|united kingdom|
 |[SOS-barnebyer](2025/SOS-barnebyer.md) - 2XL Online|874,827.00 NOK|73,984,551||18+, 25+|norway|
-|[Human Appeal](2025/Human_Appeal.md) - Human Appeal|360,269.00 GBP|73,283,249||18+, 20+|united kingdom|
+|[Human Appeal](2025/Human_Appeal.md) - Human Appeal|360,972.00 GBP|73,437,637||18+, 20+|united kingdom|
 |[Høyre](2025/Høyre.md) - Amidays|2,439,061.00 NOK|67,916,331||18+, 18-25, 18-30, 18-45, 18-50, 25-35, 26-35, 35+|norway|
 |[Trumpet of Patriots](2025/Trumpet_of_Patriots.md) - Trumpet of Patriots: Trumpet of Patriots|902,385.00 AUD|48,670,348||16-40, 18+, 20+|australia|
 |[California Secretary of State](2025/California_Secretary_of_State.md) - Unified|528,671.00 USD|47,976,631||18+, 25-45|united states|
@@ -57,7 +57,7 @@ Last run: 2026-08-22.
 |[Project Unloaded Inc](2025/Project_Unloaded_Inc.md) - Project Unloaded|91,240.00 USD|19,787,019|MALE|17-, 20-|united states|
 |[Zweites Deutsches Fernsehen](2025/Zweites_Deutsches_Fernsehen.md) - Mediaplus International GmbH & Co. KG: Die Bundestagswahl 2025|29,418.00 EUR|19,331,234||18-21|germany|
 |[Qatar Charity](2025/Qatar_Charity.md) - Your Speaker|67,554.00 USD|18,414,840||18+|kuwait, qatar|
-|[Islamic Relief USA](2025/Islamic_Relief_USA.md) - Islamic Relief USA|271,500.00 USD|13,281,704||18-50, 20+, 21+, 21-50, 22+, 22-50, 23+, 23-50, 24+, 25+|united states|
+|[Islamic Relief USA](2025/Islamic_Relief_USA.md) - Islamic Relief USA|271,567.00 USD|13,299,284||18-50, 20+, 21+, 21-50, 22+, 22-50, 23+, 23-50, 24+, 25+|united states|
 |[Venstre](2025/Venstre.md) - Venstre: Venstre|355,193.00 NOK|13,278,122|MALE|15-19, 16-25, 17-30, 18+, 18-25, 18-32, 18-45, 30+|norway|
 |[Stadt Wien](2025/Stadt_Wien.md) - Stadt Wien|24,592.00 EUR|12,781,416||16+, 18+|austria|
 |[Elections Ontario](2025/Elections_Ontario.md) - Starcom Canada|119,519.00 CAD|12,690,593||18+|canada|
@@ -68,7 +68,7 @@ Last run: 2026-08-22.
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](2024/Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](2024/Human_Appeal_France.md) - ORIXA MEDIA|583,994.00 EUR|314,073,779||18+|france|
+|[Human Appeal France](2024/Human_Appeal_France.md) - ORIXA MEDIA|584,181.00 EUR|314,182,841||18+|france|
 |[Biden for President](2024/Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](2024/European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](2024/The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|

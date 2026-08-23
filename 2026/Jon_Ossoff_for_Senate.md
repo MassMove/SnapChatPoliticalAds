@@ -1,13 +1,13 @@
 ## 2026 - Jon Ossoff for Senate 
-**Spent**: 395.00
+**Spent**: 444.00
 
-**Impressions**: 95,120
+**Impressions**: 104,879
 
 **Billing Addresses**: 1133 15th St NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Aisle 518 Strategies LLC: Jon Ossoff for Senate|287.00 USD|[0](https://www.snap.com/political-ads/asset/03c15e81d2414ee17a74ba72fe1b5359e293a6186a6c4d763863285909140e31?mediaType=png)|78,276|||united states|
-|Aisle 518 Strategies LLC: Jon Ossoff for Senate|49.00 USD|[1](https://www.snap.com/political-ads/asset/349e117cc576e739b529fa34fefbfb152f7f61641cc07ea83e48e4c8167ec067?mediaType=png)|8,513|||united states|
+|Aisle 518 Strategies LLC: Jon Ossoff for Senate|309.00 USD|[0](https://www.snap.com/political-ads/asset/03c15e81d2414ee17a74ba72fe1b5359e293a6186a6c4d763863285909140e31?mediaType=png)|83,921|||united states|
+|Aisle 518 Strategies LLC: Jon Ossoff for Senate|72.00 USD|[1](https://www.snap.com/political-ads/asset/349e117cc576e739b529fa34fefbfb152f7f61641cc07ea83e48e4c8167ec067?mediaType=png)|11,818|||united states|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|40.00 USD|[2](https://www.snap.com/political-ads/asset/5746b5034ed92a33c0fb4e2e65e2d0ea00286e4ac2a1d29e4af33932d84aca95?mediaType=mp4)|4,621|||united states|
-|Aisle 518 Strategies LLC: Jon Ossoff for Senate|19.00 USD|[3](https://www.snap.com/political-ads/asset/8552e6b74636777b5448ff3df4c29c56a3f952eee3600cc09d771bafa15ae779?mediaType=png)|3,710|||united states|
+|Aisle 518 Strategies LLC: Jon Ossoff for Senate|23.00 USD|[3](https://www.snap.com/political-ads/asset/8552e6b74636777b5448ff3df4c29c56a3f952eee3600cc09d771bafa15ae779?mediaType=png)|4,519|||united states|
