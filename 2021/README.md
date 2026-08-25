@@ -181,12 +181,12 @@
 |[LNU](LNU.md) - LNU: Trygg|996.00 EUR|787,415||18-25, 18-26|norway|
 |[ELM Action PAC Independent Exp.](ELM_Action_PAC_Independent_Exp..md) - mv digital group: ELM Action PAC Independent Exp, Michelle Wu for Mayor|3,691.00 USD|774,638||18+|united states|
 |[Greater Half](Greater_Half.md) - Greater Half|4,803.00 USD|768,584||18+|united states|
-|[Stand Up America](Stand_Up_America.md) - Stand Up America|1,396.00 USD|761,102||35-|united states|
 |[Advocates for Youth](Advocates_for_Youth.md) - C+K|4,999.00 USD|758,091||18-24|united states|
 |[Middlesex County, NJ](Middlesex_County,_NJ.md) - Marketing Doctor Inc: Middlesex County Voting|5,592.00 USD|756,997||18+|united states|
 |[Scottish Government](Scottish_Government.md) - Republic of Media Ltd.|5,337.00 GBP|752,544||18+, 18-24|united kingdom|
 |[SEIU and Progress GA](SEIU_and_Progress_GA.md) - Precision [TEST]|4,672.00 USD|750,515||17+|united states|
 |[International Rescue Committee](International_Rescue_Committee.md) - International Rescue Committee|1,476.00 GBP, USD|748,824||18+, 20+|australia, canada, finland, france, hong kong, italy, mexico, new zealand, portugal, spain, united kingdom|
+|[Stand Up America](Stand_Up_America.md) - Stand Up America|1,214.00 USD|741,246||35-|united states|
 |[MN 350](MN_350.md) - Minnesota 350: Big Oil has been lying to Minnesotans for decades|3,349.00 USD|719,293|||united states|
 |[Commonwealth Communications](Commonwealth_Communications.md) - The New Media Firm: Commonwealth Communications|15,959.00 USD|718,680||18+|united states|
 |[Progress NC Action](Progress_NC_Action.md) - Wavelength Strategy|5,272.00 USD|713,933||18+|united states|

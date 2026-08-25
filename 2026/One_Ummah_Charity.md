@@ -1,14 +1,14 @@
 ## 2026 - One Ummah Charity 
-**Spent**: 2,792.00
+**Spent**: 2,802.00
 
-**Impressions**: 572,366
+**Impressions**: 573,629
 
 **Billing Addresses**: GB
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|One Ummah Charity|942.00 GBP|[0](https://www.snap.com/political-ads/asset/9dd1e64363f9a8f860da1d25975f05ca46b07a9ddf2d31d3876787ade85515ce?mediaType=mp4)|171,640||21+|united kingdom|
-|One Ummah Charity|451.00 GBP|[1](https://www.snap.com/political-ads/asset/db05e11cc759c68fcbeff7e3c0aa802cedf4c6f9dab716de4cc971130d7ac19b?mediaType=mp4)|85,598||18+|united kingdom|
+|One Ummah Charity|947.00 GBP|[0](https://www.snap.com/political-ads/asset/9dd1e64363f9a8f860da1d25975f05ca46b07a9ddf2d31d3876787ade85515ce?mediaType=mp4)|172,294||18+|united kingdom|
+|One Ummah Charity|456.00 GBP|[1](https://www.snap.com/political-ads/asset/db05e11cc759c68fcbeff7e3c0aa802cedf4c6f9dab716de4cc971130d7ac19b?mediaType=mp4)|86,207||18+|united kingdom|
 |One Ummah Charity|358.00 GBP|[2](https://www.snap.com/political-ads/asset/66114aa70b0e071dd1c7b28e08ddab0d17243fac9beeed2b976679b071374b84?mediaType=mp4)|59,101||20+|united kingdom|
 |One Ummah Charity|79.00 GBP|[3](https://www.snap.com/political-ads/asset/e1bf7a2bc80a096fff574c86463bc06ef613760f6ae8807b1b15ca1ea0008fa4?mediaType=png)|27,975||18+|united kingdom|
 |One Ummah Charity|100.00 GBP|[4](https://www.snap.com/political-ads/asset/ea835549c99e985576cbb68b49c0e7fe5b9be83c28647be7209e32d3eb72652f?mediaType=png)|27,113||18+|united kingdom|

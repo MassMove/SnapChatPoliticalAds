@@ -1,46 +1,46 @@
 ## 2026 - New Jersey Education Association 
-**Spent**: 22,530.00
+**Spent**: 22,759.00
 
-**Impressions**: 3,083,397
+**Impressions**: 3,124,255
 
 **Billing Addresses**: 1730 Rhode Island Ave, NW Ste 213,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|The New Media Firm|588.00 USD|[0](https://www.snap.com/political-ads/asset/bae6c0e074775ee7f3014b2a8c9043f550958f99726af8b24656a968484dfee1?mediaType=mp4)|125,337||18+|united states|
-|The New Media Firm|555.00 USD|[1](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|117,725||18+|united states|
-|The New Media Firm|663.00 USD|[2](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|117,339||18+|united states|
-|The New Media Firm|478.00 USD|[3](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|93,695||18+|united states|
-|The New Media Firm|458.00 USD|[4](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|90,574||18+|united states|
-|The New Media Firm|445.00 USD|[5](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|86,786||18+|united states|
-|The New Media Firm|372.00 USD|[6](https://www.snap.com/political-ads/asset/d03442aceb577def99fe3fd9f94dbd6e27f3cd98f21fccfe396071aa7ba872db?mediaType=mp4)|80,204||18+|united states|
-|The New Media Firm|392.00 USD|[7](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|78,162||18+|united states|
-|The New Media Firm|418.00 USD|[8](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|76,314||18+|united states|
-|The New Media Firm|357.00 USD|[9](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|76,074||18+|united states|
-|The New Media Firm|334.00 USD|[10](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|68,822||18+|united states|
-|The New Media Firm|334.00 USD|[11](https://www.snap.com/political-ads/asset/ca28d09bb60a8a78893ed2136db5dbe6ab65bbc59ea214e57f1492e1b84be3e7?mediaType=mp4)|68,591||18+|united states|
-|The New Media Firm|373.00 USD|[12](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|68,515||18+|united states|
-|The New Media Firm|339.00 USD|[13](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|68,317||18+|united states|
-|The New Media Firm|282.00 USD|[14](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|60,121||18+|united states|
-|The New Media Firm|487.00 USD|[15](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|59,934||18+|united states|
-|The New Media Firm|452.00 USD|[16](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|56,139||18+|united states|
-|The New Media Firm|485.00 USD|[17](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|48,445||18+|united states|
+|The New Media Firm|603.00 USD|[0](https://www.snap.com/political-ads/asset/bae6c0e074775ee7f3014b2a8c9043f550958f99726af8b24656a968484dfee1?mediaType=mp4)|128,157||18+|united states|
+|The New Media Firm|565.00 USD|[1](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|119,676||18+|united states|
+|The New Media Firm|673.00 USD|[2](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|119,342||18+|united states|
+|The New Media Firm|486.00 USD|[3](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|95,156||18+|united states|
+|The New Media Firm|469.00 USD|[4](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|92,697||18+|united states|
+|The New Media Firm|451.00 USD|[5](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|87,928||18+|united states|
+|The New Media Firm|382.00 USD|[6](https://www.snap.com/political-ads/asset/d03442aceb577def99fe3fd9f94dbd6e27f3cd98f21fccfe396071aa7ba872db?mediaType=mp4)|82,187||18+|united states|
+|The New Media Firm|403.00 USD|[7](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|80,171||18+|united states|
+|The New Media Firm|427.00 USD|[8](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|78,066||18+|united states|
+|The New Media Firm|363.00 USD|[9](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|77,197||18+|united states|
+|The New Media Firm|351.00 USD|[10](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|70,758||18+|united states|
+|The New Media Firm|343.00 USD|[11](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|70,602||18+|united states|
+|The New Media Firm|382.00 USD|[12](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|70,433||18+|united states|
+|The New Media Firm|334.00 USD|[13](https://www.snap.com/political-ads/asset/ca28d09bb60a8a78893ed2136db5dbe6ab65bbc59ea214e57f1492e1b84be3e7?mediaType=mp4)|68,591||18+|united states|
+|The New Media Firm|502.00 USD|[14](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|61,600||18+|united states|
+|The New Media Firm|288.00 USD|[15](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|61,252||18+|united states|
+|The New Media Firm|460.00 USD|[16](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|57,079||18+|united states|
+|The New Media Firm|501.00 USD|[17](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|49,818||18+|united states|
 |The New Media Firm|308.00 USD|[18](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|48,431||18+|united states|
 |The New Media Firm|289.00 USD|[19](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|45,648||18+|united states|
-|The New Media Firm|205.00 USD|[20](https://www.snap.com/political-ads/asset/d03442aceb577def99fe3fd9f94dbd6e27f3cd98f21fccfe396071aa7ba872db?mediaType=mp4)|43,544||18+|united states|
-|The New Media Firm|232.00 USD|[21](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|42,829||18+|united states|
-|The New Media Firm|208.00 USD|[22](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|41,568||18+|united states|
+|The New Media Firm|213.00 USD|[20](https://www.snap.com/political-ads/asset/d03442aceb577def99fe3fd9f94dbd6e27f3cd98f21fccfe396071aa7ba872db?mediaType=mp4)|45,048||18+|united states|
+|The New Media Firm|239.00 USD|[21](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|44,173||18+|united states|
+|The New Media Firm|213.00 USD|[22](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|42,556||18+|united states|
 |The New Media Firm|242.00 USD|[23](https://www.snap.com/political-ads/asset/e36bf4d3722f20a1667f8a93e734c84b7c999f80c8ea2e4fc5a1989194239701?mediaType=mp4)|41,430||18+|united states|
 |The New Media Firm|233.00 USD|[24](https://www.snap.com/political-ads/asset/e36bf4d3722f20a1667f8a93e734c84b7c999f80c8ea2e4fc5a1989194239701?mediaType=mp4)|41,165||18+|united states|
-|The New Media Firm|189.00 USD|[25](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|40,415||18+|united states|
-|The New Media Firm|199.00 USD|[26](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|39,727||18+|united states|
-|The New Media Firm|174.00 USD|[27](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|37,061||18+|united states|
-|The New Media Firm|196.00 USD|[28](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|36,361||18+|united states|
+|The New Media Firm|192.00 USD|[25](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|41,032||18+|united states|
+|The New Media Firm|204.00 USD|[26](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|40,639||18+|united states|
+|The New Media Firm|180.00 USD|[27](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|38,293||18+|united states|
+|The New Media Firm|201.00 USD|[28](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|37,525||18+|united states|
 |The New Media Firm|494.00 USD|[29](https://www.snap.com/political-ads/asset/1ef85007dee1e5725358939302708c55b80ae45459906e0530f9c99c350bcbeb?mediaType=mp4)|36,358||18+|united states|
-|The New Media Firm|136.00 USD|[30](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|29,436||18+|united states|
-|The New Media Firm|156.00 USD|[31](https://www.snap.com/political-ads/asset/f292d9f24c6bcb58abf61c15f18a1c7b161fef105b1b60c4b81d3adf2c3603ff?mediaType=mp4)|26,479||18+|united states|
-|The New Media Firm|120.00 USD|[32](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|26,030||18+|united states|
-|The New Media Firm|118.00 USD|[33](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|24,415||18+|united states|
+|The New Media Firm|139.00 USD|[30](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|29,953||18+|united states|
+|The New Media Firm|123.00 USD|[31](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|26,537||18+|united states|
+|The New Media Firm|156.00 USD|[32](https://www.snap.com/political-ads/asset/f292d9f24c6bcb58abf61c15f18a1c7b161fef105b1b60c4b81d3adf2c3603ff?mediaType=mp4)|26,479||18+|united states|
+|The New Media Firm|121.00 USD|[33](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|25,019||18+|united states|
 |The New Media Firm|129.00 USD|[34](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|23,161||18+|united states|
 |The New Media Firm|139.00 USD|[35](https://www.snap.com/political-ads/asset/ef9fd95b09781862f1df66fec610548ad90e4f6aae01a1cf326af504279fd141?mediaType=mp4)|22,511||18+|united states|
 |The New Media Firm|142.00 USD|[36](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|22,126||18+|united states|
@@ -49,23 +49,23 @@
 |The New Media Firm|136.00 USD|[39](https://www.snap.com/political-ads/asset/09c3395427d0e0f460cb0e24e223d8c50d9ec7f62bd8ea9c7186965c39ff1726?mediaType=mp4)|20,808||18+|united states|
 |The New Media Firm|118.00 USD|[40](https://www.snap.com/political-ads/asset/ef9fd95b09781862f1df66fec610548ad90e4f6aae01a1cf326af504279fd141?mediaType=mp4)|19,959||18+|united states|
 |The New Media Firm|128.00 USD|[41](https://www.snap.com/political-ads/asset/ef9fd95b09781862f1df66fec610548ad90e4f6aae01a1cf326af504279fd141?mediaType=mp4)|19,850||18+|united states|
-|The New Media Firm|92.00 USD|[42](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|19,087||18+|united states|
+|The New Media Firm|95.00 USD|[42](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|19,639||18+|united states|
 |The New Media Firm|107.00 USD|[43](https://www.snap.com/political-ads/asset/f292d9f24c6bcb58abf61c15f18a1c7b161fef105b1b60c4b81d3adf2c3603ff?mediaType=mp4)|18,821||18+|united states|
 |The New Media Firm|144.00 USD|[44](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|17,361||18+|united states|
 |The New Media Firm|104.00 USD|[45](https://www.snap.com/political-ads/asset/53fbad5463a43ca9cfba6eb3e329129a9fb8e07a79500b3ada726b970fe7ca76?mediaType=mp4)|16,686||18+|united states|
 |The New Media Firm|62.00 USD|[46](https://www.snap.com/political-ads/asset/1ef85007dee1e5725358939302708c55b80ae45459906e0530f9c99c350bcbeb?mediaType=mp4)|14,650||18+|united states|
 |The New Media Firm|81.00 USD|[47](https://www.snap.com/political-ads/asset/f292d9f24c6bcb58abf61c15f18a1c7b161fef105b1b60c4b81d3adf2c3603ff?mediaType=mp4)|14,472||18+|united states|
 |The New Media Firm|301.00 USD|[48](https://www.snap.com/political-ads/asset/1ef85007dee1e5725358939302708c55b80ae45459906e0530f9c99c350bcbeb?mediaType=mp4)|14,308||18+|united states|
-|The New Media Firm|159.00 USD|[49](https://www.snap.com/political-ads/asset/1ef85007dee1e5725358939302708c55b80ae45459906e0530f9c99c350bcbeb?mediaType=mp4)|13,494||18+|united states|
-|The New Media Firm|64.00 USD|[50](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|13,459||18+|united states|
-|The New Media Firm|60.00 USD|[51](https://www.snap.com/political-ads/asset/bae6c0e074775ee7f3014b2a8c9043f550958f99726af8b24656a968484dfee1?mediaType=mp4)|12,962||18+|united states|
+|The New Media Firm|65.00 USD|[49](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|13,718||18+|united states|
+|The New Media Firm|159.00 USD|[50](https://www.snap.com/political-ads/asset/1ef85007dee1e5725358939302708c55b80ae45459906e0530f9c99c350bcbeb?mediaType=mp4)|13,494||18+|united states|
+|The New Media Firm|61.00 USD|[51](https://www.snap.com/political-ads/asset/bae6c0e074775ee7f3014b2a8c9043f550958f99726af8b24656a968484dfee1?mediaType=mp4)|13,183||18+|united states|
 |The New Media Firm|80.00 USD|[52](https://www.snap.com/political-ads/asset/ef9fd95b09781862f1df66fec610548ad90e4f6aae01a1cf326af504279fd141?mediaType=mp4)|12,760||18+|united states|
-|The New Media Firm|62.00 USD|[53](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|12,307||18+|united states|
-|The New Media Firm|181.00 USD|[54](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|12,072||18+|united states|
-|The New Media Firm|76.00 USD|[55](https://www.snap.com/political-ads/asset/e36bf4d3722f20a1667f8a93e734c84b7c999f80c8ea2e4fc5a1989194239701?mediaType=mp4)|12,038||18+|united states|
-|The New Media Firm|129.00 USD|[56](https://www.snap.com/political-ads/asset/ca28d09bb60a8a78893ed2136db5dbe6ab65bbc59ea214e57f1492e1b84be3e7?mediaType=mp4)|12,018||18+|united states|
-|The New Media Firm|56.00 USD|[57](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|11,949||18+|united states|
-|The New Media Firm|59.00 USD|[58](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|11,778||18+|united states|
+|The New Media Firm|64.00 USD|[53](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|12,595||18+|united states|
+|The New Media Firm|58.00 USD|[54](https://www.snap.com/political-ads/asset/1ea1c89c12f2f3171f637690db6ea4949b687af2b5157587e55f516830f359b8?mediaType=mp4)|12,238||18+|united states|
+|The New Media Firm|181.00 USD|[55](https://www.snap.com/political-ads/asset/508706a875197f10b2b4c397710c4201d5aff5013bacc5f2914d553b847c537d?mediaType=mp4)|12,072||18+|united states|
+|The New Media Firm|76.00 USD|[56](https://www.snap.com/political-ads/asset/e36bf4d3722f20a1667f8a93e734c84b7c999f80c8ea2e4fc5a1989194239701?mediaType=mp4)|12,038||18+|united states|
+|The New Media Firm|60.00 USD|[57](https://www.snap.com/political-ads/asset/db5a4dd32369fc7db343cdca8ea78ff34fab4c93267268fc0d86ed746927ca5a?mediaType=mp4)|12,022||18+|united states|
+|The New Media Firm|129.00 USD|[58](https://www.snap.com/political-ads/asset/ca28d09bb60a8a78893ed2136db5dbe6ab65bbc59ea214e57f1492e1b84be3e7?mediaType=mp4)|12,018||18+|united states|
 |The New Media Firm|98.00 USD|[59](https://www.snap.com/political-ads/asset/e36bf4d3722f20a1667f8a93e734c84b7c999f80c8ea2e4fc5a1989194239701?mediaType=mp4)|11,568||18+|united states|
 |The New Media Firm|119.00 USD|[60](https://www.snap.com/political-ads/asset/5130ed96ce0034118a3f96a02a06d62a7a2b52bd0f84b20cf0b606e76b79e21e?mediaType=mp4)|11,317||18+|united states|
 |The New Media Firm|66.00 USD|[61](https://www.snap.com/political-ads/asset/bae6c0e074775ee7f3014b2a8c9043f550958f99726af8b24656a968484dfee1?mediaType=mp4)|10,462||18+|united states|
