@@ -250,7 +250,7 @@
 |[Transport & Environment](Transport_&_Environment.md) - Transport & Environment|1,596.00 EUR|1,966,209||18+|france, germany|
 |[Lauren Underwood for Congress](Lauren_Underwood_for_Congress.md) - Do Big Things: Lauren Underwood|10,497.00 USD|1,959,678|FEMALE, MALE|18+, 18-37|united states|
 |[Poor People's Campaign](Poor_People's_Campaign.md) - Van Ness Creative Strategies LLC: Poor Peoples Campaign|14,031.00 USD|1,896,712||18+|united states|
-|[Vote like a Madre](Vote_like_a_Madre.md) - Latido Mitu Holdings  LLC|3,361.00 USD|1,865,160|FEMALE|21+|united states|
+|[Vote like a Madre](Vote_like_a_Madre.md) - Mitu NGL Holdings  LLC|3,361.00 USD|1,865,160|FEMALE|21+|united states|
 |[Alexandria Ocasio-Cortez 2020](Alexandria_Ocasio-Cortez_2020.md) - Middle Seat Consulting  LLC: Alexandria Ocasio-Cortez, Alexandria Ocasio-Cortez for Congress|5,507.00 USD|1,840,039|FEMALE, MALE|18+, 35+|united states|
 |[Respect The Look](Respect_The_Look.md) - Respect the look: Donald Trump|6,153.00 USD|1,833,927|FEMALE|18+, 20+|united states|
 |[Patricia Timmons-Goodson](Patricia_Timmons-Goodson.md) - Blueprint Interactive: Pat Timmons Goodson, Patricia Timmons Goodson for Congress|8,318.00 USD|1,805,813||18-49|united states|

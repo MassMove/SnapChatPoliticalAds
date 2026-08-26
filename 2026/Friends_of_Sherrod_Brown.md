@@ -1,14 +1,14 @@
 ## 2026 - Friends of Sherrod Brown 
-**Spent**: 19,534.00
+**Spent**: 19,749.00
 
-**Impressions**: 4,186,862
+**Impressions**: 4,228,816
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Wavelength Strategy: Friends of Sherrod Brown|2,151.00 USD|[0](https://www.snap.com/political-ads/asset/49c3f49c38a36e865d1579040776b3c67c5b45f4a00061c3d7d3673a7af40e24?mediaType=png)|460,913||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|1,570.00 USD|[1](https://www.snap.com/political-ads/asset/f84f8cf7fd7ec38e404e31bb0717cf4e133bd48487c71f64a48dc947e47e1a04?mediaType=mp4)|326,556||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|1,738.00 USD|[1](https://www.snap.com/political-ads/asset/f84f8cf7fd7ec38e404e31bb0717cf4e133bd48487c71f64a48dc947e47e1a04?mediaType=mp4)|359,439||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|1,406.00 USD|[2](https://www.snap.com/political-ads/asset/09f24b45840dcbec5b27af996536110fa2af9bf25dbbc2a1661df6fa081f10c7?mediaType=png)|292,752||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|1,310.00 USD|[3](https://www.snap.com/political-ads/asset/e350032f75fa042c6867599aa43c0528ab816746a80a6ac32b960f245e773f7a?mediaType=mp4)|285,296||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|1,170.00 USD|[4](https://www.snap.com/political-ads/asset/f2726ff5da75d29b5e82304237531e5681d2407ae0245c24f2c8ec2cfa5867fd?mediaType=mp4)|267,911||18-29|united states|
@@ -30,9 +30,9 @@
 |Wavelength Strategy: Friends of Sherrod Brown|293.00 USD|[20](https://www.snap.com/political-ads/asset/f30a8f0a17a617391516484220432a393dcf904423e0309cc3d176738892e71d?mediaType=png)|62,530||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|288.00 USD|[21](https://www.snap.com/political-ads/asset/4c689375ebc97ba7f8e3957f4ccd63fb64ce2d36aa81af7740797fdd2d7b8b25?mediaType=mp4)|59,736||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|244.00 USD|[22](https://www.snap.com/political-ads/asset/8b02fc470fb13cb343d248d560ac39231e0d545ac32f88c40da80733a31e3627?mediaType=mp4)|58,564||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|227.00 USD|[23](https://www.snap.com/political-ads/asset/67d44c71487e9fee48c9b76e4dd18f61d3bb8ea13c2a9d31b448c27a63b81489?mediaType=mp4)|49,560||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|228.00 USD|[24](https://www.snap.com/political-ads/asset/dc77c45f53167d0f35463f2f51e60cd0d277197d0a9e047ce4ed553043e1888d?mediaType=mp4)|47,748||18-29|united states|
-|Wavelength Strategy: Friends of Sherrod Brown|232.00 USD|[25](https://www.snap.com/political-ads/asset/fac2be7a0150d06bf55fbd7f2101c0fc2e65a7e671086ed76ce5e1c39333cb19?mediaType=png)|47,729||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|258.00 USD|[23](https://www.snap.com/political-ads/asset/dc77c45f53167d0f35463f2f51e60cd0d277197d0a9e047ce4ed553043e1888d?mediaType=mp4)|53,482||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|249.00 USD|[24](https://www.snap.com/political-ads/asset/fac2be7a0150d06bf55fbd7f2101c0fc2e65a7e671086ed76ce5e1c39333cb19?mediaType=png)|51,066||18-29|united states|
+|Wavelength Strategy: Friends of Sherrod Brown|227.00 USD|[25](https://www.snap.com/political-ads/asset/67d44c71487e9fee48c9b76e4dd18f61d3bb8ea13c2a9d31b448c27a63b81489?mediaType=mp4)|49,560||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|164.00 USD|[26](https://www.snap.com/political-ads/asset/8b02fc470fb13cb343d248d560ac39231e0d545ac32f88c40da80733a31e3627?mediaType=mp4)|40,183||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|162.00 USD|[27](https://www.snap.com/political-ads/asset/0c6017b2d90716a02c88e042c9928429a6e962461ece559397330b3668c39ee5?mediaType=mp4)|34,496||18-29|united states|
 |Wavelength Strategy: Friends of Sherrod Brown|84.00 USD|[28](https://www.snap.com/political-ads/asset/e0b61a72b89f2af7c1c4a3bfeebb1514a9f9eaf9f81525d74837ca69d71c1da3?mediaType=png)|20,610||18-29|united states|

@@ -1,7 +1,7 @@
 ## 2026 - BPAC 
-**Spent**: 54,866.00
+**Spent**: 59,971.00
 
-**Impressions**: 3,004,158
+**Impressions**: 3,258,365
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |GMMB  Inc|12,500.00 USD|[0](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|643,723||18+|united states|
 |GMMB  Inc|11,000.00 USD|[1](https://www.snap.com/political-ads/asset/f8cdb71d99146a7217aa479ccabd9a04eb5e98a7764cb7fabec465815f44766c?mediaType=mp4)|569,042||18+|united states|
-|GMMB  Inc|11,000.00 USD|[2](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|564,343||18+|united states|
-|GMMB  Inc|7,272.00 USD|[3](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|468,918||18+|united states|
-|GMMB  Inc|6,815.00 USD|[4](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|388,413||18+|united states|
-|GMMB  Inc|6,279.00 USD|[5](https://www.snap.com/political-ads/asset/f8cdb71d99146a7217aa479ccabd9a04eb5e98a7764cb7fabec465815f44766c?mediaType=mp4)|369,719||18+|united states|
+|GMMB  Inc|9,100.00 USD|[2](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|567,988||18+|united states|
+|GMMB  Inc|11,000.00 USD|[3](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|564,343||18+|united states|
+|GMMB  Inc|8,525.00 USD|[4](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|469,280||18+|united states|
+|GMMB  Inc|7,846.00 USD|[5](https://www.snap.com/political-ads/asset/f8cdb71d99146a7217aa479ccabd9a04eb5e98a7764cb7fabec465815f44766c?mediaType=mp4)|443,989||18+|united states|
