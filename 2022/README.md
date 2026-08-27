@@ -149,7 +149,7 @@
 |[Fair Fight](Fair_Fight.md) - Vision Media Services|32,925.00 USD|2,115,645||18+|united states|
 |[Unison](Unison.md) - M.i. Media|12,105.00 GBP|2,054,569||18+, 18-30|united kingdom|
 |[STMGP](STMGP.md) - OMD München GmbH|5,600.00 EUR|2,004,224||18-|germany|
-|[Schatz for Senate](Schatz_for_Senate.md) - Wavelength Strategy: Brian Schatz|6,855.00 USD|1,979,110||18+|united states|
+|[Schatz for Senate](Schatz_for_Senate.md) - Wavelength Strategy: Brian Schatz|6,895.00 USD|1,991,608||18+|united states|
 |[Hunter Williams](Hunter_Williams.md) - BIRMINGHAM  CITY OF: Hunter Williams|1,989.00 USD|1,968,380|||united states|
 |[HOUSE MAJORITY FORWARD](HOUSE_MAJORITY_FORWARD.md) - Human Age Digital|26,737.00 USD|1,949,297||18+, 18-35, 18-45|united states|
 |[Priorities USA & Somos Votantes](Priorities_USA_&_Somos_Votantes.md) - Gambit Strategies|27,608.00 USD|1,933,295||18-34|united states|

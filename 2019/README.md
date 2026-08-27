@@ -37,7 +37,7 @@
 |[CDPHE](CDPHE.md) - Amélie Company|32,795.00 USD|12,240,003|FEMALE|15-24, 16-, 17-, 18+, 18-, 20-, 21+, 21-, 21-34, 25-34, 34-|united states|
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|46,941.00 EUR|11,396,136||17+, 18+|norway|
 |[Action Canada SHR](Action_Canada_SHR.md) - Point Blank Creative|17,090.00 CAD|11,008,850|FEMALE, MALE|16-19, 20-23|canada|
-|[NY State of Health](NY_State_of_Health.md) - OpAD Media|41,670.00 USD|10,368,767||18-34|united states|
+|[NY State of Health](NY_State_of_Health.md) - OpAD Media|42,452.00 USD|10,657,396||18-34|united states|
 |[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|42,484.00 USD|9,830,879||17+, 18+|united states|
 |[SOAPPS](SOAPPS.md) - AGENCE NATIONALE DE PREVENTION ET DE FORMATION (ANPF)|4,706.00 EUR|9,162,404||23-33|france|
 |[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
