@@ -1,7 +1,7 @@
 ## 2025 - Human Appeal INC 
 **Spent**: 40,638.00
 
-**Impressions**: 1,192,906
+**Impressions**: 1,192,920
 
 **Billing Addresses**: 26050 Acero Suite 415 ,Mission Viejo ,92691,US
 
@@ -203,9 +203,9 @@
 |Human Appeal USA|27.00 USD|[193](https://www.snap.com/political-ads/asset/915db3b931aae44f7c450472648d577099a6ff2084586e649e79d563d2ee7ae8?mediaType=mp4)|1,040||24+|united states|
 |Human Appeal USA|33.00 USD|[194](https://www.snap.com/political-ads/asset/34a96ac2a5a7b1ff2e42b1f555d4b80947e5c171ea7638f6a9ef6e3bcd5248a3?mediaType=mp4)|1,032||24+|united states|
 |Human Appeal USA|27.00 USD|[195](https://www.snap.com/political-ads/asset/96f7410b3b87442e2398dc8a3e85fa6dd3d3b70024147173de42971cee9dc996?mediaType=mp4)|1,018||24+|united states|
-|Human Appeal USA|51.00 USD|[196](https://www.snap.com/political-ads/asset/28b2fd9c4c40d5845ed62f82bb6eb0aafadc5b62f9cc8f2279578fe3c1391411?mediaType=mp4)|1,005||24+|united states|
-|Human Appeal USA|35.00 USD|[197](https://www.snap.com/political-ads/asset/e329eda05b07363c661c12482d6b6710780eff160dddc0fe2183ba9642154d9f?mediaType=mp4)|1,000||24+|united states|
-|Human Appeal USA|37.00 USD|[198](https://www.snap.com/political-ads/asset/c796119bf8eff3f38c861c01bb6bb093d77b3323cadee1ccf770071e4e024674?mediaType=mp4)|998||24+|united states|
+|Human Appeal USA|37.00 USD|[196](https://www.snap.com/political-ads/asset/c796119bf8eff3f38c861c01bb6bb093d77b3323cadee1ccf770071e4e024674?mediaType=mp4)|1,012||24+|united states|
+|Human Appeal USA|51.00 USD|[197](https://www.snap.com/political-ads/asset/28b2fd9c4c40d5845ed62f82bb6eb0aafadc5b62f9cc8f2279578fe3c1391411?mediaType=mp4)|1,005||24+|united states|
+|Human Appeal USA|35.00 USD|[198](https://www.snap.com/political-ads/asset/e329eda05b07363c661c12482d6b6710780eff160dddc0fe2183ba9642154d9f?mediaType=mp4)|1,000||24+|united states|
 |Human Appeal USA|22.00 USD|[199](https://www.snap.com/political-ads/asset/6771a36028b8afb97705451fbedcfee87cf30cee6bcf3aa05cdc2aa6448d1f1f?mediaType=mp4)|995||24+|united states|
 |Human Appeal USA|23.00 USD|[200](https://www.snap.com/political-ads/asset/3685851e4a9bcdf2d9d71ca95c62b0424c2da12494167c827187762601027efc?mediaType=mp4)|988||24+|united states|
 |Human Appeal USA|29.00 USD|[201](https://www.snap.com/political-ads/asset/a23b06a110733d973b5a5a9cc0bb95c989bfc8d18bc33e681f2949a1de091c94?mediaType=mp4)|959||24+|united states|

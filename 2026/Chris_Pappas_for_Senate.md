@@ -1,14 +1,14 @@
 ## 2026 - Chris Pappas for Senate 
-**Spent**: 696.00
+**Spent**: 1,184.00
 
-**Impressions**: 49,313
+**Impressions**: 84,911
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gambit Strategies|442.00 USD|[0](https://www.snap.com/political-ads/asset/381c4f801d5f335cea7973874831db97462139e7375e4428548c2990d3f06869?mediaType=mp4)|17,335||18+|united states|
-|Gambit Strategies|115.00 USD|[1](https://www.snap.com/political-ads/asset/26d0471d5efb1afe70db4d51350f900b93aa3ccdb2f67d1317f2b993c2403bdc?mediaType=png)|14,422||18+|united states|
-|Gambit Strategies|52.00 USD|[2](https://www.snap.com/political-ads/asset/28830bdf2b548c782a50cf494dfc48376fbc490fbdcbca0f9d447ea9cef3ff00?mediaType=png)|6,993||18+|united states|
-|Gambit Strategies|57.00 USD|[3](https://www.snap.com/political-ads/asset/d04ab419fa963e53ee67ce3d65374489bf1b37fb2e5b80fa9824018209449675?mediaType=png)|6,364||18+|united states|
-|Gambit Strategies|30.00 USD|[4](https://www.snap.com/political-ads/asset/a4af8971a5d334ab99a73ce6366855d616fba4d26fbbcbd4d9a28ea50b045354?mediaType=mp4)|4,199||18+|united states|
+|Gambit Strategies|747.00 USD|[0](https://www.snap.com/political-ads/asset/381c4f801d5f335cea7973874831db97462139e7375e4428548c2990d3f06869?mediaType=mp4)|29,593||18+|united states|
+|Gambit Strategies|154.00 USD|[1](https://www.snap.com/political-ads/asset/26d0471d5efb1afe70db4d51350f900b93aa3ccdb2f67d1317f2b993c2403bdc?mediaType=png)|18,984||18+|united states|
+|Gambit Strategies|117.00 USD|[2](https://www.snap.com/political-ads/asset/a4af8971a5d334ab99a73ce6366855d616fba4d26fbbcbd4d9a28ea50b045354?mediaType=mp4)|16,382||18+|united states|
+|Gambit Strategies|91.00 USD|[3](https://www.snap.com/political-ads/asset/28830bdf2b548c782a50cf494dfc48376fbc490fbdcbca0f9d447ea9cef3ff00?mediaType=png)|11,456||18+|united states|
+|Gambit Strategies|75.00 USD|[4](https://www.snap.com/political-ads/asset/d04ab419fa963e53ee67ce3d65374489bf1b37fb2e5b80fa9824018209449675?mediaType=png)|8,496||18+|united states|

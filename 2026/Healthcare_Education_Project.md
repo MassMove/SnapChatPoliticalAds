@@ -1,18 +1,18 @@
 ## 2026 - Healthcare Education Project 
-**Spent**: 5,627.00
+**Spent**: 6,347.00
 
-**Impressions**: 1,257,878
+**Impressions**: 1,409,920
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Assemble the Agency|2,248.00 USD|[0](https://www.snap.com/political-ads/asset/65592de20a1cc294d8cab9bba29649229b81626b7888467289cbd13c556830d4?mediaType=png)|631,108||18+|united states|
-|Assemble the Agency|686.00 USD|[1](https://www.snap.com/political-ads/asset/5204c19d65f0c29f54b55aec16868149ef7e4556156713db58d852dc507f754b?mediaType=png)|203,223||18+|united states|
-|Assemble the Agency|691.00 USD|[2](https://www.snap.com/political-ads/asset/9c6ed822b73ea5996af55c3c0b9755721aecee37728c30c4c2733b0aff36e15e?mediaType=png)|192,816||18+|united states|
-|Assemble the Agency|505.00 USD|[3](https://www.snap.com/political-ads/asset/368068521d7deaa3285a3fbf5801105bff0e2a4a4e8444ffa2b833a2d03a5a62?mediaType=png)|143,781||18+|united states|
-|Assemble the Agency|838.00 USD|[4](https://www.snap.com/political-ads/asset/3e5f752686967f93da1da06bfe293a9e70cdd73ef4b8b4fbe6111d4a22ea8683?mediaType=png)|42,379||18+|united states|
-|Assemble the Agency|99.00 USD|[5](https://www.snap.com/political-ads/asset/618aa0a5f7a8620ed8bb1e3a9488459d7ca4ee383aef9ef7c6e78418db7083cc?mediaType=png)|22,703||18+|united states|
-|Assemble the Agency|205.00 USD|[6](https://www.snap.com/political-ads/asset/394a5b2316e6815db556741d7cf1322f06d391529a1fb6a009a0406d35aa5e21?mediaType=png)|9,743||18+|united states|
-|Assemble the Agency|162.00 USD|[7](https://www.snap.com/political-ads/asset/67ef280a7718566bb0f48d1b45c6e635eb04a0e058a2380452d11fd9f866f7e2?mediaType=png)|6,069||18+|united states|
-|Assemble the Agency|193.00 USD|[8](https://www.snap.com/political-ads/asset/2d24d244714bad85fca2adb136001cc53c4d0aba752ba6f96f6bee9d0a3491e2?mediaType=png)|6,056||18+|united states|
+|Assemble the Agency|2,532.00 USD|[0](https://www.snap.com/political-ads/asset/65592de20a1cc294d8cab9bba29649229b81626b7888467289cbd13c556830d4?mediaType=png)|706,392||18+|united states|
+|Assemble the Agency|865.00 USD|[1](https://www.snap.com/political-ads/asset/5204c19d65f0c29f54b55aec16868149ef7e4556156713db58d852dc507f754b?mediaType=png)|251,454||18+|united states|
+|Assemble the Agency|738.00 USD|[2](https://www.snap.com/political-ads/asset/9c6ed822b73ea5996af55c3c0b9755721aecee37728c30c4c2733b0aff36e15e?mediaType=png)|205,312||18+|united states|
+|Assemble the Agency|530.00 USD|[3](https://www.snap.com/political-ads/asset/368068521d7deaa3285a3fbf5801105bff0e2a4a4e8444ffa2b833a2d03a5a62?mediaType=png)|150,601||18+|united states|
+|Assemble the Agency|965.00 USD|[4](https://www.snap.com/political-ads/asset/3e5f752686967f93da1da06bfe293a9e70cdd73ef4b8b4fbe6111d4a22ea8683?mediaType=png)|48,340||18+|united states|
+|Assemble the Agency|107.00 USD|[5](https://www.snap.com/political-ads/asset/618aa0a5f7a8620ed8bb1e3a9488459d7ca4ee383aef9ef7c6e78418db7083cc?mediaType=png)|24,371||18+|united states|
+|Assemble the Agency|220.00 USD|[6](https://www.snap.com/political-ads/asset/394a5b2316e6815db556741d7cf1322f06d391529a1fb6a009a0406d35aa5e21?mediaType=png)|10,398||18+|united states|
+|Assemble the Agency|217.00 USD|[7](https://www.snap.com/political-ads/asset/2d24d244714bad85fca2adb136001cc53c4d0aba752ba6f96f6bee9d0a3491e2?mediaType=png)|6,599||18+|united states|
+|Assemble the Agency|173.00 USD|[8](https://www.snap.com/political-ads/asset/67ef280a7718566bb0f48d1b45c6e635eb04a0e058a2380452d11fd9f866f7e2?mediaType=png)|6,453||18+|united states|
