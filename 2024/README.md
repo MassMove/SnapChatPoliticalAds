@@ -1,10 +1,10 @@
 ## 2024 
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
-|[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|584,998.00 EUR|314,602,965||18+|france|
-|[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
-|[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
+|[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,213,984.00 USD|709,695,477||18+, 18-24, 18-29, 18-34, 30-35|united states|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|585,125.00 EUR|314,659,648||18+|france|
+|[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,614.00 USD|225,953,663||18+, 18-29, 18-35, 30-35|united states|
+|[European Parliament](European_Parliament.md) - Havas Media France|239,338.00 EUR|183,349,553||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
 |[Future Forward PAC](Future_Forward_PAC.md) - Bully Pulpit Interactive|842,827.00 USD|104,616,389|FEMALE, MALE|18+, 18-34, 18-40|united states|
 |[Future Forward](Future_Forward.md) - GMMB  Inc: Kamala Harris|782,558.00 USD|101,096,602||18+, 18-30|united states|
@@ -37,10 +37,10 @@
 |[Climate Power](Climate_Power.md) - Bully Pulpit Interactive|258,168.00 USD|20,297,214|FEMALE|18+, 18-30, 18-34, 18-35, 18-39, 18-40|united states|
 |[The 'Gander](The_'Gander.md) - Courier Newsroom: The Gander|277,307.00 USD|18,523,498||18+|united states|
 |[The Copper Courier](The_Copper_Courier.md) - Courier Newsroom: The Copper Courier|238,977.00 USD|17,898,053||18+|united states|
-|[Americans for ConsumerProtection](Americans_for_ConsumerProtection.md) - MNI Targeted Media: Americans for Consumer Protection|90,247.00 USD|17,488,912||18+|united states|
+|[Americans for ConsumerProtection](Americans_for_ConsumerProtection.md) - MNI Targeted Media: Americans for Consumer Protection|90,130.00 USD|17,449,855||18+|united states|
 |[Way to Win Action Fund](Way_to_Win_Action_Fund.md) - Way to Win Action Fund: Colin Allred, Kamala Harris|113,855.00 USD|17,097,751|MALE|18+, 18-35|united states|
 |[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|241,492.00 USD|16,255,550||18+|united states|
-|[Future Majority](Future_Majority.md) - JVA Campaigns: GOTV, Nonpartisan GOTV|331,593.00 USD|16,009,540||18-40|united states|
+|[Future Majority](Future_Majority.md) - JVA Campaigns: GOTV, Nonpartisan GOTV|330,087.00 USD|15,939,604||18-40|united states|
 |[New Venture Fund](New_Venture_Fund.md) - Project Unloaded|79,810.00 USD|15,275,372||17-|united states|
 |[Future Forward USA Action](Future_Forward_USA_Action.md) - Bully Pulpit Interactive|81,198.00 USD|14,845,629||18+||
 |[Colorado Department of State](Colorado_Department_of_State.md) - Colorado Secretary of State|74,930.00 USD|14,359,897||18+|united states|
@@ -95,7 +95,6 @@
 |[Natural Resources Defense Counci](Natural_Resources_Defense_Counci.md) - Natural Resources Defense Council|51,428.00 USD|4,997,422||18+, 18-34, 18-38|united states|
 |[Green Britain Campaign](Green_Britain_Campaign.md) - Green Britain Campaign|14,082.00 GBP|4,979,068||18-24, 18-30|united kingdom|
 |[The Civics Center](The_Civics_Center.md) - Feel Good Action|23,661.00 USD|4,843,322|FEMALE|15-20, 16-20, 17-20|united states|
-|[Sports Betting Alliance](Sports_Betting_Alliance.md) - Assemble the Agency|37,578.00 USD|4,837,472||18+|united states|
 |[Gaza Brothers](Gaza_Brothers.md) - Gaza Brothers|6,916.00 EUR|4,736,683||18+|france|
 |[عايض نايف ابوخوصه العتيبي](عايض_نايف_ابوخوصه_العتيبي.md) - aayad2024: AAYED, AAYED 60, AAYED ALOTAIBI, AAYED aLOTAIBI|17,385.00 USD|4,689,648|FEMALE, MALE|21+|kuwait|
 |[دكتور محمد عبدالله المطر](دكتور_محمد_عبدالله_المطر.md) - Different Media|6,587.00 USD|4,653,803||18+|kuwait|
@@ -105,6 +104,7 @@
 |[Priorities USA Action & BlackPAC](Priorities_USA_Action_&_BlackPAC.md) - Priorities USA|54,942.00 USD|4,159,811|MALE|18+, 18-49|united states|
 |[Future Pennsylvania PAC](Future_Pennsylvania_PAC.md) - Commonwealth Communications|168,480.00 USD|4,096,458|MALE|18-24|united states|
 |[League of Women Voters EF](League_of_Women_Voters_EF.md) - League of Women Voter of the United States: VOTE411|70,170.00 USD|4,075,435|FEMALE|18-24, 18-34|united states|
+|[Sports Betting Alliance](Sports_Betting_Alliance.md) - Assemble the Agency|31,040.00 USD|4,031,189||18+|united states|
 |[Österreichische Post AG](Österreichische_Post_AG.md) - Österreichische Post AG|6,362.00 EUR|4,020,354||18+|austria|
 |[LCV and Priorities USA](LCV_and_Priorities_USA.md) - Priorities USA|20,064.00 USD|4,018,155||18-44|united states|
 |[Vote Like a Madre](Vote_Like_a_Madre.md) - Bully Pulpit Interactive|54,394.00 USD|3,964,401|FEMALE|18+, 18-34, 35+|united states|
@@ -115,8 +115,8 @@
 |[Life for Relief and Development](Life_for_Relief_and_Development.md) - NGO|26,386.00 USD|3,735,230||18+, 20+, 21+, 22+|canada, france, morocco, united arab emirates, united kingdom, united states|
 |[Floridians Protecting Freedom](Floridians_Protecting_Freedom.md) - Progress Media Buying|56,410.00 USD|3,733,833||18+, 18-40|united states|
 |[Svenska Naturskyddsföreningen](Svenska_Naturskyddsföreningen.md) - Naturskyddsforeningen: EU val 2024|127,464.00 SEK|3,722,800|FEMALE|18+, 18-35, 18-40|sweden|
-|[Everytown for Gun Safety](Everytown_for_Gun_Safety.md) - Mostly Human|27,246.00 USD|3,708,483||22-|united states|
 |[Accelerate Change Network](Accelerate_Change_Network.md) - Accelerate Change Action|55,785.00 USD|3,699,924||18-45|united states|
+|[Everytown for Gun Safety](Everytown_for_Gun_Safety.md) - Mostly Human|26,996.00 USD|3,667,703||22-|united states|
 |[HUMAN RIGHTS CAMPAIGN, INC](HUMAN_RIGHTS_CAMPAIGN,_INC.md) - Priorities USA|54,367.00 USD|3,604,667||18+|united states|
 |[DONALD J. TRUMP FOR PRESIDENT](DONALD_J._TRUMP_FOR_PRESIDENT.md) - FlexPoint Media Inc: Donald J Trump for President 2024 INC, Donald J Trump for President 2024 Inc|61,924.00 USD|3,495,669||18+|united states|
 |[Future Coalition PAC](Future_Coalition_PAC.md) - MNI Targeted Media: Paid for By FC PAC, Paid for By Future Coalition PAC|18,880.00 USD|3,484,711||18-35|united states|
@@ -216,8 +216,8 @@
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Get Democracy Done|26,444.00 USD|1,222,857||18-20|united states|
 |[VoteRiders](VoteRiders.md) - VoteRiders|15,220.00 USD|1,214,559||18-27, 18-29|united states|
 |[Amt der Oö. Landesregierung](Amt_der_Oö._Landesregierung.md) - upart|1,261.00 EUR|1,180,114||16-20|austria|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,691.00 USD|1,176,760|FEMALE|30-|united states|
 |[Send The Vote](Send_The_Vote.md) - Daily Mail|6,497.00 USD|1,176,352||18+|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,677.00 USD|1,175,291|FEMALE|30-|united states|
 |[Moving Montana Forward](Moving_Montana_Forward.md) - Navigate Campaigns|5,998.00 USD|1,163,112||18-39|united states|
 |[MedGlobal](MedGlobal.md) - MedGlobal|17,833.00 USD|1,152,634||18+, 21+, 22+, 23+|canada, united states|
 |[People Power Pennsylvania](People_Power_Pennsylvania.md) - Commonwealth Communications: People Power Pennsylvania|26,392.00 USD|1,115,184||18-25, 18-30|united states|

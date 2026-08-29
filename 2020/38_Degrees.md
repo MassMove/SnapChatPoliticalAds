@@ -1,7 +1,7 @@
 ## 2020 - 38 Degrees 
-**Spent**: 5,986.00
+**Spent**: 5,972.00
 
-**Impressions**: 7,126,227
+**Impressions**: 7,113,305
 
 **Billing Addresses**: GB
 
@@ -26,8 +26,7 @@
 |38 Degrees|69.00 GBP|[38](https://www.snap.com/political-ads/asset/32fa15cb4d2182afd69018948ec041c2ca39f2e755fc3d76a8c690c9316e28ce?mediaType=mp4),[39](https://www.snap.com/political-ads/asset/14b5d0b019e637c40e3ad16bc3780c8d2062e46cc820233196e665393fcc1806?mediaType=mp4),[40](https://www.snap.com/political-ads/asset/d64c858914b2ee84eadfacc123deb2803e639f51d5f43ae4a94e557969fe86c9?mediaType=mp4)|124,931||18+|united kingdom|
 |38 Degrees|172.00 GBP|[41](https://www.snap.com/political-ads/asset/745a86f0dd1084f5d45a8df811206ac0e27f973785b0b3e683875451ef4c46ee?mediaType=mp4)|103,226||18+|united kingdom|
 |38 Degrees|14.00 GBP|[42](https://www.snap.com/political-ads/asset/34eec3c67421edfb53f08f561acc73c78e7ce3303fb8c1e12dd68fb0c28654f9?mediaType=mp4)|13,648||18+|united kingdom|
-|38 Degrees|14.00 GBP|[43](https://www.snap.com/political-ads/asset/4e5e1193b64c40e3762c8ec1c3150fd0ab11fcff9de6d60d85d45cb7f87048b0?mediaType=mp4)|12,922||18+|united kingdom|
-|38 Degrees|10.00 GBP|[44](https://www.snap.com/political-ads/asset/4f42416b97c6161f1452453cc830693db12e7cc7cfcaade7e32aa3d6bd09517f?mediaType=mp4)|10,427||18+|united kingdom|
-|38 Degrees|9.00 GBP|[45](https://www.snap.com/political-ads/asset/44669db0c7f059659f91fd37dfc4dad65b240b5635876a598a782047fa6d86fc?mediaType=mp4)|9,896||18+|united kingdom|
-|38 Degrees|9.00 GBP|[46](https://www.snap.com/political-ads/asset/66e3da0536851d9b450bff5f21b780d0359ecee78572b92f582dfb08c4a9e9c0?mediaType=mp4)|9,122||18+|united kingdom|
-|38 Degrees|9.00 GBP|[47](https://www.snap.com/political-ads/asset/cd3997bf4f9b628ab51ad61369c0365aa4d10b8faa3034675c46e48d1920b294?mediaType=mp4)|9,062||18+|united kingdom|
+|38 Degrees|10.00 GBP|[43](https://www.snap.com/political-ads/asset/4f42416b97c6161f1452453cc830693db12e7cc7cfcaade7e32aa3d6bd09517f?mediaType=mp4)|10,427||18+|united kingdom|
+|38 Degrees|9.00 GBP|[44](https://www.snap.com/political-ads/asset/44669db0c7f059659f91fd37dfc4dad65b240b5635876a598a782047fa6d86fc?mediaType=mp4)|9,896||18+|united kingdom|
+|38 Degrees|9.00 GBP|[45](https://www.snap.com/political-ads/asset/66e3da0536851d9b450bff5f21b780d0359ecee78572b92f582dfb08c4a9e9c0?mediaType=mp4)|9,122||18+|united kingdom|
+|38 Degrees|9.00 GBP|[46](https://www.snap.com/political-ads/asset/cd3997bf4f9b628ab51ad61369c0365aa4d10b8faa3034675c46e48d1920b294?mediaType=mp4)|9,062||18+|united kingdom|

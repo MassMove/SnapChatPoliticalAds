@@ -1,7 +1,7 @@
 ## 2026 - The Free Press 
-**Spent**: 24,962.00
+**Spent**: 25,134.00
 
-**Impressions**: 4,342,861
+**Impressions**: 4,379,888
 
 **Billing Addresses**: 82 Nassau St., Suite 62658,New York,10038,US
 
@@ -10,7 +10,7 @@
 |The Free Press|8,599.00 USD|[0](https://www.snap.com/political-ads/asset/88cbaef7573a42e2e030c8368eda675987c17809b73f170724e99fba2cf2d593?mediaType=mp4)|1,541,619||18+|united states|
 |The Free Press|4,588.00 USD|[1](https://www.snap.com/political-ads/asset/7e6c120c3f460da03be45620bd8abbfc25dfb9d3d7d8002d3c07a74b0f476d99?mediaType=png)|875,933||18+|united states|
 |The Free Press|1,189.00 USD|[2](https://www.snap.com/political-ads/asset/a3b317a725d7738610eda8b2103dd3506cc012d33c92459df195f2685ff9c2d4?mediaType=mp4)|251,800||18+|united states|
-|The Free Press|709.00 USD|[3](https://www.snap.com/political-ads/asset/9aeef02945c8ce1ae7d9f440f777af3173c5b94d96ef41610a75ded6cac8fd93?mediaType=png)|166,873||18+|united states|
+|The Free Press|793.00 USD|[3](https://www.snap.com/political-ads/asset/9aeef02945c8ce1ae7d9f440f777af3173c5b94d96ef41610a75ded6cac8fd93?mediaType=png)|188,198||18+|united states|
 |The Free Press|1,161.00 USD|[4](https://www.snap.com/political-ads/asset/b4aab766beda79cd61f966e6c1a139876c58f8368f47994a7214349773a83da8?mediaType=png)|156,186||18+|united states|
 |The Free Press|825.00 USD|[5](https://www.snap.com/political-ads/asset/0ea25213faa93245776a879539e35f9de8915343b1f224c4e5eabfdea5af18a8?mediaType=png)|126,718||18+|united states|
 |The Free Press|708.00 USD|[6](https://www.snap.com/political-ads/asset/24db9a9dcd5d73a8918d0f78379ee1d7c8ac668fe0e4a44a39cd2a1cf8c41403?mediaType=png)|123,305||18+|united states|
@@ -22,9 +22,9 @@
 |The Free Press|564.00 USD|[12](https://www.snap.com/political-ads/asset/6b92c624f1ad2e27b350dab848a9e322088ab4ec38c6235bb2be70b5e74c8968?mediaType=png)|70,929||18+|united states|
 |The Free Press|298.00 USD|[13](https://www.snap.com/political-ads/asset/55defd2490853b8f994713ef043790bb8456217d204aff86c705835f9a4b8093?mediaType=mp4)|69,490||18+|united states|
 |The Free Press|378.00 USD|[14](https://www.snap.com/political-ads/asset/ca4c965cf2192cf56d530b038fc4b7eaae12ae81779e67659cf84d1724828fd8?mediaType=mp4)|61,845||18+|united states|
-|The Free Press|319.00 USD|[15](https://www.snap.com/political-ads/asset/ca4c965cf2192cf56d530b038fc4b7eaae12ae81779e67659cf84d1724828fd8?mediaType=mp4)|50,406||18+|united states|
-|The Free Press|385.00 USD|[16](https://www.snap.com/political-ads/asset/7e4f40ea8fe3e0a8fd42895e6bf769cfeda6e8704ae01db9b29970ed06de0009?mediaType=png)|50,084||18+|united states|
-|The Free Press|221.00 USD|[17](https://www.snap.com/political-ads/asset/6e1857af2f37d2623c7f4ad13d888ea15daf75b1a06ef2bee84af764e6cf3c91?mediaType=png)|45,127||18+|united states|
+|The Free Press|309.00 USD|[15](https://www.snap.com/political-ads/asset/6e1857af2f37d2623c7f4ad13d888ea15daf75b1a06ef2bee84af764e6cf3c91?mediaType=png)|60,829||18+|united states|
+|The Free Press|319.00 USD|[16](https://www.snap.com/political-ads/asset/ca4c965cf2192cf56d530b038fc4b7eaae12ae81779e67659cf84d1724828fd8?mediaType=mp4)|50,406||18+|united states|
+|The Free Press|385.00 USD|[17](https://www.snap.com/political-ads/asset/7e4f40ea8fe3e0a8fd42895e6bf769cfeda6e8704ae01db9b29970ed06de0009?mediaType=png)|50,084||18+|united states|
 |The Free Press|289.00 USD|[18](https://www.snap.com/political-ads/asset/b448b5196f1e3f0b1cf887547e941e4fbcc5cab588cda067f28323ed62013682?mediaType=png)|43,891||18+|united states|
 |The Free Press|231.00 USD|[19](https://www.snap.com/political-ads/asset/b00a50808c03ff579636cb597c08a3007e93de1d0e06e487607dcb2c9c20ce23?mediaType=mp4)|38,116||18+|united states|
 |The Free Press|251.00 USD|[20](https://www.snap.com/political-ads/asset/81e1567d3569a2744b9a96b348f4e963d922f5ceb64c73b3502d9f502c716763?mediaType=png)|34,239||18+|united states|

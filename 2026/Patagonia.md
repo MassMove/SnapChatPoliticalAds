@@ -1,7 +1,7 @@
 ## 2026 - Patagonia 
-**Spent**: 56,880.00
+**Spent**: 56,972.00
 
-**Impressions**: 4,992,357
+**Impressions**: 4,999,440
 
 **Billing Addresses**: 
 - 235 W Santa Clara St,Ventura,93001,US
@@ -133,4 +133,9 @@
 |Patagonia|114.00 USD|[124](https://www.snap.com/political-ads/asset/7ed25140e50dc2ce856220f7deec433dcaec6acc7959f8166d0b9b15c3762e03?mediaType=mp4)|3,808||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|63.00 USD|[125](https://www.snap.com/political-ads/asset/7ca5530a64d4990b84b604c01b8d4366db4a2cac3f7b770daca16e9dab3871b9?mediaType=mp4)|3,678||18+|united states|235 W Santa Clara St,Ventura,93001,US|
 |Patagonia|74.00 USD|[126](https://www.snap.com/political-ads/asset/7ca5530a64d4990b84b604c01b8d4366db4a2cac3f7b770daca16e9dab3871b9?mediaType=mp4)|3,635||18+|united states|235 W Santa Clara St,Ventura,93001,US|
-|Patagonia|70.00 USD|[127](https://www.snap.com/political-ads/asset/7ed25140e50dc2ce856220f7deec433dcaec6acc7959f8166d0b9b15c3762e03?mediaType=mp4)|2,841||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|16.00 USD|[127](https://www.snap.com/political-ads/asset/5153148f435f3afa5dafa3fbb84499b58517308aefaf34183240e355aacaf7a0?mediaType=mp4)|2,847||18+|canada|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|70.00 USD|[128](https://www.snap.com/political-ads/asset/7ed25140e50dc2ce856220f7deec433dcaec6acc7959f8166d0b9b15c3762e03?mediaType=mp4)|2,841||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|28.00 USD|[129](https://www.snap.com/political-ads/asset/f746db0aa11bc64edde659f9e7e15af6b3535908a99d0fc8ef4167a51ff72cde?mediaType=mp4)|1,684||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|16.00 USD|[130](https://www.snap.com/political-ads/asset/830dd528ba6186257752015d59f923177d5f8991752eabf5f659d24dbb459c4c?mediaType=mp4)|898||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|16.00 USD|[131](https://www.snap.com/political-ads/asset/2ebb1415eeb7d7594c36e74ccd657373d666b87566e66eae27a5f3f0fb57f2b2?mediaType=mp4)|833||18+|united states|235 W Santa Clara St,Ventura,93001,US|
+|Patagonia|16.00 USD|[132](https://www.snap.com/political-ads/asset/96203ef759f68558bc1f463d63ca1ad42265b73a2442f6ddc1355519b720225b?mediaType=mp4)|821||18+|united states|235 W Santa Clara St,Ventura,93001,US|

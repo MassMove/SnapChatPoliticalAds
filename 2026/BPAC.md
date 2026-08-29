@@ -1,15 +1,15 @@
 ## 2026 - BPAC 
-**Spent**: 71,473.00
+**Spent**: 75,994.00
 
-**Impressions**: 3,815,212
+**Impressions**: 4,048,509
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|GMMB  Inc|13,235.00 USD|[0](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|785,923||18+|united states|
-|GMMB  Inc|12,381.00 USD|[1](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|645,972||18+|united states|
-|GMMB  Inc|12,500.00 USD|[2](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|643,723||18+|united states|
-|GMMB  Inc|11,357.00 USD|[3](https://www.snap.com/political-ads/asset/f8cdb71d99146a7217aa479ccabd9a04eb5e98a7764cb7fabec465815f44766c?mediaType=mp4)|606,209||18+|united states|
+|GMMB  Inc|14,850.00 USD|[0](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|877,052||18+|united states|
+|GMMB  Inc|13,897.00 USD|[1](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|719,677||18+|united states|
+|GMMB  Inc|12,747.00 USD|[2](https://www.snap.com/political-ads/asset/f8cdb71d99146a7217aa479ccabd9a04eb5e98a7764cb7fabec465815f44766c?mediaType=mp4)|674,672||18+|united states|
+|GMMB  Inc|12,500.00 USD|[3](https://www.snap.com/political-ads/asset/fa0b299ccf73ab569838dfdfc47d453c5002422f8d9efa72f6283ab6afd4a8d7?mediaType=mp4)|643,723||18+|united states|
 |GMMB  Inc|11,000.00 USD|[4](https://www.snap.com/political-ads/asset/f8cdb71d99146a7217aa479ccabd9a04eb5e98a7764cb7fabec465815f44766c?mediaType=mp4)|569,042||18+|united states|
 |GMMB  Inc|11,000.00 USD|[5](https://www.snap.com/political-ads/asset/79affb9fb44e86eea753bcccb3976fa1d0010958ce0f84e0bacd0d10180e072e?mediaType=mp4)|564,343||18+|united states|

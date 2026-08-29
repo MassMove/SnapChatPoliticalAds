@@ -1,11 +1,11 @@
 ## 2026 - NAMI 
-**Spent**: 3,453.00
+**Spent**: 3,647.00
 
-**Impressions**: 923,745
+**Impressions**: 972,253
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Beekeeper Group|1,896.00 USD|[0](https://www.snap.com/political-ads/asset/83d14d162e580aa4cd5c3c1c81d89097a8574f9eb179e789636061a91dfc5f4d?mediaType=mp4)|509,550||18+|united states|
-|Beekeeper Group|1,557.00 USD|[1](https://www.snap.com/political-ads/asset/fb35ff0adda54fcb48233bd1bb28b6941241d322721fd8e626da7c65b16e115b?mediaType=mp4)|414,195||18+|united states|
+|Beekeeper Group|2,016.00 USD|[0](https://www.snap.com/political-ads/asset/83d14d162e580aa4cd5c3c1c81d89097a8574f9eb179e789636061a91dfc5f4d?mediaType=mp4)|539,785||18+|united states|
+|Beekeeper Group|1,631.00 USD|[1](https://www.snap.com/political-ads/asset/fb35ff0adda54fcb48233bd1bb28b6941241d322721fd8e626da7c65b16e115b?mediaType=mp4)|432,468||18+|united states|

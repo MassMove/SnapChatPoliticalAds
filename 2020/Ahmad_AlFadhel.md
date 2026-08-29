@@ -1,7 +1,7 @@
 ## 2020 - Ahmad AlFadhel 
-**Spent**: 4,273.00
+**Spent**: 4,239.00
 
-**Impressions**: 1,373,625
+**Impressions**: 1,364,673
 
 **Billing Addresses**: Press Street,Shewikh,11111,KW
 
@@ -75,45 +75,44 @@
 |Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[65](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|9,186||18+|kuwait|
 |Senyar Group Agency: Ahmad AlFadhel|23.00 USD|[66](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|9,163||18+|kuwait|
 |Senyar Group Agency: Ahmad AlFadhel|26.00 USD|[67](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|8,969||18+|kuwait|
-|Senyar Group Agency|34.00 USD|[68](https://www.snap.com/political-ads/asset/31096150ce3306dfcc642e2366bff048184776b09ebfa4baf12293c1d1384e9d?mediaType=mp4)|8,952||18+|kuwait|
-|Senyar Group Agency|33.00 USD|[69](https://www.snap.com/political-ads/asset/31096150ce3306dfcc642e2366bff048184776b09ebfa4baf12293c1d1384e9d?mediaType=mp4)|8,732||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|25.00 USD|[70](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|8,528||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|24.00 USD|[71](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|8,469||18+|kuwait|
-|Senyar Group Agency|32.00 USD|[72](https://www.snap.com/political-ads/asset/31096150ce3306dfcc642e2366bff048184776b09ebfa4baf12293c1d1384e9d?mediaType=mp4)|8,418||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|24.00 USD|[73](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|8,415||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|23.00 USD|[74](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|7,968||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|23.00 USD|[75](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|7,914||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[76](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|7,872||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[77](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|7,833||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[78](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|7,603||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[79](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|7,575||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[80](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|7,544||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[81](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|7,488||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|18.00 USD|[82](https://www.snap.com/political-ads/asset/11d2bdf572b7fa4376d86f5999cffc8d2e665cc4cf1933069b694dc2d3865df5?mediaType=mp4)|7,400||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[83](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|7,260||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[84](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|7,089||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[85](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|7,025||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[86](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|6,873||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[87](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|6,838||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|19.00 USD|[88](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|6,679||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|18.00 USD|[89](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|6,468||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|19.00 USD|[90](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|6,464||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|18.00 USD|[91](https://www.snap.com/political-ads/asset/f0fe5a73f96fbefe4d7c66b11aa8fd6426e8ef0c981fa7a269118cca1170dce2?mediaType=mp4)|6,263||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|14.00 USD|[92](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|6,169||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|17.00 USD|[93](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|5,929||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|16.00 USD|[94](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|5,724||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|15.00 USD|[95](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|5,299||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|14.00 USD|[96](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|4,979||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|14.00 USD|[97](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|4,931||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|13.00 USD|[98](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|4,703||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|13.00 USD|[99](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|4,666||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|13.00 USD|[100](https://www.snap.com/political-ads/asset/f0fe5a73f96fbefe4d7c66b11aa8fd6426e8ef0c981fa7a269118cca1170dce2?mediaType=mp4)|4,448||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|12.00 USD|[101](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|4,255||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|12.00 USD|[102](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|4,228||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|12.00 USD|[103](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|4,144||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|11.00 USD|[104](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|3,930||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|10.00 USD|[105](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|3,692||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|10.00 USD|[106](https://www.snap.com/political-ads/asset/f0fe5a73f96fbefe4d7c66b11aa8fd6426e8ef0c981fa7a269118cca1170dce2?mediaType=mp4)|3,640||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|8.00 USD|[107](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|3,328||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|9.00 USD|[108](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|3,297||18+|kuwait|
-|Senyar Group Agency: Ahmad AlFadhel|10.00 USD|[109](https://www.snap.com/political-ads/asset/7d297b6f24efaa814867274a9b92d71a43dfe244cda0058d7f8063c7b4bbdea9?mediaType=mp4)|2,704||18+|kuwait|
+|Senyar Group Agency|33.00 USD|[68](https://www.snap.com/political-ads/asset/31096150ce3306dfcc642e2366bff048184776b09ebfa4baf12293c1d1384e9d?mediaType=mp4)|8,732||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|25.00 USD|[69](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|8,528||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|24.00 USD|[70](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|8,469||18+|kuwait|
+|Senyar Group Agency|32.00 USD|[71](https://www.snap.com/political-ads/asset/31096150ce3306dfcc642e2366bff048184776b09ebfa4baf12293c1d1384e9d?mediaType=mp4)|8,418||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|24.00 USD|[72](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|8,415||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|23.00 USD|[73](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|7,968||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|23.00 USD|[74](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|7,914||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[75](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|7,872||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[76](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|7,833||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[77](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|7,603||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[78](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|7,575||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[79](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|7,544||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|22.00 USD|[80](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|7,488||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|18.00 USD|[81](https://www.snap.com/political-ads/asset/11d2bdf572b7fa4376d86f5999cffc8d2e665cc4cf1933069b694dc2d3865df5?mediaType=mp4)|7,400||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[82](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|7,260||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[83](https://www.snap.com/political-ads/asset/7d7ba2ed8168c9766acce095e62616850dbf8c27167276169eeca5d97af0843c?mediaType=mp4)|7,089||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[84](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|7,025||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[85](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|6,873||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|20.00 USD|[86](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|6,838||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|19.00 USD|[87](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|6,679||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|18.00 USD|[88](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|6,468||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|19.00 USD|[89](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|6,464||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|18.00 USD|[90](https://www.snap.com/political-ads/asset/f0fe5a73f96fbefe4d7c66b11aa8fd6426e8ef0c981fa7a269118cca1170dce2?mediaType=mp4)|6,263||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|14.00 USD|[91](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|6,169||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|17.00 USD|[92](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|5,929||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|16.00 USD|[93](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|5,724||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|15.00 USD|[94](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|5,299||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|14.00 USD|[95](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|4,979||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|14.00 USD|[96](https://www.snap.com/political-ads/asset/4b0ce21d5889513937171948a387b07056e1ec75d7f8af58238045a8b6ae0d31?mediaType=mp4)|4,931||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|13.00 USD|[97](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|4,703||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|13.00 USD|[98](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|4,666||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|13.00 USD|[99](https://www.snap.com/political-ads/asset/f0fe5a73f96fbefe4d7c66b11aa8fd6426e8ef0c981fa7a269118cca1170dce2?mediaType=mp4)|4,448||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|12.00 USD|[100](https://www.snap.com/political-ads/asset/2c4ec7c23ccb4ade331809654562e3b7f60c5629a288bcb6559973338b629408?mediaType=mp4)|4,255||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|12.00 USD|[101](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|4,228||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|12.00 USD|[102](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|4,144||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|11.00 USD|[103](https://www.snap.com/political-ads/asset/338082126c7ae20be93aca8fbb34ece6733268c03dc2a45f00f0c798b4c5dbcd?mediaType=mp4)|3,930||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|10.00 USD|[104](https://www.snap.com/political-ads/asset/141795a2db1d689a6236abd654b13940651691e1089a86a9e4858b74afa9f4f0?mediaType=mp4)|3,692||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|10.00 USD|[105](https://www.snap.com/political-ads/asset/f0fe5a73f96fbefe4d7c66b11aa8fd6426e8ef0c981fa7a269118cca1170dce2?mediaType=mp4)|3,640||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|8.00 USD|[106](https://www.snap.com/political-ads/asset/ab02296cd7840c2a14baf1c40a393b4700987a2c90545fd7ac908f6622199d7d?mediaType=mp4)|3,328||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|9.00 USD|[107](https://www.snap.com/political-ads/asset/3cecce2db0b2bed2170a89e9b00ea9b066cf62ba6bc6516de76d805a4aeb673f?mediaType=mp4)|3,297||18+|kuwait|
+|Senyar Group Agency: Ahmad AlFadhel|10.00 USD|[108](https://www.snap.com/political-ads/asset/7d297b6f24efaa814867274a9b92d71a43dfe244cda0058d7f8063c7b4bbdea9?mediaType=mp4)|2,704||18+|kuwait|
