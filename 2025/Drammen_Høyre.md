@@ -1,7 +1,7 @@
 ## 2025 - Drammen Høyre 
-**Spent**: 7,038.00
+**Spent**: 7,218.00
 
-**Impressions**: 37,979
+**Impressions**: 38,578
 
 **Billing Addresses**: Nedre Storgate 11,Drammen,3015,NO
 
@@ -25,12 +25,13 @@
 |Drammen Høyre|75.00 NOK|[15](https://www.snap.com/political-ads/asset/9e7cbcf53fc17d740cd99565e410363bc37171c864a2aab711fa58f8c8d697f3?mediaType=mp4)|817||18-45|norway|
 |Drammen Høyre|145.00 NOK|[16](https://www.snap.com/political-ads/asset/f3afaa661e03d7de7c2ce42fb85d2b3201321012709401f377f99192442a49cf?mediaType=mp4)|787||45+|norway|
 |Drammen Høyre|220.00 NOK|[17](https://www.snap.com/political-ads/asset/667fc8b9e3c6fae8597f8fba6449df4f559e0364db7ea90292c4b8657a6d3ec7?mediaType=mp4)|693||18+|norway|
-|Drammen Høyre|160.00 NOK|[18](https://www.snap.com/political-ads/asset/db85667c218cfd9a652e3a82feb5bb807fb80307a9af21697f435717dfe7b63f?mediaType=mp4)|482||18+|norway|
-|Drammen Høyre|127.00 NOK|[19](https://www.snap.com/political-ads/asset/91fc48213b1e9bb9bc05fcce26505b4331e511ae5319e0f32c82b4e3bb31481e?mediaType=mp4)|474||18+|norway|
-|Drammen Høyre|119.00 NOK|[20](https://www.snap.com/political-ads/asset/c56ef266647c4cec37b5d2d6c3959df2c5363bdae192add057d6afc199e37454?mediaType=mp4)|472||18+|norway|
-|Drammen Høyre|183.00 NOK|[21](https://www.snap.com/political-ads/asset/aad25df14d08ed769dda5cebc65dcd3b7359c96317bf3c5ce3ffc27838109a2e?mediaType=mp4)|469||18+|norway|
-|Drammen Høyre|68.00 NOK|[22](https://www.snap.com/political-ads/asset/c0f5ca9ac17eb6c524eb41719176c3cff0338844936a19007786a2c236ca91e1?mediaType=mp4)|290||18+|norway|
-|Drammen Høyre|76.00 NOK|[23](https://www.snap.com/political-ads/asset/22f2614a87fe8a49a198f8fc0b5b7898951f6c6b0c9e1746997dfa9a38a99ab1?mediaType=mp4)|279||18+|norway|
-|Drammen Høyre|52.00 NOK|[24](https://www.snap.com/political-ads/asset/9723a1dbfc8a12acc8b16baf56185e12f4bb80cd5795561a78e0269821be641f?mediaType=mp4)|230||45+|norway|
-|Drammen Høyre|43.00 NOK|[25](https://www.snap.com/political-ads/asset/aab8c6834410addf7eef363f364b6868a5dc5b9f83151a00a0a3bbad5e183363?mediaType=mp4)|187||18+|norway|
-|Drammen Høyre|23.00 NOK|[26](https://www.snap.com/political-ads/asset/c0fe24427a3191b471f78666ee613bcdc0475c8705841075b01e08b4f4fb46fe?mediaType=mp4)|108||45+|norway|
+|Drammen Høyre|180.00 NOK|[18](https://www.snap.com/political-ads/asset/09009943fc6c6d7bf64d0839f72c95fa576bd7cac3a37b8edc95be96e34b2093?mediaType=mp4)|599||18+|norway|
+|Drammen Høyre|160.00 NOK|[19](https://www.snap.com/political-ads/asset/db85667c218cfd9a652e3a82feb5bb807fb80307a9af21697f435717dfe7b63f?mediaType=mp4)|482||18+|norway|
+|Drammen Høyre|127.00 NOK|[20](https://www.snap.com/political-ads/asset/91fc48213b1e9bb9bc05fcce26505b4331e511ae5319e0f32c82b4e3bb31481e?mediaType=mp4)|474||18+|norway|
+|Drammen Høyre|119.00 NOK|[21](https://www.snap.com/political-ads/asset/c56ef266647c4cec37b5d2d6c3959df2c5363bdae192add057d6afc199e37454?mediaType=mp4)|472||18+|norway|
+|Drammen Høyre|183.00 NOK|[22](https://www.snap.com/political-ads/asset/aad25df14d08ed769dda5cebc65dcd3b7359c96317bf3c5ce3ffc27838109a2e?mediaType=mp4)|469||18+|norway|
+|Drammen Høyre|68.00 NOK|[23](https://www.snap.com/political-ads/asset/c0f5ca9ac17eb6c524eb41719176c3cff0338844936a19007786a2c236ca91e1?mediaType=mp4)|290||18+|norway|
+|Drammen Høyre|76.00 NOK|[24](https://www.snap.com/political-ads/asset/22f2614a87fe8a49a198f8fc0b5b7898951f6c6b0c9e1746997dfa9a38a99ab1?mediaType=mp4)|279||18+|norway|
+|Drammen Høyre|52.00 NOK|[25](https://www.snap.com/political-ads/asset/9723a1dbfc8a12acc8b16baf56185e12f4bb80cd5795561a78e0269821be641f?mediaType=mp4)|230||45+|norway|
+|Drammen Høyre|43.00 NOK|[26](https://www.snap.com/political-ads/asset/aab8c6834410addf7eef363f364b6868a5dc5b9f83151a00a0a3bbad5e183363?mediaType=mp4)|187||18+|norway|
+|Drammen Høyre|23.00 NOK|[27](https://www.snap.com/political-ads/asset/c0fe24427a3191b471f78666ee613bcdc0475c8705841075b01e08b4f4fb46fe?mediaType=mp4)|108||45+|norway|

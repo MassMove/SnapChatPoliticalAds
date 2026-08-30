@@ -5,7 +5,7 @@
 |[Biden for President](Biden_for_President.md) - GMMB  Inc: Biden for President, Joe Biden, Joe Biden for President|3,751,924.00 USD|722,271,015||17-24, 17-27, 18+, 18-24, 18-34, 18-49|united states|
 |[Albbiom Marketing LLC](Albbiom_Marketing_LLC.md) - Marud Khan: Donal Trump, Donald Trump, Donald Trunp, PRESIDENT TRUMP, President Trump|418,028.00 USD|435,191,562|FEMALE, MALE|18+, 20+, 21+, 22+|united states|
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|1,037,149.00 USD|261,986,265||18-34, 24-38|united states|
-|[Voter Participation Center](Voter_Participation_Center.md) - C+K: Voter Registration|988,411.00 USD|226,377,021|FEMALE|18+, 18-40, 18-45|united states|
+|[Voter Participation Center](Voter_Participation_Center.md) - C+K: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18+, 18-40, 18-45|united states|
 |[California Secretary of State](California_Secretary_of_State.md) - Assembly: California Secretary of State|486,434.00 USD|164,066,878||18+|united states|
 |[ACRONYM](ACRONYM.md) - ACRONYM|935,164.00 USD|133,729,086|FEMALE|18+, 18-34, 18-35|united states|
 |[Planned Parenthood](Planned_Parenthood.md) - R/GA|204,116.00 USD|129,357,823|FEMALE|17-, 18+, 18-24, 18-28, 18-34, 18-35, 35-|united states|
@@ -50,7 +50,7 @@
 |[Greater Half](Greater_Half.md) - Greater Half|27,274.00 USD|21,211,328||18+, 19+, 20+, 22+|united states|
 |[Turnout Activism Inc.](Turnout_Activism_Inc..md) - Turnout Activism Inc.: Turnout Activism Inc|82,621.00 USD|20,867,604|FEMALE|17-18, 17-29, 18-26|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|56,767.00 AUD|20,736,335||16+, 16-19|australia|
-|[Supermajority PAC](Supermajority_PAC.md) - Do Big Things: Supermajority|110,337.00 USD|19,393,787|FEMALE|18+, 18-35|united states|
+|[Supermajority PAC](Supermajority_PAC.md) - Do Big Things: Supermajority|110,395.00 USD|19,407,496|FEMALE|18+, 18-35|united states|
 |[Paid For By Fair Fight](Paid_For_By_Fair_Fight.md) - AL Media|157,307.00 USD|19,343,794||18+|united states|
 |[Latino Victory Fund](Latino_Victory_Fund.md) - Hawkfish LLC: Joe Biden|123,913.00 USD|18,813,554||18+|united states|
 |[CHNGE](CHNGE.md) - CHNGE|61,931.00 USD|18,174,431|FEMALE|16-30, 21-, 25-, 27-, 30-, 35-|united states|
@@ -111,8 +111,8 @@
 |[LUCHA](LUCHA.md) - The Colibri Collective: Joe Biden, Joe Biden Mark Kelly, Mark Kelly, No Prop 207, VOTE BLUE, Vote|23,818.00 USD|7,290,205||18+, 18-34, 40-, 49-|united states|
 |[Save Our Senate PAC](Save_Our_Senate_PAC.md) - Break Something: Georgia Senate Runoff Election|25,001.00 USD|7,272,964||18+|united states|
 |[Iowa Democratic Party](Iowa_Democratic_Party.md) - GPS Impact: Iowa Democratic Party|32,689.00 USD|7,247,440||18-35|united states|
+|[38 Degrees](38_Degrees.md) - 38 Degrees|5,986.00 GBP|7,126,227||18+|united kingdom|
 |[Facts Over Flavor](Facts_Over_Flavor.md) - RIESTER Sonoran LLC|16,089.00 USD|7,121,891||17-|united states|
-|[38 Degrees](38_Degrees.md) - 38 Degrees|5,972.00 GBP|7,113,305||18+|united kingdom|
 |[Millions of Michiganians](Millions_of_Michiganians.md) - The New Media Firm: IE Supporting Joe Biden for President, IE Supporting Senator Gary Peters, IE Supporting VP Joe Biden for President|42,448.00 USD|7,084,843||18+|united states|
 |[America First Action](America_First_Action.md) - America First Action: America First Action|79,009.00 USD|7,073,009||18+, 25+|united states|
 |[INVESTinED​](INVESTinED​.md) - Adtaxi: INVESTinED|85,048.00 USD|6,919,253|FEMALE|25+|united states|
@@ -182,8 +182,8 @@
 |[Donald J. Trump for President](Donald_J._Trump_for_President.md) - Donald J. Trump for President: Donald J Trump, Donald J Trump for President|60,760.00 USD|3,622,804||18+, 18-45|united states|
 |[HeadCount](HeadCount.md) - DKC Analytics|10,375.00 USD|3,613,755||18-24|united states|
 |[مبارك زيد العرو](مبارك_زيد_العرو.md) - optimize advertising & marketing company wll|6,345.00 USD|3,596,912||18+, 21+|kuwait|
+|[Global Citizen](Global_Citizen.md) - Global Citizen: Just Vote|14,655.00 USD|3,579,146||18-30, 18-35|united states|
 |[Progress Georgia](Progress_Georgia.md) - Winning Mark|29,552.00 USD|3,569,303||18+|united states|
-|[Global Citizen](Global_Citizen.md) - Global Citizen: Just Vote|14,560.00 USD|3,548,945||18-30, 18-35|united states|
 |[LO](LO.md) - Spooon Agency Norway|7,875.00 EUR|3,548,428||18-40, 20+|norway|
 |[Progress For North Carolina](Progress_For_North_Carolina.md) - BuzzFeed Inc.: Progress NC|7,997.00 USD|3,547,980||18+|united states|
 |[Women Vote!](Women_Vote!.md) - The New Media Firm: Women Vote|42,172.00 USD|3,490,085|FEMALE, MALE|18+|united states|
@@ -284,10 +284,10 @@
 |[Defend American Democracy](Defend_American_Democracy.md) - Blueprint Interactive: Defend American Democracy|7,660.00 USD|1,431,333||18+|united states|
 |[Cameo](Cameo.md) - Cameo: Rock the Vote|1,843.00 USD|1,427,618|||united states|
 |[Alabama Dept of Public Health](Alabama_Dept_of_Public_Health.md) - Stamp Idea Group|1,700.00 USD|1,397,690|||united states|
+|[Ahmad AlFadhel](Ahmad_AlFadhel.md) - Senyar Group Agency: Ahmad AlFadhel|4,273.00 USD|1,373,625||18+|kuwait|
 |[Joe Biden For President](Joe_Biden_For_President.md) - Barstool Sports: Joe Biden for President|19,284.00 USD|1,372,588||18+|united states|
 |[Rashida Tlaib for Congress](Rashida_Tlaib_for_Congress.md) - The New Media Firm: Rashida Tlaib for Congress|11,248.00 USD|1,372,231||18+|united states|
 |[Collective Future](Collective_Future.md) - New Blue Interactive: Collective Future|11,799.00 USD|1,368,686||18+|united states|
-|[Ahmad AlFadhel](Ahmad_AlFadhel.md) - Senyar Group Agency: Ahmad AlFadhel|4,239.00 USD|1,364,673||18+|kuwait|
 |[Ahmad Alhamad](Ahmad_Alhamad.md) - alhamad: Ahmad Alhamad|2,500.00 USD|1,355,558||20+|kuwait|
 |[Batil Alrajma](Batil_Alrajma.md) - Digital Media Services FZ-LLC: Batil Alrajma|2,072.00 USD|1,348,902||21+|kuwait|
 |[Tangelo LLC](Tangelo_LLC.md) - Tangeo LLC: Nonpartisan|2,352.00 USD|1,347,849||18-30, 24-|united states|
@@ -314,13 +314,13 @@
 |[أحمد الشحومي](أحمد_الشحومي.md) - Social Life|2,115.00 USD|1,093,712||21-40|kuwait|
 |[Angie Craig for Congress](Angie_Craig_for_Congress.md) - Blueprint Interactive: Angie Craig for Congress|5,579.00 USD|1,093,039|MALE|18-28, 30-|united states|
 |[London Labour](London_Labour.md) - London Labour: Sadiq Khan|1,820.00 GBP|1,088,693||18+|united kingdom|
+|[California Endowment](California_Endowment.md) - The Creative Space Group: Vota Hoy, Youth Vote Matters|3,684.00 USD|1,086,517||18+, 18-38, 18-40|united states|
 |[Faisal Khalid Bin Hethlain](Faisal_Khalid_Bin_Hethlain.md) - Bin Hethlain: Faisal Khalid Bin Hethlain|1,937.00 USD|1,065,923||18+|kuwait|
 |[Outrider Foundation](Outrider_Foundation.md) - Outrider Foundation: Mail in Voting|8,778.00 USD|1,060,310||18-24, 18-30|united states|
 |[Eric Garza](Eric_Garza.md) - Eric Garza: Eric Garza|2,269.00 USD|1,047,671||18-35, 18-40|united states|
 |[د. صالح دياب المطيري](د._صالح_دياب_المطيري.md) - optimize advertising & marketing company wll|1,417.00 USD|1,047,518|FEMALE|21+|kuwait|
 |[NEXTGEN and LCV VICTORY FUND](NEXTGEN_and_LCV_VICTORY_FUND.md) - Bully Pulpit Interactive: Joe Biden|17,856.00 USD|1,041,765||18-34|united states|
 |[Leadership MKE](Leadership_MKE.md) - Blueprint Interactive: Leadership MKE|2,974.00 USD|1,032,780||18+|united states|
-|[California Endowment](California_Endowment.md) - The Creative Space Group: Vota Hoy, Youth Vote Matters|3,576.00 USD|1,032,602||18+, 18-38, 18-40|united states|
 |[NALEO Educational Fund](NALEO_Educational_Fund.md) - Panowatch  LLC: 2020 US Census|8,800.00 USD|1,031,504||18+|united states|
 |[Equality PAC](Equality_PAC.md) - Wavelength Strategy: Equality PAC|8,287.00 USD|1,022,395||18+|united states|
 |[Røde Kors Oslo](Røde_Kors_Oslo.md) - Papaya design & marketing|1,782.00 USD|1,002,205|FEMALE, MALE|17-, 18-23|norway|

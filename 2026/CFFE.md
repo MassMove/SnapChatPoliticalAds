@@ -1,13 +1,13 @@
 ## 2026 - CFFE 
-**Spent**: 11,136.00
+**Spent**: 12,141.00
 
-**Impressions**: 534,012
+**Impressions**: 580,661
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gambit Strategies|5,846.00 USD|[0](https://www.snap.com/political-ads/asset/6447f3cec251778d5c67e9f4acc632ef0d46d08a11e2e91321a990abbe078e28?mediaType=mp4)|316,688||18+|united states|
-|Gambit Strategies|4,092.00 USD|[1](https://www.snap.com/political-ads/asset/5602bb658c378a535c5e540f86895f6af13fc0c8e5cc767defa872e8b830cea8?mediaType=mp4)|152,573||18+|united states|
+|Gambit Strategies|6,407.00 USD|[0](https://www.snap.com/political-ads/asset/6447f3cec251778d5c67e9f4acc632ef0d46d08a11e2e91321a990abbe078e28?mediaType=mp4)|346,529||18+|united states|
+|Gambit Strategies|4,536.00 USD|[1](https://www.snap.com/political-ads/asset/5602bb658c378a535c5e540f86895f6af13fc0c8e5cc767defa872e8b830cea8?mediaType=mp4)|169,381||18+|united states|
 |Gambit Strategies|802.00 USD|[2](https://www.snap.com/political-ads/asset/c136d78c51875a86442f0173e0fb1bf5c09a44062abafc98c608976184348e55?mediaType=mp4)|42,431||18+|united states|
 |Gambit Strategies|396.00 USD|[3](https://www.snap.com/political-ads/asset/c136d78c51875a86442f0173e0fb1bf5c09a44062abafc98c608976184348e55?mediaType=mp4)|22,320||18+|united states|

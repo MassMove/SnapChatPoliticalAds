@@ -1,7 +1,7 @@
 ## 2023 - Landsorganisasjonen i Norge 
-**Spent**: 57,972.00
+**Spent**: 59,993.00
 
-**Impressions**: 1,374,051
+**Impressions**: 1,398,290
 
 **Billing Addresses**: Grensen 17,OSLO,0159,NO
 
@@ -24,18 +24,19 @@
 |Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,044.00 NOK|[17](https://www.snap.com/political-ads/asset/d2ab1fe948254da3e4844d5cd61f6f410112f45118aa405b3cd0a1df1cd8e6fc?mediaType=mp4)|24,965||20-45|norway|
 |Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,928.00 NOK|[18](https://www.snap.com/political-ads/asset/65c3657ce05d9950441af5d0a423442c5859b75e1ab926319844aa89a9b46742?mediaType=mp4)|24,888||20-45|norway|
 |Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|284.00 NOK|[19](https://www.snap.com/political-ads/asset/e7fb002358ab44c2ae266c8462e2bcd59ab2eb493a0938db24ea481c9261d06c?mediaType=mp4)|24,787|MALE|18-34|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,143.00 NOK|[20](https://www.snap.com/political-ads/asset/3edcba5d686da3d157a37fd31a5bbe29664456bc231f24182e58e5edc9228a71?mediaType=mp4)|22,384||18+|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|256.00 NOK|[21](https://www.snap.com/political-ads/asset/ea9f5cf4f243e5741ca813ab81fbee95f5417f9d2b84c83d6974417a9a2ed1ac?mediaType=mp4)|22,325|MALE|18-34|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|3,751.00 NOK|[22](https://www.snap.com/political-ads/asset/af1963fbbbd7d4ec644f01274c4f04ac4d822386e46f03eb24259836ffd49f9d?mediaType=mp4)|22,064||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|225.00 NOK|[23](https://www.snap.com/political-ads/asset/3edcba5d686da3d157a37fd31a5bbe29664456bc231f24182e58e5edc9228a71?mediaType=mp4)|19,539|MALE|18-34|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,403.00 NOK|[24](https://www.snap.com/political-ads/asset/faaabe2cf0042335e6d3405bdc6571f416115d5c5dd36aefdf9e1b5960b7f715?mediaType=mp4)|16,902||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,735.00 NOK|[25](https://www.snap.com/political-ads/asset/8d5008c44686ee95ca913fd066c859e037f469bb596feba2447fc99b5acf84f4?mediaType=mp4)|16,676||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|837.00 NOK|[26](https://www.snap.com/political-ads/asset/e7fb002358ab44c2ae266c8462e2bcd59ab2eb493a0938db24ea481c9261d06c?mediaType=mp4)|14,547|MALE|18-34|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,262.00 NOK|[27](https://www.snap.com/political-ads/asset/c3ce74afc2ddbba8e34611c210d05f24b79ae3ea78d928e3483ea52f068c2172?mediaType=mp4)|13,076||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,315.00 NOK|[28](https://www.snap.com/political-ads/asset/d2ab1fe948254da3e4844d5cd61f6f410112f45118aa405b3cd0a1df1cd8e6fc?mediaType=mp4)|12,491||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,074.00 NOK|[29](https://www.snap.com/political-ads/asset/65c3657ce05d9950441af5d0a423442c5859b75e1ab926319844aa89a9b46742?mediaType=mp4)|12,277||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,245.00 NOK|[30](https://www.snap.com/political-ads/asset/5fc2a8171338cae3a0d337f29dba708eaaf0e0b553d4d4574c0c1b281bb374e8?mediaType=mp4)|12,210||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,025.00 NOK|[31](https://www.snap.com/political-ads/asset/5fc2a8171338cae3a0d337f29dba708eaaf0e0b553d4d4574c0c1b281bb374e8?mediaType=mp4)|11,993||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|954.00 NOK|[32](https://www.snap.com/political-ads/asset/239206ab72376374de05653927c5d40784b3c6acdf591dd8a0cbc517d28beff9?mediaType=mp4)|9,285||20-45|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|350.00 NOK|[33](https://www.snap.com/political-ads/asset/3edcba5d686da3d157a37fd31a5bbe29664456bc231f24182e58e5edc9228a71?mediaType=mp4)|5,298|MALE|18-34|norway|
-|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|312.00 NOK|[34](https://www.snap.com/political-ads/asset/ea9f5cf4f243e5741ca813ab81fbee95f5417f9d2b84c83d6974417a9a2ed1ac?mediaType=mp4)|4,781|MALE|18-34|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,021.00 NOK|[20](https://www.snap.com/political-ads/asset/8d5008c44686ee95ca913fd066c859e037f469bb596feba2447fc99b5acf84f4?mediaType=mp4)|24,239||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,143.00 NOK|[21](https://www.snap.com/political-ads/asset/3edcba5d686da3d157a37fd31a5bbe29664456bc231f24182e58e5edc9228a71?mediaType=mp4)|22,384||18+|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|256.00 NOK|[22](https://www.snap.com/political-ads/asset/ea9f5cf4f243e5741ca813ab81fbee95f5417f9d2b84c83d6974417a9a2ed1ac?mediaType=mp4)|22,325|MALE|18-34|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|3,751.00 NOK|[23](https://www.snap.com/political-ads/asset/af1963fbbbd7d4ec644f01274c4f04ac4d822386e46f03eb24259836ffd49f9d?mediaType=mp4)|22,064||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|225.00 NOK|[24](https://www.snap.com/political-ads/asset/3edcba5d686da3d157a37fd31a5bbe29664456bc231f24182e58e5edc9228a71?mediaType=mp4)|19,539|MALE|18-34|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,403.00 NOK|[25](https://www.snap.com/political-ads/asset/faaabe2cf0042335e6d3405bdc6571f416115d5c5dd36aefdf9e1b5960b7f715?mediaType=mp4)|16,902||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,735.00 NOK|[26](https://www.snap.com/political-ads/asset/8d5008c44686ee95ca913fd066c859e037f469bb596feba2447fc99b5acf84f4?mediaType=mp4)|16,676||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|837.00 NOK|[27](https://www.snap.com/political-ads/asset/e7fb002358ab44c2ae266c8462e2bcd59ab2eb493a0938db24ea481c9261d06c?mediaType=mp4)|14,547|MALE|18-34|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,262.00 NOK|[28](https://www.snap.com/political-ads/asset/c3ce74afc2ddbba8e34611c210d05f24b79ae3ea78d928e3483ea52f068c2172?mediaType=mp4)|13,076||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|2,315.00 NOK|[29](https://www.snap.com/political-ads/asset/d2ab1fe948254da3e4844d5cd61f6f410112f45118aa405b3cd0a1df1cd8e6fc?mediaType=mp4)|12,491||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,074.00 NOK|[30](https://www.snap.com/political-ads/asset/65c3657ce05d9950441af5d0a423442c5859b75e1ab926319844aa89a9b46742?mediaType=mp4)|12,277||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,245.00 NOK|[31](https://www.snap.com/political-ads/asset/5fc2a8171338cae3a0d337f29dba708eaaf0e0b553d4d4574c0c1b281bb374e8?mediaType=mp4)|12,210||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|1,025.00 NOK|[32](https://www.snap.com/political-ads/asset/5fc2a8171338cae3a0d337f29dba708eaaf0e0b553d4d4574c0c1b281bb374e8?mediaType=mp4)|11,993||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|954.00 NOK|[33](https://www.snap.com/political-ads/asset/239206ab72376374de05653927c5d40784b3c6acdf591dd8a0cbc517d28beff9?mediaType=mp4)|9,285||20-45|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|350.00 NOK|[34](https://www.snap.com/political-ads/asset/3edcba5d686da3d157a37fd31a5bbe29664456bc231f24182e58e5edc9228a71?mediaType=mp4)|5,298|MALE|18-34|norway|
+|Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|312.00 NOK|[35](https://www.snap.com/political-ads/asset/ea9f5cf4f243e5741ca813ab81fbee95f5417f9d2b84c83d6974417a9a2ed1ac?mediaType=mp4)|4,781|MALE|18-34|norway|

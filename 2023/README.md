@@ -82,8 +82,8 @@
 |[Supermajority](Supermajority.md) - M&R Strategic Services  Inc.|19,887.00 USD|1,464,930|FEMALE|18-35|united states|
 |[Rivamo AG](Rivamo_AG.md) - Httpool Online Marketing GmbH|4,999.00 EUR|1,405,408||18-35|germany|
 |[Brandon Presley Campaign](Brandon_Presley_Campaign.md) - BattleAxe Digital: Brandon Presley Campaign|9,742.00 USD|1,399,155||18-24|united states|
+|[Landsorganisasjonen i Norge](Landsorganisasjonen_i_Norge.md) - Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|59,993.00 NOK|1,398,290|MALE|18+, 18-34, 20-45|norway|
 |[Khaled Hajery](Khaled_Hajery.md) - Digital Media Services FZ-LLC|3,200.00 USD|1,387,947|FEMALE|21+|kuwait|
-|[Landsorganisasjonen i Norge](Landsorganisasjonen_i_Norge.md) - Spooon Agency Norway: Stem roedgront ved aarets lokalvalg|57,972.00 NOK|1,374,051|MALE|18+, 18-34, 20-45|norway|
 |[Make.org](Make.org.md) - Make.org: Make|3,793.00 EUR|1,364,237|FEMALE, MALE|18+, 18-35|finland, france|
 |[Refuge](Refuge.md) - Refuge|5,565.00 GBP|1,346,859|FEMALE|18+|united kingdom|
 |[NRDC](NRDC.md) - Blueprint Interactive|16,997.00 USD|1,316,346||18+, 18-40|united states|

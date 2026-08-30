@@ -14,12 +14,12 @@
 |[Canada's New Democratic Party](Canada's_New_Democratic_Party.md) - Metric: New Democratic Party of Canada|64,894.00 CAD|29,081,712||18+, 18-39, 18-40, 39-, 40-|canada|
 |[End Citizens United](End_Citizens_United.md) - Wavelength Strategy|240,772.00 USD|26,304,348||18+|united states|
 |[Electoral Commission](Electoral_Commission.md) - Walk In Media: The Electoral Commission|40,401.00 GBP|23,970,761||16-17, 18-34|united kingdom|
+|[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
-|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,387,656.00 NOK|19,720,439||18+, 18-22, 18-29, 18-30, 18-40, 18-45, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
+|[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||18+, 18-22, 18-29, 18-30, 18-40, 18-45, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
 |[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 EUR, USD|19,188,668||18+, 18-34, 18-35, 18-44, 21+|germany, italy, netherlands, united kingdom, united states|
 |[Dove](Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
-|[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|27,043.00 USD|16,840,619||24-|united states|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|130,479.00 USD|16,742,016||18-34|united states|
 |[The Labour Party](The_Labour_Party.md) - The Labour Party: Kim Leadbeater, The Labour Party|38,583.00 GBP|15,253,082||18+, 18-24, 18-25|united kingdom|
 |[NATO](NATO.md) - Maximum Media GmbH|18,571.00 EUR|13,914,326||16-24, 18-24|france, spain, united kingdom, united states|
@@ -179,7 +179,7 @@
 |[Human Rights Campaign](Human_Rights_Campaign.md) - Bully Pulpit Interactive|5,951.00 USD|802,828||18+|united states|
 |[Pierce County WA Government](Pierce_County_WA_Government.md) - Digital Mark Group|2,399.00 USD|801,158|||united states|
 |[LNU](LNU.md) - LNU: Trygg|996.00 EUR|787,415||18-25, 18-26|norway|
-|[ELM Action PAC Independent Exp.](ELM_Action_PAC_Independent_Exp..md) - mv digital group: ELM Action PAC Independent Exp, Michelle Wu for Mayor|3,689.00 USD|774,374||18+|united states|
+|[ELM Action PAC Independent Exp.](ELM_Action_PAC_Independent_Exp..md) - mv digital group: ELM Action PAC Independent Exp, Michelle Wu for Mayor|3,691.00 USD|774,638||18+|united states|
 |[Greater Half](Greater_Half.md) - Greater Half|4,803.00 USD|768,584||18+|united states|
 |[Stand Up America](Stand_Up_America.md) - Stand Up America|1,396.00 USD|761,102||35-|united states|
 |[Advocates for Youth](Advocates_for_Youth.md) - C+K|4,999.00 USD|758,091||18-24|united states|
@@ -329,7 +329,7 @@
 |[KS Independent College Assoc.](KS_Independent_College_Assoc..md) - Cohort.digital|600.00 USD|48,308||35+|united states|
 |[Build NY Fund](Build_NY_Fund.md) - mv digital group: Scott Stringer for NYC Mayor|474.00 USD|46,601||18+|united states|
 |[Kimbo For Aspen City Council](Kimbo_For_Aspen_City_Council.md) - Kimbo For Aspen: Kimbo For Aspen|237.00 USD|44,858||18+|united states|
-|[Project 55](Project_55.md) - Project 55: Add2, Give Demorats the tools to pass legislation|76.00 USD|44,696|||united states|
+|[Project 55](Project_55.md) - Project 55: Add2, Give Demorats the tools to pass legislation|76.00 USD|44,785|||united states|
 |[ND Conservative Advocates](ND_Conservative_Advocates.md) - North Dakota Conservative Advocates: Constitutional Principles|192.00 USD|44,514||18+|united states|
 |[Oscar Smith](Oscar_Smith.md) - Oscar Smith: Oscar Smith|143.00 EUR|43,847||18-20, 18-25, 18-29|finland|
 |[Telisa Moore for Tx State Senate](Telisa_Moore_for_Tx_State_Senate.md) - Telisa for Tx State Senate District 23: Telisa Moore, Telisa Moore for Tx State Senate|156.00 USD|43,248||18+, 25+, 30+|united states|

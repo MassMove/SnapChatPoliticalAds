@@ -1,7 +1,7 @@
 ## 2025 - HUMAN APPEAL 
-**Spent**: 30,001.00
+**Spent**: 30,002.00
 
-**Impressions**: 4,949,618
+**Impressions**: 4,949,723
 
 **Billing Addresses**: GB
 
@@ -695,17 +695,18 @@
 |Human Appeal  Arabic|1.00 GBP|[685](https://www.snap.com/political-ads/asset/df777ec85c7697aaf2b5c2a0208b5b0a7e93939427389e61db786a841b4e1739?mediaType=mp4)|115||24+|qatar|
 |Human Appeal  Arabic|0.00 GBP|[686](https://www.snap.com/political-ads/asset/50bbeec7aad40f26f7c4ae3ef29f32578830c4b1edac61751de8119fb46e408a?mediaType=mp4)|114||24+|united arab emirates|
 |Human Appeal  Arabic|0.00 GBP|[687](https://www.snap.com/political-ads/asset/a9ecf3df9b1313c5ce6d3b8beadb5d05938d624ae954a9203579d69de28f5e9f?mediaType=mp4)|113||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[688](https://www.snap.com/political-ads/asset/e366609b607a3b29c30b6ef04e58bbceb8471d7dbfb2eb56ca303ffa08c747f2?mediaType=mov)|105||24+|qatar|
-|Human Appeal  Arabic|1.00 GBP|[689](https://www.snap.com/political-ads/asset/416200167dbd3e8fd67de87d9950d1dbef3b7b4ca516822cf78e433f321af7de?mediaType=MOV)|99||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[690](https://www.snap.com/political-ads/asset/8301f8a9497252a2c3623427e25dfde07b75d60393820ec7ab58cae142c2c54a?mediaType=mp4)|99||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[691](https://www.snap.com/political-ads/asset/967b36677867ec9fcbc1c3d7f5e6e026e24f5b8645e7cbaa7adf528a68c77c05?mediaType=mp4)|99||24+|united arab emirates|
-|Human Appeal  Arabic|0.00 GBP|[692](https://www.snap.com/political-ads/asset/e366609b607a3b29c30b6ef04e58bbceb8471d7dbfb2eb56ca303ffa08c747f2?mediaType=mov)|94||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[693](https://www.snap.com/political-ads/asset/5b39a9cbaf039901473ed3fedb69dceee18576686096c3a824d1611f10ab4536?mediaType=mp4)|87||24+|united arab emirates|
-|Human Appeal  Arabic|0.00 GBP|[694](https://www.snap.com/political-ads/asset/1044448aa63228e24b475f4081473a9ee94c6a95007ba320271670f3a0075d0a?mediaType=mov)|77||24+|united arab emirates|
-|Human Appeal  Arabic|0.00 GBP|[695](https://www.snap.com/political-ads/asset/e366609b607a3b29c30b6ef04e58bbceb8471d7dbfb2eb56ca303ffa08c747f2?mediaType=mov)|74||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[696](https://www.snap.com/political-ads/asset/ad969142cd36223f10a35bbd1f4fc32edfc1f87c39274a5e7642f37473b6d07d?mediaType=mp4)|72||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[697](https://www.snap.com/political-ads/asset/63f650a59d897bb3382fc5ecf0ab46f2555bb7ee9f7dcf52702416e70ce11645?mediaType=mp4)|60||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[698](https://www.snap.com/political-ads/asset/ea1b11a73e144fe838722127ac3ccbcbedd45fe33f3923e9e0519f9c5f8f9466?mediaType=mp4)|57||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[699](https://www.snap.com/political-ads/asset/a0f79d2114f3a61642eb62fba56002eaff048b9d0067c4460bfb70889fd0491f?mediaType=mp4)|42||24+|qatar|
-|Human Appeal  Arabic|0.00 GBP|[700](https://www.snap.com/political-ads/asset/c2a7796949a83f121bf8d85f5433ef2a136b0ab753b310c367d0c999edd420d4?mediaType=mp4)|39||24+|united arab emirates|
-|Human Appeal  Arabic|0.00 GBP|[701](https://www.snap.com/political-ads/asset/cde81065e8966b4265d5f4e8dec58e09cb677e38bb747caf8cdce66469224cc3?mediaType=mp4)|36||24+|united arab emirates|
+|Human Appeal  Arabic|1.00 GBP|[688](https://www.snap.com/political-ads/asset/82ec85cfcf57397ad3589c9eb6861d866f4f442f7cd0d7977be0f35494094c96?mediaType=mp4)|105||24+|united arab emirates|
+|Human Appeal  Arabic|0.00 GBP|[689](https://www.snap.com/political-ads/asset/e366609b607a3b29c30b6ef04e58bbceb8471d7dbfb2eb56ca303ffa08c747f2?mediaType=mov)|105||24+|qatar|
+|Human Appeal  Arabic|1.00 GBP|[690](https://www.snap.com/political-ads/asset/416200167dbd3e8fd67de87d9950d1dbef3b7b4ca516822cf78e433f321af7de?mediaType=MOV)|99||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[691](https://www.snap.com/political-ads/asset/8301f8a9497252a2c3623427e25dfde07b75d60393820ec7ab58cae142c2c54a?mediaType=mp4)|99||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[692](https://www.snap.com/political-ads/asset/967b36677867ec9fcbc1c3d7f5e6e026e24f5b8645e7cbaa7adf528a68c77c05?mediaType=mp4)|99||24+|united arab emirates|
+|Human Appeal  Arabic|0.00 GBP|[693](https://www.snap.com/political-ads/asset/e366609b607a3b29c30b6ef04e58bbceb8471d7dbfb2eb56ca303ffa08c747f2?mediaType=mov)|94||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[694](https://www.snap.com/political-ads/asset/5b39a9cbaf039901473ed3fedb69dceee18576686096c3a824d1611f10ab4536?mediaType=mp4)|87||24+|united arab emirates|
+|Human Appeal  Arabic|0.00 GBP|[695](https://www.snap.com/political-ads/asset/1044448aa63228e24b475f4081473a9ee94c6a95007ba320271670f3a0075d0a?mediaType=mov)|77||24+|united arab emirates|
+|Human Appeal  Arabic|0.00 GBP|[696](https://www.snap.com/political-ads/asset/e366609b607a3b29c30b6ef04e58bbceb8471d7dbfb2eb56ca303ffa08c747f2?mediaType=mov)|74||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[697](https://www.snap.com/political-ads/asset/ad969142cd36223f10a35bbd1f4fc32edfc1f87c39274a5e7642f37473b6d07d?mediaType=mp4)|72||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[698](https://www.snap.com/political-ads/asset/63f650a59d897bb3382fc5ecf0ab46f2555bb7ee9f7dcf52702416e70ce11645?mediaType=mp4)|60||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[699](https://www.snap.com/political-ads/asset/ea1b11a73e144fe838722127ac3ccbcbedd45fe33f3923e9e0519f9c5f8f9466?mediaType=mp4)|57||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[700](https://www.snap.com/political-ads/asset/a0f79d2114f3a61642eb62fba56002eaff048b9d0067c4460bfb70889fd0491f?mediaType=mp4)|42||24+|qatar|
+|Human Appeal  Arabic|0.00 GBP|[701](https://www.snap.com/political-ads/asset/c2a7796949a83f121bf8d85f5433ef2a136b0ab753b310c367d0c999edd420d4?mediaType=mp4)|39||24+|united arab emirates|
+|Human Appeal  Arabic|0.00 GBP|[702](https://www.snap.com/political-ads/asset/cde81065e8966b4265d5f4e8dec58e09cb677e38bb747caf8cdce66469224cc3?mediaType=mp4)|36||24+|united arab emirates|

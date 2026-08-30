@@ -1,7 +1,7 @@
 ## 2024 - Future Majority 
-**Spent**: 330,087.00
+**Spent**: 331,593.00
 
-**Impressions**: 15,939,604
+**Impressions**: 16,009,540
 
 **Billing Addresses**: US
 
@@ -45,30 +45,31 @@
 |JVA Campaigns: Nonpartisan GOTV|1,707.00 USD|[35](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|83,334||18-40|united states|
 |JVA Campaigns: Nonpartisan GOTV|2,076.00 USD|[36](https://www.snap.com/political-ads/asset/29bd6ad1a196b166141bd7b565d48b0dfce50353f4ff188afc1ea4168afdf118?mediaType=jpg)|79,849||18-40|united states|
 |JVA Campaigns: GOTV|1,587.00 USD|[37](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|71,149||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|2,249.00 USD|[38](https://www.snap.com/political-ads/asset/380766b13676cd3ec33616cedda201088d986451846ba81eb19d70150099d20b?mediaType=jpg)|67,681||18-40|united states|
-|JVA Campaigns: GOTV|1,389.00 USD|[39](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|67,163||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|1,390.00 USD|[40](https://www.snap.com/political-ads/asset/4d240aa36789bc44a705144a6f4b2c100d3db806fec455da31e9b7616e2a9276?mediaType=jpg)|65,719||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|1,905.00 USD|[41](https://www.snap.com/political-ads/asset/ab3796e74c198f254fce5d24419cf1d8a7704546149f0905961513a21099142a?mediaType=jpg)|62,559||18-40|united states|
-|JVA Campaigns: GOTV|1,318.00 USD|[42](https://www.snap.com/political-ads/asset/7ae6b80d351c9d76882014642573c6479e77e2213fcf2dfd450ad2803d277bd2?mediaType=jpg)|60,973||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|1,058.00 USD|[43](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|56,469||18-40|united states|
-|JVA Campaigns: GOTV|955.00 USD|[44](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|49,587||18-40|united states|
-|JVA Campaigns: GOTV|1,069.00 USD|[45](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|48,848||18-40|united states|
-|JVA Campaigns: GOTV|1,351.00 USD|[46](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|46,532||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|1,127.00 USD|[47](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|39,232||18-40|united states|
-|JVA Campaigns: GOTV|880.00 USD|[48](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|38,773||18-40|united states|
-|JVA Campaigns: GOTV|864.00 USD|[49](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|36,425||18-40|united states|
-|JVA Campaigns: GOTV|1,259.00 USD|[50](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|31,191||18-40|united states|
-|JVA Campaigns: GOTV|736.00 USD|[51](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|31,013||18-40|united states|
-|JVA Campaigns: GOTV|1,018.00 USD|[52](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|30,935||18-40|united states|
-|JVA Campaigns: GOTV|715.00 USD|[53](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|30,810||18-40|united states|
-|JVA Campaigns: GOTV|674.00 USD|[54](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|25,060||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|984.00 USD|[55](https://www.snap.com/political-ads/asset/380766b13676cd3ec33616cedda201088d986451846ba81eb19d70150099d20b?mediaType=jpg)|24,109||18-40|united states|
-|JVA Campaigns: GOTV|779.00 USD|[56](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|24,007||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|351.00 USD|[57](https://www.snap.com/political-ads/asset/10ab4b88b232ebfac4518adbf6bd9ca89e985783bd2914e8a9185990986aa59f?mediaType=jpg)|21,550||18-40|united states|
-|JVA Campaigns: GOTV|429.00 USD|[58](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|17,397||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|252.00 USD|[59](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|15,527||18-40|united states|
-|JVA Campaigns: GOTV|304.00 USD|[60](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|14,938||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|312.00 USD|[61](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|14,704||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|275.00 USD|[62](https://www.snap.com/political-ads/asset/08438641a2a285f8190090af359453af60a73ae96d6538a4ea9097259c77d1a6?mediaType=jpg)|12,419||18-40|united states|
-|JVA Campaigns: GOTV|258.00 USD|[63](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|10,589||18-40|united states|
-|JVA Campaigns: Nonpartisan GOTV|125.00 USD|[64](https://www.snap.com/political-ads/asset/10ab4b88b232ebfac4518adbf6bd9ca89e985783bd2914e8a9185990986aa59f?mediaType=jpg)|8,097||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|1,506.00 USD|[38](https://www.snap.com/political-ads/asset/08438641a2a285f8190090af359453af60a73ae96d6538a4ea9097259c77d1a6?mediaType=jpg)|69,936||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|2,249.00 USD|[39](https://www.snap.com/political-ads/asset/380766b13676cd3ec33616cedda201088d986451846ba81eb19d70150099d20b?mediaType=jpg)|67,681||18-40|united states|
+|JVA Campaigns: GOTV|1,389.00 USD|[40](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|67,163||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|1,390.00 USD|[41](https://www.snap.com/political-ads/asset/4d240aa36789bc44a705144a6f4b2c100d3db806fec455da31e9b7616e2a9276?mediaType=jpg)|65,719||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|1,905.00 USD|[42](https://www.snap.com/political-ads/asset/ab3796e74c198f254fce5d24419cf1d8a7704546149f0905961513a21099142a?mediaType=jpg)|62,559||18-40|united states|
+|JVA Campaigns: GOTV|1,318.00 USD|[43](https://www.snap.com/political-ads/asset/7ae6b80d351c9d76882014642573c6479e77e2213fcf2dfd450ad2803d277bd2?mediaType=jpg)|60,973||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|1,058.00 USD|[44](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|56,469||18-40|united states|
+|JVA Campaigns: GOTV|955.00 USD|[45](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|49,587||18-40|united states|
+|JVA Campaigns: GOTV|1,069.00 USD|[46](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|48,848||18-40|united states|
+|JVA Campaigns: GOTV|1,351.00 USD|[47](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|46,532||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|1,127.00 USD|[48](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|39,232||18-40|united states|
+|JVA Campaigns: GOTV|880.00 USD|[49](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|38,773||18-40|united states|
+|JVA Campaigns: GOTV|864.00 USD|[50](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|36,425||18-40|united states|
+|JVA Campaigns: GOTV|1,259.00 USD|[51](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|31,191||18-40|united states|
+|JVA Campaigns: GOTV|736.00 USD|[52](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|31,013||18-40|united states|
+|JVA Campaigns: GOTV|1,018.00 USD|[53](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|30,935||18-40|united states|
+|JVA Campaigns: GOTV|715.00 USD|[54](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|30,810||18-40|united states|
+|JVA Campaigns: GOTV|674.00 USD|[55](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|25,060||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|984.00 USD|[56](https://www.snap.com/political-ads/asset/380766b13676cd3ec33616cedda201088d986451846ba81eb19d70150099d20b?mediaType=jpg)|24,109||18-40|united states|
+|JVA Campaigns: GOTV|779.00 USD|[57](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|24,007||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|351.00 USD|[58](https://www.snap.com/political-ads/asset/10ab4b88b232ebfac4518adbf6bd9ca89e985783bd2914e8a9185990986aa59f?mediaType=jpg)|21,550||18-40|united states|
+|JVA Campaigns: GOTV|429.00 USD|[59](https://www.snap.com/political-ads/asset/c68ac347c62a0b605e45e04abafab3c5ad33fbb22a6b74d6b567465ccf7ef8e6?mediaType=jpg)|17,397||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|252.00 USD|[60](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|15,527||18-40|united states|
+|JVA Campaigns: GOTV|304.00 USD|[61](https://www.snap.com/political-ads/asset/34edd2bfe2b04a823bcc66ec11a52d45804d62c99bf3b7f1dc21457e337932ef?mediaType=jpg)|14,938||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|312.00 USD|[62](https://www.snap.com/political-ads/asset/b2239877a2541ecd61a402c20a44a2ad3964803967617ea6f515ae48a9ac40ad?mediaType=jpg)|14,704||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|275.00 USD|[63](https://www.snap.com/political-ads/asset/08438641a2a285f8190090af359453af60a73ae96d6538a4ea9097259c77d1a6?mediaType=jpg)|12,419||18-40|united states|
+|JVA Campaigns: GOTV|258.00 USD|[64](https://www.snap.com/political-ads/asset/f80192c49cf27c9bd0b0444f6f4b8cd544105fa9a67abc62f106321a88582a32?mediaType=jpg)|10,589||18-40|united states|
+|JVA Campaigns: Nonpartisan GOTV|125.00 USD|[65](https://www.snap.com/political-ads/asset/10ab4b88b232ebfac4518adbf6bd9ca89e985783bd2914e8a9185990986aa59f?mediaType=jpg)|8,097||18-40|united states|

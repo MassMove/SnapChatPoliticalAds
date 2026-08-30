@@ -40,7 +40,7 @@
 |[NY State of Health](NY_State_of_Health.md) - OpAD Media|42,452.00 USD|10,657,396||18-34|united states|
 |[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|42,484.00 USD|9,830,879||17+, 18+|united states|
 |[SOAPPS](SOAPPS.md) - AGENCE NATIONALE DE PREVENTION ET DE FORMATION (ANPF)|4,706.00 EUR|9,162,404||23-33|france|
-|[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,571.00 GBP|9,011,944||18-35|united kingdom|
+|[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|14,000.00 EUR|8,973,546||18-25, 26-34, 35++|norway|
 |[Freiheitliche Partei Österreichs](Freiheitliche_Partei_Österreichs.md) - KIRCHBAUMER.COM GmbH: Norbert Hofer|4,497.00 EUR|8,562,089||17+, 18+|austria|
 |[Warren for President](Warren_for_President.md) - Warren for President: Warren for President|37,068.00 USD|8,477,978||18+, 18-24, 21+, 21-24, 24+, 25+|united states|

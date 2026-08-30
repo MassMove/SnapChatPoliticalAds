@@ -1,7 +1,7 @@
 ## 2019 - Liberal Democrats 
-**Spent**: 19,571.00
+**Spent**: 19,706.00
 
-**Impressions**: 9,011,944
+**Impressions**: 9,050,458
 
 **Billing Addresses**: GB
 
@@ -19,9 +19,10 @@
 |Liberal Democrats: Liberal Democrats|222.00 GBP|[9](https://www.snap.com/political-ads/asset/3b20fad4ddbd17b90d3696b603a960503e4b66d3b90189049313ca7d9f02ca63?mediaType=mp4)|91,899||18-35||
 |Liberal Democrats: Liberal Democrats|265.00 GBP|[10](https://www.snap.com/political-ads/asset/d11ffc0b09dff7314f43579a4d8cacd096e00ff18ee46071f163771057a5f3c4?mediaType=mp4)|79,074||18-35|united kingdom|
 |Liberal Democrats: Liberal Democrats|170.00 GBP|[11](https://www.snap.com/political-ads/asset/5db0b81ec038199fb69ddd0e1b31b4fe07e114c0dfb00a1cfb6d649a0a89b19b?mediaType=mp4)|70,454||18-35||
-|Liberal Democrats: Liberal Democrats|45.00 GBP|[12](https://www.snap.com/political-ads/asset/1a07eb1cbf79d6882a4acbba82ab0eaec63cd8df2a8800fc2ede86c81ac29f35?mediaType=mp4)|10,645||18-35|united kingdom|
-|Liberal Democrats: Liberal Democrats|22.00 GBP|[13](https://www.snap.com/political-ads/asset/93c8c3a52b14aed9eaef2bf56df97e5322e62916022cd1174aa00dd54fbf3595?mediaType=mp4)|5,286||18-35|united kingdom|
-|Liberal Democrats: Liberal Democrats|10.00 GBP|[14](https://www.snap.com/political-ads/asset/f1381389c07e0aefbe9d05d270a8112bc4e48810af5fa9c23d297e9b470bd6e4?mediaType=mp4)|2,416||18-35|united kingdom|
-|Liberal Democrats: Liberal Democrats|8.00 GBP|[15](https://www.snap.com/political-ads/asset/36d5d4db767a4b7370a94781f85af5d03b7438c5a60021a578f4edfe4edfc27a?mediaType=mp4)|1,819||18-35|united kingdom|
-|Liberal Democrats: Liberal Democrats|0.00 GBP|[16](https://www.snap.com/political-ads/asset/9aa8ed11664a607055b4db6ad173ee07c01cd19f067f2d072d316ab330d7459a?mediaType=mp4)|157||18-35|united kingdom|
-|Liberal Democrats: Liberal Democrats|0.00 GBP|[17](https://www.snap.com/political-ads/asset/b29d21f4949ef4ccbaffa085120341453cd3bc606b70ed2fec1dc3384897570d?mediaType=mp4)|10||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|135.00 GBP|[12](https://www.snap.com/political-ads/asset/410331547cf9bbe43bc7ad0e1c58575e2dfac6c9d66fbc09770dadc7b6eb2316?mediaType=mp4)|38,514||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|45.00 GBP|[13](https://www.snap.com/political-ads/asset/1a07eb1cbf79d6882a4acbba82ab0eaec63cd8df2a8800fc2ede86c81ac29f35?mediaType=mp4)|10,645||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|22.00 GBP|[14](https://www.snap.com/political-ads/asset/93c8c3a52b14aed9eaef2bf56df97e5322e62916022cd1174aa00dd54fbf3595?mediaType=mp4)|5,286||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|10.00 GBP|[15](https://www.snap.com/political-ads/asset/f1381389c07e0aefbe9d05d270a8112bc4e48810af5fa9c23d297e9b470bd6e4?mediaType=mp4)|2,416||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|8.00 GBP|[16](https://www.snap.com/political-ads/asset/36d5d4db767a4b7370a94781f85af5d03b7438c5a60021a578f4edfe4edfc27a?mediaType=mp4)|1,819||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|0.00 GBP|[17](https://www.snap.com/political-ads/asset/9aa8ed11664a607055b4db6ad173ee07c01cd19f067f2d072d316ab330d7459a?mediaType=mp4)|157||18-35|united kingdom|
+|Liberal Democrats: Liberal Democrats|0.00 GBP|[18](https://www.snap.com/political-ads/asset/b29d21f4949ef4ccbaffa085120341453cd3bc606b70ed2fec1dc3384897570d?mediaType=mp4)|10||18-35|united kingdom|
