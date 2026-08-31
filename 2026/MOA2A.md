@@ -1,21 +1,21 @@
 ## 2026 - MOA2A 
-**Spent**: 2,484.00
+**Spent**: 2,500.00
 
-**Impressions**: 306,135
+**Impressions**: 307,411
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Choose Life Marketing|1,311.00 USD|[0](https://www.snap.com/political-ads/asset/ce1da92a778601499a7a9a28086bf5ceb700f1bd48d19aa37f5e0e1bfa7003d1?mediaType=mp4)|119,598|FEMALE|35-|united states|
-|Choose Life Marketing|464.00 USD|[1](https://www.snap.com/political-ads/asset/b39e479c2b4477e3ef9a4064c3820f59e190252c89321c2cd4533f2b494221a4?mediaType=mp4)|63,588|FEMALE|35-|united states|
-|Choose Life Marketing|239.00 USD|[2](https://www.snap.com/political-ads/asset/49862a7d77bb4075920b27912561bfa21c27a0335c387db835ed04c0b177a4f1?mediaType=mp4)|57,117|FEMALE|35-|united states|
-|Choose Life Marketing|87.00 USD|[3](https://www.snap.com/political-ads/asset/47fe0259c586cc32d576cceddc7ab0b9759d394fbb049a84f1179492cc97bf59?mediaType=mp4)|14,063|FEMALE|35-|united states|
-|Choose Life Marketing|80.00 USD|[4](https://www.snap.com/political-ads/asset/a01cb4d7dc402badb60fbddc3ec23755ac9e2a7ed278ab0c5371cbaa2ef0cf71?mediaType=mp4)|13,937|FEMALE|35-|united states|
-|Choose Life Marketing|85.00 USD|[5](https://www.snap.com/political-ads/asset/b641708e6252a5fe50d4e2b89dcc4c857cabc8abeb18e145661f5c1dac854a7e?mediaType=mp4)|13,847|FEMALE|35-|united states|
-|Choose Life Marketing|69.00 USD|[6](https://www.snap.com/political-ads/asset/9aaf71443ee4cda368da71ac2a525673fa7add239923945dc87ed176586de3f2?mediaType=mp4)|7,367|FEMALE|35-|united states|
-|Choose Life Marketing|62.00 USD|[7](https://www.snap.com/political-ads/asset/1a5691c4196091aa55eee6ba5c2061ce4b5f3cae6484c4308add51db449452e5?mediaType=mp4)|6,920|FEMALE|35-|united states|
-|Choose Life Marketing|32.00 USD|[8](https://www.snap.com/political-ads/asset/8e2010e7c10b8a85cb0fcfd45619f3d770d54918444c5c563b73456eefececf1?mediaType=mp4)|3,984|FEMALE|35-|united states|
-|Choose Life Marketing|29.00 USD|[9](https://www.snap.com/political-ads/asset/09e87e28e0c7253768bcbb6eba42abb839c6d62e7320b5ad5569afeaf7c5df46?mediaType=mp4)|3,449|FEMALE|35-|united states|
-|Choose Life Marketing|14.00 USD|[10](https://www.snap.com/political-ads/asset/dce77db16aa1a3d141ff6df4d8dddfe71e4322eb3a3acacc58bfd7d0ab76d49a?mediaType=mp4)|1,138|FEMALE|35-|united states|
-|Choose Life Marketing|12.00 USD|[11](https://www.snap.com/political-ads/asset/b10c7f49c03173199ceb20a39f0bbdea26c66a855718da42217a2e56517647f6?mediaType=mp4)|1,127|FEMALE|35-|united states|
+|Choose Life Marketing|1,318.00 USD|[0](https://www.snap.com/political-ads/asset/ce1da92a778601499a7a9a28086bf5ceb700f1bd48d19aa37f5e0e1bfa7003d1?mediaType=mp4)|120,081|FEMALE|35-|united states|
+|Choose Life Marketing|466.00 USD|[1](https://www.snap.com/political-ads/asset/b39e479c2b4477e3ef9a4064c3820f59e190252c89321c2cd4533f2b494221a4?mediaType=mp4)|63,761|FEMALE|35-|united states|
+|Choose Life Marketing|240.00 USD|[2](https://www.snap.com/political-ads/asset/49862a7d77bb4075920b27912561bfa21c27a0335c387db835ed04c0b177a4f1?mediaType=mp4)|57,165|FEMALE|35-|united states|
+|Choose Life Marketing|89.00 USD|[3](https://www.snap.com/political-ads/asset/47fe0259c586cc32d576cceddc7ab0b9759d394fbb049a84f1179492cc97bf59?mediaType=mp4)|14,231|FEMALE|35-|united states|
+|Choose Life Marketing|81.00 USD|[4](https://www.snap.com/political-ads/asset/a01cb4d7dc402badb60fbddc3ec23755ac9e2a7ed278ab0c5371cbaa2ef0cf71?mediaType=mp4)|14,027|FEMALE|35-|united states|
+|Choose Life Marketing|85.00 USD|[5](https://www.snap.com/political-ads/asset/b641708e6252a5fe50d4e2b89dcc4c857cabc8abeb18e145661f5c1dac854a7e?mediaType=mp4)|13,924|FEMALE|35-|united states|
+|Choose Life Marketing|70.00 USD|[6](https://www.snap.com/political-ads/asset/9aaf71443ee4cda368da71ac2a525673fa7add239923945dc87ed176586de3f2?mediaType=mp4)|7,443|FEMALE|35-|united states|
+|Choose Life Marketing|63.00 USD|[7](https://www.snap.com/political-ads/asset/1a5691c4196091aa55eee6ba5c2061ce4b5f3cae6484c4308add51db449452e5?mediaType=mp4)|7,013|FEMALE|35-|united states|
+|Choose Life Marketing|32.00 USD|[8](https://www.snap.com/political-ads/asset/8e2010e7c10b8a85cb0fcfd45619f3d770d54918444c5c563b73456eefececf1?mediaType=mp4)|4,008|FEMALE|35-|united states|
+|Choose Life Marketing|30.00 USD|[9](https://www.snap.com/political-ads/asset/09e87e28e0c7253768bcbb6eba42abb839c6d62e7320b5ad5569afeaf7c5df46?mediaType=mp4)|3,479|FEMALE|35-|united states|
+|Choose Life Marketing|14.00 USD|[10](https://www.snap.com/political-ads/asset/dce77db16aa1a3d141ff6df4d8dddfe71e4322eb3a3acacc58bfd7d0ab76d49a?mediaType=mp4)|1,151|FEMALE|35-|united states|
+|Choose Life Marketing|12.00 USD|[11](https://www.snap.com/political-ads/asset/b10c7f49c03173199ceb20a39f0bbdea26c66a855718da42217a2e56517647f6?mediaType=mp4)|1,128|FEMALE|35-|united states|
