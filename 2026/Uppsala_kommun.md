@@ -1,12 +1,12 @@
 ## 2026 - Uppsala kommun 
-**Spent**: 943.00
+**Spent**: 1,088.00
 
-**Impressions**: 29,465
+**Impressions**: 33,848
 
 **Billing Addresses**: Kålsängsgränd 10B,Uppsala,75319,SE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Uppsala kommun|434.00 SEK|[0](https://www.snap.com/political-ads/asset/0489036dc0931cd7f9ca13b938bbe8372872a5492f5b2bc2e0c8bae3d174a7b5?mediaType=mp4)|14,691||18+|sweden|
-|Uppsala kommun|370.00 SEK|[1](https://www.snap.com/political-ads/asset/ae3834fa1f0ec4b90478d27b1f929c5f24df6d2b351ce5c247add053c382cccd?mediaType=mp4)|10,955||18+|sweden|
-|Uppsala kommun|139.00 SEK|[2](https://www.snap.com/political-ads/asset/78aeb7d1056c1977f5b4459dd4357a5fb654a219340dce08bdbcfc39eb66f2b7?mediaType=mp4)|3,819||18+|sweden|
+|Uppsala kommun|490.00 SEK|[0](https://www.snap.com/political-ads/asset/0489036dc0931cd7f9ca13b938bbe8372872a5492f5b2bc2e0c8bae3d174a7b5?mediaType=mp4)|16,617||18+|sweden|
+|Uppsala kommun|432.00 SEK|[1](https://www.snap.com/political-ads/asset/ae3834fa1f0ec4b90478d27b1f929c5f24df6d2b351ce5c247add053c382cccd?mediaType=mp4)|12,708||18+|sweden|
+|Uppsala kommun|166.00 SEK|[2](https://www.snap.com/political-ads/asset/78aeb7d1056c1977f5b4459dd4357a5fb654a219340dce08bdbcfc39eb66f2b7?mediaType=mp4)|4,523||18+|sweden|

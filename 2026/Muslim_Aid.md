@@ -1,7 +1,7 @@
 ## 2026 - Muslim Aid 
-**Spent**: 5,834.00
+**Spent**: 5,848.00
 
-**Impressions**: 1,315,277
+**Impressions**: 1,318,692
 
 **Billing Addresses**: 84 Kingsley Road,Hounslow,TW3 1QA,GB
 
@@ -27,9 +27,9 @@
 |Your Online Conversation|75.00 GBP|[17](https://www.snap.com/political-ads/asset/017702b6319b21f39f8f541b6fbdaf40d115a21a6b82da39b414243399f99084?mediaType=mp4)|17,956||21+|united kingdom|
 |Your Online Conversation|82.00 GBP|[18](https://www.snap.com/political-ads/asset/137d42e85009ed2ddadea5b14a35cf023f1c3e05027b3809a64f8c0ade1777c3?mediaType=mp4)|15,845||25+|united kingdom|
 |Your Online Conversation|86.00 GBP|[19](https://www.snap.com/political-ads/asset/e7af6e66a37e8171c386332b8918855f8191e09f9e95412215804c4f4e163744?mediaType=mp4)|15,580||21+|united kingdom|
-|Your Online Conversation|95.00 GBP|[20](https://www.snap.com/political-ads/asset/e7af6e66a37e8171c386332b8918855f8191e09f9e95412215804c4f4e163744?mediaType=mp4)|14,454||21+|united kingdom|
-|Your Online Conversation|40.00 GBP|[21](https://www.snap.com/political-ads/asset/e5cd27b7811c8302b30fda4dbbe0098605dfe6e04e5993c07fe32db7addca228?mediaType=mp4)|12,504||21+|united kingdom|
-|Your Online Conversation|35.00 GBP|[22](https://www.snap.com/political-ads/asset/7a10c610a476a5527b3158b68b31ec1f522e78fcc137ca72ec6b961ec1e06f15?mediaType=mp4)|11,576||21+|united kingdom|
+|Your Online Conversation|49.00 GBP|[20](https://www.snap.com/political-ads/asset/7a10c610a476a5527b3158b68b31ec1f522e78fcc137ca72ec6b961ec1e06f15?mediaType=mp4)|14,991||21+|united kingdom|
+|Your Online Conversation|95.00 GBP|[21](https://www.snap.com/political-ads/asset/e7af6e66a37e8171c386332b8918855f8191e09f9e95412215804c4f4e163744?mediaType=mp4)|14,454||21+|united kingdom|
+|Your Online Conversation|40.00 GBP|[22](https://www.snap.com/political-ads/asset/e5cd27b7811c8302b30fda4dbbe0098605dfe6e04e5993c07fe32db7addca228?mediaType=mp4)|12,504||21+|united kingdom|
 |Your Online Conversation|67.00 GBP|[23](https://www.snap.com/political-ads/asset/43b5662b5fe74bf982bdf5ae0e2d2b6737f1c9fdb6d203cf200a0e27ad75c197?mediaType=mp4)|11,352||21+|united kingdom|
 |Your Online Conversation|78.00 GBP|[24](https://www.snap.com/political-ads/asset/53ad3f471ecf8661f8b5c8f1996e9ad83f239e0d1ae1f6a761600213ba09c1eb?mediaType=mp4)|11,241||21+|united kingdom|
 |Your Online Conversation|84.00 GBP|[25](https://www.snap.com/political-ads/asset/59b517bb164121a5d1dd57aae8fbdec9c734471b53588f14df5f7e42828c8082?mediaType=mp4)|10,421||21+|united kingdom|

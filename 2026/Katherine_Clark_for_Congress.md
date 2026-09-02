@@ -1,15 +1,15 @@
 ## 2026 - Katherine Clark for Congress 
-**Spent**: 10,637.00
+**Spent**: 10,896.00
 
-**Impressions**: 1,044,107
+**Impressions**: 1,064,620
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gambit Strategies|1,485.00 USD|[0](https://www.snap.com/political-ads/asset/5d4252de80e39bffb8b4cd8fa00d28d00218e8765396595525d1a0dac369865a?mediaType=png)|266,409||18+|united states|
-|Gambit Strategies|1,326.00 USD|[1](https://www.snap.com/political-ads/asset/754ae28e895d5f4bf83a2c65522a009e6e3684a29ec56c5ef9e5842b699d9b8b?mediaType=png)|219,499||18+|united states|
-|Gambit Strategies|3,882.00 USD|[2](https://www.snap.com/political-ads/asset/fb1d3bf59420437ba390cf6a92830da89bb7d96ae0838ed454107bff83cf44ec?mediaType=mp4)|208,161||18+|united states|
-|Gambit Strategies|793.00 USD|[3](https://www.snap.com/political-ads/asset/cf1bcf20b0fe82b23da5a83c2f8a3ebfcf87a32a3284825378f2516a6f20f3e7?mediaType=png)|132,875||18+|united states|
-|Gambit Strategies|2,584.00 USD|[4](https://www.snap.com/political-ads/asset/c0f081a8c442996174e513fa61f946dd819019ee61cf602c492348090d2574b8?mediaType=mp4)|118,463||18+|united states|
-|Gambit Strategies|567.00 USD|[5](https://www.snap.com/political-ads/asset/97d0449c41addb6949bc77072621469bc7cfb75748b5cb537a9262f6ec3659d9?mediaType=png)|98,700||18+|united states|
+|Gambit Strategies|1,547.00 USD|[0](https://www.snap.com/political-ads/asset/5d4252de80e39bffb8b4cd8fa00d28d00218e8765396595525d1a0dac369865a?mediaType=png)|273,032||18+|united states|
+|Gambit Strategies|1,340.00 USD|[1](https://www.snap.com/political-ads/asset/754ae28e895d5f4bf83a2c65522a009e6e3684a29ec56c5ef9e5842b699d9b8b?mediaType=png)|221,243||18+|united states|
+|Gambit Strategies|3,969.00 USD|[2](https://www.snap.com/political-ads/asset/fb1d3bf59420437ba390cf6a92830da89bb7d96ae0838ed454107bff83cf44ec?mediaType=mp4)|212,505||18+|united states|
+|Gambit Strategies|823.00 USD|[3](https://www.snap.com/political-ads/asset/cf1bcf20b0fe82b23da5a83c2f8a3ebfcf87a32a3284825378f2516a6f20f3e7?mediaType=png)|136,481||18+|united states|
+|Gambit Strategies|2,630.00 USD|[4](https://www.snap.com/political-ads/asset/c0f081a8c442996174e513fa61f946dd819019ee61cf602c492348090d2574b8?mediaType=mp4)|120,088||18+|united states|
+|Gambit Strategies|587.00 USD|[5](https://www.snap.com/political-ads/asset/97d0449c41addb6949bc77072621469bc7cfb75748b5cb537a9262f6ec3659d9?mediaType=png)|101,271||18+|united states|
