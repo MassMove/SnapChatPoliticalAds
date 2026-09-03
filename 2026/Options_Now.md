@@ -1,7 +1,7 @@
 ## 2026 - Options Now 
-**Spent**: 782.00
+**Spent**: 796.00
 
-**Impressions**: 82,014
+**Impressions**: 82,837
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -22,11 +22,11 @@
 |Cornerstone Marketing Strategies  LLC|18.00 USD|[12](https://www.snap.com/political-ads/asset/2fcfbd814c8a4b03b99da0ed3a76525a66a88e1b6208592cb345245bc28280ce?mediaType=mp4)|1,291|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|16.00 USD|[13](https://www.snap.com/political-ads/asset/90ab760653ae28025b38a1c1fc71be27ece969fbdcc4e7b1399861019dcd40b7?mediaType=mp4)|1,272|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|15.00 USD|[14](https://www.snap.com/political-ads/asset/90ab760653ae28025b38a1c1fc71be27ece969fbdcc4e7b1399861019dcd40b7?mediaType=mp4)|1,196|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|13.00 USD|[15](https://www.snap.com/political-ads/asset/d3620d31c4a3eaf69d4a9766c2dc8a26d901d0cd8fb5566a862d77c86ecaa1d1?mediaType=mp4)|748|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|10.00 USD|[16](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|709|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|7.00 USD|[17](https://www.snap.com/political-ads/asset/90ab760653ae28025b38a1c1fc71be27ece969fbdcc4e7b1399861019dcd40b7?mediaType=mp4)|628|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|7.00 USD|[18](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|619|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|9.00 USD|[19](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|569|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|6.00 USD|[20](https://www.snap.com/political-ads/asset/5345132c602c8d04131c5a24b17401fc44da70d6529a286e7704960fa9031df0?mediaType=mp4)|432|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|2.00 USD|[21](https://www.snap.com/political-ads/asset/2fcfbd814c8a4b03b99da0ed3a76525a66a88e1b6208592cb345245bc28280ce?mediaType=mp4)|173|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|2.00 USD|[22](https://www.snap.com/political-ads/asset/d3620d31c4a3eaf69d4a9766c2dc8a26d901d0cd8fb5566a862d77c86ecaa1d1?mediaType=mp4)|106|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|11.00 USD|[15](https://www.snap.com/political-ads/asset/5345132c602c8d04131c5a24b17401fc44da70d6529a286e7704960fa9031df0?mediaType=mp4)|810|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|13.00 USD|[16](https://www.snap.com/political-ads/asset/d3620d31c4a3eaf69d4a9766c2dc8a26d901d0cd8fb5566a862d77c86ecaa1d1?mediaType=mp4)|748|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|10.00 USD|[17](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|709|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|7.00 USD|[18](https://www.snap.com/political-ads/asset/90ab760653ae28025b38a1c1fc71be27ece969fbdcc4e7b1399861019dcd40b7?mediaType=mp4)|628|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|7.00 USD|[19](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|619|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|9.00 USD|[20](https://www.snap.com/political-ads/asset/3e2b5c524c40dcfc965ad5ede82496b8b8ff4ae21d12317516dc73312cfbb517?mediaType=mp4)|569|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|7.00 USD|[21](https://www.snap.com/political-ads/asset/2fcfbd814c8a4b03b99da0ed3a76525a66a88e1b6208592cb345245bc28280ce?mediaType=mp4)|446|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|6.00 USD|[22](https://www.snap.com/political-ads/asset/d3620d31c4a3eaf69d4a9766c2dc8a26d901d0cd8fb5566a862d77c86ecaa1d1?mediaType=mp4)|278|FEMALE|16-34|united states|

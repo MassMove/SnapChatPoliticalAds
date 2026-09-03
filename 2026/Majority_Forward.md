@@ -1,7 +1,7 @@
 ## 2026 - Majority Forward 
-**Spent**: 17,029.00
+**Spent**: 18,253.00
 
-**Impressions**: 2,969,730
+**Impressions**: 3,128,682
 
 **Billing Addresses**: 
 - 1421 Prince St Suite 320,Alexandria,22314,US
@@ -12,10 +12,10 @@
 |MVAR Media: Majority Forward|4,648.00 USD|[0](https://www.snap.com/political-ads/asset/5dcdc42ec9af0d9bdf9463cad11b2e5d42c7b41fd4834b3735f4cc638fb0894a?mediaType=mp4)|961,499||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
 |AL Media: Majority Forward|2,809.00 USD|[1](https://www.snap.com/political-ads/asset/e9939fe56ebf11cc207fd359b235f89d5b16d5acc09d456b9ca4d4dbb068cf00?mediaType=mp4)|570,952||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
 |AL Media: Majority Forward|3,573.00 USD|[2](https://www.snap.com/political-ads/asset/e9939fe56ebf11cc207fd359b235f89d5b16d5acc09d456b9ca4d4dbb068cf00?mediaType=mp4)|553,965||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
-|AL Media: Majority Forward|3,337.00 USD|[3](https://www.snap.com/political-ads/asset/46a34e8aaea5395e4e1bc76faa45efb0f59a383b6519bd585c9109cc33b37060?mediaType=mp4)|422,678||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
-|AL Media: Majority Forward|1,507.00 USD|[4](https://www.snap.com/political-ads/asset/46a34e8aaea5395e4e1bc76faa45efb0f59a383b6519bd585c9109cc33b37060?mediaType=mp4)|243,344||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media: Majority Forward|3,989.00 USD|[3](https://www.snap.com/political-ads/asset/46a34e8aaea5395e4e1bc76faa45efb0f59a383b6519bd585c9109cc33b37060?mediaType=mp4)|499,118||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media: Majority Forward|1,775.00 USD|[4](https://www.snap.com/political-ads/asset/46a34e8aaea5395e4e1bc76faa45efb0f59a383b6519bd585c9109cc33b37060?mediaType=mp4)|284,186||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
 |MVAR Media: Majority Forward|510.00 USD|[5](https://www.snap.com/political-ads/asset/5dcdc42ec9af0d9bdf9463cad11b2e5d42c7b41fd4834b3735f4cc638fb0894a?mediaType=mp4)|131,800||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|AL Media: Majority Forward|470.00 USD|[6](https://www.snap.com/political-ads/asset/5de275db0ea7087d7691a5d12fab82f6a0e76aaa43b292c73993d6bbddd31eff?mediaType=mp4)|60,438||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
-|AL Media: Majority Forward|62.00 USD|[7](https://www.snap.com/political-ads/asset/5de275db0ea7087d7691a5d12fab82f6a0e76aaa43b292c73993d6bbddd31eff?mediaType=mp4)|10,445||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
-|AL Media: Majority Forward|88.00 USD|[8](https://www.snap.com/political-ads/asset/d05282862775762ab3f23f2e8f1f56f97aba50e7cb7d432ab9a86391a0a5c45d?mediaType=mp4)|10,425||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
-|AL Media: Majority Forward|25.00 USD|[9](https://www.snap.com/political-ads/asset/d05282862775762ab3f23f2e8f1f56f97aba50e7cb7d432ab9a86391a0a5c45d?mediaType=mp4)|4,184||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media: Majority Forward|570.00 USD|[6](https://www.snap.com/political-ads/asset/5de275db0ea7087d7691a5d12fab82f6a0e76aaa43b292c73993d6bbddd31eff?mediaType=mp4)|72,291||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media: Majority Forward|161.00 USD|[7](https://www.snap.com/political-ads/asset/d05282862775762ab3f23f2e8f1f56f97aba50e7cb7d432ab9a86391a0a5c45d?mediaType=mp4)|19,073||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media: Majority Forward|110.00 USD|[8](https://www.snap.com/political-ads/asset/5de275db0ea7087d7691a5d12fab82f6a0e76aaa43b292c73993d6bbddd31eff?mediaType=mp4)|18,269||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
+|AL Media: Majority Forward|108.00 USD|[9](https://www.snap.com/political-ads/asset/d05282862775762ab3f23f2e8f1f56f97aba50e7cb7d432ab9a86391a0a5c45d?mediaType=mp4)|17,529||18-34|united states|222 W Ontario, Suite 600,,Chicago,60654,US|
