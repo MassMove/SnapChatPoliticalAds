@@ -1,17 +1,17 @@
 ## 2026 - VoteRiders 
-**Spent**: 588.00
+**Spent**: 622.00
 
-**Impressions**: 299,386
+**Impressions**: 316,122
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|VoteRiders|276.00 USD|[0](https://www.snap.com/political-ads/asset/5939d17df44277694080d9c838d4e7038b708360c330c2c3ddcb1786e3af6edc?mediaType=mp4)|140,028||18-35|united states|
-|VoteRiders|174.00 USD|[1](https://www.snap.com/political-ads/asset/9427a2b61be3c53da69d0d55bdc7f642e3a8118c0d9c9999d11a000626c122e4?mediaType=mp4)|86,333||18-35|united states|
-|VoteRiders|88.00 USD|[2](https://www.snap.com/political-ads/asset/e2162d893601bd159d93043369abbd16ba56bcd565016d740bd49127cd937133?mediaType=mp4)|46,268||18-35|united states|
-|VoteRiders|50.00 USD|[3](https://www.snap.com/political-ads/asset/a56f869779275d65af336c65b6f013a01d47034bd82a7821afa71274778e6d96?mediaType=mp4)|25,838||18-35|united states|
-|VoteRiders|0.00 USD|[4](https://www.snap.com/political-ads/asset/a56f869779275d65af336c65b6f013a01d47034bd82a7821afa71274778e6d96?mediaType=mp4)|414||18-35|united states|
-|VoteRiders|0.00 USD|[5](https://www.snap.com/political-ads/asset/e2162d893601bd159d93043369abbd16ba56bcd565016d740bd49127cd937133?mediaType=mp4)|217||18-35|united states|
-|VoteRiders|0.00 USD|[6](https://www.snap.com/political-ads/asset/5939d17df44277694080d9c838d4e7038b708360c330c2c3ddcb1786e3af6edc?mediaType=mp4)|187||18-35|united states|
-|VoteRiders|0.00 USD|[7](https://www.snap.com/political-ads/asset/9427a2b61be3c53da69d0d55bdc7f642e3a8118c0d9c9999d11a000626c122e4?mediaType=mp4)|101||18-35|united states|
+|VoteRiders|289.00 USD|[0](https://www.snap.com/political-ads/asset/5939d17df44277694080d9c838d4e7038b708360c330c2c3ddcb1786e3af6edc?mediaType=mp4)|146,616||18-35|united states|
+|VoteRiders|192.00 USD|[1](https://www.snap.com/political-ads/asset/9427a2b61be3c53da69d0d55bdc7f642e3a8118c0d9c9999d11a000626c122e4?mediaType=mp4)|94,928||18-35|united states|
+|VoteRiders|89.00 USD|[2](https://www.snap.com/political-ads/asset/e2162d893601bd159d93043369abbd16ba56bcd565016d740bd49127cd937133?mediaType=mp4)|46,816||18-35|united states|
+|VoteRiders|52.00 USD|[3](https://www.snap.com/political-ads/asset/a56f869779275d65af336c65b6f013a01d47034bd82a7821afa71274778e6d96?mediaType=mp4)|26,798||18-35|united states|
+|VoteRiders|0.00 USD|[4](https://www.snap.com/political-ads/asset/a56f869779275d65af336c65b6f013a01d47034bd82a7821afa71274778e6d96?mediaType=mp4)|431||18-35|united states|
+|VoteRiders|0.00 USD|[5](https://www.snap.com/political-ads/asset/e2162d893601bd159d93043369abbd16ba56bcd565016d740bd49127cd937133?mediaType=mp4)|237||18-35|united states|
+|VoteRiders|0.00 USD|[6](https://www.snap.com/political-ads/asset/5939d17df44277694080d9c838d4e7038b708360c330c2c3ddcb1786e3af6edc?mediaType=mp4)|193||18-35|united states|
+|VoteRiders|0.00 USD|[7](https://www.snap.com/political-ads/asset/9427a2b61be3c53da69d0d55bdc7f642e3a8118c0d9c9999d11a000626c122e4?mediaType=mp4)|103||18-35|united states|

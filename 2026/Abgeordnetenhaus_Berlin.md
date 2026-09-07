@@ -1,23 +1,23 @@
 ## 2026 - Abgeordnetenhaus Berlin 
-**Spent**: 3,006.00
+**Spent**: 3,358.00
 
-**Impressions**: 2,233,549
+**Impressions**: 2,414,612
 
 **Billing Addresses**: Knooper Weg 51,Kiel,24103,DE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|470.00 EUR|[0](https://www.snap.com/political-ads/asset/b599e67e9df576b2ca58d746137b750f67de8928731c1f07e90e24cd00f6c5a4?mediaType=mp4)|503,878||16+|germany|
-|boy Strategie und Kommunikation GmbH|563.00 EUR|[1](https://www.snap.com/political-ads/asset/ffedcc604582b3ac860c06bf0db10aef1f5326f10a05690caa6ac71d1925f411?mediaType=mp4)|303,539||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|256.00 EUR|[2](https://www.snap.com/political-ads/asset/f7b2a0bb5202426c6630e0b6098ae974db2ad6b9e80e97fcbf60eaf46f37086a?mediaType=mp4)|252,876||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|258.00 EUR|[3](https://www.snap.com/political-ads/asset/ab8bc6d9108d50c1dbb5b0e7af52d2036a5690a4228781448432ed5d1b6663b3?mediaType=png)|220,589||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|196.00 EUR|[4](https://www.snap.com/political-ads/asset/d04d9d70fd7e68b35c482e7e085010bb0301fb3ea3bc397c89e8891c9b35b7ca?mediaType=mp4)|174,329||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|148.00 EUR|[5](https://www.snap.com/political-ads/asset/c1ab01caa9f5a172e5db7fe9ebb96a5efa5fe6953dfc430962247241ff1a16bb?mediaType=png)|147,424||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|104.00 EUR|[6](https://www.snap.com/political-ads/asset/ef61a42270221987094632f65a7a9aa607b7cadbe25a10532a78dd0f91dbc7c2?mediaType=png)|111,007||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|117.00 EUR|[7](https://www.snap.com/political-ads/asset/5ab7a291728f1e0bdd6b220d5e1a792f8cbeab4b1a441a8db85d46cb6e741964?mediaType=png)|110,444||16+|germany|
-|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|134.00 EUR|[8](https://www.snap.com/political-ads/asset/c7588cb01a3cd67bc2f2be692cb6486797b790b758b68bab0750d30df1cbe610?mediaType=mp4)|109,202||16+|germany|
-|boy Strategie und Kommunikation GmbH|231.00 EUR|[9](https://www.snap.com/political-ads/asset/8b30a9bc8804839b68d37eccf0881285d2e4cd852cb451f4d91d6fa84fc46f0a?mediaType=mp4)|86,461||16+|germany|
-|boy Strategie und Kommunikation GmbH|172.00 EUR|[10](https://www.snap.com/political-ads/asset/3bc35862f6492d6f4539df932c2054a46554a9e25fd03bb0bae07e4254aafccf?mediaType=mp4)|65,273||16+|germany|
-|boy Strategie und Kommunikation GmbH|154.00 EUR|[11](https://www.snap.com/political-ads/asset/51408ff7e467a2f92b1609dda8c623c78de667907d48ac8a9cd7efb11a7a32e2?mediaType=mp4)|62,785||16+|germany|
-|boy Strategie und Kommunikation GmbH|104.00 EUR|[12](https://www.snap.com/political-ads/asset/ef79e6848ea53c2336b2523240811eafa562f0452fc06840d7bd5ad41ed26a4f?mediaType=mp4)|44,748||16+|germany|
-|boy Strategie und Kommunikation GmbH|99.00 EUR|[13](https://www.snap.com/political-ads/asset/e89e974a0e60a56c38c63652c34437f348700e13f6686679256d54e68a6b23b5?mediaType=mp4)|40,994||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|503.00 EUR|[0](https://www.snap.com/political-ads/asset/b599e67e9df576b2ca58d746137b750f67de8928731c1f07e90e24cd00f6c5a4?mediaType=mp4)|527,726||16+|germany|
+|boy Strategie und Kommunikation GmbH|681.00 EUR|[1](https://www.snap.com/political-ads/asset/ffedcc604582b3ac860c06bf0db10aef1f5326f10a05690caa6ac71d1925f411?mediaType=mp4)|370,448||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|269.00 EUR|[2](https://www.snap.com/political-ads/asset/f7b2a0bb5202426c6630e0b6098ae974db2ad6b9e80e97fcbf60eaf46f37086a?mediaType=mp4)|263,433||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|268.00 EUR|[3](https://www.snap.com/political-ads/asset/ab8bc6d9108d50c1dbb5b0e7af52d2036a5690a4228781448432ed5d1b6663b3?mediaType=png)|224,729||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|206.00 EUR|[4](https://www.snap.com/political-ads/asset/d04d9d70fd7e68b35c482e7e085010bb0301fb3ea3bc397c89e8891c9b35b7ca?mediaType=mp4)|179,568||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|152.00 EUR|[5](https://www.snap.com/political-ads/asset/c1ab01caa9f5a172e5db7fe9ebb96a5efa5fe6953dfc430962247241ff1a16bb?mediaType=png)|149,248||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|124.00 EUR|[6](https://www.snap.com/political-ads/asset/5ab7a291728f1e0bdd6b220d5e1a792f8cbeab4b1a441a8db85d46cb6e741964?mediaType=png)|114,061||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|108.00 EUR|[7](https://www.snap.com/political-ads/asset/ef61a42270221987094632f65a7a9aa607b7cadbe25a10532a78dd0f91dbc7c2?mediaType=png)|113,409||16+|germany|
+|boy Strategie und Kommunikation GmbH: Wahl des Abgeordnetenhaus von Berlin|141.00 EUR|[8](https://www.snap.com/political-ads/asset/c7588cb01a3cd67bc2f2be692cb6486797b790b758b68bab0750d30df1cbe610?mediaType=mp4)|112,978||16+|germany|
+|boy Strategie und Kommunikation GmbH|278.00 EUR|[9](https://www.snap.com/political-ads/asset/8b30a9bc8804839b68d37eccf0881285d2e4cd852cb451f4d91d6fa84fc46f0a?mediaType=mp4)|104,496||16+|germany|
+|boy Strategie und Kommunikation GmbH|210.00 EUR|[10](https://www.snap.com/political-ads/asset/3bc35862f6492d6f4539df932c2054a46554a9e25fd03bb0bae07e4254aafccf?mediaType=mp4)|81,087||16+|germany|
+|boy Strategie und Kommunikation GmbH|187.00 EUR|[11](https://www.snap.com/political-ads/asset/51408ff7e467a2f92b1609dda8c623c78de667907d48ac8a9cd7efb11a7a32e2?mediaType=mp4)|77,303||16+|germany|
+|boy Strategie und Kommunikation GmbH|119.00 EUR|[12](https://www.snap.com/political-ads/asset/ef79e6848ea53c2336b2523240811eafa562f0452fc06840d7bd5ad41ed26a4f?mediaType=mp4)|50,792||16+|germany|
+|boy Strategie und Kommunikation GmbH|112.00 EUR|[13](https://www.snap.com/political-ads/asset/e89e974a0e60a56c38c63652c34437f348700e13f6686679256d54e68a6b23b5?mediaType=mp4)|45,334||16+|germany|
