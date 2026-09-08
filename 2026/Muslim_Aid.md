@@ -1,7 +1,7 @@
 ## 2026 - Muslim Aid 
-**Spent**: 5,908.00
+**Spent**: 5,921.00
 
-**Impressions**: 1,335,052
+**Impressions**: 1,338,577
 
 **Billing Addresses**: 84 Kingsley Road,Hounslow,TW3 1QA,GB
 
@@ -16,8 +16,8 @@
 |Your Online Conversation|288.00 GBP|[6](https://www.snap.com/political-ads/asset/98534f494f0747c0cab0cee58bd397861f07a1c0e780a028cf2cfd9351b1a168?mediaType=mp4)|54,217||21+|united kingdom|
 |Your Online Conversation|182.00 GBP|[7](https://www.snap.com/political-ads/asset/98534f494f0747c0cab0cee58bd397861f07a1c0e780a028cf2cfd9351b1a168?mediaType=mp4)|36,342||21+|united kingdom|
 |Your Online Conversation|160.00 GBP|[8](https://www.snap.com/political-ads/asset/2f4317f14eb925547431faaa2d21627279b35ea6f46eaec5025c3b9be5d086f9?mediaType=mp4)|36,060||21+|united kingdom|
-|Your Online Conversation|151.00 GBP|[9](https://www.snap.com/political-ads/asset/137d42e85009ed2ddadea5b14a35cf023f1c3e05027b3809a64f8c0ade1777c3?mediaType=mp4)|33,227||25+|united kingdom|
-|Your Online Conversation|109.00 GBP|[10](https://www.snap.com/political-ads/asset/7a10c610a476a5527b3158b68b31ec1f522e78fcc137ca72ec6b961ec1e06f15?mediaType=mp4)|31,351||21+|united kingdom|
+|Your Online Conversation|122.00 GBP|[9](https://www.snap.com/political-ads/asset/7a10c610a476a5527b3158b68b31ec1f522e78fcc137ca72ec6b961ec1e06f15?mediaType=mp4)|34,876||21+|united kingdom|
+|Your Online Conversation|151.00 GBP|[10](https://www.snap.com/political-ads/asset/137d42e85009ed2ddadea5b14a35cf023f1c3e05027b3809a64f8c0ade1777c3?mediaType=mp4)|33,227||25+|united kingdom|
 |Your Online Conversation|121.00 GBP|[11](https://www.snap.com/political-ads/asset/c14a5e7d88c66f94788a8d90c3223b6d0d5cfa527b33527a26d7f655c36f804f?mediaType=mp4)|28,944||21+|united kingdom|
 |Your Online Conversation|101.00 GBP|[12](https://www.snap.com/political-ads/asset/5883cf7686de97593016fe7cae67374bedf2d82b627352a6b2392e685f8467dd?mediaType=mp4)|27,182||21+|united kingdom|
 |Your Online Conversation|179.00 GBP|[13](https://www.snap.com/political-ads/asset/37999411edf277eb4bb02a2e6af402aee2bc6f9458f3b001ed9f74aa87e443cd?mediaType=mp4)|26,727||21+|united kingdom|

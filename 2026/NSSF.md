@@ -1,7 +1,7 @@
 ## 2026 - NSSF 
-**Spent**: 6,815.00
+**Spent**: 6,837.00
 
-**Impressions**: 183,697
+**Impressions**: 184,411
 
 **Billing Addresses**: 2300 Clarendon Blvd,Arlington,22201,US
 
@@ -24,7 +24,7 @@
 |Red Edge LLC|159.00 USD|[14](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|2,843|FEMALE|25-49|united states|
 |Red Edge LLC|71.00 USD|[15](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|2,709|FEMALE|25-49|united states|
 |Red Edge LLC|140.00 USD|[16](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|2,233|FEMALE|25-49|united states|
-|Red Edge LLC|75.00 USD|[17](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|2,010|FEMALE|25-49|united states|
-|Red Edge LLC|50.00 USD|[18](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|1,736|FEMALE|25-49|united states|
+|Red Edge LLC|62.00 USD|[17](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|2,191|FEMALE|25-49|united states|
+|Red Edge LLC|75.00 USD|[18](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|2,010|FEMALE|25-49|united states|
 |Red Edge LLC|73.00 USD|[19](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|1,651|FEMALE|25-49|united states|
-|Red Edge LLC|17.00 USD|[20](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|453|FEMALE|25-49|united states|
+|Red Edge LLC|27.00 USD|[20](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|712|FEMALE|25-49|united states|

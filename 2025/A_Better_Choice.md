@@ -1,10 +1,10 @@
 ## 2025 - A Better Choice 
-**Spent**: 3,482.00
+**Spent**: 3,492.00
 
-**Impressions**: 565,707
+**Impressions**: 567,618
 
 **Billing Addresses**: 4509 Kings Lake Ct,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|3,482.00 USD|[0](https://www.snap.com/political-ads/asset/2e956a9259b12920b581b90dd0f12644fef0a5c359bdb365b50361b6e5910451?mediaType=mp4)|565,707|FEMALE|17-38|united states|
+|Stories Marketing|3,492.00 USD|[0](https://www.snap.com/political-ads/asset/2e956a9259b12920b581b90dd0f12644fef0a5c359bdb365b50361b6e5910451?mediaType=mp4)|567,618|FEMALE|17-38|united states|

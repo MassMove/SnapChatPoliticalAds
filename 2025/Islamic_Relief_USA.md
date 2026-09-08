@@ -1,17 +1,17 @@
 ## 2025 - Islamic Relief USA 
-**Spent**: 272,357.00
+**Spent**: 272,401.00
 
-**Impressions**: 13,469,396
+**Impressions**: 13,476,950
 
 **Billing Addresses**: 3655 Wheeler Ave,Alexandria,22304,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Islamic Relief USA|15,626.00 USD|[0](https://www.snap.com/political-ads/asset/9f2ef8eb51399f481c944b7cd0a6a5665f84659dddc9486e723fccf20909ea5b?mediaType=jpeg)|1,954,349||21-50|united states|
+|Islamic Relief USA|15,662.00 USD|[0](https://www.snap.com/political-ads/asset/9f2ef8eb51399f481c944b7cd0a6a5665f84659dddc9486e723fccf20909ea5b?mediaType=jpeg)|1,961,307||21-50|united states|
 |Islamic Relief USA|1,052.00 USD|[1](https://www.snap.com/political-ads/asset/6788ae50565ac1627e03e25ad31a571facc035f2bce8f3ef85aa0c4ce3db42c9?mediaType=jpeg)|795,351||20+|united states|
 |Islamic Relief USA|36,797.00 USD|[2](https://www.snap.com/political-ads/asset/202a19d12289947313c6a53ea314d043347a64581b9e0f1d91070da1470e0b7d?mediaType=mp4)|647,177||23+|united states|
 |Islamic Relief USA|3,259.00 USD|[3](https://www.snap.com/political-ads/asset/45517121195962857974ffe4b09d6b4f966587def25e7f58abecb9257cad313e?mediaType=jpeg)|595,730||20+|united states|
-|Islamic Relief USA|3,483.00 USD|[4](https://www.snap.com/political-ads/asset/58250d7e9034486144199d2a25e2e463fecb2bdb3979d43e13b2bf98c975eab8?mediaType=jpeg)|490,629||21-50|united states|
+|Islamic Relief USA|3,488.00 USD|[4](https://www.snap.com/political-ads/asset/58250d7e9034486144199d2a25e2e463fecb2bdb3979d43e13b2bf98c975eab8?mediaType=jpeg)|491,009||21-50|united states|
 |Islamic Relief USA|1,927.00 USD|[5](https://www.snap.com/political-ads/asset/4e5857e98ab7c23ada7a6c85d7d014f569b06a6e3acdd08e8046fc0c6a2bef2d?mediaType=jpeg)|446,229||20+|united states|
 |Islamic Relief USA|30,111.00 USD|[6](https://www.snap.com/political-ads/asset/b45fe1664c8517d5e9a1b26deb7fad379e0458c6e1af5d5cc59a4ec2241771c5?mediaType=mp4)|432,685||20+|united states|
 |Islamic Relief USA|2,186.00 USD|[7](https://www.snap.com/political-ads/asset/58250d7e9034486144199d2a25e2e463fecb2bdb3979d43e13b2bf98c975eab8?mediaType=jpeg)|348,638||20+|united states|
@@ -82,10 +82,10 @@
 |Islamic Relief USA|1,493.00 USD|[72](https://www.snap.com/political-ads/asset/1bef17a27781044afca58e1f2a4c297a0106eb7fc441b093093b7e5561c0a211?mediaType=jpeg)|36,094||23+|united states|
 |Islamic Relief USA|1,051.00 USD|[73](https://www.snap.com/political-ads/asset/a53d9dd833ebc6552d101d60986e6c7972045e82e371bc5f2b7b33f5d1c32159?mediaType=jpeg)|36,011||22+|united states|
 |Islamic Relief USA|1,652.00 USD|[74](https://www.snap.com/political-ads/asset/4b067cf402903ca4d83a3ab6dc685834c7926eea9a95d1d8be0ef5df39243d3b?mediaType=mp4)|35,148||22+|united states|
-|Islamic Relief USA|600.00 USD|[75](https://www.snap.com/political-ads/asset/c02b6c1178652a0b3e5f3ec394048c93fab35495fcbd35c8869dc219136799cb?mediaType=mp4)|34,849||21-50|united states|
+|Islamic Relief USA|601.00 USD|[75](https://www.snap.com/political-ads/asset/c02b6c1178652a0b3e5f3ec394048c93fab35495fcbd35c8869dc219136799cb?mediaType=mp4)|34,941||21-50|united states|
 |Islamic Relief USA|190.00 USD|[76](https://www.snap.com/political-ads/asset/7312d2fe29a1ade4a1d1ad7c9c9b639453f31136289937e43e460185a4d6738f?mediaType=jpeg)|32,425||18-50|united states|
 |Islamic Relief USA|614.00 USD|[77](https://www.snap.com/political-ads/asset/f628aad179bee9639932685266451458108580868c1f850d245d5b33638aadfb?mediaType=jpeg)|31,837||24+|united states|
-|Islamic Relief USA|454.00 USD|[78](https://www.snap.com/political-ads/asset/11f88a062a415bf7a020969b002ff09486235e0b89e18a8cb949ebf929ffd6c3?mediaType=MP4)|31,580||21-50|united states|
+|Islamic Relief USA|456.00 USD|[78](https://www.snap.com/political-ads/asset/11f88a062a415bf7a020969b002ff09486235e0b89e18a8cb949ebf929ffd6c3?mediaType=MP4)|31,704||21-50|united states|
 |Islamic Relief USA|516.00 USD|[79](https://www.snap.com/political-ads/asset/77b2f6cb3af9aa6c5232a8c9e0e296e02615f1f90cb76a3d1ca082fa74c8363c?mediaType=jpg)|30,448||21+|united states|
 |Islamic Relief USA|1,089.00 USD|[80](https://www.snap.com/political-ads/asset/ded580f5d3122cda0dacf35761efe5402c0e6614416a79366b8f932044f6cc3a?mediaType=mp4)|30,122||22-50|united states|
 |Islamic Relief USA|569.00 USD|[81](https://www.snap.com/political-ads/asset/77b2f6cb3af9aa6c5232a8c9e0e296e02615f1f90cb76a3d1ca082fa74c8363c?mediaType=jpg)|29,117||21+|united states|

@@ -1,11 +1,11 @@
 ## 2026 - Freedom Virginia INC 
-**Spent**: 44,272.00
+**Spent**: 46,103.00
 
-**Impressions**: 2,240,154
+**Impressions**: 2,341,655
 
 **Billing Addresses**: 1421 Prince St Suite 320,Alexandria,22314,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|MVAR Media: Freedom Virginia|30,679.00 USD|[0](https://www.snap.com/political-ads/asset/2b618776ef5ed61b224887a8bc5f1924f6fda657930f8b919c8a3d80e1ae869b?mediaType=jpg)|1,524,869||25-44|united states|
-|MVAR Media: Freedom Virginia|13,593.00 USD|[1](https://www.snap.com/political-ads/asset/aedfb4646ac02e6bf874c2fd231a6629d45ff2b51fd5930e34dc02c71a4fda5b?mediaType=png)|715,285||25-44|united states|
+|MVAR Media: Freedom Virginia|31,105.00 USD|[0](https://www.snap.com/political-ads/asset/2b618776ef5ed61b224887a8bc5f1924f6fda657930f8b919c8a3d80e1ae869b?mediaType=jpg)|1,550,210||25-44|united states|
+|MVAR Media: Freedom Virginia|14,998.00 USD|[1](https://www.snap.com/political-ads/asset/aedfb4646ac02e6bf874c2fd231a6629d45ff2b51fd5930e34dc02c71a4fda5b?mediaType=png)|791,445||25-44|united states|
