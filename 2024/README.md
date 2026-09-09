@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|586,255.00 EUR|315,119,821||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|586,335.00 EUR|315,148,751||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -13,7 +13,7 @@
 |[Majority Forward](Majority_Forward.md) - C+K: Majority Forward|668,723.00 USD|65,299,775||18+, 18-34|united states|
 |[Working America](Working_America.md) - Working America|457,680.00 USD|58,940,152||18+|united states|
 |[MATW](MATW.md) - MATW Project: Australia, Not Applicable, United States|482,475.00 AUD|51,683,991||16+, 18+, 20+, 22+, 24+, 25+|australia, germany, united arab emirates, united kingdom, united states|
-|[By Duty to America](By_Duty_to_America.md) - MNI Targeted Media: Duty to America|212,396.00 USD|49,500,335|MALE|18+, 18-35|united states|
+|[By Duty to America](By_Duty_to_America.md) - MNI Targeted Media: Duty to America|212,456.00 USD|49,510,297|MALE|18+, 18-35|united states|
 |[Restoration PAC](Restoration_PAC.md) - Harris Media LLC|147,426.00 USD|45,857,979|MALE|18-34|united states|
 |[WINSENATE](WINSENATE.md) - Wavelength Strategy: WinSenate, WinSenate AZ, WinSenate Michigan|290,867.00 USD|45,011,321||18+, 18-30, 18-34, 31+|united states|
 |[Last Best Place PAC](Last_Best_Place_PAC.md) - MVAR Media: LBPP Youth Voter, Last Best Place PAC|329,127.00 USD|39,628,135||18+, 18-24, 18-25, 18-45|united states|
@@ -215,7 +215,7 @@
 |[MOA2A](MOA2A.md) - Choose Life Marketing|6,822.00 USD|1,226,892|FEMALE|35-|united states|
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Get Democracy Done|26,444.00 USD|1,222,857||18-20|united states|
 |[VoteRiders](VoteRiders.md) - VoteRiders|15,220.00 USD|1,214,559||18-27, 18-29|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|8,838.00 USD|1,192,838|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|8,854.00 USD|1,194,205|FEMALE|30-|united states|
 |[Amt der Oö. Landesregierung](Amt_der_Oö._Landesregierung.md) - upart|1,261.00 EUR|1,180,114||16-20|austria|
 |[Send The Vote](Send_The_Vote.md) - Daily Mail|6,497.00 USD|1,176,352||18+|united states|
 |[Moving Montana Forward](Moving_Montana_Forward.md) - Navigate Campaigns|5,998.00 USD|1,163,112||18-39|united states|

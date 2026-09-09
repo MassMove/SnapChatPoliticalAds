@@ -1,12 +1,12 @@
 ## 2026 - Huddinge kommun 
-**Spent**: 60.00
+**Spent**: 67.00
 
-**Impressions**: 56,148
+**Impressions**: 63,107
 
 **Billing Addresses**: SE
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Huddinge kommun|34.00 EUR|[0](https://www.snap.com/political-ads/asset/9004fe2301bd96e8a1f334c3be66809dee4437cf8c683bdc9dd03f0b2983707f?mediaType=png)|31,336||18+|sweden|
-|Huddinge kommun|24.00 EUR|[1](https://www.snap.com/political-ads/asset/4df3b15caf5b1c764cc121428d33bc0b503d8b8fc2c797a5fdeff9d80eed377a?mediaType=png)|22,882||18+|sweden|
-|Huddinge kommun|2.00 EUR|[2](https://www.snap.com/political-ads/asset/398817721b9a3d221805c96adda54f6e6823f557547907b127793e109d90d64a?mediaType=mp4)|1,930||18+|sweden|
+|Huddinge kommun|37.00 EUR|[0](https://www.snap.com/political-ads/asset/9004fe2301bd96e8a1f334c3be66809dee4437cf8c683bdc9dd03f0b2983707f?mediaType=png)|34,131||18+|sweden|
+|Huddinge kommun|26.00 EUR|[1](https://www.snap.com/political-ads/asset/4df3b15caf5b1c764cc121428d33bc0b503d8b8fc2c797a5fdeff9d80eed377a?mediaType=png)|24,529||18+|sweden|
+|Huddinge kommun|4.00 EUR|[2](https://www.snap.com/political-ads/asset/398817721b9a3d221805c96adda54f6e6823f557547907b127793e109d90d64a?mediaType=mp4)|4,447||18+|sweden|
