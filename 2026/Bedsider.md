@@ -1,7 +1,7 @@
 ## 2026 - Bedsider 
-**Spent**: 5,928.00
+**Spent**: 5,949.00
 
-**Impressions**: 250,984
+**Impressions**: 251,756
 
 **Billing Addresses**: 1015 15th St NW, Suite 1225,Washington,20005,US
 
@@ -23,5 +23,5 @@
 |Bedsider|59.00 USD|[13](https://www.snap.com/political-ads/asset/722423309ec64248f3bcb1b363634e27e56ff07fda40d970e572046369a81f15?mediaType=mp4)|3,518|FEMALE|18-29|united states|
 |Bedsider|51.00 USD|[14](https://www.snap.com/political-ads/asset/3bb4e29effffaa5c7595a171cd925c64580b44003c9f62e09eae6a8456f24821?mediaType=mp4)|2,658|FEMALE|18-29|united states|
 |Bedsider|38.00 USD|[15](https://www.snap.com/political-ads/asset/b4fffdfab84fc61437ed827b2f06a3e36dc8d3c65f188d01d1a431d7fa0e9ad7?mediaType=mp4)|1,860|FEMALE|18-29|united states|
-|Bedsider|12.00 USD|[16](https://www.snap.com/political-ads/asset/4b6e11ab72c22de4eaa32535bc24acc8d58f37d1280767f5d85ad2cde91fb803?mediaType=png)|644|FEMALE|18-29|united states|
-|Bedsider|5.00 USD|[17](https://www.snap.com/political-ads/asset/055cc56b5af3539bde2f20ef69f28be0c90978693a915bbe1b3dc5e2ccaac695?mediaType=png)|273|FEMALE|18-29|united states|
+|Bedsider|26.00 USD|[16](https://www.snap.com/political-ads/asset/4b6e11ab72c22de4eaa32535bc24acc8d58f37d1280767f5d85ad2cde91fb803?mediaType=png)|1,146|FEMALE|18-29|united states|
+|Bedsider|12.00 USD|[17](https://www.snap.com/political-ads/asset/055cc56b5af3539bde2f20ef69f28be0c90978693a915bbe1b3dc5e2ccaac695?mediaType=png)|543|FEMALE|18-29|united states|
