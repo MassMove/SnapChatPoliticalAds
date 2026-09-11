@@ -1,7 +1,7 @@
 ## 2026 - Abortion Finder 
-**Spent**: 40,416.00
+**Spent**: 40,525.00
 
-**Impressions**: 3,259,462
+**Impressions**: 3,263,941
 
 **Billing Addresses**: US
 
@@ -29,9 +29,9 @@
 |Abortion Finder|162.00 USD|[19](https://www.snap.com/political-ads/asset/e9239ef1c2873aa3d7b06f1cb773cced15e0a90357f1486369650cb594c3c719?mediaType=png)|15,000|FEMALE|18-42|united states|
 |Abortion Finder|168.00 USD|[20](https://www.snap.com/political-ads/asset/9097ea4b42091200904f13320c18141ee36635d4195de254f284cfa4ce001b1e?mediaType=png)|13,729|FEMALE|18-42|united states|
 |Abortion Finder|102.00 USD|[21](https://www.snap.com/political-ads/asset/742e33cadda84e53845ccbb24b55f71357ca0dd3ca9b86309c89231034c51d99?mediaType=mp4)|13,374|FEMALE|18-42|united states|
-|Abortion Finder|147.00 USD|[22](https://www.snap.com/political-ads/asset/3a5671b8b5b51bd21453dfdbcfb01a436c4e948ab9c7968c79b81a7c6a7516bd?mediaType=png)|11,601|FEMALE|18-42|united states|
-|Abortion Finder|119.00 USD|[23](https://www.snap.com/political-ads/asset/192c3986779649405026d0176841a7f9e621486a662d9914b62bfbcba6b93ad2?mediaType=png)|10,079|FEMALE|18-42|united states|
-|Abortion Finder|199.00 USD|[24](https://www.snap.com/political-ads/asset/82d9b032db6072a1bf158d368faa9b8d014af10e49f9d36b4f75ed7f28ae032c?mediaType=png)|9,244|FEMALE|18-42|united states|
+|Abortion Finder|291.00 USD|[22](https://www.snap.com/political-ads/asset/82d9b032db6072a1bf158d368faa9b8d014af10e49f9d36b4f75ed7f28ae032c?mediaType=png)|12,934|FEMALE|18-42|united states|
+|Abortion Finder|147.00 USD|[23](https://www.snap.com/political-ads/asset/3a5671b8b5b51bd21453dfdbcfb01a436c4e948ab9c7968c79b81a7c6a7516bd?mediaType=png)|11,601|FEMALE|18-42|united states|
+|Abortion Finder|119.00 USD|[24](https://www.snap.com/political-ads/asset/192c3986779649405026d0176841a7f9e621486a662d9914b62bfbcba6b93ad2?mediaType=png)|10,079|FEMALE|18-42|united states|
 |Abortion Finder|129.00 USD|[25](https://www.snap.com/political-ads/asset/f9e614222a11bb0115735afbe795fbede75d8c8afaef29a369835ea231e7eeac?mediaType=png)|7,603|FEMALE|18-42|united states|
 |Abortion Finder|51.00 USD|[26](https://www.snap.com/political-ads/asset/59a746006d4f549533ff76c5b61e8a699bf896c6392ed0131d09c71285282374?mediaType=mp4)|6,339|FEMALE|18-42|united states|
 |Abortion Finder|74.00 USD|[27](https://www.snap.com/political-ads/asset/2fece3ad47852330ab0fc196addcb0221bfdace30261136a3d57011494b6255e?mediaType=png)|6,332|FEMALE|18-42|united states|
@@ -43,7 +43,7 @@
 |Abortion Finder|28.00 USD|[33](https://www.snap.com/political-ads/asset/aad5d7536deb686342fb74bba0b458364db48a325447d34a4117a47945813553?mediaType=mp4)|4,141|FEMALE|18-42|united states|
 |Abortion Finder|39.00 USD|[34](https://www.snap.com/political-ads/asset/6d805f2ba8fb163d39f95c1fbb76b69fe32edbc0a21bb6e358ed944e1ed7f21e?mediaType=mp4)|3,426|FEMALE|18-42|united states|
 |Abortion Finder|20.00 USD|[35](https://www.snap.com/political-ads/asset/24e30d9acd4f6771f91cd973c6e5b52bc7ede5f96574b02c5dc8934a845623a7?mediaType=mp4)|3,106|FEMALE|18-42|united states|
-|Abortion Finder|21.00 USD|[36](https://www.snap.com/political-ads/asset/192c3986779649405026d0176841a7f9e621486a662d9914b62bfbcba6b93ad2?mediaType=png)|1,228|FEMALE|18-42|united states|
-|Abortion Finder|2.00 USD|[37](https://www.snap.com/political-ads/asset/664f05f9906f77e8f7c362b5c9f4d6523a05a1717da0ae85c074fe72ccc94262?mediaType=mp4)|110|FEMALE|18-42|united states|
-|Abortion Finder|2.00 USD|[38](https://www.snap.com/political-ads/asset/efc8e7f5630154ba1ad09d84db8099b4ce3eeb466180e99d4826eb0d1108e300?mediaType=mp4)|107|FEMALE|18-42|united states|
-|Abortion Finder|2.00 USD|[39](https://www.snap.com/political-ads/asset/c89abb17c67ecf7ac0c40868a825586d98601ae0e557fb840803fda2485c2d43?mediaType=mp4)|104|FEMALE|18-42|united states|
+|Abortion Finder|35.00 USD|[36](https://www.snap.com/political-ads/asset/192c3986779649405026d0176841a7f9e621486a662d9914b62bfbcba6b93ad2?mediaType=png)|1,863|FEMALE|18-42|united states|
+|Abortion Finder|3.00 USD|[37](https://www.snap.com/political-ads/asset/664f05f9906f77e8f7c362b5c9f4d6523a05a1717da0ae85c074fe72ccc94262?mediaType=mp4)|168|FEMALE|18-42|united states|
+|Abortion Finder|3.00 USD|[38](https://www.snap.com/political-ads/asset/c89abb17c67ecf7ac0c40868a825586d98601ae0e557fb840803fda2485c2d43?mediaType=mp4)|155|FEMALE|18-42|united states|
+|Abortion Finder|3.00 USD|[39](https://www.snap.com/political-ads/asset/efc8e7f5630154ba1ad09d84db8099b4ce3eeb466180e99d4826eb0d1108e300?mediaType=mp4)|152|FEMALE|18-42|united states|

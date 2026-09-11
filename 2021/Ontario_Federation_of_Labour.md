@@ -1,7 +1,7 @@
 ## 2021 - Ontario Federation of Labour 
 **Spent**: 1,765.00
 
-**Impressions**: 301,597
+**Impressions**: 301,508
 
 **Billing Addresses**: 505 Hamilton St., Room 301,Vancouver,V6B 2R1,CA
 
@@ -168,22 +168,21 @@
 |Point Blank Creative|0.00 CAD|[158](https://www.snap.com/political-ads/asset/8e107fec10253fafb2fdf42e1b65e29868679ece86e7e0457b6982e236134b60?mediaType=png)|92||18+|canada|
 |Point Blank Creative|0.00 CAD|[159](https://www.snap.com/political-ads/asset/84e4b8b72fa50c043f42dcdd37debb0360d767347312234b89fe226a3700d247?mediaType=png)|91||18+|canada|
 |Point Blank Creative|0.00 CAD|[160](https://www.snap.com/political-ads/asset/95af9db1a18c851bcfa9160c6589bd9479a508d25f377af5015a7983a5e22e79?mediaType=png)|90||18+|canada|
-|Point Blank Creative|0.00 CAD|[161](https://www.snap.com/political-ads/asset/5b5885dba2c4d0b44a3258d3ec6a01aa17270d1081db60cd73cd285f131d7d14?mediaType=png)|89||18+|canada|
-|Point Blank Creative|0.00 CAD|[162](https://www.snap.com/political-ads/asset/5b5885dba2c4d0b44a3258d3ec6a01aa17270d1081db60cd73cd285f131d7d14?mediaType=png)|88||18+|canada|
-|Point Blank Creative|0.00 CAD|[163](https://www.snap.com/political-ads/asset/f6adfafcebd249b3bd73ca3aba9a62439f702a3621946f8aae4876478f1d7180?mediaType=png)|87||18+|canada|
-|Point Blank Creative|0.00 CAD|[164](https://www.snap.com/political-ads/asset/84e4b8b72fa50c043f42dcdd37debb0360d767347312234b89fe226a3700d247?mediaType=png)|85||18+|canada|
-|Point Blank Creative|0.00 CAD|[165](https://www.snap.com/political-ads/asset/7bf0e10708e6df968966608d9d1c54d74a20009012babf445841f6a0a5d6b5bb?mediaType=png)|84||18+|canada|
+|Point Blank Creative|0.00 CAD|[161](https://www.snap.com/political-ads/asset/5b5885dba2c4d0b44a3258d3ec6a01aa17270d1081db60cd73cd285f131d7d14?mediaType=png)|88||18+|canada|
+|Point Blank Creative|0.00 CAD|[162](https://www.snap.com/political-ads/asset/f6adfafcebd249b3bd73ca3aba9a62439f702a3621946f8aae4876478f1d7180?mediaType=png)|87||18+|canada|
+|Point Blank Creative|0.00 CAD|[163](https://www.snap.com/political-ads/asset/84e4b8b72fa50c043f42dcdd37debb0360d767347312234b89fe226a3700d247?mediaType=png)|85||18+|canada|
+|Point Blank Creative|0.00 CAD|[164](https://www.snap.com/political-ads/asset/7bf0e10708e6df968966608d9d1c54d74a20009012babf445841f6a0a5d6b5bb?mediaType=png)|84||18+|canada|
+|Point Blank Creative|0.00 CAD|[165](https://www.snap.com/political-ads/asset/95af9db1a18c851bcfa9160c6589bd9479a508d25f377af5015a7983a5e22e79?mediaType=png)|84||18+|canada|
 |Point Blank Creative|0.00 CAD|[166](https://www.snap.com/political-ads/asset/95af9db1a18c851bcfa9160c6589bd9479a508d25f377af5015a7983a5e22e79?mediaType=png)|84||18+|canada|
-|Point Blank Creative|0.00 CAD|[167](https://www.snap.com/political-ads/asset/95af9db1a18c851bcfa9160c6589bd9479a508d25f377af5015a7983a5e22e79?mediaType=png)|84||18+|canada|
-|Point Blank Creative|0.00 CAD|[168](https://www.snap.com/political-ads/asset/f6adfafcebd249b3bd73ca3aba9a62439f702a3621946f8aae4876478f1d7180?mediaType=png)|84||18+|canada|
-|Point Blank Creative|0.00 CAD|[169](https://www.snap.com/political-ads/asset/53ef15770ade9b08bed5bf8834e5a446dc953d57f5d8a960dacd6ead5d6d8241?mediaType=png)|81||18+|canada|
-|Point Blank Creative|0.00 CAD|[170](https://www.snap.com/political-ads/asset/e4ea7ea5381046b8c44abba4897946951e33d42341b7933a0cb56f90c4f71473?mediaType=png)|81||18+|canada|
-|Point Blank Creative|0.00 CAD|[171](https://www.snap.com/political-ads/asset/91b03fdbab7ab4d9d2d223970d6983dde3fc798b81448c9308a4460ccba30284?mediaType=png)|78||18+|canada|
-|Point Blank Creative|0.00 CAD|[172](https://www.snap.com/political-ads/asset/1c8530032e53859b175288363d8ba230b2aaa1c153c989622351ea83741f65d3?mediaType=png)|77||18+|canada|
-|Point Blank Creative|0.00 CAD|[173](https://www.snap.com/political-ads/asset/ec6eba4157cd764a7e05b3c5af92862b7f653055db09d49c5c82eda871dfec39?mediaType=png)|76||18+|canada|
-|Point Blank Creative|0.00 CAD|[174](https://www.snap.com/political-ads/asset/91b03fdbab7ab4d9d2d223970d6983dde3fc798b81448c9308a4460ccba30284?mediaType=png)|74||18+|canada|
-|Point Blank Creative|0.00 CAD|[175](https://www.snap.com/political-ads/asset/e4ea7ea5381046b8c44abba4897946951e33d42341b7933a0cb56f90c4f71473?mediaType=png)|71||18+|canada|
-|Point Blank Creative|0.00 CAD|[176](https://www.snap.com/political-ads/asset/bdeb9389e9e9563b8629adb088a60912bbd509952c308500877c0d9970b62a2c?mediaType=png)|70||18+|canada|
-|Point Blank Creative|0.00 CAD|[177](https://www.snap.com/political-ads/asset/ead27bb383c41232977ed2ed78e6f724328c855dde243a216364e73c1f2b8d7c?mediaType=png)|70||18+|canada|
-|Point Blank Creative|0.00 CAD|[178](https://www.snap.com/political-ads/asset/84e4b8b72fa50c043f42dcdd37debb0360d767347312234b89fe226a3700d247?mediaType=png)|65||18+|canada|
-|Point Blank Creative|0.00 CAD|[179](https://www.snap.com/political-ads/asset/878bc1be1fddab3f14529360d42bce07961985ddb9ea707e8f8dd6faac1b0327?mediaType=png)|55||18+|canada|
+|Point Blank Creative|0.00 CAD|[167](https://www.snap.com/political-ads/asset/f6adfafcebd249b3bd73ca3aba9a62439f702a3621946f8aae4876478f1d7180?mediaType=png)|84||18+|canada|
+|Point Blank Creative|0.00 CAD|[168](https://www.snap.com/political-ads/asset/53ef15770ade9b08bed5bf8834e5a446dc953d57f5d8a960dacd6ead5d6d8241?mediaType=png)|81||18+|canada|
+|Point Blank Creative|0.00 CAD|[169](https://www.snap.com/political-ads/asset/e4ea7ea5381046b8c44abba4897946951e33d42341b7933a0cb56f90c4f71473?mediaType=png)|81||18+|canada|
+|Point Blank Creative|0.00 CAD|[170](https://www.snap.com/political-ads/asset/91b03fdbab7ab4d9d2d223970d6983dde3fc798b81448c9308a4460ccba30284?mediaType=png)|78||18+|canada|
+|Point Blank Creative|0.00 CAD|[171](https://www.snap.com/political-ads/asset/1c8530032e53859b175288363d8ba230b2aaa1c153c989622351ea83741f65d3?mediaType=png)|77||18+|canada|
+|Point Blank Creative|0.00 CAD|[172](https://www.snap.com/political-ads/asset/ec6eba4157cd764a7e05b3c5af92862b7f653055db09d49c5c82eda871dfec39?mediaType=png)|76||18+|canada|
+|Point Blank Creative|0.00 CAD|[173](https://www.snap.com/political-ads/asset/91b03fdbab7ab4d9d2d223970d6983dde3fc798b81448c9308a4460ccba30284?mediaType=png)|74||18+|canada|
+|Point Blank Creative|0.00 CAD|[174](https://www.snap.com/political-ads/asset/e4ea7ea5381046b8c44abba4897946951e33d42341b7933a0cb56f90c4f71473?mediaType=png)|71||18+|canada|
+|Point Blank Creative|0.00 CAD|[175](https://www.snap.com/political-ads/asset/bdeb9389e9e9563b8629adb088a60912bbd509952c308500877c0d9970b62a2c?mediaType=png)|70||18+|canada|
+|Point Blank Creative|0.00 CAD|[176](https://www.snap.com/political-ads/asset/ead27bb383c41232977ed2ed78e6f724328c855dde243a216364e73c1f2b8d7c?mediaType=png)|70||18+|canada|
+|Point Blank Creative|0.00 CAD|[177](https://www.snap.com/political-ads/asset/84e4b8b72fa50c043f42dcdd37debb0360d767347312234b89fe226a3700d247?mediaType=png)|65||18+|canada|
+|Point Blank Creative|0.00 CAD|[178](https://www.snap.com/political-ads/asset/878bc1be1fddab3f14529360d42bce07961985ddb9ea707e8f8dd6faac1b0327?mediaType=png)|55||18+|canada|

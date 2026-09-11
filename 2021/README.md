@@ -234,7 +234,7 @@
 |[Community Change](Community_Change.md) - Do Big Things|2,994.00 USD|325,402||18+|united states|
 |[Women's March](Women's_March.md) - Middle Seat Consulting  LLC|2,123.00 USD|307,426|FEMALE|18+|united states|
 |[CSSJ](CSSJ.md) - C+K|2,330.00 USD|303,237||18+|united states|
-|[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|1,765.00 CAD|301,597||18+|canada|
+|[Ontario Federation of Labour](Ontario_Federation_of_Labour.md) - Point Blank Creative|1,765.00 CAD|301,508||18+|canada|
 |[Opportunity For All Floridians](Opportunity_For_All_Floridians.md) - Opportunity For All Floridians: Dont Lower FL Minimum Wage|969.00 USD|301,210||17+, 18+|united states|
 |[Alberta Federation of Labour](Alberta_Federation_of_Labour.md) - Point Blank Creative|2,307.00 CAD|299,730||25+|canada|
 |[Supermajority](Supermajority.md) - Do Big Things: Supermajority|2,186.00 USD|294,836|FEMALE|18+|united states|

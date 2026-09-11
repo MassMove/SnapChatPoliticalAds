@@ -1,15 +1,15 @@
 ## 2026 - Healthcare Education Project 
 **Spent**: 18,999.00
 
-**Impressions**: 3,455,401
+**Impressions**: 3,455,404
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Assemble the Agency|4,015.00 USD|[0](https://www.snap.com/political-ads/asset/65592de20a1cc294d8cab9bba29649229b81626b7888467289cbd13c556830d4?mediaType=png)|1,100,704||18+|united states|
-|Assemble the Agency|3,557.00 USD|[1](https://www.snap.com/political-ads/asset/5204c19d65f0c29f54b55aec16868149ef7e4556156713db58d852dc507f754b?mediaType=png)|973,944||18+|united states|
-|Assemble the Agency|2,200.00 USD|[2](https://www.snap.com/political-ads/asset/9c6ed822b73ea5996af55c3c0b9755721aecee37728c30c4c2733b0aff36e15e?mediaType=png)|576,597||18+|united states|
+|Assemble the Agency|3,557.00 USD|[1](https://www.snap.com/political-ads/asset/5204c19d65f0c29f54b55aec16868149ef7e4556156713db58d852dc507f754b?mediaType=png)|973,945||18+|united states|
+|Assemble the Agency|2,200.00 USD|[2](https://www.snap.com/political-ads/asset/9c6ed822b73ea5996af55c3c0b9755721aecee37728c30c4c2733b0aff36e15e?mediaType=png)|576,599||18+|united states|
 |Assemble the Agency|1,326.00 USD|[3](https://www.snap.com/political-ads/asset/368068521d7deaa3285a3fbf5801105bff0e2a4a4e8444ffa2b833a2d03a5a62?mediaType=png)|362,629||18+|united states|
 |Assemble the Agency|2,557.00 USD|[4](https://www.snap.com/political-ads/asset/3e5f752686967f93da1da06bfe293a9e70cdd73ef4b8b4fbe6111d4a22ea8683?mediaType=png)|120,784||18+|united states|
 |Assemble the Agency|1,903.00 USD|[5](https://www.snap.com/political-ads/asset/26ef451955a9be4ef34eeb527565790a69f423a7a9520f28108b83cdc05f229d?mediaType=mp4)|117,722||18+|united states|

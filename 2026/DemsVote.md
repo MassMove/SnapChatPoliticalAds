@@ -1,7 +1,7 @@
 ## 2026 - DemsVote 
-**Spent**: 1,678.00
+**Spent**: 1,708.00
 
-**Impressions**: 482,591
+**Impressions**: 486,816
 
 **Billing Addresses**: 6048 Via Casitas,CARMICHAEL,95608,US
 
@@ -11,6 +11,6 @@
 |Seda Custom Design LLC: Shawn Harris Georgia Runoff Election|299.00 USD|[1](https://www.snap.com/political-ads/asset/4815cb1a1bf8ac70d351e93053cf33818055d013d2d65cd3082ad6c82fc10c8d?mediaType=png)|105,556||18-54|united states|
 |Seda Custom Design LLC|300.00 USD|[2](https://www.snap.com/political-ads/asset/3e629c996505d8ddb9eb68e8003613d8633972bb5768bed506d711c324527778?mediaType=mp4)|68,137||18+|united states|
 |Seda Custom Design LLC: Mike McGuire for Congress|350.00 USD|[3](https://www.snap.com/political-ads/asset/96b353012fe227383e2efabfc3b9f06d83c5c93da80d6c0babb9a5da9684f111?mediaType=mp4)|48,430|FEMALE|18+|united states|
-|Seda Custom Design LLC: No Candidate Register to Vote in General|102.00 USD|[4](https://www.snap.com/political-ads/asset/cdab243907b31d5be7f62da657bc1b18ba23a18805fac521f5113fc9991783cf?mediaType=png)|32,535|FEMALE|16-45|united states|
-|Seda Custom Design LLC: No Candidate Register to vote only|100.00 USD|[5](https://www.snap.com/political-ads/asset/b3fe200ecb295f0691174329e5bb6367acdb4b77d04f209d100286ca6348466b?mediaType=png)|16,988|FEMALE|17-45|united states|
-|Seda Custom Design LLC: No Candidate Register to Vote in General|77.00 USD|[6](https://www.snap.com/political-ads/asset/782d0bfb6e18ef6c4e09345e91c82f324a055c1b088da7e4746b8eb4978c5bda?mediaType=png)|16,339|FEMALE|17-45|united states|
+|Seda Custom Design LLC: No Candidate Register to Vote in General|112.00 USD|[4](https://www.snap.com/political-ads/asset/cdab243907b31d5be7f62da657bc1b18ba23a18805fac521f5113fc9991783cf?mediaType=png)|34,208|FEMALE|16-45|united states|
+|Seda Custom Design LLC: No Candidate Register to vote only|110.00 USD|[5](https://www.snap.com/political-ads/asset/b3fe200ecb295f0691174329e5bb6367acdb4b77d04f209d100286ca6348466b?mediaType=png)|18,211|FEMALE|17-45|united states|
+|Seda Custom Design LLC: No Candidate Register to Vote in General|87.00 USD|[6](https://www.snap.com/political-ads/asset/782d0bfb6e18ef6c4e09345e91c82f324a055c1b088da7e4746b8eb4978c5bda?mediaType=png)|17,668|FEMALE|17-45|united states|
