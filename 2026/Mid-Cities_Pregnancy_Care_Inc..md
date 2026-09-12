@@ -1,7 +1,7 @@
 ## 2026 - Mid-Cities Pregnancy Care Inc. 
-**Spent**: 665.00
+**Spent**: 667.00
 
-**Impressions**: 55,149
+**Impressions**: 55,228
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -25,7 +25,7 @@
 |Cornerstone Marketing Strategies  LLC|17.00 USD|[15](https://www.snap.com/political-ads/asset/c8ae4394d3a2f776b76bb185f82fa3516172208f5cdeb51adf59c936382e4619?mediaType=mp4)|1,443|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|23.00 USD|[16](https://www.snap.com/political-ads/asset/1b0d7032cd2efb07c946223d547be34c077b9f84f86203a6e7e0fe9bf12e2334?mediaType=mp4)|1,407|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|13.00 USD|[17](https://www.snap.com/political-ads/asset/dc23b3974af206db877f2d1eccc91c9c74e6cb9b21db058ad1d16058f2c478a6?mediaType=mp4)|1,369|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|13.00 USD|[18](https://www.snap.com/political-ads/asset/dc23b3974af206db877f2d1eccc91c9c74e6cb9b21db058ad1d16058f2c478a6?mediaType=mp4)|1,115|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|15.00 USD|[18](https://www.snap.com/political-ads/asset/dc23b3974af206db877f2d1eccc91c9c74e6cb9b21db058ad1d16058f2c478a6?mediaType=mp4)|1,194|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|24.00 USD|[19](https://www.snap.com/political-ads/asset/c2773328be3f3f26c922226ea38973e661698c29c3e0d1765fe710f6141af6d3?mediaType=mp4)|1,095|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|10.00 USD|[20](https://www.snap.com/political-ads/asset/1b0d7032cd2efb07c946223d547be34c077b9f84f86203a6e7e0fe9bf12e2334?mediaType=mp4)|958|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|14.00 USD|[21](https://www.snap.com/political-ads/asset/f85282e7d3f871657640b9d23ab5a72689039937b3331698f9ad91b502b8f160?mediaType=mp4)|873|FEMALE|16-34|united states|
