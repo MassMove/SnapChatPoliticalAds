@@ -1,7 +1,7 @@
 ## 2026 - Feel Good Action 
-**Spent**: 20,154.00
+**Spent**: 20,334.00
 
-**Impressions**: 10,099,428
+**Impressions**: 10,105,823
 
 **Billing Addresses**: 2339 Fairview Ave East #L,Seattle,98102,US
 
@@ -42,12 +42,12 @@
 |Feel Good Action|124.00 USD|[32](https://www.snap.com/political-ads/asset/d1eb730ed33b96705ebe604d5a413269f917808cc6702b1f000570761752a46c?mediaType=mp4)|17,252||17-|united states|
 |Feel Good Action|87.00 USD|[33](https://www.snap.com/political-ads/asset/1cc69fa65ca389ffb5dc9d53714675a53187d0e7f4743516e7f9e7e2fbf88efe?mediaType=png)|15,677||17-|united states|
 |Feel Good Action|76.00 USD|[34](https://www.snap.com/political-ads/asset/64ee1680c013a7a3a9ce4e13c1624209764c68a1b7c53853d73c1b1a33a8c26d?mediaType=png)|12,658||17-|united states|
-|Feel Good Action|127.00 USD|[35](https://www.snap.com/political-ads/asset/ca0db44b1ec49cfe50e2603511f9a5aae31502b6d96f3ac8c858f6e7ffeb362f?mediaType=mp4)|11,051||17-|united states|
-|Feel Good Action|58.00 USD|[36](https://www.snap.com/political-ads/asset/a37876094a23a44a37efb4dc04021cdfeedc1e03d468155c04701803959305a7?mediaType=png)|9,500||17-|united states|
-|Feel Good Action|100.00 USD|[37](https://www.snap.com/political-ads/asset/04e96b14c808f46a2aa65fadc226e855adf99f71fbc8c50ac69e1286d0df3376?mediaType=png)|7,091|FEMALE|40-|united states|
+|Feel Good Action|239.00 USD|[35](https://www.snap.com/political-ads/asset/04e96b14c808f46a2aa65fadc226e855adf99f71fbc8c50ac69e1286d0df3376?mediaType=png)|12,030|FEMALE|40-|united states|
+|Feel Good Action|127.00 USD|[36](https://www.snap.com/political-ads/asset/ca0db44b1ec49cfe50e2603511f9a5aae31502b6d96f3ac8c858f6e7ffeb362f?mediaType=mp4)|11,051||17-|united states|
+|Feel Good Action|58.00 USD|[37](https://www.snap.com/political-ads/asset/a37876094a23a44a37efb4dc04021cdfeedc1e03d468155c04701803959305a7?mediaType=png)|9,500||17-|united states|
 |Feel Good Action|42.00 USD|[38](https://www.snap.com/political-ads/asset/eec7804fe5de5c913aeb1d0887a96119b27547d8487d6793c087823dfc98137a?mediaType=png)|6,961||17-|united states|
 |Feel Good Action|39.00 USD|[39](https://www.snap.com/political-ads/asset/00daf2bf2ed096908261b16bd218eba6f2c1cca0b71c59d551b7dd6931d35201?mediaType=png)|6,921||17-|united states|
 |Feel Good Action|33.00 USD|[40](https://www.snap.com/political-ads/asset/c3ba6a8338f8e6eaaddd03d1dab80f18de1a4173ec5843af7b6da0ac41aceae0?mediaType=mp4)|5,797||17-|united states|
 |Feel Good Action|29.00 USD|[41](https://www.snap.com/political-ads/asset/08f16a4cb49f47867e9b2ec7cf9dd414d8d6fb01fc061e556c4d5847eddeca97?mediaType=mp4)|4,637||17-|united states|
-|Feel Good Action|62.00 USD|[42](https://www.snap.com/political-ads/asset/e0302b788095567c45afb26b47713e667f9ca2a24f2cebb9a31525040b153cf3?mediaType=png)|1,758|FEMALE|40-|united states|
-|Feel Good Action|13.00 USD|[43](https://www.snap.com/political-ads/asset/8bf47633ec58953f1da1f1c377a33ed1cc7606d6e933af02427b9bd038aae038?mediaType=png)|506|FEMALE|40-|united states|
+|Feel Good Action|74.00 USD|[42](https://www.snap.com/political-ads/asset/e0302b788095567c45afb26b47713e667f9ca2a24f2cebb9a31525040b153cf3?mediaType=png)|2,059|FEMALE|40-|united states|
+|Feel Good Action|42.00 USD|[43](https://www.snap.com/political-ads/asset/8bf47633ec58953f1da1f1c377a33ed1cc7606d6e933af02427b9bd038aae038?mediaType=png)|1,661|FEMALE|40-|united states|

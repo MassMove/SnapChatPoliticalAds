@@ -1,18 +1,18 @@
 ## 2026 - AFSCME 
-**Spent**: 6,676.00
+**Spent**: 7,104.00
 
-**Impressions**: 342,770
+**Impressions**: 358,607
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Assemble the Agency|2,057.00 USD|[0](https://www.snap.com/political-ads/asset/634c365dc8357cf1d636b1e68826e4e14a98051a9ccf624211086e997948b6af?mediaType=mp4)|132,392||18+|united states|
-|Assemble the Agency|2,463.00 USD|[1](https://www.snap.com/political-ads/asset/c26048f0075cc8f32f250fe1eb04bdaca26a0b9635d878a9569030214bf7679f?mediaType=mp4)|103,730||18+|united states|
-|Assemble the Agency|1,709.00 USD|[2](https://www.snap.com/political-ads/asset/bf994bfaedb2f4d6e0abacf55bbd722214c1e49ff8b6b3e67b5902e9f5d2cac9?mediaType=mp4)|81,380||18+|united states|
+|Assemble the Agency|2,654.00 USD|[1](https://www.snap.com/political-ads/asset/c26048f0075cc8f32f250fe1eb04bdaca26a0b9635d878a9569030214bf7679f?mediaType=mp4)|109,409||18+|united states|
+|Assemble the Agency|1,924.00 USD|[2](https://www.snap.com/political-ads/asset/bf994bfaedb2f4d6e0abacf55bbd722214c1e49ff8b6b3e67b5902e9f5d2cac9?mediaType=mp4)|90,711||18+|united states|
 |Assemble the Agency|100.00 USD|[3](https://www.snap.com/political-ads/asset/839a1a9079b6bc17453295796dd77e8f20da23af907fd347ecd449a7edfba9e0?mediaType=mp4)|7,010||18+|united states|
 |Assemble the Agency|86.00 USD|[4](https://www.snap.com/political-ads/asset/b102c5be6ea6dc38cce934234e6d02a87ea94ed893c933cdb00eaea64a911f3d?mediaType=mp4)|6,262||18+|united states|
-|Assemble the Agency|81.00 USD|[5](https://www.snap.com/political-ads/asset/c96fa8068288fd0f2bafc515e203600179b681dc281d2da771755408f6f840e3?mediaType=mp4)|3,801||18+|united states|
-|Assemble the Agency|69.00 USD|[6](https://www.snap.com/political-ads/asset/c73d7d3d7252c50d7625296d621cff7391181a549ec0cc272729bdf722bb4fb7?mediaType=mp4)|3,013||18+|united states|
-|Assemble the Agency|55.00 USD|[7](https://www.snap.com/political-ads/asset/6b7f3f3406b85334c3030debccf0a09a0e2e34a914c0e9932a51ba8a13db6d20?mediaType=mp4)|2,671||18+|united states|
-|Assemble the Agency|56.00 USD|[8](https://www.snap.com/political-ads/asset/1b1c32d90b348cd2c1e699310be4e73adfcd90c0c318966b8b46ad4cc1c29ffb?mediaType=mp4)|2,511||18+|united states|
+|Assemble the Agency|87.00 USD|[5](https://www.snap.com/political-ads/asset/c96fa8068288fd0f2bafc515e203600179b681dc281d2da771755408f6f840e3?mediaType=mp4)|3,968||18+|united states|
+|Assemble the Agency|74.00 USD|[6](https://www.snap.com/political-ads/asset/c73d7d3d7252c50d7625296d621cff7391181a549ec0cc272729bdf722bb4fb7?mediaType=mp4)|3,166||18+|united states|
+|Assemble the Agency|60.00 USD|[7](https://www.snap.com/political-ads/asset/6b7f3f3406b85334c3030debccf0a09a0e2e34a914c0e9932a51ba8a13db6d20?mediaType=mp4)|2,890||18+|united states|
+|Assemble the Agency|62.00 USD|[8](https://www.snap.com/political-ads/asset/1b1c32d90b348cd2c1e699310be4e73adfcd90c0c318966b8b46ad4cc1c29ffb?mediaType=mp4)|2,799||18+|united states|
