@@ -173,7 +173,7 @@
 |[ifaw](ifaw.md) - International Fund for Animal Welfare|991.00 EUR|740,884||18+|netherlands|
 |[Cancerfonden](Cancerfonden.md) - All Rise Media AB: Cancerfonden - The Swedish Cancer Society|2,923.00 EUR|723,124|FEMALE|18+, 20+, 35+|sweden|
 |[OPC](OPC.md) - Cossette Media Inc|1,199.00 CAD|723,077||18-24|canada|
-|[Difi](Difi.md) - Hensikt AS|2,296.00 EUR|695,640|FEMALE|18-25, 25-27|norway|
+|[Difi](Difi.md) - Layer Byrå AS|2,296.00 EUR|695,640|FEMALE|18-25, 25-27|norway|
 |[مهلهل خالد المضف](مهلهل_خالد_المضف.md) - MMD Digital Solutions|971.00 USD|674,645||18+, 21+|kuwait|
 |[University of British Columbia](University_of_British_Columbia.md) - MediaCom Canada|2,611.00 CAD|601,661||16-25|united states|
 |[Syöpäsäätiö](Syöpäsäätiö.md) - ThreeFiveEight Oy|900.00 EUR|595,175||18+, 18-18|finland|

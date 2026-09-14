@@ -63,7 +63,7 @@
 |[Mohammad Jowhar Hayat](Mohammad_Jowhar_Hayat.md) - Abbas Marketing|1,749.00 USD|2,462,730||18+|kuwait|
 |[Courier Newsroom](Courier_Newsroom.md) - SBDigital: Wisconsin Supreme Court|35,197.00 USD|2,362,762||18+|united states|
 |[Fan Fairness Coalition](Fan_Fairness_Coalition.md) - Precision [TEST]|22,877.00 USD|2,343,393|||united states|
-|[Døgn AS](Døgn_AS.md) - Hensikt AS: Local voting project|21,178.00 NOK|2,324,445||16-23, 18-23|norway|
+|[Døgn AS](Døgn_AS.md) - Layer Byrå AS: Local voting project|21,178.00 NOK|2,324,445||16-23, 18-23|norway|
 |[D66](D66.md) - D66: D66|9,982.00 EUR|2,321,035||18-24|netherlands|
 |[Vivek 2024](Vivek_2024.md) - Vivek 2024: Vivek Ramaswamy for President|13,675.00 USD|2,300,938||17-17, 17-26|united states|
 |[Åpen Folkekirke](Åpen_Folkekirke.md) - Mindshare Norway AS|41,272.00 NOK|2,059,668||18+|norway|
@@ -111,7 +111,7 @@
 |[San Bernardino County](San_Bernardino_County.md) - Search for Businesses  LLC: San Bernardino County|5,615.00 USD|1,000,798||18-24, 18-40|united states|
 |[SEIU](SEIU.md) - M&R Strategic Services  Inc.|9,779.00 USD|992,921||18+|united states|
 |[GRÜNE Schweiz / VERT-E-S suisse](GRÜNE_Schweiz___VERT-E-S_suisse.md) - art.I.schock GmbH: Gruene Schweiz|2,500.00 EUR|963,300||18-34|switzerland|
-|[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Hensikt AS: Aksjon for Norsk eierskap, Fjern formueskatt arbeidende kapital|91,541.00 NOK|940,784|FEMALE|18+, 18-35|norway|
+|[Norskeid / Aksjon for norsk eier](Norskeid___Aksjon_for_norsk_eier.md) - Layer Byrå AS: Aksjon for Norsk eierskap, Fjern formueskatt arbeidende kapital|91,541.00 NOK|940,784|FEMALE|18+, 18-35|norway|
 |[SHERo MS](SHERo_MS.md) - C+K|6,607.00 USD|934,626||16+|united states|
 |[Texas AFT](Texas_AFT.md) - Corsair Campaigns|1,920.00 USD|928,091||18+|united states|
 |[احمد محمد الحمد](احمد_محمد_الحمد.md) - sama kwt|3,070.00 USD|921,664||16+, 17+, 18+, 19+, 20+|kuwait|
@@ -157,7 +157,7 @@
 |[Drammen Høyre](Drammen_Høyre.md) - Drammen Høyre|34,990.00 NOK|481,595||18+, 18-30, 18-49, 30+|norway|
 |[Wilderness Society Action Fund](Wilderness_Society_Action_Fund.md) - The Wilderness Society Action Fund|5,978.00 USD|463,904||18+|united states|
 |[Right By You](Right_By_You.md) - Right By You|1,991.00 USD|459,708|FEMALE|18-, 28-|united states|
-|[Tromsø Arbeiderparti](Tromsø_Arbeiderparti.md) - Hensikt AS|14,998.00 NOK|455,110||18+|norway|
+|[Tromsø Arbeiderparti](Tromsø_Arbeiderparti.md) - Layer Byrå AS|14,998.00 NOK|455,110||18+|norway|
 |[WALGA](WALGA.md) - Unify Digital|3,569.00 AUD|444,948||18-24|australia|
 |[Abortion Finder](Abortion_Finder.md) - Abortion Finder|3,196.00 USD|437,371|FEMALE|18-40|united states|
 |[The Womxn Project Education Fund](The_Womxn_Project_Education_Fund.md) - C+K|4,176.00 USD|434,871||18+|united states|
