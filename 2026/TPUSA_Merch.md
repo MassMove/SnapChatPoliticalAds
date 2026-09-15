@@ -1,7 +1,7 @@
 ## 2026 - TPUSA Merch 
-**Spent**: 8,402.00
+**Spent**: 8,557.00
 
-**Impressions**: 1,242,205
+**Impressions**: 1,252,479
 
 **Billing Addresses**: 4940 E Beverly Rd ,Phoenix,95044,US
 
@@ -21,8 +21,8 @@
 |Connect Social: Issue advocacy Turning Point USA|284.00 USD|[11](https://www.snap.com/political-ads/asset/80842df1fa54bbba0ee2bd2beb0ccea9e6a8c5dd99c1ee1e65e8770f7e0d4445?mediaType=mp4)|37,689||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|251.00 USD|[12](https://www.snap.com/political-ads/asset/c298fc05c0e2c42d69905092ab98e12fe98d6fe354fae55f50229cecf10cbb61?mediaType=mp4)|35,357||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|314.00 USD|[13](https://www.snap.com/political-ads/asset/d700eecb874dab76ed3ce41d2e6b5b9060e3242e159c4a60f0eb2f61f52b30f1?mediaType=mp4)|32,518||18+|united states|
-|Connect Social: Issue advocacy Turning Point USA|141.00 USD|[14](https://www.snap.com/political-ads/asset/da57422f350ba136fd9b23167914b95356ac74641f5365bf23856e2861549c5c?mediaType=mp4)|26,123||18+|united states|
-|Connect Social: Issue advocacy Turning Point USA|346.00 USD|[15](https://www.snap.com/political-ads/asset/38086d87364b16c0a7ff412b9641933704f1273051ab689931bb20b351bc112c?mediaType=mp4)|22,498||18+|united states|
-|Connect Social: Issue advocacy Turning Point USA|410.00 USD|[16](https://www.snap.com/political-ads/asset/ebf9186300fa810405e3f0a73fb56fd25dc84c873b7a984a40b88c483c728777?mediaType=mp4)|22,136||18+|united states|
-|Connect Social: Issue advocacy Turning Point USA|313.00 USD|[17](https://www.snap.com/political-ads/asset/c701541e0e38a1be35a697af4bf19720eb14f22f913090bc5c87ffa32a4ca2a6?mediaType=mp4)|19,791||18+|united states|
+|Connect Social: Issue advocacy Turning Point USA|498.00 USD|[14](https://www.snap.com/political-ads/asset/ebf9186300fa810405e3f0a73fb56fd25dc84c873b7a984a40b88c483c728777?mediaType=mp4)|28,307||18+|united states|
+|Connect Social: Issue advocacy Turning Point USA|141.00 USD|[15](https://www.snap.com/political-ads/asset/da57422f350ba136fd9b23167914b95356ac74641f5365bf23856e2861549c5c?mediaType=mp4)|26,123||18+|united states|
+|Connect Social: Issue advocacy Turning Point USA|383.00 USD|[16](https://www.snap.com/political-ads/asset/38086d87364b16c0a7ff412b9641933704f1273051ab689931bb20b351bc112c?mediaType=mp4)|24,493||18+|united states|
+|Connect Social: Issue advocacy Turning Point USA|343.00 USD|[17](https://www.snap.com/political-ads/asset/c701541e0e38a1be35a697af4bf19720eb14f22f913090bc5c87ffa32a4ca2a6?mediaType=mp4)|21,899||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|132.00 USD|[18](https://www.snap.com/political-ads/asset/760b2e5dc15626bcd0f20c40a2b81defd609e989b2a138ec01731477b3d06cc0?mediaType=mp4)|17,558||18+|united states|

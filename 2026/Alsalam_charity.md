@@ -1,7 +1,7 @@
 ## 2026 - Alsalam charity 
-**Spent**: 2,003.00
+**Spent**: 2,013.00
 
-**Impressions**: 467,771
+**Impressions**: 468,391
 
 **Billing Addresses**: kuwait,kuwait,30001,KW
 
@@ -14,3 +14,4 @@
 |alsalam charity|87.00 USD|[4](https://www.snap.com/political-ads/asset/a504e26154711b3fdba0ddf5c8fcb341642e7e09bc160463a894977cb4250293?mediaType=png)|7,823||25+|kuwait|
 |alsalam charity|43.00 USD|[5](https://www.snap.com/political-ads/asset/186d86ae9a0922612173a8898c58674775dfc8ea30a903277d34c0fefe1b538a?mediaType=mp4)|7,526||25+|kuwait|
 |alsalam charity|26.00 USD|[6](https://www.snap.com/political-ads/asset/d3d041d9acde8647004d122e6f1c4b141e7969811676cefe66d20737b9c860d3?mediaType=mp4)|5,709||30+|kuwait|
+|alsalam charity|10.00 USD|[7](https://www.snap.com/political-ads/asset/03f2e9a0954acb40a8005249a88aaddd8c98bde8f754ac9a769a4f4e40a50196?mediaType=png)|620||28+|kuwait|
