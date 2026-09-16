@@ -1,7 +1,7 @@
 ## 2026 - Caring Hearts Pregnancy Center 
-**Spent**: 3,292.00
+**Spent**: 3,302.00
 
-**Impressions**: 603,446
+**Impressions**: 603,833
 
 **Billing Addresses**: 
 - 1515 Aldersgate Rd,Little Rock,72205,US
@@ -11,7 +11,7 @@
 |:---|---:|:---|---:|:---|:---|:---|:---|
 |Caring Hearts Pregnancy Center|304.00 USD|[0](https://www.snap.com/political-ads/asset/0d2fbc8126f9d98f90813c37eb245cf6ec924a00c3192e92426517585a9fe4ec?mediaType=mp4)|135,527|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|198.00 USD|[1](https://www.snap.com/political-ads/asset/41dbf518d0d438271519eb76ef5403b464fd20b0fb856afc86f661f38d8fe24c?mediaType=mp4)|90,699|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
-|Stories Marketing|1,809.00 USD|[2](https://www.snap.com/political-ads/asset/45b243c20dc2d7ccc2bd2018b1ba8dfa2e5d0baee97041fe8b997249e0311f4d?mediaType=mp4)|80,275|FEMALE|18-38|united states|4509 Kings Lake Ct,Chattanooga,37416,US|
+|Stories Marketing|1,819.00 USD|[2](https://www.snap.com/political-ads/asset/45b243c20dc2d7ccc2bd2018b1ba8dfa2e5d0baee97041fe8b997249e0311f4d?mediaType=mp4)|80,662|FEMALE|18-38|united states|4509 Kings Lake Ct,Chattanooga,37416,US|
 |Caring Hearts Pregnancy Center|158.00 USD|[3](https://www.snap.com/political-ads/asset/382a795ee177515e715e2f84ebf084178abf891d7ce67d344d28c115dfd75bf3?mediaType=mp4)|75,510|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|164.00 USD|[4](https://www.snap.com/political-ads/asset/da6507e1684e31cd1285c7cf6972246feb4f426af105c36176e4ea173102cba8?mediaType=mp4)|58,313|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
 |Caring Hearts Pregnancy Center|145.00 USD|[5](https://www.snap.com/political-ads/asset/382a795ee177515e715e2f84ebf084178abf891d7ce67d344d28c115dfd75bf3?mediaType=mp4)|37,558|FEMALE|18-35|united states|1515 Aldersgate Rd,Little Rock,72205,US|
