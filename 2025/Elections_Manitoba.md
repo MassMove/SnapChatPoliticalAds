@@ -1,10 +1,10 @@
 ## 2025 - Elections Manitoba 
-**Spent**: 417.00
+**Spent**: 437.00
 
-**Impressions**: 88,381
+**Impressions**: 92,332
 
 **Billing Addresses**: 120-300 Vaughan Street,Winnipeg,R3C 1T5,CA
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Elections Manitoba|417.00 CAD|[0](https://www.snap.com/political-ads/asset/b03f9e731b493cc17a67a16a3402dd8b0dc819e8aba331be457824a64a669502?mediaType=mp4)|88,381||16-24|canada|
+|Elections Manitoba|437.00 CAD|[0](https://www.snap.com/political-ads/asset/b03f9e731b493cc17a67a16a3402dd8b0dc819e8aba331be457824a64a669502?mediaType=mp4)|92,332||16-24|canada|
