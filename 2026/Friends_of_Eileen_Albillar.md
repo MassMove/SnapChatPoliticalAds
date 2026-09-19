@@ -1,10 +1,10 @@
 ## 2026 - Friends of Eileen Albillar 
-**Spent**: 27.00
+**Spent**: 85.00
 
-**Impressions**: 1,500
+**Impressions**: 4,482
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Old Town Media: Friends Of Eileen Albillar|27.00 USD|[0](https://www.snap.com/political-ads/asset/14fddda507ed104f08312015a800b54839d13ee9ef5b78c5176bfa99b7690927?mediaType=mp4)|1,500||18+|united states|
+|Old Town Media: Friends Of Eileen Albillar|85.00 USD|[0](https://www.snap.com/political-ads/asset/14fddda507ed104f08312015a800b54839d13ee9ef5b78c5176bfa99b7690927?mediaType=mp4)|4,482||18+|united states|
