@@ -1,7 +1,7 @@
 ## 2026 - Life Choices Center 
-**Spent**: 541.00
+**Spent**: 542.00
 
-**Impressions**: 141,514
+**Impressions**: 141,633
 
 **Billing Addresses**: US
 
@@ -28,7 +28,7 @@
 |Ad Elements: Life Choices Center|6.00 USD|[18](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|1,796|FEMALE|30-|united states|
 |Ad Elements: Life Choices Center|9.00 USD|[19](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|1,665|FEMALE|34-|united states|
 |Ad Elements: Life Choices Center|5.00 USD|[20](https://www.snap.com/political-ads/asset/cbebaed6f733242e7c5272b686dbfb3e527da7797a4fa892d0d5a9997957f032?mediaType=jpg)|1,206|FEMALE|34-|united states|
-|Ad Elements: Life Choices Center|5.00 USD|[21](https://www.snap.com/political-ads/asset/2e3d434066be85b9bbc0a7d1ff524018203e14a145fb401fb604b1353ec71759?mediaType=mp4)|950|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|6.00 USD|[21](https://www.snap.com/political-ads/asset/2e3d434066be85b9bbc0a7d1ff524018203e14a145fb401fb604b1353ec71759?mediaType=mp4)|999|FEMALE|34-|united states|
 |Ad Elements: Life Choices Center|3.00 USD|[22](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|816|FEMALE|34-|united states|
-|Ad Elements: Life Choices Center|4.00 USD|[23](https://www.snap.com/political-ads/asset/e8ec1b69af24568a9c634ea5ce302e605fcee02ded8326e04169372dbd2a0ed4?mediaType=mp4)|702|FEMALE|34-|united states|
-|Ad Elements: Life Choices Center|3.00 USD|[24](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|499|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|4.00 USD|[23](https://www.snap.com/political-ads/asset/e8ec1b69af24568a9c634ea5ce302e605fcee02ded8326e04169372dbd2a0ed4?mediaType=mp4)|742|FEMALE|34-|united states|
+|Ad Elements: Life Choices Center|3.00 USD|[24](https://www.snap.com/political-ads/asset/cf7265410abf3b23269df288c875c1395b1ebb631d5f3ab9d2db2aa1eab5b929?mediaType=jpg)|529|FEMALE|34-|united states|
