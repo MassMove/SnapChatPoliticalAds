@@ -1,10 +1,10 @@
 ## 2026 - Campaign Fund of Ben Bakeberg 
-**Spent**: 416.00
+**Spent**: 462.00
 
-**Impressions**: 24,243
+**Impressions**: 26,863
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Bakeberg MN Committee|416.00 USD|[0](https://www.snap.com/political-ads/asset/7f81339c3d609dd414ca04c4f2352f2885bd0e9cbca81768449f237d6d0dbba1?mediaType=png)|24,243||18-40|united states|
+|Bakeberg MN Committee|462.00 USD|[0](https://www.snap.com/political-ads/asset/7f81339c3d609dd414ca04c4f2352f2885bd0e9cbca81768449f237d6d0dbba1?mediaType=png)|26,863||18-40|united states|

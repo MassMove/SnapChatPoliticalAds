@@ -1,7 +1,7 @@
 ## 2026 - Alaskans for Dan Sullivan 
-**Spent**: 9,621.00
+**Spent**: 10,039.00
 
-**Impressions**: 856,576
+**Impressions**: 869,869
 
 **Billing Addresses**: 1780 Sequoia Vista Cir,Salt Lake City,84104,US
 
@@ -12,29 +12,29 @@
 |Arena Online|486.00 USD|[2](https://www.snap.com/political-ads/asset/79334d7be347cd02e8a1a8c87f3a80958d1ca6e5287d8c3eddd295fe3cee604e?mediaType=png)|80,335||18+|united states|
 |Arena Online|606.00 USD|[3](https://www.snap.com/political-ads/asset/19a708532301ed159e65c0743fa1bc2decc45860b4e5561ae5adf258f072149e?mediaType=png)|73,855||18+|united states|
 |Arena Online|219.00 USD|[4](https://www.snap.com/political-ads/asset/faa34fb0c01bc87751e5831c123d7016ee0110a94f0b8a317e5beb7ea2ec1f62?mediaType=png)|36,368||18+|united states|
-|Arena Online: Dan Sullivan|742.00 USD|[5](https://www.snap.com/political-ads/asset/ede5717164ad15682191b014898e7b2a00acd4943d40d0a304a2be7ce7e61221?mediaType=mp4)|26,080||30+|united states|
+|Arena Online: Dan Sullivan|766.00 USD|[5](https://www.snap.com/political-ads/asset/ede5717164ad15682191b014898e7b2a00acd4943d40d0a304a2be7ce7e61221?mediaType=mp4)|26,965||30+|united states|
 |Arena Online|113.00 USD|[6](https://www.snap.com/political-ads/asset/62ac94c87db2b49fe7675676ae5aa573e4c66445ea8798c503b76629f007cb6f?mediaType=png)|18,899||18+|united states|
-|Arena Online: Dan Sullivan|337.00 USD|[7](https://www.snap.com/political-ads/asset/b1672dd8d83fefec06597053ed8cddf6006ec2cd51d6eda0ac148f3bd51e3ba1?mediaType=mp4)|14,126||30+|united states|
-|Arena Online: Dan Sullivan|407.00 USD|[8](https://www.snap.com/political-ads/asset/24fc1c453b089f93e488d60863c07e749fba258b45a0c998ad4d66e5b5bdcbcb?mediaType=mp4)|11,803||30+|united states|
-|Arena Online: Dan Sullivan|260.00 USD|[9](https://www.snap.com/political-ads/asset/acbef554e9bde81ec2b83e6e9b9a7901b5483534c382e77daaefb6421143fab5?mediaType=mp4)|11,515||30+|united states|
-|Arena Online: Dan Sullivan|268.00 USD|[10](https://www.snap.com/political-ads/asset/ff173847d3e4d13bac317162bb79d59effa8ea253cf7b755ee16062bf649598d?mediaType=mp4)|7,877||30+|united states|
-|Arena Online: Dan Sullivan|197.00 USD|[11](https://www.snap.com/political-ads/asset/9ae879e73b4daa016a2d874d2321bfa95225dd8696c20d7b2986c2ce30c59777?mediaType=mp4)|5,743||30+|united states|
-|Arena Online: Dan Sullivan|179.00 USD|[12](https://www.snap.com/political-ads/asset/b3fc5c43c54c60eadd14e51e3a14ddcbf90e8543d5044ae1aa8ef4a3c348840f?mediaType=mp4)|5,064||30+|united states|
-|Arena Online: Dan Sullivan|122.00 USD|[13](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|4,562||30+|united states|
-|Arena Online: Dan Sullivan|122.00 USD|[14](https://www.snap.com/political-ads/asset/3a51f4765afe056509d23d93ad7ecaa7869c285c42dbb6ed4b78738b6f27dc4b?mediaType=mp4)|4,461||30+|united states|
-|Arena Online: Dan Sullivan|132.00 USD|[15](https://www.snap.com/political-ads/asset/4fde991448710045699a22e08a81a0845084a28ff9173435c314d946eaaec3b8?mediaType=mp4)|4,432||30+|united states|
-|Arena Online: Dan Sullivan|121.00 USD|[16](https://www.snap.com/political-ads/asset/af90ef488afc0ef2f200ce9241c423e5a19aa920b9013d89317b0d63c8c3baa2?mediaType=mp4)|4,334||30+|united states|
-|Arena Online: Dan Sullivan|136.00 USD|[17](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|4,105||30+|united states|
-|Arena Online: Dan Sullivan|125.00 USD|[18](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|3,746||30+|united states|
-|Arena Online: Dan Sullivan|116.00 USD|[19](https://www.snap.com/political-ads/asset/fbf9853a56ad7ca67534d40aa3203ad0d5d19e02cad0bcd9b4b4ee35e56154c0?mediaType=mp4)|3,626||30+|united states|
-|Arena Online: Dan Sullivan|85.00 USD|[20](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|2,501||30+|united states|
-|Arena Online: Dan Sullivan|94.00 USD|[21](https://www.snap.com/political-ads/asset/2cf39a2058fa5a86918bfcf8c95c88afe156bb8fb10f4b238dd30e02761c6d8e?mediaType=mp4)|2,426||30+|united states|
-|Arena Online: Dan Sullivan|75.00 USD|[22](https://www.snap.com/political-ads/asset/191361440b5690fabdda3c5fc46e1c04d17065a433e51657a590452ddd6be17a?mediaType=mp4)|2,414||30+|united states|
-|Arena Online: Dan Sullivan|57.00 USD|[23](https://www.snap.com/political-ads/asset/3e3ad1d5f0b763218696672ba5ae60c06939b76c09b9c20611d50272bf14b099?mediaType=mp4)|2,344||30+|united states|
-|Arena Online: Dan Sullivan|60.00 USD|[24](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|1,882||30+|united states|
-|Arena Online: Dan Sullivan|53.00 USD|[25](https://www.snap.com/political-ads/asset/e12e69c8e587348c595133e69224ca0d25244079f158b9b6c88be074afcd61ca?mediaType=mp4)|1,874||30+|united states|
-|Arena Online: Dan Sullivan|59.00 USD|[26](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|1,492||30+|united states|
-|Arena Online: Dan Sullivan|29.00 USD|[27](https://www.snap.com/political-ads/asset/3a51f4765afe056509d23d93ad7ecaa7869c285c42dbb6ed4b78738b6f27dc4b?mediaType=mp4)|921||30+|united states|
-|Arena Online: Dan Sullivan|24.00 USD|[28](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|649||30+|united states|
-|Arena Online: Dan Sullivan|17.00 USD|[29](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|644||30+|united states|
+|Arena Online: Dan Sullivan|362.00 USD|[7](https://www.snap.com/political-ads/asset/b1672dd8d83fefec06597053ed8cddf6006ec2cd51d6eda0ac148f3bd51e3ba1?mediaType=mp4)|15,136||30+|united states|
+|Arena Online: Dan Sullivan|418.00 USD|[8](https://www.snap.com/political-ads/asset/24fc1c453b089f93e488d60863c07e749fba258b45a0c998ad4d66e5b5bdcbcb?mediaType=mp4)|12,061||30+|united states|
+|Arena Online: Dan Sullivan|274.00 USD|[9](https://www.snap.com/political-ads/asset/acbef554e9bde81ec2b83e6e9b9a7901b5483534c382e77daaefb6421143fab5?mediaType=mp4)|12,041||30+|united states|
+|Arena Online: Dan Sullivan|289.00 USD|[10](https://www.snap.com/political-ads/asset/ff173847d3e4d13bac317162bb79d59effa8ea253cf7b755ee16062bf649598d?mediaType=mp4)|8,469||30+|united states|
+|Arena Online: Dan Sullivan|173.00 USD|[11](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|6,464||30+|united states|
+|Arena Online: Dan Sullivan|205.00 USD|[12](https://www.snap.com/political-ads/asset/9ae879e73b4daa016a2d874d2321bfa95225dd8696c20d7b2986c2ce30c59777?mediaType=mp4)|5,965||30+|united states|
+|Arena Online: Dan Sullivan|192.00 USD|[13](https://www.snap.com/political-ads/asset/b3fc5c43c54c60eadd14e51e3a14ddcbf90e8543d5044ae1aa8ef4a3c348840f?mediaType=mp4)|5,425||30+|united states|
+|Arena Online: Dan Sullivan|153.00 USD|[14](https://www.snap.com/political-ads/asset/4fde991448710045699a22e08a81a0845084a28ff9173435c314d946eaaec3b8?mediaType=mp4)|5,119||30+|united states|
+|Arena Online: Dan Sullivan|167.00 USD|[15](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|4,956||30+|united states|
+|Arena Online: Dan Sullivan|163.00 USD|[16](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|4,895||30+|united states|
+|Arena Online: Dan Sullivan|133.00 USD|[17](https://www.snap.com/political-ads/asset/3a51f4765afe056509d23d93ad7ecaa7869c285c42dbb6ed4b78738b6f27dc4b?mediaType=mp4)|4,793||30+|united states|
+|Arena Online: Dan Sullivan|129.00 USD|[18](https://www.snap.com/political-ads/asset/af90ef488afc0ef2f200ce9241c423e5a19aa920b9013d89317b0d63c8c3baa2?mediaType=mp4)|4,649||30+|united states|
+|Arena Online: Dan Sullivan|122.00 USD|[19](https://www.snap.com/political-ads/asset/fbf9853a56ad7ca67534d40aa3203ad0d5d19e02cad0bcd9b4b4ee35e56154c0?mediaType=mp4)|3,768||30+|united states|
+|Arena Online: Dan Sullivan|80.00 USD|[20](https://www.snap.com/political-ads/asset/3e3ad1d5f0b763218696672ba5ae60c06939b76c09b9c20611d50272bf14b099?mediaType=mp4)|3,253||30+|united states|
+|Arena Online: Dan Sullivan|92.00 USD|[21](https://www.snap.com/political-ads/asset/191361440b5690fabdda3c5fc46e1c04d17065a433e51657a590452ddd6be17a?mediaType=mp4)|2,976||30+|united states|
+|Arena Online: Dan Sullivan|102.00 USD|[22](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|2,942||30+|united states|
+|Arena Online: Dan Sullivan|112.00 USD|[23](https://www.snap.com/political-ads/asset/2cf39a2058fa5a86918bfcf8c95c88afe156bb8fb10f4b238dd30e02761c6d8e?mediaType=mp4)|2,856||30+|united states|
+|Arena Online: Dan Sullivan|81.00 USD|[24](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|2,538||30+|united states|
+|Arena Online: Dan Sullivan|62.00 USD|[25](https://www.snap.com/political-ads/asset/e12e69c8e587348c595133e69224ca0d25244079f158b9b6c88be074afcd61ca?mediaType=mp4)|2,138||30+|united states|
+|Arena Online: Dan Sullivan|72.00 USD|[26](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|1,797||30+|united states|
+|Arena Online: Dan Sullivan|31.00 USD|[27](https://www.snap.com/political-ads/asset/3a51f4765afe056509d23d93ad7ecaa7869c285c42dbb6ed4b78738b6f27dc4b?mediaType=mp4)|998||30+|united states|
+|Arena Online: Dan Sullivan|25.00 USD|[28](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|874||30+|united states|
+|Arena Online: Dan Sullivan|32.00 USD|[29](https://www.snap.com/political-ads/asset/66cac58392b472d444b4be066a4ef4797b46cc79faeae4aa05ab40a02851de7d?mediaType=mp4)|836||30+|united states|
 |Arena Online: Dan Sullivan|7.00 USD|[30](https://www.snap.com/political-ads/asset/25b49df5a5a83169781af8022f540a8fc5fb06e4d7cf7ab803a174c9e35f6f50?mediaType=mp4)|182||30+|united states|
