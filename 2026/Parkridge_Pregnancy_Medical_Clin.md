@@ -1,7 +1,7 @@
 ## 2026 - Parkridge Pregnancy Medical Clin 
-**Spent**: 2,106.00
+**Spent**: 2,117.00
 
-**Impressions**: 400,320
+**Impressions**: 401,270
 
 **Billing Addresses**: US
 
@@ -15,24 +15,24 @@
 |LumenAd|132.00 USD|[5](https://www.snap.com/political-ads/asset/f802fde5f7f533eaa768a0cf9c82f2882be21a22267d96e910006bd9569ed4a3?mediaType=png)|28,977|FEMALE|18-35|united states|
 |LumenAd|110.00 USD|[6](https://www.snap.com/political-ads/asset/3e1f355229a03b9cb6f9fde215eec1cf26a493172dd348617524155d5a6281ac?mediaType=mp4)|24,764|FEMALE|18-35|united states|
 |LumenAd|111.00 USD|[7](https://www.snap.com/political-ads/asset/ede0e483ed24be9e45c02c79098968897dcc5aeef8d0d7b796dcaf86c1805463?mediaType=mp4)|23,449|FEMALE|18-35|united states|
-|LumenAd|153.00 USD|[8](https://www.snap.com/political-ads/asset/a03ad7d08f9b6594cbbe3aed350644e56e5575c3b14b12f147209ec0a516b9a8?mediaType=mp4)|12,741|FEMALE|18-35|united states|
+|LumenAd|157.00 USD|[8](https://www.snap.com/political-ads/asset/a03ad7d08f9b6594cbbe3aed350644e56e5575c3b14b12f147209ec0a516b9a8?mediaType=mp4)|13,098|FEMALE|18-35|united states|
 |LumenAd|42.00 USD|[9](https://www.snap.com/political-ads/asset/b82406fd801606d225eabe16e08a3e46ef892d53b2ea1fa12defb600e40c5e61?mediaType=mp4)|10,110|FEMALE|18-35|united states|
 |LumenAd|42.00 USD|[10](https://www.snap.com/political-ads/asset/3e1f355229a03b9cb6f9fde215eec1cf26a493172dd348617524155d5a6281ac?mediaType=mp4)|9,371|FEMALE|18-35|united states|
-|LumenAd|120.00 USD|[11](https://www.snap.com/political-ads/asset/11da79683cc1f40bf7719ae3d823d04602237ab37dd2d52715d9d51da79aae0a?mediaType=png)|8,815|FEMALE|18-35|united states|
+|LumenAd|124.00 USD|[11](https://www.snap.com/political-ads/asset/11da79683cc1f40bf7719ae3d823d04602237ab37dd2d52715d9d51da79aae0a?mediaType=png)|9,046|FEMALE|18-35|united states|
 |LumenAd|30.00 USD|[12](https://www.snap.com/political-ads/asset/b270a9842008f6689cdbca45e59ae90c020d5ced0698242d730b20042c2e873f?mediaType=mp4)|6,560|FEMALE|18-35|united states|
 |LumenAd|23.00 USD|[13](https://www.snap.com/political-ads/asset/4bb3510b5d997deb23ec09beba56770f793267a73e17b817c2c9597fae187aeb?mediaType=mp4)|4,993|FEMALE|18-35|united states|
-|LumenAd|48.00 USD|[14](https://www.snap.com/political-ads/asset/3e1f355229a03b9cb6f9fde215eec1cf26a493172dd348617524155d5a6281ac?mediaType=mp4)|4,358|FEMALE|18-35|united states|
-|LumenAd|42.00 USD|[15](https://www.snap.com/political-ads/asset/73396c55caa88ea43f9c3b33bc4f43645d06d48d73a53a299d86d063caf6f9b0?mediaType=mp4)|3,874|FEMALE|18-35|united states|
-|LumenAd|16.00 USD|[16](https://www.snap.com/political-ads/asset/11da79683cc1f40bf7719ae3d823d04602237ab37dd2d52715d9d51da79aae0a?mediaType=png)|1,171|FEMALE|18-35|united states|
+|LumenAd|50.00 USD|[14](https://www.snap.com/political-ads/asset/3e1f355229a03b9cb6f9fde215eec1cf26a493172dd348617524155d5a6281ac?mediaType=mp4)|4,555|FEMALE|18-35|united states|
+|LumenAd|43.00 USD|[15](https://www.snap.com/political-ads/asset/73396c55caa88ea43f9c3b33bc4f43645d06d48d73a53a299d86d063caf6f9b0?mediaType=mp4)|3,931|FEMALE|18-35|united states|
+|LumenAd|16.00 USD|[16](https://www.snap.com/political-ads/asset/11da79683cc1f40bf7719ae3d823d04602237ab37dd2d52715d9d51da79aae0a?mediaType=png)|1,206|FEMALE|18-35|united states|
 |LumenAd|3.00 USD|[17](https://www.snap.com/political-ads/asset/b82406fd801606d225eabe16e08a3e46ef892d53b2ea1fa12defb600e40c5e61?mediaType=mp4)|857|FEMALE|18-35|united states|
-|LumenAd|8.00 USD|[18](https://www.snap.com/political-ads/asset/81b14dd72cfaf76b5cabc8138bea06013f1f61b469871c18a71cdc70817dbcf7?mediaType=png)|702|FEMALE|18-35|united states|
-|LumenAd|6.00 USD|[19](https://www.snap.com/political-ads/asset/c22c9a8b14d9024168f429ada13281f5b29b6ed833214bce9448ecbda0f0da33?mediaType=png)|474|FEMALE|18-35|united states|
+|LumenAd|8.00 USD|[18](https://www.snap.com/political-ads/asset/81b14dd72cfaf76b5cabc8138bea06013f1f61b469871c18a71cdc70817dbcf7?mediaType=png)|708|FEMALE|18-35|united states|
+|LumenAd|6.00 USD|[19](https://www.snap.com/political-ads/asset/c22c9a8b14d9024168f429ada13281f5b29b6ed833214bce9448ecbda0f0da33?mediaType=png)|500|FEMALE|18-35|united states|
 |LumenAd|1.00 USD|[20](https://www.snap.com/political-ads/asset/a03ad7d08f9b6594cbbe3aed350644e56e5575c3b14b12f147209ec0a516b9a8?mediaType=mp4)|295|FEMALE|18-35|united states|
-|LumenAd|4.00 USD|[21](https://www.snap.com/political-ads/asset/8436dc82d1c448f9b2ef4e094a281278cdecec44a3de152cc8cc8a0e05d51089?mediaType=png)|277|FEMALE|18-35|united states|
-|LumenAd|3.00 USD|[22](https://www.snap.com/political-ads/asset/3e1f355229a03b9cb6f9fde215eec1cf26a493172dd348617524155d5a6281ac?mediaType=mp4)|259|FEMALE|18-35|united states|
-|LumenAd|3.00 USD|[23](https://www.snap.com/political-ads/asset/485127a7c8275ade34796b393fa66a64f9a6ffb8b185ba9cd0dbce826393e97e?mediaType=png)|236|FEMALE|18-35|united states|
-|LumenAd|2.00 USD|[24](https://www.snap.com/political-ads/asset/8436dc82d1c448f9b2ef4e094a281278cdecec44a3de152cc8cc8a0e05d51089?mediaType=png)|192|FEMALE|18-35|united states|
-|LumenAd|3.00 USD|[25](https://www.snap.com/political-ads/asset/9b5e2934d0d94288551d2af1cdcc11ae2bae7e95bf3f018d6fb9debb95cd8594?mediaType=png)|186|FEMALE|18-35|united states|
-|LumenAd|2.00 USD|[26](https://www.snap.com/political-ads/asset/3432fb80e64f2812b407d13eedf7d7d8dc5865d812a465333b65b5943526e282?mediaType=png)|166|FEMALE|18-35|united states|
-|LumenAd|2.00 USD|[27](https://www.snap.com/political-ads/asset/5c9dd98e2c6feb8752101b3034b2957859703e48971e32ca675c9e7db37a247d?mediaType=png)|149|FEMALE|18-35|united states|
+|LumenAd|4.00 USD|[21](https://www.snap.com/political-ads/asset/8436dc82d1c448f9b2ef4e094a281278cdecec44a3de152cc8cc8a0e05d51089?mediaType=png)|285|FEMALE|18-35|united states|
+|LumenAd|3.00 USD|[22](https://www.snap.com/political-ads/asset/3e1f355229a03b9cb6f9fde215eec1cf26a493172dd348617524155d5a6281ac?mediaType=mp4)|265|FEMALE|18-35|united states|
+|LumenAd|3.00 USD|[23](https://www.snap.com/political-ads/asset/485127a7c8275ade34796b393fa66a64f9a6ffb8b185ba9cd0dbce826393e97e?mediaType=png)|241|FEMALE|18-35|united states|
+|LumenAd|2.00 USD|[24](https://www.snap.com/political-ads/asset/8436dc82d1c448f9b2ef4e094a281278cdecec44a3de152cc8cc8a0e05d51089?mediaType=png)|197|FEMALE|18-35|united states|
+|LumenAd|3.00 USD|[25](https://www.snap.com/political-ads/asset/9b5e2934d0d94288551d2af1cdcc11ae2bae7e95bf3f018d6fb9debb95cd8594?mediaType=png)|192|FEMALE|18-35|united states|
+|LumenAd|2.00 USD|[26](https://www.snap.com/political-ads/asset/3432fb80e64f2812b407d13eedf7d7d8dc5865d812a465333b65b5943526e282?mediaType=png)|170|FEMALE|18-35|united states|
+|LumenAd|2.00 USD|[27](https://www.snap.com/political-ads/asset/5c9dd98e2c6feb8752101b3034b2957859703e48971e32ca675c9e7db37a247d?mediaType=png)|156|FEMALE|18-35|united states|
 |LumenAd|0.00 USD|[28](https://www.snap.com/political-ads/asset/81b14dd72cfaf76b5cabc8138bea06013f1f61b469871c18a71cdc70817dbcf7?mediaType=png)|43|FEMALE|18-35|united states|

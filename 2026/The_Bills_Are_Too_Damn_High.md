@@ -1,13 +1,13 @@
 ## 2026 - The Bills Are Too Damn High 
-**Spent**: 21,162.00
+**Spent**: 22,860.00
 
-**Impressions**: 1,040,612
+**Impressions**: 1,121,116
 
 **Billing Addresses**: 1445 New York Ave NW,Washington,20005,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Bully Pulpit Interactive|12,659.00 USD|[0](https://www.snap.com/political-ads/asset/b5b9942aebdc305172343ce0641c1b4e1d8fd488d4c4763500118edf79272c95?mediaType=mp4)|702,142||18+|united states|
-|Bully Pulpit Interactive|3,693.00 USD|[1](https://www.snap.com/political-ads/asset/601112ea0325774dd9e5f90827609b23a2ec941e86278d1d964dcd30112587e9?mediaType=mp4)|163,695||18+|united states|
-|Bully Pulpit Interactive|3,078.00 USD|[2](https://www.snap.com/political-ads/asset/1e044ccbf61ad568e301f81f6d6f832468be3b03d1fbb6aac85389d5c6f55df2?mediaType=mp4)|109,987||18+|united states|
-|Bully Pulpit Interactive|1,732.00 USD|[3](https://www.snap.com/political-ads/asset/356d11ea26ba72ec49e30633ac2a0d07a4f235d1222b86d571a1c27ff00a7b6c?mediaType=mp4)|64,788||18+|united states|
+|Bully Pulpit Interactive|13,565.00 USD|[0](https://www.snap.com/political-ads/asset/b5b9942aebdc305172343ce0641c1b4e1d8fd488d4c4763500118edf79272c95?mediaType=mp4)|753,371||18+|united states|
+|Bully Pulpit Interactive|4,288.00 USD|[1](https://www.snap.com/political-ads/asset/601112ea0325774dd9e5f90827609b23a2ec941e86278d1d964dcd30112587e9?mediaType=mp4)|187,098||18+|united states|
+|Bully Pulpit Interactive|3,256.00 USD|[2](https://www.snap.com/political-ads/asset/1e044ccbf61ad568e301f81f6d6f832468be3b03d1fbb6aac85389d5c6f55df2?mediaType=mp4)|115,189||18+|united states|
+|Bully Pulpit Interactive|1,751.00 USD|[3](https://www.snap.com/political-ads/asset/356d11ea26ba72ec49e30633ac2a0d07a4f235d1222b86d571a1c27ff00a7b6c?mediaType=mp4)|65,458||18+|united states|
