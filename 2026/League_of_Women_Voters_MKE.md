@@ -1,7 +1,7 @@
 ## 2026 - League of Women Voters MKE 
-**Spent**: 1,385.00
+**Spent**: 1,396.00
 
-**Impressions**: 126,599
+**Impressions**: 127,359
 
 **Billing Addresses**: 710 N Plankinton Ave 9th Flr,Milwaukee,53203,US
 
@@ -14,3 +14,4 @@
 |Jigsaw LLC|24.00 USD|[4](https://www.snap.com/political-ads/asset/ef286edc9df3d9cd293227771f2f8d84e518c11425cad4943c97d306f78f06de?mediaType=jpg)|2,108|FEMALE|18-30|united states|
 |Jigsaw LLC|24.00 USD|[5](https://www.snap.com/political-ads/asset/c93cbf2395dfb86466ec24987e610665b431486d8a76346afc95d941a9173e46?mediaType=png)|2,052|FEMALE|18-30|united states|
 |Jigsaw LLC|21.00 USD|[6](https://www.snap.com/political-ads/asset/a6299b07beec54eff9f365a19c57dd6788dcd02aefecb463964c56e8163f60a7?mediaType=png)|2,020|FEMALE|18-30|united states|
+|Jigsaw LLC|11.00 USD|[7](https://www.snap.com/political-ads/asset/00777027de4b0e8d40267cb62112914747401db2a863fc20e949cd4d15a61a86?mediaType=mp4)|760|FEMALE|18-30|united states|

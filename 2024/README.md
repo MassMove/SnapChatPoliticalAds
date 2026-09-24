@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|587,641.00 EUR|315,561,759||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|587,733.00 EUR|315,595,835||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -214,7 +214,7 @@
 |[YES ON G](YES_ON_G.md) - Assemble the Agency: Measure G|25,163.00 USD|1,233,737|FEMALE|49-|united states|
 |[MOA2A](MOA2A.md) - Choose Life Marketing|6,822.00 USD|1,226,892|FEMALE|35-|united states|
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Get Democracy Done|26,444.00 USD|1,222,857||18-20|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|9,058.00 USD|1,219,050|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|9,074.00 USD|1,220,512|FEMALE|30-|united states|
 |[VoteRiders](VoteRiders.md) - VoteRiders|15,220.00 USD|1,214,559||18-27, 18-29|united states|
 |[Amt der Oö. Landesregierung](Amt_der_Oö._Landesregierung.md) - upart|1,261.00 EUR|1,180,114||16-20|austria|
 |[Send The Vote](Send_The_Vote.md) - Daily Mail|6,497.00 USD|1,176,352||18+|united states|
@@ -364,7 +364,6 @@
 |[Working Families Power](Working_Families_Power.md) - Red Horse Strategies: Vote Early|6,987.00 USD|257,809||18+|united states|
 |[Screaming Eagle PAC](Screaming_Eagle_PAC.md) - Techne Media: Tammy Baldwin|5,846.00 USD|256,473||18-34|united states|
 |[Ayanna Pressley](Ayanna_Pressley.md) - Blue State Digital: Ayanna Pressley|2,157.00 USD|254,952|FEMALE|18+, 18-35, 35+|united states|
-|[Indiana Citizen](Indiana_Citizen.md) - Indiana Citizen Education Foundation Inc.: Register to Vote|9,530.00 USD|252,402||18-29|united states|
 |[Osama Al-Zaid](Osama_Al-Zaid.md) - سورس ميديا: Osama AlZaid|261.00 USD|250,379||18+|kuwait|
 |[The Voter Project and Comms2](The_Voter_Project_and_Comms2.md) - Priorities USA|3,348.00 USD|248,433|FEMALE|18-44|united states|
 |[Médecins du Monde France](Médecins_du_Monde_France.md) - values.media|2,078.00 EUR|245,880||35+|france|
@@ -383,6 +382,7 @@
 |[Friends of Craig Williams](Friends_of_Craig_Williams.md) - Majority Strategies: Committee to Elect Joe Emrick, Friends of Craig Williams|1,393.00 USD|226,921||18+|united states|
 |[Bob Karp](Bob_Karp.md) - Saguaro Strategies LLC: Bob Karp|2,986.00 USD|221,928||18-30|united states|
 |[Life Choices Clinic](Life_Choices_Clinic.md) - Stories Marketing: Life Choices Clinic, We do not provide abortion services|2,331.00 USD|221,248|FEMALE|17+, 18+|united states|
+|[Indiana Citizen](Indiana_Citizen.md) - Indiana Citizen Education Foundation Inc.: Register to Vote|8,406.00 USD|220,333||18-29|united states|
 |[NextEra Energy Resources](NextEra_Energy_Resources.md) - BCom Solutions: Cass County Solar|2,501.00 USD|214,795||18+|united states|
 |[Liberal Party of Canada](Liberal_Party_of_Canada.md) - Data Sciences|6,069.00 CAD|213,563||18+|canada|
 |[Elections NB](Elections_NB.md) - Bonshaw Media|3,596.00 CAD|209,177||19+|canada|
@@ -421,10 +421,10 @@
 |[مرزوق فالح الحبيني](مرزوق_فالح_الحبيني.md) - Marzoq Alhubaini: 1, Political or advocacy related|311.00 USD|163,301|FEMALE|18+, 21+|kuwait|
 |[PBL](PBL.md) - PBL|1,292.00 USD|163,295||18+, 20+|norway|
 |[عبدالله حشر عايد البرغش](عبدالله_حشر_عايد_البرغش.md) - Optimize Advertising and marketing company LLC|666.00 USD|162,449||18+|kuwait|
-|[Mohammed Hassouna](Mohammed_Hassouna.md) - ابو عبدالله للعسل الطبيعي|2,062.00 USD|162,043||18+, 25+, 35+|saudi arabia|
 |[El Paso County Democratic Party](El_Paso_County_Democratic_Party.md) - El Paso County Democratic Party: CCAC, General Election|850.00 USD|161,495||18+|united states|
 |[صالح احمد عاشور](صالح_احمد_عاشور.md) - Optimize Advertising and marketing company LLC|509.00 USD|161,267||18+|kuwait|
 |[Rural GroundGame](Rural_GroundGame.md) - Rural GroundGame: Rural GroundGame|350.00 USD|160,359||17-35|united states|
+|[Mohammed Hassouna](Mohammed_Hassouna.md) - ابو عبدالله للعسل الطبيعي|2,041.00 USD|159,982||18+, 25+, 35+|saudi arabia|
 |[Democrats Abroad Germany](Democrats_Abroad_Germany.md) - Democrats Abroad Germany|943.00 EUR|159,735||18+|germany|
 |[IAVA](IAVA.md) - Assemble the Agency|3,100.00 USD|159,656||21+|united states|
 |[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne|199.00 USD|154,716||18+|norway|
