@@ -1,10 +1,10 @@
 ## 2026 - New Day Women's Clinic 
-**Spent**: 3,134.00
+**Spent**: 3,151.00
 
-**Impressions**: 379,381
+**Impressions**: 381,128
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|New Day Women's Clinic|3,134.00 USD|[0](https://www.snap.com/political-ads/asset/5c7d36154ab845265f684178ced874d79a90e8a9f3659c2fa1fbc620cb02611b?mediaType=mp4)|379,381|FEMALE|29-|united states|
+|New Day Women's Clinic|3,151.00 USD|[0](https://www.snap.com/political-ads/asset/5c7d36154ab845265f684178ced874d79a90e8a9f3659c2fa1fbc620cb02611b?mediaType=mp4)|381,128|FEMALE|29-|united states|
