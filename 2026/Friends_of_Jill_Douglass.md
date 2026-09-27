@@ -1,16 +1,16 @@
 ## 2026 - Friends of Jill Douglass 
 **Spent**: 252.00
 
-**Impressions**: 8,672
+**Impressions**: 8,674
 
 **Billing Addresses**: 505 E Oraibi Drive,Phoenix,85024,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Flygon LC|72.00 USD|[0](https://www.snap.com/political-ads/asset/7cc4a327ebd7558eb1faad366bdca5a71317e5e0d326a0759baf333771dbeb22?mediaType=png)|2,442|||united states|
-|Flygon LC|47.00 USD|[1](https://www.snap.com/political-ads/asset/3640a8a3346169b0b401c932505ab417039de6be6280a4de833fdeabe89d735f?mediaType=mp4)|1,926|||united states|
+|Flygon LC|47.00 USD|[1](https://www.snap.com/political-ads/asset/3640a8a3346169b0b401c932505ab417039de6be6280a4de833fdeabe89d735f?mediaType=mp4)|1,927|||united states|
 |Flygon LC|30.00 USD|[2](https://www.snap.com/political-ads/asset/fe44c3a7c26f5856b7f4a3040a2cd702b93106d6c7d44de25ab9ae6c41419478?mediaType=png)|949|||united states|
-|Flygon LC|20.00 USD|[3](https://www.snap.com/political-ads/asset/4f8ce537fd37787b199e1a800266dc1ec2438bd3c079d9777553c313bf548115?mediaType=mp4)|727|||united states|
+|Flygon LC|20.00 USD|[3](https://www.snap.com/political-ads/asset/4f8ce537fd37787b199e1a800266dc1ec2438bd3c079d9777553c313bf548115?mediaType=mp4)|728|||united states|
 |Flygon LC|15.00 USD|[4](https://www.snap.com/political-ads/asset/1383947beec5fd535a434b08d6751eeb3a0d66de7bb646bfbde564708015bdc7?mediaType=png)|446|||united states|
 |Flygon LC|11.00 USD|[5](https://www.snap.com/political-ads/asset/d62bf2de3e90477a05c768b6030a71e1e42c63d3e3aee060626d3662920a908f?mediaType=mp4)|362|||united states|
 |Flygon LC|11.00 USD|[6](https://www.snap.com/political-ads/asset/2200a3b867278352b556bcec6b81967bdc4a3c62f0bc9bc14330c771dc489a04?mediaType=png)|320|||united states|
