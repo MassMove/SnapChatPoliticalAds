@@ -1,7 +1,7 @@
 ## 2026 - Working America 
-**Spent**: 3,467.00
+**Spent**: 3,486.00
 
-**Impressions**: 740,017
+**Impressions**: 742,234
 
 **Billing Addresses**: US
 
@@ -11,40 +11,40 @@
 |Working America|1,278.00 USD|[1](https://www.snap.com/political-ads/asset/12728ad3759e4d242b5c2d5b5bf47d0eaf9a89cc04c9e3052ab4b6d991e583f6?mediaType=mp4)|242,255||18+|united states|
 |Working America|601.00 USD|[2](https://www.snap.com/political-ads/asset/6173b076f62901daea6c875d1b44e24f237a0dce48449fa77958e5b37d08bbe4?mediaType=mp4)|115,402||18+|united states|
 |Working America|411.00 USD|[3](https://www.snap.com/political-ads/asset/0cba77e3dae71d38e3a3dc1ab44d9bf8963017d9930eea1e7cbfbe323d35dd2e?mediaType=mp4)|77,623||18+|united states|
-|Working America|11.00 USD|[4](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|1,463||18+|united states|
-|Working America|7.00 USD|[5](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|1,030||18+|united states|
-|Working America|7.00 USD|[6](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|962||18+|united states|
-|Working America|5.00 USD|[7](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|758||18+|united states|
-|Working America|6.00 USD|[8](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|723||18+|united states|
-|Working America|5.00 USD|[9](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|712||18+|united states|
-|Working America|4.00 USD|[10](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|684||18+|united states|
-|Working America|4.00 USD|[11](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|664||18+|united states|
-|Working America|3.00 USD|[12](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|459||18+|united states|
-|Working America|2.00 USD|[13](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|327||18+|united states|
-|Working America|2.00 USD|[14](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|282||18+|united states|
-|Working America|2.00 USD|[15](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|277||18+|united states|
-|Working America|1.00 USD|[16](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|275||18+|united states|
-|Working America|1.00 USD|[17](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|229||18+|united states|
-|Working America|1.00 USD|[18](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|163||18+|united states|
-|Working America|1.00 USD|[19](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|162||18+|united states|
-|Working America|1.00 USD|[20](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|157||18+|united states|
-|Working America|1.00 USD|[21](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|152||18+|united states|
-|Working America|1.00 USD|[22](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|150||18+|united states|
-|Working America|1.00 USD|[23](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|149||18+|united states|
-|Working America|1.00 USD|[24](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|140||18+|united states|
-|Working America|0.00 USD|[25](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|129||18+|united states|
-|Working America|0.00 USD|[26](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|129||18+|united states|
-|Working America|0.00 USD|[27](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|128||18+|united states|
-|Working America|0.00 USD|[28](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|127||18+|united states|
-|Working America|0.00 USD|[29](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|124||18+|united states|
-|Working America|0.00 USD|[30](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|112||18+|united states|
-|Working America|0.00 USD|[31](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|103||18+|united states|
-|Working America|0.00 USD|[32](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|103||18+|united states|
-|Working America|0.00 USD|[33](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|98||18+|united states|
-|Working America|0.00 USD|[34](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|97||18+|united states|
-|Working America|0.00 USD|[35](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|95||18+|united states|
-|Working America|0.00 USD|[36](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|90||18+|united states|
-|Working America|0.00 USD|[37](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|80||18+|united states|
-|Working America|0.00 USD|[38](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|72||18+|united states|
-|Working America|0.00 USD|[39](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|59||18+|united states|
-|Working America|0.00 USD|[40](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|41||18+|united states|
+|Working America|11.00 USD|[4](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|1,498||18+|united states|
+|Working America|8.00 USD|[5](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|1,188||18+|united states|
+|Working America|8.00 USD|[6](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|1,109||18+|united states|
+|Working America|7.00 USD|[7](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|968||18+|united states|
+|Working America|7.00 USD|[8](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|938||18+|united states|
+|Working America|5.00 USD|[9](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|809||18+|united states|
+|Working America|5.00 USD|[10](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|792||18+|united states|
+|Working America|5.00 USD|[11](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|774||18+|united states|
+|Working America|6.00 USD|[12](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|749||18+|united states|
+|Working America|2.00 USD|[13](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|336||18+|united states|
+|Working America|2.00 USD|[14](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|309||18+|united states|
+|Working America|2.00 USD|[15](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|299||18+|united states|
+|Working America|2.00 USD|[16](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|297||18+|united states|
+|Working America|1.00 USD|[17](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|239||18+|united states|
+|Working America|1.00 USD|[18](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|236||18+|united states|
+|Working America|1.00 USD|[19](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|213||18+|united states|
+|Working America|1.00 USD|[20](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|193||18+|united states|
+|Working America|1.00 USD|[21](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|182||18+|united states|
+|Working America|1.00 USD|[22](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|180||18+|united states|
+|Working America|1.00 USD|[23](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|177||18+|united states|
+|Working America|1.00 USD|[24](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|170||18+|united states|
+|Working America|1.00 USD|[25](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|166||18+|united states|
+|Working America|1.00 USD|[26](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|163||18+|united states|
+|Working America|1.00 USD|[27](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|162||18+|united states|
+|Working America|1.00 USD|[28](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|157||18+|united states|
+|Working America|1.00 USD|[29](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|155||18+|united states|
+|Working America|1.00 USD|[30](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|144||18+|united states|
+|Working America|1.00 USD|[31](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|144||18+|united states|
+|Working America|1.00 USD|[32](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|142||18+|united states|
+|Working America|0.00 USD|[33](https://www.snap.com/political-ads/asset/5ff68dad93ae48c487cd2f9610865651c09fd8b888644fcd7a61193ff7e1c67e?mediaType=mp4)|137||18+|united states|
+|Working America|0.00 USD|[34](https://www.snap.com/political-ads/asset/2c9713941a39f69895859a883b477590b25a9e7507998f5f3d6e968ccf57b617?mediaType=mp4)|133||18+|united states|
+|Working America|0.00 USD|[35](https://www.snap.com/political-ads/asset/c993aed6badd26000cd7d591e4422bf2cbb7cf93c36ffa599822325d18151d26?mediaType=mp4)|125||18+|united states|
+|Working America|0.00 USD|[36](https://www.snap.com/political-ads/asset/26c5a884ee1f31a2ba936db0d6b451ea3161f9555a09d120a810266719ec49ef?mediaType=mp4)|124||18+|united states|
+|Working America|0.00 USD|[37](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|101||18+|united states|
+|Working America|0.00 USD|[38](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|86||18+|united states|
+|Working America|0.00 USD|[39](https://www.snap.com/political-ads/asset/8402313ecd03e98ea4a26424e6fdc583a0f8a71633282bbc27dd9818f533f959?mediaType=mp4)|84||18+|united states|
+|Working America|0.00 USD|[40](https://www.snap.com/political-ads/asset/471120878cebf38e18c2d4a66645c416d318bc2a9e50d69032ac0339bdae6503?mediaType=mp4)|43||18+|united states|

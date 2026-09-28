@@ -1,7 +1,7 @@
 ## 2026 - Catholic Teachers (OECTA) 
-**Spent**: 2,088.00
+**Spent**: 2,153.00
 
-**Impressions**: 800,835
+**Impressions**: 805,881
 
 **Billing Addresses**: CA
 
@@ -9,5 +9,5 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Pound & Grain|1,271.00 CAD|[0](https://www.snap.com/political-ads/asset/209efad7864c9cb171c74fb1dd5302b0d2249e60e47e97b52cca224b90875d9f?mediaType=mp4)|656,969||18+|canada|
 |Pound & Grain|229.00 CAD|[1](https://www.snap.com/political-ads/asset/209efad7864c9cb171c74fb1dd5302b0d2249e60e47e97b52cca224b90875d9f?mediaType=mp4)|107,933||18+|canada|
-|Pound & Grain|369.00 CAD|[2](https://www.snap.com/political-ads/asset/e093466bc038957bc682639a4efbabf604e1a3fa7f91b55502721df6e55be2c7?mediaType=mp4)|22,200||18+|canada|
-|Pound & Grain|219.00 CAD|[3](https://www.snap.com/political-ads/asset/cd3618788c3259a8bb52502f13f3eb0b0df0a05b56569cfde33159511f94631e?mediaType=mp4)|13,733||18+|canada|
+|Pound & Grain|408.00 CAD|[2](https://www.snap.com/political-ads/asset/e093466bc038957bc682639a4efbabf604e1a3fa7f91b55502721df6e55be2c7?mediaType=mp4)|25,521||18+|canada|
+|Pound & Grain|245.00 CAD|[3](https://www.snap.com/political-ads/asset/cd3618788c3259a8bb52502f13f3eb0b0df0a05b56569cfde33159511f94631e?mediaType=mp4)|15,458||18+|canada|
