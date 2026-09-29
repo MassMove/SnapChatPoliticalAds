@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,132.00 EUR|315,729,435||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,218.00 EUR|315,754,540||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -21,7 +21,7 @@
 |[Duty and Honor](Duty_and_Honor.md) - Duty and Honor: Duty and Honor NV, Duty and Honor OH, Win Senate Ohio|215,626.00 USD|34,074,184||18+, 18-34, 18-44, 18-45|united states|
 |[Send the Vote](Send_the_Vote.md) - Direct Persuasion Group|352,846.00 USD|31,714,492|MALE|18+, 18-35, 18-40|united states|
 |[Uber](Uber.md) - Uber Technologies  Inc.|416,600.00 USD|30,118,144||18+|united states|
-|[Patagonia](Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|265,319.00 EUR, USD|28,271,395||18+, 18-30, 18-49, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|265,257.00 EUR, USD|28,267,785||18+, 18-30, 18-49, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Amazon Prime Video](Amazon_Prime_Video.md) - Amazon Prime Video|423,452.00 USD|26,727,900||18+, 18-34, 18-49|united states|
 |[Islamic Relief USA](Islamic_Relief_USA.md) - Islamic Relief USA|367,188.00 USD|25,785,946||18+, 19+, 20+, 21+, 23+, 25+|united states|
 |[The Keystone](The_Keystone.md) - Courier Newsroom: The Keystone|391,149.00 USD|25,574,019||18+|united states|
@@ -104,7 +104,7 @@
 |[Die Volkspartei](Die_Volkspartei.md) - Campaigning Bureau: Die Volkspartei, Volkspartei|14,996.00 EUR|4,261,302||16-21|austria|
 |[Priorities USA Action & BlackPAC](Priorities_USA_Action_&_BlackPAC.md) - Priorities USA|54,942.00 USD|4,159,811|MALE|18+, 18-49|united states|
 |[Future Pennsylvania PAC](Future_Pennsylvania_PAC.md) - Commonwealth Communications|168,480.00 USD|4,096,458|MALE|18-24|united states|
-|[League of Women Voters EF](League_of_Women_Voters_EF.md) - League of Women Voter of the United States: VOTE411|70,170.00 USD|4,075,435|FEMALE|18-24, 18-34|united states|
+|[League of Women Voters EF](League_of_Women_Voters_EF.md) - League of Women Voter of the United States: VOTE411|69,170.00 USD|4,022,714|FEMALE|18-24, 18-34|united states|
 |[Österreichische Post AG](Österreichische_Post_AG.md) - Österreichische Post AG|6,362.00 EUR|4,020,354||18+|austria|
 |[LCV and Priorities USA](LCV_and_Priorities_USA.md) - Priorities USA|20,064.00 USD|4,018,155||18-44|united states|
 |[Vote Like a Madre](Vote_Like_a_Madre.md) - Bully Pulpit Interactive|54,394.00 USD|3,964,401|FEMALE|18+, 18-34, 35+|united states|
@@ -212,7 +212,7 @@
 |[Humaniti](Humaniti.md) - Clearoute Inc.|17,945.00 CAD|1,237,156|FEMALE|18+, 25+, 30+|australia, canada, qatar, saudi arabia, united arab emirates, united kingdom, united states|
 |[Hamad Hamoud Obaid Alshammari](Hamad_Hamoud_Obaid_Alshammari.md) - Hamad Hammoud|4,904.00 USD|1,235,254||21+, 22+, 23+, 24+|kuwait|
 |[YES ON G](YES_ON_G.md) - Assemble the Agency: Measure G|25,163.00 USD|1,233,737|FEMALE|49-|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|9,135.00 USD|1,227,449|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|9,149.00 USD|1,228,819|FEMALE|30-|united states|
 |[MOA2A](MOA2A.md) - Choose Life Marketing|6,822.00 USD|1,226,892|FEMALE|35-|united states|
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Get Democracy Done|26,444.00 USD|1,222,857||18-20|united states|
 |[VoteRiders](VoteRiders.md) - VoteRiders|15,220.00 USD|1,214,559||18-27, 18-29|united states|
@@ -376,13 +376,12 @@
 |[Omnicom Media Group](Omnicom_Media_Group.md) - Omnicom Media Group (Australia) Pty Ltd|2,996.00 AUD|240,064||18+|australia|
 |[ACLU of Michigan](ACLU_of_Michigan.md) - ReachLocal|3,044.00 USD|234,517|FEMALE|18-24|united states|
 |[Hennepin County](Hennepin_County.md) - Metre|3,072.00 USD|233,923||18+|united states|
-|[Hot & Toxic](Hot_&_Toxic.md) - Hot & Toxic|5,548.00 USD|231,953||18+||
 |[Arkansans for Limited Government](Arkansans_for_Limited_Government.md) - AR Liberty|350.00 USD|231,600|FEMALE|18+|united states|
 |[UnidosUS Action Fund Inc.](UnidosUS_Action_Fund_Inc..md) - Mantra Media Group LLC|3,050.00 USD|231,156||18+||
 |[Friends of Craig Williams](Friends_of_Craig_Williams.md) - Majority Strategies: Committee to Elect Joe Emrick, Friends of Craig Williams|1,393.00 USD|226,921||18+|united states|
+|[Hot & Toxic](Hot_&_Toxic.md) - Hot & Toxic|5,324.00 USD|224,506||18+||
 |[Bob Karp](Bob_Karp.md) - Saguaro Strategies LLC: Bob Karp|2,986.00 USD|221,928||18-30|united states|
 |[Life Choices Clinic](Life_Choices_Clinic.md) - Stories Marketing: Life Choices Clinic, We do not provide abortion services|2,331.00 USD|221,248|FEMALE|17+, 18+|united states|
-|[Indiana Citizen](Indiana_Citizen.md) - Indiana Citizen Education Foundation Inc.: Register to Vote|8,406.00 USD|220,333||18-29|united states|
 |[NextEra Energy Resources](NextEra_Energy_Resources.md) - BCom Solutions: Cass County Solar|2,501.00 USD|214,795||18+|united states|
 |[Liberal Party of Canada](Liberal_Party_of_Canada.md) - Data Sciences|6,069.00 CAD|213,563||18+|canada|
 |[Elections NB](Elections_NB.md) - Bonshaw Media|3,596.00 CAD|209,177||19+|canada|
@@ -398,6 +397,7 @@
 |[Progress North Carolina](Progress_North_Carolina.md) - Rising Tide Interactive LLC|1,849.00 USD|194,805||18-25, 18-30|united states|
 |[Västerås stad](Västerås_stad.md) - Europa Direkt Vasteras: EU-val, Ska din granne bestamma 1, Ska din granne bestamma 2, Varfor rosta|11,027.00 SEK|192,561||18+|sweden|
 |[Essential Pregnancy Services](Essential_Pregnancy_Services.md) - Stories Marketing: Essential Pregnancy Services|2,528.00 USD|191,966|FEMALE|17+, 18+|united states|
+|[Indiana Citizen](Indiana_Citizen.md) - Indiana Citizen Education Foundation Inc.: Register to Vote|7,320.00 USD|186,491||18-29|united states|
 |[Energize NM](Energize_NM.md) - Dreams In Action NM: Beau Sandoval for Sandoval County Commission D2|1,132.00 USD|186,051||18+|united states|
 |[Wild Montana](Wild_Montana.md) - Wild Montana|3,994.00 USD|182,267||18+|united states|
 |[Progressive Century Project](Progressive_Century_Project.md) - Progressive Century Project|5,439.00 USD|181,496||18-34|united states|
