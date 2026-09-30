@@ -1,7 +1,7 @@
 ## 2026 - No on Prop 40 
-**Spent**: 550,612.00
+**Spent**: 554,750.00
 
-**Impressions**: 66,325,721
+**Impressions**: 67,158,358
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
@@ -52,9 +52,9 @@
 |GMMB  Inc: 40|3,330.00 USD|[42](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|347,225||18-34|united states|
 |GMMB  Inc: 40|2,655.00 USD|[43](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|278,641||18+|united states|
 |GMMB  Inc: 40|2,215.00 USD|[44](https://www.snap.com/political-ads/asset/c553651e906419becf269d5dba2d2ee4f23043b389bedffe0ab4f3ef55166688?mediaType=mp4)|267,663||18+|united states|
-|GMMB  Inc: 40|136.00 USD|[45](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|29,579||18-34|united states|
-|GMMB  Inc: 40|132.00 USD|[46](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|21,235||18+|united states|
-|GMMB  Inc: 40|120.00 USD|[47](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|15,543||18+|united states|
-|GMMB  Inc: 40|70.00 USD|[48](https://www.snap.com/political-ads/asset/8f6d93bc47838990e765d724586e05d820372b31266374b65b15075043e3d123?mediaType=mp4)|15,198||18-34|united states|
-|GMMB  Inc: 40|71.00 USD|[49](https://www.snap.com/political-ads/asset/8f6d93bc47838990e765d724586e05d820372b31266374b65b15075043e3d123?mediaType=mp4)|10,578||18+|united states|
-|GMMB  Inc: 40|81.00 USD|[50](https://www.snap.com/political-ads/asset/8f6d93bc47838990e765d724586e05d820372b31266374b65b15075043e3d123?mediaType=mp4)|10,447||18+|united states|
+|GMMB  Inc: 40|1,029.00 USD|[45](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|200,630||18+|united states|
+|GMMB  Inc: 40|819.00 USD|[46](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|176,410||18-34|united states|
+|GMMB  Inc: 40|751.00 USD|[47](https://www.snap.com/political-ads/asset/8f6d93bc47838990e765d724586e05d820372b31266374b65b15075043e3d123?mediaType=mp4)|159,408||18-34|united states|
+|GMMB  Inc: 40|816.00 USD|[48](https://www.snap.com/political-ads/asset/2839e2452cba744e7d3f35d730346588260b97b1b74c24598f4ba04aaf90a987?mediaType=mp4)|149,061||18+|united states|
+|GMMB  Inc: 40|775.00 USD|[49](https://www.snap.com/political-ads/asset/8f6d93bc47838990e765d724586e05d820372b31266374b65b15075043e3d123?mediaType=mp4)|143,112||18+|united states|
+|GMMB  Inc: 40|558.00 USD|[50](https://www.snap.com/political-ads/asset/8f6d93bc47838990e765d724586e05d820372b31266374b65b15075043e3d123?mediaType=mp4)|106,596||18+|united states|
