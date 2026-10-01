@@ -1,7 +1,7 @@
 ## 2026 - Blue Square Alliance Against Hat 
-**Spent**: 1,034,008.00
+**Spent**: 1,035,163.00
 
-**Impressions**: 385,806,896
+**Impressions**: 386,091,407
 
 **Billing Addresses**: 1 Patriot Pl,Foxborough,02035,US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |standup2jewhate|46,450.00 USD|[0](https://www.snap.com/political-ads/asset/d3b5d4ebafacb8802690f05cb8a8b138629d763d9a633a89ecdfd59ec187b612?mediaType=mp4)|23,341,633||18-34|united states|
 |standup2jewhate|49,685.00 USD|[1](https://www.snap.com/political-ads/asset/3837304c29e4299501b1e7c829ff428d3394297f09c96408b742d9ee8aa939f9?mediaType=mp4)|21,515,612||18-34|united states|
-|standup2jewhate|98,845.00 USD||19,075,762||18-34|united states|
+|standup2jewhate|100,000.00 USD||19,360,253||18-34|united states|
 |standup2jewhate|50,482.00 USD|[3](https://www.snap.com/political-ads/asset/62bb5c20b3b15062ae47cc26ecb29a5196313bd55096ae1a5673d9a4d1254c66?mediaType=mp4)|14,567,991||18-34|united states|
 |standup2jewhate|26,236.00 USD|[4](https://www.snap.com/political-ads/asset/8d27840dd31a6d86f220928ec619248c4563995c1c183b6271a77adb596b3e77?mediaType=mp4)|12,908,409||18-34|united states|
 |standup2jewhate|24,790.00 USD|[5](https://www.snap.com/political-ads/asset/6b43810ceaa861728ef214ff627c0424e983295f6963adfb3d5d188f64d7af1a?mediaType=mp4)|12,537,302||18-34|united states|
@@ -24,11 +24,11 @@
 |standup2jewhate|20,398.00 USD|[14](https://www.snap.com/political-ads/asset/f4ea752dae7c73ab72c61d76aa23565aacd95d0bad9cb3fe67074818abba4c6f?mediaType=mp4)|9,996,824||18-34|united states|
 |standup2jewhate|19,296.00 USD|[15](https://www.snap.com/political-ads/asset/8d27840dd31a6d86f220928ec619248c4563995c1c183b6271a77adb596b3e77?mediaType=mp4)|9,766,853||18-34|united states|
 |standup2jewhate|31,084.00 USD|[16](https://www.snap.com/political-ads/asset/0310bb19de5c21532308437f3591536673f7dce163b213ea57757732dc9dd80b?mediaType=mp4)|8,257,155||18-34|united states|
-|standup2jewhate|35,520.00 USD|[17](https://www.snap.com/political-ads/asset/0310bb19de5c21532308437f3591536673f7dce163b213ea57757732dc9dd80b?mediaType=mp4)|8,066,199||18-34|united states|
-|standup2jewhate|29,864.00 USD|[18](https://www.snap.com/political-ads/asset/ab710a8285ccf4a18658a7f3c7a5e3e88ee8e0c46900ed04649465fecc0bc64c?mediaType=mp4)|8,055,337||18-34|united states|
+|standup2jewhate|35,520.00 USD|[17](https://www.snap.com/political-ads/asset/0310bb19de5c21532308437f3591536673f7dce163b213ea57757732dc9dd80b?mediaType=mp4)|8,066,203||18-34|united states|
+|standup2jewhate|29,864.00 USD|[18](https://www.snap.com/political-ads/asset/ab710a8285ccf4a18658a7f3c7a5e3e88ee8e0c46900ed04649465fecc0bc64c?mediaType=mp4)|8,055,340||18-34|united states|
 |standup2jewhate|15,435.00 USD|[19](https://www.snap.com/political-ads/asset/62bb5c20b3b15062ae47cc26ecb29a5196313bd55096ae1a5673d9a4d1254c66?mediaType=mp4)|8,033,938||18-34|united states|
 |standup2jewhate|14,283.00 USD|[20](https://www.snap.com/political-ads/asset/d527e3b7b475d17014f8e7211f0c6cbad5d16b7bcb9ae578f09b2826c39fd9f0?mediaType=mp4)|7,356,743||18-34|united states|
-|standup2jewhate|24,337.00 USD|[21](https://www.snap.com/political-ads/asset/d527e3b7b475d17014f8e7211f0c6cbad5d16b7bcb9ae578f09b2826c39fd9f0?mediaType=mp4)|6,634,283||18-34|united states|
+|standup2jewhate|24,337.00 USD|[21](https://www.snap.com/political-ads/asset/d527e3b7b475d17014f8e7211f0c6cbad5d16b7bcb9ae578f09b2826c39fd9f0?mediaType=mp4)|6,634,284||18-34|united states|
 |standup2jewhate|13,786.00 USD|[22](https://www.snap.com/political-ads/asset/d7f6c36c64fbb6d172a4c7881201dce27fd5296fea3bff1e4cf3f36f579281a7?mediaType=mp4)|6,569,406||18-34|united states|
 |standup2jewhate|12,002.00 USD|[23](https://www.snap.com/political-ads/asset/6b43810ceaa861728ef214ff627c0424e983295f6963adfb3d5d188f64d7af1a?mediaType=mp4)|5,917,552||18-34|united states|
 |standup2jewhate|11,598.00 USD|[24](https://www.snap.com/political-ads/asset/f4ea752dae7c73ab72c61d76aa23565aacd95d0bad9cb3fe67074818abba4c6f?mediaType=mp4)|5,733,410||18-34|united states|
@@ -60,7 +60,7 @@
 |standup2jewhate|4,241.00 USD|[50](https://www.snap.com/political-ads/asset/0310bb19de5c21532308437f3591536673f7dce163b213ea57757732dc9dd80b?mediaType=mp4)|1,579,729||18-34|united states|
 |standup2jewhate|3,776.00 USD|[51](https://www.snap.com/political-ads/asset/d7f6c36c64fbb6d172a4c7881201dce27fd5296fea3bff1e4cf3f36f579281a7?mediaType=mp4)|1,482,900||18-34|united states|
 |standup2jewhate|5,405.00 USD|[52](https://www.snap.com/political-ads/asset/d3b5d4ebafacb8802690f05cb8a8b138629d763d9a633a89ecdfd59ec187b612?mediaType=mp4)|1,479,344||18-34|united states|
-|standup2jewhate|6,332.00 USD|[53](https://www.snap.com/political-ads/asset/d527e3b7b475d17014f8e7211f0c6cbad5d16b7bcb9ae578f09b2826c39fd9f0?mediaType=mp4)|1,445,050||18-34|united states|
+|standup2jewhate|6,332.00 USD|[53](https://www.snap.com/political-ads/asset/d527e3b7b475d17014f8e7211f0c6cbad5d16b7bcb9ae578f09b2826c39fd9f0?mediaType=mp4)|1,445,053||18-34|united states|
 |standup2jewhate|2,516.00 USD|[54](https://www.snap.com/political-ads/asset/62bb5c20b3b15062ae47cc26ecb29a5196313bd55096ae1a5673d9a4d1254c66?mediaType=mp4)|1,282,976||18-34|united states|
 |standup2jewhate|4,595.00 USD|[55](https://www.snap.com/political-ads/asset/729ab11be0e0cfbfcc8a99fd30f1a6a3499458ed83c9e76fb4bc14478c1a69e2?mediaType=mp4)|1,166,833||18-34|united states|
 |standup2jewhate|3,691.00 USD|[56](https://www.snap.com/political-ads/asset/729ab11be0e0cfbfcc8a99fd30f1a6a3499458ed83c9e76fb4bc14478c1a69e2?mediaType=mp4)|1,103,420||18-34|united states|
@@ -88,8 +88,8 @@
 |standup2jewhate|1,715.00 USD|[78](https://www.snap.com/political-ads/asset/d3b5d4ebafacb8802690f05cb8a8b138629d763d9a633a89ecdfd59ec187b612?mediaType=mp4)|429,698||18-34|united states|
 |standup2jewhate|915.00 USD|[79](https://www.snap.com/political-ads/asset/977edd602f17b55220c4b6bb892f5065ff6c096ef3a9a726215de34837e7bd38?mediaType=mp4)|342,995||18-34|united states|
 |standup2jewhate|1,630.00 USD|[80](https://www.snap.com/political-ads/asset/d73c573b4841054563e4275fa8600416f6dddb7cc8b8b3f9e45f9d8b86382e7c?mediaType=mp4)|315,634||18-34|united states|
-|standup2jewhate|1,495.00 USD|[81](https://www.snap.com/political-ads/asset/7eb46d72905851590fd110f432ea27eb81bb5d4618942357263a648dfc19e9d0?mediaType=mp4)|294,249||18-34|united states|
-|standup2jewhate|1,423.00 USD|[82](https://www.snap.com/political-ads/asset/9a64523c24d22b30101c834dd3a8161c9043a867b588ae43e9b3c5ceb6864546?mediaType=mp4)|284,889||18-34|united states|
+|standup2jewhate|1,495.00 USD|[81](https://www.snap.com/political-ads/asset/7eb46d72905851590fd110f432ea27eb81bb5d4618942357263a648dfc19e9d0?mediaType=mp4)|294,251||18-34|united states|
+|standup2jewhate|1,423.00 USD|[82](https://www.snap.com/political-ads/asset/9a64523c24d22b30101c834dd3a8161c9043a867b588ae43e9b3c5ceb6864546?mediaType=mp4)|284,891||18-34|united states|
 |standup2jewhate|906.00 USD|[83](https://www.snap.com/political-ads/asset/f4ea752dae7c73ab72c61d76aa23565aacd95d0bad9cb3fe67074818abba4c6f?mediaType=mp4)|283,624||18-34|united states|
 |standup2jewhate|918.00 USD|[84](https://www.snap.com/political-ads/asset/8d27840dd31a6d86f220928ec619248c4563995c1c183b6271a77adb596b3e77?mediaType=mp4)|274,237||18-34|united states|
 |standup2jewhate|1,376.00 USD|[85](https://www.snap.com/political-ads/asset/bb0c1ecf8e18276d18320639c83e4eaee096acaa90440171b1cf80089ea514fe?mediaType=mp4)|273,817||18-34|united states|
@@ -103,11 +103,11 @@
 |standup2jewhate|764.00 USD|[93](https://www.snap.com/political-ads/asset/ab710a8285ccf4a18658a7f3c7a5e3e88ee8e0c46900ed04649465fecc0bc64c?mediaType=mp4)|216,243||18-34|united states|
 |standup2jewhate|397.00 USD|[94](https://www.snap.com/political-ads/asset/f4ea752dae7c73ab72c61d76aa23565aacd95d0bad9cb3fe67074818abba4c6f?mediaType=mp4)|215,430||18-34|united states|
 |standup2jewhate|490.00 USD|[95](https://www.snap.com/political-ads/asset/977edd602f17b55220c4b6bb892f5065ff6c096ef3a9a726215de34837e7bd38?mediaType=mp4)|187,041||18-34|united states|
-|standup2jewhate|858.00 USD|[96](https://www.snap.com/political-ads/asset/7eb46d72905851590fd110f432ea27eb81bb5d4618942357263a648dfc19e9d0?mediaType=mp4)|171,962||18-34|united states|
-|standup2jewhate|791.00 USD|[97](https://www.snap.com/political-ads/asset/7eb46d72905851590fd110f432ea27eb81bb5d4618942357263a648dfc19e9d0?mediaType=mp4)|152,852||18-34|united states|
+|standup2jewhate|858.00 USD|[96](https://www.snap.com/political-ads/asset/7eb46d72905851590fd110f432ea27eb81bb5d4618942357263a648dfc19e9d0?mediaType=mp4)|171,963||18-34|united states|
+|standup2jewhate|791.00 USD|[97](https://www.snap.com/political-ads/asset/7eb46d72905851590fd110f432ea27eb81bb5d4618942357263a648dfc19e9d0?mediaType=mp4)|152,853||18-34|united states|
 |standup2jewhate|429.00 USD|[98](https://www.snap.com/political-ads/asset/d7f6c36c64fbb6d172a4c7881201dce27fd5296fea3bff1e4cf3f36f579281a7?mediaType=mp4)|115,647||18-34|united states|
 |standup2jewhate|213.00 USD|[99](https://www.snap.com/political-ads/asset/d527e3b7b475d17014f8e7211f0c6cbad5d16b7bcb9ae578f09b2826c39fd9f0?mediaType=mp4)|111,951||18-34|united states|
-|standup2jewhate|520.00 USD|[100](https://www.snap.com/political-ads/asset/9a64523c24d22b30101c834dd3a8161c9043a867b588ae43e9b3c5ceb6864546?mediaType=mp4)|108,658||18-34|united states|
+|standup2jewhate|520.00 USD|[100](https://www.snap.com/political-ads/asset/9a64523c24d22b30101c834dd3a8161c9043a867b588ae43e9b3c5ceb6864546?mediaType=mp4)|108,659||18-34|united states|
 |standup2jewhate|524.00 USD|[101](https://www.snap.com/political-ads/asset/bb0c1ecf8e18276d18320639c83e4eaee096acaa90440171b1cf80089ea514fe?mediaType=mp4)|108,170||18-34|united states|
 |standup2jewhate|217.00 USD|[102](https://www.snap.com/political-ads/asset/da98c4309ab7b289970f21c9998e7de095b6d090acaf5dc31c3622367c33d70d?mediaType=mp4)|107,128||18-34|united states|
 |standup2jewhate|217.00 USD|[103](https://www.snap.com/political-ads/asset/d7f6c36c64fbb6d172a4c7881201dce27fd5296fea3bff1e4cf3f36f579281a7?mediaType=mp4)|104,000||18-34|united states|
@@ -121,7 +121,7 @@
 |standup2jewhate|275.00 USD|[111](https://www.snap.com/political-ads/asset/bb3065e619224bb259ee6f08a1715c5e088fb28eed06922dc3f8d21982ed1f9f?mediaType=mp4)|78,510||18-34|united states|
 |standup2jewhate|324.00 USD|[112](https://www.snap.com/political-ads/asset/898a3b02c1fb56cb4a986e8520d65ea6d58aaf4191e61d7a18b32360f973f3f7?mediaType=mp4)|67,214||18-34|united states|
 |standup2jewhate|132.00 USD|[113](https://www.snap.com/political-ads/asset/d7f6c36c64fbb6d172a4c7881201dce27fd5296fea3bff1e4cf3f36f579281a7?mediaType=mp4)|66,684||18-34|united states|
-|standup2jewhate|289.00 USD|[114](https://www.snap.com/political-ads/asset/d73c573b4841054563e4275fa8600416f6dddb7cc8b8b3f9e45f9d8b86382e7c?mediaType=mp4)|59,653||18-34|united states|
+|standup2jewhate|289.00 USD|[114](https://www.snap.com/political-ads/asset/d73c573b4841054563e4275fa8600416f6dddb7cc8b8b3f9e45f9d8b86382e7c?mediaType=mp4)|59,655||18-34|united states|
 |standup2jewhate|181.00 USD|[115](https://www.snap.com/political-ads/asset/8d27840dd31a6d86f220928ec619248c4563995c1c183b6271a77adb596b3e77?mediaType=mp4)|57,672||18-34|united states|
 |standup2jewhate|194.00 USD|[116](https://www.snap.com/political-ads/asset/f4ea752dae7c73ab72c61d76aa23565aacd95d0bad9cb3fe67074818abba4c6f?mediaType=mp4)|56,551||18-34|united states|
 |standup2jewhate|196.00 USD|[117](https://www.snap.com/political-ads/asset/f4ea752dae7c73ab72c61d76aa23565aacd95d0bad9cb3fe67074818abba4c6f?mediaType=mp4)|54,882||18-34|united states|

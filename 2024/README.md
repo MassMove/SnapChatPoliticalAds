@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,275.00 EUR|315,772,937||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,307.00 EUR|315,782,823||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -21,7 +21,7 @@
 |[Duty and Honor](Duty_and_Honor.md) - Duty and Honor: Duty and Honor NV, Duty and Honor OH, Win Senate Ohio|215,626.00 USD|34,074,184||18+, 18-34, 18-44, 18-45|united states|
 |[Send the Vote](Send_the_Vote.md) - Direct Persuasion Group|352,846.00 USD|31,714,492|MALE|18+, 18-35, 18-40|united states|
 |[Uber](Uber.md) - Uber Technologies  Inc.|416,600.00 USD|30,118,144||18+|united states|
-|[Patagonia](Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|260,806.00 EUR, USD|27,962,544||18+, 18-30, 18-49, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia: EU Parliament Elections, UK General Election|260,431.00 EUR, USD|27,959,225||18+, 18-30, 18-49, 30+|austria, canada, czech republic, denmark, france, germany, ireland, italy, netherlands, norway, poland, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Amazon Prime Video](Amazon_Prime_Video.md) - Amazon Prime Video|423,452.00 USD|26,727,900||18+, 18-34, 18-49|united states|
 |[Islamic Relief USA](Islamic_Relief_USA.md) - Islamic Relief USA|367,188.00 USD|25,785,946||18+, 19+, 20+, 21+, 23+, 25+|united states|
 |[The Keystone](The_Keystone.md) - Courier Newsroom: The Keystone|391,149.00 USD|25,574,019||18+|united states|
@@ -108,8 +108,8 @@
 |[LCV and Priorities USA](LCV_and_Priorities_USA.md) - Priorities USA|20,064.00 USD|4,018,155||18-44|united states|
 |[Vote Like a Madre](Vote_Like_a_Madre.md) - Bully Pulpit Interactive|54,394.00 USD|3,964,401|FEMALE|18+, 18-34, 35+|united states|
 |[Montanans for Tester](Montanans_for_Tester.md) - Gambit Strategies: Montanans for Tester|47,345.00 USD|3,936,443||18-34, 18-49|united states|
-|[League of Women Voters EF](League_of_Women_Voters_EF.md) - League of Women Voter of the United States: VOTE411|67,521.00 USD|3,907,808|FEMALE|18-24, 18-34|united states|
 |[Michigan Secretary of State](Michigan_Secretary_of_State.md) - Ignite Social Media|19,998.00 USD|3,878,002||18+|united states|
+|[League of Women Voters EF](League_of_Women_Voters_EF.md) - League of Women Voter of the United States: VOTE411|66,871.00 USD|3,868,997|FEMALE|18-24, 18-34|united states|
 |[Daniel Lurie for Mayor](Daniel_Lurie_for_Mayor.md) - Gambit Strategies: Daniel Lurie for Mayor|47,677.00 USD|3,799,826||18-34|united states|
 |[Planned Parenthood Votes](Planned_Parenthood_Votes.md) - Blueprint Interactive|25,025.00 USD|3,792,132||18-35|united states|
 |[Life for Relief and Development](Life_for_Relief_and_Development.md) - NGO|26,386.00 USD|3,735,230||18+, 20+, 21+, 22+|canada, france, morocco, united arab emirates, united kingdom, united states|
@@ -212,7 +212,7 @@
 |[Humaniti](Humaniti.md) - Clearoute Inc.|17,945.00 CAD|1,237,156|FEMALE|18+, 25+, 30+|australia, canada, qatar, saudi arabia, united arab emirates, united kingdom, united states|
 |[Hamad Hamoud Obaid Alshammari](Hamad_Hamoud_Obaid_Alshammari.md) - Hamad Hammoud|4,904.00 USD|1,235,254||21+, 22+, 23+, 24+|kuwait|
 |[YES ON G](YES_ON_G.md) - Assemble the Agency: Measure G|25,163.00 USD|1,233,737|FEMALE|49-|united states|
-|[A New Generation](A_New_Generation.md) - A New Generation|9,163.00 USD|1,230,246|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|9,178.00 USD|1,231,861|FEMALE|30-|united states|
 |[MOA2A](MOA2A.md) - Choose Life Marketing|6,822.00 USD|1,226,892|FEMALE|35-|united states|
 |[Clean Elections](Clean_Elections.md) - RIESTER Sonoran LLC: Get Democracy Done|26,444.00 USD|1,222,857||18-20|united states|
 |[VoteRiders](VoteRiders.md) - VoteRiders|15,220.00 USD|1,214,559||18-27, 18-29|united states|
@@ -421,7 +421,6 @@
 |[El Paso County Democratic Party](El_Paso_County_Democratic_Party.md) - El Paso County Democratic Party: CCAC, General Election|850.00 USD|161,495||18+|united states|
 |[صالح احمد عاشور](صالح_احمد_عاشور.md) - Optimize Advertising and marketing company LLC|509.00 USD|161,267||18+|kuwait|
 |[Rural GroundGame](Rural_GroundGame.md) - Rural GroundGame: Rural GroundGame|350.00 USD|160,359||17-35|united states|
-|[Mohammed Hassouna](Mohammed_Hassouna.md) - ابو عبدالله للعسل الطبيعي|2,041.00 USD|159,982||18+, 25+, 35+|saudi arabia|
 |[Democrats Abroad Germany](Democrats_Abroad_Germany.md) - Democrats Abroad Germany|943.00 EUR|159,735||18+|germany|
 |[IAVA](IAVA.md) - Assemble the Agency|3,100.00 USD|159,656||21+|united states|
 |[Miljøpartiet De Grønne](Miljøpartiet_De_Grønne.md) - Miljøpartiet De Grønne|199.00 USD|154,716||18+|norway|
@@ -430,7 +429,7 @@
 |[Djurens Rätt](Djurens_Rätt.md) - Djurens Rätt|1,599.00 SEK|147,518||18+|sweden|
 |[ACLU NC](ACLU_NC.md) - Blueprint Interactive|4,247.00 USD|147,348||18-45|united states|
 |[Elections New Brunswick](Elections_New_Brunswick.md) - Elections New Brunswick|2,492.00 CAD|146,753||19+|canada|
-|[Indiana Citizen](Indiana_Citizen.md) - Indiana Citizen Education Foundation Inc.|5,657.00 USD|146,315||18-29|united states|
+|[Mohammed Hassouna](Mohammed_Hassouna.md) - ابو عبدالله للعسل الطبيعي|1,843.00 USD|141,826||18+, 25+, 35+|saudi arabia|
 |[ABC Pregnancy Care](ABC_Pregnancy_Care.md) - Stories Marketing: ABC Care Center, ABC Pregnancy Care, ABC Pregnancy Care Center, We do not provide free abortion sevices|1,464.00 USD|141,725|FEMALE|17+, 18-38|united states|
 |[Community Change Action](Community_Change_Action.md) - Boulder Strategies LLC: Guaranteed Income|743.00 USD|140,567||18-45|united states|
 |[Shuaib Shabab Al-Muwaizri](Shuaib_Shabab_Al-Muwaizri.md) - سورس ميديا: Shuaib Shabab AlMuwaizri|148.00 USD|139,871||17+|kuwait|
@@ -451,6 +450,7 @@
 |[Rock The Vote](Rock_The_Vote.md) - Blue State Digital|2,989.00 USD|118,431||18-34|united states|
 |[Dwight Dorau For MN](Dwight_Dorau_For_MN.md) - Arena Online|919.00 USD|116,917||18+|united states|
 |[Catholics for Choice](Catholics_for_Choice.md) - Catholics for Choice|1,499.00 USD|114,572||18-22|united states|
+|[Indiana Citizen](Indiana_Citizen.md) - Indiana Citizen Education Foundation Inc.|4,533.00 USD|113,430||18-29|united states|
 |[Nardev Singh Mann](Nardev_Singh_Mann.md) - Adsol|2,580.00 INR|111,569||18+|india|
 |[West Yorks Combined Authority](West_Yorks_Combined_Authority.md) - West Yorkshire Combined Authority|1,396.00 GBP|111,327||18+, 18-24, 18-54|united kingdom|
 |[ACS CAN](ACS_CAN.md) - M&R Strategic Services  Inc.|767.00 USD|110,662||18+|united states|
@@ -558,7 +558,6 @@
 |[Liberty Justice Center](Liberty_Justice_Center.md) - Civitas Agency|258.00 USD|28,444||18-22|united states|
 |[Tabke for MN](Tabke_for_MN.md) - Sage Media Planning & Placement  Inc: Tabke for MN|437.00 USD|28,049||18+|united states|
 |[Teacher Tiffany for the People](Teacher_Tiffany_for_the_People.md) - Ethos Campaigns LLC: Tiffany Koyama Lane|574.00 USD|27,399||18+|united states|
-|[2024Election.com](2024Election.com.md) - Somerled Corp: Kamala Harris for President|66.00 USD|27,340|FEMALE||united states|
 |[Patriots Never Surrender](Patriots_Never_Surrender.md) - Patriots Never Surrender|97.00 USD|27,309|||united states|
 |[Women's Resource Center](Women's_Resource_Center.md) - Stories Marketing: We do not provide abortion services|902.00 USD|26,088|FEMALE|18+|united states|
 |[Justice For All](Justice_For_All.md) - New Blue Interactive: Justice For All|594.00 USD|24,977||18-30|united states|
@@ -604,7 +603,6 @@
 |[d3ayat](d3ayat.md) - D3ayat: fahed amer alazeb|25.00 USD|9,573|||kuwait|
 |[Ron Williams 4 Mesa](Ron_Williams_4_Mesa.md) - Strategies 360: Ron Williams 4 Mesa|180.00 USD|8,814||18+|united states|
 |[فهد عامر العازب](فهد_عامر_العازب.md) - D3ayat|30.00 USD|8,180|||kuwait|
-|[Hot & Toxic](Hot_&_Toxic.md) - Hot & Toxic|223.00 USD|8,150||18+||
 |[Democratsm  Abroad Germany](Democratsm__Abroad_Germany.md) - Democrats Abroad Germany: Request your Ballot|44.00 EUR|7,501||18+|germany|
 |[Centerpartiet Sundsvall](Centerpartiet_Sundsvall.md) - Centerpartiet Sundsvall: Centerpartiet Sundsvall|400.00 SEK|7,444||18-29|sweden|
 |[Committee to Elect Mary Sherzer](Committee_to_Elect_Mary_Sherzer.md) - Committee to Elect Mary Sherzer: Mary Sherzer for Cannon Twp Trustee|109.00 USD|6,121||18+|united states|
@@ -624,6 +622,7 @@
 |[David Morse for Mayor](David_Morse_for_Mayor.md) - David Morse for Mayor: David Morse for Westbrook Mayor|39.00 USD|2,666||18+|united states|
 |[Ny Østfoldbane](Ny_Østfoldbane.md) - Eggedosis AS|325.00 NOK|2,660||18+|norway|
 |[Replica AI](Replica_AI.md) - Replica AI|73.00 USD|2,461|MALE|18+|united states|
+|[2024Election.com](2024Election.com.md) - Somerled Corp: Kamala Harris for President|7.00 USD|2,458|FEMALE||united states|
 |[Basem Ammar](Basem_Ammar.md) - Al wataniya Al asriya|1.00 USD|480||18+|kuwait|
 |[الدكتور بدر الشلال المطيري](الدكتور_بدر_الشلال_المطيري.md) - zainhassan: bader alshalal|0.00 USD|84||18+|kuwait|
 
