@@ -1,11 +1,11 @@
 ## 2026 - Planned Parenthood Votes 
-**Spent**: 1,870.00
+**Spent**: 2,088.00
 
-**Impressions**: 67,035
+**Impressions**: 76,220
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Progress Media Buying: NV Governor|1,383.00 USD|[0](https://www.snap.com/political-ads/asset/8c80361bc5bb0afa2a7e7501042ca014e0cee074d43f44192c91508bc6072882?mediaType=mp4)|48,099||18+|united states|
-|Progress Media Buying: NV Governor|487.00 USD|[1](https://www.snap.com/political-ads/asset/8c80361bc5bb0afa2a7e7501042ca014e0cee074d43f44192c91508bc6072882?mediaType=mp4)|18,936||18+|united states|
+|Progress Media Buying: NV Governor|705.00 USD|[1](https://www.snap.com/political-ads/asset/8c80361bc5bb0afa2a7e7501042ca014e0cee074d43f44192c91508bc6072882?mediaType=mp4)|28,121||18+|united states|

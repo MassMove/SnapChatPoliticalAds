@@ -1,15 +1,15 @@
 ## 2026 - Rewire News Group 
-**Spent**: 735.00
+**Spent**: 991.00
 
-**Impressions**: 30,176
+**Impressions**: 42,533
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|C+K|240.00 USD|[0](https://www.snap.com/political-ads/asset/f0bd7ce39255db796d5fec0934a1090f35b5cc2cee6f9b728f9d6f9542a48890?mediaType=png)|10,724||18-45|united states|
-|C+K|151.00 USD|[1](https://www.snap.com/political-ads/asset/f0bd7ce39255db796d5fec0934a1090f35b5cc2cee6f9b728f9d6f9542a48890?mediaType=png)|7,037||18-45|united states|
-|C+K|132.00 USD|[2](https://www.snap.com/political-ads/asset/b62715ba2d71e6b69ba94932efb76ae620c192b414d2bf776ef9ef432b36050e?mediaType=png)|4,220||18-45|united states|
-|C+K|82.00 USD|[3](https://www.snap.com/political-ads/asset/5384dae9f28fb955dc3efc64ba14dcbd7e7d023e056c157ea0d5214cffc7b9fb?mediaType=png)|3,773||18-45|united states|
-|C+K|70.00 USD|[4](https://www.snap.com/political-ads/asset/b62715ba2d71e6b69ba94932efb76ae620c192b414d2bf776ef9ef432b36050e?mediaType=png)|2,359||18-45|united states|
-|C+K|60.00 USD|[5](https://www.snap.com/political-ads/asset/160554045ef632e688c090e6c42c8dff9d33fd617b86a4014082298dc5e89632?mediaType=png)|2,063||18-45|united states|
+|C+K|344.00 USD|[0](https://www.snap.com/political-ads/asset/f0bd7ce39255db796d5fec0934a1090f35b5cc2cee6f9b728f9d6f9542a48890?mediaType=png)|16,098||18-45|united states|
+|C+K|204.00 USD|[1](https://www.snap.com/political-ads/asset/f0bd7ce39255db796d5fec0934a1090f35b5cc2cee6f9b728f9d6f9542a48890?mediaType=png)|10,104||18-45|united states|
+|C+K|109.00 USD|[2](https://www.snap.com/political-ads/asset/5384dae9f28fb955dc3efc64ba14dcbd7e7d023e056c157ea0d5214cffc7b9fb?mediaType=png)|5,337||18-45|united states|
+|C+K|150.00 USD|[3](https://www.snap.com/political-ads/asset/b62715ba2d71e6b69ba94932efb76ae620c192b414d2bf776ef9ef432b36050e?mediaType=png)|4,789||18-45|united states|
+|C+K|102.00 USD|[4](https://www.snap.com/political-ads/asset/b62715ba2d71e6b69ba94932efb76ae620c192b414d2bf776ef9ef432b36050e?mediaType=png)|3,276||18-45|united states|
+|C+K|82.00 USD|[5](https://www.snap.com/political-ads/asset/160554045ef632e688c090e6c42c8dff9d33fd617b86a4014082298dc5e89632?mediaType=png)|2,929||18-45|united states|

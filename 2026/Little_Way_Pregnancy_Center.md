@@ -1,7 +1,7 @@
 ## 2026 - Little Way Pregnancy Center 
-**Spent**: 1,071.00
+**Spent**: 1,090.00
 
-**Impressions**: 155,305
+**Impressions**: 156,683
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -26,3 +26,6 @@
 |Cornerstone Marketing Strategies  LLC|20.00 USD|[16](https://www.snap.com/political-ads/asset/eaa77ea60e83ff97d669f886f90bee6a308fb48c5bd19af8babefccbabd4467a?mediaType=mp4)|1,714|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|18.00 USD|[17](https://www.snap.com/political-ads/asset/b3ac1bcf05bc0cda577636a8be24bb809df886aeb37191072f7a535daadc19e8?mediaType=mp4)|1,445|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|9.00 USD|[18](https://www.snap.com/political-ads/asset/b3ac1bcf05bc0cda577636a8be24bb809df886aeb37191072f7a535daadc19e8?mediaType=mp4)|884|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|7.00 USD|[19](https://www.snap.com/political-ads/asset/eaa77ea60e83ff97d669f886f90bee6a308fb48c5bd19af8babefccbabd4467a?mediaType=mp4)|639|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|7.00 USD|[20](https://www.snap.com/political-ads/asset/7a565f018cd18653fc12c42ddbc709ef7f3a1d531415a847fedd7ad1c13d3f04?mediaType=mp4)|428|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|5.00 USD|[21](https://www.snap.com/political-ads/asset/5133b72ee8f5fa0825c6d627edfa813413c0684ee164b8825b4373d8b8aef20d?mediaType=mp4)|311|FEMALE|16-34|united states|

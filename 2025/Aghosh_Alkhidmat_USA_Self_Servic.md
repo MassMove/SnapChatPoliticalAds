@@ -1,7 +1,7 @@
 ## 2025 - Aghosh Alkhidmat USA Self Servic 
-**Spent**: 1,255.00
+**Spent**: 1,256.00
 
-**Impressions**: 102,384
+**Impressions**: 102,420
 
 **Billing Addresses**: US
 
@@ -15,7 +15,7 @@
 |Aghosh Alkhidmat USA|20.00 USD|[5](https://www.snap.com/political-ads/asset/3f4832195feacbffe8e894d53a4d6f844566da83fad2d4aff403b66508bde187?mediaType=png)|5,925|||united states|
 |Aghosh Alkhidmat USA|88.00 USD|[6](https://www.snap.com/political-ads/asset/e42a5a0fc995dde4cbe23c8318c345e16c3e12ac47951cee1860bc2d320d8327?mediaType=png)|5,565||20+|united states|
 |Aghosh Alkhidmat USA|62.00 USD|[7](https://www.snap.com/political-ads/asset/92678c9ace202a04149c591c2cf02eb7059c8173e222f65527c976c0ed845e13?mediaType=png)|5,526||20+|united states|
-|Aghosh Alkhidmat USA|111.00 USD|[8](https://www.snap.com/political-ads/asset/b8ed63899dec7e0d772622d2b8c5d62ba644c23698f07bfd4926a2b9f9adb848?mediaType=jpg)|5,451||20+|united states|
+|Aghosh Alkhidmat USA|112.00 USD|[8](https://www.snap.com/political-ads/asset/b8ed63899dec7e0d772622d2b8c5d62ba644c23698f07bfd4926a2b9f9adb848?mediaType=jpg)|5,487||20+|united states|
 |Aghosh Alkhidmat USA|66.00 USD|[9](https://www.snap.com/political-ads/asset/7c5f98a6a39834798933117ddf95e74574d904e976d95cc3c4ad58de14575375?mediaType=png)|4,441||20+|united states|
 |Aghosh Alkhidmat USA|7.00 USD|[10](https://www.snap.com/political-ads/asset/f580f0d20b0cb3a46bbfe6d9ce5df8e7f6fc71f1aed9e2fab62de2e96018e76b?mediaType=png)|4,048|||united states|
 |Aghosh Alkhidmat USA|57.00 USD|[11](https://www.snap.com/political-ads/asset/7c5f98a6a39834798933117ddf95e74574d904e976d95cc3c4ad58de14575375?mediaType=png)|3,856||20+|united states|

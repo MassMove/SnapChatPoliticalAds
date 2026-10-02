@@ -1,7 +1,7 @@
 ## 2026 - Pregnancy Center of Northern KY 
-**Spent**: 2,435.00
+**Spent**: 2,457.00
 
-**Impressions**: 230,117
+**Impressions**: 231,442
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -32,3 +32,7 @@
 |Cornerstone Marketing Strategies  LLC|23.00 USD|[22](https://www.snap.com/political-ads/asset/a373a5cbc83dc52660569dafcb82440ca554504aaa5d69f71e90079c94f2302a?mediaType=mp4)|1,150|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|5.00 USD|[23](https://www.snap.com/political-ads/asset/a373a5cbc83dc52660569dafcb82440ca554504aaa5d69f71e90079c94f2302a?mediaType=mp4)|529|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|6.00 USD|[24](https://www.snap.com/political-ads/asset/a373a5cbc83dc52660569dafcb82440ca554504aaa5d69f71e90079c94f2302a?mediaType=mp4)|446|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|6.00 USD|[25](https://www.snap.com/political-ads/asset/bf0043a41789db4d8f6c283e46e17b35e044c13b39743983851d891702a1de89?mediaType=mp4)|410|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|8.00 USD|[26](https://www.snap.com/political-ads/asset/5962203acd1950672f4c303f0ce8cf4278593637ef3048883fe35a16edaf4965?mediaType=mp4)|394|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|6.00 USD|[27](https://www.snap.com/political-ads/asset/5737a856c313692e4e3609fddc22ddd8b4aa68e20cccc7310f6f5d6acbc6264e?mediaType=mp4)|359|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|2.00 USD|[28](https://www.snap.com/political-ads/asset/a373a5cbc83dc52660569dafcb82440ca554504aaa5d69f71e90079c94f2302a?mediaType=mp4)|162|FEMALE|16-34|united states|
