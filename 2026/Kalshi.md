@@ -1,13 +1,13 @@
 ## 2026 - Kalshi 
-**Spent**: 149,902.00
+**Spent**: 154,901.00
 
-**Impressions**: 14,526,132
+**Impressions**: 15,165,140
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Kalshi Inc|101,169.00 USD|[0](https://www.snap.com/political-ads/asset/5692300b6e2afd161908e8274842db98e7d55894cc69fbb5150caa0da3dcd8e3?mediaType=mp4)|10,080,113|MALE|18+|united states|
-|Kalshi Inc|20,356.00 USD|[1](https://www.snap.com/political-ads/asset/4dd58607e581e8aaa50d007d1252404f542aab05aacf75cdab071c813c4eb28b?mediaType=mp4)|2,151,555|MALE|18+|united states|
-|Kalshi Inc|20,755.00 USD|[2](https://www.snap.com/political-ads/asset/49d4b10a1189e25ad391a791b913f334b34e9a46ad08ded4535c240b2143a486?mediaType=mp4)|1,576,941|MALE|18+|united states|
-|Kalshi Inc|7,622.00 USD|[3](https://www.snap.com/political-ads/asset/3a6016d18f691545045dc7ac1be4ae51d28508b71c0dd4d778cee751f9ed2aed?mediaType=mp4)|717,523|MALE|18+|united states|
+|Kalshi Inc|103,573.00 USD|[0](https://www.snap.com/political-ads/asset/5692300b6e2afd161908e8274842db98e7d55894cc69fbb5150caa0da3dcd8e3?mediaType=mp4)|10,399,052|MALE|18+|united states|
+|Kalshi Inc|22,192.00 USD|[1](https://www.snap.com/political-ads/asset/4dd58607e581e8aaa50d007d1252404f542aab05aacf75cdab071c813c4eb28b?mediaType=mp4)|2,395,478|MALE|18+|united states|
+|Kalshi Inc|21,181.00 USD|[2](https://www.snap.com/political-ads/asset/49d4b10a1189e25ad391a791b913f334b34e9a46ad08ded4535c240b2143a486?mediaType=mp4)|1,616,380|MALE|18+|united states|
+|Kalshi Inc|7,955.00 USD|[3](https://www.snap.com/political-ads/asset/3a6016d18f691545045dc7ac1be4ae51d28508b71c0dd4d778cee751f9ed2aed?mediaType=mp4)|754,230|MALE|18+|united states|

@@ -1,13 +1,13 @@
 ## 2026 - WINSENATE 
-**Spent**: 89,553.00
+**Spent**: 92,668.00
 
-**Impressions**: 6,519,885
+**Impressions**: 6,794,879
 
 **Billing Addresses**: 1421 Prince St Suite 320,Alexandria,22314,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |MVAR Media: WinSenate|45,392.00 USD|[0](https://www.snap.com/political-ads/asset/ee3cbebb38ddb836d5b9c462d6c830291ec3e1244cbf4082157a9d121363a415?mediaType=mp4)|3,339,964||18+|united states|
-|MVAR Media: WinSenate|38,561.00 USD|[1](https://www.snap.com/political-ads/asset/87f964dbedf531569fee204111925694005ecd1e0f61716aef4b493ea26c23f4?mediaType=mp4)|2,765,239||18+|united states|
+|MVAR Media: WinSenate|41,013.00 USD|[1](https://www.snap.com/political-ads/asset/87f964dbedf531569fee204111925694005ecd1e0f61716aef4b493ea26c23f4?mediaType=mp4)|2,978,046||18+|united states|
 |MVAR Media: WinSenate|5,137.00 USD|[2](https://www.snap.com/political-ads/asset/88c0c0f4b5fcb5ecfaa6eac35f0930336dbe3a8d9ff256efcce6d8b558a8fbda?mediaType=mp4)|378,651||18+|united states|
-|MVAR Media: WinSenate|463.00 USD|[3](https://www.snap.com/political-ads/asset/72e830bf4938319b81eeb0bf0a135b08b0778e7bd54f538daabde66d69f7d55f?mediaType=mp4)|36,031||18+|united states|
+|MVAR Media: WinSenate|1,126.00 USD|[3](https://www.snap.com/political-ads/asset/72e830bf4938319b81eeb0bf0a135b08b0778e7bd54f538daabde66d69f7d55f?mediaType=mp4)|98,218||18+|united states|

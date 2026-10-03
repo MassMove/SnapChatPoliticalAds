@@ -1,16 +1,16 @@
 ## 2026 - Frank for Phoenix 
-**Spent**: 128.00
+**Spent**: 148.00
 
-**Impressions**: 31,561
+**Impressions**: 38,614
 
 **Billing Addresses**: 505 E Oraibi Drive,Phoenix,85024,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Flygon LC: Frank Abasciano for Phoenix|35.00 USD|[0](https://www.snap.com/political-ads/asset/6219794f5a428f9eb08016ddab5aa59bf5afb0e0bb4395c8caa35244cef8c976?mediaType=png)|9,014||18+|united states|
-|Flygon LC: Frank Abasciano for Phoenix|27.00 USD|[1](https://www.snap.com/political-ads/asset/e7a21ba89f62a699c1906ec6e32a40ebca9ff7c41cc86aca97aa328c7a0b271e?mediaType=png)|6,539||18+|united states|
-|Flygon LC: Frank Abasciano for Phoenix|18.00 USD|[2](https://www.snap.com/political-ads/asset/925a170d11072656e9df2a351890fdc1fc2f243acc5ca688a8fa0d941a48f16e?mediaType=png)|4,165||18+|united states|
-|Flygon LC: Frank Abasciano for Phoenix|16.00 USD|[3](https://www.snap.com/political-ads/asset/738a797af217d03a9fbdcd38032fcb4e46661b52b84d13ccf8f4ede14db3c0de?mediaType=png)|4,048||18+|united states|
-|Flygon LC: Frank Abasciano for Phoenix|13.00 USD|[4](https://www.snap.com/political-ads/asset/6947c2d7c5e952a225ee94fcc315be52b774241349bb24fe12e9cb9fe8149ada?mediaType=png)|2,987||18+|united states|
-|Flygon LC: Frank Abasciano for Phoenix|10.00 USD|[5](https://www.snap.com/political-ads/asset/9c705ab7e0fc1d3d9f5822c5ac59f01a28dab413024155cc553e0dac81173add?mediaType=png)|2,595||18+|united states|
-|Flygon LC: Frank Abasciano for Phoenix|9.00 USD|[6](https://www.snap.com/political-ads/asset/e70a84930096fc144d228c34e9f4f9259b5d3743e3dde0dbb8162699d7893c62?mediaType=png)|2,213||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|41.00 USD|[0](https://www.snap.com/political-ads/asset/6219794f5a428f9eb08016ddab5aa59bf5afb0e0bb4395c8caa35244cef8c976?mediaType=png)|10,945||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|29.00 USD|[1](https://www.snap.com/political-ads/asset/e7a21ba89f62a699c1906ec6e32a40ebca9ff7c41cc86aca97aa328c7a0b271e?mediaType=png)|7,305||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|20.00 USD|[2](https://www.snap.com/political-ads/asset/738a797af217d03a9fbdcd38032fcb4e46661b52b84d13ccf8f4ede14db3c0de?mediaType=png)|5,644||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|21.00 USD|[3](https://www.snap.com/political-ads/asset/925a170d11072656e9df2a351890fdc1fc2f243acc5ca688a8fa0d941a48f16e?mediaType=png)|5,218||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|14.00 USD|[4](https://www.snap.com/political-ads/asset/6947c2d7c5e952a225ee94fcc315be52b774241349bb24fe12e9cb9fe8149ada?mediaType=png)|3,448||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|12.00 USD|[5](https://www.snap.com/political-ads/asset/9c705ab7e0fc1d3d9f5822c5ac59f01a28dab413024155cc553e0dac81173add?mediaType=png)|3,145||18+|united states|
+|Flygon LC: Frank Abasciano for Phoenix|11.00 USD|[6](https://www.snap.com/political-ads/asset/e70a84930096fc144d228c34e9f4f9259b5d3743e3dde0dbb8162699d7893c62?mediaType=png)|2,909||18+|united states|

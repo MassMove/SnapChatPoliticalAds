@@ -1,7 +1,7 @@
 ## 2025 - Human Appeal INC 
 **Spent**: 40,639.00
 
-**Impressions**: 1,192,953
+**Impressions**: 1,192,956
 
 **Billing Addresses**: 26050 Acero Suite 415 ,Mission Viejo ,92691,US
 
@@ -199,8 +199,8 @@
 |Human Appeal USA|48.00 USD|[189](https://www.snap.com/political-ads/asset/e703b304d13471a9d51f852f7a8da71defc63b2d3d621992cc570d200c3c1ec9?mediaType=mp4)|1,066||24+|united states|
 |Human Appeal USA|35.00 USD|[190](https://www.snap.com/political-ads/asset/170f2a78733b79a794c4b5909bbbfde0fe1fcdd9d214ab828dbe195799c93f9a?mediaType=mp4)|1,062||24+|united states|
 |Human Appeal USA|40.00 USD|[191](https://www.snap.com/political-ads/asset/c882514345530bdbe8ed2b284d53f53a5a3f2b1957033874576e6ba56975cd70?mediaType=mp4)|1,056||24+|united states|
-|Human Appeal USA|23.00 USD|[192](https://www.snap.com/political-ads/asset/93bbd110e6fdc7186db131ed74e7582ebdaa938933e41393e88507b72c89fdd1?mediaType=mp4)|1,047||24+|united states|
-|Human Appeal USA|38.00 USD|[193](https://www.snap.com/political-ads/asset/c796119bf8eff3f38c861c01bb6bb093d77b3323cadee1ccf770071e4e024674?mediaType=mp4)|1,045||24+|united states|
+|Human Appeal USA|38.00 USD|[192](https://www.snap.com/political-ads/asset/c796119bf8eff3f38c861c01bb6bb093d77b3323cadee1ccf770071e4e024674?mediaType=mp4)|1,048||24+|united states|
+|Human Appeal USA|23.00 USD|[193](https://www.snap.com/political-ads/asset/93bbd110e6fdc7186db131ed74e7582ebdaa938933e41393e88507b72c89fdd1?mediaType=mp4)|1,047||24+|united states|
 |Human Appeal USA|27.00 USD|[194](https://www.snap.com/political-ads/asset/915db3b931aae44f7c450472648d577099a6ff2084586e649e79d563d2ee7ae8?mediaType=mp4)|1,040||24+|united states|
 |Human Appeal USA|33.00 USD|[195](https://www.snap.com/political-ads/asset/34a96ac2a5a7b1ff2e42b1f555d4b80947e5c171ea7638f6a9ef6e3bcd5248a3?mediaType=mp4)|1,032||24+|united states|
 |Human Appeal USA|27.00 USD|[196](https://www.snap.com/political-ads/asset/96f7410b3b87442e2398dc8a3e85fa6dd3d3b70024147173de42971cee9dc996?mediaType=mp4)|1,018||24+|united states|
