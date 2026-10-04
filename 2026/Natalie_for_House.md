@@ -1,10 +1,10 @@
 ## 2026 - Natalie for House 
-**Spent**: 205.00
+**Spent**: 225.00
 
-**Impressions**: 32,019
+**Impressions**: 36,215
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Natalie for House- Natalie Zeleznikar|205.00 USD|[0](https://www.snap.com/political-ads/asset/8b33c215041ab6c3d719654cf7b6c04388dd788b5923da956dafb9ffa31dcf4c?mediaType=png)|32,019||18-35|united states|
+|Natalie for House- Natalie Zeleznikar|225.00 USD|[0](https://www.snap.com/political-ads/asset/8b33c215041ab6c3d719654cf7b6c04388dd788b5923da956dafb9ffa31dcf4c?mediaType=png)|36,215||18-35|united states|

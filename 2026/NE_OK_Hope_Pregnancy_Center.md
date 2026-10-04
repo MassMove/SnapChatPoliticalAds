@@ -1,10 +1,10 @@
 ## 2026 - NE OK Hope Pregnancy Center 
-**Spent**: 762.00
+**Spent**: 770.00
 
-**Impressions**: 32,999
+**Impressions**: 33,373
 
 **Billing Addresses**: 4509 Kings Lake Court,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|762.00 USD|[0](https://www.snap.com/political-ads/asset/d1ebbdee0930539540c03447bff66bbf63495638de1d7612aa60b034491cd635?mediaType=mp4)|32,999|FEMALE|18-38|united states|
+|Stories Marketing|770.00 USD|[0](https://www.snap.com/political-ads/asset/d1ebbdee0930539540c03447bff66bbf63495638de1d7612aa60b034491cd635?mediaType=mp4)|33,373|FEMALE|18-38|united states|

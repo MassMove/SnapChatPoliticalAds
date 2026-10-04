@@ -1,12 +1,12 @@
 ## 2026 - The Wisco Project Inc 
-**Spent**: 1,582.00
+**Spent**: 2,623.00
 
-**Impressions**: 278,731
+**Impressions**: 428,414
 
 **Billing Addresses**: 222 W Ontario, Suite 600,,Chicago,60654,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|AL Media: The Wisco Project Inc|889.00 USD|[0](https://www.snap.com/political-ads/asset/f922f16b0550ab8d257a5ca9d8b553cfeb603ca770fe0c1d1616d8ce6565349f?mediaType=mp4)|149,757||18-24|united states|
-|AL Media: The Wisco Project Inc|475.00 USD|[1](https://www.snap.com/political-ads/asset/20d3f44b198d950066cc358436aca8581dbaa9cde6201639ff218e89519440d6?mediaType=mp4)|83,288||18-24|united states|
-|AL Media: The Wisco Project Inc|218.00 USD|[2](https://www.snap.com/political-ads/asset/090a0f739cb4fd75af454cab0587b7ecb6b27fb2c3abfdc037215dc495be1ca6?mediaType=mp4)|45,686||18-24|united states|
+|AL Media: The Wisco Project Inc|1,543.00 USD|[0](https://www.snap.com/political-ads/asset/f922f16b0550ab8d257a5ca9d8b553cfeb603ca770fe0c1d1616d8ce6565349f?mediaType=mp4)|246,435||18-24|united states|
+|AL Media: The Wisco Project Inc|787.00 USD|[1](https://www.snap.com/political-ads/asset/20d3f44b198d950066cc358436aca8581dbaa9cde6201639ff218e89519440d6?mediaType=mp4)|123,804||18-24|united states|
+|AL Media: The Wisco Project Inc|293.00 USD|[2](https://www.snap.com/political-ads/asset/090a0f739cb4fd75af454cab0587b7ecb6b27fb2c3abfdc037215dc495be1ca6?mediaType=mp4)|58,175||18-24|united states|
