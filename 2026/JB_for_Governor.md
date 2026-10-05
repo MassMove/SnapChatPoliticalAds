@@ -1,60 +1,60 @@
 ## 2026 - JB for Governor 
-**Spent**: 194,600.00
+**Spent**: 199,897.00
 
-**Impressions**: 16,600,876
+**Impressions**: 17,178,754
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gambit Strategies|5,183.00 USD|[0](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|1,216,949||18-24|united states|
-|Gambit Strategies|25,083.00 USD|[1](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|1,182,933||25+|united states|
-|Gambit Strategies|4,029.00 USD|[2](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|931,335||18-24|united states|
-|Gambit Strategies|17,148.00 USD|[3](https://www.snap.com/political-ads/asset/9492c01fd1ccbd6d6f18df5ef8b5001d5dec18246e128722eb0571010c993f04?mediaType=mp4)|886,113||25+|united states|
-|Gambit Strategies|20,611.00 USD|[4](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|859,916||25+|united states|
-|Gambit Strategies|12,936.00 USD|[5](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|847,823||18-24|united states|
-|Gambit Strategies|4,614.00 USD|[6](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|820,111||25+|united states|
-|Gambit Strategies|4,566.00 USD|[7](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|784,784||25+|united states|
+|Gambit Strategies|5,417.00 USD|[0](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|1,281,755||18-24|united states|
+|Gambit Strategies|26,224.00 USD|[1](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|1,254,155||25+|united states|
+|Gambit Strategies|4,238.00 USD|[2](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|988,326||18-24|united states|
+|Gambit Strategies|21,545.00 USD|[3](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|909,491||25+|united states|
+|Gambit Strategies|13,525.00 USD|[4](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|898,477||18-24|united states|
+|Gambit Strategies|17,148.00 USD|[5](https://www.snap.com/political-ads/asset/9492c01fd1ccbd6d6f18df5ef8b5001d5dec18246e128722eb0571010c993f04?mediaType=mp4)|886,113||25+|united states|
+|Gambit Strategies|4,869.00 USD|[6](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|869,428||25+|united states|
+|Gambit Strategies|4,720.00 USD|[7](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|814,938||25+|united states|
 |Gambit Strategies|16,897.00 USD|[8](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|772,005||25+|united states|
-|Gambit Strategies|4,102.00 USD|[9](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|583,482||25+|united states|
-|Gambit Strategies|3,798.00 USD|[10](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|547,862||25+|united states|
+|Gambit Strategies|4,234.00 USD|[9](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|604,483||25+|united states|
+|Gambit Strategies|4,021.00 USD|[10](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|581,903||25+|united states|
 |Gambit Strategies|3,304.00 USD|[11](https://www.snap.com/political-ads/asset/e1cdcbd5cbfdaa9140944da112b828b2f5e706c41f59eb2c6545b0e6fbfb10e3?mediaType=png)|528,518||25+|united states|
-|Gambit Strategies|1,941.00 USD|[12](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|346,813||25+|united states|
-|Gambit Strategies|2,208.00 USD|[13](https://www.snap.com/political-ads/asset/cd56c3dcdc927f336b09c1988ca7532952e516080ad5cb8b776125f9c7cfe935?mediaType=png)|341,177||25+|united states|
-|Gambit Strategies|1,817.00 USD|[14](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|326,768||25+|united states|
-|Gambit Strategies|7,681.00 USD|[15](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|325,230||25+|united states|
-|Gambit Strategies|6,516.00 USD|[16](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|294,794||25+|united states|
-|Gambit Strategies|5,669.00 USD|[17](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|290,787||25+|united states|
+|Gambit Strategies|2,003.00 USD|[12](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|359,262||25+|united states|
+|Gambit Strategies|8,025.00 USD|[13](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|343,292||25+|united states|
+|Gambit Strategies|2,208.00 USD|[14](https://www.snap.com/political-ads/asset/cd56c3dcdc927f336b09c1988ca7532952e516080ad5cb8b776125f9c7cfe935?mediaType=png)|341,177||25+|united states|
+|Gambit Strategies|1,891.00 USD|[15](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|340,996||25+|united states|
+|Gambit Strategies|5,917.00 USD|[16](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|307,280||25+|united states|
+|Gambit Strategies|6,516.00 USD|[17](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|294,794||25+|united states|
 |Gambit Strategies|1,921.00 USD|[18](https://www.snap.com/political-ads/asset/0820495be590c2c911821b5981a16b340f71433e03b872667d4b7187e6809bdc?mediaType=png)|283,695||25+|united states|
 |Gambit Strategies|1,796.00 USD|[19](https://www.snap.com/political-ads/asset/9b8a98f23dd62f9a9e70135b4416350797de7716228fa83f068fe51bd34a9ba3?mediaType=png)|276,882||25+|united states|
 |Gambit Strategies|1,257.00 USD|[20](https://www.snap.com/political-ads/asset/9b8a98f23dd62f9a9e70135b4416350797de7716228fa83f068fe51bd34a9ba3?mediaType=png)|253,882||25+|united states|
-|Gambit Strategies|5,166.00 USD|[21](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|252,233||25+|united states|
-|Gambit Strategies|1,731.00 USD|[22](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|241,900||25+|united states|
-|Gambit Strategies|4,387.00 USD|[23](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|236,435||25+|united states|
-|Gambit Strategies|4,941.00 USD|[24](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|230,905||25+|united states|
-|Gambit Strategies|1,144.00 USD|[25](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|226,101||25+|united states|
+|Gambit Strategies|1,801.00 USD|[21](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|252,766||25+|united states|
+|Gambit Strategies|5,166.00 USD|[22](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|252,233||25+|united states|
+|Gambit Strategies|5,158.00 USD|[23](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|243,713||25+|united states|
+|Gambit Strategies|4,387.00 USD|[24](https://www.snap.com/political-ads/asset/bf44ed5326546642c0f66b35126e5734f7b176058be5eed2f415f85813f0235e?mediaType=mp4)|236,435||25+|united states|
+|Gambit Strategies|1,177.00 USD|[25](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|233,469||25+|united states|
 |Gambit Strategies|1,013.00 USD|[26](https://www.snap.com/political-ads/asset/9b8a98f23dd62f9a9e70135b4416350797de7716228fa83f068fe51bd34a9ba3?mediaType=png)|223,702||25+|united states|
 |Gambit Strategies|1,330.00 USD|[27](https://www.snap.com/political-ads/asset/9b8a98f23dd62f9a9e70135b4416350797de7716228fa83f068fe51bd34a9ba3?mediaType=png)|211,706||25+|united states|
 |Gambit Strategies|1,004.00 USD|[28](https://www.snap.com/political-ads/asset/2ae6d1e5a22626c221becc475d919f4ccee015d180ea6b5f903eb0ebd975c417?mediaType=png)|178,979||25+|united states|
-|Gambit Strategies|856.00 USD|[29](https://www.snap.com/political-ads/asset/0820495be590c2c911821b5981a16b340f71433e03b872667d4b7187e6809bdc?mediaType=png)|166,140||25+|united states|
-|Gambit Strategies|836.00 USD|[30](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|163,406||25+|united states|
+|Gambit Strategies|874.00 USD|[29](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|171,404||25+|united states|
+|Gambit Strategies|856.00 USD|[30](https://www.snap.com/political-ads/asset/0820495be590c2c911821b5981a16b340f71433e03b872667d4b7187e6809bdc?mediaType=png)|166,140||25+|united states|
 |Gambit Strategies|909.00 USD|[31](https://www.snap.com/political-ads/asset/cd56c3dcdc927f336b09c1988ca7532952e516080ad5cb8b776125f9c7cfe935?mediaType=png)|161,033||25+|united states|
-|Gambit Strategies|757.00 USD|[32](https://www.snap.com/political-ads/asset/2ae6d1e5a22626c221becc475d919f4ccee015d180ea6b5f903eb0ebd975c417?mediaType=png)|151,671||25+|united states|
-|Gambit Strategies|1,120.00 USD|[33](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|146,998||25+|united states|
-|Gambit Strategies|2,442.00 USD|[34](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|130,520||25+|united states|
-|Gambit Strategies|768.00 USD|[35](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|111,108||25+|united states|
+|Gambit Strategies|1,169.00 USD|[32](https://www.snap.com/political-ads/asset/7f560ba155b288ab5fe219128d62e8cb2e73281d7ed34432e40228b270537047?mediaType=png)|154,025||25+|united states|
+|Gambit Strategies|757.00 USD|[33](https://www.snap.com/political-ads/asset/2ae6d1e5a22626c221becc475d919f4ccee015d180ea6b5f903eb0ebd975c417?mediaType=png)|151,671||25+|united states|
+|Gambit Strategies|2,548.00 USD|[34](https://www.snap.com/political-ads/asset/b4873a0722d114d0a85541493b2605b9d26031c69445982924af05671a034765?mediaType=mp4)|137,998||25+|united states|
+|Gambit Strategies|810.00 USD|[35](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|117,811||25+|united states|
 |Gambit Strategies|629.00 USD|[36](https://www.snap.com/political-ads/asset/d29decd6a0d320cb461eca5c2a707edde6feeccf5c75d5f041dd13243cd4912d?mediaType=png)|100,183||25+|united states|
-|Gambit Strategies|1,662.00 USD|[37](https://www.snap.com/political-ads/asset/9492c01fd1ccbd6d6f18df5ef8b5001d5dec18246e128722eb0571010c993f04?mediaType=mp4)|95,876||25+|united states|
-|Gambit Strategies|710.00 USD|[38](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|94,154||25+|united states|
-|Gambit Strategies|2,823.00 USD|[39](https://www.snap.com/political-ads/asset/8b69d2210da222e732cb832aaee97f51c66f0ec62f0801dc705ae6953796d41f?mediaType=mp4)|94,087||25+|united states|
-|Gambit Strategies|446.00 USD|[40](https://www.snap.com/political-ads/asset/844933b3601d8eb3767573cd1c4ed9f3f11e42f8ab6982570d56fa356c6d4232?mediaType=png)|89,600||25+|united states|
-|Gambit Strategies|394.00 USD|[41](https://www.snap.com/political-ads/asset/0e1cd66fdac19f70db450c8ee89f0ae827970a689d69d2d3bc8036a84e2e1fd6?mediaType=png)|80,705||25+|united states|
+|Gambit Strategies|746.00 USD|[37](https://www.snap.com/political-ads/asset/5e448eecd068fe73d322356ef4685754d2f13b1c7279b3b8720efa3d45264e3f?mediaType=png)|99,394||25+|united states|
+|Gambit Strategies|476.00 USD|[38](https://www.snap.com/political-ads/asset/844933b3601d8eb3767573cd1c4ed9f3f11e42f8ab6982570d56fa356c6d4232?mediaType=png)|95,877||25+|united states|
+|Gambit Strategies|1,662.00 USD|[39](https://www.snap.com/political-ads/asset/9492c01fd1ccbd6d6f18df5ef8b5001d5dec18246e128722eb0571010c993f04?mediaType=mp4)|95,876||25+|united states|
+|Gambit Strategies|2,823.00 USD|[40](https://www.snap.com/political-ads/asset/8b69d2210da222e732cb832aaee97f51c66f0ec62f0801dc705ae6953796d41f?mediaType=mp4)|94,087||25+|united states|
+|Gambit Strategies|434.00 USD|[41](https://www.snap.com/political-ads/asset/0e1cd66fdac19f70db450c8ee89f0ae827970a689d69d2d3bc8036a84e2e1fd6?mediaType=png)|89,278||25+|united states|
 |Gambit Strategies|488.00 USD|[42](https://www.snap.com/political-ads/asset/6bdcf37611fc97240644815bea3d91c44f7aff705ceeec97319c61ae7f4cf9c5?mediaType=png)|80,526||25+|united states|
 |Gambit Strategies|516.00 USD|[43](https://www.snap.com/political-ads/asset/e1cdcbd5cbfdaa9140944da112b828b2f5e706c41f59eb2c6545b0e6fbfb10e3?mediaType=png)|75,612||25+|united states|
 |Gambit Strategies|2,190.00 USD|[44](https://www.snap.com/political-ads/asset/0b8953fa2a2c04b3ef3399777bb1d85490c0be7c4f24f80f21096c62ce702d74?mediaType=mp4)|71,457||25+|united states|
 |Gambit Strategies|403.00 USD|[45](https://www.snap.com/political-ads/asset/26ffb54ac03d1c90c28bc7f178c33308df5cd9d48a77e901d08025d9736594b1?mediaType=png)|66,858||25+|united states|
-|Gambit Strategies|238.00 USD|[46](https://www.snap.com/political-ads/asset/0e1cd66fdac19f70db450c8ee89f0ae827970a689d69d2d3bc8036a84e2e1fd6?mediaType=png)|50,760||25+|united states|
-|Gambit Strategies|212.00 USD|[47](https://www.snap.com/political-ads/asset/844933b3601d8eb3767573cd1c4ed9f3f11e42f8ab6982570d56fa356c6d4232?mediaType=png)|46,804||25+|united states|
+|Gambit Strategies|262.00 USD|[46](https://www.snap.com/political-ads/asset/0e1cd66fdac19f70db450c8ee89f0ae827970a689d69d2d3bc8036a84e2e1fd6?mediaType=png)|56,175||25+|united states|
+|Gambit Strategies|225.00 USD|[47](https://www.snap.com/political-ads/asset/844933b3601d8eb3767573cd1c4ed9f3f11e42f8ab6982570d56fa356c6d4232?mediaType=png)|49,936||25+|united states|
 |Gambit Strategies|1,186.00 USD|[48](https://www.snap.com/political-ads/asset/8b69d2210da222e732cb832aaee97f51c66f0ec62f0801dc705ae6953796d41f?mediaType=mp4)|45,567||25+|united states|
 |Gambit Strategies|222.00 USD|[49](https://www.snap.com/political-ads/asset/6bdcf37611fc97240644815bea3d91c44f7aff705ceeec97319c61ae7f4cf9c5?mediaType=png)|33,652||25+|united states|
 |Gambit Strategies|770.00 USD|[50](https://www.snap.com/political-ads/asset/e137b2f5eb248e72b4a781ce5c69a1f573e10badb854873eab0ae93d99b3f7eb?mediaType=mp4)|30,261||25+|united states|

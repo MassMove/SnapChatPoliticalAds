@@ -1,7 +1,7 @@
 ## 2026 - Blue Square Alliance Against Hat 
 **Spent**: 1,035,163.00
 
-**Impressions**: 386,096,797
+**Impressions**: 386,097,270
 
 **Billing Addresses**: 1 Patriot Pl,Foxborough,02035,US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |standup2jewhate|46,450.00 USD|[0](https://www.snap.com/political-ads/asset/d3b5d4ebafacb8802690f05cb8a8b138629d763d9a633a89ecdfd59ec187b612?mediaType=mp4)|23,341,633||18-34|united states|
 |standup2jewhate|49,685.00 USD|[1](https://www.snap.com/political-ads/asset/3837304c29e4299501b1e7c829ff428d3394297f09c96408b742d9ee8aa939f9?mediaType=mp4)|21,515,612||18-34|united states|
-|standup2jewhate|100,000.00 USD||19,365,643||18-34|united states|
+|standup2jewhate|100,000.00 USD||19,366,116||18-34|united states|
 |standup2jewhate|50,482.00 USD|[3](https://www.snap.com/political-ads/asset/62bb5c20b3b15062ae47cc26ecb29a5196313bd55096ae1a5673d9a4d1254c66?mediaType=mp4)|14,567,991||18-34|united states|
 |standup2jewhate|26,236.00 USD|[4](https://www.snap.com/political-ads/asset/8d27840dd31a6d86f220928ec619248c4563995c1c183b6271a77adb596b3e77?mediaType=mp4)|12,908,409||18-34|united states|
 |standup2jewhate|24,790.00 USD|[5](https://www.snap.com/political-ads/asset/6b43810ceaa861728ef214ff627c0424e983295f6963adfb3d5d188f64d7af1a?mediaType=mp4)|12,537,302||18-34|united states|

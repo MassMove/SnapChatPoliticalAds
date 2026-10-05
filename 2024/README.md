@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,386.00 EUR|315,808,471||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,407.00 EUR|315,815,762||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -209,7 +209,7 @@
 |[National Nurses United](National_Nurses_United.md) - Middle Seat Consulting  LLC: National Nurses United for Patient Protection PAC|37,178.00 USD|1,247,134||18+|united states|
 |[Amnesty International](Amnesty_International.md) - Jellyfish France|10,367.00 EUR|1,244,471||18+|france|
 |[Green Party](Green_Party.md) - Green Party / Comhaontas Glas|2,705.00 EUR|1,244,457||18+|ireland|
-|[A New Generation](A_New_Generation.md) - A New Generation|9,223.00 USD|1,238,220|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|9,238.00 USD|1,240,543|FEMALE|30-|united states|
 |[Humaniti](Humaniti.md) - Clearoute Inc.|17,945.00 CAD|1,237,156|FEMALE|18+, 25+, 30+|australia, canada, qatar, saudi arabia, united arab emirates, united kingdom, united states|
 |[Hamad Hamoud Obaid Alshammari](Hamad_Hamoud_Obaid_Alshammari.md) - Hamad Hammoud|4,904.00 USD|1,235,254||21+, 22+, 23+, 24+|kuwait|
 |[YES ON G](YES_ON_G.md) - Assemble the Agency: Measure G|25,163.00 USD|1,233,737|FEMALE|49-|united states|

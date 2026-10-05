@@ -1,7 +1,7 @@
 ## 2026 - MD State Board of Elections 
 **Spent**: 41,338.00
 
-**Impressions**: 3,914,104
+**Impressions**: 3,914,317
 
 **Billing Addresses**: 616 Water St, Suite 225,Baltimore,21202,US
 
@@ -180,3 +180,18 @@
 |Mission Media  LLC|4.00 USD|[170](https://www.snap.com/political-ads/asset/487ea9a97bd9dd3124341b1fb3a0590e1851356824fc5ed12fa3d3ef2ebc4b77?mediaType=mp4)|96||18+|united states|
 |Mission Media  LLC|1.00 USD|[171](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|66||18+|united states|
 |Mission Media  LLC|1.00 USD|[172](https://www.snap.com/political-ads/asset/985d9aa7ea3124e5192a4af6e111088abd0e9741dc882f1954398f7bb65b2f18?mediaType=mp4)|56||18+|united states|
+|Mission Media  LLC|0.00 USD|[173](https://www.snap.com/political-ads/asset/b0201f60a78e31c7574ec2dd14ec145e3e718ec3d2b4dcfe471d017fc4102827?mediaType=mp4)|54||18-44|united states|
+|Mission Media  LLC|0.00 USD|[174](https://www.snap.com/political-ads/asset/b0201f60a78e31c7574ec2dd14ec145e3e718ec3d2b4dcfe471d017fc4102827?mediaType=mp4)|54||18-44|united states|
+|Mission Media  LLC|0.00 USD|[175](https://www.snap.com/political-ads/asset/733f5db781291eb972adc869eda6c012296e5f0cd33c83761aecf8cfd8e566c7?mediaType=mp4)|13||18-44|united states|
+|Mission Media  LLC|0.00 USD|[176](https://www.snap.com/political-ads/asset/cc5565b6eeb3c802a033fd36e8cf8f36c1ddb8a9f8b2d7c257e5c11a519b0285?mediaType=mp4)|13||18-44|united states|
+|Mission Media  LLC|0.00 USD|[177](https://www.snap.com/political-ads/asset/cc5565b6eeb3c802a033fd36e8cf8f36c1ddb8a9f8b2d7c257e5c11a519b0285?mediaType=mp4)|12||18-44|united states|
+|Mission Media  LLC|0.00 USD|[178](https://www.snap.com/political-ads/asset/733f5db781291eb972adc869eda6c012296e5f0cd33c83761aecf8cfd8e566c7?mediaType=mp4)|10||18-44|united states|
+|Mission Media  LLC|0.00 USD|[179](https://www.snap.com/political-ads/asset/cc5565b6eeb3c802a033fd36e8cf8f36c1ddb8a9f8b2d7c257e5c11a519b0285?mediaType=mp4)|10||18-44|united states|
+|Mission Media  LLC|0.00 USD|[180](https://www.snap.com/political-ads/asset/733f5db781291eb972adc869eda6c012296e5f0cd33c83761aecf8cfd8e566c7?mediaType=mp4)|9||18-44|united states|
+|Mission Media  LLC|0.00 USD|[181](https://www.snap.com/political-ads/asset/cc5565b6eeb3c802a033fd36e8cf8f36c1ddb8a9f8b2d7c257e5c11a519b0285?mediaType=mp4)|9||18-44|united states|
+|Mission Media  LLC|0.00 USD|[182](https://www.snap.com/political-ads/asset/733f5db781291eb972adc869eda6c012296e5f0cd33c83761aecf8cfd8e566c7?mediaType=mp4)|8||18-44|united states|
+|Mission Media  LLC|0.00 USD|[183](https://www.snap.com/political-ads/asset/b0201f60a78e31c7574ec2dd14ec145e3e718ec3d2b4dcfe471d017fc4102827?mediaType=mp4)|7||18-44|united states|
+|Mission Media  LLC|0.00 USD|[184](https://www.snap.com/political-ads/asset/b0201f60a78e31c7574ec2dd14ec145e3e718ec3d2b4dcfe471d017fc4102827?mediaType=mp4)|5||18-44|united states|
+|Mission Media  LLC|0.00 USD|[185](https://www.snap.com/political-ads/asset/b0201f60a78e31c7574ec2dd14ec145e3e718ec3d2b4dcfe471d017fc4102827?mediaType=mp4)|4||18-44|united states|
+|Mission Media  LLC|0.00 USD|[186](https://www.snap.com/political-ads/asset/cc5565b6eeb3c802a033fd36e8cf8f36c1ddb8a9f8b2d7c257e5c11a519b0285?mediaType=mp4)|3||18-44|united states|
+|Mission Media  LLC|0.00 USD|[187](https://www.snap.com/political-ads/asset/733f5db781291eb972adc869eda6c012296e5f0cd33c83761aecf8cfd8e566c7?mediaType=mp4)|2||18-44|united states|

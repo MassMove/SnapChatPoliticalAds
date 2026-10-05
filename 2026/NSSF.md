@@ -1,7 +1,7 @@
 ## 2026 - NSSF 
-**Spent**: 7,372.00
+**Spent**: 7,430.00
 
-**Impressions**: 197,699
+**Impressions**: 199,817
 
 **Billing Addresses**: 2300 Clarendon Blvd,Arlington,22201,US
 
@@ -27,7 +27,7 @@
 |Red Edge LLC|71.00 USD|[17](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|2,709|FEMALE|25-49|united states|
 |Red Edge LLC|140.00 USD|[18](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|2,233|FEMALE|25-49|united states|
 |Red Edge LLC|75.00 USD|[19](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|2,010|FEMALE|25-49|united states|
-|Red Edge LLC|73.00 USD|[20](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|1,651|FEMALE|25-49|united states|
-|Red Edge LLC|29.00 USD|[21](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|1,074|FEMALE|25-49|united states|
-|Red Edge LLC|21.00 USD|[22](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|681|FEMALE|25-49|united states|
-|Red Edge LLC|17.00 USD|[23](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|673|FEMALE|25-49|united states|
+|Red Edge LLC|54.00 USD|[20](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|1,986|FEMALE|25-49|united states|
+|Red Edge LLC|73.00 USD|[21](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|1,651|FEMALE|25-49|united states|
+|Red Edge LLC|42.00 USD|[22](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|1,360|FEMALE|25-49|united states|
+|Red Edge LLC|29.00 USD|[23](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|1,200|FEMALE|25-49|united states|

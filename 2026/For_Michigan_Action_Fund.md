@@ -1,16 +1,16 @@
 ## 2026 - For Michigan Action Fund 
-**Spent**: 12,267.00
+**Spent**: 12,539.00
 
-**Impressions**: 2,040,300
+**Impressions**: 2,108,605
 
 **Billing Addresses**: 222 W Ontario, Suite 600,,Chicago,60654,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|AL Media: For Michigan|4,793.00 USD|[0](https://www.snap.com/political-ads/asset/7ef14670936103635c819a5c7feb4f4556bd068cb1cdcea33cf3b47bc6dca504?mediaType=mp4)|1,028,120||18-24|united states|
-|AL Media: For Michigan|5,429.00 USD|[1](https://www.snap.com/political-ads/asset/4fed5f1a508feea01ea9d12e469a6fe69f27984eb4e93eba63ed46421f8e4637?mediaType=mp4)|603,287||18-24|united states|
-|AL Media: For Michigan|525.00 USD|[2](https://www.snap.com/political-ads/asset/d98dbd2c201a34569c4440a2a365db9d7a6234422aa9d1f95a27a3a88fabbcf4?mediaType=mp4)|129,918||18-24|united states|
-|AL Media: For Michigan|522.00 USD|[3](https://www.snap.com/political-ads/asset/e1d5f19cba95b664014c92277b2a6831b0f4fb0f70175fb08cf69c390f013dab?mediaType=mp4)|122,330||18-24|united states|
+|AL Media: For Michigan|4,906.00 USD|[0](https://www.snap.com/political-ads/asset/7ef14670936103635c819a5c7feb4f4556bd068cb1cdcea33cf3b47bc6dca504?mediaType=mp4)|1,056,600||18-24|united states|
+|AL Media: For Michigan|5,456.00 USD|[1](https://www.snap.com/political-ads/asset/4fed5f1a508feea01ea9d12e469a6fe69f27984eb4e93eba63ed46421f8e4637?mediaType=mp4)|610,047||18-24|united states|
+|AL Media: For Michigan|595.00 USD|[2](https://www.snap.com/political-ads/asset/d98dbd2c201a34569c4440a2a365db9d7a6234422aa9d1f95a27a3a88fabbcf4?mediaType=mp4)|147,469||18-24|united states|
+|AL Media: For Michigan|584.00 USD|[3](https://www.snap.com/political-ads/asset/e1d5f19cba95b664014c92277b2a6831b0f4fb0f70175fb08cf69c390f013dab?mediaType=mp4)|137,844||18-24|united states|
 |AL Media: For Michigan Action Fund|167.00 USD|[4](https://www.snap.com/political-ads/asset/9bbd4fb13419bece6702e42fa9576a404adb1bec44cf0bd87c15366d366758e0?mediaType=mp4)|24,463||18-24|united states|
 |AL Media: For Michigan Action Fund|108.00 USD|[5](https://www.snap.com/political-ads/asset/0e60be391802e358613f1b4afe4bc6cd7d35f8bd3a86d35a0264ad203e80c2ab?mediaType=mp4)|23,762||18-24|united states|
 |AL Media: For Michigan Action Fund|175.00 USD|[6](https://www.snap.com/political-ads/asset/815f823cfd73d1e1a95377e8f849d0ac6374a781419304011d944c5fd27ae87b?mediaType=mp4)|23,729||18-24|united states|
