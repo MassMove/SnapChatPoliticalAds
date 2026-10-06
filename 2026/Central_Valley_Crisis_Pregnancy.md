@@ -1,7 +1,7 @@
 ## 2026 - Central Valley Crisis Pregnancy 
-**Spent**: 1,068.00
+**Spent**: 1,087.00
 
-**Impressions**: 80,152
+**Impressions**: 81,185
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -29,9 +29,9 @@
 |Cornerstone Marketing Strategies  LLC|27.00 USD|[19](https://www.snap.com/political-ads/asset/16e003cc216a6b41987c6ad63700ceafaa82cd458aae93f89bcde8aaa7e23ccc?mediaType=mp4)|1,447|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|24.00 USD|[20](https://www.snap.com/political-ads/asset/abfb6e42bc3223579fefeb8ea21868823cfe1f6a5abe32552140b5e316c01cde?mediaType=mp4)|1,381|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|13.00 USD|[21](https://www.snap.com/political-ads/asset/abfb6e42bc3223579fefeb8ea21868823cfe1f6a5abe32552140b5e316c01cde?mediaType=mp4)|966|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|11.00 USD|[22](https://www.snap.com/political-ads/asset/009f179eca8d3866e02545b6766687ae7856b50b3dbaac0e786fc80fc71d2d20?mediaType=mp4)|587|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|8.00 USD|[23](https://www.snap.com/political-ads/asset/abfb6e42bc3223579fefeb8ea21868823cfe1f6a5abe32552140b5e316c01cde?mediaType=mp4)|586|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|12.00 USD|[24](https://www.snap.com/political-ads/asset/abfb6e42bc3223579fefeb8ea21868823cfe1f6a5abe32552140b5e316c01cde?mediaType=mp4)|506|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|5.00 USD|[25](https://www.snap.com/political-ads/asset/16e003cc216a6b41987c6ad63700ceafaa82cd458aae93f89bcde8aaa7e23ccc?mediaType=mp4)|369|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|5.00 USD|[26](https://www.snap.com/political-ads/asset/37431c228fef9c8a16f8231e0481bc2acd0eebf40d38234bd95d6aa19a876805?mediaType=mp4)|266|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|3.00 USD|[27](https://www.snap.com/political-ads/asset/cd781cce7bbc1de959b3c7ef12829132abed5b868ce53cda3d8ce80edf3ea2ca?mediaType=mp4)|223|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|17.00 USD|[22](https://www.snap.com/political-ads/asset/009f179eca8d3866e02545b6766687ae7856b50b3dbaac0e786fc80fc71d2d20?mediaType=mp4)|935|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|20.00 USD|[23](https://www.snap.com/political-ads/asset/abfb6e42bc3223579fefeb8ea21868823cfe1f6a5abe32552140b5e316c01cde?mediaType=mp4)|837|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|8.00 USD|[24](https://www.snap.com/political-ads/asset/abfb6e42bc3223579fefeb8ea21868823cfe1f6a5abe32552140b5e316c01cde?mediaType=mp4)|586|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|6.00 USD|[25](https://www.snap.com/political-ads/asset/cd781cce7bbc1de959b3c7ef12829132abed5b868ce53cda3d8ce80edf3ea2ca?mediaType=mp4)|438|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|7.00 USD|[26](https://www.snap.com/political-ads/asset/37431c228fef9c8a16f8231e0481bc2acd0eebf40d38234bd95d6aa19a876805?mediaType=mp4)|405|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|5.00 USD|[27](https://www.snap.com/political-ads/asset/16e003cc216a6b41987c6ad63700ceafaa82cd458aae93f89bcde8aaa7e23ccc?mediaType=mp4)|369|FEMALE|16-34|united states|

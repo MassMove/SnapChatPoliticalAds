@@ -1,7 +1,7 @@
 ## 2026 - CareNet of Owensboro Kentucky 
-**Spent**: 1,084.00
+**Spent**: 1,096.00
 
-**Impressions**: 109,663
+**Impressions**: 111,426
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -34,3 +34,7 @@
 |Cornerstone Marketing Strategies  LLC|14.00 USD|[24](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|1,191|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|16.00 USD|[25](https://www.snap.com/political-ads/asset/f5c7cae48a64da2392b79c4dedb0d0142203b6ed940ed622dd4e29f89faa0946?mediaType=mp4)|1,108|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|13.00 USD|[26](https://www.snap.com/political-ads/asset/a11fb6afc7dc97dc9fe15cb8de2a79f7097b4a04778e7126f98b49ae34fbde8a?mediaType=mp4)|1,043|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|5.00 USD|[27](https://www.snap.com/political-ads/asset/b9dd498a70b5974c04d6f7b223930bdbab56ad2f6914f50639e48511aeb3b9d3?mediaType=mp4)|802|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|3.00 USD|[28](https://www.snap.com/political-ads/asset/254584fb4e9b8d0226ea875ea70009a1e96f439fbab428dff3e173c73b400e7b?mediaType=mp4)|427|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|3.00 USD|[29](https://www.snap.com/political-ads/asset/cc00b8c7133e729a9064953be68ea844c58081c6139a79c2181f624c44b3def4?mediaType=mp4)|338|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|1.00 USD|[30](https://www.snap.com/political-ads/asset/f5c7cae48a64da2392b79c4dedb0d0142203b6ed940ed622dd4e29f89faa0946?mediaType=mp4)|196|FEMALE|16-34|united states|
