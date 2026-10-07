@@ -1,7 +1,7 @@
 ## 2026 - Alsalam charity 
-**Spent**: 2,827.00
+**Spent**: 2,845.00
 
-**Impressions**: 941,163
+**Impressions**: 946,042
 
 **Billing Addresses**: kuwait,kuwait,30001,KW
 
@@ -14,9 +14,9 @@
 |alsalam charity|269.00 USD|[4](https://www.snap.com/political-ads/asset/0d61f0e202cae563faf7684b05088faf13a83293a13de78983c65d0511b2a69d?mediaType=mp4)|69,342||25+|kuwait|
 |alsalam charity|266.00 USD|[5](https://www.snap.com/political-ads/asset/b8a28a368c0653b3b7d1b288d4f084837200ec32695b0fd6bd7b6b7066223f6c?mediaType=mp4)|62,356||25+|kuwait|
 |alsalam charity|290.00 USD|[6](https://www.snap.com/political-ads/asset/5efe0fc492354e7c0655c9fb9ccc8a39ce7a91294fcc72f7726dfa5dddb962dd?mediaType=mp4)|47,751||25+|kuwait|
-|alsalam charity|193.00 USD|[7](https://www.snap.com/political-ads/asset/8f98151f10dd523f40a7bd4e85897a5c55ed470345654bd72f405202fe1dd5cd?mediaType=mp4)|26,171||28+|kuwait|
-|alsalam charity|233.00 USD|[8](https://www.snap.com/political-ads/asset/03f2e9a0954acb40a8005249a88aaddd8c98bde8f754ac9a769a4f4e40a50196?mediaType=png)|24,697||28+|kuwait|
-|alsalam charity|115.00 USD|[9](https://www.snap.com/political-ads/asset/41e56b98c4ae0ce5d4f2f7765c64fecb46a02fcc9020e0140810182cc1bc994a?mediaType=mp4)|16,326||28+|kuwait|
+|alsalam charity|198.00 USD|[7](https://www.snap.com/political-ads/asset/8f98151f10dd523f40a7bd4e85897a5c55ed470345654bd72f405202fe1dd5cd?mediaType=mp4)|27,131||28+|kuwait|
+|alsalam charity|238.00 USD|[8](https://www.snap.com/political-ads/asset/03f2e9a0954acb40a8005249a88aaddd8c98bde8f754ac9a769a4f4e40a50196?mediaType=png)|26,406||28+|kuwait|
+|alsalam charity|123.00 USD|[9](https://www.snap.com/political-ads/asset/41e56b98c4ae0ce5d4f2f7765c64fecb46a02fcc9020e0140810182cc1bc994a?mediaType=mp4)|18,536||28+|kuwait|
 |alsalam charity|87.00 USD|[10](https://www.snap.com/political-ads/asset/a504e26154711b3fdba0ddf5c8fcb341642e7e09bc160463a894977cb4250293?mediaType=png)|7,823||25+|kuwait|
 |alsalam charity|43.00 USD|[11](https://www.snap.com/political-ads/asset/186d86ae9a0922612173a8898c58674775dfc8ea30a903277d34c0fefe1b538a?mediaType=mp4)|7,526||25+|kuwait|
 |alsalam charity|26.00 USD|[12](https://www.snap.com/political-ads/asset/d3d041d9acde8647004d122e6f1c4b141e7969811676cefe66d20737b9c860d3?mediaType=mp4)|5,709||30+|kuwait|

@@ -1,7 +1,7 @@
 ## 2026 - Jon Ossoff for Senate 
-**Spent**: 198,701.00
+**Spent**: 208,357.00
 
-**Impressions**: 7,874,516
+**Impressions**: 8,221,127
 
 **Billing Addresses**: 
 - 1133 15th St NW,Washington,20005,US
@@ -10,17 +10,17 @@
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|Billing Addresses|
 |:---|---:|:---|---:|:---|:---|:---|:---|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|27,184.00 USD|[0](https://www.snap.com/political-ads/asset/349e117cc576e739b529fa34fefbfb152f7f61641cc07ea83e48e4c8167ec067?mediaType=png)|1,482,796|||united states|1133 15th St NW,Washington,20005,US|
-|MVAR Media: Jon Ossoff for Senate|32,077.00 USD|[1](https://www.snap.com/political-ads/asset/a51903835f5bad7340342c4775a5634a05ca5da94167f3c590ab72e2978519c6?mediaType=png)|1,361,699||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: Jon Ossoff for Senate|22,345.00 USD|[2](https://www.snap.com/political-ads/asset/a51903835f5bad7340342c4775a5634a05ca5da94167f3c590ab72e2978519c6?mediaType=png)|659,956||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: Jon Ossoff for Senate|15,584.00 USD|[3](https://www.snap.com/political-ads/asset/0530e70aa9ef1d332e75ef861c26233e6730b2f3745bd7c2db8e7908c85deea9?mediaType=mp4)|631,621||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: Jon Ossoff for Senate|10,311.00 USD|[4](https://www.snap.com/political-ads/asset/d28a61e005af7d4d974315e08b4262fe5d2a543b5ec22d84a998b154a34a5bb3?mediaType=mp4)|439,436||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|Aisle 518 Strategies LLC: Jon Ossoff for Senate|13,927.00 USD|[5](https://www.snap.com/political-ads/asset/f2384e83300f1f942860e31b73c61142eec5b0b283ddeb58b2c1ba3a8d14ff27?mediaType=png)|422,399|||united states|1133 15th St NW,Washington,20005,US|
-|MVAR Media: Jon Ossoff for Senate|14,378.00 USD|[6](https://www.snap.com/political-ads/asset/0530e70aa9ef1d332e75ef861c26233e6730b2f3745bd7c2db8e7908c85deea9?mediaType=mp4)|420,398||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: Jon Ossoff for Senate|9,209.00 USD|[7](https://www.snap.com/political-ads/asset/ea15874e2dfe96a9e4a51b28721dd9c1d9b43fa2e671fa802a7265f757d1de7b?mediaType=mp4)|394,108||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|Aisle 518 Strategies LLC: Jon Ossoff for Senate|8,667.00 USD|[8](https://www.snap.com/political-ads/asset/e31b3ce1179f8260ca9135ceb361e1543c73c6b6e0b60f193f3bea321d35a024?mediaType=png)|390,178|||united states|1133 15th St NW,Washington,20005,US|
+|MVAR Media: Jon Ossoff for Senate|33,617.00 USD|[1](https://www.snap.com/political-ads/asset/a51903835f5bad7340342c4775a5634a05ca5da94167f3c590ab72e2978519c6?mediaType=png)|1,424,986||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: Jon Ossoff for Senate|17,238.00 USD|[2](https://www.snap.com/political-ads/asset/0530e70aa9ef1d332e75ef861c26233e6730b2f3745bd7c2db8e7908c85deea9?mediaType=mp4)|697,599||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: Jon Ossoff for Senate|23,388.00 USD|[3](https://www.snap.com/political-ads/asset/a51903835f5bad7340342c4775a5634a05ca5da94167f3c590ab72e2978519c6?mediaType=png)|690,416||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: Jon Ossoff for Senate|12,062.00 USD|[4](https://www.snap.com/political-ads/asset/d28a61e005af7d4d974315e08b4262fe5d2a543b5ec22d84a998b154a34a5bb3?mediaType=mp4)|511,637||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: Jon Ossoff for Senate|16,101.00 USD|[5](https://www.snap.com/political-ads/asset/0530e70aa9ef1d332e75ef861c26233e6730b2f3745bd7c2db8e7908c85deea9?mediaType=mp4)|470,725||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|Aisle 518 Strategies LLC: Jon Ossoff for Senate|13,927.00 USD|[6](https://www.snap.com/political-ads/asset/f2384e83300f1f942860e31b73c61142eec5b0b283ddeb58b2c1ba3a8d14ff27?mediaType=png)|422,402|||united states|1133 15th St NW,Washington,20005,US|
+|MVAR Media: Jon Ossoff for Senate|9,624.00 USD|[7](https://www.snap.com/political-ads/asset/ea15874e2dfe96a9e4a51b28721dd9c1d9b43fa2e671fa802a7265f757d1de7b?mediaType=mp4)|412,016||18-34|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|Aisle 518 Strategies LLC: Jon Ossoff for Senate|8,667.00 USD|[8](https://www.snap.com/political-ads/asset/e31b3ce1179f8260ca9135ceb361e1543c73c6b6e0b60f193f3bea321d35a024?mediaType=png)|390,181|||united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|11,554.00 USD|[9](https://www.snap.com/political-ads/asset/349e117cc576e739b529fa34fefbfb152f7f61641cc07ea83e48e4c8167ec067?mediaType=png)|352,786|||united states|1133 15th St NW,Washington,20005,US|
-|MVAR Media: Jon Ossoff for Senate|8,397.00 USD|[10](https://www.snap.com/political-ads/asset/ea15874e2dfe96a9e4a51b28721dd9c1d9b43fa2e671fa802a7265f757d1de7b?mediaType=mp4)|266,212||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
-|MVAR Media: Jon Ossoff for Senate|7,588.00 USD|[11](https://www.snap.com/political-ads/asset/d28a61e005af7d4d974315e08b4262fe5d2a543b5ec22d84a998b154a34a5bb3?mediaType=mp4)|239,299||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: Jon Ossoff for Senate|8,803.00 USD|[10](https://www.snap.com/political-ads/asset/ea15874e2dfe96a9e4a51b28721dd9c1d9b43fa2e671fa802a7265f757d1de7b?mediaType=mp4)|277,952||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
+|MVAR Media: Jon Ossoff for Senate|8,711.00 USD|[11](https://www.snap.com/political-ads/asset/d28a61e005af7d4d974315e08b4262fe5d2a543b5ec22d84a998b154a34a5bb3?mediaType=mp4)|274,002||18+|united states|1421 Prince St Suite 320,Alexandria,22314,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|1,773.00 USD|[12](https://www.snap.com/political-ads/asset/03c15e81d2414ee17a74ba72fe1b5359e293a6186a6c4d763863285909140e31?mediaType=png)|236,920|||united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|992.00 USD|[13](https://www.snap.com/political-ads/asset/8552e6b74636777b5448ff3df4c29c56a3f952eee3600cc09d771bafa15ae779?mediaType=png)|77,191|||united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|1,238.00 USD|[14](https://www.snap.com/political-ads/asset/a3dcf6f380bae092190e0e7194ed4ffe73c2a6027a1f9da781d543637c7b2763?mediaType=png)|55,717|||united states|1133 15th St NW,Washington,20005,US|
@@ -32,7 +32,7 @@
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|757.00 USD|[20](https://www.snap.com/political-ads/asset/a3dcf6f380bae092190e0e7194ed4ffe73c2a6027a1f9da781d543637c7b2763?mediaType=png)|34,411|||united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|665.00 USD|[21](https://www.snap.com/political-ads/asset/b62bad0bf204ef20cc33e812d5a3958e02d294718f3f035043e74e1572ab0990?mediaType=png)|32,875|||united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|570.00 USD|[22](https://www.snap.com/political-ads/asset/03c15e81d2414ee17a74ba72fe1b5359e293a6186a6c4d763863285909140e31?mediaType=png)|32,382|||united states|1133 15th St NW,Washington,20005,US|
-|Aisle 518 Strategies LLC: Jon Ossoff for Senate|561.00 USD|[23](https://www.snap.com/political-ads/asset/4b65f2c4156cd5b9212c2c9e4cb98b2bdcbd3f9409a1c161cba7d84052304f29?mediaType=mp4)|16,564|||united states|1133 15th St NW,Washington,20005,US|
+|Aisle 518 Strategies LLC: Jon Ossoff for Senate|562.00 USD|[23](https://www.snap.com/political-ads/asset/4b65f2c4156cd5b9212c2c9e4cb98b2bdcbd3f9409a1c161cba7d84052304f29?mediaType=mp4)|16,565|||united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|237.00 USD|[24](https://www.snap.com/political-ads/asset/177de0610f42c1f01fad0f954466edb36941d73dcd7ae637e39e242dc5c6b415?mediaType=mp4)|14,663||18+|united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|267.00 USD|[25](https://www.snap.com/political-ads/asset/bdf4a3895c5a7825837efc5910f82bfb7a165c00e6a463040d142e7263cb4d94?mediaType=mp4)|14,542||18+|united states|1133 15th St NW,Washington,20005,US|
 |Aisle 518 Strategies LLC: Jon Ossoff for Senate|476.00 USD|[26](https://www.snap.com/political-ads/asset/2faa44728949f564ae621b529202f21c3c72ed8a0a5c024ed6f6a2dcd41b3b69?mediaType=mp4)|12,701|||united states|1133 15th St NW,Washington,20005,US|
