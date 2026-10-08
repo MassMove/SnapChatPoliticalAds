@@ -1,7 +1,7 @@
 ## 2026 - Senate Leadership Fund 
-**Spent**: 116,184.00
+**Spent**: 120,099.00
 
-**Impressions**: 4,264,866
+**Impressions**: 4,454,230
 
 **Billing Addresses**: 
 - 80 M St SE,Washington,20003,US
@@ -40,24 +40,42 @@
 |Alamo Intelligence LLC: Senate Leadership Fund|1,017.00 USD|[28](https://www.snap.com/political-ads/asset/75c3ed7c3bb6a6c90ddd096a4ac592d5472d8cf0e8b053ebab4976b23b5fd3cb?mediaType=mp4)|46,130||18+|united states|80 M St SE,Washington,20003,US|
 |Alamo Intelligence LLC: Senate Leadership Fund|964.00 USD|[29](https://www.snap.com/political-ads/asset/2ea14f0870b50671a9604fe9280b769ca6fdad6cc5ded4affe7540c42da1e414?mediaType=mp4)|43,779||18+|united states|80 M St SE,Washington,20003,US|
 |Alamo Intelligence LLC: Senate Leadership Fund|913.00 USD|[30](https://www.snap.com/political-ads/asset/a60b9727f1f9c847c33f7cf678a5b307fc02b57654e4a5ee9becce0968701a14?mediaType=mp4)|42,024||18+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|2,292.00 USD|[31](https://www.snap.com/political-ads/asset/4cb13e6bb1c5dcbfcb7a33bf87938eefdd8b23914597b22658145ef857af1e5b?mediaType=mp4)|35,788|MALE|25+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|1,033.00 USD|[32](https://www.snap.com/political-ads/asset/30651ac0f6b4405fff4b943305e9e09be88a40812295bcfa1f32ff406bf61a2b?mediaType=mp4)|35,404||18+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|1,002.00 USD|[33](https://www.snap.com/political-ads/asset/30c81d37b77da8af3d47486b926b5399c0dd2af1b13fc49cc43397ff1b414f76?mediaType=mp4)|35,089||18+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|2,411.00 USD|[34](https://www.snap.com/political-ads/asset/b831954a1e1debeb3066d3f72713166e302857ce901984340eee1dced738ca21?mediaType=mp4)|34,135|MALE|25+|united states|80 M St SE,Washington,20003,US|
-|PLUS Communications|1,343.00 USD|[35](https://www.snap.com/political-ads/asset/be0e8864cb98bea3b0cb4fd4f32496d15aa5ceb0d7fad5c591b556804f6c89aa?mediaType=mp4)|32,914||35+|united states|US|
-|Alamo Intelligence LLC: Senate Leadership Fund|696.00 USD|[36](https://www.snap.com/political-ads/asset/f7e3017f26adaff07fa0eb13bd9610613cc190d88910b6c147dc0e79971ddbb6?mediaType=mp4)|32,770||18+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|2,496.00 USD|[37](https://www.snap.com/political-ads/asset/30c81d37b77da8af3d47486b926b5399c0dd2af1b13fc49cc43397ff1b414f76?mediaType=mp4)|32,601|MALE|25+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|843.00 USD|[38](https://www.snap.com/political-ads/asset/b831954a1e1debeb3066d3f72713166e302857ce901984340eee1dced738ca21?mediaType=mp4)|29,535||18+|united states|80 M St SE,Washington,20003,US|
-|PLUS Communications|996.00 USD|[39](https://www.snap.com/political-ads/asset/a28472d3e9b51782981c0906abd8149676c049dde460cb2f9b0927e40ecafce1?mediaType=mp4)|24,230||35+|united states|US|
-|Alamo Intelligence LLC: Senate Leadership Fund|931.00 USD|[40](https://www.snap.com/political-ads/asset/4cb13e6bb1c5dcbfcb7a33bf87938eefdd8b23914597b22658145ef857af1e5b?mediaType=mp4)|23,635|MALE|25+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|916.00 USD|[41](https://www.snap.com/political-ads/asset/b831954a1e1debeb3066d3f72713166e302857ce901984340eee1dced738ca21?mediaType=mp4)|23,470|MALE|25+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|880.00 USD|[42](https://www.snap.com/political-ads/asset/30c81d37b77da8af3d47486b926b5399c0dd2af1b13fc49cc43397ff1b414f76?mediaType=mp4)|22,407|MALE|25+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|593.00 USD|[43](https://www.snap.com/political-ads/asset/30651ac0f6b4405fff4b943305e9e09be88a40812295bcfa1f32ff406bf61a2b?mediaType=mp4)|18,632||18+|united states|80 M St SE,Washington,20003,US|
-|PLUS Communications|48.00 USD|[44](https://www.snap.com/political-ads/asset/0bbdbdd34a399a631cbe62df31e1bdada34c20ac8df8e6bff9d8f17e151e5327?mediaType=mp4)|2,060||35+|united states|US|
-|PLUS Communications|41.00 USD|[45](https://www.snap.com/political-ads/asset/62fb9ec382f864217191599ed4b17a137ecb3b41fa898492fca58b65e07b0427?mediaType=mp4)|1,860||35+|united states|US|
-|PLUS Communications|21.00 USD|[46](https://www.snap.com/political-ads/asset/8cb21c021af21946ad0cda530f7ac692d673ab649cc771df88d03986fc277401?mediaType=mp4)|1,048||35+|united states|US|
-|PLUS Communications|19.00 USD|[47](https://www.snap.com/political-ads/asset/0bbdbdd34a399a631cbe62df31e1bdada34c20ac8df8e6bff9d8f17e151e5327?mediaType=mp4)|851||35+|united states|US|
-|PLUS Communications|7.00 USD|[48](https://www.snap.com/political-ads/asset/12cbf7d925483f2318130a2564c924abb0f056711e67377f9fbbf7ba29ae9c2c?mediaType=mp4)|333||35+|united states|US|
-|PLUS Communications|4.00 USD|[49](https://www.snap.com/political-ads/asset/088e75ae3abf1b8d1dac4760c683d217c3d94c9e7ce85d0f4460987879a9eace?mediaType=mp4)|223||35+|united states|US|
-|Alamo Intelligence LLC: Senate Leadership Fund|2.00 USD|[50](https://www.snap.com/political-ads/asset/75c3ed7c3bb6a6c90ddd096a4ac592d5472d8cf0e8b053ebab4976b23b5fd3cb?mediaType=mp4)|107||18+|united states|80 M St SE,Washington,20003,US|
-|Alamo Intelligence LLC: Senate Leadership Fund|1.00 USD|[51](https://www.snap.com/political-ads/asset/2ea14f0870b50671a9604fe9280b769ca6fdad6cc5ded4affe7540c42da1e414?mediaType=mp4)|95||18+|united states|80 M St SE,Washington,20003,US|
+|PLUS Communications|885.00 USD|[31](https://www.snap.com/political-ads/asset/0bbdbdd34a399a631cbe62df31e1bdada34c20ac8df8e6bff9d8f17e151e5327?mediaType=mp4)|37,368||35+|united states|US|
+|Alamo Intelligence LLC: Senate Leadership Fund|2,292.00 USD|[32](https://www.snap.com/political-ads/asset/4cb13e6bb1c5dcbfcb7a33bf87938eefdd8b23914597b22658145ef857af1e5b?mediaType=mp4)|35,788|MALE|25+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|1,033.00 USD|[33](https://www.snap.com/political-ads/asset/30651ac0f6b4405fff4b943305e9e09be88a40812295bcfa1f32ff406bf61a2b?mediaType=mp4)|35,404||18+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|1,002.00 USD|[34](https://www.snap.com/political-ads/asset/30c81d37b77da8af3d47486b926b5399c0dd2af1b13fc49cc43397ff1b414f76?mediaType=mp4)|35,089||18+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|2,411.00 USD|[35](https://www.snap.com/political-ads/asset/b831954a1e1debeb3066d3f72713166e302857ce901984340eee1dced738ca21?mediaType=mp4)|34,135|MALE|25+|united states|80 M St SE,Washington,20003,US|
+|PLUS Communications|1,343.00 USD|[36](https://www.snap.com/political-ads/asset/be0e8864cb98bea3b0cb4fd4f32496d15aa5ceb0d7fad5c591b556804f6c89aa?mediaType=mp4)|32,914||35+|united states|US|
+|Alamo Intelligence LLC: Senate Leadership Fund|696.00 USD|[37](https://www.snap.com/political-ads/asset/f7e3017f26adaff07fa0eb13bd9610613cc190d88910b6c147dc0e79971ddbb6?mediaType=mp4)|32,770||18+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|2,496.00 USD|[38](https://www.snap.com/political-ads/asset/30c81d37b77da8af3d47486b926b5399c0dd2af1b13fc49cc43397ff1b414f76?mediaType=mp4)|32,601|MALE|25+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|843.00 USD|[39](https://www.snap.com/political-ads/asset/b831954a1e1debeb3066d3f72713166e302857ce901984340eee1dced738ca21?mediaType=mp4)|29,535||18+|united states|80 M St SE,Washington,20003,US|
+|PLUS Communications|608.00 USD|[40](https://www.snap.com/political-ads/asset/0bbdbdd34a399a631cbe62df31e1bdada34c20ac8df8e6bff9d8f17e151e5327?mediaType=mp4)|26,138||35+|united states|US|
+|PLUS Communications|576.00 USD|[41](https://www.snap.com/political-ads/asset/8cb21c021af21946ad0cda530f7ac692d673ab649cc771df88d03986fc277401?mediaType=mp4)|25,713||35+|united states|US|
+|PLUS Communications|565.00 USD|[42](https://www.snap.com/political-ads/asset/62fb9ec382f864217191599ed4b17a137ecb3b41fa898492fca58b65e07b0427?mediaType=mp4)|25,036||35+|united states|US|
+|PLUS Communications|996.00 USD|[43](https://www.snap.com/political-ads/asset/a28472d3e9b51782981c0906abd8149676c049dde460cb2f9b0927e40ecafce1?mediaType=mp4)|24,230||35+|united states|US|
+|Alamo Intelligence LLC: Senate Leadership Fund|931.00 USD|[44](https://www.snap.com/political-ads/asset/4cb13e6bb1c5dcbfcb7a33bf87938eefdd8b23914597b22658145ef857af1e5b?mediaType=mp4)|23,635|MALE|25+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|916.00 USD|[45](https://www.snap.com/political-ads/asset/b831954a1e1debeb3066d3f72713166e302857ce901984340eee1dced738ca21?mediaType=mp4)|23,470|MALE|25+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|880.00 USD|[46](https://www.snap.com/political-ads/asset/30c81d37b77da8af3d47486b926b5399c0dd2af1b13fc49cc43397ff1b414f76?mediaType=mp4)|22,407|MALE|25+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|593.00 USD|[47](https://www.snap.com/political-ads/asset/30651ac0f6b4405fff4b943305e9e09be88a40812295bcfa1f32ff406bf61a2b?mediaType=mp4)|18,632||18+|united states|80 M St SE,Washington,20003,US|
+|Alamo Intelligence LLC: Senate Leadership Fund|360.00 USD|[48](https://www.snap.com/political-ads/asset/75c3ed7c3bb6a6c90ddd096a4ac592d5472d8cf0e8b053ebab4976b23b5fd3cb?mediaType=mp4)|14,247||18+|united states|80 M St SE,Washington,20003,US|
+|Cavalry LLC|123.00 USD|[49](https://www.snap.com/political-ads/asset/c7a15f13deec6c7962f660ea947b85a853b3766056bef86471853aff7f03cf41?mediaType=mp4)|13,562||18+|united states|US|
+|Alamo Intelligence LLC: Senate Leadership Fund|338.00 USD|[50](https://www.snap.com/political-ads/asset/2ea14f0870b50671a9604fe9280b769ca6fdad6cc5ded4affe7540c42da1e414?mediaType=mp4)|13,359||18+|united states|80 M St SE,Washington,20003,US|
+|PLUS Communications|184.00 USD|[51](https://www.snap.com/political-ads/asset/12cbf7d925483f2318130a2564c924abb0f056711e67377f9fbbf7ba29ae9c2c?mediaType=mp4)|8,263||35+|united states|US|
+|PLUS Communications|179.00 USD|[52](https://www.snap.com/political-ads/asset/088e75ae3abf1b8d1dac4760c683d217c3d94c9e7ce85d0f4460987879a9eace?mediaType=mp4)|7,782||35+|united states|US|
+|Cavalry LLC|33.00 USD|[53](https://www.snap.com/political-ads/asset/79db691801c02b60b805790f69e3fe0fa35416036d382f7ff5e9ceea30be55ac?mediaType=mp4)|3,454||18+|united states|US|
+|Cavalry LLC|30.00 USD|[54](https://www.snap.com/political-ads/asset/815bf83f317b2163075ea02515460bb69f1af1298b7b1f31d143bc39f3c3a8ff?mediaType=mp4)|3,098||18+|united states|US|
+|Cavalry LLC|26.00 USD|[55](https://www.snap.com/political-ads/asset/b2a2f9ddd88cb4b6e538d54195c2aa7f228b1ca8939dabbffc360d60df8da860?mediaType=mp4)|2,476||18+|united states|US|
+|Cavalry LLC|20.00 USD|[56](https://www.snap.com/political-ads/asset/d7a6191f215550a69fcaaceb9928ccee30d439f9b8509889fdc1c135323d2db0?mediaType=mp4)|2,126||18+|united states|US|
+|Cavalry LLC|16.00 USD|[57](https://www.snap.com/political-ads/asset/a50b047134b4b9ad3cae8e9ae6d0f2b7c5ae05fe5621d56e7561d7e1e65810b7?mediaType=mp4)|1,800||18+|united states|US|
+|Cavalry LLC|16.00 USD|[58](https://www.snap.com/political-ads/asset/cb66b2423e5d54652a7a157ac6d73751d3472fbf5dbc399326928d0f024726b6?mediaType=mp4)|1,544||18+|united states|US|
+|Cavalry LLC|14.00 USD|[59](https://www.snap.com/political-ads/asset/99a1b48a5322cea5328aa8fa39f64b9c5bdf8d2c242dbeedcf704bf9690addad?mediaType=mp4)|1,494||18+|united states|US|
+|Cavalry LLC|14.00 USD|[60](https://www.snap.com/political-ads/asset/79e23c27c7b6ae5354a387ee9657b0b74f390d25d839701565b4a3d70b86404f?mediaType=mp4)|1,476||18+|united states|US|
+|Cavalry LLC|13.00 USD|[61](https://www.snap.com/political-ads/asset/a46f891c119abb2e6f36d6aab3a7d06197cc331d61bca9c1f14c2760858e5c55?mediaType=mp4)|1,472||18+|united states|US|
+|Cavalry LLC|11.00 USD|[62](https://www.snap.com/political-ads/asset/d9872b8f3eb9d80ec57e626484b3951e12f664b2406c991935247fc6863c2641?mediaType=mp4)|1,147||18+|united states|US|
+|Cavalry LLC|11.00 USD|[63](https://www.snap.com/political-ads/asset/4876ad99fe71892da7ca2e9c1f654f89d196ecaa0ee8dc84e0b1bf187f0abf63?mediaType=mp4)|1,018||18+|united states|US|
+|Cavalry LLC|8.00 USD|[64](https://www.snap.com/political-ads/asset/2b9f39b63f62ed21eee23e52a18d166cfb1dd6aa54390481e5d2b060aca964dd?mediaType=mp4)|721||18+|united states|US|
+|Cavalry LLC|7.00 USD|[65](https://www.snap.com/political-ads/asset/0d1a4ef9b19529d391984e8ec76a7cf0b942e581c1cd22c67a55cc349dfc259a?mediaType=mp4)|577||18+|united states|US|
+|Cavalry LLC|5.00 USD|[66](https://www.snap.com/political-ads/asset/9c0c139e498cbe214966ed5db498b45243ba4e1ce97952bda661614451b66907?mediaType=mp4)|560||18+|united states|US|
+|Cavalry LLC|5.00 USD|[67](https://www.snap.com/political-ads/asset/1929a40e7c4288ed89c6fcfc6e173bb78f5062c3b5fc4bed21c5ec0fe7c6318f?mediaType=mp4)|537||18+|united states|US|
+|Cavalry LLC|6.00 USD|[68](https://www.snap.com/political-ads/asset/93600843daca9cabc3998d2d2cb7bcb9c55202e2ae106ac0d40ea8cd67fa6902?mediaType=mp4)|520||18+|united states|US|
+|Cavalry LLC|5.00 USD|[69](https://www.snap.com/political-ads/asset/e6e00f817a73c6cc121458c953faf253cd718461321d7087243d06936fc33f26?mediaType=mp4)|453||18+|united states|US|
