@@ -1,7 +1,7 @@
 ## 2026 - House Majority Pac 
-**Spent**: 14,829.00
+**Spent**: 15,462.00
 
-**Impressions**: 2,107,207
+**Impressions**: 2,214,985
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
@@ -11,28 +11,28 @@
 |GMMB  Inc|1,250.00 USD|[1](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|229,021||18+|united states|
 |GMMB  Inc|1,125.00 USD|[2](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|160,147||18+|united states|
 |GMMB  Inc|1,125.00 USD|[3](https://www.snap.com/political-ads/asset/eb61b08c76c063f84774188d562a57e3faf615195db967be5ece169e8f71aff9?mediaType=mp4)|160,048||18+|united states|
-|GMMB  Inc|1,000.00 USD|[4](https://www.snap.com/political-ads/asset/eb61b08c76c063f84774188d562a57e3faf615195db967be5ece169e8f71aff9?mediaType=mp4)|135,132||18+|united states|
-|GMMB  Inc|1,000.00 USD|[5](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|135,022||18+|united states|
-|GMMB  Inc|786.00 USD|[6](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|126,699||18+|united states|
-|GMMB  Inc|750.00 USD|[7](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|106,882||18+|united states|
-|GMMB  Inc|750.00 USD|[8](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|101,061||18+|united states|
-|GMMB  Inc|580.00 USD|[9](https://www.snap.com/political-ads/asset/706c35bff892fdc81e7b97684bd4fc5f9e15de6c1ba976d1476b8c036bfa5f67?mediaType=mp4)|99,715||18+|united states|
+|GMMB  Inc|854.00 USD|[4](https://www.snap.com/political-ads/asset/706c35bff892fdc81e7b97684bd4fc5f9e15de6c1ba976d1476b8c036bfa5f67?mediaType=mp4)|150,541||18+|united states|
+|GMMB  Inc|1,000.00 USD|[5](https://www.snap.com/political-ads/asset/eb61b08c76c063f84774188d562a57e3faf615195db967be5ece169e8f71aff9?mediaType=mp4)|135,132||18+|united states|
+|GMMB  Inc|1,000.00 USD|[6](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|135,022||18+|united states|
+|GMMB  Inc|786.00 USD|[7](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|126,699||18+|united states|
+|GMMB  Inc|750.00 USD|[8](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|106,882||18+|united states|
+|GMMB  Inc|750.00 USD|[9](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|101,061||18+|united states|
 |GMMB  Inc|500.00 USD|[10](https://www.snap.com/political-ads/asset/7b0f77b9aeb78913725766e551b99745a40983faaae5e5a170f15fbbbff11c68?mediaType=mp4)|70,229||18+|united states|
 |GMMB  Inc|500.00 USD|[11](https://www.snap.com/political-ads/asset/7b0f77b9aeb78913725766e551b99745a40983faaae5e5a170f15fbbbff11c68?mediaType=mp4)|67,652||18+|united states|
-|GMMB  Inc|500.00 USD|[12](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|64,584||18+|united states|
-|GMMB  Inc|350.00 USD|[13](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|41,576||18+|united states|
-|GMMB  Inc|231.00 USD|[14](https://www.snap.com/political-ads/asset/620cafcfb65f8dbb1a9df275c9e258648530adbe9b7ec47aa018a9cd5fcd3193?mediaType=mp4)|40,696||18+|united states|
+|GMMB  Inc|372.00 USD|[12](https://www.snap.com/political-ads/asset/620cafcfb65f8dbb1a9df275c9e258648530adbe9b7ec47aa018a9cd5fcd3193?mediaType=mp4)|67,501||18+|united states|
+|GMMB  Inc|500.00 USD|[13](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|64,584||18+|united states|
+|GMMB  Inc|350.00 USD|[14](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|41,576||18+|united states|
 |GMMB  Inc|500.00 USD|[15](https://www.snap.com/political-ads/asset/30f46198137929195eb0fb6f7f52739c9de5977d61e400ec75b8a1626b061e21?mediaType=mp4)|39,785||18+|united states|
 |GMMB  Inc|350.00 USD|[16](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|35,973||18+|united states|
-|GMMB  Inc|121.00 USD|[17](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|21,286||18+|united states|
-|GMMB  Inc|250.00 USD|[18](https://www.snap.com/political-ads/asset/f9c7201f1a4fa8a54961989dfcd9fddb45e22822018b696d3058bc722ca3f984?mediaType=mp4)|20,506||18+|united states|
-|GMMB  Inc|250.00 USD|[19](https://www.snap.com/political-ads/asset/30f46198137929195eb0fb6f7f52739c9de5977d61e400ec75b8a1626b061e21?mediaType=mp4)|20,471||18+|united states|
-|GMMB  Inc|150.00 USD|[20](https://www.snap.com/political-ads/asset/d3c03da721a9c9cf3e0c032f50d570abe37742faf1fbad5b4f09e9a21aa220d2?mediaType=mp4)|19,017||18+|united states|
-|GMMB  Inc|250.00 USD|[21](https://www.snap.com/political-ads/asset/30f46198137929195eb0fb6f7f52739c9de5977d61e400ec75b8a1626b061e21?mediaType=mp4)|17,350||18+|united states|
-|GMMB  Inc|250.00 USD|[22](https://www.snap.com/political-ads/asset/f9c7201f1a4fa8a54961989dfcd9fddb45e22822018b696d3058bc722ca3f984?mediaType=mp4)|17,330||18+|united states|
-|GMMB  Inc|150.00 USD|[23](https://www.snap.com/political-ads/asset/d3c03da721a9c9cf3e0c032f50d570abe37742faf1fbad5b4f09e9a21aa220d2?mediaType=mp4)|16,624||18+|united states|
-|GMMB  Inc|141.00 USD|[24](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|16,322||18+|united states|
-|GMMB  Inc|71.00 USD|[25](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|12,443||18+|united states|
-|GMMB  Inc|138.00 USD|[26](https://www.snap.com/political-ads/asset/29eff97c6e67c7e8fa231f7205edb22ca3177c9989110ac7865a24caa76fbb45?mediaType=mp4)|9,734||18+|united states|
-|GMMB  Inc|36.00 USD|[27](https://www.snap.com/political-ads/asset/9b135001f89034b880163c43ee7b1f8959c20495687c32c30eceb7d0a7bcff82?mediaType=mp4)|6,490||18+|united states|
-|GMMB  Inc|12.00 USD|[28](https://www.snap.com/political-ads/asset/508de84abf46202d90a9429b878f570cb2318d0d96bb09d56b100053225494fc?mediaType=mp4)|2,239||18+|united states|
+|GMMB  Inc|180.00 USD|[17](https://www.snap.com/political-ads/asset/de967bf35d67586cda98dc4cb2d4590b2f8d41e987d778d9402aa81505c320b4?mediaType=mp4)|32,330||18+|united states|
+|GMMB  Inc|208.00 USD|[18](https://www.snap.com/political-ads/asset/2f61193f9e77758b8e6d65ed5d18d82142c61d0129218cb285fca1a259a8540a?mediaType=mp4)|24,998||18+|united states|
+|GMMB  Inc|250.00 USD|[19](https://www.snap.com/political-ads/asset/f9c7201f1a4fa8a54961989dfcd9fddb45e22822018b696d3058bc722ca3f984?mediaType=mp4)|20,506||18+|united states|
+|GMMB  Inc|250.00 USD|[20](https://www.snap.com/political-ads/asset/30f46198137929195eb0fb6f7f52739c9de5977d61e400ec75b8a1626b061e21?mediaType=mp4)|20,471||18+|united states|
+|GMMB  Inc|150.00 USD|[21](https://www.snap.com/political-ads/asset/d3c03da721a9c9cf3e0c032f50d570abe37742faf1fbad5b4f09e9a21aa220d2?mediaType=mp4)|19,017||18+|united states|
+|GMMB  Inc|250.00 USD|[22](https://www.snap.com/political-ads/asset/30f46198137929195eb0fb6f7f52739c9de5977d61e400ec75b8a1626b061e21?mediaType=mp4)|17,350||18+|united states|
+|GMMB  Inc|250.00 USD|[23](https://www.snap.com/political-ads/asset/f9c7201f1a4fa8a54961989dfcd9fddb45e22822018b696d3058bc722ca3f984?mediaType=mp4)|17,330||18+|united states|
+|GMMB  Inc|150.00 USD|[24](https://www.snap.com/political-ads/asset/d3c03da721a9c9cf3e0c032f50d570abe37742faf1fbad5b4f09e9a21aa220d2?mediaType=mp4)|16,624||18+|united states|
+|GMMB  Inc|203.00 USD|[25](https://www.snap.com/political-ads/asset/29eff97c6e67c7e8fa231f7205edb22ca3177c9989110ac7865a24caa76fbb45?mediaType=mp4)|15,025||18+|united states|
+|GMMB  Inc|71.00 USD|[26](https://www.snap.com/political-ads/asset/595fa29ca22cd96fbf5b5bc1102c915fae7783d0453e2d7ef58eab3542238cb5?mediaType=mp4)|12,443||18+|united states|
+|GMMB  Inc|52.00 USD|[27](https://www.snap.com/political-ads/asset/9b135001f89034b880163c43ee7b1f8959c20495687c32c30eceb7d0a7bcff82?mediaType=mp4)|9,469||18+|united states|
+|GMMB  Inc|23.00 USD|[28](https://www.snap.com/political-ads/asset/508de84abf46202d90a9429b878f570cb2318d0d96bb09d56b100053225494fc?mediaType=mp4)|4,396||18+|united states|

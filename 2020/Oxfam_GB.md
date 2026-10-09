@@ -1,7 +1,7 @@
 ## 2020 - Oxfam GB 
-**Spent**: 5,569.00
+**Spent**: 5,401.00
 
-**Impressions**: 3,786,971
+**Impressions**: 3,728,073
 
 **Billing Addresses**: John Smith Drive, Cowley,Oxford,OX4 2JY,GB
 
@@ -18,22 +18,21 @@
 |Oxfam GB|214.00 GBP|[26](https://www.snap.com/political-ads/asset/6a9e35d918c02ba524470cab852e85d6c88a0f3c12a6ff7b929572ef9587c5a1?mediaType=jpg)|79,528||18+|united kingdom|
 |Oxfam GB|156.00 GBP|[27](https://www.snap.com/political-ads/asset/6a9e35d918c02ba524470cab852e85d6c88a0f3c12a6ff7b929572ef9587c5a1?mediaType=jpg)|72,321||18+|united kingdom|
 |Oxfam GB|168.00 GBP|[28](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|59,424|FEMALE|30+|united kingdom|
-|Oxfam GB|168.00 GBP|[29](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|58,898|FEMALE|30+|united kingdom|
-|Oxfam GB|121.00 GBP|[30](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|46,757|FEMALE|30+|united kingdom|
-|Oxfam GB|129.00 GBP|[31](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|43,933|FEMALE|21+|united kingdom|
-|Oxfam GB|118.00 GBP|[32](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|41,349||21+|united kingdom|
-|Oxfam GB|87.00 GBP|[33](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|35,879||21+|united kingdom|
-|Oxfam GB|112.00 GBP|[34](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|34,380|FEMALE|30+|united kingdom|
-|Oxfam GB|75.00 GBP|[35](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|31,791||21+|united kingdom|
-|Oxfam GB|57.00 GBP|[36](https://www.snap.com/political-ads/asset/406b70dcf35c8240c8e8d42b320d1743df1ad7b29f7edb07216671dfce13b0ef?mediaType=mp4)|31,171||18+|united kingdom|
-|Oxfam GB|64.00 GBP|[37](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|29,346|FEMALE|21+|united kingdom|
-|Oxfam GB|87.00 GBP|[38](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|27,055|FEMALE|21+|united kingdom|
-|Oxfam GB|128.00 GBP|[39](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|26,970|FEMALE|21+|united kingdom|
-|Oxfam GB|99.00 GBP|[40](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|26,341|FEMALE|21+|united kingdom|
-|Oxfam GB|45.00 GBP|[41](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|23,377|FEMALE|21+|united kingdom|
-|Oxfam GB|68.00 GBP|[42](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|22,737|FEMALE|21+|united kingdom|
-|Oxfam GB|47.00 GBP|[43](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|22,061|FEMALE|21+|united kingdom|
-|Oxfam GB|45.00 GBP|[44](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|15,413||21+|united kingdom|
-|Oxfam GB|79.00 GBP|[45](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|14,457|FEMALE|21+|united kingdom|
-|Oxfam GB|81.00 GBP|[46](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|13,582|FEMALE|21+|united kingdom|
-|Oxfam GB|66.00 GBP|[47](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|11,000|FEMALE|21+|united kingdom|
+|Oxfam GB|121.00 GBP|[29](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|46,757|FEMALE|30+|united kingdom|
+|Oxfam GB|129.00 GBP|[30](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|43,933|FEMALE|21+|united kingdom|
+|Oxfam GB|118.00 GBP|[31](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|41,349||21+|united kingdom|
+|Oxfam GB|87.00 GBP|[32](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|35,879||21+|united kingdom|
+|Oxfam GB|112.00 GBP|[33](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|34,380|FEMALE|30+|united kingdom|
+|Oxfam GB|75.00 GBP|[34](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|31,791||21+|united kingdom|
+|Oxfam GB|57.00 GBP|[35](https://www.snap.com/political-ads/asset/406b70dcf35c8240c8e8d42b320d1743df1ad7b29f7edb07216671dfce13b0ef?mediaType=mp4)|31,171||18+|united kingdom|
+|Oxfam GB|64.00 GBP|[36](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|29,346|FEMALE|21+|united kingdom|
+|Oxfam GB|87.00 GBP|[37](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|27,055|FEMALE|21+|united kingdom|
+|Oxfam GB|128.00 GBP|[38](https://www.snap.com/political-ads/asset/4e83600c43683e53db7be8e0b18df72ce30d9691380cf9ff024a1ec77bab01d9?mediaType=mp4)|26,970|FEMALE|21+|united kingdom|
+|Oxfam GB|99.00 GBP|[39](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|26,341|FEMALE|21+|united kingdom|
+|Oxfam GB|45.00 GBP|[40](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|23,377|FEMALE|21+|united kingdom|
+|Oxfam GB|68.00 GBP|[41](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|22,737|FEMALE|21+|united kingdom|
+|Oxfam GB|47.00 GBP|[42](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|22,061|FEMALE|21+|united kingdom|
+|Oxfam GB|45.00 GBP|[43](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|15,413||21+|united kingdom|
+|Oxfam GB|79.00 GBP|[44](https://www.snap.com/political-ads/asset/148fe34124ee043708715f607dbf548353b976e47dfafaef6d2799b437f0e4fa?mediaType=mp4)|14,457|FEMALE|21+|united kingdom|
+|Oxfam GB|81.00 GBP|[45](https://www.snap.com/political-ads/asset/fd98f645b5b7c844a490fac523a3ca8dd397d453e3b3b58d878c30036f2ec985?mediaType=mp4)|13,582|FEMALE|21+|united kingdom|
+|Oxfam GB|66.00 GBP|[46](https://www.snap.com/political-ads/asset/946c448e42a1c07010cfa3cc2685877f964862d4e558072a0e49ec7415d8a116?mediaType=mp4)|11,000|FEMALE|21+|united kingdom|

@@ -171,9 +171,9 @@
 |[New Jersey Education Association](New_Jersey_Education_Association.md) - The New Media Firm: Ch 78, NJEA|14,677.00 USD|3,977,186||18+, 25+|united states|
 |[Wisconsin Voices](Wisconsin_Voices.md) - InLine Media|15,237.00 USD|3,838,672|FEMALE|17-24, 18+, 25-34|united states|
 |[GOOD PARTY](GOOD_PARTY.md) - Division-D: GOOD PARTY|8,524.00 USD|3,830,153||18+|united states|
-|[Oxfam GB](Oxfam_GB.md) - Oxfam GB|5,569.00 GBP|3,786,971|FEMALE|18+, 21+, 30+|united kingdom|
 |[Waleed Alghanim - Politician](Waleed_Alghanim_-_Politician.md) - MCC: Waleed Alghanim|4,626.00 USD|3,730,895|MALE|29-45|kuwait|
 |[America First Policies](America_First_Policies.md) - America First Action: America First Policies|22,243.00 USD|3,729,408||18+|united states|
+|[Oxfam GB](Oxfam_GB.md) - Oxfam GB|5,401.00 GBP|3,728,073|FEMALE|18+, 21+, 30+|united kingdom|
 |[End Citizens United](End_Citizens_United.md) - Wavelength Strategy|14,500.00 USD|3,722,760||18+|united states|
 |[Eastbay](Eastbay.md) - Omnicom Media Group Holdings Inc.|18,602.00 USD|3,720,777||18-38|united states|
 |[Khaled Ayed Al Enezi](Khaled_Ayed_Al_Enezi.md) - Digital Media Services FZ-LLC|2,060.00 USD|3,693,716||21+|kuwait|
