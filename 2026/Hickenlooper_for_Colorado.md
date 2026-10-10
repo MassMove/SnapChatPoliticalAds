@@ -1,7 +1,7 @@
 ## 2026 - Hickenlooper for Colorado 
-**Spent**: 50,577.00
+**Spent**: 51,684.00
 
-**Impressions**: 3,464,327
+**Impressions**: 3,571,483
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
@@ -13,19 +13,19 @@
 |Gambit Strategies: Hickenlooper for Colorado|5,781.00 USD|[3](https://www.snap.com/political-ads/asset/09e183895d904c4eb2b867f4f3cecb491b6a9e604b8f77ea6da3c9379aadb023?mediaType=mp4)|218,541||18+|united states|
 |Gambit Strategies: Hickenlooper for Colorado|2,635.00 USD|[4](https://www.snap.com/political-ads/asset/e2651bc85593332d2577cd496db477484a67adece8435e47a3f3e971fc9d837a?mediaType=mp4)|196,498||18+|united states|
 |Gambit Strategies|1,608.00 USD|[5](https://www.snap.com/political-ads/asset/84e810f8ac9678612a79c16f589c74b7892c902a6903e53c95bc14fc00b086fd?mediaType=png)|187,588||18+|united states|
-|Gambit Strategies: Hickenlooper for Colorado|2,313.00 USD|[6](https://www.snap.com/political-ads/asset/0ddbe72f0380d18e5311a9340f37a810318378bfca18c5059292337db3f8a872?mediaType=png)|112,381||18+|united states|
-|Gambit Strategies: John Hickenlooper|551.00 USD|[7](https://www.snap.com/political-ads/asset/f0a256af6c30c26e513b4acc6794b63da542a3664a4f95e9211f26663e6a7d23?mediaType=png)|97,165||18+|united states|
-|Gambit Strategies: Hickenlooper for Colorado|499.00 USD|[8](https://www.snap.com/political-ads/asset/846c0ed15c237a0d1920f91cc5938dfaf2c7dec0524a3f4a085e2bfd43a2c540?mediaType=png)|92,943||18+|united states|
-|Gambit Strategies|701.00 USD|[9](https://www.snap.com/political-ads/asset/e4643e2255b166feea6eda101fdc21a41c388456895d9c8109fb4b6ccd36d177?mediaType=png)|87,826||18+|united states|
-|Gambit Strategies|2,098.00 USD|[10](https://www.snap.com/political-ads/asset/a6dbf4dad357fa4fef3c13231652924c9659fe0ec88ec605ecf1541145d8dd93?mediaType=mp4)|85,489||18+|united states|
-|Gambit Strategies: Hickenlooper for Colorado|1,061.00 USD|[11](https://www.snap.com/political-ads/asset/ea8aa65e668abfc0eda9076765734ef8a154d7423c1d948d57ab553875f85001?mediaType=mp4)|79,997||18+|united states|
-|Gambit Strategies|730.00 USD|[12](https://www.snap.com/political-ads/asset/192b556a0253a9cc017e57ac3634c1d4494a401ad242894b7cf8abef41d16ef3?mediaType=png)|71,849||18+|united states|
-|Gambit Strategies: John Hickenlooper|395.00 USD|[13](https://www.snap.com/political-ads/asset/127cc86d936e8dd111a768ea135dd0ce178d16c9e54a04c72f94c155cb55e437?mediaType=png)|71,169||18+|united states|
-|Gambit Strategies|585.00 USD|[14](https://www.snap.com/political-ads/asset/aed80513586bff8f31d009f24cc6750bf28b202f8d6ec6d46c64ce8db52470db?mediaType=png)|69,777||18+|united states|
-|Gambit Strategies|665.00 USD|[15](https://www.snap.com/political-ads/asset/5c149a57f5b54f83485b0a2781e19b335c2a13b241083bb2416819ff6d676aa6?mediaType=png)|64,362||18+|united states|
-|Gambit Strategies: Hickenlooper for Colorado|1,001.00 USD|[16](https://www.snap.com/political-ads/asset/97fefb3df5f82094b5e2b6662fa24429a6bab2c002fecd65daf1ee9565974112?mediaType=mp4)|60,301||18+|united states|
-|Gambit Strategies: Hickenlooper for Colorado|1,108.00 USD|[17](https://www.snap.com/political-ads/asset/5966249e525743ca1f6149253c13851c23768b2ac9dfb18372b01243258e0183?mediaType=png)|51,941||18+|united states|
-|Gambit Strategies|1,033.00 USD|[18](https://www.snap.com/political-ads/asset/a9edf168f3e7cf503b93e9f8773ba416fe6e9f19a42ff69c8a0ad893ef165714?mediaType=mp4)|49,613||18+|united states|
+|Gambit Strategies: John Hickenlooper|757.00 USD|[6](https://www.snap.com/political-ads/asset/f0a256af6c30c26e513b4acc6794b63da542a3664a4f95e9211f26663e6a7d23?mediaType=png)|134,092||18+|united states|
+|Gambit Strategies: Hickenlooper for Colorado|2,313.00 USD|[7](https://www.snap.com/political-ads/asset/0ddbe72f0380d18e5311a9340f37a810318378bfca18c5059292337db3f8a872?mediaType=png)|112,381||18+|united states|
+|Gambit Strategies: John Hickenlooper|559.00 USD|[8](https://www.snap.com/political-ads/asset/127cc86d936e8dd111a768ea135dd0ce178d16c9e54a04c72f94c155cb55e437?mediaType=png)|101,620||18+|united states|
+|Gambit Strategies: Hickenlooper for Colorado|499.00 USD|[9](https://www.snap.com/political-ads/asset/846c0ed15c237a0d1920f91cc5938dfaf2c7dec0524a3f4a085e2bfd43a2c540?mediaType=png)|92,943||18+|united states|
+|Gambit Strategies|1,770.00 USD|[10](https://www.snap.com/political-ads/asset/a9edf168f3e7cf503b93e9f8773ba416fe6e9f19a42ff69c8a0ad893ef165714?mediaType=mp4)|89,391||18+|united states|
+|Gambit Strategies|701.00 USD|[11](https://www.snap.com/political-ads/asset/e4643e2255b166feea6eda101fdc21a41c388456895d9c8109fb4b6ccd36d177?mediaType=png)|87,826||18+|united states|
+|Gambit Strategies|2,098.00 USD|[12](https://www.snap.com/political-ads/asset/a6dbf4dad357fa4fef3c13231652924c9659fe0ec88ec605ecf1541145d8dd93?mediaType=mp4)|85,489||18+|united states|
+|Gambit Strategies: Hickenlooper for Colorado|1,061.00 USD|[13](https://www.snap.com/political-ads/asset/ea8aa65e668abfc0eda9076765734ef8a154d7423c1d948d57ab553875f85001?mediaType=mp4)|79,997||18+|united states|
+|Gambit Strategies|730.00 USD|[14](https://www.snap.com/political-ads/asset/192b556a0253a9cc017e57ac3634c1d4494a401ad242894b7cf8abef41d16ef3?mediaType=png)|71,849||18+|united states|
+|Gambit Strategies|585.00 USD|[15](https://www.snap.com/political-ads/asset/aed80513586bff8f31d009f24cc6750bf28b202f8d6ec6d46c64ce8db52470db?mediaType=png)|69,777||18+|united states|
+|Gambit Strategies|665.00 USD|[16](https://www.snap.com/political-ads/asset/5c149a57f5b54f83485b0a2781e19b335c2a13b241083bb2416819ff6d676aa6?mediaType=png)|64,362||18+|united states|
+|Gambit Strategies: Hickenlooper for Colorado|1,001.00 USD|[17](https://www.snap.com/political-ads/asset/97fefb3df5f82094b5e2b6662fa24429a6bab2c002fecd65daf1ee9565974112?mediaType=mp4)|60,301||18+|united states|
+|Gambit Strategies: Hickenlooper for Colorado|1,108.00 USD|[18](https://www.snap.com/political-ads/asset/5966249e525743ca1f6149253c13851c23768b2ac9dfb18372b01243258e0183?mediaType=png)|51,941||18+|united states|
 |Gambit Strategies: Hickenlooper for Colorado|657.00 USD|[19](https://www.snap.com/political-ads/asset/95aff3be073882518a2975ab8410bcc900757ebad6d719b488ead00a958712e7?mediaType=png)|47,080||18+|united states|
 |Gambit Strategies|387.00 USD|[20](https://www.snap.com/political-ads/asset/5c149a57f5b54f83485b0a2781e19b335c2a13b241083bb2416819ff6d676aa6?mediaType=png)|44,107||18+|united states|
 |Gambit Strategies|912.00 USD|[21](https://www.snap.com/political-ads/asset/2e417a55f7522c118e972b1a151333e0dc8b561bb5041423a0c7089664f9b018?mediaType=mp4)|42,603||18+|united states|

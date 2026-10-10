@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,466.00 EUR|315,839,325||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,488.00 EUR|315,847,291||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -206,7 +206,7 @@
 |[United Association](United_Association.md) - Powers Interactive Digital: Elissa Slotkin Senator of Michigan, Jacky Rosen Senator of Nevada, Kamala Harris for President, Sherrod Brown Senator of Ohio|9,950.00 USD|1,294,984||18+|united states|
 |[Bold Alliance Inc](Bold_Alliance_Inc.md) - BCom Solutions: Go Vote Today|4,595.00 USD|1,279,544||18+|united states|
 |[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|17,998.00 CAD|1,277,159||18-24|canada|
-|[A New Generation](A_New_Generation.md) - A New Generation|9,294.00 USD|1,248,059|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|9,312.00 USD|1,250,146|FEMALE|30-|united states|
 |[National Nurses United](National_Nurses_United.md) - Middle Seat Consulting  LLC: National Nurses United for Patient Protection PAC|37,178.00 USD|1,247,134||18+|united states|
 |[Amnesty International](Amnesty_International.md) - Jellyfish France|10,367.00 EUR|1,244,471||18+|france|
 |[Green Party](Green_Party.md) - Green Party / Comhaontas Glas|2,705.00 EUR|1,244,457||18+|ireland|
