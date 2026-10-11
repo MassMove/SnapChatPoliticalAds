@@ -1,10 +1,10 @@
 ## 2026 - Kirkman for Iowa 
-**Spent**: 96.00
+**Spent**: 110.00
 
-**Impressions**: 19,973
+**Impressions**: 22,757
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Kirkman for Iowa: Jennifer Kirkman Iowa House District 99|96.00 USD|[0](https://www.snap.com/political-ads/asset/a71bc12caf6c222b4c695bb83e275312d66c22f1cc38dce71a90d6951b4e538c?mediaType=mp4)|19,973||18+|united states|
+|Kirkman for Iowa: Jennifer Kirkman Iowa House District 99|110.00 USD|[0](https://www.snap.com/political-ads/asset/a71bc12caf6c222b4c695bb83e275312d66c22f1cc38dce71a90d6951b4e538c?mediaType=mp4)|22,757||18+|united states|
