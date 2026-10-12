@@ -1,12 +1,12 @@
 ## 2026 - Brian Fitzpatrick for All of Us 
-**Spent**: 2,380.00
+**Spent**: 2,459.00
 
-**Impressions**: 369,147
+**Impressions**: 384,323
 
 **Billing Addresses**: 2311 Wilson Blvd fl 2,Arlington,22201,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Targeted Victory  LLC: Brian Fitzpatrick for All of Us|1,933.00 USD|[0](https://www.snap.com/political-ads/asset/d4f40db7300d00ec11ace0cdf1384c46fe5d97bed1304b9e998e1be44042db52?mediaType=mp4)|301,814||18+|united states|
-|Targeted Victory  LLC: Brian Fitzpatrick for All of Us|255.00 USD|[1](https://www.snap.com/political-ads/asset/d4f40db7300d00ec11ace0cdf1384c46fe5d97bed1304b9e998e1be44042db52?mediaType=mp4)|38,568||18+|united states|
-|Targeted Victory  LLC: Brian Fitzpatrick for All of Us|192.00 USD|[2](https://www.snap.com/political-ads/asset/d4f40db7300d00ec11ace0cdf1384c46fe5d97bed1304b9e998e1be44042db52?mediaType=mp4)|28,765||18+|united states|
+|Targeted Victory  LLC: Brian Fitzpatrick for All of Us|2,004.00 USD|[0](https://www.snap.com/political-ads/asset/d4f40db7300d00ec11ace0cdf1384c46fe5d97bed1304b9e998e1be44042db52?mediaType=mp4)|315,585||18+|united states|
+|Targeted Victory  LLC: Brian Fitzpatrick for All of Us|259.00 USD|[1](https://www.snap.com/political-ads/asset/d4f40db7300d00ec11ace0cdf1384c46fe5d97bed1304b9e998e1be44042db52?mediaType=mp4)|39,245||18+|united states|
+|Targeted Victory  LLC: Brian Fitzpatrick for All of Us|196.00 USD|[2](https://www.snap.com/political-ads/asset/d4f40db7300d00ec11ace0cdf1384c46fe5d97bed1304b9e998e1be44042db52?mediaType=mp4)|29,493||18+|united states|

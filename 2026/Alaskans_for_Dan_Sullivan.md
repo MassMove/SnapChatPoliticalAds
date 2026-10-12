@@ -1,7 +1,7 @@
 ## 2026 - Alaskans for Dan Sullivan 
-**Spent**: 15,296.00
+**Spent**: 15,582.00
 
-**Impressions**: 1,085,657
+**Impressions**: 1,097,546
 
 **Billing Addresses**: 1780 Sequoia Vista Cir,Salt Lake City,84104,US
 
@@ -11,10 +11,10 @@
 |Arena Online|1,107.00 USD|[1](https://www.snap.com/political-ads/asset/0690817963f387a4b9e48564039a905f1f2e56aff60cb89efab6ab4f2cd9a01a?mediaType=png)|127,836||18+|united states|
 |Arena Online|486.00 USD|[2](https://www.snap.com/political-ads/asset/79334d7be347cd02e8a1a8c87f3a80958d1ca6e5287d8c3eddd295fe3cee604e?mediaType=png)|80,335||18+|united states|
 |Arena Online|606.00 USD|[3](https://www.snap.com/political-ads/asset/19a708532301ed159e65c0743fa1bc2decc45860b4e5561ae5adf258f072149e?mediaType=png)|73,855||18+|united states|
-|Arena Online|219.00 USD|[4](https://www.snap.com/political-ads/asset/faa34fb0c01bc87751e5831c123d7016ee0110a94f0b8a317e5beb7ea2ec1f62?mediaType=png)|36,368||18+|united states|
-|Arena Online: Dan Sullivan|861.00 USD|[5](https://www.snap.com/political-ads/asset/ede5717164ad15682191b014898e7b2a00acd4943d40d0a304a2be7ce7e61221?mediaType=mp4)|30,623||30+|united states|
-|Arena Online: Dan Sullivan|316.00 USD|[6](https://www.snap.com/political-ads/asset/b38ae894186fc201aae90d25e10eca8fa3a8f5cb5e5247e5a947d5d428712eed?mediaType=mp4)|26,664||18+|united states|
-|Arena Online|665.00 USD|[7](https://www.snap.com/political-ads/asset/b38ae894186fc201aae90d25e10eca8fa3a8f5cb5e5247e5a947d5d428712eed?mediaType=mp4)|25,944||30+|united states|
+|Arena Online|951.00 USD|[4](https://www.snap.com/political-ads/asset/b38ae894186fc201aae90d25e10eca8fa3a8f5cb5e5247e5a947d5d428712eed?mediaType=mp4)|37,833||30+|united states|
+|Arena Online|219.00 USD|[5](https://www.snap.com/political-ads/asset/faa34fb0c01bc87751e5831c123d7016ee0110a94f0b8a317e5beb7ea2ec1f62?mediaType=png)|36,368||18+|united states|
+|Arena Online: Dan Sullivan|861.00 USD|[6](https://www.snap.com/political-ads/asset/ede5717164ad15682191b014898e7b2a00acd4943d40d0a304a2be7ce7e61221?mediaType=mp4)|30,623||30+|united states|
+|Arena Online: Dan Sullivan|316.00 USD|[7](https://www.snap.com/political-ads/asset/b38ae894186fc201aae90d25e10eca8fa3a8f5cb5e5247e5a947d5d428712eed?mediaType=mp4)|26,664||18+|united states|
 |Arena Online: Dan Sullivan|532.00 USD|[8](https://www.snap.com/political-ads/asset/b1672dd8d83fefec06597053ed8cddf6006ec2cd51d6eda0ac148f3bd51e3ba1?mediaType=mp4)|22,740||30+|united states|
 |Arena Online: Dan Sullivan|520.00 USD|[9](https://www.snap.com/political-ads/asset/813320aebcfdd200d9b2af5eb66c25a46cf3e6540727478f0fcc6589f0173f5a?mediaType=mp4)|19,003||30+|united states|
 |Arena Online|113.00 USD|[10](https://www.snap.com/political-ads/asset/62ac94c87db2b49fe7675676ae5aa573e4c66445ea8798c503b76629f007cb6f?mediaType=png)|18,899||18+|united states|
