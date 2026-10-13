@@ -1,11 +1,11 @@
 ## 2026 - Marshall Pregnancy Center 
-**Spent**: 2,563.00
+**Spent**: 2,572.00
 
-**Impressions**: 206,542
+**Impressions**: 207,035
 
 **Billing Addresses**: 4509 Kings Lake Court,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|2,541.00 USD|[0](https://www.snap.com/political-ads/asset/c2040ab0e5594a92bc47eb8ddb5b044863e509fd0e2c4928bf68e6cb315424fc?mediaType=mp4)|204,173|FEMALE|18-38|united states|
+|Stories Marketing|2,550.00 USD|[0](https://www.snap.com/political-ads/asset/c2040ab0e5594a92bc47eb8ddb5b044863e509fd0e2c4928bf68e6cb315424fc?mediaType=mp4)|204,666|FEMALE|18-38|united states|
 |Stories Marketing|22.00 USD|[1](https://www.snap.com/political-ads/asset/c2040ab0e5594a92bc47eb8ddb5b044863e509fd0e2c4928bf68e6cb315424fc?mediaType=mp4)|2,369|FEMALE|18-38|united states|

@@ -1,36 +1,36 @@
 ## 2026 - Paid for by Move WV Forward PAC 
-**Spent**: 1,459.00
+**Spent**: 1,659.00
 
-**Impressions**: 119,546
+**Impressions**: 134,622
 
 **Billing Addresses**: 31 West Main Street,Wickford,02852,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Recrue Media  LLC: David McCormick|389.00 USD|[0](https://www.snap.com/political-ads/asset/ac83eb3468d0ee2c1beaf4bfde8d1be8b89538252435e0b793d909866e4d399a?mediaType=mp4)|36,110||18+|united states|
-|Recrue Media  LLC: Mike Oliverio|150.00 USD|[1](https://www.snap.com/political-ads/asset/e12bd0ef816bb52c544de9b2dcae1a852e217d37b0821d31c8238b0c5201ea31?mediaType=mp4)|12,268||18+|united states|
-|Recrue Media  LLC: Mike Oliverio|82.00 USD|[2](https://www.snap.com/political-ads/asset/e12bd0ef816bb52c544de9b2dcae1a852e217d37b0821d31c8238b0c5201ea31?mediaType=mp4)|6,948||18+|united states|
-|Recrue Media  LLC: Patrick Lucas|70.00 USD|[3](https://www.snap.com/political-ads/asset/ef091dac0913bb1492f37d4652da5c271d98f5878e6b2a1b4f9f74875c99d1f2?mediaType=mp4)|6,262||18+|united states|
-|Recrue Media  LLC: JB Akers|55.00 USD|[4](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|5,205||18+|united states|
-|Recrue Media  LLC: Patrick Lucas|51.00 USD|[5](https://www.snap.com/political-ads/asset/ef091dac0913bb1492f37d4652da5c271d98f5878e6b2a1b4f9f74875c99d1f2?mediaType=mp4)|4,751||18+|united states|
-|Recrue Media  LLC: Mike Oliverio|55.00 USD|[6](https://www.snap.com/political-ads/asset/99b1855b23894d999a3ac6bba7f982e3450836279b0d7bdfe69fde3674d35aac?mediaType=mp4)|4,726||18+|united states|
-|Recrue Media  LLC: David McCormick|60.00 USD|[7](https://www.snap.com/political-ads/asset/e8e082901300827149486861e124c373e01899f040b2f3bc5694475b857bb83f?mediaType=png)|4,582||18+|united states|
-|Recrue Media  LLC: Mike Oliverio|78.00 USD|[8](https://www.snap.com/political-ads/asset/1cfb94aa6471c64bf45718e30650b5ef116a558b18a9ced1a28f1ddee4f1a129?mediaType=png)|4,164||18+|united states|
-|Recrue Media  LLC: David McCormick|54.00 USD|[9](https://www.snap.com/political-ads/asset/a5dd15be9d6251a11783eacbc47bd9f2e5975349de97fe596587c4e1f733961e?mediaType=png)|3,822||18+|united states|
-|Recrue Media  LLC: JB Akers|37.00 USD|[10](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|3,569||18+|united states|
-|Recrue Media  LLC: David McCormick|35.00 USD|[11](https://www.snap.com/political-ads/asset/ac83eb3468d0ee2c1beaf4bfde8d1be8b89538252435e0b793d909866e4d399a?mediaType=mp4)|3,271||18+|united states|
-|Recrue Media  LLC: Tim McNeely|37.00 USD|[12](https://www.snap.com/political-ads/asset/7fd73fee55c4141ba9c60d468996096ca5de8d76cea019b4c5f50e4a6ed03135?mediaType=mp4)|2,731||18+|united states|
-|Recrue Media  LLC: Mike Oliverio|27.00 USD|[13](https://www.snap.com/political-ads/asset/99b1855b23894d999a3ac6bba7f982e3450836279b0d7bdfe69fde3674d35aac?mediaType=mp4)|2,571||18+|united states|
-|Recrue Media  LLC: Tim McNeely|33.00 USD|[14](https://www.snap.com/political-ads/asset/7fd73fee55c4141ba9c60d468996096ca5de8d76cea019b4c5f50e4a6ed03135?mediaType=mp4)|2,431||18+|united states|
-|Recrue Media  LLC: Mike Oliverio|37.00 USD|[15](https://www.snap.com/political-ads/asset/1cfb94aa6471c64bf45718e30650b5ef116a558b18a9ced1a28f1ddee4f1a129?mediaType=png)|2,117||18+|united states|
-|Recrue Media  LLC: Patrick Lucas|31.00 USD|[16](https://www.snap.com/political-ads/asset/de7ede7f70da3b9c2c27f90949931406425af40fdb3682de8d183ca602f0dd57?mediaType=png)|2,003||18+|united states|
-|Recrue Media  LLC: David McCormick|27.00 USD|[17](https://www.snap.com/political-ads/asset/a2146427c06f20c2244c952a49a1c32f387cc0fa5c67c9b5f662192b5dac108c?mediaType=png)|1,970||18+|united states|
-|Recrue Media  LLC: Patrick Lucas|25.00 USD|[18](https://www.snap.com/political-ads/asset/de7ede7f70da3b9c2c27f90949931406425af40fdb3682de8d183ca602f0dd57?mediaType=png)|1,750||18+|united states|
-|Recrue Media  LLC: JB Akers|24.00 USD|[19](https://www.snap.com/political-ads/asset/e7f7a958d3939c3deaadb5314202ed0cde7ef41052800a758aaec6db18e2e369?mediaType=png)|1,714||18+|united states|
-|Recrue Media  LLC: JB Akers|19.00 USD|[20](https://www.snap.com/political-ads/asset/e7f7a958d3939c3deaadb5314202ed0cde7ef41052800a758aaec6db18e2e369?mediaType=png)|1,331||18+|united states|
-|Recrue Media  LLC: Tim McNeely|24.00 USD|[21](https://www.snap.com/political-ads/asset/f7e48198e7d47805d81b4408fad276d55712824f5f72547c8d3526ad99244c81?mediaType=png)|1,315||18+|united states|
-|Recrue Media  LLC: Tim McNeely|24.00 USD|[22](https://www.snap.com/political-ads/asset/f7e48198e7d47805d81b4408fad276d55712824f5f72547c8d3526ad99244c81?mediaType=png)|1,253||18+|united states|
-|Recrue Media  LLC: David McCormick|13.00 USD|[23](https://www.snap.com/political-ads/asset/e8e082901300827149486861e124c373e01899f040b2f3bc5694475b857bb83f?mediaType=png)|1,006||18+|united states|
-|Recrue Media  LLC: David McCormick|12.00 USD|[24](https://www.snap.com/political-ads/asset/a5dd15be9d6251a11783eacbc47bd9f2e5975349de97fe596587c4e1f733961e?mediaType=png)|940||18+|united states|
-|Recrue Media  LLC: David McCormick|7.00 USD|[25](https://www.snap.com/political-ads/asset/a2146427c06f20c2244c952a49a1c32f387cc0fa5c67c9b5f662192b5dac108c?mediaType=png)|459||18+|united states|
-|Recrue Media  LLC: JB Akers|3.00 USD|[26](https://www.snap.com/political-ads/asset/e7f7a958d3939c3deaadb5314202ed0cde7ef41052800a758aaec6db18e2e369?mediaType=png)|277||18+|united states|
+|Recrue Media  LLC: David McCormick|421.00 USD|[0](https://www.snap.com/political-ads/asset/ac83eb3468d0ee2c1beaf4bfde8d1be8b89538252435e0b793d909866e4d399a?mediaType=mp4)|38,745||18+|united states|
+|Recrue Media  LLC: Mike Oliverio|164.00 USD|[1](https://www.snap.com/political-ads/asset/e12bd0ef816bb52c544de9b2dcae1a852e217d37b0821d31c8238b0c5201ea31?mediaType=mp4)|13,215||18+|united states|
+|Recrue Media  LLC: Mike Oliverio|99.00 USD|[2](https://www.snap.com/political-ads/asset/e12bd0ef816bb52c544de9b2dcae1a852e217d37b0821d31c8238b0c5201ea31?mediaType=mp4)|8,121||18+|united states|
+|Recrue Media  LLC: Patrick Lucas|83.00 USD|[3](https://www.snap.com/political-ads/asset/ef091dac0913bb1492f37d4652da5c271d98f5878e6b2a1b4f9f74875c99d1f2?mediaType=mp4)|7,386||18+|united states|
+|Recrue Media  LLC: JB Akers|68.00 USD|[4](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|6,357||18+|united states|
+|Recrue Media  LLC: Patrick Lucas|61.00 USD|[5](https://www.snap.com/political-ads/asset/ef091dac0913bb1492f37d4652da5c271d98f5878e6b2a1b4f9f74875c99d1f2?mediaType=mp4)|5,668||18+|united states|
+|Recrue Media  LLC: David McCormick|67.00 USD|[6](https://www.snap.com/political-ads/asset/e8e082901300827149486861e124c373e01899f040b2f3bc5694475b857bb83f?mediaType=png)|5,110||18+|united states|
+|Recrue Media  LLC: Mike Oliverio|57.00 USD|[7](https://www.snap.com/political-ads/asset/99b1855b23894d999a3ac6bba7f982e3450836279b0d7bdfe69fde3674d35aac?mediaType=mp4)|4,952||18+|united states|
+|Recrue Media  LLC: Mike Oliverio|84.00 USD|[8](https://www.snap.com/political-ads/asset/1cfb94aa6471c64bf45718e30650b5ef116a558b18a9ced1a28f1ddee4f1a129?mediaType=png)|4,470||18+|united states|
+|Recrue Media  LLC: JB Akers|44.00 USD|[9](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|4,246||18+|united states|
+|Recrue Media  LLC: David McCormick|59.00 USD|[10](https://www.snap.com/political-ads/asset/a5dd15be9d6251a11783eacbc47bd9f2e5975349de97fe596587c4e1f733961e?mediaType=png)|4,176||18+|united states|
+|Recrue Media  LLC: David McCormick|41.00 USD|[11](https://www.snap.com/political-ads/asset/ac83eb3468d0ee2c1beaf4bfde8d1be8b89538252435e0b793d909866e4d399a?mediaType=mp4)|3,813||18+|united states|
+|Recrue Media  LLC: Tim McNeely|44.00 USD|[12](https://www.snap.com/political-ads/asset/7fd73fee55c4141ba9c60d468996096ca5de8d76cea019b4c5f50e4a6ed03135?mediaType=mp4)|3,241||18+|united states|
+|Recrue Media  LLC: Tim McNeely|40.00 USD|[13](https://www.snap.com/political-ads/asset/7fd73fee55c4141ba9c60d468996096ca5de8d76cea019b4c5f50e4a6ed03135?mediaType=mp4)|3,001||18+|united states|
+|Recrue Media  LLC: Mike Oliverio|30.00 USD|[14](https://www.snap.com/political-ads/asset/99b1855b23894d999a3ac6bba7f982e3450836279b0d7bdfe69fde3674d35aac?mediaType=mp4)|2,852||18+|united states|
+|Recrue Media  LLC: Mike Oliverio|45.00 USD|[15](https://www.snap.com/political-ads/asset/1cfb94aa6471c64bf45718e30650b5ef116a558b18a9ced1a28f1ddee4f1a129?mediaType=png)|2,614||18+|united states|
+|Recrue Media  LLC: Patrick Lucas|37.00 USD|[16](https://www.snap.com/political-ads/asset/de7ede7f70da3b9c2c27f90949931406425af40fdb3682de8d183ca602f0dd57?mediaType=png)|2,347||18+|united states|
+|Recrue Media  LLC: Patrick Lucas|30.00 USD|[17](https://www.snap.com/political-ads/asset/de7ede7f70da3b9c2c27f90949931406425af40fdb3682de8d183ca602f0dd57?mediaType=png)|2,166||18+|united states|
+|Recrue Media  LLC: David McCormick|30.00 USD|[18](https://www.snap.com/political-ads/asset/a2146427c06f20c2244c952a49a1c32f387cc0fa5c67c9b5f662192b5dac108c?mediaType=png)|2,101||18+|united states|
+|Recrue Media  LLC: JB Akers|30.00 USD|[19](https://www.snap.com/political-ads/asset/e7f7a958d3939c3deaadb5314202ed0cde7ef41052800a758aaec6db18e2e369?mediaType=png)|2,075||18+|united states|
+|Recrue Media  LLC: Tim McNeely|31.00 USD|[20](https://www.snap.com/political-ads/asset/f7e48198e7d47805d81b4408fad276d55712824f5f72547c8d3526ad99244c81?mediaType=png)|1,680||18+|united states|
+|Recrue Media  LLC: JB Akers|23.00 USD|[21](https://www.snap.com/political-ads/asset/e7f7a958d3939c3deaadb5314202ed0cde7ef41052800a758aaec6db18e2e369?mediaType=png)|1,543||18+|united states|
+|Recrue Media  LLC: Tim McNeely|29.00 USD|[22](https://www.snap.com/political-ads/asset/f7e48198e7d47805d81b4408fad276d55712824f5f72547c8d3526ad99244c81?mediaType=png)|1,509||18+|united states|
+|Recrue Media  LLC: David McCormick|16.00 USD|[23](https://www.snap.com/political-ads/asset/e8e082901300827149486861e124c373e01899f040b2f3bc5694475b857bb83f?mediaType=png)|1,262||18+|united states|
+|Recrue Media  LLC: David McCormick|15.00 USD|[24](https://www.snap.com/political-ads/asset/a5dd15be9d6251a11783eacbc47bd9f2e5975349de97fe596587c4e1f733961e?mediaType=png)|1,140||18+|united states|
+|Recrue Media  LLC: David McCormick|8.00 USD|[25](https://www.snap.com/political-ads/asset/a2146427c06f20c2244c952a49a1c32f387cc0fa5c67c9b5f662192b5dac108c?mediaType=png)|524||18+|united states|
+|Recrue Media  LLC: JB Akers|3.00 USD|[26](https://www.snap.com/political-ads/asset/e7f7a958d3939c3deaadb5314202ed0cde7ef41052800a758aaec6db18e2e369?mediaType=png)|308||18+|united states|
