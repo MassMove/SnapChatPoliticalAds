@@ -1,7 +1,7 @@
 ## 2026 - Muslim Aid 
-**Spent**: 6,022.00
+**Spent**: 6,029.00
 
-**Impressions**: 1,361,903
+**Impressions**: 1,363,120
 
 **Billing Addresses**: 84 Kingsley Road,Hounslow,TW3 1QA,GB
 
@@ -29,7 +29,7 @@
 |Your Online Conversation|82.00 GBP|[19](https://www.snap.com/political-ads/asset/137d42e85009ed2ddadea5b14a35cf023f1c3e05027b3809a64f8c0ade1777c3?mediaType=mp4)|15,845||25+|united kingdom|
 |Your Online Conversation|86.00 GBP|[20](https://www.snap.com/political-ads/asset/e7af6e66a37e8171c386332b8918855f8191e09f9e95412215804c4f4e163744?mediaType=mp4)|15,580||21+|united kingdom|
 |Your Online Conversation|95.00 GBP|[21](https://www.snap.com/political-ads/asset/e7af6e66a37e8171c386332b8918855f8191e09f9e95412215804c4f4e163744?mediaType=mp4)|14,454||21+|united kingdom|
-|Your Online Conversation|58.00 GBP|[22](https://www.snap.com/political-ads/asset/51c58c89f617386daa53c9adf6aab46131ca7d945123c4eae2e00d3f49e8b193?mediaType=mp4)|12,743||21+|united kingdom|
+|Your Online Conversation|65.00 GBP|[22](https://www.snap.com/political-ads/asset/51c58c89f617386daa53c9adf6aab46131ca7d945123c4eae2e00d3f49e8b193?mediaType=mp4)|13,960||21+|united kingdom|
 |Your Online Conversation|40.00 GBP|[23](https://www.snap.com/political-ads/asset/e5cd27b7811c8302b30fda4dbbe0098605dfe6e04e5993c07fe32db7addca228?mediaType=mp4)|12,504||21+|united kingdom|
 |Your Online Conversation|67.00 GBP|[24](https://www.snap.com/political-ads/asset/43b5662b5fe74bf982bdf5ae0e2d2b6737f1c9fdb6d203cf200a0e27ad75c197?mediaType=mp4)|11,352||21+|united kingdom|
 |Your Online Conversation|78.00 GBP|[25](https://www.snap.com/political-ads/asset/53ad3f471ecf8661f8b5c8f1996e9ad83f239e0d1ae1f6a761600213ba09c1eb?mediaType=mp4)|11,241||21+|united kingdom|

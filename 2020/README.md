@@ -7,7 +7,7 @@
 |[Mike Bloomberg 2020, Inc.](Mike_Bloomberg_2020,_Inc..md) - Hawkfish LLC: Mike Bloomberg 2020 Inc|1,037,149.00 USD|261,986,265||18-34, 24-38|united states|
 |[Voter Participation Center](Voter_Participation_Center.md) - C+K: Voter Registration|990,543.00 USD|226,558,151|FEMALE|18+, 18-40, 18-45|united states|
 |[California Secretary of State](California_Secretary_of_State.md) - Assembly: California Secretary of State|486,434.00 USD|164,066,878||18+|united states|
-|[ACRONYM](ACRONYM.md) - ACRONYM|935,081.00 USD|133,714,937|FEMALE|18+, 18-34, 18-35|united states|
+|[ACRONYM](ACRONYM.md) - ACRONYM|935,164.00 USD|133,729,086|FEMALE|18+, 18-34, 18-35|united states|
 |[Planned Parenthood](Planned_Parenthood.md) - R/GA|204,116.00 USD|129,357,823|FEMALE|17-, 18+, 18-24, 18-28, 18-34, 18-35, 35-|united states|
 |[Old Navy](Old_Navy.md) - PMG Worldwide  LLC|91,008.00 USD|127,832,019||18+|united states|
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i: Fossil Fuels, REFUGEE ACTION, Renewable Energy, Support HEROES Act|498,454.00 AUD, GBP, USD|117,573,289||18+, 18-34, 18-35, 18-40|australia, united kingdom, united states|
