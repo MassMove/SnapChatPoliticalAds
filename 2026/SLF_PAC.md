@@ -1,7 +1,7 @@
 ## 2026 - SLF PAC 
-**Spent**: 114,909.00
+**Spent**: 115,027.00
 
-**Impressions**: 14,875,018
+**Impressions**: 14,881,479
 
 **Billing Addresses**: US
 
@@ -59,12 +59,12 @@
 |FlexPoint Media Inc|1,520.00 USD|[49](https://www.snap.com/political-ads/asset/96ca77d4f79a7920dc1cdc34d080845c117b35c2815b9bab662434c1a40a8a4a?mediaType=mp4)|30,577||25+|united states|
 |FlexPoint Media Inc|1,469.00 USD|[50](https://www.snap.com/political-ads/asset/e62c9c8a0824cc2acbb358f75ceb5c7e42495289481b4d42e2c84a240bb679a4?mediaType=mp4)|29,981||25+|united states|
 |Majority Strategies: SLF PAC|146.00 USD|[51](https://www.snap.com/political-ads/asset/3b619009714e510a1a6a4e8f6f0a793167d4b1d977b53604f5836be01a594da2?mediaType=mp4)|27,197|MALE|25+|united states|
-|Majority Strategies: SLF PAC|206.00 USD|[52](https://www.snap.com/political-ads/asset/2b1dd5a44b3662676566eb8c9978892b64c2d20a43ff8f96bac6d80e1fe9f8df?mediaType=mp4)|24,251|MALE|25+|united states|
-|FlexPoint Media Inc|424.00 USD|[53](https://www.snap.com/political-ads/asset/cf098dcb5cb6b2b2760f7f034cb1a99a4103add089a0e16ee597f25e7f1ed80c?mediaType=mp4)|22,982||25+|united states|
-|FlexPoint Media Inc|414.00 USD|[54](https://www.snap.com/political-ads/asset/e112422677ab40e4fda23121dbcba2903e1a819617b6367409e939bf8513381e?mediaType=mp4)|22,488||25+|united states|
-|Majority Strategies: SLF PAC|73.00 USD|[55](https://www.snap.com/political-ads/asset/ba3d2e3a7b93c281548c3f9a41f6dbbbc499755fee9aa2f0a87eb45cd4df166e?mediaType=mp4)|12,722|MALE|25+|united states|
-|FlexPoint Media Inc|217.00 USD|[56](https://www.snap.com/political-ads/asset/3a3d9bba07a39572f7a0cafdba4c71a63398abebd8835b10c1a345ea7d6634c7?mediaType=mp4)|11,612||25+|united states|
-|FlexPoint Media Inc|186.00 USD|[57](https://www.snap.com/political-ads/asset/e7b78aaf24ee085312f7cd46a24b947b6e00eba56b8eb765eb25e56a495f91ed?mediaType=mp4)|10,063||25+|united states|
+|FlexPoint Media Inc|453.00 USD|[52](https://www.snap.com/political-ads/asset/cf098dcb5cb6b2b2760f7f034cb1a99a4103add089a0e16ee597f25e7f1ed80c?mediaType=mp4)|24,538||25+|united states|
+|Majority Strategies: SLF PAC|206.00 USD|[53](https://www.snap.com/political-ads/asset/2b1dd5a44b3662676566eb8c9978892b64c2d20a43ff8f96bac6d80e1fe9f8df?mediaType=mp4)|24,251|MALE|25+|united states|
+|FlexPoint Media Inc|445.00 USD|[54](https://www.snap.com/political-ads/asset/e112422677ab40e4fda23121dbcba2903e1a819617b6367409e939bf8513381e?mediaType=mp4)|24,194||25+|united states|
+|FlexPoint Media Inc|246.00 USD|[55](https://www.snap.com/political-ads/asset/3a3d9bba07a39572f7a0cafdba4c71a63398abebd8835b10c1a345ea7d6634c7?mediaType=mp4)|13,221||25+|united states|
+|Majority Strategies: SLF PAC|73.00 USD|[56](https://www.snap.com/political-ads/asset/ba3d2e3a7b93c281548c3f9a41f6dbbbc499755fee9aa2f0a87eb45cd4df166e?mediaType=mp4)|12,722|MALE|25+|united states|
+|FlexPoint Media Inc|215.00 USD|[57](https://www.snap.com/political-ads/asset/e7b78aaf24ee085312f7cd46a24b947b6e00eba56b8eb765eb25e56a495f91ed?mediaType=mp4)|11,653||25+|united states|
 |FlexPoint Media Inc|163.00 USD|[58](https://www.snap.com/political-ads/asset/3ef3087513db3d4c5d57487803bb591cdbe637b2eb4a0eeca17b76c1148be8d5?mediaType=mp4)|9,212||25+|united states|
 |Majority Strategies: SLF PAC|53.00 USD|[59](https://www.snap.com/political-ads/asset/ba3d2e3a7b93c281548c3f9a41f6dbbbc499755fee9aa2f0a87eb45cd4df166e?mediaType=mp4)|9,189|MALE|25+|united states|
 |Majority Strategies: The Iowa Voice News|76.00 USD|[60](https://www.snap.com/political-ads/asset/f9666f71e83684ebff84a9cbc32734f4ca78e0f7fc98237ba3ad0509c32463e9?mediaType=mp4)|9,031|MALE|25+|united states|

@@ -1,14 +1,14 @@
 ## 2026 - Hector Gomez for State House 
-**Spent**: 138.00
+**Spent**: 145.00
 
-**Impressions**: 19,953
+**Impressions**: 21,193
 
 **Billing Addresses**: 505 E Oraibi Drive,Phoenix,85024,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Flygon LC: Hector Gomez|55.00 USD|[0](https://www.snap.com/political-ads/asset/d677982a4570331a71899a685396403d1e956948d1d07cba4c4ac028101c5e3f?mediaType=png)|7,747||18+|united states|
-|Flygon LC: Hector Gomez|35.00 USD|[1](https://www.snap.com/political-ads/asset/88a0945a688acf5c717907634f379003c772034349cf03e75c8b4a900245cc79?mediaType=png)|5,033||18+|united states|
-|Flygon LC: Hector Gomez|27.00 USD|[2](https://www.snap.com/political-ads/asset/80360a97c3dd3b26ccb976093abb266d277d828a99a8f3cee30e180169401257?mediaType=png)|4,092||18+|united states|
-|Flygon LC: Hector Gomez|15.00 USD|[3](https://www.snap.com/political-ads/asset/32095529547dfbd36a662e9e5ad634f13f5d5f26d8ae474a086f1e9ea773b147?mediaType=png)|2,200||18+|united states|
-|Flygon LC: Hector Gomez|6.00 USD|[4](https://www.snap.com/political-ads/asset/80360a97c3dd3b26ccb976093abb266d277d828a99a8f3cee30e180169401257?mediaType=png)|881||18+|united states|
+|Flygon LC: Hector Gomez|58.00 USD|[0](https://www.snap.com/political-ads/asset/d677982a4570331a71899a685396403d1e956948d1d07cba4c4ac028101c5e3f?mediaType=png)|8,221||18+|united states|
+|Flygon LC: Hector Gomez|36.00 USD|[1](https://www.snap.com/political-ads/asset/88a0945a688acf5c717907634f379003c772034349cf03e75c8b4a900245cc79?mediaType=png)|5,233||18+|united states|
+|Flygon LC: Hector Gomez|30.00 USD|[2](https://www.snap.com/political-ads/asset/80360a97c3dd3b26ccb976093abb266d277d828a99a8f3cee30e180169401257?mediaType=png)|4,552||18+|united states|
+|Flygon LC: Hector Gomez|15.00 USD|[3](https://www.snap.com/political-ads/asset/32095529547dfbd36a662e9e5ad634f13f5d5f26d8ae474a086f1e9ea773b147?mediaType=png)|2,278||18+|united states|
+|Flygon LC: Hector Gomez|6.00 USD|[4](https://www.snap.com/political-ads/asset/80360a97c3dd3b26ccb976093abb266d277d828a99a8f3cee30e180169401257?mediaType=png)|909||18+|united states|
