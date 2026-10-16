@@ -1,0 +1,17 @@
+## 2026 - Lower Costs Now 
+**Spent**: 1,501.00
+
+**Impressions**: 107,170
+
+**Billing Addresses**: 3050 K Street,Washington,20007,US
+
+|Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
+|:---|---:|:---|---:|:---|:---|:---|
+|GMMB  Inc: Lower Costs Now|261.00 USD|[0](https://www.snap.com/political-ads/asset/01d462443789e14ff40322eae539a5e37f385f40ee1409f3c0f5aea45de1076b?mediaType=mp4)|33,834||18+|united states|
+|GMMB  Inc: Lower Costs Now|326.00 USD|[1](https://www.snap.com/political-ads/asset/2c949d1aa94ee78723def7e28db7aff070fd79dbe3ad4999d39911ebe4c52816?mediaType=mp4)|20,160||18+|united states|
+|GMMB  Inc: Lower Costs Now|343.00 USD|[2](https://www.snap.com/political-ads/asset/a31f74f50073afab8b4b3dd6b33467dbfa769c3461cabb39cefff8ad5e95ff5a?mediaType=mp4)|19,138||18+|united states|
+|GMMB  Inc: Lower Costs Now|190.00 USD|[3](https://www.snap.com/political-ads/asset/6e06e175c9dffbb3819af3d93ebd7c1a0e17efe6bee003d5dd02961b233741c9?mediaType=mp4)|11,387||18+|united states|
+|GMMB  Inc: Lower Costs Now|151.00 USD|[4](https://www.snap.com/political-ads/asset/e1904f2e4957369885305b0f502f2aa48da97652c2f7c4bb1d39ffbb46899386?mediaType=mp4)|8,524||18+|united states|
+|GMMB  Inc: Lower Costs Now|100.00 USD|[5](https://www.snap.com/political-ads/asset/dfa46872bd8d2e44ce096d0d48cea618ad85581f1667e065d21238219f8f4c43?mediaType=mp4)|6,328||18+|united states|
+|GMMB  Inc: Lower Costs Now|91.00 USD|[6](https://www.snap.com/political-ads/asset/647dce9b97622acd1c4b7fba9bbbbcaa1fa7d3d5f4ae603d8c7eb3e26fb94325?mediaType=mp4)|5,346||18+|united states|
+|GMMB  Inc: Lower Costs Now|39.00 USD|[7](https://www.snap.com/political-ads/asset/4c700564c70eff246ccffd58715b618ad053d977102280360332c727c32be8da?mediaType=mp4)|2,453||18+|united states|

@@ -1,7 +1,7 @@
 ## 2026 - Human Appeal France 
 **Spent**: 16,932.00
 
-**Impressions**: 6,978,678
+**Impressions**: 6,978,699
 
 **Billing Addresses**: 72 rue d'hauteville,PARIS,75010,FR
 
@@ -27,5 +27,5 @@
 |ORIXA MEDIA: 8|135.00 EUR|[17](https://www.snap.com/political-ads/asset/1fc6a15f55f984beb5303215b382c66ebdd5454b485db5ffd86879180b507d80?mediaType=mp4)|80,968||18+|france|
 |ORIXA MEDIA: 8|120.00 EUR|[18](https://www.snap.com/political-ads/asset/75bdaa807fcc79c60ba0f454c5bf9c402e9a1d4eff82ae440bdd3393b79c6a4c?mediaType=mp4)|76,892||18+|france|
 |ORIXA MEDIA: 8|122.00 EUR|[19](https://www.snap.com/political-ads/asset/bf1a45331f100ef72737918033106c7340206366592b400439c5dfa3e5bcc769?mediaType=mp4)|65,860||18+|france|
-|ORIXA MEDIA|62.00 EUR|[20](https://www.snap.com/political-ads/asset/d739bb96c760aa1ad722b834b50943ee847276c21f825aeda3507549e7d8f30a?mediaType=mp4)|42,760||18+|france|
-|ORIXA MEDIA|50.00 EUR|[21](https://www.snap.com/political-ads/asset/c6ccc682f6e90a49a4b8fd7114fb2676985910ef9a456015d9a04a472117b8e7?mediaType=mp4)|24,926||18+|france|
+|ORIXA MEDIA|62.00 EUR|[20](https://www.snap.com/political-ads/asset/d739bb96c760aa1ad722b834b50943ee847276c21f825aeda3507549e7d8f30a?mediaType=mp4)|42,761||18+|france|
+|ORIXA MEDIA|50.00 EUR|[21](https://www.snap.com/political-ads/asset/c6ccc682f6e90a49a4b8fd7114fb2676985910ef9a456015d9a04a472117b8e7?mediaType=mp4)|24,946||18+|france|

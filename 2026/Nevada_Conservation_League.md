@@ -1,13 +1,13 @@
 ## 2026 - Nevada Conservation League 
-**Spent**: 6,192.00
+**Spent**: 6,960.00
 
-**Impressions**: 438,930
+**Impressions**: 497,347
 
 **Billing Addresses**: 2939 Van Ness St NW #1006,Washington,20008,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Gambit Strategies|3,421.00 USD|[0](https://www.snap.com/political-ads/asset/a3f8cc8cdf4d4fc39eccb2689b1b8f66b4050922eef0bfbb67fca88d1639d54c?mediaType=png)|203,150||18+|united states|
-|Gambit Strategies|1,008.00 USD|[1](https://www.snap.com/political-ads/asset/ab68f9b7ac1affe23a4c86c6e30da370bc7286cedaf4435484d6825506346bb2?mediaType=png)|121,979||18+|united states|
-|Gambit Strategies|1,468.00 USD|[2](https://www.snap.com/political-ads/asset/a3f8cc8cdf4d4fc39eccb2689b1b8f66b4050922eef0bfbb67fca88d1639d54c?mediaType=png)|84,503||18+|united states|
-|Gambit Strategies|295.00 USD|[3](https://www.snap.com/political-ads/asset/ab68f9b7ac1affe23a4c86c6e30da370bc7286cedaf4435484d6825506346bb2?mediaType=png)|29,298||18+|united states|
+|Gambit Strategies|3,843.00 USD|[0](https://www.snap.com/political-ads/asset/a3f8cc8cdf4d4fc39eccb2689b1b8f66b4050922eef0bfbb67fca88d1639d54c?mediaType=png)|230,285||18+|united states|
+|Gambit Strategies|1,132.00 USD|[1](https://www.snap.com/political-ads/asset/ab68f9b7ac1affe23a4c86c6e30da370bc7286cedaf4435484d6825506346bb2?mediaType=png)|138,296||18+|united states|
+|Gambit Strategies|1,652.00 USD|[2](https://www.snap.com/political-ads/asset/a3f8cc8cdf4d4fc39eccb2689b1b8f66b4050922eef0bfbb67fca88d1639d54c?mediaType=png)|95,760||18+|united states|
+|Gambit Strategies|333.00 USD|[3](https://www.snap.com/political-ads/asset/ab68f9b7ac1affe23a4c86c6e30da370bc7286cedaf4435484d6825506346bb2?mediaType=png)|33,006||18+|united states|
