@@ -1,10 +1,10 @@
 ## 2026 - Agape Women's Clinic paying ads 
-**Spent**: 1,863.00
+**Spent**: 1,878.00
 
-**Impressions**: 146,776
+**Impressions**: 148,197
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Agape Women's Clinic|1,863.00 USD|[0](https://www.snap.com/political-ads/asset/e7332e098f962825b7bf147614ae40c3e0f6cce4b9b264cd80c6c8294a99b253?mediaType=mp4)|146,776|FEMALE|39-|united states|
+|Agape Women's Clinic|1,878.00 USD|[0](https://www.snap.com/political-ads/asset/e7332e098f962825b7bf147614ae40c3e0f6cce4b9b264cd80c6c8294a99b253?mediaType=mp4)|148,197|FEMALE|39-|united states|

@@ -1,10 +1,10 @@
 ## 2026 - Erica for MN 
-**Spent**: 402.00
+**Spent**: 420.00
 
-**Impressions**: 71,736
+**Impressions**: 75,235
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Erica for MN1|402.00 USD|[0](https://www.snap.com/political-ads/asset/cd2e35d0ad1fac090bb62f1f3b70e6dbc521b3d97564c8c423f4ac66641ec1d3?mediaType=png)|71,736||18-35|united states|
+|Erica for MN1|420.00 USD|[0](https://www.snap.com/political-ads/asset/cd2e35d0ad1fac090bb62f1f3b70e6dbc521b3d97564c8c423f4ac66641ec1d3?mediaType=png)|75,235||18-35|united states|

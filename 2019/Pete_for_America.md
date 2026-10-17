@@ -1,7 +1,7 @@
 ## 2019 - Pete for America 
-**Spent**: 42,484.00
+**Spent**: 41,947.00
 
-**Impressions**: 9,830,879
+**Impressions**: 9,663,788
 
 **Billing Addresses**: 202 S Michigan St,South Bend,46601,US
 
@@ -29,23 +29,22 @@
 |Pete for America|570.00 USD|[19](https://www.snap.com/political-ads/asset/c69e7fc2ca3285468015694b2ff7f6098ef0cb070005047784b6f4c9411bfcc0?mediaType=mp4)|186,618||17+|united states|
 |Pete for America|1,750.00 USD|[20](https://www.snap.com/political-ads/asset/9b58af603976a47b1517d5d573ce0ac1d5f1559f34147f2d1dabeec9ca2cb4b1?mediaType=mp4)|178,535||18+|united states|
 |Pete for America|615.00 USD|[21](https://www.snap.com/political-ads/asset/93516008dd01c64aa539f6e5e0f40d15eb5c1c5a4da687eb4640aa6aaa41cea5?mediaType=mp4)|171,711||17+|united states|
-|Pete for America|537.00 USD|[22](https://www.snap.com/political-ads/asset/b547d412914d8f3dec397870a51f1c8ee9763ed0d0bfaa4372abe52f7e0b8b2f?mediaType=mp4)|167,091||17+|united states|
-|Pete for America|499.00 USD|[23](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|143,419||17+|united states|
-|Pete for America|474.00 USD|[24](https://www.snap.com/political-ads/asset/2b7feaa568049a10df89bcbf232ad0065e1e5c816e6df0b16dd8f54ec9d1ceb7?mediaType=mp4)|137,811||17+|united states|
-|Pete for America: Pete for America|1,249.00 USD|[25](https://www.snap.com/political-ads/asset/c7990218499d2b8c7e8656c249c62ea4e8dfa953474e04164c5f293290d34fdb?mediaType=mp4)|119,441||17+|united states|
-|Pete for America: Pete for America|836.00 USD|[26](https://www.snap.com/political-ads/asset/f9f6309e713adbe9a92f38ffb0c7c86f460a7288df49ebd9139d0e15df0239e3?mediaType=mp4)|117,187||17+|united states|
-|Pete for America|358.00 USD|[27](https://www.snap.com/political-ads/asset/b547d412914d8f3dec397870a51f1c8ee9763ed0d0bfaa4372abe52f7e0b8b2f?mediaType=mp4)|105,536||17+|united states|
-|Pete for America|359.00 USD|[28](https://www.snap.com/political-ads/asset/c69e7fc2ca3285468015694b2ff7f6098ef0cb070005047784b6f4c9411bfcc0?mediaType=mp4)|104,395||17+|united states|
-|Pete for America: Pete for America|727.00 USD|[29](https://www.snap.com/political-ads/asset/49582cb5d71219f774dcc689701b69d89bf86199a6b8d98fe8a7c52520cbe27f?mediaType=mp4)|101,834||17+|united states|
-|Pete for America|364.00 USD|[30](https://www.snap.com/political-ads/asset/c69e7fc2ca3285468015694b2ff7f6098ef0cb070005047784b6f4c9411bfcc0?mediaType=mp4)|101,668||17+|united states|
-|Pete for America|382.00 USD|[31](https://www.snap.com/political-ads/asset/8bee6937a0ce5db7c188024ec06ec0131f78025f7de91af0b4553e2821671efd?mediaType=mp4)|98,834||17+|united states|
-|Pete for America|273.00 USD|[32](https://www.snap.com/political-ads/asset/8bee6937a0ce5db7c188024ec06ec0131f78025f7de91af0b4553e2821671efd?mediaType=mp4)|75,097||17+|united states|
-|Pete for America|210.00 USD|[33](https://www.snap.com/political-ads/asset/5762a864c3591106412f9f82ced0ec653c111c8e02a2b5b05e6bc1a091af6228?mediaType=mp4)|74,823||17+|united states|
-|Pete for America|322.00 USD|[34](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|73,042||17+|united states|
-|Pete for America: Pete for America|685.00 USD|[35](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|65,610||17+|united states|
-|Pete for America|129.00 USD|[36](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|38,010||17+|united states|
-|Pete for America|119.00 USD|[37](https://www.snap.com/political-ads/asset/5762a864c3591106412f9f82ced0ec653c111c8e02a2b5b05e6bc1a091af6228?mediaType=mp4)|36,995||17+|united states|
-|Pete for America|89.00 USD|[38](https://www.snap.com/political-ads/asset/5762a864c3591106412f9f82ced0ec653c111c8e02a2b5b05e6bc1a091af6228?mediaType=mp4)|32,141||17+|united states|
-|Pete for America: Pete for America|186.00 USD|[39](https://www.snap.com/political-ads/asset/073a5ca561c12b7f21c47dfc4ce04796ff1484e156acdb9915a8254736867ca5?mediaType=mp4)|26,112||17+|united states|
-|Pete for America|74.00 USD|[40](https://www.snap.com/political-ads/asset/8bee6937a0ce5db7c188024ec06ec0131f78025f7de91af0b4553e2821671efd?mediaType=mp4)|24,074||17+|united states|
-|Pete for America: Pete for America|2.00 USD|[41](https://www.snap.com/political-ads/asset/0600e4b0938cd7a350f7c913e19918003698d5617271c2f07f8beacb1555108a?mediaType=png)|1,561||17+|united states|
+|Pete for America|499.00 USD|[22](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|143,419||17+|united states|
+|Pete for America|474.00 USD|[23](https://www.snap.com/political-ads/asset/2b7feaa568049a10df89bcbf232ad0065e1e5c816e6df0b16dd8f54ec9d1ceb7?mediaType=mp4)|137,811||17+|united states|
+|Pete for America: Pete for America|1,249.00 USD|[24](https://www.snap.com/political-ads/asset/c7990218499d2b8c7e8656c249c62ea4e8dfa953474e04164c5f293290d34fdb?mediaType=mp4)|119,441||17+|united states|
+|Pete for America: Pete for America|836.00 USD|[25](https://www.snap.com/political-ads/asset/f9f6309e713adbe9a92f38ffb0c7c86f460a7288df49ebd9139d0e15df0239e3?mediaType=mp4)|117,187||17+|united states|
+|Pete for America|358.00 USD|[26](https://www.snap.com/political-ads/asset/b547d412914d8f3dec397870a51f1c8ee9763ed0d0bfaa4372abe52f7e0b8b2f?mediaType=mp4)|105,536||17+|united states|
+|Pete for America|359.00 USD|[27](https://www.snap.com/political-ads/asset/c69e7fc2ca3285468015694b2ff7f6098ef0cb070005047784b6f4c9411bfcc0?mediaType=mp4)|104,395||17+|united states|
+|Pete for America: Pete for America|727.00 USD|[28](https://www.snap.com/political-ads/asset/49582cb5d71219f774dcc689701b69d89bf86199a6b8d98fe8a7c52520cbe27f?mediaType=mp4)|101,834||17+|united states|
+|Pete for America|364.00 USD|[29](https://www.snap.com/political-ads/asset/c69e7fc2ca3285468015694b2ff7f6098ef0cb070005047784b6f4c9411bfcc0?mediaType=mp4)|101,668||17+|united states|
+|Pete for America|382.00 USD|[30](https://www.snap.com/political-ads/asset/8bee6937a0ce5db7c188024ec06ec0131f78025f7de91af0b4553e2821671efd?mediaType=mp4)|98,834||17+|united states|
+|Pete for America|273.00 USD|[31](https://www.snap.com/political-ads/asset/8bee6937a0ce5db7c188024ec06ec0131f78025f7de91af0b4553e2821671efd?mediaType=mp4)|75,097||17+|united states|
+|Pete for America|210.00 USD|[32](https://www.snap.com/political-ads/asset/5762a864c3591106412f9f82ced0ec653c111c8e02a2b5b05e6bc1a091af6228?mediaType=mp4)|74,823||17+|united states|
+|Pete for America|322.00 USD|[33](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|73,042||17+|united states|
+|Pete for America: Pete for America|685.00 USD|[34](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|65,610||17+|united states|
+|Pete for America|129.00 USD|[35](https://www.snap.com/political-ads/asset/29037010040525adddb59bc8ea35636467689c2259c64530b78e694edd775638?mediaType=mp4)|38,010||17+|united states|
+|Pete for America|119.00 USD|[36](https://www.snap.com/political-ads/asset/5762a864c3591106412f9f82ced0ec653c111c8e02a2b5b05e6bc1a091af6228?mediaType=mp4)|36,995||17+|united states|
+|Pete for America|89.00 USD|[37](https://www.snap.com/political-ads/asset/5762a864c3591106412f9f82ced0ec653c111c8e02a2b5b05e6bc1a091af6228?mediaType=mp4)|32,141||17+|united states|
+|Pete for America: Pete for America|186.00 USD|[38](https://www.snap.com/political-ads/asset/073a5ca561c12b7f21c47dfc4ce04796ff1484e156acdb9915a8254736867ca5?mediaType=mp4)|26,112||17+|united states|
+|Pete for America|74.00 USD|[39](https://www.snap.com/political-ads/asset/8bee6937a0ce5db7c188024ec06ec0131f78025f7de91af0b4553e2821671efd?mediaType=mp4)|24,074||17+|united states|
+|Pete for America: Pete for America|2.00 USD|[40](https://www.snap.com/political-ads/asset/0600e4b0938cd7a350f7c913e19918003698d5617271c2f07f8beacb1555108a?mediaType=png)|1,561||17+|united states|
