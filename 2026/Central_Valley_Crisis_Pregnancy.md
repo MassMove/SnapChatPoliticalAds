@@ -1,7 +1,7 @@
 ## 2026 - Central Valley Crisis Pregnancy 
-**Spent**: 1,238.00
+**Spent**: 1,239.00
 
-**Impressions**: 88,034
+**Impressions**: 88,035
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -16,7 +16,7 @@
 |Cornerstone Marketing Strategies  LLC|66.00 USD|[6](https://www.snap.com/political-ads/asset/37431c228fef9c8a16f8231e0481bc2acd0eebf40d38234bd95d6aa19a876805?mediaType=mp4)|4,534|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|76.00 USD|[7](https://www.snap.com/political-ads/asset/16e003cc216a6b41987c6ad63700ceafaa82cd458aae93f89bcde8aaa7e23ccc?mediaType=mp4)|4,505|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|44.00 USD|[8](https://www.snap.com/political-ads/asset/16e003cc216a6b41987c6ad63700ceafaa82cd458aae93f89bcde8aaa7e23ccc?mediaType=mp4)|4,279|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|99.00 USD|[9](https://www.snap.com/political-ads/asset/009f179eca8d3866e02545b6766687ae7856b50b3dbaac0e786fc80fc71d2d20?mediaType=mp4)|4,273|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|100.00 USD|[9](https://www.snap.com/political-ads/asset/009f179eca8d3866e02545b6766687ae7856b50b3dbaac0e786fc80fc71d2d20?mediaType=mp4)|4,274|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|51.00 USD|[10](https://www.snap.com/political-ads/asset/85ef2a9b99b2a58132f4367d0bd19d539577c47f6ebf875a4dd8627a3e5c669d?mediaType=mp4)|4,188|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|48.00 USD|[11](https://www.snap.com/political-ads/asset/85ef2a9b99b2a58132f4367d0bd19d539577c47f6ebf875a4dd8627a3e5c669d?mediaType=mp4)|4,019|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|38.00 USD|[12](https://www.snap.com/political-ads/asset/cd781cce7bbc1de959b3c7ef12829132abed5b868ce53cda3d8ce80edf3ea2ca?mediaType=mp4)|2,942|FEMALE|16-34|united states|

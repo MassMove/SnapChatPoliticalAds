@@ -38,7 +38,7 @@
 |[Arbeiderpartiet](Arbeiderpartiet.md) - Arbeiderpartiet|46,941.00 EUR|11,396,136||17+, 18+|norway|
 |[Action Canada SHR](Action_Canada_SHR.md) - Point Blank Creative|17,090.00 CAD|11,008,850|FEMALE, MALE|16-19, 20-23|canada|
 |[NY State of Health](NY_State_of_Health.md) - OpAD Media|42,452.00 USD|10,657,396||18-34|united states|
-|[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|41,947.00 USD|9,663,788||17+, 18+|united states|
+|[Pete for America](Pete_for_America.md) - Pete for America: Pete for America|42,484.00 USD|9,830,879||17+, 18+|united states|
 |[SOAPPS](SOAPPS.md) - AGENCE NATIONALE DE PREVENTION ET DE FORMATION (ANPF)|4,706.00 EUR|9,162,404||23-33|france|
 |[Liberal Democrats](Liberal_Democrats.md) - Liberal Democrats: Liberal Democrats|19,706.00 GBP|9,050,458||18-35|united kingdom|
 |[Valg Norge](Valg_Norge.md) - Dentsu Norge AS – RED dentsu X|14,000.00 EUR|8,973,546||18-25, 26-34, 35++|norway|
