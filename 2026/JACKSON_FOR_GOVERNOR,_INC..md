@@ -1,13 +1,13 @@
 ## 2026 - JACKSON FOR GOVERNOR, INC. 
-**Spent**: 2,597.00
+**Spent**: 4,802.00
 
-**Impressions**: 569,989
+**Impressions**: 1,036,860
 
 **Billing Addresses**: 1402 Belleville St,Richmond,23230,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Creative Direct: Jackson for Governor Inc|1,046.00 USD|[0](https://www.snap.com/political-ads/asset/db782234b164f81686fd7e03e69840cb41542d6f5530e2980f54abbfa7372397?mediaType=mp4)|222,485||25-54|united states|
-|Creative Direct: Jackson for Governor Inc|808.00 USD|[1](https://www.snap.com/political-ads/asset/3ed304602bf781b0b6030bacfedb41078749c253327e6eac940c3ccf86ab9886?mediaType=mp4)|179,491||25-54|united states|
-|Creative Direct: Jackson for Governor Inc|366.00 USD|[2](https://www.snap.com/political-ads/asset/20e09f324ddd714c7e3cb295f63c499cd807980769f3ee6d5a1c896906cc8d69?mediaType=mp4)|86,189||25-54|united states|
-|Creative Direct: Jackson for Governor Inc|377.00 USD|[3](https://www.snap.com/political-ads/asset/8c838eda453b53d7de75dc2d898ebd1ce5b831d4aa0bcd81a7984a0f2f0adda7?mediaType=mp4)|81,824||25-54|united states|
+|Creative Direct: Jackson for Governor Inc|2,122.00 USD|[0](https://www.snap.com/political-ads/asset/db782234b164f81686fd7e03e69840cb41542d6f5530e2980f54abbfa7372397?mediaType=mp4)|450,491||25-54|united states|
+|Creative Direct: Jackson for Governor Inc|1,439.00 USD|[1](https://www.snap.com/political-ads/asset/3ed304602bf781b0b6030bacfedb41078749c253327e6eac940c3ccf86ab9886?mediaType=mp4)|313,217||25-54|united states|
+|Creative Direct: Jackson for Governor Inc|632.00 USD|[2](https://www.snap.com/political-ads/asset/20e09f324ddd714c7e3cb295f63c499cd807980769f3ee6d5a1c896906cc8d69?mediaType=mp4)|143,023||25-54|united states|
+|Creative Direct: Jackson for Governor Inc|609.00 USD|[3](https://www.snap.com/political-ads/asset/8c838eda453b53d7de75dc2d898ebd1ce5b831d4aa0bcd81a7984a0f2f0adda7?mediaType=mp4)|130,129||25-54|united states|

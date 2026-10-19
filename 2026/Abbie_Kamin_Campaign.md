@@ -1,7 +1,7 @@
 ## 2026 - Abbie Kamin Campaign 
-**Spent**: 4,825.00
+**Spent**: 4,951.00
 
-**Impressions**: 329,560
+**Impressions**: 338,078
 
 **Billing Addresses**: US
 
@@ -10,10 +10,10 @@
 |Human Age Digital: Abbie Kamin Campaign|1,188.00 USD|[0](https://www.snap.com/political-ads/asset/3eb98427e027fb734fefb3f71f20c829870d6177d9febfc8e3bb25f5730a2ceb?mediaType=mp4)|96,128||18+|united states|
 |Human Age Digital: Abbie Kamin Campaign|1,120.00 USD|[1](https://www.snap.com/political-ads/asset/ad4a965b995044987663a673a68549c1a7a2d4531a75ddeabf46d4e201a39458?mediaType=mp4)|60,743||18+|united states|
 |Human Age Digital: Abbie Kamin Campaign|498.00 USD|[2](https://www.snap.com/political-ads/asset/6cae664b42a87045efd992705874431f37f7a9189a1a4fe415e246523b359fc1?mediaType=mp4)|35,775||18+|united states|
-|Human Age Digital: Abbie Kamin Campaign|488.00 USD|[3](https://www.snap.com/political-ads/asset/39b83df8f9254c961bb1e58edc3355ef9aa5f39a9a62b52df5cf90fe70ff4221?mediaType=mp4)|28,594||18+|united states|
-|Human Age Digital: Abbie Kamin Campaign|295.00 USD|[4](https://www.snap.com/political-ads/asset/164b00c0d420fefe5701697c57f0b9a359a318bf76358034d9f277e968210cdd?mediaType=mp4)|23,764||18+|united states|
-|Human Age Digital: Abbie Kamin Campaign|248.00 USD|[5](https://www.snap.com/political-ads/asset/164b00c0d420fefe5701697c57f0b9a359a318bf76358034d9f277e968210cdd?mediaType=mp4)|21,945||18+|united states|
-|Human Age Digital: Abbie Kamin Campaign|297.00 USD|[6](https://www.snap.com/political-ads/asset/39b83df8f9254c961bb1e58edc3355ef9aa5f39a9a62b52df5cf90fe70ff4221?mediaType=mp4)|18,745||18+|united states|
+|Human Age Digital: Abbie Kamin Campaign|540.00 USD|[3](https://www.snap.com/political-ads/asset/39b83df8f9254c961bb1e58edc3355ef9aa5f39a9a62b52df5cf90fe70ff4221?mediaType=mp4)|31,861||18+|united states|
+|Human Age Digital: Abbie Kamin Campaign|317.00 USD|[4](https://www.snap.com/political-ads/asset/164b00c0d420fefe5701697c57f0b9a359a318bf76358034d9f277e968210cdd?mediaType=mp4)|25,471||18+|united states|
+|Human Age Digital: Abbie Kamin Campaign|267.00 USD|[5](https://www.snap.com/political-ads/asset/164b00c0d420fefe5701697c57f0b9a359a318bf76358034d9f277e968210cdd?mediaType=mp4)|23,493||18+|united states|
+|Human Age Digital: Abbie Kamin Campaign|330.00 USD|[6](https://www.snap.com/political-ads/asset/39b83df8f9254c961bb1e58edc3355ef9aa5f39a9a62b52df5cf90fe70ff4221?mediaType=mp4)|20,741||18+|united states|
 |Human Age Digital: Abbie Kamin Campaign|259.00 USD|[7](https://www.snap.com/political-ads/asset/ea9aec3463764cb03934de2e60083c0a3a9fb7ffdfe2e93aa33e5efc31a5131f?mediaType=mp4)|15,958||18+|united states|
 |Human Age Digital: Abbie Kamin Campaign|107.00 USD|[8](https://www.snap.com/political-ads/asset/d1fa1b40205308d8a44c08e3799ba60aaa22ffc4a6a69a814b14a5f076cb3738?mediaType=mp4)|7,254||18+|united states|
 |Human Age Digital: Abbie Kamin Campaign|95.00 USD|[9](https://www.snap.com/political-ads/asset/c1cd19153a4c61351dbc5beb3a8ce24d74326c864c6fd0b6016cf61e2ef70708?mediaType=mp4)|5,908||18+|united states|

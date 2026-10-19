@@ -1,17 +1,17 @@
 ## 2026 - Lower Costs Now 
-**Spent**: 7,990.00
+**Spent**: 11,876.00
 
-**Impressions**: 497,626
+**Impressions**: 729,461
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|GMMB  Inc: Lower Costs Now|2,630.00 USD|[0](https://www.snap.com/political-ads/asset/a31f74f50073afab8b4b3dd6b33467dbfa769c3461cabb39cefff8ad5e95ff5a?mediaType=mp4)|155,427||18+|united states|
-|GMMB  Inc: Lower Costs Now|1,351.00 USD|[1](https://www.snap.com/political-ads/asset/e1904f2e4957369885305b0f502f2aa48da97652c2f7c4bb1d39ffbb46899386?mediaType=mp4)|78,828||18+|united states|
-|GMMB  Inc: Lower Costs Now|749.00 USD|[2](https://www.snap.com/political-ads/asset/01d462443789e14ff40322eae539a5e37f385f40ee1409f3c0f5aea45de1076b?mediaType=mp4)|63,139||18+|united states|
-|GMMB  Inc: Lower Costs Now|1,002.00 USD|[3](https://www.snap.com/political-ads/asset/2c949d1aa94ee78723def7e28db7aff070fd79dbe3ad4999d39911ebe4c52816?mediaType=mp4)|61,698||18+|united states|
-|GMMB  Inc: Lower Costs Now|701.00 USD|[4](https://www.snap.com/political-ads/asset/647dce9b97622acd1c4b7fba9bbbbcaa1fa7d3d5f4ae603d8c7eb3e26fb94325?mediaType=mp4)|43,368||18+|united states|
-|GMMB  Inc: Lower Costs Now|711.00 USD|[5](https://www.snap.com/political-ads/asset/6e06e175c9dffbb3819af3d93ebd7c1a0e17efe6bee003d5dd02961b233741c9?mediaType=mp4)|43,035||18+|united states|
-|GMMB  Inc: Lower Costs Now|567.00 USD|[6](https://www.snap.com/political-ads/asset/dfa46872bd8d2e44ce096d0d48cea618ad85581f1667e065d21238219f8f4c43?mediaType=mp4)|34,603||18+|united states|
-|GMMB  Inc: Lower Costs Now|279.00 USD|[7](https://www.snap.com/political-ads/asset/4c700564c70eff246ccffd58715b618ad053d977102280360332c727c32be8da?mediaType=mp4)|17,528||18+|united states|
+|GMMB  Inc: Lower Costs Now|4,081.00 USD|[0](https://www.snap.com/political-ads/asset/a31f74f50073afab8b4b3dd6b33467dbfa769c3461cabb39cefff8ad5e95ff5a?mediaType=mp4)|241,289||18+|united states|
+|GMMB  Inc: Lower Costs Now|2,131.00 USD|[1](https://www.snap.com/political-ads/asset/e1904f2e4957369885305b0f502f2aa48da97652c2f7c4bb1d39ffbb46899386?mediaType=mp4)|124,760||18+|united states|
+|GMMB  Inc: Lower Costs Now|1,414.00 USD|[2](https://www.snap.com/political-ads/asset/2c949d1aa94ee78723def7e28db7aff070fd79dbe3ad4999d39911ebe4c52816?mediaType=mp4)|85,615||18+|united states|
+|GMMB  Inc: Lower Costs Now|1,006.00 USD|[3](https://www.snap.com/political-ads/asset/01d462443789e14ff40322eae539a5e37f385f40ee1409f3c0f5aea45de1076b?mediaType=mp4)|78,707||18+|united states|
+|GMMB  Inc: Lower Costs Now|1,127.00 USD|[4](https://www.snap.com/political-ads/asset/647dce9b97622acd1c4b7fba9bbbbcaa1fa7d3d5f4ae603d8c7eb3e26fb94325?mediaType=mp4)|69,348||18+|united states|
+|GMMB  Inc: Lower Costs Now|987.00 USD|[5](https://www.snap.com/political-ads/asset/6e06e175c9dffbb3819af3d93ebd7c1a0e17efe6bee003d5dd02961b233741c9?mediaType=mp4)|60,359||18+|united states|
+|GMMB  Inc: Lower Costs Now|722.00 USD|[6](https://www.snap.com/political-ads/asset/dfa46872bd8d2e44ce096d0d48cea618ad85581f1667e065d21238219f8f4c43?mediaType=mp4)|44,184||18+|united states|
+|GMMB  Inc: Lower Costs Now|408.00 USD|[7](https://www.snap.com/political-ads/asset/4c700564c70eff246ccffd58715b618ad053d977102280360332c727c32be8da?mediaType=mp4)|25,199||18+|united states|

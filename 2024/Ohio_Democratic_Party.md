@@ -1,7 +1,7 @@
 ## 2024 - Ohio Democratic Party 
-**Spent**: 11,493.00
+**Spent**: 11,241.00
 
-**Impressions**: 1,776,121
+**Impressions**: 1,740,537
 
 **Billing Addresses**: US
 
@@ -21,5 +21,4 @@
 |Assemble the Agency: Kamala Harris|353.00 USD|[11](https://www.snap.com/political-ads/asset/a7e40228dd88d059d73d464927b2b8a15cd5ea409ab98a649dbf9fc212bd5816?mediaType=jpeg)|48,606|FEMALE|18+|united states|
 |Assemble the Agency: Kamala Harris|274.00 USD|[12](https://www.snap.com/political-ads/asset/bbd9ce83d02d01f7f41d63a2491de786896430183bc887f844f67f5f3614c9ca?mediaType=mp4)|38,964|FEMALE|18+|united states|
 |Assemble the Agency: Kamala Harris|253.00 USD|[13](https://www.snap.com/political-ads/asset/1ad46fe035c5bf0097b9e0dabac04087aed6b3bdbf435213883208ca0001875d?mediaType=mp4)|35,759|FEMALE|18+|united states|
-|Assemble the Agency: Kamala Harris|252.00 USD|[14](https://www.snap.com/political-ads/asset/807887f4a2c387d299274baa34657e7efd6c3e24d6f61c91501721ecc8d3f8b3?mediaType=jpeg)|35,584|FEMALE|18+|united states|
-|Assemble the Agency: Kamala Harris|241.00 USD|[15](https://www.snap.com/political-ads/asset/d540940cfa0bea460621627d21ffbadad484e324611972db50c424a49c161267?mediaType=mp4)|34,257|FEMALE|18+|united states|
+|Assemble the Agency: Kamala Harris|241.00 USD|[14](https://www.snap.com/political-ads/asset/d540940cfa0bea460621627d21ffbadad484e324611972db50c424a49c161267?mediaType=mp4)|34,257|FEMALE|18+|united states|
