@@ -1,7 +1,7 @@
 ## 2026 - Project Unloaded Inc 
-**Spent**: 150,557.00
+**Spent**: 150,563.00
 
-**Impressions**: 58,563,269
+**Impressions**: 58,565,894
 
 **Billing Addresses**: 1 East Erie Street, Suite 525 #4787,Chicago,60611,US
 
@@ -98,8 +98,14 @@
 |Project Unloaded|235.00 USD|[88](https://www.snap.com/political-ads/asset/0e9ba54132a2a8581d9fa2f8995e16aaea0db2c358e4c7e832082c8479c68bd9?mediaType=mp4)|6,713||20-|united states|
 |Project Unloaded|85.00 USD|[89](https://www.snap.com/political-ads/asset/5af28236ff167383e77a0f371d48610ed4fb0191ccdfc65bbc904c9c19444960?mediaType=mp4)|3,146||20-|united states|
 |Project Unloaded|113.00 USD|[90](https://www.snap.com/political-ads/asset/4e9ea74e1724c46c2b439f69184a787de1402e2769fdde34d444ff2839f2ce93?mediaType=mp4)|2,983||20-|united states|
-|Project Unloaded|6.00 USD|[91](https://www.snap.com/political-ads/asset/9d3527161b2fd0281fc383fab4d725182d06957ad67264eb6cadce20d5cbf045?mediaType=mp4)|1,064||17-|united states|
-|Project Unloaded|1.00 USD|[92](https://www.snap.com/political-ads/asset/42a61e789210e11b1bfac69055c711eac6fe1db21d28ba8ddef854ebd1575c68?mediaType=mp4)|334||17-|united states|
-|Project Unloaded|1.00 USD|[93](https://www.snap.com/political-ads/asset/062b32febdd4ff222cd0faaf682d44967fcd443672af7aa73c4a0374fd7f95ac?mediaType=mp4)|315||17-|united states|
-|Project Unloaded|1.00 USD|[94](https://www.snap.com/political-ads/asset/aceae2be6de55391c2ec6f2e61eed32b3d5aac88689af4f5409c4a97114af209?mediaType=mp4)|315||17-|united states|
-|Project Unloaded|1.00 USD|[95](https://www.snap.com/political-ads/asset/e8da53a7f1bdd355d71e2d7b659ead0b8de3b0184f8dac49eec0def43311d428?mediaType=mp4)|251||17-|united states|
+|Project Unloaded|6.00 USD|[91](https://www.snap.com/political-ads/asset/2b365c2eb968e2e83e9129a281131f93a1950c078283b08f288991c21e305a14?mediaType=mp4)|2,288||17-|united states|
+|Project Unloaded|6.00 USD|[92](https://www.snap.com/political-ads/asset/9d3527161b2fd0281fc383fab4d725182d06957ad67264eb6cadce20d5cbf045?mediaType=mp4)|1,064||17-|united states|
+|Project Unloaded|1.00 USD|[93](https://www.snap.com/political-ads/asset/42a61e789210e11b1bfac69055c711eac6fe1db21d28ba8ddef854ebd1575c68?mediaType=mp4)|334||17-|united states|
+|Project Unloaded|1.00 USD|[94](https://www.snap.com/political-ads/asset/062b32febdd4ff222cd0faaf682d44967fcd443672af7aa73c4a0374fd7f95ac?mediaType=mp4)|315||17-|united states|
+|Project Unloaded|1.00 USD|[95](https://www.snap.com/political-ads/asset/aceae2be6de55391c2ec6f2e61eed32b3d5aac88689af4f5409c4a97114af209?mediaType=mp4)|315||17-|united states|
+|Project Unloaded|1.00 USD|[96](https://www.snap.com/political-ads/asset/e8da53a7f1bdd355d71e2d7b659ead0b8de3b0184f8dac49eec0def43311d428?mediaType=mp4)|251||17-|united states|
+|Project Unloaded|0.00 USD|[97](https://www.snap.com/political-ads/asset/b3c70716f2a1bfe7c5c3c6a8daec3d761a280c873b9ae7f84c77133ed43f2efb?mediaType=mp4)|155||17-|united states|
+|Project Unloaded|0.00 USD|[98](https://www.snap.com/political-ads/asset/7bbf93c059556d49a2ae9369134c5ee5fecd8dd4e67c5454bb5b47da0b4d1870?mediaType=mp4)|69||17-|united states|
+|Project Unloaded|0.00 USD|[99](https://www.snap.com/political-ads/asset/0b2f12a5b31f4e798997a7156f6d6fbaab25ccb045e15ae55cac70a618bbfe4e?mediaType=mp4)|48||17-|united states|
+|Project Unloaded|0.00 USD|[100](https://www.snap.com/political-ads/asset/975062740fa30e05635e192689f95517929b6a3e3c0204f160e1799f48cd2235?mediaType=mp4)|41||17-|united states|
+|Project Unloaded|0.00 USD|[101](https://www.snap.com/political-ads/asset/bd4134abdbc9106582b4e8c7095c93346649787a6071682785ea884cbc4fb34f?mediaType=mp4)|24||17-|united states|

@@ -1,40 +1,40 @@
 ## 2026 - Priorities USA 
-**Spent**: 17,793.00
+**Spent**: 19,178.00
 
-**Impressions**: 5,481,711
+**Impressions**: 5,815,322
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Priorities USA: Wisconsin Supreme Court|1,728.00 USD|[0](https://www.snap.com/political-ads/asset/e3156c1e076b1a5b0d5c8fb9e98cb86d7902d1b8f39f0490f93bcd70e4e7a589?mediaType=mp4)|834,579||24-44|united states|
-|Priorities USA|2,787.00 USD|[1](https://www.snap.com/political-ads/asset/9fd88dfd55baf6e3a2146a3f94381535505c18cb6247d8a480182143a6de9489?mediaType=mp4)|736,651||18+||
+|Priorities USA|3,168.00 USD|[1](https://www.snap.com/political-ads/asset/9fd88dfd55baf6e3a2146a3f94381535505c18cb6247d8a480182143a6de9489?mediaType=mp4)|826,226||18+||
 |Priorities USA: Wisconsin Supreme Court|1,340.00 USD|[2](https://www.snap.com/political-ads/asset/36dd37acb294b717dfc3703d3a847c400956b539939cef1506a22d3d84a79890?mediaType=mp4)|656,271||24-44|united states|
-|Priorities USA|1,962.00 USD|[3](https://www.snap.com/political-ads/asset/9fd88dfd55baf6e3a2146a3f94381535505c18cb6247d8a480182143a6de9489?mediaType=mp4)|599,317||18+|united states|
-|Priorities USA|1,454.00 USD|[4](https://www.snap.com/political-ads/asset/b490c6df847ae379d27be3b4d256c24ee626525ad5e91a57ff3f4b3815165c3a?mediaType=mp4)|443,977||18+|united states|
-|Priorities USA|995.00 USD|[5](https://www.snap.com/political-ads/asset/b490c6df847ae379d27be3b4d256c24ee626525ad5e91a57ff3f4b3815165c3a?mediaType=mp4)|264,683||18+||
-|Priorities USA: Wisconsin Supreme Court|375.00 USD|[6](https://www.snap.com/political-ads/asset/aa4bda12b07b7b7dff75475b804f2127b1757650b7b55abf5b25c352232d5b07?mediaType=mp4)|173,652||24-44|united states|
-|Priorities USA: Wisconsin Supreme Court|745.00 USD|[7](https://www.snap.com/political-ads/asset/e3156c1e076b1a5b0d5c8fb9e98cb86d7902d1b8f39f0490f93bcd70e4e7a589?mediaType=mp4)|172,957||18+|united states|
-|Priorities USA: Wisconsin Supreme Court|700.00 USD|[8](https://www.snap.com/political-ads/asset/e3156c1e076b1a5b0d5c8fb9e98cb86d7902d1b8f39f0490f93bcd70e4e7a589?mediaType=mp4)|159,146||18+|united states|
-|Priorities USA|653.00 USD|[9](https://www.snap.com/political-ads/asset/acb65d4ce931c9f09f485575eb5683ecca0406fcc2c472851699cd17d11001ad?mediaType=png)|158,152||18+||
+|Priorities USA|2,092.00 USD|[3](https://www.snap.com/political-ads/asset/9fd88dfd55baf6e3a2146a3f94381535505c18cb6247d8a480182143a6de9489?mediaType=mp4)|632,322||18+|united states|
+|Priorities USA|1,637.00 USD|[4](https://www.snap.com/political-ads/asset/b490c6df847ae379d27be3b4d256c24ee626525ad5e91a57ff3f4b3815165c3a?mediaType=mp4)|490,896||18+|united states|
+|Priorities USA|1,398.00 USD|[5](https://www.snap.com/political-ads/asset/b490c6df847ae379d27be3b4d256c24ee626525ad5e91a57ff3f4b3815165c3a?mediaType=mp4)|361,014||18+||
+|Priorities USA|765.00 USD|[6](https://www.snap.com/political-ads/asset/acb65d4ce931c9f09f485575eb5683ecca0406fcc2c472851699cd17d11001ad?mediaType=png)|183,060||18+||
+|Priorities USA: Wisconsin Supreme Court|375.00 USD|[7](https://www.snap.com/political-ads/asset/aa4bda12b07b7b7dff75475b804f2127b1757650b7b55abf5b25c352232d5b07?mediaType=mp4)|173,652||24-44|united states|
+|Priorities USA: Wisconsin Supreme Court|745.00 USD|[8](https://www.snap.com/political-ads/asset/e3156c1e076b1a5b0d5c8fb9e98cb86d7902d1b8f39f0490f93bcd70e4e7a589?mediaType=mp4)|172,957||18+|united states|
+|Priorities USA: Wisconsin Supreme Court|700.00 USD|[9](https://www.snap.com/political-ads/asset/e3156c1e076b1a5b0d5c8fb9e98cb86d7902d1b8f39f0490f93bcd70e4e7a589?mediaType=mp4)|159,146||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|669.00 USD|[10](https://www.snap.com/political-ads/asset/36dd37acb294b717dfc3703d3a847c400956b539939cef1506a22d3d84a79890?mediaType=mp4)|145,493||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|637.00 USD|[11](https://www.snap.com/political-ads/asset/36dd37acb294b717dfc3703d3a847c400956b539939cef1506a22d3d84a79890?mediaType=mp4)|142,720||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|597.00 USD|[12](https://www.snap.com/political-ads/asset/2be61902bfaaa4fd93e5fb4660b5dcefb006d6eafc8d8b962247fa3cb6fda95a?mediaType=mp4)|123,258||18+|united states|
-|Priorities USA|371.00 USD|[13](https://www.snap.com/political-ads/asset/aed6989636721dfc65450bb026c9c16c06e07ca2d507baa5bf9137f848f67542?mediaType=png)|113,007||18+|united states|
+|Priorities USA|406.00 USD|[13](https://www.snap.com/political-ads/asset/aed6989636721dfc65450bb026c9c16c06e07ca2d507baa5bf9137f848f67542?mediaType=png)|121,686||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|233.00 USD|[14](https://www.snap.com/political-ads/asset/374613e4e293f5cf6ac61be78c4f0f8afbbe0193c8fac76158efbf597a0345b8?mediaType=mp4)|111,731||24-44|united states|
 |Priorities USA: Wisconsin Supreme Court|221.00 USD|[15](https://www.snap.com/political-ads/asset/2be61902bfaaa4fd93e5fb4660b5dcefb006d6eafc8d8b962247fa3cb6fda95a?mediaType=mp4)|103,065||24-44|united states|
-|Priorities USA|283.00 USD|[16](https://www.snap.com/political-ads/asset/3cd98bd05c1c6e318b339a97d7a841781981d98978c7ec77c78b910371973ba8?mediaType=png)|84,576||18+|united states|
-|Priorities USA: Wisconsin Supreme Court|338.00 USD|[17](https://www.snap.com/political-ads/asset/aa4bda12b07b7b7dff75475b804f2127b1757650b7b55abf5b25c352232d5b07?mediaType=mp4)|76,217||18+|united states|
-|Priorities USA: Wisconsin Supreme Court|376.00 USD|[18](https://www.snap.com/political-ads/asset/2be61902bfaaa4fd93e5fb4660b5dcefb006d6eafc8d8b962247fa3cb6fda95a?mediaType=mp4)|69,048||18+|united states|
-|Priorities USA|237.00 USD|[19](https://www.snap.com/political-ads/asset/91e1c1b14764b9b1bee619d76ac9ad0070b0cf63bb8ab8394d549de75a614e33?mediaType=mp4)|64,374||18+||
+|Priorities USA|310.00 USD|[16](https://www.snap.com/political-ads/asset/3cd98bd05c1c6e318b339a97d7a841781981d98978c7ec77c78b910371973ba8?mediaType=png)|91,002||18+|united states|
+|Priorities USA|336.00 USD|[17](https://www.snap.com/political-ads/asset/91e1c1b14764b9b1bee619d76ac9ad0070b0cf63bb8ab8394d549de75a614e33?mediaType=mp4)|88,651||18+||
+|Priorities USA: Wisconsin Supreme Court|338.00 USD|[18](https://www.snap.com/political-ads/asset/aa4bda12b07b7b7dff75475b804f2127b1757650b7b55abf5b25c352232d5b07?mediaType=mp4)|76,217||18+|united states|
+|Priorities USA: Wisconsin Supreme Court|376.00 USD|[19](https://www.snap.com/political-ads/asset/2be61902bfaaa4fd93e5fb4660b5dcefb006d6eafc8d8b962247fa3cb6fda95a?mediaType=mp4)|69,048||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|266.00 USD|[20](https://www.snap.com/political-ads/asset/aa4bda12b07b7b7dff75475b804f2127b1757650b7b55abf5b25c352232d5b07?mediaType=mp4)|55,324||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|269.00 USD|[21](https://www.snap.com/political-ads/asset/374613e4e293f5cf6ac61be78c4f0f8afbbe0193c8fac76158efbf597a0345b8?mediaType=mp4)|52,744||18+|united states|
 |Priorities USA: Wisconsin Supreme Court|258.00 USD|[22](https://www.snap.com/political-ads/asset/374613e4e293f5cf6ac61be78c4f0f8afbbe0193c8fac76158efbf597a0345b8?mediaType=mp4)|52,058||18+|united states|
-|Priorities USA|38.00 USD|[23](https://www.snap.com/political-ads/asset/acb65d4ce931c9f09f485575eb5683ecca0406fcc2c472851699cd17d11001ad?mediaType=png)|11,975||18+|united states|
-|Priorities USA|37.00 USD|[24](https://www.snap.com/political-ads/asset/11d811aed2b59ed829c62a4b20c7fb764ce105c7b1ab3ed20fc3c874ceae5706?mediaType=mp4)|11,713||18+|united states|
-|Priorities USA|42.00 USD|[25](https://www.snap.com/political-ads/asset/aed6989636721dfc65450bb026c9c16c06e07ca2d507baa5bf9137f848f67542?mediaType=png)|11,561||18+||
-|Priorities USA|42.00 USD|[26](https://www.snap.com/political-ads/asset/4435701841e7fc3dd371fee6afb45c2e3caf8b19e73f64e0fb7f0e6b5a38175a?mediaType=png)|11,535||18+||
-|Priorities USA|34.00 USD|[27](https://www.snap.com/political-ads/asset/91e1c1b14764b9b1bee619d76ac9ad0070b0cf63bb8ab8394d549de75a614e33?mediaType=mp4)|10,866||18+|united states|
-|Priorities USA|38.00 USD|[28](https://www.snap.com/political-ads/asset/11d811aed2b59ed829c62a4b20c7fb764ce105c7b1ab3ed20fc3c874ceae5706?mediaType=mp4)|10,507||18+||
-|Priorities USA|32.00 USD|[29](https://www.snap.com/political-ads/asset/4435701841e7fc3dd371fee6afb45c2e3caf8b19e73f64e0fb7f0e6b5a38175a?mediaType=png)|10,333||18+|united states|
-|Priorities USA|36.00 USD|[30](https://www.snap.com/political-ads/asset/3cd98bd05c1c6e318b339a97d7a841781981d98978c7ec77c78b910371973ba8?mediaType=png)|10,221||18+||
+|Priorities USA|45.00 USD|[23](https://www.snap.com/political-ads/asset/aed6989636721dfc65450bb026c9c16c06e07ca2d507baa5bf9137f848f67542?mediaType=png)|12,278||18+||
+|Priorities USA|39.00 USD|[24](https://www.snap.com/political-ads/asset/acb65d4ce931c9f09f485575eb5683ecca0406fcc2c472851699cd17d11001ad?mediaType=png)|12,205||18+|united states|
+|Priorities USA|45.00 USD|[25](https://www.snap.com/political-ads/asset/4435701841e7fc3dd371fee6afb45c2e3caf8b19e73f64e0fb7f0e6b5a38175a?mediaType=png)|12,114||18+||
+|Priorities USA|38.00 USD|[26](https://www.snap.com/political-ads/asset/11d811aed2b59ed829c62a4b20c7fb764ce105c7b1ab3ed20fc3c874ceae5706?mediaType=mp4)|11,950||18+|united states|
+|Priorities USA|40.00 USD|[27](https://www.snap.com/political-ads/asset/11d811aed2b59ed829c62a4b20c7fb764ce105c7b1ab3ed20fc3c874ceae5706?mediaType=mp4)|11,177||18+||
+|Priorities USA|35.00 USD|[28](https://www.snap.com/political-ads/asset/91e1c1b14764b9b1bee619d76ac9ad0070b0cf63bb8ab8394d549de75a614e33?mediaType=mp4)|11,073||18+|united states|
+|Priorities USA|39.00 USD|[29](https://www.snap.com/political-ads/asset/3cd98bd05c1c6e318b339a97d7a841781981d98978c7ec77c78b910371973ba8?mediaType=png)|10,846||18+||
+|Priorities USA|33.00 USD|[30](https://www.snap.com/political-ads/asset/4435701841e7fc3dd371fee6afb45c2e3caf8b19e73f64e0fb7f0e6b5a38175a?mediaType=png)|10,559||18+|united states|
