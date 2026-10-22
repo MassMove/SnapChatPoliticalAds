@@ -1,7 +1,7 @@
 ## 2026 - Alaskans for Dan Sullivan 
-**Spent**: 17,543.00
+**Spent**: 17,735.00
 
-**Impressions**: 1,166,367
+**Impressions**: 1,172,230
 
 **Billing Addresses**: 1780 Sequoia Vista Cir,Salt Lake City,84104,US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Arena Online|3,266.00 USD|[0](https://www.snap.com/political-ads/asset/4a48a56673005fce13a99169be648dc0b33dc6ace1fb38867d9bb5f00a5f21c6?mediaType=png)|390,480||18+|united states|
 |Arena Online|1,107.00 USD|[1](https://www.snap.com/political-ads/asset/0690817963f387a4b9e48564039a905f1f2e56aff60cb89efab6ab4f2cd9a01a?mediaType=png)|127,836||18+|united states|
-|Arena Online|2,912.00 USD|[2](https://www.snap.com/political-ads/asset/b38ae894186fc201aae90d25e10eca8fa3a8f5cb5e5247e5a947d5d428712eed?mediaType=mp4)|106,654||30+|united states|
+|Arena Online|3,104.00 USD|[2](https://www.snap.com/political-ads/asset/b38ae894186fc201aae90d25e10eca8fa3a8f5cb5e5247e5a947d5d428712eed?mediaType=mp4)|112,517||30+|united states|
 |Arena Online|486.00 USD|[3](https://www.snap.com/political-ads/asset/79334d7be347cd02e8a1a8c87f3a80958d1ca6e5287d8c3eddd295fe3cee604e?mediaType=png)|80,335||18+|united states|
 |Arena Online|606.00 USD|[4](https://www.snap.com/political-ads/asset/19a708532301ed159e65c0743fa1bc2decc45860b4e5561ae5adf258f072149e?mediaType=png)|73,855||18+|united states|
 |Arena Online|219.00 USD|[5](https://www.snap.com/political-ads/asset/faa34fb0c01bc87751e5831c123d7016ee0110a94f0b8a317e5beb7ea2ec1f62?mediaType=png)|36,368||18+|united states|

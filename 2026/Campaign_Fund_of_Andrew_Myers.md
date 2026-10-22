@@ -1,13 +1,13 @@
 ## 2026 - Campaign Fund of Andrew Myers 
-**Spent**: 1,277.00
+**Spent**: 1,309.00
 
-**Impressions**: 130,609
+**Impressions**: 133,770
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|State Representative Andrew Myers|396.00 USD|[0](https://www.snap.com/political-ads/asset/d0e12d30e33702ae7afef1b9bf522c9ad0c7db863961044f67a77d234f6bca50?mediaType=png)|47,760||18-40|united states|
+|State Representative Andrew Myers|404.00 USD|[0](https://www.snap.com/political-ads/asset/d0e12d30e33702ae7afef1b9bf522c9ad0c7db863961044f67a77d234f6bca50?mediaType=png)|48,525||18-40|united states|
 |State Representative Andrew Myers|499.00 USD|[1](https://www.snap.com/political-ads/asset/1bedae19781abc63c7dac63f5bbe382689bb201c7bcdae8516e3873d2ecced0e?mediaType=png)|44,421||18-40|united states|
-|State Representative Andrew Myers|319.00 USD|[2](https://www.snap.com/political-ads/asset/26ae6ddb1d43bd6cc360a1da0832e37371111084756731813d65d11586d368ba?mediaType=png)|31,894||18-40|united states|
-|State Representative Andrew Myers|63.00 USD|[3](https://www.snap.com/political-ads/asset/26ae6ddb1d43bd6cc360a1da0832e37371111084756731813d65d11586d368ba?mediaType=png)|6,534||18-40|united states|
+|State Representative Andrew Myers|337.00 USD|[2](https://www.snap.com/political-ads/asset/26ae6ddb1d43bd6cc360a1da0832e37371111084756731813d65d11586d368ba?mediaType=png)|33,660||18-40|united states|
+|State Representative Andrew Myers|69.00 USD|[3](https://www.snap.com/political-ads/asset/26ae6ddb1d43bd6cc360a1da0832e37371111084756731813d65d11586d368ba?mediaType=png)|7,164||18-40|united states|
