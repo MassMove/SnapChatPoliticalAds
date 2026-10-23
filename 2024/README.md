@@ -2,7 +2,7 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[Harris for President](Harris_for_President.md) - Harris for President: Harris for President, Kamala Harris|8,214,343.00 USD|709,724,159||18+, 18-24, 18-29, 18-34, 30-35|united states|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,716.00 EUR|315,953,164||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|588,739.00 EUR|315,966,841||18+|france|
 |[Biden for President](Biden_for_President.md) - Harris for President: Joe Biden|1,459,637.00 USD|225,956,865||18+, 18-29, 18-35, 30-35|united states|
 |[European Parliament](European_Parliament.md) - Havas Media France|239,768.00 EUR|183,676,975||16+, 18+|austria, belgium, czech republic, denmark, finland, france, germany, greece, hungary, ireland, italy, netherlands, poland, portugal, romania, spain, sweden|
 |[The Daily Wire LLC](The_Daily_Wire_LLC.md) - The Daily Wire LLC|1,203,152.00 USD|141,057,485||18+|united states|
@@ -51,7 +51,7 @@
 |[League of Conservation Voters](League_of_Conservation_Voters.md) - Watershed Strategy|148,448.00 USD|12,655,898||18-30, 18-35, 30-|united states|
 |[NowThis Media](NowThis_Media.md) - NowThis|176,945.00 USD|12,532,631||18-40, 18-45, 18-49|united states|
 |[END CITIZENS UNITED](END_CITIZENS_UNITED.md) - MVAR Media|102,296.00 USD|12,155,072||18+|united states|
-|[HUMAN APPEAL](HUMAN_APPEAL.md) - Human Appeal  Arabic|11,560.00 GBP|11,853,375||25+|qatar, saudi arabia, united arab emirates|
+|[HUMAN APPEAL](HUMAN_APPEAL.md) - Human Appeal  Arabic|11,534.00 GBP|11,845,417||25+|qatar, saudi arabia, united arab emirates|
 |[UpNorthNews](UpNorthNews.md) - Courier Newsroom: UpNorthNews|110,568.00 USD|10,739,575||18+|united states|
 |[An Coimisiún Toghcháin](An_Coimisiún_Toghcháin.md) - Mindshare Media Ireland Ltd|5,679.00 EUR|10,680,475||18+|ireland|
 |[LCV Victory Fund](LCV_Victory_Fund.md) - Gambit Strategies|111,105.00 USD|10,561,308||18+|united states|
@@ -206,7 +206,7 @@
 |[United Association](United_Association.md) - Powers Interactive Digital: Elissa Slotkin Senator of Michigan, Jacky Rosen Senator of Nevada, Kamala Harris for President, Sherrod Brown Senator of Ohio|9,950.00 USD|1,294,984||18+|united states|
 |[Bold Alliance Inc](Bold_Alliance_Inc.md) - BCom Solutions: Go Vote Today|4,595.00 USD|1,279,544||18+|united states|
 |[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|17,998.00 CAD|1,277,159||18-24|canada|
-|[A New Generation](A_New_Generation.md) - A New Generation|9,453.00 USD|1,270,360|FEMALE|30-|united states|
+|[A New Generation](A_New_Generation.md) - A New Generation|9,465.00 USD|1,271,720|FEMALE|30-|united states|
 |[National Nurses United](National_Nurses_United.md) - Middle Seat Consulting  LLC: National Nurses United for Patient Protection PAC|37,178.00 USD|1,247,134||18+|united states|
 |[Amnesty International](Amnesty_International.md) - Jellyfish France|10,367.00 EUR|1,244,471||18+|france|
 |[Green Party](Green_Party.md) - Green Party / Comhaontas Glas|2,705.00 EUR|1,244,457||18+|ireland|

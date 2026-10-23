@@ -15,8 +15,8 @@
 |[Pela](Pela.md) - Open Mind Developments Corporation Inc.|45,625.00 USD|49,203,807|||canada, united states|
 |[Gouvernement du Canada](Gouvernement_du_Canada.md) - Cossette Media Inc|124,115.00 CAD|48,643,887||18-, 18-24, 18-34|canada|
 |[PHD Canada](PHD_Canada.md) - PHD Canada|83,797.00 CAD|41,885,554||19-34|canada|
-|[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|111,886.00 USD|40,047,086||18+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|210,000.00 AUD|39,616,572||18+|australia|
+|[ACT NOW ON CLIMATE](ACT_NOW_ON_CLIMATE.md) - Blueprint Interactive|109,768.00 USD|39,167,084||18+|united states|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|61,059.00 USD|37,713,479||18-39|united states|
 |[Vote For Your Future](Vote_For_Your_Future.md) - Vote For Your Future: General Election|63,174.00 GBP|30,218,010|FEMALE|18-24, 18-25, 18-30, 18-34, 18-35, 24-35, 25-34, 26-34|united kingdom|
 |[Avaaz Campaigns UK](Avaaz_Campaigns_UK.md) - Avaaz Campaigns UK: UK general elections|44,288.00 GBP|30,154,798||18+, 18-34, 18-35|united kingdom|

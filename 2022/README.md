@@ -22,9 +22,9 @@
 |[Campaign for Tobacco-Free Kids](Campaign_for_Tobacco-Free_Kids.md) - Bully Pulpit Interactive|32,988.00 USD|17,562,859||16-24, 17-, 18-22, 24-|united states|
 |[Min. Solidarités et Santé](Min._Solidarités_et_Santé.md) - Dentsu France|41,851.00 EUR|17,136,457|FEMALE|17-, 18-34, 20-35|france|
 |[UK Government](UK_Government.md) - Manning Gottlieb OMD - OmniGOV|16,963.00 GBP|16,885,181||18-34|united kingdom|
-|[One Georgia, Inc.](One_Georgia,_Inc..md) - AL Media: One Georgia|235,469.00 USD|16,874,558|FEMALE, MALE|18+, 18-24, 18-34, 25+|united states|
+|[One Georgia, Inc.](One_Georgia,_Inc..md) - AL Media: One Georgia|235,391.00 USD|16,869,509|FEMALE, MALE|18+, 18-24, 18-34, 25+|united states|
 |[Metropolitan Police Service](Metropolitan_Police_Service.md) - Wavemaker UK|37,600.00 GBP|16,713,505||17-, 17-19|united kingdom|
-|[Arizona Democratic Party](Arizona_Democratic_Party.md) - Wavelength Strategy|114,915.00 USD|16,552,540||18+, 18-24, 18-34|united states|
+|[Arizona Democratic Party](Arizona_Democratic_Party.md) - Wavelength Strategy|114,654.00 USD|16,535,075||18+, 18-24, 18-34|united states|
 |[University of Pittsburgh](University_of_Pittsburgh.md) - Centro LLC|44,441.00 USD|15,529,121||18-34|united states|
 |[DSCC](DSCC.md) - Wavelength Strategy: DSCC|134,918.00 USD|15,150,166|FEMALE|18+|united states|
 |[Bennet For Colorado](Bennet_For_Colorado.md) - Wavelength Strategy: Michael Bennet|61,555.00 USD|14,794,822||18+|united states|
@@ -51,8 +51,8 @@
 |[Fair Fight Action](Fair_Fight_Action.md) - Vision Media Services|37,284.00 USD|10,177,481||18+, 18-35|united states|
 |[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.: Planned Parenthood|88,979.00 USD|10,080,227|FEMALE|15+, 18+, 18-24, 18-25, 18-29, 18-35|united states|
 |[CA Public Health](CA_Public_Health.md) - Unified|40,648.00 USD|9,990,111||18+|united states|
-|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|74,159.00 USD|9,848,935||18+|united states|
 |[Family Friendly Action PAC](Family_Friendly_Action_PAC.md) - GMMB  Inc: Family Friendly Action PAC, Senate Majority PAC|37,607.00 USD|9,834,035||18-35, 18-45|united states|
+|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|73,900.00 USD|9,813,672||18+|united states|
 |[DCCS Action IEC](DCCS_Action_IEC.md) - DCCS Action IEC: Muriel Brown, Phil Mendelson|38,215.00 USD|9,576,881||18+|united states|
 |[Stacey Abrams for Governor](Stacey_Abrams_for_Governor.md) - AL Media: Stacey Abrams|103,503.00 USD|9,518,961|FEMALE, MALE|18+, 18-34, 18-35|united states|
 |[Jared Polis for Colorado](Jared_Polis_for_Colorado.md) - Precision [TEST]: Jared Polis for Colorado, Polis for Colorado|118,424.00 USD|9,252,736||18+, 18-26, 18-35|united states|

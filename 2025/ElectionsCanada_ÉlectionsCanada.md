@@ -1,7 +1,7 @@
 ## 2025 - ElectionsCanada/ÉlectionsCanada 
-**Spent**: 496,359.00
+**Spent**: 496,356.00
 
-**Impressions**: 181,467,072
+**Impressions**: 181,465,258
 
 **Billing Addresses**: P.O. Box. 11613, Succ. Centre-ville,Montreal,H3C5V9,CA
 
@@ -115,5 +115,4 @@
 |Cossette Media Inc|14.00 CAD|[105](https://www.snap.com/political-ads/asset/17b51f396dbbb62df3273be39f2a8df165039c8855040da42af130900c4363d7?mediaType=mp4)|5,105||18-24|canada|
 |Cossette Media Inc|4.00 CAD|[106](https://www.snap.com/political-ads/asset/5b86a1cd1442223bb01f5ff34533be7872d343fb2dc26ac7232665a56605fc7f?mediaType=mp4)|2,839||18-24|canada|
 |Cossette Media Inc|4.00 CAD|[107](https://www.snap.com/political-ads/asset/6cac9801cca350e2fa7946654fc467ed7756560640ca81bd33da4ec8ee8c882a?mediaType=mp4)|2,751||18-24|canada|
-|Cossette Media Inc|3.00 CAD|[108](https://www.snap.com/political-ads/asset/4b9d7f32ea97028ea90ffdd6af161acee87478a7499dce4ab84657b5756c60bb?mediaType=mp4)|1,814||18-24|canada|
-|Cossette Media Inc|3.00 CAD|[109](https://www.snap.com/political-ads/asset/3da42caf876d8ca30edba39660cfc8916c5a04e31445e8674c8543150139fb16?mediaType=mp4)|1,701||18-24|canada|
+|Cossette Media Inc|3.00 CAD|[108](https://www.snap.com/political-ads/asset/3da42caf876d8ca30edba39660cfc8916c5a04e31445e8674c8543150139fb16?mediaType=mp4)|1,701||18-24|canada|

@@ -1,7 +1,7 @@
 ## 2026 - Alliance for a Better Minnesota 
-**Spent**: 64,017.00
+**Spent**: 65,376.00
 
-**Impressions**: 9,711,783
+**Impressions**: 9,925,939
 
 **Billing Addresses**: 2800 Abilene Dr,Chevy chase,20815,US
 
@@ -19,15 +19,15 @@
 |TKO Political|2,422.00 USD|[9](https://www.snap.com/political-ads/asset/1e44da970a4fe8a3bc5a97f78db6d21c2aa8174cafcea4ed959bedac0c7a0ecf?mediaType=mp4)|322,356||18-34|united states|
 |TKO Political|2,163.00 USD|[10](https://www.snap.com/political-ads/asset/20cb779ae087961e17b9185968b07c102b2228b18c4c31e6839255a6ce990870?mediaType=mp4)|304,595||18-34|united states|
 |TKO Political|1,471.00 USD|[11](https://www.snap.com/political-ads/asset/71c502127b0675806953898c76439f5077475848f652534695387c2d4af81229?mediaType=mp4)|267,818||18-34|united states|
-|TKO Political|1,111.00 USD|[12](https://www.snap.com/political-ads/asset/5bb7c4dc3ce227fb4767e87716aa044ed39fda9c71d41473d0792d307466ac5e?mediaType=mp4)|224,226||18-34|united states|
-|TKO Political|1,028.00 USD|[13](https://www.snap.com/political-ads/asset/2bc1f206e7c91f1d8f3345e29eeb5e2ba5081243c9c837977a82cf9e6a2ef6c8?mediaType=mp4)|207,105||18-34|united states|
-|TKO Political|923.00 USD|[14](https://www.snap.com/political-ads/asset/847291cb028029eb86fec19f889e2860a9f687b00c2f4d4f2d6b3b318746607a?mediaType=mp4)|155,462||18-34|united states|
-|TKO Political|707.00 USD|[15](https://www.snap.com/political-ads/asset/32734b19bc2837edf1dea9661921b77866e83fafd36f3eaac83ffffea52a043a?mediaType=mp4)|123,397||18-34|united states|
-|TKO Political|588.00 USD|[16](https://www.snap.com/political-ads/asset/7a3bed78eff5fb68e882e6c58a122e775f2f219a95100e8fd6ce9df823f969c5?mediaType=mp4)|96,585||18-34|united states|
-|TKO Political|560.00 USD|[17](https://www.snap.com/political-ads/asset/56d8c913d32a1a5cf434a352f75d7d3d63c1c2f317c6253c0e8a064c847f2319?mediaType=mp4)|91,557||18-34|united states|
-|TKO Political|143.00 USD|[18](https://www.snap.com/political-ads/asset/7af1f53e8716a206b0daab4b442bc35d252391c4c64c2aa97a39de2bcf8d0ad2?mediaType=mp4)|29,823||18-34|united states|
-|TKO Political|125.00 USD|[19](https://www.snap.com/political-ads/asset/7019a093a930ffbe224aceeed721e6c34bb462224af51ef05dae75a9f8252dcc?mediaType=mp4)|26,091||18-34|united states|
-|TKO Political|98.00 USD|[20](https://www.snap.com/political-ads/asset/c29cfcbdc942660548349ef1cdcc3aa1cee7b7b56665d966278dc9d481bced25?mediaType=mp4)|20,650||18-34|united states|
-|TKO Political|115.00 USD|[21](https://www.snap.com/political-ads/asset/aae63a851f10401c7ad217a7240234ee731aacad54a45bdb6cfcb34250fa63d2?mediaType=mp4)|19,542||18-34|united states|
-|TKO Political|77.00 USD|[22](https://www.snap.com/political-ads/asset/24ae40cea3df36a5204786ab7221ecdbc039b2c7645596d917cc48445d97018c?mediaType=mp4)|13,195||18-34|united states|
-|TKO Political|72.00 USD|[23](https://www.snap.com/political-ads/asset/70674c634129df59b42bccae4fd6d1fd2cc800d2c2b1a67f93c628918502b9a2?mediaType=mp4)|11,962||18-34|united states|
+|TKO Political|1,448.00 USD|[12](https://www.snap.com/political-ads/asset/847291cb028029eb86fec19f889e2860a9f687b00c2f4d4f2d6b3b318746607a?mediaType=mp4)|239,061||18-34|united states|
+|TKO Political|1,111.00 USD|[13](https://www.snap.com/political-ads/asset/5bb7c4dc3ce227fb4767e87716aa044ed39fda9c71d41473d0792d307466ac5e?mediaType=mp4)|224,226||18-34|united states|
+|TKO Political|1,028.00 USD|[14](https://www.snap.com/political-ads/asset/2bc1f206e7c91f1d8f3345e29eeb5e2ba5081243c9c837977a82cf9e6a2ef6c8?mediaType=mp4)|207,105||18-34|united states|
+|TKO Political|912.00 USD|[15](https://www.snap.com/political-ads/asset/7a3bed78eff5fb68e882e6c58a122e775f2f219a95100e8fd6ce9df823f969c5?mediaType=mp4)|147,813||18-34|united states|
+|TKO Political|839.00 USD|[16](https://www.snap.com/political-ads/asset/56d8c913d32a1a5cf434a352f75d7d3d63c1c2f317c6253c0e8a064c847f2319?mediaType=mp4)|135,011||18-34|united states|
+|TKO Political|707.00 USD|[17](https://www.snap.com/political-ads/asset/32734b19bc2837edf1dea9661921b77866e83fafd36f3eaac83ffffea52a043a?mediaType=mp4)|123,397||18-34|united states|
+|TKO Political|233.00 USD|[18](https://www.snap.com/political-ads/asset/aae63a851f10401c7ad217a7240234ee731aacad54a45bdb6cfcb34250fa63d2?mediaType=mp4)|37,339||18-34|united states|
+|TKO Political|143.00 USD|[19](https://www.snap.com/political-ads/asset/7af1f53e8716a206b0daab4b442bc35d252391c4c64c2aa97a39de2bcf8d0ad2?mediaType=mp4)|29,823||18-34|united states|
+|TKO Political|125.00 USD|[20](https://www.snap.com/political-ads/asset/7019a093a930ffbe224aceeed721e6c34bb462224af51ef05dae75a9f8252dcc?mediaType=mp4)|26,091||18-34|united states|
+|TKO Political|144.00 USD|[21](https://www.snap.com/political-ads/asset/70674c634129df59b42bccae4fd6d1fd2cc800d2c2b1a67f93c628918502b9a2?mediaType=mp4)|23,559||18-34|united states|
+|TKO Political|98.00 USD|[22](https://www.snap.com/political-ads/asset/c29cfcbdc942660548349ef1cdcc3aa1cee7b7b56665d966278dc9d481bced25?mediaType=mp4)|20,650||18-34|united states|
+|TKO Political|118.00 USD|[23](https://www.snap.com/political-ads/asset/24ae40cea3df36a5204786ab7221ecdbc039b2c7645596d917cc48445d97018c?mediaType=mp4)|19,676||18-34|united states|

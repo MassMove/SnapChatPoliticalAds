@@ -1,40 +1,40 @@
 ## 2026 - House Victory Fund 
-**Spent**: 792.00
+**Spent**: 882.00
 
-**Impressions**: 124,912
+**Impressions**: 137,938
 
 **Billing Addresses**: 505 E Oraibi Drive,Phoenix,85024,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Flygon LC|89.00 USD|[0](https://www.snap.com/political-ads/asset/70207ec6c7d6448772cc3ba36b34d1738b2edf906eb202b79eb24a559bb7a50e?mediaType=jpg)|14,736||18+|united states|
-|Flygon LC|61.00 USD|[1](https://www.snap.com/political-ads/asset/90bd9328b4a3c03e51b8c9f31e4836969a4c616601c4745eb3d1591adbe9c782?mediaType=jpg)|10,364||18+|united states|
-|Flygon LC|55.00 USD|[2](https://www.snap.com/political-ads/asset/748b0519ec063d28b1911cd0255dc2620e1a926caff1abf0956abc9ef3f83c1d?mediaType=jpg)|9,500||18+|united states|
-|Flygon LC|51.00 USD|[3](https://www.snap.com/political-ads/asset/19d87dcf70e6a20dc017033d6a1701a7773d2c450c15fddee9de98e746d8583c?mediaType=jpg)|8,888||18+|united states|
-|Flygon LC|50.00 USD|[4](https://www.snap.com/political-ads/asset/1c15b96f7b17e3c604b3a4210e527fea96337b5d4af1305a77ed11deea7c5932?mediaType=jpg)|8,450||18+|united states|
-|Flygon LC|37.00 USD|[5](https://www.snap.com/political-ads/asset/8a0ba9290876d3edef086715847f264e49ec724de56a13a085a4c81eba38112c?mediaType=jpg)|6,750||18+|united states|
-|Flygon LC|39.00 USD|[6](https://www.snap.com/political-ads/asset/61ea965ace95a9b5788dd88f335f65add8a25cc8b9d74e28bdbc28900cf589fa?mediaType=jpg)|6,685||18+|united states|
-|Flygon LC|37.00 USD|[7](https://www.snap.com/political-ads/asset/2af727f5ed048c719fe4d6704c056d90db8ca71ccbc4975de8985b2f10d081a9?mediaType=jpg)|6,119||18+|united states|
-|Flygon LC|50.00 USD|[8](https://www.snap.com/political-ads/asset/03847f9a6d3202333574d0f863075515c9f067588801c99da6181035895a2281?mediaType=jpg)|5,880|||united states|
-|Flygon LC|34.00 USD|[9](https://www.snap.com/political-ads/asset/210a40f8c808d534cc4724196ba4fdb3d6afa9b9d9ddbb5554f126af4bbff67c?mediaType=jpg)|5,564||18+|united states|
-|Flygon LC|28.00 USD|[10](https://www.snap.com/political-ads/asset/7f15bb8d99f2661b9c26cd4409ef6486cd6983bf64eb53cb6a6da7188ad4712d?mediaType=jpg)|4,753||18+|united states|
-|Flygon LC|26.00 USD|[11](https://www.snap.com/political-ads/asset/a6eb04baa27b4669c83c71ff6d1a2e2ad5aea697e19273f3519e850ecfc678e4?mediaType=jpg)|4,277||18+|united states|
-|Flygon LC|31.00 USD|[12](https://www.snap.com/political-ads/asset/0b56e728714232fecdac9d782d8ee628c31877ccd605e5c11b359994cad40a1f?mediaType=jpg)|4,195|||united states|
-|Flygon LC|25.00 USD|[13](https://www.snap.com/political-ads/asset/957f767e8c86ac214acd510851a28af6864ec6e6f0d8c575d1ce2b64911e5a8a?mediaType=jpg)|3,856||18+|united states|
-|Flygon LC|24.00 USD|[14](https://www.snap.com/political-ads/asset/c581e60f11748af7134bffc012484c49ab5ff7bfe907bec9e62600be0b98cf99?mediaType=jpg)|3,190|||united states|
-|Flygon LC|22.00 USD|[15](https://www.snap.com/political-ads/asset/d1d14f438f49b276a688983bc114348e61c0b07ab8952b792e483d90145ae256?mediaType=jpg)|2,794|||united states|
-|Flygon LC|21.00 USD|[16](https://www.snap.com/political-ads/asset/efbd0eec08794422b63742f3d78cfeef992d59f8b6998807f6ed4c9320a8fc8a?mediaType=jpg)|2,721|||united states|
-|Flygon LC|16.00 USD|[17](https://www.snap.com/political-ads/asset/d556bce9cdf70b41fd954297e7cbd7ddb65dc1b0f78ac0abaf463fc16f3c23b2?mediaType=jpg)|2,303||18+|united states|
-|Flygon LC|17.00 USD|[18](https://www.snap.com/political-ads/asset/e8cbed78e1b63eef524bb3fde3ec3b859dcf4e661fa9eede78c99c77c9693b87?mediaType=jpg)|2,059|||united states|
-|Flygon LC|12.00 USD|[19](https://www.snap.com/political-ads/asset/032ebc3e17d41f2f06aba714cf3d16f6d90635d18db795aefe1bd415800f55a2?mediaType=jpg)|1,809|||united states|
-|Flygon LC|11.00 USD|[20](https://www.snap.com/political-ads/asset/6c2430ef23e543b06d923f961c5df107500dbf3cc22c66efbcf786f9010ad076?mediaType=jpg)|1,646||18+|united states|
-|Flygon LC|11.00 USD|[21](https://www.snap.com/political-ads/asset/abbc0855539c128602480cd6075eed514af5e9ffbd9e97dd1fc6dcfaad0c621a?mediaType=jpg)|1,580||18+|united states|
-|Flygon LC|10.00 USD|[22](https://www.snap.com/political-ads/asset/8f816f5c34941dcb0d09ae74479248e2b21184727bd3f50fc4d6d1501033c626?mediaType=jpg)|1,473|||united states|
-|Flygon LC|10.00 USD|[23](https://www.snap.com/political-ads/asset/7a9a9eb8d07c87ef8953cf0ca2fec9ac062d7fff2c966d4fceecaeedc9ab557d?mediaType=jpg)|1,459|||united states|
-|Flygon LC|11.00 USD|[24](https://www.snap.com/political-ads/asset/1530b86e2e4e599609b20c207c81162ea427732e41866f6d4ef5628c68f80dfa?mediaType=jpg)|1,443|||united states|
-|Flygon LC|7.00 USD|[25](https://www.snap.com/political-ads/asset/96d2bc00c5418e7eda64c73d511d462a999c6c3b88e32875c3d6149ac4a4d3ed?mediaType=jpg)|1,025|||united states|
-|Flygon LC|3.00 USD|[26](https://www.snap.com/political-ads/asset/c3b1214f28d74628857696f3405526d81e3d6b78fd381fa90c9221759bf9b666?mediaType=jpg)|531||18+|united states|
-|Flygon LC|1.00 USD|[27](https://www.snap.com/political-ads/asset/40669fae46a1658d48290eb75270925a12f0078436145ca1d6bbaa47ca901144?mediaType=jpg)|260||18+|united states|
-|Flygon LC|1.00 USD|[28](https://www.snap.com/political-ads/asset/e0917955e660b43e3c9381344e43663132016c59ddb7749d0959b6e9330efb1e?mediaType=jpg)|229|||united states|
-|Flygon LC|1.00 USD|[29](https://www.snap.com/political-ads/asset/61180c1dd8b758e4949d54003a0e31140829486c061289e90c08e7e200f5950f?mediaType=jpg)|202|||united states|
-|Flygon LC|1.00 USD|[30](https://www.snap.com/political-ads/asset/e57809aa6a449efa2129c626d404af7b900b322ba3d21f83557582018e1c838a?mediaType=jpg)|171|||united states|
+|Flygon LC|99.00 USD|[0](https://www.snap.com/political-ads/asset/70207ec6c7d6448772cc3ba36b34d1738b2edf906eb202b79eb24a559bb7a50e?mediaType=jpg)|16,217||18+|united states|
+|Flygon LC|68.00 USD|[1](https://www.snap.com/political-ads/asset/90bd9328b4a3c03e51b8c9f31e4836969a4c616601c4745eb3d1591adbe9c782?mediaType=jpg)|11,408||18+|united states|
+|Flygon LC|57.00 USD|[2](https://www.snap.com/political-ads/asset/748b0519ec063d28b1911cd0255dc2620e1a926caff1abf0956abc9ef3f83c1d?mediaType=jpg)|9,911||18+|united states|
+|Flygon LC|56.00 USD|[3](https://www.snap.com/political-ads/asset/19d87dcf70e6a20dc017033d6a1701a7773d2c450c15fddee9de98e746d8583c?mediaType=jpg)|9,553||18+|united states|
+|Flygon LC|55.00 USD|[4](https://www.snap.com/political-ads/asset/1c15b96f7b17e3c604b3a4210e527fea96337b5d4af1305a77ed11deea7c5932?mediaType=jpg)|9,273||18+|united states|
+|Flygon LC|43.00 USD|[5](https://www.snap.com/political-ads/asset/8a0ba9290876d3edef086715847f264e49ec724de56a13a085a4c81eba38112c?mediaType=jpg)|7,754||18+|united states|
+|Flygon LC|44.00 USD|[6](https://www.snap.com/political-ads/asset/61ea965ace95a9b5788dd88f335f65add8a25cc8b9d74e28bdbc28900cf589fa?mediaType=jpg)|7,394||18+|united states|
+|Flygon LC|41.00 USD|[7](https://www.snap.com/political-ads/asset/2af727f5ed048c719fe4d6704c056d90db8ca71ccbc4975de8985b2f10d081a9?mediaType=jpg)|6,791||18+|united states|
+|Flygon LC|41.00 USD|[8](https://www.snap.com/political-ads/asset/210a40f8c808d534cc4724196ba4fdb3d6afa9b9d9ddbb5554f126af4bbff67c?mediaType=jpg)|6,726||18+|united states|
+|Flygon LC|55.00 USD|[9](https://www.snap.com/political-ads/asset/03847f9a6d3202333574d0f863075515c9f067588801c99da6181035895a2281?mediaType=jpg)|6,351|||united states|
+|Flygon LC|31.00 USD|[10](https://www.snap.com/political-ads/asset/7f15bb8d99f2661b9c26cd4409ef6486cd6983bf64eb53cb6a6da7188ad4712d?mediaType=jpg)|5,287||18+|united states|
+|Flygon LC|30.00 USD|[11](https://www.snap.com/political-ads/asset/a6eb04baa27b4669c83c71ff6d1a2e2ad5aea697e19273f3519e850ecfc678e4?mediaType=jpg)|4,742||18+|united states|
+|Flygon LC|34.00 USD|[12](https://www.snap.com/political-ads/asset/0b56e728714232fecdac9d782d8ee628c31877ccd605e5c11b359994cad40a1f?mediaType=jpg)|4,546|||united states|
+|Flygon LC|27.00 USD|[13](https://www.snap.com/political-ads/asset/957f767e8c86ac214acd510851a28af6864ec6e6f0d8c575d1ce2b64911e5a8a?mediaType=jpg)|4,208||18+|united states|
+|Flygon LC|27.00 USD|[14](https://www.snap.com/political-ads/asset/c581e60f11748af7134bffc012484c49ab5ff7bfe907bec9e62600be0b98cf99?mediaType=jpg)|3,611|||united states|
+|Flygon LC|26.00 USD|[15](https://www.snap.com/political-ads/asset/efbd0eec08794422b63742f3d78cfeef992d59f8b6998807f6ed4c9320a8fc8a?mediaType=jpg)|3,268|||united states|
+|Flygon LC|25.00 USD|[16](https://www.snap.com/political-ads/asset/d1d14f438f49b276a688983bc114348e61c0b07ab8952b792e483d90145ae256?mediaType=jpg)|3,179|||united states|
+|Flygon LC|19.00 USD|[17](https://www.snap.com/political-ads/asset/d556bce9cdf70b41fd954297e7cbd7ddb65dc1b0f78ac0abaf463fc16f3c23b2?mediaType=jpg)|2,639||18+|united states|
+|Flygon LC|18.00 USD|[18](https://www.snap.com/political-ads/asset/e8cbed78e1b63eef524bb3fde3ec3b859dcf4e661fa9eede78c99c77c9693b87?mediaType=jpg)|2,169|||united states|
+|Flygon LC|13.00 USD|[19](https://www.snap.com/political-ads/asset/032ebc3e17d41f2f06aba714cf3d16f6d90635d18db795aefe1bd415800f55a2?mediaType=jpg)|1,971|||united states|
+|Flygon LC|12.00 USD|[20](https://www.snap.com/political-ads/asset/6c2430ef23e543b06d923f961c5df107500dbf3cc22c66efbcf786f9010ad076?mediaType=jpg)|1,828||18+|united states|
+|Flygon LC|12.00 USD|[21](https://www.snap.com/political-ads/asset/7a9a9eb8d07c87ef8953cf0ca2fec9ac062d7fff2c966d4fceecaeedc9ab557d?mediaType=jpg)|1,725|||united states|
+|Flygon LC|11.00 USD|[22](https://www.snap.com/political-ads/asset/abbc0855539c128602480cd6075eed514af5e9ffbd9e97dd1fc6dcfaad0c621a?mediaType=jpg)|1,654||18+|united states|
+|Flygon LC|10.00 USD|[23](https://www.snap.com/political-ads/asset/8f816f5c34941dcb0d09ae74479248e2b21184727bd3f50fc4d6d1501033c626?mediaType=jpg)|1,571|||united states|
+|Flygon LC|12.00 USD|[24](https://www.snap.com/political-ads/asset/1530b86e2e4e599609b20c207c81162ea427732e41866f6d4ef5628c68f80dfa?mediaType=jpg)|1,527|||united states|
+|Flygon LC|7.00 USD|[25](https://www.snap.com/political-ads/asset/96d2bc00c5418e7eda64c73d511d462a999c6c3b88e32875c3d6149ac4a4d3ed?mediaType=jpg)|1,059|||united states|
+|Flygon LC|4.00 USD|[26](https://www.snap.com/political-ads/asset/c3b1214f28d74628857696f3405526d81e3d6b78fd381fa90c9221759bf9b666?mediaType=jpg)|580||18+|united states|
+|Flygon LC|2.00 USD|[27](https://www.snap.com/political-ads/asset/40669fae46a1658d48290eb75270925a12f0078436145ca1d6bbaa47ca901144?mediaType=jpg)|285||18+|united states|
+|Flygon LC|1.00 USD|[28](https://www.snap.com/political-ads/asset/e57809aa6a449efa2129c626d404af7b900b322ba3d21f83557582018e1c838a?mediaType=jpg)|253|||united states|
+|Flygon LC|1.00 USD|[29](https://www.snap.com/political-ads/asset/e0917955e660b43e3c9381344e43663132016c59ddb7749d0959b6e9330efb1e?mediaType=jpg)|238|||united states|
+|Flygon LC|1.00 USD|[30](https://www.snap.com/political-ads/asset/61180c1dd8b758e4949d54003a0e31140829486c061289e90c08e7e200f5950f?mediaType=jpg)|220|||united states|

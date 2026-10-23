@@ -1,24 +1,24 @@
 ## 2026 - North Star 
-**Spent**: 47,122.00
+**Spent**: 48,070.00
 
-**Impressions**: 4,712,524
+**Impressions**: 4,784,679
 
 **Billing Addresses**: 1421 Prince St Suite 320,Alexandria,22314,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |MVAR Media: North Star AK|13,654.00 USD|[0](https://www.snap.com/political-ads/asset/b79237b4d97ae1dc1d458fb154c7215d711d7f81c2ef546f0b5e33ca1a13c51a?mediaType=mp4)|1,365,971||18+|united states|
-|MVAR Media: North Star AK|11,190.00 USD|[1](https://www.snap.com/political-ads/asset/a08ca770505811a1a8ec41ebd235e4fc7c80ab4a2b3c0cea2a582bddf56803df?mediaType=mp4)|1,121,647||18+|united states|
+|MVAR Media: North Star AK|11,649.00 USD|[1](https://www.snap.com/political-ads/asset/a08ca770505811a1a8ec41ebd235e4fc7c80ab4a2b3c0cea2a582bddf56803df?mediaType=mp4)|1,154,049||18+|united states|
 |MVAR Media: North Star AK|11,723.00 USD|[2](https://www.snap.com/political-ads/asset/392f2fad05ed3b7f2ba35107bef862791816f17a9ac7c8aff6ccd41721857905?mediaType=mp4)|1,019,573||18+|united states|
 |MVAR Media: North Star AK|2,260.00 USD|[3](https://www.snap.com/political-ads/asset/b79237b4d97ae1dc1d458fb154c7215d711d7f81c2ef546f0b5e33ca1a13c51a?mediaType=mp4)|294,238||18+|united states|
-|MVAR Media: North Star AK|1,770.00 USD|[4](https://www.snap.com/political-ads/asset/a08ca770505811a1a8ec41ebd235e4fc7c80ab4a2b3c0cea2a582bddf56803df?mediaType=mp4)|252,961||18+|united states|
+|MVAR Media: North Star AK|1,826.00 USD|[4](https://www.snap.com/political-ads/asset/a08ca770505811a1a8ec41ebd235e4fc7c80ab4a2b3c0cea2a582bddf56803df?mediaType=mp4)|258,652||18+|united states|
 |MVAR Media: North Star AK|2,078.00 USD|[5](https://www.snap.com/political-ads/asset/ab412567c80c01d6bdfaccce8d990d80375ebcf3a4dba879e26ab60f04f6b7cd?mediaType=mp4)|229,908||18+|united states|
-|MVAR Media: North Star AK|2,233.00 USD|[6](https://www.snap.com/political-ads/asset/6cc94217f7ea204122e9ee91cd4a002f06cb0a3549ca3110d433c5b50a30e4a6?mediaType=mp4)|175,910||18+|united states|
+|MVAR Media: North Star AK|2,397.00 USD|[6](https://www.snap.com/political-ads/asset/6cc94217f7ea204122e9ee91cd4a002f06cb0a3549ca3110d433c5b50a30e4a6?mediaType=mp4)|187,706||18+|united states|
 |MVAR Media: North Star AK|515.00 USD|[7](https://www.snap.com/political-ads/asset/ab412567c80c01d6bdfaccce8d990d80375ebcf3a4dba879e26ab60f04f6b7cd?mediaType=mp4)|79,272||18+|united states|
-|MVAR Media: North Star AK|339.00 USD|[8](https://www.snap.com/political-ads/asset/6cc94217f7ea204122e9ee91cd4a002f06cb0a3549ca3110d433c5b50a30e4a6?mediaType=mp4)|43,288||18+|united states|
-|MVAR Media: North Star AK|351.00 USD|[9](https://www.snap.com/political-ads/asset/30c5f3e2c53af684e9fe059aff602031bd78f81329a6970ee517ae40feebc6cb?mediaType=mp4)|30,163||18+|united states|
-|MVAR Media: North Star AK|355.00 USD|[10](https://www.snap.com/political-ads/asset/15cfbadd1f7cac5058e9b427fc93f31a810ecfc86141e371659f1470ed85f2e1?mediaType=mp4)|28,306||18+|united states|
-|MVAR Media: North Star AK|202.00 USD|[11](https://www.snap.com/political-ads/asset/30c5f3e2c53af684e9fe059aff602031bd78f81329a6970ee517ae40feebc6cb?mediaType=mp4)|25,544||18+|united states|
-|MVAR Media: North Star AK|230.00 USD|[12](https://www.snap.com/political-ads/asset/d511d32120291a253df82dab6b9f17d40e149d447226cd29dac57930f644062c?mediaType=mp4)|18,393||18+|united states|
-|MVAR Media: North Star AK|117.00 USD|[13](https://www.snap.com/political-ads/asset/d511d32120291a253df82dab6b9f17d40e149d447226cd29dac57930f644062c?mediaType=mp4)|14,370||18+|united states|
-|MVAR Media: North Star AK|105.00 USD|[14](https://www.snap.com/political-ads/asset/15cfbadd1f7cac5058e9b427fc93f31a810ecfc86141e371659f1470ed85f2e1?mediaType=mp4)|12,980||18+|united states|
+|MVAR Media: North Star AK|354.00 USD|[8](https://www.snap.com/political-ads/asset/6cc94217f7ea204122e9ee91cd4a002f06cb0a3549ca3110d433c5b50a30e4a6?mediaType=mp4)|44,868||18+|united states|
+|MVAR Media: North Star AK|465.00 USD|[9](https://www.snap.com/political-ads/asset/15cfbadd1f7cac5058e9b427fc93f31a810ecfc86141e371659f1470ed85f2e1?mediaType=mp4)|36,166||18+|united states|
+|MVAR Media: North Star AK|366.00 USD|[10](https://www.snap.com/political-ads/asset/30c5f3e2c53af684e9fe059aff602031bd78f81329a6970ee517ae40feebc6cb?mediaType=mp4)|31,362||18+|united states|
+|MVAR Media: North Star AK|215.00 USD|[11](https://www.snap.com/political-ads/asset/30c5f3e2c53af684e9fe059aff602031bd78f81329a6970ee517ae40feebc6cb?mediaType=mp4)|26,908||18+|united states|
+|MVAR Media: North Star AK|287.00 USD|[12](https://www.snap.com/political-ads/asset/d511d32120291a253df82dab6b9f17d40e149d447226cd29dac57930f644062c?mediaType=mp4)|22,479||18+|united states|
+|MVAR Media: North Star AK|146.00 USD|[13](https://www.snap.com/political-ads/asset/15cfbadd1f7cac5058e9b427fc93f31a810ecfc86141e371659f1470ed85f2e1?mediaType=mp4)|17,348||18+|united states|
+|MVAR Media: North Star AK|135.00 USD|[14](https://www.snap.com/political-ads/asset/d511d32120291a253df82dab6b9f17d40e149d447226cd29dac57930f644062c?mediaType=mp4)|16,179||18+|united states|

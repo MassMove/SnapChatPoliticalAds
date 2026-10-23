@@ -1,7 +1,7 @@
 ## 2025 - Syrian American Medical Society 
-**Spent**: 6,618.00
+**Spent**: 6,586.00
 
-**Impressions**: 393,739
+**Impressions**: 392,577
 
 **Billing Addresses**: 1012 14th Street, NW Ste 910,Washington ,20005,US
 
@@ -44,28 +44,27 @@
 |Syrian American Medical Society|50.00 USD|[34](https://www.snap.com/political-ads/asset/7176a737098583632f4ccb573c89a60c5b5f1fa9dfdf79613389c6b70d21a90e?mediaType=jpg)|1,308||18+|united states|
 |Syrian American Medical Society|7.00 USD|[35](https://www.snap.com/political-ads/asset/a1140783d35acdd2f33361021eade6c1fb5dba53dcd168ee31fe855d87b7c97b?mediaType=png)|1,214||21+|united states|
 |Syrian American Medical Society|47.00 USD|[36](https://www.snap.com/political-ads/asset/7176a737098583632f4ccb573c89a60c5b5f1fa9dfdf79613389c6b70d21a90e?mediaType=jpg)|1,187||18+|united states|
-|Syrian American Medical Society|32.00 USD|[37](https://www.snap.com/political-ads/asset/695ccd655dbc24aad88ecdc17efef17d8e80eb6523dc9e7a3c74d63658194366?mediaType=png)|1,162||18+|united states|
-|Syrian American Medical Society|26.00 USD|[38](https://www.snap.com/political-ads/asset/e38b0bb9805f3aa3cbd0b6fa6cb2f48a7f7dca4595fe50b2b8c9fe86a9511247?mediaType=png)|1,114||18+|united states|
-|Syrian American Medical Society|30.00 USD|[39](https://www.snap.com/political-ads/asset/695ccd655dbc24aad88ecdc17efef17d8e80eb6523dc9e7a3c74d63658194366?mediaType=png)|1,090||18+|united states|
-|Syrian American Medical Society|39.00 USD|[40](https://www.snap.com/political-ads/asset/dc974c2b659da6881b97a944b87097cabfb68aa31b9e4d6abaa1836fa3ddd59b?mediaType=jpg)|1,067||24+|united states|
-|Syrian American Medical Society|46.00 USD|[41](https://www.snap.com/political-ads/asset/dc974c2b659da6881b97a944b87097cabfb68aa31b9e4d6abaa1836fa3ddd59b?mediaType=jpg)|1,058||24+|united states|
-|Syrian American Medical Society|32.00 USD|[42](https://www.snap.com/political-ads/asset/4efd4368440bc3443fb2a97cc32714955827a111a86f56c13bf1060cb6ddc6e0?mediaType=jpg)|988||18+|united states|
-|Syrian American Medical Society|29.00 USD|[43](https://www.snap.com/political-ads/asset/8227b177c19d75f86521aad45fe9118e9239b8908f75cf355fb6844de56f3021?mediaType=jpg)|921||18+|united states|
-|Syrian American Medical Society|31.00 USD|[44](https://www.snap.com/political-ads/asset/00fc10cf060f886e731dfa4bf8c9a1373855814e9de224baf138975202115d98?mediaType=jpg)|880||18+|united states|
-|Syrian American Medical Society|30.00 USD|[45](https://www.snap.com/political-ads/asset/8227b177c19d75f86521aad45fe9118e9239b8908f75cf355fb6844de56f3021?mediaType=jpg)|850||18+|united states|
-|Syrian American Medical Society|10.00 USD|[46](https://www.snap.com/political-ads/asset/2eb29b8102efd9e0a554b7a53eedade37e3a890d56aab9f1e0c47db091fadbaa?mediaType=png)|821|||united states|
-|Syrian American Medical Society|15.00 USD|[47](https://www.snap.com/political-ads/asset/cfb53cfb3213c32940b8b149e5d17ab3fa21225a468dc6f84ff7c853c6bf1226?mediaType=mp4)|816|||united states|
-|Syrian American Medical Society|30.00 USD|[48](https://www.snap.com/political-ads/asset/3ef72f2a14b369d1173e7dc9577c6ead5a92524a38999505139b60320f6dab25?mediaType=png)|739||18+|united states|
-|Syrian American Medical Society|50.00 USD|[49](https://www.snap.com/political-ads/asset/4dd7972d7a4bbe7ac766410b2b09a117f6b333ea8a7a42a9aa223a42f81fd191?mediaType=jpg)|731||18+|united states|
-|Syrian American Medical Society|20.00 USD|[50](https://www.snap.com/political-ads/asset/0ba7c524d8283f661bd6ce72a93ae1ee501ef50db08811c571c817a6c3384a96?mediaType=jpg)|692||18+|united states|
-|Syrian American Medical Society|21.00 USD|[51](https://www.snap.com/political-ads/asset/3ef72f2a14b369d1173e7dc9577c6ead5a92524a38999505139b60320f6dab25?mediaType=png)|674||18+|united states|
-|Syrian American Medical Society|22.00 USD|[52](https://www.snap.com/political-ads/asset/2a4840ccaea1b6c5f829475a51e439602e46cb8740d1c48820f044d94c36558b?mediaType=jpg)|617||24+|united states|
-|Syrian American Medical Society|18.00 USD|[53](https://www.snap.com/political-ads/asset/2a4840ccaea1b6c5f829475a51e439602e46cb8740d1c48820f044d94c36558b?mediaType=jpg)|567||24+|united states|
-|Syrian American Medical Society|21.00 USD|[54](https://www.snap.com/political-ads/asset/05f04c3e37ede7e384d0508f9950fa1350d57d08006f9eabc60575c1e40c5dd6?mediaType=jpg)|512||24+|united states|
-|Syrian American Medical Society|4.00 USD|[55](https://www.snap.com/political-ads/asset/f45398c82ec08c1a0e327731244f8d649ee91fc59ba90edf1d0590f4fa930136?mediaType=png)|450||18+|united states|
-|Syrian American Medical Society|15.00 USD|[56](https://www.snap.com/political-ads/asset/05f04c3e37ede7e384d0508f9950fa1350d57d08006f9eabc60575c1e40c5dd6?mediaType=jpg)|430||24+|united states|
-|Syrian American Medical Society|17.00 USD|[57](https://www.snap.com/political-ads/asset/43b19ae9d345edfb8857954f10a0ea02c7a4a72357f7e69409dde2c4bfbe58d2?mediaType=jpg)|376||18+|united states|
-|Syrian American Medical Society|19.00 USD|[58](https://www.snap.com/political-ads/asset/507759f2e352f4b228a4ddd55fc159d5755879574f7f7ca804985813ca735a9a?mediaType=jpg)|345||24+|united states|
-|Syrian American Medical Society|16.00 USD|[59](https://www.snap.com/political-ads/asset/507759f2e352f4b228a4ddd55fc159d5755879574f7f7ca804985813ca735a9a?mediaType=jpg)|297||24+|united states|
-|Syrian American Medical Society|3.00 USD|[60](https://www.snap.com/political-ads/asset/8d5f2fa1ce0b55a32d039ee4bc226b0cfb59131db9f33764ffa3cd7bae80a730?mediaType=png)|222||18+|united states|
-|Syrian American Medical Society|3.00 USD|[61](https://www.snap.com/political-ads/asset/b5275968219754aa3a1c2ef79514b970e261ac62ca3c7aa685a973e9c46f9d55?mediaType=png)|152||21+|united states|
+|Syrian American Medical Society|26.00 USD|[37](https://www.snap.com/political-ads/asset/e38b0bb9805f3aa3cbd0b6fa6cb2f48a7f7dca4595fe50b2b8c9fe86a9511247?mediaType=png)|1,114||18+|united states|
+|Syrian American Medical Society|30.00 USD|[38](https://www.snap.com/political-ads/asset/695ccd655dbc24aad88ecdc17efef17d8e80eb6523dc9e7a3c74d63658194366?mediaType=png)|1,090||18+|united states|
+|Syrian American Medical Society|39.00 USD|[39](https://www.snap.com/political-ads/asset/dc974c2b659da6881b97a944b87097cabfb68aa31b9e4d6abaa1836fa3ddd59b?mediaType=jpg)|1,067||24+|united states|
+|Syrian American Medical Society|46.00 USD|[40](https://www.snap.com/political-ads/asset/dc974c2b659da6881b97a944b87097cabfb68aa31b9e4d6abaa1836fa3ddd59b?mediaType=jpg)|1,058||24+|united states|
+|Syrian American Medical Society|32.00 USD|[41](https://www.snap.com/political-ads/asset/4efd4368440bc3443fb2a97cc32714955827a111a86f56c13bf1060cb6ddc6e0?mediaType=jpg)|988||18+|united states|
+|Syrian American Medical Society|29.00 USD|[42](https://www.snap.com/political-ads/asset/8227b177c19d75f86521aad45fe9118e9239b8908f75cf355fb6844de56f3021?mediaType=jpg)|921||18+|united states|
+|Syrian American Medical Society|31.00 USD|[43](https://www.snap.com/political-ads/asset/00fc10cf060f886e731dfa4bf8c9a1373855814e9de224baf138975202115d98?mediaType=jpg)|880||18+|united states|
+|Syrian American Medical Society|30.00 USD|[44](https://www.snap.com/political-ads/asset/8227b177c19d75f86521aad45fe9118e9239b8908f75cf355fb6844de56f3021?mediaType=jpg)|850||18+|united states|
+|Syrian American Medical Society|10.00 USD|[45](https://www.snap.com/political-ads/asset/2eb29b8102efd9e0a554b7a53eedade37e3a890d56aab9f1e0c47db091fadbaa?mediaType=png)|821|||united states|
+|Syrian American Medical Society|15.00 USD|[46](https://www.snap.com/political-ads/asset/cfb53cfb3213c32940b8b149e5d17ab3fa21225a468dc6f84ff7c853c6bf1226?mediaType=mp4)|816|||united states|
+|Syrian American Medical Society|30.00 USD|[47](https://www.snap.com/political-ads/asset/3ef72f2a14b369d1173e7dc9577c6ead5a92524a38999505139b60320f6dab25?mediaType=png)|739||18+|united states|
+|Syrian American Medical Society|50.00 USD|[48](https://www.snap.com/political-ads/asset/4dd7972d7a4bbe7ac766410b2b09a117f6b333ea8a7a42a9aa223a42f81fd191?mediaType=jpg)|731||18+|united states|
+|Syrian American Medical Society|20.00 USD|[49](https://www.snap.com/political-ads/asset/0ba7c524d8283f661bd6ce72a93ae1ee501ef50db08811c571c817a6c3384a96?mediaType=jpg)|692||18+|united states|
+|Syrian American Medical Society|21.00 USD|[50](https://www.snap.com/political-ads/asset/3ef72f2a14b369d1173e7dc9577c6ead5a92524a38999505139b60320f6dab25?mediaType=png)|674||18+|united states|
+|Syrian American Medical Society|22.00 USD|[51](https://www.snap.com/political-ads/asset/2a4840ccaea1b6c5f829475a51e439602e46cb8740d1c48820f044d94c36558b?mediaType=jpg)|617||24+|united states|
+|Syrian American Medical Society|18.00 USD|[52](https://www.snap.com/political-ads/asset/2a4840ccaea1b6c5f829475a51e439602e46cb8740d1c48820f044d94c36558b?mediaType=jpg)|567||24+|united states|
+|Syrian American Medical Society|21.00 USD|[53](https://www.snap.com/political-ads/asset/05f04c3e37ede7e384d0508f9950fa1350d57d08006f9eabc60575c1e40c5dd6?mediaType=jpg)|512||24+|united states|
+|Syrian American Medical Society|4.00 USD|[54](https://www.snap.com/political-ads/asset/f45398c82ec08c1a0e327731244f8d649ee91fc59ba90edf1d0590f4fa930136?mediaType=png)|450||18+|united states|
+|Syrian American Medical Society|15.00 USD|[55](https://www.snap.com/political-ads/asset/05f04c3e37ede7e384d0508f9950fa1350d57d08006f9eabc60575c1e40c5dd6?mediaType=jpg)|430||24+|united states|
+|Syrian American Medical Society|17.00 USD|[56](https://www.snap.com/political-ads/asset/43b19ae9d345edfb8857954f10a0ea02c7a4a72357f7e69409dde2c4bfbe58d2?mediaType=jpg)|376||18+|united states|
+|Syrian American Medical Society|19.00 USD|[57](https://www.snap.com/political-ads/asset/507759f2e352f4b228a4ddd55fc159d5755879574f7f7ca804985813ca735a9a?mediaType=jpg)|345||24+|united states|
+|Syrian American Medical Society|16.00 USD|[58](https://www.snap.com/political-ads/asset/507759f2e352f4b228a4ddd55fc159d5755879574f7f7ca804985813ca735a9a?mediaType=jpg)|297||24+|united states|
+|Syrian American Medical Society|3.00 USD|[59](https://www.snap.com/political-ads/asset/8d5f2fa1ce0b55a32d039ee4bc226b0cfb59131db9f33764ffa3cd7bae80a730?mediaType=png)|222||18+|united states|
+|Syrian American Medical Society|3.00 USD|[60](https://www.snap.com/political-ads/asset/b5275968219754aa3a1c2ef79514b970e261ac62ca3c7aa685a973e9c46f9d55?mediaType=png)|152||21+|united states|

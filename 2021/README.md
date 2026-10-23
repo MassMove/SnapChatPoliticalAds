@@ -98,7 +98,7 @@
 |[Crimestoppers UK](Crimestoppers_UK.md) - Edison Media|4,023.00 GBP|2,579,775||18+|united kingdom|
 |[Dream Defenders](Dream_Defenders.md) - Dream Defenders: DCR, Stop HB1|7,000.00 USD|2,530,345||18+|united states|
 |[Volt Nederland](Volt_Nederland.md) - Volt Nederland: Volt Nederland|3,049.00 EUR|2,418,528|FEMALE, MALE|18-35|netherlands|
-|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|27,127.00 USD|2,383,651|FEMALE, MALE|18+, 18-34|united states|
+|[Voter Formation Project](Voter_Formation_Project.md) - Voter Formation Project|27,051.00 USD|2,377,338|FEMALE, MALE|18+, 18-34|united states|
 |[Rijksoverheid](Rijksoverheid.md) - Initiative Media B.V|4,720.00 EUR|2,349,537||17-, 18-, 18-18|netherlands|
 |[Women Vote! PAC](Women_Vote!_PAC.md) - Wavelength Strategy: Women Vote|33,836.00 USD|2,214,582||18+|united states|
 |[Elections Ontario](Elections_Ontario.md) - Cossette Media Inc|14,000.00 CAD|2,205,148||18+|canada|

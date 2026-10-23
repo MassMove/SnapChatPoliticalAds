@@ -43,7 +43,7 @@
 |[Columbia/Boone Co Health Dept](Columbia_Boone_Co_Health_Dept.md) - Columbia/Boone County Department of Public Health and Human Services|2,897.00 USD|1,567,430|||united states|
 |[PPOSBC Community Action Fund PAC](PPOSBC_Community_Action_Fund_PAC.md) - Open Hand Media|6,005.00 USD|1,522,367|FEMALE|18+, 18-25|united states|
 |[Our Lives Our Vote](Our_Lives_Our_Vote.md) - ACRONYM|4,081.00 USD|1,205,703||18-28|united states|
-|[King County Elections](King_County_Elections.md) - Mammoth|2,551.00 USD|1,196,776||18+|united states|
+|[King County Elections](King_County_Elections.md) - Mammoth|2,512.00 USD|1,179,133||18+|united states|
 |[Likewise Media](Likewise_Media.md) - ACRONYM|2,499.00 USD|1,110,812||18+|united states|
 |[Amnesty International](Amnesty_International.md) - Amnesty International Switzerland|1,214.00 EUR|993,308||18+, 18-22|switzerland|
 |[Florida Democratic Party](Florida_Democratic_Party.md) - GPS Impact|3,706.00 USD|972,310||18+|united states|

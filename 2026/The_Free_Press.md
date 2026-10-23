@@ -1,7 +1,7 @@
 ## 2026 - The Free Press 
-**Spent**: 42,385.00
+**Spent**: 42,712.00
 
-**Impressions**: 7,147,901
+**Impressions**: 7,178,217
 
 **Billing Addresses**: 82 Nassau St., Suite 62658,New York,10038,US
 
@@ -10,8 +10,8 @@
 |The Free Press|8,599.00 USD|[0](https://www.snap.com/political-ads/asset/88cbaef7573a42e2e030c8368eda675987c17809b73f170724e99fba2cf2d593?mediaType=mp4)|1,541,619||18+|united states|
 |The Free Press|6,226.00 USD|[1](https://www.snap.com/political-ads/asset/9aeef02945c8ce1ae7d9f440f777af3173c5b94d96ef41610a75ded6cac8fd93?mediaType=png)|967,724||18+|united states|
 |The Free Press|4,588.00 USD|[2](https://www.snap.com/political-ads/asset/7e6c120c3f460da03be45620bd8abbfc25dfb9d3d7d8002d3c07a74b0f476d99?mediaType=png)|875,933||18+|united states|
-|The Free Press|4,160.00 USD|[3](https://www.snap.com/political-ads/asset/10eaada8a60154d8073625e8efe7650ec486e5c25d4e4dac0a72ce706fcd459f?mediaType=png)|669,610||18+|united states|
-|The Free Press|3,750.00 USD|[4](https://www.snap.com/political-ads/asset/d093a29496cc6e37fc39c9a36552aaa4eae99dae887529ab42d55e19d62374d4?mediaType=png)|647,256||18+|united states|
+|The Free Press|4,077.00 USD|[3](https://www.snap.com/political-ads/asset/d093a29496cc6e37fc39c9a36552aaa4eae99dae887529ab42d55e19d62374d4?mediaType=png)|677,572||18+|united states|
+|The Free Press|4,160.00 USD|[4](https://www.snap.com/political-ads/asset/10eaada8a60154d8073625e8efe7650ec486e5c25d4e4dac0a72ce706fcd459f?mediaType=png)|669,610||18+|united states|
 |The Free Press|2,171.00 USD|[5](https://www.snap.com/political-ads/asset/8bd032f0d7cc8259d8e9097194498aae0f6b65992fb49e250119523387f46812?mediaType=png)|405,505||18+|united states|
 |The Free Press|1,189.00 USD|[6](https://www.snap.com/political-ads/asset/a3b317a725d7738610eda8b2103dd3506cc012d33c92459df195f2685ff9c2d4?mediaType=mp4)|251,800||18+|united states|
 |The Free Press|1,161.00 USD|[7](https://www.snap.com/political-ads/asset/b4aab766beda79cd61f966e6c1a139876c58f8368f47994a7214349773a83da8?mediaType=png)|156,186||18+|united states|
