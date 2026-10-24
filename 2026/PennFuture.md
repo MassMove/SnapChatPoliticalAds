@@ -1,11 +1,11 @@
 ## 2026 - PennFuture 
-**Spent**: 846.00
+**Spent**: 907.00
 
-**Impressions**: 60,714
+**Impressions**: 66,036
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |SBDigital|779.00 USD|[0](https://www.snap.com/political-ads/asset/4af1c05595f8d5db83e75d25f9ba80be9ed12674f1dbd9e40121e73ceed2dd29?mediaType=mp4)|54,748||18-30|united states|
-|SBDigital|67.00 USD|[1](https://www.snap.com/political-ads/asset/4af1c05595f8d5db83e75d25f9ba80be9ed12674f1dbd9e40121e73ceed2dd29?mediaType=mp4)|5,966||18-30|united states|
+|SBDigital|128.00 USD|[1](https://www.snap.com/political-ads/asset/4af1c05595f8d5db83e75d25f9ba80be9ed12674f1dbd9e40121e73ceed2dd29?mediaType=mp4)|11,288||18-30|united states|

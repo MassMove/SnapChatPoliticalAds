@@ -1,7 +1,7 @@
 ## 2020 - Shawn Hingson For Sheriff 
 **Spent**: 593.00
 
-**Impressions**: 201,626
+**Impressions**: 201,748
 
 **Billing Addresses**: US
 
@@ -22,3 +22,4 @@
 |JAB Media: Shawn Hingson For Suwannee County Sheriff|1.00 USD|[12](https://www.snap.com/political-ads/asset/e831fb2d1e2bba0ede384509535afb43649d7fd172b3d8c73a4c66ce53b5aaa0?mediaType=png)|364||18+|united states|
 |JAB Media|1.00 USD|[13](https://www.snap.com/political-ads/asset/190de50983207a470e53331112b5ab93e0bfc3efdb2598c6b0f265538cd77236?mediaType=png)|345||18+|united states|
 |JAB Media: Shawn Hingson For Suwannee County Sheriff|1.00 USD|[14](https://www.snap.com/political-ads/asset/2632d43af7256b44c7607e462e047463e5fa89002952bca63efd0f849e600f30?mediaType=png)|310||18+|united states|
+|JAB Media: Shawn Hingson For Suwannee County Sheriff|0.00 USD|[15](https://www.snap.com/political-ads/asset/2632d43af7256b44c7607e462e047463e5fa89002952bca63efd0f849e600f30?mediaType=png)|122||18+|united states|

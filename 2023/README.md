@@ -3,7 +3,7 @@
 |:---|---:|---:|:---|:---|:---|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|719,534.00 USD|97,399,732|FEMALE|35+|united states|
 |[Australian Electoral Commission](Australian_Electoral_Commission.md) - Australian Government Department of Finance|458,939.00 AUD|74,155,620||16-24, 17-24, 17-34, 18+, 18-24|australia|
-|[Patagonia](Patagonia.md) - Patagonia Europe|259,525.00 EUR, USD|55,784,196||15+, 18+, 18-30, 18-34, 18-35, 18-40, 18-49, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia Europe|259,924.00 EUR, USD|55,822,027||15+, 18+, 18-30, 18-34, 18-35, 18-40, 18-49, 20-, 21+|australia, belgium, canada, france, germany, italy, netherlands, portugal, spain, sweden, switzerland, united kingdom, united states|
 |[Planned Parenthood](Planned_Parenthood.md) - Blueprint Interactive: STD Campaign April 2023|196,320.00 USD|44,842,023|FEMALE|16-26, 18+, 18-26, 18-29, 18-30, 18-34, 18-35|united states|
 |[NYC Health Department](NYC_Health_Department.md) - OpAD Media|82,072.00 USD|36,965,598|FEMALE|30-|united states|
 |[OURR](OURR.md) - Wavelength Strategy: OURR|254,437.00 USD|33,336,048|FEMALE|18+, 18-44, 25+|united states|

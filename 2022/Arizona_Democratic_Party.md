@@ -1,7 +1,7 @@
 ## 2022 - Arizona Democratic Party 
-**Spent**: 114,654.00
+**Spent**: 114,915.00
 
-**Impressions**: 16,535,075
+**Impressions**: 16,552,540
 
 **Billing Addresses**: 
 - 222 W Ontario, Suite 600,,Chicago,60654,US
@@ -77,8 +77,9 @@
 |Wavelength Strategy|310.00 USD|[65](https://www.snap.com/political-ads/asset/5c290c29e0c72ead5e8f2335e252c942b36db2a39478937271d726fcc73178f1?mediaType=png)|20,664||18+|united states|US|
 |Wavelength Strategy|274.00 USD|[66](https://www.snap.com/political-ads/asset/e66df3c4b162a41483af391d196aab7bdc6b6651c19c4475281bcd56b4566364?mediaType=png)|18,212||18+|united states|US|
 |Wavelength Strategy|264.00 USD|[67](https://www.snap.com/political-ads/asset/f8a7fbc91f3f506242e6b96ea4a67f81371d5a96f8308c5ffa2d67239791cb44?mediaType=jpg)|17,509||18+|united states|US|
-|Wavelength Strategy|201.00 USD|[68](https://www.snap.com/political-ads/asset/b7d72961cee4e58936c770b3a92bc3c8d8532d9ad739ad965d21efa9e0750e1c?mediaType=mp4)|12,764||18+|united states|US|
-|Wavelength Strategy|25.00 USD|[69](https://www.snap.com/political-ads/asset/ed8074e878df7ca747a0e395624471429c0e884dfee5c168d7a2ea629c4aa8f5?mediaType=mp4)|5,185||18-24|united states|US|
-|Wavelength Strategy|24.00 USD|[70](https://www.snap.com/political-ads/asset/4f10e7c9ef36a3c49a85ce38daab76edb7e97853bcb055e69c5736588b0c86b4?mediaType=png)|5,019||18-24|united states|US|
-|Wavelength Strategy|22.00 USD|[71](https://www.snap.com/political-ads/asset/336b406cbb5308c84f9931893160b94f940cebded03478e42577ad6b8ae48b8d?mediaType=png)|4,555||18-24|united states|US|
-|Wavelength Strategy|16.00 USD|[72](https://www.snap.com/political-ads/asset/ba8eb9d5c43564edda2b001d1acf61a87851cc43fd77cfcb2e102cb3e7a56232?mediaType=mp4)|3,261||18-24|united states|US|
+|Wavelength Strategy|261.00 USD|[68](https://www.snap.com/political-ads/asset/84668bfd855ebe12c8331ad0a53a50c10fef8b8ee2f2a4a236d2fb5c7578a737?mediaType=mp4)|17,465||18+|united states|US|
+|Wavelength Strategy|201.00 USD|[69](https://www.snap.com/political-ads/asset/b7d72961cee4e58936c770b3a92bc3c8d8532d9ad739ad965d21efa9e0750e1c?mediaType=mp4)|12,764||18+|united states|US|
+|Wavelength Strategy|25.00 USD|[70](https://www.snap.com/political-ads/asset/ed8074e878df7ca747a0e395624471429c0e884dfee5c168d7a2ea629c4aa8f5?mediaType=mp4)|5,185||18-24|united states|US|
+|Wavelength Strategy|24.00 USD|[71](https://www.snap.com/political-ads/asset/4f10e7c9ef36a3c49a85ce38daab76edb7e97853bcb055e69c5736588b0c86b4?mediaType=png)|5,019||18-24|united states|US|
+|Wavelength Strategy|22.00 USD|[72](https://www.snap.com/political-ads/asset/336b406cbb5308c84f9931893160b94f940cebded03478e42577ad6b8ae48b8d?mediaType=png)|4,555||18-24|united states|US|
+|Wavelength Strategy|16.00 USD|[73](https://www.snap.com/political-ads/asset/ba8eb9d5c43564edda2b001d1acf61a87851cc43fd77cfcb2e102cb3e7a56232?mediaType=mp4)|3,261||18-24|united states|US|

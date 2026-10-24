@@ -13,7 +13,7 @@
 |[Ben & Jerry's](Ben_&_Jerry's.md) - Unilever US - 360i: Fossil Fuels, REFUGEE ACTION, Renewable Energy, Support HEROES Act|498,454.00 AUD, GBP, USD|117,573,289||18+, 18-34, 18-35, 18-40|australia, united kingdom, united states|
 |[Levi Strauss & Co.](Levi_Strauss_&_Co..md) - Universal McCann New York|726,998.00 USD|101,115,858||18-34, 18-35|united states|
 |[Be the Match](Be_the_Match.md) - Ciceron Inc|177,855.00 USD|71,662,477||18-24, 18-30, 18-39|united states|
-|[PACRONYM](PACRONYM.md) - Lockwood Strategy: Show Up To Vote|272,671.00 USD|71,537,533|FEMALE|18+, 18-39|united states|
+|[PACRONYM](PACRONYM.md) - Lockwood Strategy: Show Up To Vote|272,925.00 USD|71,617,001|FEMALE|18+, 18-39|united states|
 |[Snap Inc.](Snap_Inc..md) - Brand_Politics|149,317.00 USD|70,886,784||18-34|united states|
 |[Warnock for Georgia](Warnock_for_Georgia.md) - AL Media: Raphael Warnock, Reverend Raphael Warnock, Warnock for Georgia|305,680.00 USD|70,757,283||18+|united states|
 |[The Coca-Cola Company](The_Coca-Cola_Company.md) - Universal McCann New York|156,999.00 USD|67,783,465||18+, 18-24|united states|
@@ -517,7 +517,7 @@
 |[Government of Alberta](Government_of_Alberta.md) - TBWA Canada|424.00 CAD|204,519||18-39|canada|
 |[Region Kronoberg](Region_Kronoberg.md) - Context Media|274.00 EUR|202,980||18-29|sweden|
 |[Democrats.com](Democrats.com.md) - Democrats.com: Democrats and Joe Biden, Prochoice Democrats|477.00 USD|202,549|||united states|
-|[Shawn Hingson For Sheriff](Shawn_Hingson_For_Sheriff.md) - JAB Media: Shawn Hingson For Suwanee County Sheriff, Shawn Hingson For Suwannee County Sheriff|593.00 USD|201,626||18+|united states|
+|[Shawn Hingson For Sheriff](Shawn_Hingson_For_Sheriff.md) - JAB Media: Shawn Hingson For Suwanee County Sheriff, Shawn Hingson For Suwannee County Sheriff|593.00 USD|201,748||18+|united states|
 |[NCPIRG Education Fund](NCPIRG_Education_Fund.md) - NCPIRG|249.00 USD|200,417||29-|united states|
 |[Boulder's Great Green Deal](Boulder's_Great_Green_Deal.md) - Committee for Boulder’s Great Green Deal: YES on 2C and 2D|797.00 USD|194,647||18+|united states|
 |[good hYOUman](good_hYOUman.md) - good hYOUman.|1,072.00 USD|193,225|FEMALE|17+|united states|
