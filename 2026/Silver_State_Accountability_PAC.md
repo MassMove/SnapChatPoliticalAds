@@ -1,11 +1,11 @@
 ## 2026 - Silver State Accountability PAC 
-**Spent**: 15,975.00
+**Spent**: 18,761.00
 
-**Impressions**: 1,148,411
+**Impressions**: 1,348,320
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Silver State Accountability|9,481.00 USD|[0](https://www.snap.com/political-ads/asset/a9a9e620d42bace69fa4daed7f30947b94d6d5aba45afa2eacb5fe7ff26fc291?mediaType=mp4)|689,229||18-35|united states|
-|Silver State Accountability|6,494.00 USD|[1](https://www.snap.com/political-ads/asset/379a799154e9655a9ca9051a59d2cacc451b08b258662a49e4d1caa58e6aa4f9?mediaType=mp4)|459,182||18-35|united states|
+|Silver State Accountability|11,158.00 USD|[0](https://www.snap.com/political-ads/asset/a9a9e620d42bace69fa4daed7f30947b94d6d5aba45afa2eacb5fe7ff26fc291?mediaType=mp4)|807,382||18-35|united states|
+|Silver State Accountability|7,603.00 USD|[1](https://www.snap.com/political-ads/asset/379a799154e9655a9ca9051a59d2cacc451b08b258662a49e4d1caa58e6aa4f9?mediaType=mp4)|540,938||18-35|united states|

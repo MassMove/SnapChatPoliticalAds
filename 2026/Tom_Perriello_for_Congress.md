@@ -1,10 +1,10 @@
 ## 2026 - Tom Perriello for Congress 
-**Spent**: 144.00
+**Spent**: 242.00
 
-**Impressions**: 27,136
+**Impressions**: 44,045
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Punch|144.00 USD|[0](https://www.snap.com/political-ads/asset/e5c6c43f0b8690e1aaf7fb8b87e2ed445bda6fcba0eece26aadde04dd0f891f1?mediaType=mp4)|27,136||18-24|united states|
+|Punch|242.00 USD|[0](https://www.snap.com/political-ads/asset/e5c6c43f0b8690e1aaf7fb8b87e2ed445bda6fcba0eece26aadde04dd0f891f1?mediaType=mp4)|44,045||18-24|united states|

@@ -1,10 +1,10 @@
 ## 2026 - Troy Jackson for Senate 
-**Spent**: 44,762.00
+**Spent**: 45,000.00
 
-**Impressions**: 4,123,493
+**Impressions**: 4,166,166
 
 **Billing Addresses**: 2800 Abilene Dr,Chevy chase,20815,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|TKO Political: Troy Jackson for Senate|44,762.00 USD|[0](https://www.snap.com/political-ads/asset/3589bfb17fd301987989272636a6d49d532d984d6a945b57c95627355a7e9d58?mediaType=mp4)|4,123,493||18+|united states|
+|TKO Political: Troy Jackson for Senate|45,000.00 USD|[0](https://www.snap.com/political-ads/asset/3589bfb17fd301987989272636a6d49d532d984d6a945b57c95627355a7e9d58?mediaType=mp4)|4,166,166||18+|united states|

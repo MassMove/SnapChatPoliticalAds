@@ -1,12 +1,12 @@
 ## 2026 - Down Home North Carolina 
-**Spent**: 327.00
+**Spent**: 357.00
 
-**Impressions**: 35,483
+**Impressions**: 38,521
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Progressive Lens Media|162.00 USD|[0](https://www.snap.com/political-ads/asset/ef9b93409fcc3e1663bafdd2b7eb83d4826bc44c6a62d7b330995c2edc9f3aec?mediaType=mp4)|17,694||18+|united states|
-|Progressive Lens Media|93.00 USD|[1](https://www.snap.com/political-ads/asset/2535db8abc7c9b17170f746817cb929c72ca311474aadaf46a36c3979319e717?mediaType=mp4)|9,864||18+|united states|
-|Progressive Lens Media|72.00 USD|[2](https://www.snap.com/political-ads/asset/f1893dad00138e975b9fee3387be3b3fd1a50cbbfcd4fa8d20fa7d2a92f487e4?mediaType=mp4)|7,925||18+|united states|
+|Progressive Lens Media|165.00 USD|[0](https://www.snap.com/political-ads/asset/ef9b93409fcc3e1663bafdd2b7eb83d4826bc44c6a62d7b330995c2edc9f3aec?mediaType=mp4)|17,951||18+|united states|
+|Progressive Lens Media|112.00 USD|[1](https://www.snap.com/political-ads/asset/2535db8abc7c9b17170f746817cb929c72ca311474aadaf46a36c3979319e717?mediaType=mp4)|11,828||18+|united states|
+|Progressive Lens Media|80.00 USD|[2](https://www.snap.com/political-ads/asset/f1893dad00138e975b9fee3387be3b3fd1a50cbbfcd4fa8d20fa7d2a92f487e4?mediaType=mp4)|8,742||18+|united states|

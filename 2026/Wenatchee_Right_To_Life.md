@@ -1,11 +1,11 @@
 ## 2026 - Wenatchee Right To Life 
-**Spent**: 520.00
+**Spent**: 548.00
 
-**Impressions**: 29,601
+**Impressions**: 31,161
 
 **Billing Addresses**: 1 Manhattanville Road, Ste 202,Purchase,10577,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Townsquare Ignite|321.00 USD|[0](https://www.snap.com/political-ads/asset/2f26a1c828a87df152ee19c7ae82df60a21b162e6c8b3c77fd0296f0ba5eb484?mediaType=png)|18,735|FEMALE|18+|united states|
-|Townsquare Ignite|199.00 USD|[1](https://www.snap.com/political-ads/asset/d794138f228dfb383632e54676e3be4c158eae08661bfe06a183f0b9826188ed?mediaType=png)|10,866|FEMALE|18+|united states|
+|Townsquare Ignite|338.00 USD|[0](https://www.snap.com/political-ads/asset/2f26a1c828a87df152ee19c7ae82df60a21b162e6c8b3c77fd0296f0ba5eb484?mediaType=png)|19,811|FEMALE|18+|united states|
+|Townsquare Ignite|210.00 USD|[1](https://www.snap.com/political-ads/asset/d794138f228dfb383632e54676e3be4c158eae08661bfe06a183f0b9826188ed?mediaType=png)|11,350|FEMALE|18+|united states|

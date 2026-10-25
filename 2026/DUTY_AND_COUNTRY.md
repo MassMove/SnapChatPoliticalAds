@@ -1,14 +1,14 @@
 ## 2026 - DUTY AND COUNTRY 
-**Spent**: 10,560.00
+**Spent**: 11,762.00
 
-**Impressions**: 758,594
+**Impressions**: 849,385
 
 **Billing Addresses**: 1421 Prince St Suite 320,Alexandria,22314,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|MVAR Media: Duty and Country|7,146.00 USD|[0](https://www.snap.com/political-ads/asset/df677b5d344c36e27a430100cb4f9551fcf207fa374010c7bbc6fb39cc4677e8?mediaType=mp4)|491,391||18+|united states|
-|MVAR Media: Duty and Country|1,622.00 USD|[1](https://www.snap.com/political-ads/asset/e4ab0bd0674c61429c3a0cb8d2d479f54e83f5966b12c2e4d4cd431213d39f6a?mediaType=mp4)|127,611||18+|united states|
-|MVAR Media: Duty and Country|1,119.00 USD|[2](https://www.snap.com/political-ads/asset/03c22a85f7b1d00f5966821df329ea162a4fbe8d25d74838a84e4138dcc266ae?mediaType=mp4)|85,145||18+|united states|
-|MVAR Media: Duty and Country|641.00 USD|[3](https://www.snap.com/political-ads/asset/b8b2910887a18cb03910e5a9aa5faca2cb834c6cb68e39792d92d3ce683e3034?mediaType=mp4)|52,107||18+|united states|
-|MVAR Media: Duty and Country|32.00 USD|[4](https://www.snap.com/political-ads/asset/339b8d401b9826b23f8372824facc633faaaca1f499ae9bb21bbe5d36548db38?mediaType=mp4)|2,340||18+|united states|
+|MVAR Media: Duty and Country|7,569.00 USD|[0](https://www.snap.com/political-ads/asset/df677b5d344c36e27a430100cb4f9551fcf207fa374010c7bbc6fb39cc4677e8?mediaType=mp4)|523,191||18+|united states|
+|MVAR Media: Duty and Country|1,900.00 USD|[1](https://www.snap.com/political-ads/asset/e4ab0bd0674c61429c3a0cb8d2d479f54e83f5966b12c2e4d4cd431213d39f6a?mediaType=mp4)|148,810||18+|united states|
+|MVAR Media: Duty and Country|1,119.00 USD|[2](https://www.snap.com/political-ads/asset/03c22a85f7b1d00f5966821df329ea162a4fbe8d25d74838a84e4138dcc266ae?mediaType=mp4)|85,146||18+|united states|
+|MVAR Media: Duty and Country|828.00 USD|[3](https://www.snap.com/political-ads/asset/b8b2910887a18cb03910e5a9aa5faca2cb834c6cb68e39792d92d3ce683e3034?mediaType=mp4)|66,359||18+|united states|
+|MVAR Media: Duty and Country|346.00 USD|[4](https://www.snap.com/political-ads/asset/339b8d401b9826b23f8372824facc633faaaca1f499ae9bb21bbe5d36548db38?mediaType=mp4)|25,879||18+|united states|
