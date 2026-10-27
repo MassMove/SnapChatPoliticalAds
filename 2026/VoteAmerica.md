@@ -1,7 +1,7 @@
 ## 2026 - VoteAmerica 
-**Spent**: 10,317.00
+**Spent**: 10,366.00
 
-**Impressions**: 718,687
+**Impressions**: 720,610
 
 **Billing Addresses**: US
 
@@ -19,8 +19,8 @@
 |VoteAmerica: Not applicable|360.00 USD|[9](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|21,158||18-30|united states|
 |VoteAmerica: Not applicable|354.00 USD|[10](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|19,898||18-30|united states|
 |VoteAmerica: Not applicable|201.00 USD|[11](https://www.snap.com/political-ads/asset/bbc37160a98f50ba064c58a9769bfbccd687ffe9832dc30dc36906b5e22af1f9?mediaType=mp4)|19,478||18-30|united states|
-|VoteAmerica: Not applicable|288.00 USD|[12](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|14,961||30-|united states|
-|VoteAmerica: not applicable|276.00 USD|[13](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|13,847||18-30|united states|
+|VoteAmerica: not applicable|311.00 USD|[12](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|15,401||18-30|united states|
+|VoteAmerica: Not applicable|288.00 USD|[13](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|14,961||30-|united states|
 |VoteAmerica: Not applicable|196.00 USD|[14](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|13,034||18-30|united states|
 |VoteAmerica: Not applicable|198.00 USD|[15](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|12,995||30-|united states|
 |VoteAmerica: Not applicable|252.00 USD|[16](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|12,867||18-30|united states|
@@ -58,11 +58,11 @@
 |VoteAmerica: Not applicable|64.00 USD|[48](https://www.snap.com/political-ads/asset/1d38a08ab10b17a86d17ec4373d5fdffca10b8ffff4065ee7266b8a68632daf4?mediaType=mp4)|3,194||18-30|united states|
 |VoteAmerica: Not applicable|52.00 USD|[49](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|2,957||18-30|united states|
 |VoteAmerica: Not applicable|58.00 USD|[50](https://www.snap.com/political-ads/asset/62cb3309b055ff62a97dc0de63236b053df8edee15291da5ce8929e5026dfba9?mediaType=mp4)|2,938||18-30|united states|
-|VoteAmerica: Not applicable|48.00 USD|[51](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|2,786||30-|united states|
-|VoteAmerica: Not applicable|42.00 USD|[52](https://www.snap.com/political-ads/asset/587750bfab54f1b868a97d817b6296f170074241a854a7a941c1809c4d85ea1f?mediaType=mp4)|2,720||18-30|united states|
-|VoteAmerica: Not applicable|41.00 USD|[53](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|2,657||30-|united states|
-|VoteAmerica: Not applicable|55.00 USD|[54](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|2,648||18-30|united states|
-|VoteAmerica: not applicable|77.00 USD|[55](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|2,506||18-30|united states|
+|VoteAmerica: not applicable|91.00 USD|[51](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|2,875||18-30|united states|
+|VoteAmerica: Not applicable|48.00 USD|[52](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|2,786||30-|united states|
+|VoteAmerica: Not applicable|42.00 USD|[53](https://www.snap.com/political-ads/asset/587750bfab54f1b868a97d817b6296f170074241a854a7a941c1809c4d85ea1f?mediaType=mp4)|2,720||18-30|united states|
+|VoteAmerica: Not applicable|41.00 USD|[54](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|2,657||30-|united states|
+|VoteAmerica: Not applicable|55.00 USD|[55](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|2,648||18-30|united states|
 |VoteAmerica: Not applicable|41.00 USD|[56](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|2,304||18-30|united states|
 |VoteAmerica: Not applicable|35.00 USD|[57](https://www.snap.com/political-ads/asset/c54e3afb68993cc7df9e0917843c3d0921a8e0d0f0604a1adee7f045663039e1?mediaType=png)|2,262||18-30|united states|
 |VoteAmerica: Not applicable|29.00 USD|[58](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|2,024||30-|united states|

@@ -1,7 +1,7 @@
 ## 2026 - Vivek for Ohio 
-**Spent**: 59,849.00
+**Spent**: 59,916.00
 
-**Impressions**: 11,461,947
+**Impressions**: 11,476,781
 
 **Billing Addresses**: 2311 Wilson Blvd fl 2,Arlington,22201,US
 
@@ -23,8 +23,8 @@
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|1,159.00 USD|[13](https://www.snap.com/political-ads/asset/507fc1c3dec58ae0ee77e74e9e051f7be02b0fc0feb6b723a4db51a1c3699c76?mediaType=mp4)|238,802||18-34|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|1,050.00 USD|[14](https://www.snap.com/political-ads/asset/942933d91a0647f2a18b52e5e4d4fd9e636f784da1b58da896a425d24ecc2c42?mediaType=mp4)|232,344||18-34|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|1,005.00 USD|[15](https://www.snap.com/political-ads/asset/c7b914aa8e508330eb186596439a2c49fd56248592bd46bee99f3bccc3133904?mediaType=mp4)|219,064||18-34|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|1,160.00 USD|[16](https://www.snap.com/political-ads/asset/0abb00c93b29a20f667570666edae71f73482bd24365e1a90453c54e025b1921?mediaType=mp4)|208,385||18-34|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|852.00 USD|[17](https://www.snap.com/political-ads/asset/1374c26053f3a8784672f2e309bdec31d454512e1a3dd7b038060eba54a9bb02?mediaType=mp4)|208,106||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|891.00 USD|[16](https://www.snap.com/political-ads/asset/1374c26053f3a8784672f2e309bdec31d454512e1a3dd7b038060eba54a9bb02?mediaType=mp4)|216,639||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|1,160.00 USD|[17](https://www.snap.com/political-ads/asset/0abb00c93b29a20f667570666edae71f73482bd24365e1a90453c54e025b1921?mediaType=mp4)|208,385||18-34|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|980.00 USD|[18](https://www.snap.com/political-ads/asset/ccc1ce411873ae197eb5a6da469524b5cc3378df2b52bfd7e1ee8d6a8c30b711?mediaType=mp4)|205,448||18-34|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|980.00 USD|[19](https://www.snap.com/political-ads/asset/c7b914aa8e508330eb186596439a2c49fd56248592bd46bee99f3bccc3133904?mediaType=mp4)|198,398||18-34|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|1,330.00 USD|[20](https://www.snap.com/political-ads/asset/eeb00866cf157280011fce3f79f40d9a7ac4692bebe964ed2424b972ae881643?mediaType=mp4)|186,277||18-34|united states|
@@ -34,8 +34,8 @@
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|960.00 USD|[24](https://www.snap.com/political-ads/asset/eeb00866cf157280011fce3f79f40d9a7ac4692bebe964ed2424b972ae881643?mediaType=mp4)|137,802||18-34|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|868.00 USD|[25](https://www.snap.com/political-ads/asset/70e1acc84bda1d7aca4449c5e7ed89ba337217b9b518d9935e8240abde2d53ec?mediaType=mp4)|136,832||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|734.00 USD|[26](https://www.snap.com/political-ads/asset/0abb00c93b29a20f667570666edae71f73482bd24365e1a90453c54e025b1921?mediaType=mp4)|120,913||18-34|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|491.00 USD|[27](https://www.snap.com/political-ads/asset/d0fcfdba04956cefd569e30a83f464828e7c270e08866c6b68d31d51ba716cca?mediaType=mp4)|118,419||18+|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|434.00 USD|[28](https://www.snap.com/political-ads/asset/d0fcfdba04956cefd569e30a83f464828e7c270e08866c6b68d31d51ba716cca?mediaType=mp4)|107,528||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|496.00 USD|[27](https://www.snap.com/political-ads/asset/d0fcfdba04956cefd569e30a83f464828e7c270e08866c6b68d31d51ba716cca?mediaType=mp4)|119,454||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|445.00 USD|[28](https://www.snap.com/political-ads/asset/d0fcfdba04956cefd569e30a83f464828e7c270e08866c6b68d31d51ba716cca?mediaType=mp4)|109,994||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|478.00 USD|[29](https://www.snap.com/political-ads/asset/bcf3d0ceddc01b121027f84549d8b259677b7a66ce07f7f21f92ae46fba7bc6a?mediaType=mp4)|103,554||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|634.00 USD|[30](https://www.snap.com/political-ads/asset/70e1acc84bda1d7aca4449c5e7ed89ba337217b9b518d9935e8240abde2d53ec?mediaType=mp4)|101,746||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|471.00 USD|[31](https://www.snap.com/political-ads/asset/7238f8e0ea8ffb5ccaaf5a027f3d08b172a2b5da7f027d40b1cd365e40ffab39?mediaType=mp4)|89,697||18+|united states|
@@ -63,8 +63,8 @@
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|216.00 USD|[53](https://www.snap.com/political-ads/asset/133ce13729e7f36247a838c3970f37af5086d3f4c57ec01173fb01968416ebbb?mediaType=mp4)|46,802||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|218.00 USD|[54](https://www.snap.com/political-ads/asset/7238f8e0ea8ffb5ccaaf5a027f3d08b172a2b5da7f027d40b1cd365e40ffab39?mediaType=mp4)|46,286||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|112.00 USD|[55](https://www.snap.com/political-ads/asset/8c2cdd65035637f0c6b865ef64e3de7adb837d84b38adc7c4dcdbd1a67635d69?mediaType=mp4)|45,759||18-34|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|189.00 USD|[56](https://www.snap.com/political-ads/asset/bcf3d0ceddc01b121027f84549d8b259677b7a66ce07f7f21f92ae46fba7bc6a?mediaType=mp4)|42,127||18+|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|176.00 USD|[57](https://www.snap.com/political-ads/asset/d0fcfdba04956cefd569e30a83f464828e7c270e08866c6b68d31d51ba716cca?mediaType=mp4)|41,248||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|185.00 USD|[56](https://www.snap.com/political-ads/asset/d0fcfdba04956cefd569e30a83f464828e7c270e08866c6b68d31d51ba716cca?mediaType=mp4)|43,309||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|189.00 USD|[57](https://www.snap.com/political-ads/asset/bcf3d0ceddc01b121027f84549d8b259677b7a66ce07f7f21f92ae46fba7bc6a?mediaType=mp4)|42,127||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|208.00 USD|[58](https://www.snap.com/political-ads/asset/eeb8b3bdcc1abdb69176433c4f103b06a1ae1df1bf6fd188924fc68f00ba4b3c?mediaType=mp4)|40,017||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|185.00 USD|[59](https://www.snap.com/political-ads/asset/83b3d9f75803a5653e2252b9e0b978ea3b6909aceca1a795bf5b179bf45f2a3d?mediaType=mp4)|39,794||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|233.00 USD|[60](https://www.snap.com/political-ads/asset/af1b310a8a0dbd8ebbd1c0f10174dda9cc3d54212becc05bdeedde06c68897d3?mediaType=mp4)|38,412||18+|united states|
@@ -85,10 +85,10 @@
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|94.00 USD|[75](https://www.snap.com/political-ads/asset/83b3d9f75803a5653e2252b9e0b978ea3b6909aceca1a795bf5b179bf45f2a3d?mediaType=mp4)|20,534||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|102.00 USD|[76](https://www.snap.com/political-ads/asset/c24558b9995a98d02de997c53bf56dbf168f64a2d6a9302d022451dc61c46bea?mediaType=mp4)|20,372||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|93.00 USD|[77](https://www.snap.com/political-ads/asset/83b3d9f75803a5653e2252b9e0b978ea3b6909aceca1a795bf5b179bf45f2a3d?mediaType=mp4)|20,168||18+|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|81.00 USD|[78](https://www.snap.com/political-ads/asset/82dd4dd6dfa5e733c6b84b53a125c60e3d1e21a8f9f7824a4c20476b7e9e4ede?mediaType=mp4)|17,546||18+|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|72.00 USD|[79](https://www.snap.com/political-ads/asset/1374c26053f3a8784672f2e309bdec31d454512e1a3dd7b038060eba54a9bb02?mediaType=mp4)|17,477||18+|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|112.00 USD|[80](https://www.snap.com/political-ads/asset/70e1acc84bda1d7aca4449c5e7ed89ba337217b9b518d9935e8240abde2d53ec?mediaType=mp4)|17,188||18+|united states|
-|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|72.00 USD|[81](https://www.snap.com/political-ads/asset/1374c26053f3a8784672f2e309bdec31d454512e1a3dd7b038060eba54a9bb02?mediaType=mp4)|16,663||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|73.00 USD|[78](https://www.snap.com/political-ads/asset/1374c26053f3a8784672f2e309bdec31d454512e1a3dd7b038060eba54a9bb02?mediaType=mp4)|17,645||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|81.00 USD|[79](https://www.snap.com/political-ads/asset/82dd4dd6dfa5e733c6b84b53a125c60e3d1e21a8f9f7824a4c20476b7e9e4ede?mediaType=mp4)|17,546||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|74.00 USD|[80](https://www.snap.com/political-ads/asset/1374c26053f3a8784672f2e309bdec31d454512e1a3dd7b038060eba54a9bb02?mediaType=mp4)|17,234||18+|united states|
+|Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|112.00 USD|[81](https://www.snap.com/political-ads/asset/70e1acc84bda1d7aca4449c5e7ed89ba337217b9b518d9935e8240abde2d53ec?mediaType=mp4)|17,188||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|79.00 USD|[82](https://www.snap.com/political-ads/asset/7238f8e0ea8ffb5ccaaf5a027f3d08b172a2b5da7f027d40b1cd365e40ffab39?mediaType=mp4)|16,642||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|108.00 USD|[83](https://www.snap.com/political-ads/asset/70e1acc84bda1d7aca4449c5e7ed89ba337217b9b518d9935e8240abde2d53ec?mediaType=mp4)|16,485||18+|united states|
 |Targeted Victory  LLC: Vivek Ramaswamy and Rob McColley for Ohio|81.00 USD|[84](https://www.snap.com/political-ads/asset/69aec22d1085e9f2c309404a94fa591a328b97fc3db4ad5ec9de04696cfee6c3?mediaType=mp4)|16,231||18+|united states|
