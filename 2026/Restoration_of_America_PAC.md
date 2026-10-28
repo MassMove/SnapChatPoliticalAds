@@ -1,7 +1,7 @@
 ## 2026 - Restoration of America PAC 
-**Spent**: 13,912.00
+**Spent**: 17,567.00
 
-**Impressions**: 701,641
+**Impressions**: 874,225
 
 **Billing Addresses**: US
 
@@ -9,4 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Lariat LLC|9,025.00 USD|[0](https://www.snap.com/political-ads/asset/053b7e74ba6964349cfbed545ea43a5c81e69515884fa28e244c7ad27291ace5?mediaType=mp4)|440,741||18+|united states|
 |Lariat LLC|3,917.00 USD|[1](https://www.snap.com/political-ads/asset/8af34fea6664c24a8c4903e1dea4c78f5315b0debb878d1222ec25384c68a57e?mediaType=mp4)|212,310||18+|united states|
-|Lariat LLC|970.00 USD|[2](https://www.snap.com/political-ads/asset/8af34fea6664c24a8c4903e1dea4c78f5315b0debb878d1222ec25384c68a57e?mediaType=mp4)|48,590||18+|united states|
+|Lariat LLC|2,238.00 USD|[2](https://www.snap.com/political-ads/asset/3877a4bae79b9cf688c3df2fb0f0debfcc1024a0dbd75b6cb08ccbb5f37ac4f9?mediaType=mp4)|107,763||18+|united states|
+|Lariat LLC|1,128.00 USD|[3](https://www.snap.com/political-ads/asset/a5575cd563ab75b42fdcb7fce73678dd1c72e010124a339ed544dac8340b6fd1?mediaType=mp4)|50,975||18+|united states|
+|Lariat LLC|970.00 USD|[4](https://www.snap.com/political-ads/asset/8af34fea6664c24a8c4903e1dea4c78f5315b0debb878d1222ec25384c68a57e?mediaType=mp4)|48,590||18+|united states|
+|Lariat LLC|289.00 USD|[5](https://www.snap.com/political-ads/asset/e5eb754b5f73692d034802ca632cef70228bc3e79c344523f055ae66ad66ca6e?mediaType=mp4)|13,846||18+|united states|
