@@ -1,10 +1,10 @@
 ## 2026 - Danny for House 
-**Spent**: 566.00
+**Spent**: 586.00
 
-**Impressions**: 116,782
+**Impressions**: 120,677
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Danny for House|566.00 USD|[0](https://www.snap.com/political-ads/asset/370d4094a7f8eb2c15799c90b3849fe884ccc01ece4586732ccc2d5e9f3fae39?mediaType=png)|116,782||18-35|united states|
+|Danny for House|586.00 USD|[0](https://www.snap.com/political-ads/asset/370d4094a7f8eb2c15799c90b3849fe884ccc01ece4586732ccc2d5e9f3fae39?mediaType=png)|120,677||18-35|united states|

@@ -1,11 +1,11 @@
 ## 2026 - Andrea Zupancich for Senate 
-**Spent**: 1,089.00
+**Spent**: 1,102.00
 
-**Impressions**: 450,558
+**Impressions**: 454,010
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Andrea Zupancich for MN Senate District 3|850.00 USD|[0](https://www.snap.com/political-ads/asset/4acab5b3fcbc8c408becacb9898a8336b082457dabc99261e8541f8c9f8cd7eb?mediaType=png)|406,596||18-35|united states|
-|Andrea Zupancich for MN Senate District 3|239.00 USD|[1](https://www.snap.com/political-ads/asset/240a221fc296c3881826967465cace20b8bde57ee918dceb8a97e8bfb9486441?mediaType=png)|43,962||18-35|united states|
+|Andrea Zupancich for MN Senate District 3|855.00 USD|[0](https://www.snap.com/political-ads/asset/4acab5b3fcbc8c408becacb9898a8336b082457dabc99261e8541f8c9f8cd7eb?mediaType=png)|408,647||18-35|united states|
+|Andrea Zupancich for MN Senate District 3|247.00 USD|[1](https://www.snap.com/political-ads/asset/240a221fc296c3881826967465cace20b8bde57ee918dceb8a97e8bfb9486441?mediaType=png)|45,363||18-35|united states|

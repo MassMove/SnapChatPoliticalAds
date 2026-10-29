@@ -1,7 +1,7 @@
 ## 2026 - Electoral Commission NZ 
-**Spent**: 83,904.00
+**Spent**: 84,591.00
 
-**Impressions**: 40,880,229
+**Impressions**: 41,141,568
 
 **Billing Addresses**: Level 2, 36 Lorne Street,Auckland CBD,1010,NZ
 
@@ -22,27 +22,27 @@
 |VMLY&R|4,000.00 NZD|[12](https://www.snap.com/political-ads/asset/497e520c3b15d19b5459bf44866d82cbc4a7d5300e52d26e93e4c8c73b7e9842?mediaType=mp4)|997,876||16-24|new zealand|
 |VMLY&R|1,500.00 NZD|[13](https://www.snap.com/political-ads/asset/ef6d51e09707c0ff11e7832ef24863a137fd1e404c28713fde8be567aa5d5cfc?mediaType=mp4)|940,882||17-17|new zealand|
 |VMLY&R|1,522.00 NZD|[14](https://www.snap.com/political-ads/asset/d7b9b752d88808c049670b0684bb756bb106ca2bdbb552d2554f96cbae679ccc?mediaType=mp4)|716,956||18-18|new zealand|
-|VMLY&R|1,176.00 NZD|[15](https://www.snap.com/political-ads/asset/74411536b63c1667228945a89aa5f5e9fa092fd089e5b0e8120c97ecf24a11b2?mediaType=mp4)|637,598||18+|new zealand|
-|VMLY&R|1,121.00 NZD|[16](https://www.snap.com/political-ads/asset/451e62cfb74a1334b75922547913ae58a5bb30b86578802bcaa39d12d2561fcc?mediaType=mp4)|634,571||18-24|new zealand|
-|VMLY&R|1,280.00 NZD|[17](https://www.snap.com/political-ads/asset/51011e6239abd34396c61b7c86326f29390cfb5b56229efaad6323be82303f1c?mediaType=mp4)|566,415||18-24|new zealand|
+|VMLY&R|1,739.00 NZD|[15](https://www.snap.com/political-ads/asset/51011e6239abd34396c61b7c86326f29390cfb5b56229efaad6323be82303f1c?mediaType=mp4)|706,155||18-24|new zealand|
+|VMLY&R|1,176.00 NZD|[16](https://www.snap.com/political-ads/asset/74411536b63c1667228945a89aa5f5e9fa092fd089e5b0e8120c97ecf24a11b2?mediaType=mp4)|637,598||18+|new zealand|
+|VMLY&R|1,121.00 NZD|[17](https://www.snap.com/political-ads/asset/451e62cfb74a1334b75922547913ae58a5bb30b86578802bcaa39d12d2561fcc?mediaType=mp4)|634,571||18-24|new zealand|
 |VMLY&R|3,988.00 NZD|[18](https://www.snap.com/political-ads/asset/ac7e2154e749b6e06a61d41423e31d8adeffa27161bde65132e424b6895dbf72?mediaType=png)|534,359||18+|new zealand|
 |VMLY&R|1,686.00 NZD|[19](https://www.snap.com/political-ads/asset/b860ef7032dbc8aca45a973c13af5bcf3f347374b5c5c9b04256eb7a8c42f915?mediaType=mp4)|515,828||18+|new zealand|
 |VMLY&R|394.00 NZD|[20](https://www.snap.com/political-ads/asset/9dc715baefcc58249a4a7f1c3640dc7ca651b2918d9554b4e3beba8e14e37d5d?mediaType=mp4)|437,690||18+|new zealand|
-|VMLY&R|688.00 NZD|[21](https://www.snap.com/political-ads/asset/be405a77332cc9bca491b1b089f04070cf434db5154cec233a43956cfa1fba57?mediaType=mp4)|402,492||18+|new zealand|
-|VMLY&R|4,000.00 NZD|[22](https://www.snap.com/political-ads/asset/ac7e2154e749b6e06a61d41423e31d8adeffa27161bde65132e424b6895dbf72?mediaType=png)|390,266||18+|new zealand|
-|VMLY&R|698.00 NZD|[23](https://www.snap.com/political-ads/asset/451e62cfb74a1334b75922547913ae58a5bb30b86578802bcaa39d12d2561fcc?mediaType=mp4)|378,472||18+|new zealand|
-|VMLY&R|691.00 NZD|[24](https://www.snap.com/political-ads/asset/74411536b63c1667228945a89aa5f5e9fa092fd089e5b0e8120c97ecf24a11b2?mediaType=mp4)|323,680||18-24|new zealand|
-|VMLY&R|1,318.00 NZD|[25](https://www.snap.com/political-ads/asset/2d4ff0654b4a0245575a4c7c1b001aebcabe7fbe2491ba6d9a70d5157614131f?mediaType=mp4)|317,615||18-24|new zealand|
-|VMLY&R|624.00 NZD|[26](https://www.snap.com/political-ads/asset/af9b319463babdbd889b7a58484c09cbd7c2f60cc9c06ee82dcd8271c32096bc?mediaType=mp4)|304,686||18+|new zealand|
+|VMLY&R|852.00 NZD|[21](https://www.snap.com/political-ads/asset/af9b319463babdbd889b7a58484c09cbd7c2f60cc9c06ee82dcd8271c32096bc?mediaType=mp4)|426,259||18+|new zealand|
+|VMLY&R|688.00 NZD|[22](https://www.snap.com/political-ads/asset/be405a77332cc9bca491b1b089f04070cf434db5154cec233a43956cfa1fba57?mediaType=mp4)|402,492||18+|new zealand|
+|VMLY&R|4,000.00 NZD|[23](https://www.snap.com/political-ads/asset/ac7e2154e749b6e06a61d41423e31d8adeffa27161bde65132e424b6895dbf72?mediaType=png)|390,266||18+|new zealand|
+|VMLY&R|698.00 NZD|[24](https://www.snap.com/political-ads/asset/451e62cfb74a1334b75922547913ae58a5bb30b86578802bcaa39d12d2561fcc?mediaType=mp4)|378,472||18+|new zealand|
+|VMLY&R|691.00 NZD|[25](https://www.snap.com/political-ads/asset/74411536b63c1667228945a89aa5f5e9fa092fd089e5b0e8120c97ecf24a11b2?mediaType=mp4)|323,680||18-24|new zealand|
+|VMLY&R|1,318.00 NZD|[26](https://www.snap.com/political-ads/asset/2d4ff0654b4a0245575a4c7c1b001aebcabe7fbe2491ba6d9a70d5157614131f?mediaType=mp4)|317,615||18-24|new zealand|
 |VMLY&R|4,000.00 NZD|[27](https://www.snap.com/political-ads/asset/fde5896d3ff57c6d05bb46c5da238db0ee4917db3e191000c3f0be579139b6b9?mediaType=mp4)|287,031||18+|new zealand|
 |VMLY&R|421.00 NZD|[28](https://www.snap.com/political-ads/asset/f9f8d10a01ac80f217706b39452f81485670cf190ed4c79dc8497662abe6adaa?mediaType=mp4)|239,287||18-24|new zealand|
 |VMLY&R|596.00 NZD|[29](https://www.snap.com/political-ads/asset/f9f8d10a01ac80f217706b39452f81485670cf190ed4c79dc8497662abe6adaa?mediaType=mp4)|222,471||18-24|new zealand|
 |VMLY&R|941.00 NZD|[30](https://www.snap.com/political-ads/asset/4ac9eb127e618add910d3077ffc790a8bafcb25fa3df5789df0152bdbf71e116?mediaType=mp4)|220,735||18-24|new zealand|
 |VMLY&R|544.00 NZD|[31](https://www.snap.com/political-ads/asset/c1e33c6ad94a1326fcba95dfff877a0bd87fb9f55fe06552ca84fb683b3ef7e6?mediaType=mp4)|212,545||18-24|new zealand|
-|VMLY&R|275.00 NZD|[32](https://www.snap.com/political-ads/asset/357667582e9c1b00880467258ed5cefccf4541eeac29fb88cf2bef248681abe7?mediaType=mp4)|173,077||18+|new zealand|
+|VMLY&R|275.00 NZD|[32](https://www.snap.com/political-ads/asset/357667582e9c1b00880467258ed5cefccf4541eeac29fb88cf2bef248681abe7?mediaType=mp4)|173,079||18+|new zealand|
 |VMLY&R|142.00 NZD|[33](https://www.snap.com/political-ads/asset/c1e33c6ad94a1326fcba95dfff877a0bd87fb9f55fe06552ca84fb683b3ef7e6?mediaType=mp4)|156,969||18+|new zealand|
 |VMLY&R|133.00 NZD|[34](https://www.snap.com/political-ads/asset/0591be044214d59eab2a2b5c17cac34b4c573ac74925d1fa0fa726d85ad09e7d?mediaType=mp4)|149,276||18+|new zealand|
-|VMLY&R|222.00 NZD|[35](https://www.snap.com/political-ads/asset/f09dcfe17825636d714181e83781dcfd3109ec194e6ab7762a0bb594982f71f0?mediaType=mp4)|144,737||18+|new zealand|
+|VMLY&R|222.00 NZD|[35](https://www.snap.com/political-ads/asset/f09dcfe17825636d714181e83781dcfd3109ec194e6ab7762a0bb594982f71f0?mediaType=mp4)|144,744||18+|new zealand|
 |VMLY&R|240.00 NZD|[36](https://www.snap.com/political-ads/asset/8ecd33832f17c09e9258f4f4ff527044cd389621807d8d32ba82f3eb2632b86c?mediaType=mp4)|141,264||18-24|new zealand|
 |VMLY&R|115.00 NZD|[37](https://www.snap.com/political-ads/asset/82da2b6ed7117321a4528842c1e56cc582c7b55f31d5cf137dd67c1ade80892b?mediaType=mp4)|127,974||18+|new zealand|
 |VMLY&R|101.00 NZD|[38](https://www.snap.com/political-ads/asset/e73b2415300c4e1670a263a0cbbf745f6840092ee6a4385f4612c7ef75b392bb?mediaType=mp4)|112,366||18+|new zealand|
@@ -52,9 +52,9 @@
 |VMLY&R|1,333.00 NZD|[42](https://www.snap.com/political-ads/asset/8ecd33832f17c09e9258f4f4ff527044cd389621807d8d32ba82f3eb2632b86c?mediaType=mp4)|105,321||18+|new zealand|
 |VMLY&R|427.00 NZD|[43](https://www.snap.com/political-ads/asset/16dfcb09f2835ebc528b024ea84b2d43c00553699c5483a715f1675e933d8978?mediaType=mp4)|97,837||18-24|new zealand|
 |VMLY&R|86.00 NZD|[44](https://www.snap.com/political-ads/asset/8ecd33832f17c09e9258f4f4ff527044cd389621807d8d32ba82f3eb2632b86c?mediaType=mp4)|93,516||18+|new zealand|
-|VMLY&R|121.00 NZD|[45](https://www.snap.com/political-ads/asset/97a57d9e5a60a2e9e07496448c6ce4a99c7ba1a31c4628c1801c3410353dd849?mediaType=mp4)|77,245||18+|new zealand|
+|VMLY&R|121.00 NZD|[45](https://www.snap.com/political-ads/asset/97a57d9e5a60a2e9e07496448c6ce4a99c7ba1a31c4628c1801c3410353dd849?mediaType=mp4)|77,258||18+|new zealand|
 |VMLY&R|140.00 NZD|[46](https://www.snap.com/political-ads/asset/451e62cfb74a1334b75922547913ae58a5bb30b86578802bcaa39d12d2561fcc?mediaType=mp4)|57,714||18-24|new zealand|
-|VMLY&R|86.00 NZD|[47](https://www.snap.com/political-ads/asset/7c741072f4295ddfff8f4201e1268589fddd16d42c115a72df1d9ab4a77bbdb9?mediaType=mp4)|54,424||18+|new zealand|
+|VMLY&R|86.00 NZD|[47](https://www.snap.com/political-ads/asset/7c741072f4295ddfff8f4201e1268589fddd16d42c115a72df1d9ab4a77bbdb9?mediaType=mp4)|54,427||18+|new zealand|
 |VMLY&R|185.00 NZD|[48](https://www.snap.com/political-ads/asset/497e520c3b15d19b5459bf44866d82cbc4a7d5300e52d26e93e4c8c73b7e9842?mediaType=mp4)|43,662||16-24|new zealand|
 |VMLY&R|36.00 NZD|[49](https://www.snap.com/political-ads/asset/451e62cfb74a1334b75922547913ae58a5bb30b86578802bcaa39d12d2561fcc?mediaType=mp4)|41,535||18+|new zealand|
 |VMLY&R|231.00 NZD|[50](https://www.snap.com/political-ads/asset/ae9b00dec8d4e4ff59861ccb906bf24a2676ae9ec9b03915933d6ab80f00989d?mediaType=mp4)|37,497||18-24|new zealand|
@@ -102,7 +102,7 @@
 |VMLY&R|3.00 NZD|[92](https://www.snap.com/political-ads/asset/793f92f368fd4056633b85073332aecc646676c0190f083e07dc9808c03f828a?mediaType=mp4)|2,110||18+|new zealand|
 |VMLY&R|3.00 NZD|[93](https://www.snap.com/political-ads/asset/aed553aeee677d9efa18428cc788e335850a6a408d37dd987e82189bd7fccdeb?mediaType=mp4)|2,108||18+|new zealand|
 |VMLY&R|3.00 NZD|[94](https://www.snap.com/political-ads/asset/9e16afd73c978dc796b2a9633763a10d852f450c583125b80a4fd94b6fd4dc05?mediaType=mp4)|2,018||18+|new zealand|
-|VMLY&R|3.00 NZD|[95](https://www.snap.com/political-ads/asset/7c5295e811301820a555690af4ebdf70fdebe0ddb51cb4d75a4175cfaca7686a?mediaType=mp4)|2,002||18+|new zealand|
+|VMLY&R|3.00 NZD|[95](https://www.snap.com/political-ads/asset/7c5295e811301820a555690af4ebdf70fdebe0ddb51cb4d75a4175cfaca7686a?mediaType=mp4)|2,003||18+|new zealand|
 |VMLY&R|2.00 NZD|[96](https://www.snap.com/political-ads/asset/e0ee96190e33ea975132d19e132055bed97a04018dff7319c0fc950bc5c86efe?mediaType=mp4)|1,736||18+|new zealand|
 |VMLY&R|2.00 NZD|[97](https://www.snap.com/political-ads/asset/e5b6cfaf7be2316dba7074df8735ad17d7f5c939f45fbc608b43b7032e11ee15?mediaType=mp4)|1,709||18+|new zealand|
 |VMLY&R|2.00 NZD|[98](https://www.snap.com/political-ads/asset/5cd90b041396dbe4ed2425dbf2fc0ba1e9bf948250940a60772ea9568cac5d9a?mediaType=mp4)|1,670||18+|new zealand|
