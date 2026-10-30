@@ -1,7 +1,7 @@
 ## 2026 - TPUSA Merch 
 **Spent**: 15,709.00
 
-**Impressions**: 1,846,000
+**Impressions**: 1,846,002
 
 **Billing Addresses**: 4940 E Beverly Rd ,Phoenix,95044,US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Connect Social: Issue advocacy Turning Point USA|924.00 USD|[0](https://www.snap.com/political-ads/asset/17f893ba8121ca926377487f6d21e446c6cd0a9ec8dbf40b6bab09b1623256a5?mediaType=mp4)|305,977||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|3,850.00 USD|[1](https://www.snap.com/political-ads/asset/38086d87364b16c0a7ff412b9641933704f1273051ab689931bb20b351bc112c?mediaType=mp4)|298,513||18+|united states|
-|Connect Social: Issue advocacy Turning Point USA|3,157.00 USD|[2](https://www.snap.com/political-ads/asset/ebf9186300fa810405e3f0a73fb56fd25dc84c873b7a984a40b88c483c728777?mediaType=mp4)|266,186||18+|united states|
+|Connect Social: Issue advocacy Turning Point USA|3,157.00 USD|[2](https://www.snap.com/political-ads/asset/ebf9186300fa810405e3f0a73fb56fd25dc84c873b7a984a40b88c483c728777?mediaType=mp4)|266,188||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|823.00 USD|[3](https://www.snap.com/political-ads/asset/2759f5042206611985c6ed2752681135c4f2b4554348183f0a63981a38ddc262?mediaType=mp4)|117,021||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|626.00 USD|[4](https://www.snap.com/political-ads/asset/e28200bed63ac20c6a06553d31c4bcc030ab896c46c7f127f522db447840fdf5?mediaType=mp4)|111,506||18+|united states|
 |Connect Social: Issue advocacy Turning Point USA|1,369.00 USD|[5](https://www.snap.com/political-ads/asset/c701541e0e38a1be35a697af4bf19720eb14f22f913090bc5c87ffa32a4ca2a6?mediaType=mp4)|103,521||18+|united states|

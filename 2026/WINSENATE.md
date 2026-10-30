@@ -1,18 +1,18 @@
 ## 2026 - WINSENATE 
-**Spent**: 142,743.00
+**Spent**: 145,445.00
 
-**Impressions**: 11,338,296
+**Impressions**: 11,568,818
 
 **Billing Addresses**: 1421 Prince St Suite 320,Alexandria,22314,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|MVAR Media: WinSenate|45,499.00 USD|[0](https://www.snap.com/political-ads/asset/ee3cbebb38ddb836d5b9c462d6c830291ec3e1244cbf4082157a9d121363a415?mediaType=mp4)|3,349,758||18+|united states|
+|MVAR Media: WinSenate|45,688.00 USD|[0](https://www.snap.com/political-ads/asset/ee3cbebb38ddb836d5b9c462d6c830291ec3e1244cbf4082157a9d121363a415?mediaType=mp4)|3,366,788||18+|united states|
 |MVAR Media: WinSenate|42,250.00 USD|[1](https://www.snap.com/political-ads/asset/87f964dbedf531569fee204111925694005ecd1e0f61716aef4b493ea26c23f4?mediaType=mp4)|3,083,362||18+|united states|
 |MVAR Media: WinSenate|19,215.00 USD|[2](https://www.snap.com/political-ads/asset/8142fd8bb8a79fcbefec2a01ec43e658ff103fd4af460b0a063b32c81180d08e?mediaType=mp4)|1,806,375||18+|united states|
 |MVAR Media: WinSenate|14,088.00 USD|[3](https://www.snap.com/political-ads/asset/59a7939c94deaf12f920e6417e3b58e7cd07ff7a81bab20907cbc0af09558651?mediaType=mp4)|1,261,986||18+|united states|
 |MVAR Media: WinSenate|7,880.00 USD|[4](https://www.snap.com/political-ads/asset/72e830bf4938319b81eeb0bf0a135b08b0778e7bd54f538daabde66d69f7d55f?mediaType=mp4)|650,800||18+|united states|
-|MVAR Media: WinSenate|4,722.00 USD|[5](https://www.snap.com/political-ads/asset/2866af7f1b70e9b81d68787c158c5aff3049338c4b2563708298c275105fe1ff?mediaType=mp4)|447,171||18+|united states|
-|MVAR Media: WinSenate|5,137.00 USD|[6](https://www.snap.com/political-ads/asset/88c0c0f4b5fcb5ecfaa6eac35f0930336dbe3a8d9ff256efcce6d8b558a8fbda?mediaType=mp4)|378,651||18+|united states|
-|MVAR Media: WinSenate|3,322.00 USD|[7](https://www.snap.com/political-ads/asset/8ab5ad0a34256cbf8c144a3593b9f5c23d1d0590e3e628e8bf5a45c8ca68e764?mediaType=mp4)|299,975||18+|united states|
-|MVAR Media: WinSenate|630.00 USD|[8](https://www.snap.com/political-ads/asset/17e44f1ea400f65ef1259b80c265667e7b15ce3ff6fa4b8f64d702407619a2d3?mediaType=mp4)|60,218||18+|united states|
+|MVAR Media: WinSenate|5,154.00 USD|[5](https://www.snap.com/political-ads/asset/2866af7f1b70e9b81d68787c158c5aff3049338c4b2563708298c275105fe1ff?mediaType=mp4)|485,165||18+|united states|
+|MVAR Media: WinSenate|5,202.00 USD|[6](https://www.snap.com/political-ads/asset/8ab5ad0a34256cbf8c144a3593b9f5c23d1d0590e3e628e8bf5a45c8ca68e764?mediaType=mp4)|456,954||18+|united states|
+|MVAR Media: WinSenate|5,137.00 USD|[7](https://www.snap.com/political-ads/asset/88c0c0f4b5fcb5ecfaa6eac35f0930336dbe3a8d9ff256efcce6d8b558a8fbda?mediaType=mp4)|378,651||18+|united states|
+|MVAR Media: WinSenate|831.00 USD|[8](https://www.snap.com/political-ads/asset/17e44f1ea400f65ef1259b80c265667e7b15ce3ff6fa4b8f64d702407619a2d3?mediaType=mp4)|78,737||18+|united states|

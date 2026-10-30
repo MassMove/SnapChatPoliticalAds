@@ -1,7 +1,7 @@
 ## 2026 - Paid for by Move WV Forward PAC 
-**Spent**: 2,557.00
+**Spent**: 2,573.00
 
-**Impressions**: 204,163
+**Impressions**: 205,718
 
 **Billing Addresses**: 31 West Main Street,Wickford,02852,US
 
@@ -12,7 +12,7 @@
 |Recrue Media  LLC: JB Akers|179.00 USD|[2](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|16,987||18+|united states|
 |Recrue Media  LLC: Patrick Lucas|168.00 USD|[3](https://www.snap.com/political-ads/asset/ef091dac0913bb1492f37d4652da5c271d98f5878e6b2a1b4f9f74875c99d1f2?mediaType=mp4)|15,439||18+|united states|
 |Recrue Media  LLC: Mike Oliverio|168.00 USD|[4](https://www.snap.com/political-ads/asset/e12bd0ef816bb52c544de9b2dcae1a852e217d37b0821d31c8238b0c5201ea31?mediaType=mp4)|13,604||18+|united states|
-|Recrue Media  LLC: JB Akers|113.00 USD|[5](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|10,997||18+|united states|
+|Recrue Media  LLC: JB Akers|129.00 USD|[5](https://www.snap.com/political-ads/asset/77f2e90e5f5a020004a4b6a69c63f4c25d88f05e25b2709c0ba8d25071897aca?mediaType=mp4)|12,552||18+|united states|
 |Recrue Media  LLC: Tim McNeely|121.00 USD|[6](https://www.snap.com/political-ads/asset/7fd73fee55c4141ba9c60d468996096ca5de8d76cea019b4c5f50e4a6ed03135?mediaType=mp4)|8,992||18+|united states|
 |Recrue Media  LLC: Mike Oliverio|104.00 USD|[7](https://www.snap.com/political-ads/asset/e12bd0ef816bb52c544de9b2dcae1a852e217d37b0821d31c8238b0c5201ea31?mediaType=mp4)|8,545||18+|united states|
 |Recrue Media  LLC: Tim McNeely|105.00 USD|[8](https://www.snap.com/political-ads/asset/7fd73fee55c4141ba9c60d468996096ca5de8d76cea019b4c5f50e4a6ed03135?mediaType=mp4)|7,929||18+|united states|

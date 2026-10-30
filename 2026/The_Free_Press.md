@@ -1,14 +1,14 @@
 ## 2026 - The Free Press 
-**Spent**: 45,419.00
+**Spent**: 45,707.00
 
-**Impressions**: 7,635,816
+**Impressions**: 7,690,635
 
 **Billing Addresses**: 82 Nassau St., Suite 62658,New York,10038,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |The Free Press|8,599.00 USD|[0](https://www.snap.com/political-ads/asset/88cbaef7573a42e2e030c8368eda675987c17809b73f170724e99fba2cf2d593?mediaType=mp4)|1,541,619||18+|united states|
-|The Free Press|6,784.00 USD|[1](https://www.snap.com/political-ads/asset/d093a29496cc6e37fc39c9a36552aaa4eae99dae887529ab42d55e19d62374d4?mediaType=png)|1,135,171||18+|united states|
+|The Free Press|7,072.00 USD|[1](https://www.snap.com/political-ads/asset/d093a29496cc6e37fc39c9a36552aaa4eae99dae887529ab42d55e19d62374d4?mediaType=png)|1,189,990||18+|united states|
 |The Free Press|6,226.00 USD|[2](https://www.snap.com/political-ads/asset/9aeef02945c8ce1ae7d9f440f777af3173c5b94d96ef41610a75ded6cac8fd93?mediaType=png)|967,724||18+|united states|
 |The Free Press|4,588.00 USD|[3](https://www.snap.com/political-ads/asset/7e6c120c3f460da03be45620bd8abbfc25dfb9d3d7d8002d3c07a74b0f476d99?mediaType=png)|875,933||18+|united states|
 |The Free Press|4,160.00 USD|[4](https://www.snap.com/political-ads/asset/10eaada8a60154d8073625e8efe7650ec486e5c25d4e4dac0a72ce706fcd459f?mediaType=png)|669,610||18+|united states|

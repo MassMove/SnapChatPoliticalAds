@@ -1,11 +1,11 @@
 ## 2026 - Lewis For Kansas 
-**Spent**: 273.00
+**Spent**: 308.00
 
-**Impressions**: 37,460
+**Impressions**: 42,734
 
 **Billing Addresses**: 433 S. Poplar St,Ottawa,66067,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Lewis For Kansas: Michael Lewis|213.00 USD|[0](https://www.snap.com/political-ads/asset/c9e8e9379ad5d8a821f219dfbac33cdbbfc9e79c9fd17a8834560ec1be98a40d?mediaType=mp4)|26,566||18+|united states|
-|Lewis For Kansas: Michael Lewis|60.00 USD|[1](https://www.snap.com/political-ads/asset/3ee2ddc1ad241c75f6d6c6c3f0010d807a362cd5efe81f9e61c5734289ec3982?mediaType=png)|10,894||18+|united states|
+|Lewis For Kansas: Michael Lewis|228.00 USD|[0](https://www.snap.com/political-ads/asset/c9e8e9379ad5d8a821f219dfbac33cdbbfc9e79c9fd17a8834560ec1be98a40d?mediaType=mp4)|28,372||18+|united states|
+|Lewis For Kansas: Michael Lewis|80.00 USD|[1](https://www.snap.com/political-ads/asset/3ee2ddc1ad241c75f6d6c6c3f0010d807a362cd5efe81f9e61c5734289ec3982?mediaType=png)|14,362||18+|united states|

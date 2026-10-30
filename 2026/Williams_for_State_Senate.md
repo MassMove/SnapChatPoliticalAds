@@ -1,39 +1,39 @@
 ## 2026 - Williams for State Senate 
-**Spent**: 4,842.00
+**Spent**: 4,961.00
 
-**Impressions**: 820,825
+**Impressions**: 841,484
 
 **Billing Addresses**: 31 West Main Street,Wickford,02852,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Recrue Media  LLC|592.00 USD|[0](https://www.snap.com/political-ads/asset/dc7817a3b19796640d1e7d09f8cf80277229d9853f2db84eb54c909f5be64f37?mediaType=mp4)|103,840||18+|united states|
-|Recrue Media  LLC|413.00 USD|[1](https://www.snap.com/political-ads/asset/dc7817a3b19796640d1e7d09f8cf80277229d9853f2db84eb54c909f5be64f37?mediaType=mp4)|72,538||18+|united states|
-|Recrue Media  LLC|413.00 USD|[2](https://www.snap.com/political-ads/asset/dc7817a3b19796640d1e7d09f8cf80277229d9853f2db84eb54c909f5be64f37?mediaType=mp4)|72,316||18+|united states|
+|Recrue Media  LLC|625.00 USD|[0](https://www.snap.com/political-ads/asset/dc7817a3b19796640d1e7d09f8cf80277229d9853f2db84eb54c909f5be64f37?mediaType=mp4)|109,779||18+|united states|
+|Recrue Media  LLC|437.00 USD|[1](https://www.snap.com/political-ads/asset/dc7817a3b19796640d1e7d09f8cf80277229d9853f2db84eb54c909f5be64f37?mediaType=mp4)|76,634||18+|united states|
+|Recrue Media  LLC|436.00 USD|[2](https://www.snap.com/political-ads/asset/dc7817a3b19796640d1e7d09f8cf80277229d9853f2db84eb54c909f5be64f37?mediaType=mp4)|76,442||18+|united states|
 |Recrue Media  LLC|363.00 USD|[3](https://www.snap.com/political-ads/asset/921bb0a78347ad985a232653bf9c4010af37271509f5ff4722066c05b4fd3f78?mediaType=mp4)|62,652||18+|united states|
 |Recrue Media  LLC|271.00 USD|[4](https://www.snap.com/political-ads/asset/921bb0a78347ad985a232653bf9c4010af37271509f5ff4722066c05b4fd3f78?mediaType=mp4)|46,601||18+|united states|
 |Recrue Media  LLC|286.00 USD|[5](https://www.snap.com/political-ads/asset/a2ccb1def08897b6512737954ad76b85f50a392f59c43199bea71efc4728c201?mediaType=mp4)|45,889||18+|united states|
 |Recrue Media  LLC|256.00 USD|[6](https://www.snap.com/political-ads/asset/921bb0a78347ad985a232653bf9c4010af37271509f5ff4722066c05b4fd3f78?mediaType=mp4)|44,091||18+|united states|
-|Recrue Media  LLC|184.00 USD|[7](https://www.snap.com/political-ads/asset/70a40f7597512097465afb4c1917b261efe81d5a1e5109becc51bf39d97b01e2?mediaType=png)|32,771||18+|united states|
+|Recrue Media  LLC|196.00 USD|[7](https://www.snap.com/political-ads/asset/70a40f7597512097465afb4c1917b261efe81d5a1e5109becc51bf39d97b01e2?mediaType=png)|34,878||18+|united states|
 |Recrue Media  LLC|196.00 USD|[8](https://www.snap.com/political-ads/asset/a2ccb1def08897b6512737954ad76b85f50a392f59c43199bea71efc4728c201?mediaType=mp4)|31,585||18+|united states|
 |Recrue Media  LLC|181.00 USD|[9](https://www.snap.com/political-ads/asset/a2ccb1def08897b6512737954ad76b85f50a392f59c43199bea71efc4728c201?mediaType=mp4)|29,072||18+|united states|
 |Recrue Media  LLC|166.00 USD|[10](https://www.snap.com/political-ads/asset/36e344c5762d37d10ebf7e0c34023ce7c4c2b3023a407e3c580984996823d984?mediaType=png)|25,567||18+|united states|
 |Recrue Media  LLC|150.00 USD|[11](https://www.snap.com/political-ads/asset/f0601606160069df634f5e194107bbd7452b3b890f1f7daad2c0e1544eb6c406?mediaType=png)|25,148||18+|united states|
-|Recrue Media  LLC|123.00 USD|[12](https://www.snap.com/political-ads/asset/1a47689e0be0f2bc97621ef8a6e54cfdae8e04be7828fc487ebd1ff885c22ca7?mediaType=png)|22,803||18+|united states|
+|Recrue Media  LLC|125.00 USD|[12](https://www.snap.com/political-ads/asset/1a47689e0be0f2bc97621ef8a6e54cfdae8e04be7828fc487ebd1ff885c22ca7?mediaType=png)|23,083||18+|united states|
 |Recrue Media  LLC|145.00 USD|[13](https://www.snap.com/political-ads/asset/f0601606160069df634f5e194107bbd7452b3b890f1f7daad2c0e1544eb6c406?mediaType=png)|22,614||18+|united states|
 |Recrue Media  LLC|150.00 USD|[14](https://www.snap.com/political-ads/asset/36e344c5762d37d10ebf7e0c34023ce7c4c2b3023a407e3c580984996823d984?mediaType=png)|22,363||18+|united states|
-|Recrue Media  LLC|111.00 USD|[15](https://www.snap.com/political-ads/asset/1c9debe8c31afc0251fdcc3324c0c506b12960e45a42495b26525c798cbac927?mediaType=png)|19,819||18+|united states|
+|Recrue Media  LLC|117.00 USD|[15](https://www.snap.com/political-ads/asset/1c9debe8c31afc0251fdcc3324c0c506b12960e45a42495b26525c798cbac927?mediaType=png)|20,822||18+|united states|
 |Recrue Media  LLC|118.00 USD|[16](https://www.snap.com/political-ads/asset/1b2fae5869d93845f66a592f5030a78035ab22b2780ce1701714d3a638cae0bf?mediaType=png)|19,063||18+|united states|
 |Recrue Media  LLC|120.00 USD|[17](https://www.snap.com/political-ads/asset/f0601606160069df634f5e194107bbd7452b3b890f1f7daad2c0e1544eb6c406?mediaType=png)|18,799||18+|united states|
 |Recrue Media  LLC|105.00 USD|[18](https://www.snap.com/political-ads/asset/36e344c5762d37d10ebf7e0c34023ce7c4c2b3023a407e3c580984996823d984?mediaType=png)|15,987||18+|united states|
-|Recrue Media  LLC|80.00 USD|[19](https://www.snap.com/political-ads/asset/1a47689e0be0f2bc97621ef8a6e54cfdae8e04be7828fc487ebd1ff885c22ca7?mediaType=png)|14,640||18+|united states|
+|Recrue Media  LLC|82.00 USD|[19](https://www.snap.com/political-ads/asset/1a47689e0be0f2bc97621ef8a6e54cfdae8e04be7828fc487ebd1ff885c22ca7?mediaType=png)|14,877||18+|united states|
 |Recrue Media  LLC|88.00 USD|[20](https://www.snap.com/political-ads/asset/1b2fae5869d93845f66a592f5030a78035ab22b2780ce1701714d3a638cae0bf?mediaType=png)|13,725||18+|united states|
-|Recrue Media  LLC|72.00 USD|[21](https://www.snap.com/political-ads/asset/1c9debe8c31afc0251fdcc3324c0c506b12960e45a42495b26525c798cbac927?mediaType=png)|12,960||18+|united states|
+|Recrue Media  LLC|73.00 USD|[21](https://www.snap.com/political-ads/asset/1c9debe8c31afc0251fdcc3324c0c506b12960e45a42495b26525c798cbac927?mediaType=png)|13,070||18+|united states|
 |Recrue Media  LLC|81.00 USD|[22](https://www.snap.com/political-ads/asset/1b2fae5869d93845f66a592f5030a78035ab22b2780ce1701714d3a638cae0bf?mediaType=png)|12,797||18+|united states|
-|Recrue Media  LLC|63.00 USD|[23](https://www.snap.com/political-ads/asset/1c9debe8c31afc0251fdcc3324c0c506b12960e45a42495b26525c798cbac927?mediaType=png)|11,554||18+|united states|
-|Recrue Media  LLC|53.00 USD|[24](https://www.snap.com/political-ads/asset/1a47689e0be0f2bc97621ef8a6e54cfdae8e04be7828fc487ebd1ff885c22ca7?mediaType=png)|9,862||18+|united states|
-|Recrue Media  LLC|28.00 USD|[25](https://www.snap.com/political-ads/asset/70a40f7597512097465afb4c1917b261efe81d5a1e5109becc51bf39d97b01e2?mediaType=png)|5,259||18+|united states|
-|Recrue Media  LLC|15.00 USD|[26](https://www.snap.com/political-ads/asset/70a40f7597512097465afb4c1917b261efe81d5a1e5109becc51bf39d97b01e2?mediaType=png)|2,909||18+|united states|
-|Recrue Media  LLC|8.00 USD|[27](https://www.snap.com/political-ads/asset/42f3d21f9d768ed54f81c1d449d48011a65efe07fe6b13fa74ee6aa63bbf0cba?mediaType=png)|1,483||18+|united states|
-|Recrue Media  LLC|6.00 USD|[28](https://www.snap.com/political-ads/asset/42f3d21f9d768ed54f81c1d449d48011a65efe07fe6b13fa74ee6aa63bbf0cba?mediaType=png)|1,191||18+|united states|
-|Recrue Media  LLC|5.00 USD|[29](https://www.snap.com/political-ads/asset/42f3d21f9d768ed54f81c1d449d48011a65efe07fe6b13fa74ee6aa63bbf0cba?mediaType=png)|927||18+|united states|
+|Recrue Media  LLC|65.00 USD|[23](https://www.snap.com/political-ads/asset/1c9debe8c31afc0251fdcc3324c0c506b12960e45a42495b26525c798cbac927?mediaType=png)|11,920||18+|united states|
+|Recrue Media  LLC|54.00 USD|[24](https://www.snap.com/political-ads/asset/1a47689e0be0f2bc97621ef8a6e54cfdae8e04be7828fc487ebd1ff885c22ca7?mediaType=png)|10,113||18+|united states|
+|Recrue Media  LLC|29.00 USD|[25](https://www.snap.com/political-ads/asset/70a40f7597512097465afb4c1917b261efe81d5a1e5109becc51bf39d97b01e2?mediaType=png)|5,347||18+|united states|
+|Recrue Media  LLC|16.00 USD|[26](https://www.snap.com/political-ads/asset/70a40f7597512097465afb4c1917b261efe81d5a1e5109becc51bf39d97b01e2?mediaType=png)|3,046||18+|united states|
+|Recrue Media  LLC|12.00 USD|[27](https://www.snap.com/political-ads/asset/42f3d21f9d768ed54f81c1d449d48011a65efe07fe6b13fa74ee6aa63bbf0cba?mediaType=png)|2,201||18+|united states|
+|Recrue Media  LLC|11.00 USD|[28](https://www.snap.com/political-ads/asset/42f3d21f9d768ed54f81c1d449d48011a65efe07fe6b13fa74ee6aa63bbf0cba?mediaType=png)|2,014||18+|united states|
+|Recrue Media  LLC|7.00 USD|[29](https://www.snap.com/political-ads/asset/42f3d21f9d768ed54f81c1d449d48011a65efe07fe6b13fa74ee6aa63bbf0cba?mediaType=png)|1,305||18+|united states|

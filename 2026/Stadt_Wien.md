@@ -1,10 +1,10 @@
 ## 2026 - Stadt Wien 
-**Spent**: 934.00
+**Spent**: 970.00
 
-**Impressions**: 327,751
+**Impressions**: 341,754
 
 **Billing Addresses**: MA 53 - BA 1, Postfach 588,Wien,1000,AT
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stadt Wien|934.00 EUR|[0](https://www.snap.com/political-ads/asset/869489b30764b5860b26bef80a36d604f403b1b22b78b48b73c3976e3dc0a633?mediaType=mp4)|327,751||18-45|austria|
+|Stadt Wien|970.00 EUR|[0](https://www.snap.com/political-ads/asset/869489b30764b5860b26bef80a36d604f403b1b22b78b48b73c3976e3dc0a633?mediaType=mp4)|341,754||18-45|austria|
