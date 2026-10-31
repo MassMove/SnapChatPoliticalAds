@@ -1,12 +1,12 @@
 ## 2026 - Ballot Question Committee 
-**Spent**: 644.00
+**Spent**: 667.00
 
-**Impressions**: 204,163
+**Impressions**: 211,680
 
 **Billing Addresses**: 196 E. 6th St,Sioux Falls,57104,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Community HealthCare Association of the Dakotas: Amendment i|229.00 USD|[0](https://www.snap.com/political-ads/asset/fb795940a8d65b9fb48416b8b8ce4e8d3ad8be4670405fa4f99f11cdb2c27b3c?mediaType=mp4)|72,775||18+|united states|
-|Community HealthCare Association of the Dakotas: Amendment i|228.00 USD|[1](https://www.snap.com/political-ads/asset/b47653f583204f394be49e0b4202a8942165c78970105a33807fc17dbef1bd2d?mediaType=mp4)|70,970||18+|united states|
-|Community HealthCare Association of the Dakotas: Amendment i|187.00 USD|[2](https://www.snap.com/political-ads/asset/7853e9cec10321e440499eb8fc6b5aac4abb2633962bcd57d726e0e41a3c67f6?mediaType=mp4)|60,418||18+|united states|
+|Community HealthCare Association of the Dakotas: Amendment i|238.00 USD|[0](https://www.snap.com/political-ads/asset/b47653f583204f394be49e0b4202a8942165c78970105a33807fc17dbef1bd2d?mediaType=mp4)|74,346||18+|united states|
+|Community HealthCare Association of the Dakotas: Amendment i|230.00 USD|[1](https://www.snap.com/political-ads/asset/fb795940a8d65b9fb48416b8b8ce4e8d3ad8be4670405fa4f99f11cdb2c27b3c?mediaType=mp4)|73,024||18+|united states|
+|Community HealthCare Association of the Dakotas: Amendment i|199.00 USD|[2](https://www.snap.com/political-ads/asset/7853e9cec10321e440499eb8fc6b5aac4abb2633962bcd57d726e0e41a3c67f6?mediaType=mp4)|64,310||18+|united states|

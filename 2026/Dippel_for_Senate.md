@@ -1,11 +1,11 @@
 ## 2026 - Dippel for Senate 
-**Spent**: 1,593.00
+**Spent**: 1,628.00
 
-**Impressions**: 618,649
+**Impressions**: 633,323
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Dippel for Senate|843.00 USD|[0](https://www.snap.com/political-ads/asset/d63d48c10e5a2f25efb31d80d267934bdef4f21e70d36eef538d30bc07364add?mediaType=png)|341,997||18-35|united states|
+|Dippel for Senate|878.00 USD|[0](https://www.snap.com/political-ads/asset/d63d48c10e5a2f25efb31d80d267934bdef4f21e70d36eef538d30bc07364add?mediaType=png)|356,671||18-35|united states|
 |Dippel for Senate|750.00 USD|[1](https://www.snap.com/political-ads/asset/d63d48c10e5a2f25efb31d80d267934bdef4f21e70d36eef538d30bc07364add?mediaType=png)|276,652||18-35|united states|

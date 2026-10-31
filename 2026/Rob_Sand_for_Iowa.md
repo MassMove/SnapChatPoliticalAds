@@ -1,16 +1,16 @@
 ## 2026 - Rob Sand for Iowa 
-**Spent**: 46,824.00
+**Spent**: 53,065.00
 
-**Impressions**: 3,588,398
+**Impressions**: 4,289,330
 
 **Billing Addresses**: 1930 18th St NW Suite B2 #562,Washingotn,20009,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Break Something|16,306.00 USD|[0](https://www.snap.com/political-ads/asset/bb3d8f6984955160b55cac77f33ffca654d27c2d652cfca5dab8f133eb5cf92e?mediaType=mp4)|1,757,263||18+|united states|
+|Break Something|20,300.00 USD|[0](https://www.snap.com/political-ads/asset/bb3d8f6984955160b55cac77f33ffca654d27c2d652cfca5dab8f133eb5cf92e?mediaType=mp4)|2,138,475||18+|united states|
 |Break Something|19,210.00 USD|[1](https://www.snap.com/political-ads/asset/012e932918619e0b099e6d9d283b74188af029eae76f9fda65ac6a954d90ccc4?mediaType=mp4)|1,058,863||18+|united states|
-|Break Something|6,502.00 USD|[2](https://www.snap.com/political-ads/asset/012e932918619e0b099e6d9d283b74188af029eae76f9fda65ac6a954d90ccc4?mediaType=mp4)|384,525||18+|united states|
-|Break Something|4,048.00 USD|[3](https://www.snap.com/political-ads/asset/9f3586fddd022a9ffcdadb05c21184b0c86da40e5d53b50d1a3a59c33272cf0a?mediaType=mp4)|302,713||18+|united states|
-|Break Something|242.00 USD|[4](https://www.snap.com/political-ads/asset/9fc0dc75377a4655f60876ff7238a07e860c5d1e3af17e848f7287e410aa67b5?mediaType=mp4)|35,896||18+|united states|
-|Break Something|235.00 USD|[5](https://www.snap.com/political-ads/asset/70fc6b903614a9f959d73acf9a13e3fdeb48d3e0a7a64dc59ef48aa327675c36?mediaType=mp4)|32,313||18+|united states|
+|Break Something|6,900.00 USD|[2](https://www.snap.com/political-ads/asset/012e932918619e0b099e6d9d283b74188af029eae76f9fda65ac6a954d90ccc4?mediaType=mp4)|407,835||18+|united states|
+|Break Something|2,084.00 USD|[3](https://www.snap.com/political-ads/asset/70fc6b903614a9f959d73acf9a13e3fdeb48d3e0a7a64dc59ef48aa327675c36?mediaType=mp4)|328,723||18+|united states|
+|Break Something|4,048.00 USD|[4](https://www.snap.com/political-ads/asset/9f3586fddd022a9ffcdadb05c21184b0c86da40e5d53b50d1a3a59c33272cf0a?mediaType=mp4)|302,713||18+|united states|
+|Break Something|242.00 USD|[5](https://www.snap.com/political-ads/asset/9fc0dc75377a4655f60876ff7238a07e860c5d1e3af17e848f7287e410aa67b5?mediaType=mp4)|35,896||18+|united states|
 |Break Something|281.00 USD|[6](https://www.snap.com/political-ads/asset/9fc0dc75377a4655f60876ff7238a07e860c5d1e3af17e848f7287e410aa67b5?mediaType=mp4)|16,825||18+|united states|

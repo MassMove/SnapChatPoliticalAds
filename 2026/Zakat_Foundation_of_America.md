@@ -1,16 +1,16 @@
 ## 2026 - Zakat Foundation of America 
-**Spent**: 4,824.00
+**Spent**: 4,920.00
 
-**Impressions**: 295,105
+**Impressions**: 301,422
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Zakat Foundation of America|1,083.00 USD|[0](https://www.snap.com/political-ads/asset/c336c0a48b3ec993ac9d79a109a66c694de30f5abc75640d40224f75349fe46e?mediaType=png)|79,523||18+|united states|
-|Zakat Foundation of America|885.00 USD|[1](https://www.snap.com/political-ads/asset/86eade4a6c90ea7df72c570c0464c9b1845659d12e471bb76545bd8e76d3f8d3?mediaType=png)|61,280||18+|united states|
-|Zakat Foundation of America|840.00 USD|[2](https://www.snap.com/political-ads/asset/90124471b48b16a7ef0e28188131cf330dabad4cc3bc505862c9f638ab7135d2?mediaType=png)|54,574||18+|united states|
-|Zakat Foundation of America|759.00 USD|[3](https://www.snap.com/political-ads/asset/83877472ce375b076bb823dd3e89e1e05ab0905b160909528771791be8223be6?mediaType=png)|51,733||18+|united states|
+|Zakat Foundation of America|1,118.00 USD|[0](https://www.snap.com/political-ads/asset/c336c0a48b3ec993ac9d79a109a66c694de30f5abc75640d40224f75349fe46e?mediaType=png)|81,359||18+|united states|
+|Zakat Foundation of America|899.00 USD|[1](https://www.snap.com/political-ads/asset/86eade4a6c90ea7df72c570c0464c9b1845659d12e471bb76545bd8e76d3f8d3?mediaType=png)|62,019||18+|united states|
+|Zakat Foundation of America|864.00 USD|[2](https://www.snap.com/political-ads/asset/90124471b48b16a7ef0e28188131cf330dabad4cc3bc505862c9f638ab7135d2?mediaType=png)|56,805||18+|united states|
+|Zakat Foundation of America|782.00 USD|[3](https://www.snap.com/political-ads/asset/83877472ce375b076bb823dd3e89e1e05ab0905b160909528771791be8223be6?mediaType=png)|53,244||18+|united states|
 |Zakat Foundation of America|241.00 USD|[4](https://www.snap.com/political-ads/asset/722d7e62680c2a387b6c8b7b83adf5e9b780d239c92647b139633812dba04d67?mediaType=png)|12,425||22+|united states|
 |Zakat Foundation of America|145.00 USD|[5](https://www.snap.com/political-ads/asset/6bfa1e3bf3a9f44114b1768b3b92d34a3ffa4fed08689cb55347c397ae92a2e0?mediaType=png)|7,621||18+|united states|
 |Zakat Foundation of America|184.00 USD|[6](https://www.snap.com/political-ads/asset/6fbdd04fdd8bb5ae6325e6180275ca67849c75be51722bdd4ba32f25b67b2fe6?mediaType=png)|6,010||22+|united states|

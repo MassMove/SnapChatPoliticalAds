@@ -1,7 +1,7 @@
 ## 2026 - Forward Blue 
 **Spent**: 3,489.00
 
-**Impressions**: 429,817
+**Impressions**: 429,818
 
 **Billing Addresses**: US
 
@@ -16,7 +16,7 @@
 |Forward Blue|241.00 USD|[6](https://www.snap.com/political-ads/asset/2fa7b8726847bcca13ee5834fc5fa54eca6c6faaa77c6037f40896103a88ecd9?mediaType=png)|29,803||35+|united states|
 |Forward Blue|177.00 USD|[7](https://www.snap.com/political-ads/asset/e2557a0023590784d5c82591f11c0b28b93091a50207ce08793dfd0ffa89f91d?mediaType=png)|22,889||18+|united states|
 |Forward Blue|161.00 USD|[8](https://www.snap.com/political-ads/asset/e2557a0023590784d5c82591f11c0b28b93091a50207ce08793dfd0ffa89f91d?mediaType=png)|20,068||18+|united states|
-|Forward Blue|115.00 USD|[9](https://www.snap.com/political-ads/asset/f40ab50f144e3b7f1924b9db065238446412eb2620aa2b794f4a2611c025c978?mediaType=png)|15,151||35+|united states|
+|Forward Blue|115.00 USD|[9](https://www.snap.com/political-ads/asset/f40ab50f144e3b7f1924b9db065238446412eb2620aa2b794f4a2611c025c978?mediaType=png)|15,152||35+|united states|
 |Forward Blue|115.00 USD|[10](https://www.snap.com/political-ads/asset/2fa7b8726847bcca13ee5834fc5fa54eca6c6faaa77c6037f40896103a88ecd9?mediaType=png)|14,549||35+|united states|
 |Forward Blue|119.00 USD|[11](https://www.snap.com/political-ads/asset/f40ab50f144e3b7f1924b9db065238446412eb2620aa2b794f4a2611c025c978?mediaType=png)|12,634||35+|united states|
 |Forward Blue|76.00 USD|[12](https://www.snap.com/political-ads/asset/d136d82fa807858bcd4d723050fb9f908af3917c4132733a3a4b6a5f7feff5f3?mediaType=png)|10,950||18+|united states|

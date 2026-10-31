@@ -1,7 +1,7 @@
 ## 2026 - New Zealand Labour Party 
 **Spent**: 568.00
 
-**Impressions**: 51,386
+**Impressions**: 51,387
 
 **Billing Addresses**: 2 Gilmer Terrace,Wellington Central,6011,NZ
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |New Zealand Labour Party|156.00 NZD|[0](https://www.snap.com/political-ads/asset/412a699735be99c68c0681043bec0374dd47318196d722340f9456f18b16a30b?mediaType=mp4)|12,830||18-26|new zealand|
 |New Zealand Labour Party|89.00 NZD|[1](https://www.snap.com/political-ads/asset/b8255b74698cf051b037191955474c4064d138b0823ab89f139ecde7749b6464?mediaType=mp4)|8,114||18-26|new zealand|
-|New Zealand Labour Party|82.00 NZD|[2](https://www.snap.com/political-ads/asset/342483d0c01a788491497d2dce99132566de29555561b2a284e49d3e18b41da0?mediaType=mp4)|8,001||18-26|new zealand|
+|New Zealand Labour Party|82.00 NZD|[2](https://www.snap.com/political-ads/asset/342483d0c01a788491497d2dce99132566de29555561b2a284e49d3e18b41da0?mediaType=mp4)|8,002||18-26|new zealand|
 |New Zealand Labour Party|53.00 NZD|[3](https://www.snap.com/political-ads/asset/54473b76efca7568a9249c86646b021e6e90f7d255fa08ee11cb5228da44ef3c?mediaType=mp4)|4,420||18-26|new zealand|
 |New Zealand Labour Party|35.00 NZD|[4](https://www.snap.com/political-ads/asset/9760daffb2452434b817115b634d979b8d1cdf30d7e046918f113cf059ca9b64?mediaType=mp4)|3,480||18-26|new zealand|
 |New Zealand Labour Party|30.00 NZD|[5](https://www.snap.com/political-ads/asset/f1f73d73d126c485c03b2d9fcd07155cd8197544682a1e6534d0b45cfc3103f3?mediaType=mp4)|2,592||18-26|new zealand|
