@@ -1,10 +1,10 @@
 ## 2026 - Witte for House 
-**Spent**: 357.00
+**Spent**: 388.00
 
-**Impressions**: 46,638
+**Impressions**: 52,276
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Witte for House|357.00 USD|[0](https://www.snap.com/political-ads/asset/4c8446f46e7dc70dcef9c3ae90081d78b6a69490f642316f558337f13b4ef39c?mediaType=png)|46,638||18-35|united states|
+|Witte for House|388.00 USD|[0](https://www.snap.com/political-ads/asset/4c8446f46e7dc70dcef9c3ae90081d78b6a69490f642316f558337f13b4ef39c?mediaType=png)|52,276||18-35|united states|

@@ -1,7 +1,7 @@
 ## 2026 - Facts for Peace LLC 
-**Spent**: 48,089.00
+**Spent**: 48,315.00
 
-**Impressions**: 10,981,398
+**Impressions**: 10,999,496
 
 **Billing Addresses**: 215 Park Ave S 15th Floor,New York,10003,US
 
@@ -23,16 +23,16 @@
 |Global Strategy Group|709.00 USD|[13](https://www.snap.com/political-ads/asset/b83dd1353e3485ea2190ca019ae1bda0c59a50bbce840425b230b2e96351301f?mediaType=mp4)|46,088||18-35|united states|
 |Global Strategy Group|578.00 USD|[14](https://www.snap.com/political-ads/asset/b45a1780db17b8205acaba2c5ed9719b488107fecf7ddf1fd05d5d97f838b6dd?mediaType=mp4)|37,432||18-35|united states|
 |Global Strategy Group|470.00 USD|[15](https://www.snap.com/political-ads/asset/3fce83984967c9eeffab71c5ea1ee244d832eed1bd297e0cb912eb01299b533a?mediaType=mp4)|30,484||18-35|united states|
-|Global Strategy Group|125.00 USD|[16](https://www.snap.com/political-ads/asset/b83dd1353e3485ea2190ca019ae1bda0c59a50bbce840425b230b2e96351301f?mediaType=mp4)|15,871||18-35|united states|
-|Global Strategy Group|138.00 USD|[17](https://www.snap.com/political-ads/asset/45f0850b0e5b01f91113a7e907ceda7961ad87a9f1cc5a8fc4cf298eff466f60?mediaType=mp4)|11,559||18-35|united states|
-|Global Strategy Group|55.00 USD|[18](https://www.snap.com/political-ads/asset/77e59cdd45baf1dd06a8b72b1576231a77654c37235569b5caa2869f88185360?mediaType=mp4)|5,746||18-35|united states|
-|Global Strategy Group|46.00 USD|[19](https://www.snap.com/political-ads/asset/abb80a3e6630b3fd3737d8e4b8b4f30d96a8fd1d3eb4d4d0d2f931ffaffc3f6f?mediaType=mp4)|4,749||18-35|united states|
-|Global Strategy Group|74.00 USD|[20](https://www.snap.com/political-ads/asset/77e59cdd45baf1dd06a8b72b1576231a77654c37235569b5caa2869f88185360?mediaType=mp4)|4,538||18-35|united states|
-|Global Strategy Group|39.00 USD|[21](https://www.snap.com/political-ads/asset/3fce83984967c9eeffab71c5ea1ee244d832eed1bd297e0cb912eb01299b533a?mediaType=mp4)|4,415||18-35|united states|
-|Global Strategy Group|63.00 USD|[22](https://www.snap.com/political-ads/asset/abb80a3e6630b3fd3737d8e4b8b4f30d96a8fd1d3eb4d4d0d2f931ffaffc3f6f?mediaType=mp4)|3,879||18-35|united states|
-|Global Strategy Group|34.00 USD|[23](https://www.snap.com/political-ads/asset/b45a1780db17b8205acaba2c5ed9719b488107fecf7ddf1fd05d5d97f838b6dd?mediaType=mp4)|2,564||18-35|united states|
-|Global Strategy Group|23.00 USD|[24](https://www.snap.com/political-ads/asset/aac852e50cc3b5852cc1f901df8817ac60ab429feacfd22c9d2d03dd79220e12?mediaType=mp4)|2,373||18-35|united states|
-|Global Strategy Group|45.00 USD|[25](https://www.snap.com/political-ads/asset/8de80d465aa2dd85ffdb4b8a6cf5ab1ec1fdfdd26b932e8d42f549864cf5afd3?mediaType=mp4)|1,929||18-35|united states|
-|Global Strategy Group|17.00 USD|[26](https://www.snap.com/political-ads/asset/8de80d465aa2dd85ffdb4b8a6cf5ab1ec1fdfdd26b932e8d42f549864cf5afd3?mediaType=mp4)|1,762||18-35|united states|
-|Global Strategy Group|12.00 USD|[27](https://www.snap.com/political-ads/asset/45f0850b0e5b01f91113a7e907ceda7961ad87a9f1cc5a8fc4cf298eff466f60?mediaType=mp4)|1,304||18-35|united states|
-|Global Strategy Group|13.00 USD|[28](https://www.snap.com/political-ads/asset/aac852e50cc3b5852cc1f901df8817ac60ab429feacfd22c9d2d03dd79220e12?mediaType=mp4)|675||18-35|united states|
+|Global Strategy Group|185.00 USD|[16](https://www.snap.com/political-ads/asset/45f0850b0e5b01f91113a7e907ceda7961ad87a9f1cc5a8fc4cf298eff466f60?mediaType=mp4)|16,095||18-35|united states|
+|Global Strategy Group|125.00 USD|[17](https://www.snap.com/political-ads/asset/b83dd1353e3485ea2190ca019ae1bda0c59a50bbce840425b230b2e96351301f?mediaType=mp4)|15,871||18-35|united states|
+|Global Strategy Group|80.00 USD|[18](https://www.snap.com/political-ads/asset/77e59cdd45baf1dd06a8b72b1576231a77654c37235569b5caa2869f88185360?mediaType=mp4)|8,278||18-35|united states|
+|Global Strategy Group|107.00 USD|[19](https://www.snap.com/political-ads/asset/77e59cdd45baf1dd06a8b72b1576231a77654c37235569b5caa2869f88185360?mediaType=mp4)|6,719||18-35|united states|
+|Global Strategy Group|63.00 USD|[20](https://www.snap.com/political-ads/asset/abb80a3e6630b3fd3737d8e4b8b4f30d96a8fd1d3eb4d4d0d2f931ffaffc3f6f?mediaType=mp4)|6,518||18-35|united states|
+|Global Strategy Group|99.00 USD|[21](https://www.snap.com/political-ads/asset/abb80a3e6630b3fd3737d8e4b8b4f30d96a8fd1d3eb4d4d0d2f931ffaffc3f6f?mediaType=mp4)|6,265||18-35|united states|
+|Global Strategy Group|39.00 USD|[22](https://www.snap.com/political-ads/asset/3fce83984967c9eeffab71c5ea1ee244d832eed1bd297e0cb912eb01299b533a?mediaType=mp4)|4,415||18-35|united states|
+|Global Strategy Group|35.00 USD|[23](https://www.snap.com/political-ads/asset/aac852e50cc3b5852cc1f901df8817ac60ab429feacfd22c9d2d03dd79220e12?mediaType=mp4)|3,641||18-35|united states|
+|Global Strategy Group|77.00 USD|[24](https://www.snap.com/political-ads/asset/8de80d465aa2dd85ffdb4b8a6cf5ab1ec1fdfdd26b932e8d42f549864cf5afd3?mediaType=mp4)|3,538||18-35|united states|
+|Global Strategy Group|34.00 USD|[25](https://www.snap.com/political-ads/asset/b45a1780db17b8205acaba2c5ed9719b488107fecf7ddf1fd05d5d97f838b6dd?mediaType=mp4)|2,564||18-35|united states|
+|Global Strategy Group|24.00 USD|[26](https://www.snap.com/political-ads/asset/8de80d465aa2dd85ffdb4b8a6cf5ab1ec1fdfdd26b932e8d42f549864cf5afd3?mediaType=mp4)|2,516||18-35|united states|
+|Global Strategy Group|17.00 USD|[27](https://www.snap.com/political-ads/asset/45f0850b0e5b01f91113a7e907ceda7961ad87a9f1cc5a8fc4cf298eff466f60?mediaType=mp4)|1,757||18-35|united states|
+|Global Strategy Group|25.00 USD|[28](https://www.snap.com/political-ads/asset/aac852e50cc3b5852cc1f901df8817ac60ab429feacfd22c9d2d03dd79220e12?mediaType=mp4)|1,285||18-35|united states|
