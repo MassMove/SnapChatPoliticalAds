@@ -1,29 +1,29 @@
 ## 2026 - Del Prete for Phoenix 
-**Spent**: 933.00
+**Spent**: 962.00
 
-**Impressions**: 117,629
+**Impressions**: 122,105
 
 **Billing Addresses**: 505 E Oraibi Drive,Phoenix,85024,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Flygon LC: Michael Del Prete for Phoenix City Council|159.00 USD|[0](https://www.snap.com/political-ads/asset/aae51dac0534dc771ceac2df3124f832116378de26c76e0ec7e2718fd5dfc597?mediaType=mp4)|18,011||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|122.00 USD|[1](https://www.snap.com/political-ads/asset/3ef998c13a1819eeed3781f9f8287eb7ce91b907ee1ef7f4dd49f6fe552ad5ec?mediaType=png)|17,499||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|88.00 USD|[2](https://www.snap.com/political-ads/asset/53d4fcb53e23739c4990dd8f7483613993f9fb2b544d79df7a124e26c0a62c26?mediaType=mp4)|13,540||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|120.00 USD|[3](https://www.snap.com/political-ads/asset/ae81ba4d9138f1c8fe704c4af987e6cf74cc6742473ad05038eb6719f1d0ba89?mediaType=png)|12,487||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|71.00 USD|[4](https://www.snap.com/political-ads/asset/68b37042a39fa8682b9ae06909426fa6e5e792202a37ad6ae9496d5152f95453?mediaType=mp4)|10,836||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|54.00 USD|[5](https://www.snap.com/political-ads/asset/23854802a36760271cd2a338782b10c7eef638b2e482a291d58b41a496071a5c?mediaType=png)|7,569||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|40.00 USD|[6](https://www.snap.com/political-ads/asset/ee79d17adf22afda2c3f1923c19371ee48f46330d58ef029c7c04ffad9d65bbd?mediaType=mp4)|5,561||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|46.00 USD|[7](https://www.snap.com/political-ads/asset/26456d3bcbcdf478c459d509fb93d7de4324d60f2debea5a8ed93fb823db96f8?mediaType=png)|5,026||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|46.00 USD|[8](https://www.snap.com/political-ads/asset/b85ff94e58fe2259f5e936b5e9d64c7fb6ac73f88d8e3076827260e1a43e756b?mediaType=png)|4,968||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|38.00 USD|[9](https://www.snap.com/political-ads/asset/b9ff61a9deb468cff99ac993c520a3e94574d71af981c2e0cb981117599241c4?mediaType=png)|4,621||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|25.00 USD|[10](https://www.snap.com/political-ads/asset/1abfd3671584d24093c6bda5da2553243af5904eec9343fa97f8c6ba1594692d?mediaType=png)|3,324||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|26.00 USD|[11](https://www.snap.com/political-ads/asset/ee79d17adf22afda2c3f1923c19371ee48f46330d58ef029c7c04ffad9d65bbd?mediaType=mp4)|2,849||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|26.00 USD|[12](https://www.snap.com/political-ads/asset/68b37042a39fa8682b9ae06909426fa6e5e792202a37ad6ae9496d5152f95453?mediaType=mp4)|2,789||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|17.00 USD|[13](https://www.snap.com/political-ads/asset/53d4fcb53e23739c4990dd8f7483613993f9fb2b544d79df7a124e26c0a62c26?mediaType=mp4)|1,795||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|11.00 USD|[14](https://www.snap.com/political-ads/asset/d67048ebfbb982cc8367ff0f3d1fe9b3d7c64200314245c16527a6d419cb45f8?mediaType=jpg)|1,655||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|15.00 USD|[15](https://www.snap.com/political-ads/asset/c8010a98b93f45c0e1d124f54c0601bd9e38d731f754162cc7965c9b0e3979e7?mediaType=png)|1,538||18+|united states|
-|Flygon LC: Michael Del Prete for Phoenix City Council|8.00 USD|[16](https://www.snap.com/political-ads/asset/aae51dac0534dc771ceac2df3124f832116378de26c76e0ec7e2718fd5dfc597?mediaType=mp4)|1,141||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|163.00 USD|[0](https://www.snap.com/political-ads/asset/aae51dac0534dc771ceac2df3124f832116378de26c76e0ec7e2718fd5dfc597?mediaType=mp4)|18,612||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|125.00 USD|[1](https://www.snap.com/political-ads/asset/3ef998c13a1819eeed3781f9f8287eb7ce91b907ee1ef7f4dd49f6fe552ad5ec?mediaType=png)|18,122||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|92.00 USD|[2](https://www.snap.com/political-ads/asset/53d4fcb53e23739c4990dd8f7483613993f9fb2b544d79df7a124e26c0a62c26?mediaType=mp4)|14,337||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|124.00 USD|[3](https://www.snap.com/political-ads/asset/ae81ba4d9138f1c8fe704c4af987e6cf74cc6742473ad05038eb6719f1d0ba89?mediaType=png)|13,094||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|72.00 USD|[4](https://www.snap.com/political-ads/asset/68b37042a39fa8682b9ae06909426fa6e5e792202a37ad6ae9496d5152f95453?mediaType=mp4)|11,038||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|56.00 USD|[5](https://www.snap.com/political-ads/asset/23854802a36760271cd2a338782b10c7eef638b2e482a291d58b41a496071a5c?mediaType=png)|7,923||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|41.00 USD|[6](https://www.snap.com/political-ads/asset/ee79d17adf22afda2c3f1923c19371ee48f46330d58ef029c7c04ffad9d65bbd?mediaType=mp4)|5,800||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|48.00 USD|[7](https://www.snap.com/political-ads/asset/26456d3bcbcdf478c459d509fb93d7de4324d60f2debea5a8ed93fb823db96f8?mediaType=png)|5,259||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|46.00 USD|[8](https://www.snap.com/political-ads/asset/b85ff94e58fe2259f5e936b5e9d64c7fb6ac73f88d8e3076827260e1a43e756b?mediaType=png)|5,042||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|38.00 USD|[9](https://www.snap.com/political-ads/asset/b9ff61a9deb468cff99ac993c520a3e94574d71af981c2e0cb981117599241c4?mediaType=png)|4,706||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|26.00 USD|[10](https://www.snap.com/political-ads/asset/1abfd3671584d24093c6bda5da2553243af5904eec9343fa97f8c6ba1594692d?mediaType=png)|3,438||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|28.00 USD|[11](https://www.snap.com/political-ads/asset/ee79d17adf22afda2c3f1923c19371ee48f46330d58ef029c7c04ffad9d65bbd?mediaType=mp4)|2,991||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|28.00 USD|[12](https://www.snap.com/political-ads/asset/68b37042a39fa8682b9ae06909426fa6e5e792202a37ad6ae9496d5152f95453?mediaType=mp4)|2,942||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|18.00 USD|[13](https://www.snap.com/political-ads/asset/53d4fcb53e23739c4990dd8f7483613993f9fb2b544d79df7a124e26c0a62c26?mediaType=mp4)|1,879||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|12.00 USD|[14](https://www.snap.com/political-ads/asset/d67048ebfbb982cc8367ff0f3d1fe9b3d7c64200314245c16527a6d419cb45f8?mediaType=jpg)|1,738||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|16.00 USD|[15](https://www.snap.com/political-ads/asset/c8010a98b93f45c0e1d124f54c0601bd9e38d731f754162cc7965c9b0e3979e7?mediaType=png)|1,571||18+|united states|
+|Flygon LC: Michael Del Prete for Phoenix City Council|8.00 USD|[16](https://www.snap.com/political-ads/asset/aae51dac0534dc771ceac2df3124f832116378de26c76e0ec7e2718fd5dfc597?mediaType=mp4)|1,193||18+|united states|
 |Flygon LC: Michael Del Prete for Phoenix City Council|8.00 USD|[17](https://www.snap.com/political-ads/asset/4495c0ed5f4938f9e90c465a0a800d4fa53749662f4920a093ddb28b39d23b79?mediaType=png)|1,054||18+|united states|
 |Flygon LC: Michael Del Prete for Phoenix City Council|10.00 USD|[18](https://www.snap.com/political-ads/asset/5fa00699f94f8b5154e7d6dc8f3a8c109e6052eab099c390f151f0466502fb73?mediaType=png)|1,034||18+|united states|
 |Flygon LC: Michael Del Prete for Phoenix City Council|3.00 USD|[19](https://www.snap.com/political-ads/asset/11eb8d928d822e5460368257c43510598e9de73187c80226732999c7a123b028?mediaType=png)|332||18+|united states|

@@ -1,11 +1,11 @@
 ## 2026 - Ken Paxton for Senate 
-**Spent**: 156.00
+**Spent**: 172.00
 
-**Impressions**: 8,065
+**Impressions**: 8,937
 
 **Billing Addresses**: 435 E. Main,Greenwood,46143,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|The Prosper Group: Ken Paxton For Senate|104.00 USD|[0](https://www.snap.com/political-ads/asset/dd1087af1db5e7f02c05720c15d8a794268471f09dbed1e4bd819aa0db6661b4?mediaType=mp4)|6,111||18+|united states|
-|The Prosper Group: Ken Paxton For Senate|52.00 USD|[1](https://www.snap.com/political-ads/asset/992cad6bc4deb2b9de9f93dffc75fa88ace7366695f6ab218408a35dc18151db?mediaType=mp4)|1,954||18+|united states|
+|The Prosper Group: Ken Paxton For Senate|115.00 USD|[0](https://www.snap.com/political-ads/asset/dd1087af1db5e7f02c05720c15d8a794268471f09dbed1e4bd819aa0db6661b4?mediaType=mp4)|6,776||18+|united states|
+|The Prosper Group: Ken Paxton For Senate|57.00 USD|[1](https://www.snap.com/political-ads/asset/992cad6bc4deb2b9de9f93dffc75fa88ace7366695f6ab218408a35dc18151db?mediaType=mp4)|2,161||18+|united states|
