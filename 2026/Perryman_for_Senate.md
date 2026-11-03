@@ -1,11 +1,11 @@
 ## 2026 - Perryman for Senate 
-**Spent**: 979.00
+**Spent**: 997.00
 
-**Impressions**: 480,696
+**Impressions**: 489,569
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Perryman for Senate|479.00 USD|[0](https://www.snap.com/political-ads/asset/581d831dcc24e9f9675921847edf6eb62b9244e0083739a346ebd61093a4bcfe?mediaType=png)|253,113||18-35|united states|
+|Perryman for Senate|497.00 USD|[0](https://www.snap.com/political-ads/asset/581d831dcc24e9f9675921847edf6eb62b9244e0083739a346ebd61093a4bcfe?mediaType=png)|261,986||18-35|united states|
 |Perryman for Senate|500.00 USD|[1](https://www.snap.com/political-ads/asset/581d831dcc24e9f9675921847edf6eb62b9244e0083739a346ebd61093a4bcfe?mediaType=png)|227,583||18-35|united states|

@@ -1,7 +1,7 @@
 ## 2026 - VoteAmerica 
-**Spent**: 18,981.00
+**Spent**: 19,074.00
 
-**Impressions**: 1,392,938
+**Impressions**: 1,398,536
 
 **Billing Addresses**: US
 
@@ -18,8 +18,8 @@
 |VoteAmerica: Not applicable|879.00 USD|[8](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|57,176||18-30|united states|
 |VoteAmerica: Not applicable|835.00 USD|[9](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|52,843||18-30|united states|
 |VoteAmerica: Not applicable|603.00 USD|[10](https://www.snap.com/political-ads/asset/ff641e0a6c54fb5c1d77f47940835f71aa3940e3f4e926ff1c00fbca228771bc?mediaType=mp4)|48,065||18-30|united states|
-|VoteAmerica: Not applicable|713.00 USD|[11](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|41,630||30-|united states|
-|VoteAmerica: not applicable|812.00 USD|[12](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|41,555||18-30|united states|
+|VoteAmerica: not applicable|886.00 USD|[11](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|46,529||18-30|united states|
+|VoteAmerica: Not applicable|713.00 USD|[12](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|41,630||30-|united states|
 |VoteAmerica: Not applicable|557.00 USD|[13](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|37,395||30-|united states|
 |VoteAmerica: Not applicable|649.00 USD|[14](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|35,210||18-30|united states|
 |VoteAmerica: Not applicable|633.00 USD|[15](https://www.snap.com/political-ads/asset/6d7c46c203bf73fba51e02a3c01e84f49fdbca2d4692661ac73e69bf7fa6b503?mediaType=mp4)|34,869||18-30|united states|
@@ -48,8 +48,8 @@
 |VoteAmerica: Not applicable|134.00 USD|[38](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|7,657||18-30|united states|
 |VoteAmerica: Not applicable|113.00 USD|[39](https://www.snap.com/political-ads/asset/5f252af24972bdf59ce4cc4ce45ec1ba202ffd7305bc7b9a5281bff1ff661ae0?mediaType=mp4)|7,368||18-30|united states|
 |VoteAmerica: Not applicable|116.00 USD|[40](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|7,012||18-30|united states|
-|VoteAmerica: Not applicable|98.00 USD|[41](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|6,734||18-30|united states|
-|VoteAmerica: not applicable|203.00 USD|[42](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|6,370||18-30|united states|
+|VoteAmerica: not applicable|222.00 USD|[41](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|6,994||18-30|united states|
+|VoteAmerica: Not applicable|98.00 USD|[42](https://www.snap.com/political-ads/asset/582882859bd0245d4c9f74962bead875db43a1a43cec83565740e8e42ef9eaf8?mediaType=mp4)|6,734||18-30|united states|
 |VoteAmerica: Not applicable|73.00 USD|[43](https://www.snap.com/political-ads/asset/acbcbf31a70082e728b78368148d001db8c86a3ecb1449b3a138a19a10adafed?mediaType=mp4)|6,071||18-30|united states|
 |VoteAmerica: Not applicable|98.00 USD|[44](https://www.snap.com/political-ads/asset/96638f6e238d0652df949bd57cc2067271d1f3fefb9ef4bbcdff72cb60f01bf1?mediaType=mp4)|5,977||18-30|united states|
 |VoteAmerica: Not applicable|71.00 USD|[45](https://www.snap.com/political-ads/asset/8389d456f6a5ceabfd6df526a2469f339bdea07d16fa1522e7e37306ed6667b2?mediaType=png)|5,179||18-30|united states|

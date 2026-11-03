@@ -1,11 +1,11 @@
 ## 2026 - For Michigan 
-**Spent**: 1,425.00
+**Spent**: 1,620.00
 
-**Impressions**: 425,621
+**Impressions**: 481,433
 
 **Billing Addresses**: 222 W Ontario, Suite 600,,Chicago,60654,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|AL Media: For Michigan|1,114.00 USD|[0](https://www.snap.com/political-ads/asset/fbe31ceac38b2c5b637cecb79da85621b47a04d62f2a99803cda132860b8c96e?mediaType=mp4)|333,167||18-24|united states|
-|AL Media: For Michigan|311.00 USD|[1](https://www.snap.com/political-ads/asset/66158b734949a807fba261c780754e3b990f02ba866b88e5c41070eb76ad31c2?mediaType=mp4)|92,454||18-24|united states|
+|AL Media: For Michigan|1,269.00 USD|[0](https://www.snap.com/political-ads/asset/fbe31ceac38b2c5b637cecb79da85621b47a04d62f2a99803cda132860b8c96e?mediaType=mp4)|377,520||18-24|united states|
+|AL Media: For Michigan|351.00 USD|[1](https://www.snap.com/political-ads/asset/66158b734949a807fba261c780754e3b990f02ba866b88e5c41070eb76ad31c2?mediaType=mp4)|103,913||18-24|united states|

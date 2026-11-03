@@ -1,42 +1,42 @@
 ## 2026 - SAM Project Action Fund 
-**Spent**: 41,052.00
+**Spent**: 46,982.00
 
-**Impressions**: 7,291,995
+**Impressions**: 8,217,756
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|BERNI CONSULTING  L.L.C.|6,270.00 USD|[0](https://www.snap.com/political-ads/asset/dd623eee148ad2d0d1cd4671b82b3babcfcbcce2f85f007d86c94b92fdac30bf?mediaType=mp4)|961,267|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|6,310.00 USD|[1](https://www.snap.com/political-ads/asset/d0f15b6ecf54bd401a3f9dd04c9295a11f89a8816d578fb1bd11b05e73c374f3?mediaType=mp4)|905,553|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|3,319.00 USD|[2](https://www.snap.com/political-ads/asset/dd623eee148ad2d0d1cd4671b82b3babcfcbcce2f85f007d86c94b92fdac30bf?mediaType=mp4)|691,997|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|3,017.00 USD|[3](https://www.snap.com/political-ads/asset/5f328191f27542842718a05125efe1ac40cf72c241b426f17a4d81e4f078db02?mediaType=mp4)|621,486|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|2,289.00 USD|[4](https://www.snap.com/political-ads/asset/c40c767fe3f9590484cd861dbf99b6e30d89e9df07ac1388228bb576a9bbc76e?mediaType=mp4)|478,089|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|2,070.00 USD|[5](https://www.snap.com/political-ads/asset/77ffca258d57097685b3fea00c65e859ca3d3888bf332653ab3e2ebbbc4a1bb9?mediaType=mp4)|444,282|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|1,436.00 USD|[6](https://www.snap.com/political-ads/asset/ddd03463e817a12583ee385466b2097718319d2033bf6782697c614beb360750?mediaType=mp4)|316,604|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|1,354.00 USD|[7](https://www.snap.com/political-ads/asset/10b8f09e4063fb9a04748094fd3c5f60ff4938c31a6bc11b265dd87f1bd08e6b?mediaType=mp4)|276,214|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|1,578.00 USD|[8](https://www.snap.com/political-ads/asset/61f6a5c18ef4d27e3ffbddc25bb60c432d985d5068fdfe3331fb3e0703cf35c3?mediaType=mp4)|225,971|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|1,212.00 USD|[9](https://www.snap.com/political-ads/asset/72657e17c6a6cc49eaa9d3188d7128ca7b91496020b30ea9111d9e3489cdde28?mediaType=mp4)|181,369|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|863.00 USD|[10](https://www.snap.com/political-ads/asset/c2febd1b1d0639527a5e3ce3644287dd581f9c7ac1323b6a6999ace883d4d61a?mediaType=mp4)|172,539|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|759.00 USD|[11](https://www.snap.com/political-ads/asset/a16a1fe993fdb5d971a25ae6a08858137c6b79907e59eb396dab993667c1f733?mediaType=mp4)|152,582|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|726.00 USD|[12](https://www.snap.com/political-ads/asset/0b97c65fd14986a80ffb4837425e5ad96f5203a83deba16d7a27063dc41a73c2?mediaType=mp4)|147,708|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|675.00 USD|[13](https://www.snap.com/political-ads/asset/e2f267807ab6336d1a3ea6029ea5c26bd0d90ccbf716135a8a7a598c904eff5e?mediaType=mp4)|137,997|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|618.00 USD|[14](https://www.snap.com/political-ads/asset/7e6d996926b42e7d8968b02b398a36f6ba1f068cb7f25922e65c4e476a715651?mediaType=mp4)|130,470|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|632.00 USD|[15](https://www.snap.com/political-ads/asset/c1dfd9d9b076bc1d2f20009c715f53970d1b079726bb9453df8d1e9490c9f3a8?mediaType=mp4)|127,475|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|577.00 USD|[16](https://www.snap.com/political-ads/asset/72657e17c6a6cc49eaa9d3188d7128ca7b91496020b30ea9111d9e3489cdde28?mediaType=mp4)|125,819|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|822.00 USD|[17](https://www.snap.com/political-ads/asset/c40c767fe3f9590484cd861dbf99b6e30d89e9df07ac1388228bb576a9bbc76e?mediaType=mp4)|123,519|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|770.00 USD|[18](https://www.snap.com/political-ads/asset/b2acddc05df262038c759d2d3fcbf21f2cd5528f66935d8e6016700d5625ddeb?mediaType=mp4)|117,161|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|561.00 USD|[19](https://www.snap.com/political-ads/asset/da58d4e4c6e258df4ae4aa4e710cca2734307d09db3f77641dd854d571050a0d?mediaType=mp4)|116,063|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|707.00 USD|[20](https://www.snap.com/political-ads/asset/0b97c65fd14986a80ffb4837425e5ad96f5203a83deba16d7a27063dc41a73c2?mediaType=mp4)|107,729|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|677.00 USD|[21](https://www.snap.com/political-ads/asset/e2f267807ab6336d1a3ea6029ea5c26bd0d90ccbf716135a8a7a598c904eff5e?mediaType=mp4)|101,959|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|669.00 USD|[22](https://www.snap.com/political-ads/asset/c2febd1b1d0639527a5e3ce3644287dd581f9c7ac1323b6a6999ace883d4d61a?mediaType=mp4)|100,480|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|640.00 USD|[23](https://www.snap.com/political-ads/asset/10b8f09e4063fb9a04748094fd3c5f60ff4938c31a6bc11b265dd87f1bd08e6b?mediaType=mp4)|95,432|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|402.00 USD|[24](https://www.snap.com/political-ads/asset/4ca6bb458792607cc703d6d6d2929c59de56fe02a912e2d206f0bc5d2ddefa10?mediaType=mp4)|85,241|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|470.00 USD|[25](https://www.snap.com/political-ads/asset/5f328191f27542842718a05125efe1ac40cf72c241b426f17a4d81e4f078db02?mediaType=mp4)|72,491|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|397.00 USD|[26](https://www.snap.com/political-ads/asset/c1dfd9d9b076bc1d2f20009c715f53970d1b079726bb9453df8d1e9490c9f3a8?mediaType=mp4)|60,990|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|284.00 USD|[27](https://www.snap.com/political-ads/asset/61f6a5c18ef4d27e3ffbddc25bb60c432d985d5068fdfe3331fb3e0703cf35c3?mediaType=mp4)|60,705|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|297.00 USD|[28](https://www.snap.com/political-ads/asset/a16a1fe993fdb5d971a25ae6a08858137c6b79907e59eb396dab993667c1f733?mediaType=mp4)|40,917|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|150.00 USD|[29](https://www.snap.com/political-ads/asset/20a8fbe5348e29201d1a775c084f8d069f6b84697fd591c6e0261bd7a07e7de7?mediaType=mp4)|31,936|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|204.00 USD|[30](https://www.snap.com/political-ads/asset/bc3b23a47c607af10d146dace24b9c9fab3598ebccdb6cb3958aee26e68639e5?mediaType=mp4)|29,683|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|191.00 USD|[31](https://www.snap.com/political-ads/asset/20a8fbe5348e29201d1a775c084f8d069f6b84697fd591c6e0261bd7a07e7de7?mediaType=mp4)|27,212|MALE|18-29|united states|
-|BERNI CONSULTING  L.L.C.|106.00 USD|[32](https://www.snap.com/political-ads/asset/bc3b23a47c607af10d146dace24b9c9fab3598ebccdb6cb3958aee26e68639e5?mediaType=mp4)|23,055|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|7,392.00 USD|[0](https://www.snap.com/political-ads/asset/dd623eee148ad2d0d1cd4671b82b3babcfcbcce2f85f007d86c94b92fdac30bf?mediaType=mp4)|1,120,218|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|7,071.00 USD|[1](https://www.snap.com/political-ads/asset/d0f15b6ecf54bd401a3f9dd04c9295a11f89a8816d578fb1bd11b05e73c374f3?mediaType=mp4)|1,005,270|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|3,597.00 USD|[2](https://www.snap.com/political-ads/asset/dd623eee148ad2d0d1cd4671b82b3babcfcbcce2f85f007d86c94b92fdac30bf?mediaType=mp4)|744,855|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|3,193.00 USD|[3](https://www.snap.com/political-ads/asset/5f328191f27542842718a05125efe1ac40cf72c241b426f17a4d81e4f078db02?mediaType=mp4)|654,439|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|2,588.00 USD|[4](https://www.snap.com/political-ads/asset/c40c767fe3f9590484cd861dbf99b6e30d89e9df07ac1388228bb576a9bbc76e?mediaType=mp4)|535,138|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|2,429.00 USD|[5](https://www.snap.com/political-ads/asset/77ffca258d57097685b3fea00c65e859ca3d3888bf332653ab3e2ebbbc4a1bb9?mediaType=mp4)|512,439|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|1,730.00 USD|[6](https://www.snap.com/political-ads/asset/ddd03463e817a12583ee385466b2097718319d2033bf6782697c614beb360750?mediaType=mp4)|372,308|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|1,523.00 USD|[7](https://www.snap.com/political-ads/asset/10b8f09e4063fb9a04748094fd3c5f60ff4938c31a6bc11b265dd87f1bd08e6b?mediaType=mp4)|307,370|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|1,800.00 USD|[8](https://www.snap.com/political-ads/asset/61f6a5c18ef4d27e3ffbddc25bb60c432d985d5068fdfe3331fb3e0703cf35c3?mediaType=mp4)|255,662|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|1,465.00 USD|[9](https://www.snap.com/political-ads/asset/72657e17c6a6cc49eaa9d3188d7128ca7b91496020b30ea9111d9e3489cdde28?mediaType=mp4)|216,492|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|879.00 USD|[10](https://www.snap.com/political-ads/asset/c2febd1b1d0639527a5e3ce3644287dd581f9c7ac1323b6a6999ace883d4d61a?mediaType=mp4)|175,488|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|803.00 USD|[11](https://www.snap.com/political-ads/asset/0b97c65fd14986a80ffb4837425e5ad96f5203a83deba16d7a27063dc41a73c2?mediaType=mp4)|161,923|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|803.00 USD|[12](https://www.snap.com/political-ads/asset/a16a1fe993fdb5d971a25ae6a08858137c6b79907e59eb396dab993667c1f733?mediaType=mp4)|160,895|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|748.00 USD|[13](https://www.snap.com/political-ads/asset/7e6d996926b42e7d8968b02b398a36f6ba1f068cb7f25922e65c4e476a715651?mediaType=mp4)|154,492|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|1,022.00 USD|[14](https://www.snap.com/political-ads/asset/c40c767fe3f9590484cd861dbf99b6e30d89e9df07ac1388228bb576a9bbc76e?mediaType=mp4)|151,496|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|711.00 USD|[15](https://www.snap.com/political-ads/asset/e2f267807ab6336d1a3ea6029ea5c26bd0d90ccbf716135a8a7a598c904eff5e?mediaType=mp4)|145,065|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|679.00 USD|[16](https://www.snap.com/political-ads/asset/72657e17c6a6cc49eaa9d3188d7128ca7b91496020b30ea9111d9e3489cdde28?mediaType=mp4)|145,055|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|972.00 USD|[17](https://www.snap.com/political-ads/asset/b2acddc05df262038c759d2d3fcbf21f2cd5528f66935d8e6016700d5625ddeb?mediaType=mp4)|144,474|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|686.00 USD|[18](https://www.snap.com/political-ads/asset/c1dfd9d9b076bc1d2f20009c715f53970d1b079726bb9453df8d1e9490c9f3a8?mediaType=mp4)|137,668|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|874.00 USD|[19](https://www.snap.com/political-ads/asset/e2f267807ab6336d1a3ea6029ea5c26bd0d90ccbf716135a8a7a598c904eff5e?mediaType=mp4)|129,407|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|853.00 USD|[20](https://www.snap.com/political-ads/asset/0b97c65fd14986a80ffb4837425e5ad96f5203a83deba16d7a27063dc41a73c2?mediaType=mp4)|128,496|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|863.00 USD|[21](https://www.snap.com/political-ads/asset/c2febd1b1d0639527a5e3ce3644287dd581f9c7ac1323b6a6999ace883d4d61a?mediaType=mp4)|126,800|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|608.00 USD|[22](https://www.snap.com/political-ads/asset/da58d4e4c6e258df4ae4aa4e710cca2734307d09db3f77641dd854d571050a0d?mediaType=mp4)|124,967|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|767.00 USD|[23](https://www.snap.com/political-ads/asset/10b8f09e4063fb9a04748094fd3c5f60ff4938c31a6bc11b265dd87f1bd08e6b?mediaType=mp4)|112,899|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|428.00 USD|[24](https://www.snap.com/political-ads/asset/4ca6bb458792607cc703d6d6d2929c59de56fe02a912e2d206f0bc5d2ddefa10?mediaType=mp4)|90,093|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|585.00 USD|[25](https://www.snap.com/political-ads/asset/5f328191f27542842718a05125efe1ac40cf72c241b426f17a4d81e4f078db02?mediaType=mp4)|88,691|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|535.00 USD|[26](https://www.snap.com/political-ads/asset/c1dfd9d9b076bc1d2f20009c715f53970d1b079726bb9453df8d1e9490c9f3a8?mediaType=mp4)|80,149|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|299.00 USD|[27](https://www.snap.com/political-ads/asset/61f6a5c18ef4d27e3ffbddc25bb60c432d985d5068fdfe3331fb3e0703cf35c3?mediaType=mp4)|63,425|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|343.00 USD|[28](https://www.snap.com/political-ads/asset/a16a1fe993fdb5d971a25ae6a08858137c6b79907e59eb396dab993667c1f733?mediaType=mp4)|46,936|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|167.00 USD|[29](https://www.snap.com/political-ads/asset/20a8fbe5348e29201d1a775c084f8d069f6b84697fd591c6e0261bd7a07e7de7?mediaType=mp4)|35,295|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|237.00 USD|[30](https://www.snap.com/political-ads/asset/bc3b23a47c607af10d146dace24b9c9fab3598ebccdb6cb3958aee26e68639e5?mediaType=mp4)|34,032|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|213.00 USD|[31](https://www.snap.com/political-ads/asset/20a8fbe5348e29201d1a775c084f8d069f6b84697fd591c6e0261bd7a07e7de7?mediaType=mp4)|30,170|MALE|18-29|united states|
+|BERNI CONSULTING  L.L.C.|119.00 USD|[32](https://www.snap.com/political-ads/asset/bc3b23a47c607af10d146dace24b9c9fab3598ebccdb6cb3958aee26e68639e5?mediaType=mp4)|25,649|MALE|18-29|united states|

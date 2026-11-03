@@ -1,11 +1,11 @@
 ## 2026 - Tonoyan for City Council 2026 
-**Spent**: 1,355.00
+**Spent**: 1,429.00
 
-**Impressions**: 49,386
+**Impressions**: 51,859
 
 **Billing Addresses**: 460 E Santa Anita Ave Apt 103,Burbank,91501,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Hovanes Tonoyan for Burbank City Council 2026: Hovanes Tonoyan for Burbank City Council|943.00 USD|[0](https://www.snap.com/political-ads/asset/d935d72cb6c94b9be639c1eaff7954d3019981c850d9737443102123b0728163?mediaType=png)|33,257||18+|united states|
-|Hovanes Tonoyan for Burbank City Council 2026: Hovanes Tonoyan for Burbank City Council|412.00 USD|[1](https://www.snap.com/political-ads/asset/3e5c1b01037d9028d6eb87b60c4e4fae83013469aae2fe78b8eb142453ed9169?mediaType=png)|16,129||18+|united states|
+|Hovanes Tonoyan for Burbank City Council 2026: Hovanes Tonoyan for Burbank City Council|989.00 USD|[0](https://www.snap.com/political-ads/asset/d935d72cb6c94b9be639c1eaff7954d3019981c850d9737443102123b0728163?mediaType=png)|34,649||18+|united states|
+|Hovanes Tonoyan for Burbank City Council 2026: Hovanes Tonoyan for Burbank City Council|440.00 USD|[1](https://www.snap.com/political-ads/asset/3e5c1b01037d9028d6eb87b60c4e4fae83013469aae2fe78b8eb142453ed9169?mediaType=png)|17,210||18+|united states|
