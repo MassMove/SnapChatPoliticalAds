@@ -1,11 +1,11 @@
 ## 2026 - Color of Change PAC 
-**Spent**: 3,845.00
+**Spent**: 4,330.00
 
-**Impressions**: 1,134,608
+**Impressions**: 1,258,017
 
 **Billing Addresses**: 1714 Franklin St,Oakland,94612,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Color of Change PAC|3,515.00 USD|[0](https://www.snap.com/political-ads/asset/84359ec86587934e9ddc0af41d75d9fe97d072841b58ee1d34e2e9948af776ab?mediaType=mp4)|1,004,348|||united states|
+|Color of Change PAC|4,000.00 USD|[0](https://www.snap.com/political-ads/asset/84359ec86587934e9ddc0af41d75d9fe97d072841b58ee1d34e2e9948af776ab?mediaType=mp4)|1,127,757|||united states|
 |Color of Change PAC|330.00 USD|[1](https://www.snap.com/political-ads/asset/df70337e68d401df1be2d99fa9d41943a18c0a8b00fc55fe16eb49750eef4bcf?mediaType=png)|130,260|||united states|

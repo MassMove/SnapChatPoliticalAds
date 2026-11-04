@@ -1,12 +1,12 @@
 ## 2026 - Frame for Senate 2026 
-**Spent**: 2,116.00
+**Spent**: 2,398.00
 
-**Impressions**: 708,526
+**Impressions**: 789,349
 
 **Billing Addresses**: 58-12 QUEENS BLVD STE 2 #1307,Woodside,11377,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Pantograph Labs: Sean Frame for State Senate|1,238.00 USD|[0](https://www.snap.com/political-ads/asset/2ff1012a674d109b024d6431e8f03fe38d5b90f4c4cbaa416e809dc21af1a28b?mediaType=mp4)|424,023||18+|united states|
-|Pantograph Labs: Sean Frame for State Senate|659.00 USD|[1](https://www.snap.com/political-ads/asset/8b7905c7f059bfc383af0c8eae6aa057c1b591db46260c9937249d6760a64a42?mediaType=mp4)|212,698||18+|united states|
-|Pantograph Labs: Sean Frame for State Senate|219.00 USD|[2](https://www.snap.com/political-ads/asset/caa8c18b7773e2818b89a60ca24b472404da8f63f4a8391752d9c4409da2ce4d?mediaType=mp4)|71,805||18+|united states|
+|Pantograph Labs: Sean Frame for State Senate|1,457.00 USD|[0](https://www.snap.com/political-ads/asset/2ff1012a674d109b024d6431e8f03fe38d5b90f4c4cbaa416e809dc21af1a28b?mediaType=mp4)|487,580||18+|united states|
+|Pantograph Labs: Sean Frame for State Senate|698.00 USD|[1](https://www.snap.com/political-ads/asset/8b7905c7f059bfc383af0c8eae6aa057c1b591db46260c9937249d6760a64a42?mediaType=mp4)|223,449||18+|united states|
+|Pantograph Labs: Sean Frame for State Senate|243.00 USD|[2](https://www.snap.com/political-ads/asset/caa8c18b7773e2818b89a60ca24b472404da8f63f4a8391752d9c4409da2ce4d?mediaType=mp4)|78,320||18+|united states|

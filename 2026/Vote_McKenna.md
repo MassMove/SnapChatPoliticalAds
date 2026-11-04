@@ -1,14 +1,14 @@
 ## 2026 - Vote McKenna 
 **Spent**: 400.00
 
-**Impressions**: 69,804
+**Impressions**: 69,805
 
 **Billing Addresses**: 505 E Oraibi Drive,Phoenix,85024,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Flygon LC|100.00 USD|[0](https://www.snap.com/political-ads/asset/5ef7dfe7aae2d39eb6d6fe41c44f6a59203f3c83a98349722da7395e6e27ed15?mediaType=png)|16,236||18+|united states|
-|Flygon LC|82.00 USD|[1](https://www.snap.com/political-ads/asset/89360efafec45f37a1090d9911c03f407ffb406fd12c5da18e0f813aec3b9573?mediaType=mp4)|15,722||18+|united states|
+|Flygon LC|82.00 USD|[1](https://www.snap.com/political-ads/asset/89360efafec45f37a1090d9911c03f407ffb406fd12c5da18e0f813aec3b9573?mediaType=mp4)|15,723||18+|united states|
 |Flygon LC|72.00 USD|[2](https://www.snap.com/political-ads/asset/7c6a973e3f7cd30320826e406f9ebb194f0f954a1c32e6e103df145e393ba82f?mediaType=png)|13,251||18+|united states|
 |Flygon LC|23.00 USD|[3](https://www.snap.com/political-ads/asset/31adc7e024d8a1383e90393a3db4c6b0e520a2a64cd32d53a7cfc4b280637918?mediaType=png)|4,118||18+|united states|
 |Flygon LC|23.00 USD|[4](https://www.snap.com/political-ads/asset/080c2b24a2745b331e32b07a279e6fffe443896f3eafd716e85764b65f1f0e47?mediaType=png)|3,667||18+|united states|

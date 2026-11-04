@@ -1,7 +1,7 @@
 ## 2026 - One Nation 
-**Spent**: 316,053.00
+**Spent**: 316,593.00
 
-**Impressions**: 25,333,044
+**Impressions**: 25,342,160
 
 **Billing Addresses**: 
 - 3001 Washington Blvd,Arlington,22201,US
@@ -69,9 +69,9 @@
 |Alamo Intelligence LLC: One Nation|2,567.00 USD|[56](https://www.snap.com/political-ads/asset/7689b051610ddf6edc77e49ffbbe8d412487316c872b462864e65267fb82c3f9?mediaType=mp4)|109,759||18+|united states|80 M St SE,Washington,20003,US|
 |PLUS Communications|2,495.00 USD|[57](https://www.snap.com/political-ads/asset/2093ec9f504a2d66e0d2464faf78f65b82273fdf52f88e223f2c4b1a2ecf7f09?mediaType=mp4)|109,675||35+|united states|US|
 |PLUS Communications|2,503.00 USD|[58](https://www.snap.com/political-ads/asset/6275ba9e0367e081f488ce7d5a0e9929c7250444d1db17d85ca794b360c6f596?mediaType=mp4)|109,349||35+|united states|US|
-|PLUS Communications|747.00 USD|[59](https://www.snap.com/political-ads/asset/f536140a0c1a24540bd3f9387bbf703725ecaef0dbc8beca77b2bf181805601a?mediaType=mp4)|100,562|MALE|25-35|united states|US|
-|Alamo Intelligence LLC: One Nation|2,232.00 USD|[60](https://www.snap.com/political-ads/asset/6306d58f06ae16a533f13844e5dfb3c4a319bacdb3faa30772a4d6fce5dc5fb9?mediaType=mp4)|96,193||18+|united states|80 M St SE,Washington,20003,US|
-|FlexPoint Media Inc|3,748.00 USD|[61](https://www.snap.com/political-ads/asset/fab8bcf82a10d4e966a6158758ed7cef6c3a62d5acd9a0fa54707caa36970bc1?mediaType=mp4)|95,847||25+|united states|US|
+|FlexPoint Media Inc|4,032.00 USD|[59](https://www.snap.com/political-ads/asset/fab8bcf82a10d4e966a6158758ed7cef6c3a62d5acd9a0fa54707caa36970bc1?mediaType=mp4)|100,691||25+|united states|US|
+|PLUS Communications|747.00 USD|[60](https://www.snap.com/political-ads/asset/f536140a0c1a24540bd3f9387bbf703725ecaef0dbc8beca77b2bf181805601a?mediaType=mp4)|100,562|MALE|25-35|united states|US|
+|Alamo Intelligence LLC: One Nation|2,232.00 USD|[61](https://www.snap.com/political-ads/asset/6306d58f06ae16a533f13844e5dfb3c4a319bacdb3faa30772a4d6fce5dc5fb9?mediaType=mp4)|96,193||18+|united states|80 M St SE,Washington,20003,US|
 |PLUS Communications|597.00 USD|[62](https://www.snap.com/political-ads/asset/f536140a0c1a24540bd3f9387bbf703725ecaef0dbc8beca77b2bf181805601a?mediaType=mp4)|94,146||35+|united states|US|
 |Alamo Intelligence LLC: One Nation|480.00 USD|[63](https://www.snap.com/political-ads/asset/8978013647fb1821b67b8812104a57e54133fa7340cfdd05a5254e592678955e?mediaType=png)|93,292|MALE|25+|united states|80 M St SE,Washington,20003,US|
 |RTSG: One Nation|2,633.00 USD|[64](https://www.snap.com/political-ads/asset/68bc7112038f9a7d3a24ccf3cb73683307294cf5776ec4bb64d0e1ee7cf87da2?mediaType=mp4)|89,151|MALE|25+|united states|US|
@@ -83,10 +83,10 @@
 |PLUS Communications|2,683.00 USD|[70](https://www.snap.com/political-ads/asset/6275ba9e0367e081f488ce7d5a0e9929c7250444d1db17d85ca794b360c6f596?mediaType=mp4)|80,571|MALE|25-35|united states|US|
 |PLUS Communications|2,965.00 USD|[71](https://www.snap.com/political-ads/asset/6275ba9e0367e081f488ce7d5a0e9929c7250444d1db17d85ca794b360c6f596?mediaType=mp4)|79,488|MALE|25-35|united states|US|
 |Alamo Intelligence LLC: One Nation|1,988.00 USD|[72](https://www.snap.com/political-ads/asset/43f06b98a62d6f417e8b45fee6af52f408898317659f4b2827cbc3f2a90fd425?mediaType=mp4)|76,490||18+|united states|80 M St SE,Washington,20003,US|
-|RTSG: One Nation|2,216.00 USD|[73](https://www.snap.com/political-ads/asset/67848c62732d90ae7b34dc23e3580a32d98b6fbaa6b2e8a1fa21703d25b75e50?mediaType=mp4)|74,453|MALE|25+|united states|US|
-|PLUS Communications|2,198.00 USD|[74](https://www.snap.com/political-ads/asset/2093ec9f504a2d66e0d2464faf78f65b82273fdf52f88e223f2c4b1a2ecf7f09?mediaType=mp4)|74,439|MALE|25-35|united states|US|
-|Alamo Intelligence LLC: One Nation|1,891.00 USD|[75](https://www.snap.com/political-ads/asset/43f06b98a62d6f417e8b45fee6af52f408898317659f4b2827cbc3f2a90fd425?mediaType=mp4)|74,076||18+|united states|80 M St SE,Washington,20003,US|
-|FlexPoint Media Inc|2,847.00 USD|[76](https://www.snap.com/political-ads/asset/fab8bcf82a10d4e966a6158758ed7cef6c3a62d5acd9a0fa54707caa36970bc1?mediaType=mp4)|70,519||25+|united states|US|
+|FlexPoint Media Inc|3,103.00 USD|[73](https://www.snap.com/political-ads/asset/fab8bcf82a10d4e966a6158758ed7cef6c3a62d5acd9a0fa54707caa36970bc1?mediaType=mp4)|74,791||25+|united states|US|
+|RTSG: One Nation|2,216.00 USD|[74](https://www.snap.com/political-ads/asset/67848c62732d90ae7b34dc23e3580a32d98b6fbaa6b2e8a1fa21703d25b75e50?mediaType=mp4)|74,453|MALE|25+|united states|US|
+|PLUS Communications|2,198.00 USD|[75](https://www.snap.com/political-ads/asset/2093ec9f504a2d66e0d2464faf78f65b82273fdf52f88e223f2c4b1a2ecf7f09?mediaType=mp4)|74,439|MALE|25-35|united states|US|
+|Alamo Intelligence LLC: One Nation|1,891.00 USD|[76](https://www.snap.com/political-ads/asset/43f06b98a62d6f417e8b45fee6af52f408898317659f4b2827cbc3f2a90fd425?mediaType=mp4)|74,076||18+|united states|80 M St SE,Washington,20003,US|
 |Alamo Intelligence LLC: One Nation|2,527.00 USD|[77](https://www.snap.com/political-ads/asset/6306d58f06ae16a533f13844e5dfb3c4a319bacdb3faa30772a4d6fce5dc5fb9?mediaType=mp4)|70,115||18+|united states|80 M St SE,Washington,20003,US|
 |PLUS Communications|2,315.00 USD|[78](https://www.snap.com/political-ads/asset/2093ec9f504a2d66e0d2464faf78f65b82273fdf52f88e223f2c4b1a2ecf7f09?mediaType=mp4)|69,706|MALE|25-35|united states|US|
 |PLUS Communications|2,534.00 USD|[79](https://www.snap.com/political-ads/asset/2093ec9f504a2d66e0d2464faf78f65b82273fdf52f88e223f2c4b1a2ecf7f09?mediaType=mp4)|68,472|MALE|25-35|united states|US|

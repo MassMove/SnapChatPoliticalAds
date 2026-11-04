@@ -1,7 +1,7 @@
 ## 2026 - Thrive Women's Clinic 
-**Spent**: 722.00
+**Spent**: 726.00
 
-**Impressions**: 85,126
+**Impressions**: 85,499
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
@@ -29,6 +29,6 @@
 |Cornerstone Marketing Strategies  LLC|11.00 USD|[19](https://www.snap.com/political-ads/asset/5e944053f1d356e135cf2e5bad8c6a22a06a1040a4eaa7b6c74899606e949d7f?mediaType=mp4)|888|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|8.00 USD|[20](https://www.snap.com/political-ads/asset/d98124b99d6cd0cea64615a67af4177f3541f8c8b01989f0a5d35a38a302d74a?mediaType=mp4)|810|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|5.00 USD|[21](https://www.snap.com/political-ads/asset/d98124b99d6cd0cea64615a67af4177f3541f8c8b01989f0a5d35a38a302d74a?mediaType=mp4)|463|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|2.00 USD|[22](https://www.snap.com/political-ads/asset/5e944053f1d356e135cf2e5bad8c6a22a06a1040a4eaa7b6c74899606e949d7f?mediaType=mp4)|230|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|2.00 USD|[23](https://www.snap.com/political-ads/asset/f6267fb6ac7ed1e6ed5364b5507d4cd82f7c8086ea8f0b4f333b059bdc757d50?mediaType=mp4)|230|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|5.00 USD|[22](https://www.snap.com/political-ads/asset/5e944053f1d356e135cf2e5bad8c6a22a06a1040a4eaa7b6c74899606e949d7f?mediaType=mp4)|422|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|3.00 USD|[23](https://www.snap.com/political-ads/asset/f6267fb6ac7ed1e6ed5364b5507d4cd82f7c8086ea8f0b4f333b059bdc757d50?mediaType=mp4)|411|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|2.00 USD|[24](https://www.snap.com/political-ads/asset/dc97f72ad97e0f73b5f9762011240e31d389d5d280694893969fa6e9cca14a96?mediaType=mp4)|224|FEMALE|16-34|united states|

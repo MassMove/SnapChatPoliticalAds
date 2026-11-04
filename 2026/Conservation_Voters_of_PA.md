@@ -1,15 +1,15 @@
 ## 2026 - Conservation Voters of PA 
-**Spent**: 2,290.00
+**Spent**: 2,491.00
 
-**Impressions**: 124,716
+**Impressions**: 135,120
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|SBDigital|1,377.00 USD|[0](https://www.snap.com/political-ads/asset/d2975fa9baab3dd36801c999b60756ca28838d111b4ccffde95e2ffd97616a65?mediaType=mp4)|73,583||18+|united states|
-|SBDigital|277.00 USD|[1](https://www.snap.com/political-ads/asset/98e4e15f5bbc7611118cd8674364d14fc06146462952ab23344bbec45ec0bcb7?mediaType=mp4)|19,935||18+|united states|
-|SBDigital|273.00 USD|[2](https://www.snap.com/political-ads/asset/bf0b077dd087e7cd225bb3c097025704bb27fc26801e88e01125782d7dc6db87?mediaType=mp4)|18,745||18+|united states|
+|SBDigital|1,536.00 USD|[0](https://www.snap.com/political-ads/asset/d2975fa9baab3dd36801c999b60756ca28838d111b4ccffde95e2ffd97616a65?mediaType=mp4)|81,167||18+|united states|
+|SBDigital|298.00 USD|[1](https://www.snap.com/political-ads/asset/98e4e15f5bbc7611118cd8674364d14fc06146462952ab23344bbec45ec0bcb7?mediaType=mp4)|21,470||18+|united states|
+|SBDigital|294.00 USD|[2](https://www.snap.com/political-ads/asset/bf0b077dd087e7cd225bb3c097025704bb27fc26801e88e01125782d7dc6db87?mediaType=mp4)|20,030||18+|united states|
 |SBDigital: Conservation Voters of Pennsylvania|89.00 USD|[3](https://www.snap.com/political-ads/asset/bf0b077dd087e7cd225bb3c097025704bb27fc26801e88e01125782d7dc6db87?mediaType=mp4)|5,671||18+|united states|
 |SBDigital: Conservation Voters of Pennsylvania|183.00 USD|[4](https://www.snap.com/political-ads/asset/d2975fa9baab3dd36801c999b60756ca28838d111b4ccffde95e2ffd97616a65?mediaType=mp4)|4,231||18+|united states|
 |SBDigital: Conservation Voters of Pennsylvania|91.00 USD|[5](https://www.snap.com/political-ads/asset/98e4e15f5bbc7611118cd8674364d14fc06146462952ab23344bbec45ec0bcb7?mediaType=mp4)|2,551||18+|united states|
