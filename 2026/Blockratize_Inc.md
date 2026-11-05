@@ -1,7 +1,7 @@
 ## 2026 - Blockratize Inc 
 **Spent**: 75,879.00
 
-**Impressions**: 7,474,110
+**Impressions**: 7,474,145
 
 **Billing Addresses**: US
 
@@ -9,32 +9,32 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Blockratize Inc.|9,189.00 USD|[0](https://www.snap.com/political-ads/asset/05ae6912a10a95c47614f785bfcf9d89cf12019a1134dac3ab2b8a38481685f1?mediaType=mp4)|729,825||18+|united states|
 |Blockratize Inc.|8,363.00 USD|[1](https://www.snap.com/political-ads/asset/bede0f5882f2ed018cfb727819a74434081c3fdb0ec38bde3f0f553173803d31?mediaType=png)|727,354||18+|united states|
-|Blockratize Inc.|7,533.00 USD|[2](https://www.snap.com/political-ads/asset/87a4c85ab9dea9575e2c72145fcd2cb13c48a49bd444be917514e9c7e3d35522?mediaType=png)|705,377||18+|united states|
-|Blockratize Inc.|4,136.00 USD|[3](https://www.snap.com/political-ads/asset/fe9c4b55601eafd52d1dc1c4a8c985b2d4aac722f4dc52129d94f4eb6e6c4bb2?mediaType=png)|585,374||18+|united states|
-|Blockratize Inc.|4,257.00 USD|[4](https://www.snap.com/political-ads/asset/ce3fa8d5cb400f8b41e78c53cb896967117dadc601f52a5516e0b1309983b443?mediaType=png)|557,395||18+|united states|
+|Blockratize Inc.|7,533.00 USD|[2](https://www.snap.com/political-ads/asset/87a4c85ab9dea9575e2c72145fcd2cb13c48a49bd444be917514e9c7e3d35522?mediaType=png)|705,378||18+|united states|
+|Blockratize Inc.|4,136.00 USD|[3](https://www.snap.com/political-ads/asset/fe9c4b55601eafd52d1dc1c4a8c985b2d4aac722f4dc52129d94f4eb6e6c4bb2?mediaType=png)|585,377||18+|united states|
+|Blockratize Inc.|4,257.00 USD|[4](https://www.snap.com/political-ads/asset/ce3fa8d5cb400f8b41e78c53cb896967117dadc601f52a5516e0b1309983b443?mediaType=png)|557,398||18+|united states|
 |Blockratize Inc.|4,887.00 USD|[5](https://www.snap.com/political-ads/asset/4f344b2622f9141ffdce05dfb31007f266dee16b8a5e9b3cc4788e83ed2fabf4?mediaType=png)|472,695||18+|united states|
 |Blockratize Inc.|4,378.00 USD|[6](https://www.snap.com/political-ads/asset/87517a557feee6df66ecb61d541b9bc966bd09ba81ca8ea71245a0ebfb7167ef?mediaType=mp4)|395,911||18+|united states|
-|Blockratize Inc.|1,733.00 USD|[7](https://www.snap.com/political-ads/asset/47048d15c5d5de8b0e4defe4efb12b3febc5b4547bfdb280b57acd05ec8175ee?mediaType=png)|298,126||18+|united states|
+|Blockratize Inc.|1,733.00 USD|[7](https://www.snap.com/political-ads/asset/47048d15c5d5de8b0e4defe4efb12b3febc5b4547bfdb280b57acd05ec8175ee?mediaType=png)|298,134||18+|united states|
 |Blockratize Inc.|2,105.00 USD|[8](https://www.snap.com/political-ads/asset/697858b02142200079750c8962a129678b4db096feca2a97ab736dfd1ed42d3b?mediaType=mp4)|221,199||18+|united states|
 |Blockratize Inc.|2,506.00 USD|[9](https://www.snap.com/political-ads/asset/dc11b623b4e9e1d366f9485c3b56a9dce12450cca8f4cbea48ced4e63cdeaa1c?mediaType=mp4)|211,227||18+|united states|
 |Blockratize Inc.|1,905.00 USD|[10](https://www.snap.com/political-ads/asset/7585c88a825fac9654ff843f3088fff15ecad09c2f8ed35c3bf3ad6e097e4da8?mediaType=mp4)|209,653||18+|united states|
-|Blockratize Inc.|1,548.00 USD|[11](https://www.snap.com/political-ads/asset/bd6543a995180b0b2f6ebdd033d4a071377db2d2820ed274705f3132f0048976?mediaType=png)|165,766||18+|united states|
-|Blockratize Inc.|1,805.00 USD|[12](https://www.snap.com/political-ads/asset/f12b6e2dc0b93fb13d8b29bfd9d837791e18dd2f4bc24f857dfdc95c6a18285a?mediaType=mp4)|164,118||18+|united states|
-|Blockratize Inc.|1,657.00 USD|[13](https://www.snap.com/political-ads/asset/fbae08da7be4ad55ea2c84e9bbb3019317fda2390c491c610d4298a9ca0686fe?mediaType=mov)|142,658||18+|united states|
+|Blockratize Inc.|1,548.00 USD|[11](https://www.snap.com/political-ads/asset/bd6543a995180b0b2f6ebdd033d4a071377db2d2820ed274705f3132f0048976?mediaType=png)|165,767||18+|united states|
+|Blockratize Inc.|1,805.00 USD|[12](https://www.snap.com/political-ads/asset/f12b6e2dc0b93fb13d8b29bfd9d837791e18dd2f4bc24f857dfdc95c6a18285a?mediaType=mp4)|164,120||18+|united states|
+|Blockratize Inc.|1,657.00 USD|[13](https://www.snap.com/political-ads/asset/fbae08da7be4ad55ea2c84e9bbb3019317fda2390c491c610d4298a9ca0686fe?mediaType=mov)|142,659||18+|united states|
 |Blockratize Inc.|1,419.00 USD|[14](https://www.snap.com/political-ads/asset/5906b792d1d59c33a529c27af498587fa5cd0368f7a95e75476798a9a94f6cb1?mediaType=png)|120,761||18+|united states|
 |Blockratize Inc.|860.00 USD|[15](https://www.snap.com/political-ads/asset/e8d2b2a26e5e5b327f348de0cbde1f80d3ee7834e2fd00cea033d3709298279c?mediaType=png)|113,515||18+|united states|
 |Blockratize Inc.|1,205.00 USD|[16](https://www.snap.com/political-ads/asset/8f373d6ceb2ae582905ee37be714d7f5765359d375d816142958ed8e4e6669c0?mediaType=mp4)|111,937||18+|united states|
 |Blockratize Inc.|891.00 USD|[17](https://www.snap.com/political-ads/asset/ecbd452e51903ec32a35053be4b770452dbe10af3c28d1dced9bb3f140988e8b?mediaType=png)|86,213||18+|united states|
 |Blockratize Inc.|725.00 USD|[18](https://www.snap.com/political-ads/asset/ed6602587c432bc68d32348d15aaad8004bf01a65b99d519e4e14ff63c630eb0?mediaType=png)|78,890||18+|united states|
-|Blockratize Inc.|647.00 USD|[19](https://www.snap.com/political-ads/asset/8ca5f0f32b9b33f10b51cc33c22304c9378f96636b96e545c601a88a11e6664b?mediaType=png)|78,057||18+|united states|
+|Blockratize Inc.|647.00 USD|[19](https://www.snap.com/political-ads/asset/8ca5f0f32b9b33f10b51cc33c22304c9378f96636b96e545c601a88a11e6664b?mediaType=png)|78,058||18+|united states|
 |Blockratize Inc.|776.00 USD|[20](https://www.snap.com/political-ads/asset/576b7778ebdca0c0ec6f426682a38ec23770ec345e0a718c8108b136f74b170d?mediaType=mp4)|72,488||18+|united states|
-|Blockratize Inc.|684.00 USD|[21](https://www.snap.com/political-ads/asset/671f1cec6d9495fadf709cc25e7d747d081fdb5e70d726e98913f3b898bbedb1?mediaType=png)|71,948||18+|united states|
-|Blockratize Inc.|990.00 USD|[22](https://www.snap.com/political-ads/asset/dae83a3e2b86b29da341cab813a70dd60ef0242f66a0696713bfb2e19152f9be?mediaType=png)|67,190||18+|united states|
+|Blockratize Inc.|684.00 USD|[21](https://www.snap.com/political-ads/asset/671f1cec6d9495fadf709cc25e7d747d081fdb5e70d726e98913f3b898bbedb1?mediaType=png)|71,949||18+|united states|
+|Blockratize Inc.|990.00 USD|[22](https://www.snap.com/political-ads/asset/dae83a3e2b86b29da341cab813a70dd60ef0242f66a0696713bfb2e19152f9be?mediaType=png)|67,193||18+|united states|
 |Blockratize Inc.|631.00 USD|[23](https://www.snap.com/political-ads/asset/9547551c66c0c0883ebfe6794758023004cd1e7de63cf22072c7ce1c469a5ebc?mediaType=mov)|53,032||18+|united states|
 |Blockratize Inc.|720.00 USD|[24](https://www.snap.com/political-ads/asset/2918d814a51d4d6960e5545e7a5d43486e6479a260b63be88033e5b45c0d497f?mediaType=mp4)|52,410||18+|united states|
 |Blockratize Inc.|606.00 USD|[25](https://www.snap.com/political-ads/asset/07d1b62442ecc1583152dab1451e24b374c7bcc94ec520876cca5a09f20ef2ab?mediaType=png)|51,558||18+|united states|
 |Blockratize Inc.|463.00 USD|[26](https://www.snap.com/political-ads/asset/0e7b020c8c6360b7790ca126394e114c5e9d11dc118c6cf8ce55cb698dc8c9b8?mediaType=png)|51,017||18+|united states|
-|Blockratize Inc.|286.00 USD|[27](https://www.snap.com/political-ads/asset/5cb26f5815702f2fe6fd870eae76f32bb88fc4c24b7df027ba3369f8a41427d1?mediaType=png)|48,708||18+|united states|
+|Blockratize Inc.|286.00 USD|[27](https://www.snap.com/political-ads/asset/5cb26f5815702f2fe6fd870eae76f32bb88fc4c24b7df027ba3369f8a41427d1?mediaType=png)|48,710||18+|united states|
 |Blockratize Inc.|661.00 USD|[28](https://www.snap.com/political-ads/asset/2e8c7f58539dcdb4fd3fe66fa173cab0e83e8297ce2d7fa41f1d33c9cd8f923c?mediaType=png)|48,397||18+|united states|
 |Blockratize Inc.|331.00 USD|[29](https://www.snap.com/political-ads/asset/fbe7e2b8dd38216ce5f137b2a0ca755bbc9aab82f5af2f96607065166cada7a8?mediaType=mp4)|47,793||18+|united states|
 |Blockratize Inc.|437.00 USD|[30](https://www.snap.com/political-ads/asset/880bdda45480a3d000d0b8776b1d969682337dd4a07b684251b3486426522864?mediaType=mp4)|38,810||18+|united states|
@@ -50,7 +50,7 @@
 |Blockratize Inc.|164.00 USD|[40](https://www.snap.com/political-ads/asset/76a7d6d8208b62faf2f8c4b08156e39f8b643c18d892331f3ffe3a9a6649edb3?mediaType=mov)|19,965||18+|united states|
 |Blockratize Inc.|156.00 USD|[41](https://www.snap.com/political-ads/asset/88988ca37c02a2e23e5d92f4e1357eadb41523e60e84bbd0c3011f3c6f510abf?mediaType=png)|18,647||18+|united states|
 |Blockratize Inc.|169.00 USD|[42](https://www.snap.com/political-ads/asset/8587e5171f129a963f5c05fa68048878a0c423bdefd85ccdfff1900b8ce90e52?mediaType=mp4)|18,210||18+|united states|
-|Blockratize Inc.|203.00 USD|[43](https://www.snap.com/political-ads/asset/2b0c52cc8c60b05f69745edc62eae800629112b1eb35a8fabf0044e6c72ec535?mediaType=mp4)|17,709||18+|united states|
+|Blockratize Inc.|203.00 USD|[43](https://www.snap.com/political-ads/asset/2b0c52cc8c60b05f69745edc62eae800629112b1eb35a8fabf0044e6c72ec535?mediaType=mp4)|17,712||18+|united states|
 |Blockratize Inc.|180.00 USD|[44](https://www.snap.com/political-ads/asset/0d3694d37bf9d5421728bd7b3d36063f32bd160fcea3e8d58415e5865d947907?mediaType=mp4)|16,129||18+|united states|
 |Blockratize Inc.|174.00 USD|[45](https://www.snap.com/political-ads/asset/b35e701fd94ff925214c8aa71f2a9d59d4e4f7420d451eda688fb70bc34a288a?mediaType=png)|15,922||18+|united states|
 |Blockratize Inc.|157.00 USD|[46](https://www.snap.com/political-ads/asset/1e30c20e1ee977b472d398595730a20f7ec558003713ffbc78af5b32087ff8e7?mediaType=mp4)|14,833||18+|united states|
@@ -58,15 +58,15 @@
 |Blockratize Inc.|120.00 USD|[48](https://www.snap.com/political-ads/asset/7364fa20c16794ef743bb1a27b3618fb9549303088048c0ee67f09259eacce9b?mediaType=mp4)|14,257||18+|united states|
 |Blockratize Inc.|160.00 USD|[49](https://www.snap.com/political-ads/asset/50244148e47aed600194ea758bbeffb94c6062e2eb5e8c3633a91928d5cf4e36?mediaType=mp4)|13,731||18+|united states|
 |Blockratize Inc.|160.00 USD|[50](https://www.snap.com/political-ads/asset/0c50442d51364f96c0e6393c0e7a01f609acd0368b4674ce24a689a1fc5e701e?mediaType=png)|13,518||18+|united states|
-|Blockratize Inc.|118.00 USD|[51](https://www.snap.com/political-ads/asset/cd25f23a9e27844a415b690b21c203bb36da2089444721fde3defeb7eaa6bce5?mediaType=png)|12,605||18+|united states|
-|Blockratize Inc.|141.00 USD|[52](https://www.snap.com/political-ads/asset/a93cf15edf8c539b879acac4499aa757c42289e1d203aabbb39f6dcf1dd193ac?mediaType=mp4)|11,857||18+|united states|
+|Blockratize Inc.|118.00 USD|[51](https://www.snap.com/political-ads/asset/cd25f23a9e27844a415b690b21c203bb36da2089444721fde3defeb7eaa6bce5?mediaType=png)|12,606||18+|united states|
+|Blockratize Inc.|141.00 USD|[52](https://www.snap.com/political-ads/asset/a93cf15edf8c539b879acac4499aa757c42289e1d203aabbb39f6dcf1dd193ac?mediaType=mp4)|11,858||18+|united states|
 |Blockratize Inc.|97.00 USD|[53](https://www.snap.com/political-ads/asset/3286cc363c534dc6797cbe65e7ac390b5b359df6da6ed3f3e5cb0647e0dc4254?mediaType=mp4)|10,415||18+|united states|
 |Blockratize Inc.|154.00 USD|[54](https://www.snap.com/political-ads/asset/d8b7d6b3265d4bc32cd632952d1361c3d48e45259a65e0f9ad0141d0ea8bc78a?mediaType=mp4)|10,225||18+|united states|
 |Blockratize Inc.|111.00 USD|[55](https://www.snap.com/political-ads/asset/bd6d5f694efe12c716065197cdbfbcaeaa69f3fe65b64223e9a03e94d64662d5?mediaType=mp4)|9,600||18+|united states|
 |Blockratize Inc.|129.00 USD|[56](https://www.snap.com/political-ads/asset/75ba4c35a0d8271ccee3836703c271c7e16b80ae81185bc15f4dc03d3a8777fd?mediaType=mp4)|9,527||18+|united states|
 |Blockratize Inc.|90.00 USD|[57](https://www.snap.com/political-ads/asset/b6ee09a51470eb7a7fe70ba3eae01eb539c9b89de598a6170aa3c6e434fe575c?mediaType=mp4)|9,206||18+|united states|
 |Blockratize Inc.|93.00 USD|[58](https://www.snap.com/political-ads/asset/c134a31eb14d0a766e6098fa15e19951b04ee1990939702b48e030a7cd5e4463?mediaType=png)|8,941||18+|united states|
-|Blockratize Inc.|119.00 USD|[59](https://www.snap.com/political-ads/asset/edbc4f5e12c43158ea8a8e514561874b83c596da0e6ce878a0d6715ef1e09e51?mediaType=mp4)|8,620||18+|united states|
+|Blockratize Inc.|119.00 USD|[59](https://www.snap.com/political-ads/asset/edbc4f5e12c43158ea8a8e514561874b83c596da0e6ce878a0d6715ef1e09e51?mediaType=mp4)|8,621||18+|united states|
 |Blockratize Inc.|83.00 USD|[60](https://www.snap.com/political-ads/asset/12f2c44cb70e010e86634cd4736dd8ab25b767a1a4a74f6849a6adde45e3422b?mediaType=mp4)|7,755||18+|united states|
 |Blockratize Inc.|105.00 USD|[61](https://www.snap.com/political-ads/asset/6f598ad95d1686d4fed89550cdaf22cde919b85470cd79c27f6042892e7fc233?mediaType=png)|7,336||18+|united states|
 |Blockratize Inc.|78.00 USD|[62](https://www.snap.com/political-ads/asset/e8554ab6d42ed631c5bcaa9159a9fceecc7f704fdcd710d35a097550c1531a90?mediaType=mp4)|6,510||18+|united states|
@@ -80,11 +80,11 @@
 |Blockratize Inc.|48.00 USD|[70](https://www.snap.com/political-ads/asset/91ae40cec7acbaf1e181c445325b18df97113e34a696362f0a3ccd1a79fc9490?mediaType=mp4)|4,892||18+|united states|
 |Blockratize Inc.|47.00 USD|[71](https://www.snap.com/political-ads/asset/c82e02a3e496644ce9d235261ab58e9689e2e3fa62eb440f7ebb50e77f18b349?mediaType=mp4)|4,631||18+|united states|
 |Blockratize Inc.|38.00 USD|[72](https://www.snap.com/political-ads/asset/1558447d46779a9b803f14ee52a257469801ce8197c34bcc5aa35eadf9cfb9bc?mediaType=mov)|4,573||18+|united states|
-|Blockratize Inc.|50.00 USD|[73](https://www.snap.com/political-ads/asset/61e42164c9fa192e49471638cd32a322374beddf9dd0c75c2ca5048b26054941?mediaType=mp4)|4,371||18+|united states|
+|Blockratize Inc.|50.00 USD|[73](https://www.snap.com/political-ads/asset/61e42164c9fa192e49471638cd32a322374beddf9dd0c75c2ca5048b26054941?mediaType=mp4)|4,373||18+|united states|
 |Blockratize Inc.|67.00 USD|[74](https://www.snap.com/political-ads/asset/b4f54a9467d667cba3ef03911d6559e8ebee33bab6aac587070dc729f60f5fa2?mediaType=mp4)|4,333||18+|united states|
 |Blockratize Inc.|47.00 USD|[75](https://www.snap.com/political-ads/asset/0e166afdf0ef09fbb53a25f720f18ad1062e24f18e558c39e925754bfb97cc4b?mediaType=mp4)|4,215||18+|united states|
 |Blockratize Inc.|43.00 USD|[76](https://www.snap.com/political-ads/asset/115c4eb724fc79d8d1bb728b9fc407a7ffa705c1cffee546e596ae587d3e0d3d?mediaType=mp4)|4,093||18+|united states|
-|Blockratize Inc.|44.00 USD|[77](https://www.snap.com/political-ads/asset/acf83c0a4635df2416364b150a1dba8d9757046b372d9c331e02136c62efb689?mediaType=mp4)|4,089||18+|united states|
+|Blockratize Inc.|44.00 USD|[77](https://www.snap.com/political-ads/asset/acf83c0a4635df2416364b150a1dba8d9757046b372d9c331e02136c62efb689?mediaType=mp4)|4,090||18+|united states|
 |Blockratize Inc.|44.00 USD|[78](https://www.snap.com/political-ads/asset/8faf824963905e072e4b9b5ba2cd3d5cb768e4b50718b5ef516536cbe20cf23a?mediaType=mp4)|3,819||18+|united states|
 |Blockratize Inc.|36.00 USD|[79](https://www.snap.com/political-ads/asset/d6960964259307bc9242d37ad8430947f15321d79fd8779cba6286e8911d728f?mediaType=mp4)|3,787||18+|united states|
 |Blockratize Inc.|38.00 USD|[80](https://www.snap.com/political-ads/asset/4b9d171d8c9f28fc8704e9e57faf4f6930cfc270a2df233048b36cfc658b7a04?mediaType=mp4)|3,622||18+|united states|

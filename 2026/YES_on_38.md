@@ -1,14 +1,14 @@
 ## 2026 - YES on 38 
 **Spent**: 32,907.00
 
-**Impressions**: 1,427,512
+**Impressions**: 1,427,513
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Bask Digital Media: Proposition 38|7,593.00 USD|[0](https://www.snap.com/political-ads/asset/24287b17963e5370453de21a8bec6dd6c17c345b67678863d50ea5960ecf7be4?mediaType=mp4)|345,797||18+|united states|
-|Bask Digital Media: Proposition 38|6,909.00 USD|[1](https://www.snap.com/political-ads/asset/e5a245086913cd76d5e0c99bfe7a2544b1025072de6e5298d4d9c593c6e24270?mediaType=mp4)|334,908||18+|united states|
+|Bask Digital Media: Proposition 38|6,909.00 USD|[1](https://www.snap.com/political-ads/asset/e5a245086913cd76d5e0c99bfe7a2544b1025072de6e5298d4d9c593c6e24270?mediaType=mp4)|334,909||18+|united states|
 |Bask Digital Media: Proposition 38|3,100.00 USD|[2](https://www.snap.com/political-ads/asset/dc4568a8fc3168022e280a73881163d8c147ccef595cdfe29e975de306ba77d6?mediaType=mp4)|128,045||18+|united states|
 |Bask Digital Media: Proposition 38|2,733.00 USD|[3](https://www.snap.com/political-ads/asset/05a1e2bd879310278355430228ecca3732e53dfb98b927ff0610e227a3492a89?mediaType=mp4)|122,177||18+|united states|
 |Bask Digital Media: Proposition 38|3,250.00 USD|[4](https://www.snap.com/political-ads/asset/052701858f18f9f639649e223ae8ca0530088413cb5430c46ab79f2af94cf1c0?mediaType=mp4)|112,857||18+|united states|

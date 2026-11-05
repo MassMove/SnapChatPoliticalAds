@@ -1,7 +1,7 @@
 ## 2026 - Working America 
 **Spent**: 291,201.00
 
-**Impressions**: 30,494,686
+**Impressions**: 30,494,688
 
 **Billing Addresses**: US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Working America|9,542.00 USD|[0](https://www.snap.com/political-ads/asset/87bd7c9d8fc5e2f67a4f6b27319e258837daf13d23bb2cef05bd57e4964e7d53?mediaType=jpg)|1,653,851||18+|united states|
 |Working America|15,109.00 USD|[1](https://www.snap.com/political-ads/asset/3823774c15564cee2f3dd8cf58ee2760192a20b6bbd3fd6adc5bb5d2f1ba0ea8?mediaType=mp4)|1,587,066||18+|united states|
-|Working America|9,788.00 USD|[2](https://www.snap.com/political-ads/asset/9460eee83e742969b902c2979f15cad0721a3470aa68f7ac0d99ff0671b66825?mediaType=jpg)|1,065,647||18+|united states|
+|Working America|9,788.00 USD|[2](https://www.snap.com/political-ads/asset/9460eee83e742969b902c2979f15cad0721a3470aa68f7ac0d99ff0671b66825?mediaType=jpg)|1,065,648||18+|united states|
 |Working America|9,575.00 USD|[3](https://www.snap.com/political-ads/asset/f380876268bc1e89ac96551b6c14b64995b181f257834adc8347329f24f31c57?mediaType=jpg)|970,530||18+|united states|
 |Working America|6,015.00 USD|[4](https://www.snap.com/political-ads/asset/4a7ef6675fbad128e8d5c108c300664d5c9103787fb2744e26948991a4fb6441?mediaType=jpg)|926,389||18+|united states|
 |Working America|9,551.00 USD|[5](https://www.snap.com/political-ads/asset/8bb8b9d2012f909963ae7ee3067394429fc561f709b9fe00ee0a76a8115f2cbf?mediaType=jpg)|897,458||18+|united states|
@@ -24,7 +24,7 @@
 |Working America|3,283.00 USD|[14](https://www.snap.com/political-ads/asset/dba1ee4b21ba96ee8e7f83e0d58244b4744f2a8e1f6b0dce7daaea8c217d2ede?mediaType=jpg)|410,422||18+|united states|
 |Working America|2,981.00 USD|[15](https://www.snap.com/political-ads/asset/b800507472db0f169a2ec6478bd3948cbe75141d1769e3076075dcb8871bfbdd?mediaType=jpg)|381,539||18+|united states|
 |Working America|4,103.00 USD|[16](https://www.snap.com/political-ads/asset/9c2ffdd5780a1e0b5a7adcf51daf259d937a4c58dec1b7c3b7ce4af9c9a2f0fb?mediaType=jpg)|360,139||18+|united states|
-|Working America|4,794.00 USD|[17](https://www.snap.com/political-ads/asset/09200c7f9cd5163e9364640b5fe0f6100121eb45f7b1d94c6a5c9d2c9b6d915b?mediaType=jpg)|353,523||18+|united states|
+|Working America|4,794.00 USD|[17](https://www.snap.com/political-ads/asset/09200c7f9cd5163e9364640b5fe0f6100121eb45f7b1d94c6a5c9d2c9b6d915b?mediaType=jpg)|353,524||18+|united states|
 |Working America|2,588.00 USD|[18](https://www.snap.com/political-ads/asset/ac4e5f0e2ce6f81f6a230b6465770dd0765ace89977d292686469d1ec7811176?mediaType=jpg)|352,098||18+|united states|
 |Working America|2,008.00 USD|[19](https://www.snap.com/political-ads/asset/3a5d4d4e370d6584ec502e27cd02f456eef8f3ee11ba00dc0647a235ec8792b9?mediaType=jpg)|312,580||18+|united states|
 |Working America|1,110.00 USD|[20](https://www.snap.com/political-ads/asset/ef5c22ca3ddae3a8a2571ce2c67c8fa8b053429c1d3507683378e00438328f6e?mediaType=mp4)|293,232||18+|united states|

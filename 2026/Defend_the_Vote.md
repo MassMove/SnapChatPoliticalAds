@@ -1,7 +1,7 @@
 ## 2026 - Defend the Vote 
 **Spent**: 264,441.00
 
-**Impressions**: 12,185,631
+**Impressions**: 12,185,634
 
 **Billing Addresses**: 1640 Rhode Island Ave. NW, Suite 600,Washington,20036,US
 
@@ -10,7 +10,7 @@
 |C+K|75,000.00 USD|[0](https://www.snap.com/political-ads/asset/9a6ba0360eab20a2625c90cf0bcda9c9b08280d37744d9d89a1eb7a8cd05269d?mediaType=png)|1,445,795||18+|united states|
 |C+K|17,113.00 USD|[1](https://www.snap.com/political-ads/asset/2dc6000f1b739def438e006674b1d962af58d5892cff1ea19972155640f80358?mediaType=mp4)|1,416,639||18-34|united states|
 |C+K|14,434.00 USD|[2](https://www.snap.com/political-ads/asset/2dc6000f1b739def438e006674b1d962af58d5892cff1ea19972155640f80358?mediaType=mp4)|1,351,467||18-34|united states|
-|C+K|48,000.00 USD|[3](https://www.snap.com/political-ads/asset/cb829fa6de97bd0f5b08ae652854fefd86df2a9ed56a483d53d90159fb4d2297?mediaType=png)|1,292,612||18+|united states|
+|C+K|48,000.00 USD|[3](https://www.snap.com/political-ads/asset/cb829fa6de97bd0f5b08ae652854fefd86df2a9ed56a483d53d90159fb4d2297?mediaType=png)|1,292,615||18+|united states|
 |C+K|12,025.00 USD|[4](https://www.snap.com/political-ads/asset/2dc6000f1b739def438e006674b1d962af58d5892cff1ea19972155640f80358?mediaType=mp4)|714,222||18+|united states|
 |C+K|12,294.00 USD|[5](https://www.snap.com/political-ads/asset/2dc6000f1b739def438e006674b1d962af58d5892cff1ea19972155640f80358?mediaType=mp4)|687,414||18+|united states|
 |C+K|10,602.00 USD|[6](https://www.snap.com/political-ads/asset/2dc6000f1b739def438e006674b1d962af58d5892cff1ea19972155640f80358?mediaType=mp4)|655,460||18+|united states|

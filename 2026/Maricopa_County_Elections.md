@@ -1,7 +1,7 @@
 ## 2026 - Maricopa County Elections 
-**Spent**: 21,353.00
+**Spent**: 21,553.00
 
-**Impressions**: 5,468,148
+**Impressions**: 5,526,109
 
 **Billing Addresses**: US
 
@@ -17,7 +17,7 @@
 |HAPI|641.00 USD|[7](https://www.snap.com/political-ads/asset/30dd96b915e7ecab846ef7cf44d90324042470ac38ccb9c5ea6ed2ded3f2f864?mediaType=mp4)|143,838||18+|united states|
 |HAPI|595.00 USD|[8](https://www.snap.com/political-ads/asset/10635514cf37018ffbe88f3ea5108dfe1d589690666140ec34d981fddf4e7768?mediaType=mp4)|114,994||18+|united states|
 |HAPI|217.00 USD|[9](https://www.snap.com/political-ads/asset/10635514cf37018ffbe88f3ea5108dfe1d589690666140ec34d981fddf4e7768?mediaType=mp4)|65,096||18+|united states|
-|HAPI|60.00 USD|[10](https://www.snap.com/political-ads/asset/4907d63536dfb256671240a2c991ea4092f9348ef127a1ce2892efcd95991e2c?mediaType=mp4)|20,016||18+|united states|
-|HAPI|61.00 USD|[11](https://www.snap.com/political-ads/asset/64cc0887318732211146ab5d482fe4823b4a44388faced2817f6f6e2e68fcd40?mediaType=mp4)|19,652||18+|united states|
-|HAPI|22.00 USD|[12](https://www.snap.com/political-ads/asset/699e0cbf257fd4344bb9e7cd967015af329a248a441e97c9481cba21237df1f3?mediaType=mp4)|7,353||18+|united states|
-|HAPI|13.00 USD|[13](https://www.snap.com/political-ads/asset/21439f6ebebff81714e7f97ee2308034fbb97ba241e0def377c3da4017ccf289?mediaType=mp4)|4,540||18+|united states|
+|HAPI|158.00 USD|[10](https://www.snap.com/political-ads/asset/4907d63536dfb256671240a2c991ea4092f9348ef127a1ce2892efcd95991e2c?mediaType=mp4)|48,683||18+|united states|
+|HAPI|122.00 USD|[11](https://www.snap.com/political-ads/asset/64cc0887318732211146ab5d482fe4823b4a44388faced2817f6f6e2e68fcd40?mediaType=mp4)|37,315||18+|united states|
+|HAPI|41.00 USD|[12](https://www.snap.com/political-ads/asset/699e0cbf257fd4344bb9e7cd967015af329a248a441e97c9481cba21237df1f3?mediaType=mp4)|12,641||18+|united states|
+|HAPI|35.00 USD|[13](https://www.snap.com/political-ads/asset/21439f6ebebff81714e7f97ee2308034fbb97ba241e0def377c3da4017ccf289?mediaType=mp4)|10,883||18+|united states|
