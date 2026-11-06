@@ -1,21 +1,21 @@
 ## 2026 - New Zealand First 
-**Spent**: 14,087.00
+**Spent**: 14,514.00
 
-**Impressions**: 1,430,266
+**Impressions**: 1,459,509
 
 **Billing Addresses**: 17 albert steet,papakura,2010,NZ
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|36Presents: New Zealand First Authorised by Holly Howard|7,058.00 NZD|[0](https://www.snap.com/political-ads/asset/0a977a5ef86be162ac4a5ebd000cabf225a60a64a6f35e9a984b96e2a07af57d?mediaType=mp4)|548,841||18+|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|2,721.00 NZD|[1](https://www.snap.com/political-ads/asset/642396a1bd89b967950133fdf65e9322eecaa74dea74a9fc1dd7c9a8c8e035af?mediaType=mp4)|279,646||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|982.00 NZD|[2](https://www.snap.com/political-ads/asset/76b169bf7624bb06b04adbec4d72f5c2174e9d9d83477100b24e5403dff171b7?mediaType=mp4)|148,679||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|1,042.00 NZD|[3](https://www.snap.com/political-ads/asset/b6fb81f64ac97c2cb2b78aa9da57b6769b441ef9c0f7033e299ce79f891e8381?mediaType=mp4)|117,243||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|505.00 NZD|[4](https://www.snap.com/political-ads/asset/b765be830b298a584af0943ad378a60bf624bcf0bbb8606954631a2fff5330b4?mediaType=mp4)|69,754||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|349.00 NZD|[5](https://www.snap.com/political-ads/asset/9c79ed9bff3f25b041ba2a19cfea41eceb2b613c2121d5ea0a65f14e7557a99c?mediaType=mp4)|62,932||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|564.00 NZD|[6](https://www.snap.com/political-ads/asset/1e478b6328bd71a48efefed7e08b59684e16bfde2d34f58915e77eee114788c6?mediaType=mp4)|62,878||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|227.00 NZD|[7](https://www.snap.com/political-ads/asset/a754864a8f11e379f2342f721ec2cc7a8a1f033d0b35f025f0627b2a9a023b96?mediaType=mp4)|39,830||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|194.00 NZD|[8](https://www.snap.com/political-ads/asset/d4a3375faeef2fafb1b1824b6f86bbd5322ce5224b5b7396cf480bdc4d9e43dc?mediaType=mp4)|30,796||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|178.00 NZD|[9](https://www.snap.com/political-ads/asset/a5b6777dfa72cb3766263890ed7ce45aa4f545f8f88a608f36588bc10ae81a87?mediaType=mp4)|27,471||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|158.00 NZD|[10](https://www.snap.com/political-ads/asset/86b565e6f137f9ae1b574c2d5c90aba17064d278a4667a4294ba06bff4be6e71?mediaType=mp4)|23,811||18-35|new zealand|
-|36Presents: New Zealand First Authorised by Holly Howard|109.00 NZD|[11](https://www.snap.com/political-ads/asset/a1b25f42a6f05a44f2790fd071406ac623ab34bb90f88ff51c0838a36681676d?mediaType=mp4)|18,385||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|7,266.00 NZD|[0](https://www.snap.com/political-ads/asset/0a977a5ef86be162ac4a5ebd000cabf225a60a64a6f35e9a984b96e2a07af57d?mediaType=mp4)|565,305||18+|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|2,843.00 NZD|[1](https://www.snap.com/political-ads/asset/642396a1bd89b967950133fdf65e9322eecaa74dea74a9fc1dd7c9a8c8e035af?mediaType=mp4)|286,926||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|1,001.00 NZD|[2](https://www.snap.com/political-ads/asset/76b169bf7624bb06b04adbec4d72f5c2174e9d9d83477100b24e5403dff171b7?mediaType=mp4)|149,689||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|1,067.00 NZD|[3](https://www.snap.com/political-ads/asset/b6fb81f64ac97c2cb2b78aa9da57b6769b441ef9c0f7033e299ce79f891e8381?mediaType=mp4)|118,277||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|523.00 NZD|[4](https://www.snap.com/political-ads/asset/b765be830b298a584af0943ad378a60bf624bcf0bbb8606954631a2fff5330b4?mediaType=mp4)|70,932||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|571.00 NZD|[5](https://www.snap.com/political-ads/asset/1e478b6328bd71a48efefed7e08b59684e16bfde2d34f58915e77eee114788c6?mediaType=mp4)|63,516||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|353.00 NZD|[6](https://www.snap.com/political-ads/asset/9c79ed9bff3f25b041ba2a19cfea41eceb2b613c2121d5ea0a65f14e7557a99c?mediaType=mp4)|63,120||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|236.00 NZD|[7](https://www.snap.com/political-ads/asset/a754864a8f11e379f2342f721ec2cc7a8a1f033d0b35f025f0627b2a9a023b96?mediaType=mp4)|40,442||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|199.00 NZD|[8](https://www.snap.com/political-ads/asset/d4a3375faeef2fafb1b1824b6f86bbd5322ce5224b5b7396cf480bdc4d9e43dc?mediaType=mp4)|31,096||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|182.00 NZD|[9](https://www.snap.com/political-ads/asset/a5b6777dfa72cb3766263890ed7ce45aa4f545f8f88a608f36588bc10ae81a87?mediaType=mp4)|27,695||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|162.00 NZD|[10](https://www.snap.com/political-ads/asset/86b565e6f137f9ae1b574c2d5c90aba17064d278a4667a4294ba06bff4be6e71?mediaType=mp4)|23,998||18-35|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|111.00 NZD|[11](https://www.snap.com/political-ads/asset/a1b25f42a6f05a44f2790fd071406ac623ab34bb90f88ff51c0838a36681676d?mediaType=mp4)|18,513||18-35|new zealand|

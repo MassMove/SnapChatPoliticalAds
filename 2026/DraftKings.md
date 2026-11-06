@@ -1,7 +1,7 @@
 ## 2026 - DraftKings 
 **Spent**: 464,642.00
 
-**Impressions**: 62,680,983
+**Impressions**: 62,680,984
 
 **Billing Addresses**: 222 Berkeley St, 5th Floor,Boston, 02116,US
 
@@ -18,7 +18,7 @@
 |Draft Kings Inc.|11,768.00 USD|[14](https://www.snap.com/political-ads/asset/05ffe20caef6ddd44eee3898e6cfe845ca9f29450decb89b9f2e90090f7451b6?mediaType=png)|2,064,245||18+|united states|
 |Draft Kings Inc.|13,039.00 USD|[15](https://www.snap.com/political-ads/asset/a8de7bd1a76703cdb5f614920536d532bfcadda49fdad7b52e13df55ff76018e?mediaType=png)|1,508,331||18+|united states|
 |Draft Kings Inc.|13,607.00 USD|[16](https://www.snap.com/political-ads/asset/a8dd310d31302723ccfd6f48da684506dfcf41cda37f68516d0f74bfe6497a72?mediaType=png)|1,367,825||18+|united states|
-|Draft Kings Inc.|13,306.00 USD|[17](https://www.snap.com/political-ads/asset/50589a32902cac4f96c4e2f51f138a30400e795a50b69dd2fae5c3e527e9f198?mediaType=png)|1,353,804||18+|united states|
+|Draft Kings Inc.|13,306.00 USD|[17](https://www.snap.com/political-ads/asset/50589a32902cac4f96c4e2f51f138a30400e795a50b69dd2fae5c3e527e9f198?mediaType=png)|1,353,805||18+|united states|
 |Draft Kings Inc.|6,556.00 USD|[18](https://www.snap.com/political-ads/asset/afb54514eed28fdadfc590950bc995ff2f6fce8ef9dcd5919df63503f442537f?mediaType=mp4)|559,331||18+|united states|
 |Draft Kings Inc.|5,338.00 USD|[19](https://www.snap.com/political-ads/asset/ae4da1c10e17e34c2385c9323d0312ba8b446e9c2d1cf0526b6a594053f61074?mediaType=png)|557,914||18+|united states|
 |Draft Kings Inc.|4,117.00 USD|[20](https://www.snap.com/political-ads/asset/dadca6ba7e1460e7431aa1876a239d5fb0cd2f0416919d496adb6f2a612a34d7?mediaType=mp4)|495,856||18+|united states|
