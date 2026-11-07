@@ -1,7 +1,7 @@
 ## 2026 - Vic Electoral Commission 
-**Spent**: 23,823.00
+**Spent**: 24,939.00
 
-**Impressions**: 3,416,468
+**Impressions**: 3,618,338
 
 **Billing Addresses**: Bay 7, 2 Locomotive Street, Eveleigh,,,Sydney,2015,AU
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Omnicom Media Group (Australia) Pty Ltd|14,280.00 AUD|[0](https://www.snap.com/political-ads/asset/9942a4eae9bc62ce3704f4a0c5e80a3e4d0d6a694a2ae03258f43cb1db7275da?mediaType=mp4)|1,499,979||18+|australia|
 |Omnicom Media Group (Australia) Pty Ltd|6,125.00 AUD|[1](https://www.snap.com/political-ads/asset/9942a4eae9bc62ce3704f4a0c5e80a3e4d0d6a694a2ae03258f43cb1db7275da?mediaType=mp4)|1,246,728||18+|australia|
-|Omnicom Media Group (Australia) Pty Ltd|1,258.00 AUD|[2](https://www.snap.com/political-ads/asset/9e928662f2c9d798ed46b6af7a027955d98f6e2009ae72bcb47ace7aaceb5183?mediaType=mp4)|200,918||18-54|australia|
-|Omnicom Media Group (Australia) Pty Ltd|1,037.00 AUD|[3](https://www.snap.com/political-ads/asset/1838226eef08fe8a41bd922dd7b0e49bed11dd8451a682d482bead054488b95b?mediaType=mp4)|173,006||18+|australia|
-|Omnicom Media Group (Australia) Pty Ltd|640.00 AUD|[4](https://www.snap.com/political-ads/asset/9e928662f2c9d798ed46b6af7a027955d98f6e2009ae72bcb47ace7aaceb5183?mediaType=mp4)|166,265||18-54|australia|
-|Omnicom Media Group (Australia) Pty Ltd|483.00 AUD|[5](https://www.snap.com/political-ads/asset/ca099e023ddaa08ad76f6c386b570ed72a9b8a6c0d2f47a2eca5a9e5b0f30f8c?mediaType=mp4)|129,572||18+|australia|
+|Omnicom Media Group (Australia) Pty Ltd|1,666.00 AUD|[2](https://www.snap.com/political-ads/asset/1838226eef08fe8a41bd922dd7b0e49bed11dd8451a682d482bead054488b95b?mediaType=mp4)|260,458||18+|australia|
+|Omnicom Media Group (Australia) Pty Ltd|1,392.00 AUD|[3](https://www.snap.com/political-ads/asset/9e928662f2c9d798ed46b6af7a027955d98f6e2009ae72bcb47ace7aaceb5183?mediaType=mp4)|221,808||18-54|australia|
+|Omnicom Media Group (Australia) Pty Ltd|766.00 AUD|[4](https://www.snap.com/political-ads/asset/ca099e023ddaa08ad76f6c386b570ed72a9b8a6c0d2f47a2eca5a9e5b0f30f8c?mediaType=mp4)|204,292||18+|australia|
+|Omnicom Media Group (Australia) Pty Ltd|710.00 AUD|[5](https://www.snap.com/political-ads/asset/9e928662f2c9d798ed46b6af7a027955d98f6e2009ae72bcb47ace7aaceb5183?mediaType=mp4)|185,073||18-54|australia|

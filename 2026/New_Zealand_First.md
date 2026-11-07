@@ -1,13 +1,13 @@
 ## 2026 - New Zealand First 
 **Spent**: 14,514.00
 
-**Impressions**: 1,459,509
+**Impressions**: 1,459,513
 
 **Billing Addresses**: 17 albert steet,papakura,2010,NZ
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|36Presents: New Zealand First Authorised by Holly Howard|7,266.00 NZD|[0](https://www.snap.com/political-ads/asset/0a977a5ef86be162ac4a5ebd000cabf225a60a64a6f35e9a984b96e2a07af57d?mediaType=mp4)|565,305||18+|new zealand|
+|36Presents: New Zealand First Authorised by Holly Howard|7,266.00 NZD|[0](https://www.snap.com/political-ads/asset/0a977a5ef86be162ac4a5ebd000cabf225a60a64a6f35e9a984b96e2a07af57d?mediaType=mp4)|565,309||18+|new zealand|
 |36Presents: New Zealand First Authorised by Holly Howard|2,843.00 NZD|[1](https://www.snap.com/political-ads/asset/642396a1bd89b967950133fdf65e9322eecaa74dea74a9fc1dd7c9a8c8e035af?mediaType=mp4)|286,926||18-35|new zealand|
 |36Presents: New Zealand First Authorised by Holly Howard|1,001.00 NZD|[2](https://www.snap.com/political-ads/asset/76b169bf7624bb06b04adbec4d72f5c2174e9d9d83477100b24e5403dff171b7?mediaType=mp4)|149,689||18-35|new zealand|
 |36Presents: New Zealand First Authorised by Holly Howard|1,067.00 NZD|[3](https://www.snap.com/political-ads/asset/b6fb81f64ac97c2cb2b78aa9da57b6769b441ef9c0f7033e299ce79f891e8381?mediaType=mp4)|118,277||18-35|new zealand|
