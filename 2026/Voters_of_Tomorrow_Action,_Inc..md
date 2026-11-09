@@ -1,13 +1,13 @@
 ## 2026 - Voters of Tomorrow Action, Inc. 
-**Spent**: 16,267.00
+**Spent**: 16,483.00
 
-**Impressions**: 2,686,621
+**Impressions**: 2,743,105
 
 **Billing Addresses**: US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Voters of Tomorrow Action  Inc.|5,870.00 USD|[0](https://www.snap.com/political-ads/asset/3164348401feca91970b4ef66f1a246c6da6962a2ac7ba5de552f7801c634acf?mediaType=mp4)|1,438,692||14-18|united states|
+|Voters of Tomorrow Action  Inc.|6,086.00 USD|[0](https://www.snap.com/political-ads/asset/3164348401feca91970b4ef66f1a246c6da6962a2ac7ba5de552f7801c634acf?mediaType=mp4)|1,495,176||14-18|united states|
 |Voters of Tomorrow Action  Inc.|5,105.00 USD|[1](https://www.snap.com/political-ads/asset/d0669e8de8b2e19339f16ef2c74f8520e9c87b7124d1896b82eed3dad98d6cfe?mediaType=png)|522,256||18-29|united states|
 |Voters of Tomorrow Action  Inc.|1,000.00 USD|[2](https://www.snap.com/political-ads/asset/3164348401feca91970b4ef66f1a246c6da6962a2ac7ba5de552f7801c634acf?mediaType=mp4)|201,317||14-18|united states|
 |Voters of Tomorrow Action  Inc.|1,000.00 USD|[3](https://www.snap.com/political-ads/asset/a25f4e8ea8256ec1e89654606d1de9fa125d6c3c76d501b743a9fa45763f09cb?mediaType=mp4)|199,644||14-18|united states|

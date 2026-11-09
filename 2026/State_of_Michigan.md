@@ -1,7 +1,7 @@
 ## 2026 - State of Michigan 
-**Spent**: 68,945.00
+**Spent**: 69,014.00
 
-**Impressions**: 16,239,519
+**Impressions**: 16,258,018
 
 **Billing Addresses**: 440 West Ontario Street,Chicago,60654,US
 
@@ -15,7 +15,7 @@
 |Fusion92|6,306.00 USD|[5](https://www.snap.com/political-ads/asset/63c4ee566695e69fa30dd19d596f9d4cdfa99fbec3e2aa94b58c9669b0881c3e?mediaType=png)|1,171,639||18-29||
 |Fusion92|3,315.00 USD|[6](https://www.snap.com/political-ads/asset/78ca40ce67ab48527e49b3bf1c6eb8ad40d951c81c9223b33ed88e46566f112a?mediaType=jpg)|1,116,876||18-44||
 |Fusion92|2,975.00 USD|[7](https://www.snap.com/political-ads/asset/cc259e4c761722c6d75cc426e5fd47ac5ec6e6e318a5e1e982b06aa2ee1b8891?mediaType=jpg)|985,775||18+||
-|Fusion92|2,601.00 USD|[8](https://www.snap.com/political-ads/asset/106a2c7ae6addce462e658d10dd0081f83a1e908a240c8be550b082596e2c438?mediaType=png)|747,734||18-44||
+|Fusion92|2,666.00 USD|[8](https://www.snap.com/political-ads/asset/106a2c7ae6addce462e658d10dd0081f83a1e908a240c8be550b082596e2c438?mediaType=png)|765,289||18-44||
 |Fusion92|2,011.00 USD|[9](https://www.snap.com/political-ads/asset/1764d6a3dccc0191a4dabfa499ce58b5729614d7d03bb4ec425707bcd1fd7096?mediaType=mp4)|712,548||18+||
 |Fusion92|1,850.00 USD|[10](https://www.snap.com/political-ads/asset/d224652a42268bd6ece7dc1edbfa01789a764f7e6b69accde4be6600abef8762?mediaType=mp4)|700,307||18+||
 |Fusion92|3,064.00 USD|[11](https://www.snap.com/political-ads/asset/0d5ce8a875ee21dd6a4d9177c0ca36fb6e556f6e693babf1c1ef74868eae1863?mediaType=mp4)|573,217||18-29||
@@ -25,7 +25,7 @@
 |Fusion92|162.00 USD|[15](https://www.snap.com/political-ads/asset/48b97ddda5080b05c3112e8ae1390a19ec6baad98d50401f6a241af502dd41db?mediaType=mp4)|52,464||18-44||
 |Fusion92|157.00 USD|[16](https://www.snap.com/political-ads/asset/d224652a42268bd6ece7dc1edbfa01789a764f7e6b69accde4be6600abef8762?mediaType=mp4)|48,206||18-44||
 |Fusion92|144.00 USD|[17](https://www.snap.com/political-ads/asset/48b97ddda5080b05c3112e8ae1390a19ec6baad98d50401f6a241af502dd41db?mediaType=mp4)|45,428||18+||
-|Fusion92|180.00 USD|[18](https://www.snap.com/political-ads/asset/ae38564b4f23432548a4dab53a3a56c7d6ec9ee78c2599fb994ae761ad5cf259?mediaType=mp4)|44,692||18+||
+|Fusion92|183.00 USD|[18](https://www.snap.com/political-ads/asset/ae38564b4f23432548a4dab53a3a56c7d6ec9ee78c2599fb994ae761ad5cf259?mediaType=mp4)|45,337||18+||
 |Fusion92|83.00 USD|[19](https://www.snap.com/political-ads/asset/78ca40ce67ab48527e49b3bf1c6eb8ad40d951c81c9223b33ed88e46566f112a?mediaType=jpg)|25,893||18+||
 |Fusion92|71.00 USD|[20](https://www.snap.com/political-ads/asset/c7bdd7129b8cf9d295ee7bc9030207831d7cb373f793f75788c9eb325b95a8f7?mediaType=jpg)|24,502||18+||
-|Fusion92|73.00 USD|[21](https://www.snap.com/political-ads/asset/106a2c7ae6addce462e658d10dd0081f83a1e908a240c8be550b082596e2c438?mediaType=png)|17,688||18+||
+|Fusion92|74.00 USD|[21](https://www.snap.com/political-ads/asset/106a2c7ae6addce462e658d10dd0081f83a1e908a240c8be550b082596e2c438?mediaType=png)|17,987||18+||
