@@ -1,7 +1,7 @@
 ## 2026 - The Free Press 
-**Spent**: 48,037.00
+**Spent**: 48,345.00
 
-**Impressions**: 8,106,087
+**Impressions**: 8,151,006
 
 **Billing Addresses**: 82 Nassau St., Suite 62658,New York,10038,US
 
@@ -13,8 +13,8 @@
 |The Free Press|4,588.00 USD|[3](https://www.snap.com/political-ads/asset/7e6c120c3f460da03be45620bd8abbfc25dfb9d3d7d8002d3c07a74b0f476d99?mediaType=png)|875,933||18+|united states|
 |The Free Press|4,160.00 USD|[4](https://www.snap.com/political-ads/asset/10eaada8a60154d8073625e8efe7650ec486e5c25d4e4dac0a72ce706fcd459f?mediaType=png)|669,610||18+|united states|
 |The Free Press|2,171.00 USD|[5](https://www.snap.com/political-ads/asset/8bd032f0d7cc8259d8e9097194498aae0f6b65992fb49e250119523387f46812?mediaType=png)|405,505||18+|united states|
-|The Free Press|1,189.00 USD|[6](https://www.snap.com/political-ads/asset/a3b317a725d7738610eda8b2103dd3506cc012d33c92459df195f2685ff9c2d4?mediaType=mp4)|251,800||18+|united states|
-|The Free Press|1,268.00 USD|[7](https://www.snap.com/political-ads/asset/43e5f6d713f16763701c73836337c0b5b117fbe771b9c1acf2f708577e092089?mediaType=png)|215,908||18+|united states|
+|The Free Press|1,576.00 USD|[6](https://www.snap.com/political-ads/asset/43e5f6d713f16763701c73836337c0b5b117fbe771b9c1acf2f708577e092089?mediaType=png)|260,827||18+|united states|
+|The Free Press|1,189.00 USD|[7](https://www.snap.com/political-ads/asset/a3b317a725d7738610eda8b2103dd3506cc012d33c92459df195f2685ff9c2d4?mediaType=mp4)|251,800||18+|united states|
 |The Free Press|1,161.00 USD|[8](https://www.snap.com/political-ads/asset/b4aab766beda79cd61f966e6c1a139876c58f8368f47994a7214349773a83da8?mediaType=png)|156,186||18+|united states|
 |The Free Press|825.00 USD|[9](https://www.snap.com/political-ads/asset/0ea25213faa93245776a879539e35f9de8915343b1f224c4e5eabfdea5af18a8?mediaType=png)|126,718||18+|united states|
 |The Free Press|671.00 USD|[10](https://www.snap.com/political-ads/asset/6e1857af2f37d2623c7f4ad13d888ea15daf75b1a06ef2bee84af764e6cf3c91?mediaType=png)|126,421||18+|united states|
