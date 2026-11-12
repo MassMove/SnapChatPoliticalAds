@@ -17,7 +17,7 @@
 |[Paid for by FL Dept. of Health](Paid_for_by_FL_Dept._of_Health.md) - Omnicom Media Group Holdings Inc.|35,822.00 USD|22,277,138||24-|united states|
 |[Department of Health](Department_of_Health.md) - Australian Government Department of Finance|100,000.00 AUD|20,363,393||18+|australia|
 |[Miljøpartiet de Grønne](Miljøpartiet_de_Grønne.md) - Miljøpartiet De Grønne|1,389,745.00 NOK|19,743,158||18+, 18-22, 18-29, 18-30, 18-40, 18-45, 20-29, 20-30, 28-40, 30-40, 31+, 35+|norway|
-|[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,219.00 EUR, USD|19,097,475||18+, 18-34, 18-35, 18-44, 21+|germany, italy, netherlands, united kingdom, united states|
+|[Patagonia](Patagonia.md) - Patagonia: Climate Crisis|52,419.00 EUR, USD|19,188,668||18+, 18-34, 18-35, 18-44, 21+|germany, italy, netherlands, united kingdom, united states|
 |[Dove](Dove.md) - Unilever US - Mindshare|61,000.00 USD|17,961,316|FEMALE|18-49|united states|
 |[Sandy Hook Promise](Sandy_Hook_Promise.md) - Omnicom Media Group Holdings Inc.|49,996.00 USD|17,248,106||14+|united states|
 |[Unilever](Unilever.md) - Unilever US - Mindshare|130,479.00 USD|16,742,016||18-34|united states|
