@@ -3,7 +3,7 @@
 
 **Impressions**: 2,518,412
 
-**Billing Addresses**: GB
+**Billing Addresses**: ARDMORE HOUSE KINNEGAR DRIVE HOLYWOOD NORTHERN IRELAND,Holywood,BT18 9JQ,GB
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
