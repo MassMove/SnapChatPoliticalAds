@@ -1,7 +1,7 @@
 ## 2026 - Abortion Finder 
 **Spent**: 46,568.00
 
-**Impressions**: 3,748,935
+**Impressions**: 3,748,937
 
 **Billing Addresses**: US
 
@@ -21,7 +21,7 @@
 |Abortion Finder|417.00 USD|[11](https://www.snap.com/political-ads/asset/664f05f9906f77e8f7c362b5c9f4d6523a05a1717da0ae85c074fe72ccc94262?mediaType=mp4)|63,525|FEMALE|18-42|united states|
 |Abortion Finder|492.00 USD|[12](https://www.snap.com/political-ads/asset/e05b99392b8411830d959e3300232f35a16a67f29bb08a7d02303fd30579484e?mediaType=png)|58,615|FEMALE|18-42|united states|
 |Abortion Finder|604.00 USD|[13](https://www.snap.com/political-ads/asset/f6137c41e429d396aaebc023125fe1591f4dad36c8aede7d3ee24902c6be6f0f?mediaType=png)|42,573|FEMALE|18-42|united states|
-|Abortion Finder|377.00 USD|[14](https://www.snap.com/political-ads/asset/0695e16db97ff90c6168f91059f62e567a9c55955ba7221dcd3e8b6c372f5561?mediaType=mp4)|37,916|FEMALE|18-42|united states|
+|Abortion Finder|377.00 USD|[14](https://www.snap.com/political-ads/asset/0695e16db97ff90c6168f91059f62e567a9c55955ba7221dcd3e8b6c372f5561?mediaType=mp4)|37,918|FEMALE|18-42|united states|
 |Abortion Finder|280.00 USD|[15](https://www.snap.com/political-ads/asset/6c11a1cf56b7a1c194c22bcaa0fdba9f3a3f792a45b459b176eaded0ce827ed0?mediaType=png)|35,544|FEMALE|18-42|united states|
 |Abortion Finder|768.00 USD|[16](https://www.snap.com/political-ads/asset/82d9b032db6072a1bf158d368faa9b8d014af10e49f9d36b4f75ed7f28ae032c?mediaType=png)|35,349|FEMALE|18-42|united states|
 |Abortion Finder|192.00 USD|[17](https://www.snap.com/political-ads/asset/e7b30dae0ab02af6e56e7537d2e712a1adbadf14f5ee5b45e428a229b787850e?mediaType=mp4)|31,791|FEMALE|18-42|united states|
