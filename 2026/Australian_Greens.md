@@ -1,13 +1,13 @@
 ## 2026 - Australian Greens 
-**Spent**: 19,100.00
+**Spent**: 19,917.00
 
-**Impressions**: 1,485,871
+**Impressions**: 1,553,486
 
 **Billing Addresses**: 2/228-230 Bay St,Brighton,3186,AU
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Nunn Media Pty. Ltd.|6,758.00 AUD|[0](https://www.snap.com/political-ads/asset/72254a3e04c2041afb2b503697f6119a04f507ce1c876d8d24f5e7197b79569b?mediaType=mp4)|494,450|MALE|18-34|australia|
-|Nunn Media Pty. Ltd.|6,173.00 AUD|[1](https://www.snap.com/political-ads/asset/72254a3e04c2041afb2b503697f6119a04f507ce1c876d8d24f5e7197b79569b?mediaType=mp4)|434,039|FEMALE|18-34|australia|
-|Nunn Media Pty. Ltd.|3,219.00 AUD|[2](https://www.snap.com/political-ads/asset/d99344fed5f81a670b30d8972e94a94bf6a62e2a6922407dc58954c8eda1764b?mediaType=mp4)|287,993|FEMALE|18-34|australia|
-|Nunn Media Pty. Ltd.|2,950.00 AUD|[3](https://www.snap.com/political-ads/asset/d99344fed5f81a670b30d8972e94a94bf6a62e2a6922407dc58954c8eda1764b?mediaType=mp4)|269,389|MALE|18-34|australia|
+|Nunn Media Pty. Ltd.|7,077.00 AUD|[0](https://www.snap.com/political-ads/asset/72254a3e04c2041afb2b503697f6119a04f507ce1c876d8d24f5e7197b79569b?mediaType=mp4)|521,785|MALE|18-34|australia|
+|Nunn Media Pty. Ltd.|6,451.00 AUD|[1](https://www.snap.com/political-ads/asset/72254a3e04c2041afb2b503697f6119a04f507ce1c876d8d24f5e7197b79569b?mediaType=mp4)|454,905|FEMALE|18-34|australia|
+|Nunn Media Pty. Ltd.|3,331.00 AUD|[2](https://www.snap.com/political-ads/asset/d99344fed5f81a670b30d8972e94a94bf6a62e2a6922407dc58954c8eda1764b?mediaType=mp4)|298,209|FEMALE|18-34|australia|
+|Nunn Media Pty. Ltd.|3,058.00 AUD|[3](https://www.snap.com/political-ads/asset/d99344fed5f81a670b30d8972e94a94bf6a62e2a6922407dc58954c8eda1764b?mediaType=mp4)|278,587|MALE|18-34|australia|
