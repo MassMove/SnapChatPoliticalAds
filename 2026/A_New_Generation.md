@@ -1,10 +1,10 @@
 ## 2026 - A New Generation 
-**Spent**: 289.00
+**Spent**: 296.00
 
-**Impressions**: 39,594
+**Impressions**: 40,286
 
 **Billing Addresses**: 3027 Landover Blvd,Spring Hill,34608,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|A New Generation|289.00 USD|[0](https://www.snap.com/political-ads/asset/f6eeffeda68386bcd9aed7fc3951efcbf10be3bce3396a58da567603d913f06b?mediaType=png)|39,594|FEMALE|30-|united states|
+|A New Generation|296.00 USD|[0](https://www.snap.com/political-ads/asset/f6eeffeda68386bcd9aed7fc3951efcbf10be3bce3396a58da567603d913f06b?mediaType=png)|40,286|FEMALE|30-|united states|
