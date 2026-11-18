@@ -1,23 +1,23 @@
 ## 2026 - NOAH - for dyrs rettigheter 
-**Spent**: 24,284.00
+**Spent**: 24,433.00
 
-**Impressions**: 279,500
+**Impressions**: 280,852
 
 **Billing Addresses**: Dronningens gate 13,Oslo,0152,NO
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |NOAH - for dyrs rettigheter|7,367.00 NOK|[0](https://www.snap.com/political-ads/asset/c13920f70cb69f5a6a93d9ef0800a8b1d502df269539de998133b55a73152f3a?mediaType=mp4)|92,959||18+|norway|
-|NOAH - for dyrs rettigheter|6,711.00 NOK|[1](https://www.snap.com/political-ads/asset/770147c46813c7e988fa436016ed2a601e08058accefc5fcde9a370025068510?mediaType=png)|67,983||18+|norway|
+|NOAH - for dyrs rettigheter|6,759.00 NOK|[1](https://www.snap.com/political-ads/asset/770147c46813c7e988fa436016ed2a601e08058accefc5fcde9a370025068510?mediaType=png)|68,393||18+|norway|
 |NOAH - for dyrs rettigheter|1,722.00 NOK|[2](https://www.snap.com/political-ads/asset/2d84f0f38a4670601f4c521f6eddfaab886654627af33e36cc02b6dffc38d0aa?mediaType=png)|30,050||18+|norway|
 |NOAH - for dyrs rettigheter|1,962.00 NOK|[3](https://www.snap.com/political-ads/asset/0b07d57c78b4e6ef1607b5cc3c46291b9b4fb8b4a0ed3e68c294f90d08e5c625?mediaType=png)|21,540||18+|norway|
 |NOAH - for dyrs rettigheter|1,090.00 NOK|[4](https://www.snap.com/political-ads/asset/e067ec9a078627c668e4a03bdeff6f92d010d78692644a7198dd0a17d00e0ff9?mediaType=png)|15,732||18+|norway|
 |NOAH - for dyrs rettigheter|882.00 NOK|[5](https://www.snap.com/political-ads/asset/f945dfe9cdbdbe34a68ec7827b10fff52555c10c032173e92e65879aac53ccd7?mediaType=png)|11,892||18+|norway|
-|NOAH - for dyrs rettigheter|1,253.00 NOK|[6](https://www.snap.com/political-ads/asset/27d46f3173854e6e1acff1fdca74a325bc0b656e5a7d4f64e81722cfa458da5d?mediaType=png)|10,738||18+|norway|
-|NOAH - for dyrs rettigheter|1,026.00 NOK|[7](https://www.snap.com/political-ads/asset/0ada5a65a6b011a4be4ecb1ba839d0422f7dad92c0404e9319b1c1a477a9444e?mediaType=mp4)|8,970||18+|norway|
-|NOAH - for dyrs rettigheter|1,172.00 NOK|[8](https://www.snap.com/political-ads/asset/e77b9d95b127a7cd1ba65ac07742d8892ebacf20847180439d30d02de9001019?mediaType=png)|7,947||18+|norway|
+|NOAH - for dyrs rettigheter|1,264.00 NOK|[6](https://www.snap.com/political-ads/asset/27d46f3173854e6e1acff1fdca74a325bc0b656e5a7d4f64e81722cfa458da5d?mediaType=png)|10,839||18+|norway|
+|NOAH - for dyrs rettigheter|1,043.00 NOK|[7](https://www.snap.com/political-ads/asset/0ada5a65a6b011a4be4ecb1ba839d0422f7dad92c0404e9319b1c1a477a9444e?mediaType=mp4)|9,049||18+|norway|
+|NOAH - for dyrs rettigheter|1,178.00 NOK|[8](https://www.snap.com/political-ads/asset/e77b9d95b127a7cd1ba65ac07742d8892ebacf20847180439d30d02de9001019?mediaType=png)|7,984||18+|norway|
 |NOAH - for dyrs rettigheter|462.00 NOK|[9](https://www.snap.com/political-ads/asset/633f0fe9a0e56505bffdd16e0a805eee4097749979681ca8e71b212eef3d8c2f?mediaType=png)|4,677||18+|norway|
 |NOAH - for dyrs rettigheter|226.00 NOK|[10](https://www.snap.com/political-ads/asset/eb683cfe2036b34cd735284168cea1f5f2ef71f756900468beefa15be1c0b468?mediaType=png)|3,166||18+|norway|
-|NOAH - for dyrs rettigheter|228.00 NOK|[11](https://www.snap.com/political-ads/asset/3c4fb206e5ad6734af7b06b13c64577c99c801f669ad17eca0ec275cc3e99a8b?mediaType=png)|1,986||18+|norway|
-|NOAH - for dyrs rettigheter|102.00 NOK|[12](https://www.snap.com/political-ads/asset/4b75dc6e22142b24fd711abcc989dcad691050755249391aa3b2cf5a40c256e6?mediaType=png)|1,162||18+|norway|
-|NOAH - for dyrs rettigheter|81.00 NOK|[13](https://www.snap.com/political-ads/asset/aa3de0c059e011fea222d1233b2796601c79b01450dd924bc37ed53fdbbcd853?mediaType=png)|698||18+|norway|
+|NOAH - for dyrs rettigheter|281.00 NOK|[11](https://www.snap.com/political-ads/asset/3c4fb206e5ad6734af7b06b13c64577c99c801f669ad17eca0ec275cc3e99a8b?mediaType=png)|2,540||18+|norway|
+|NOAH - for dyrs rettigheter|111.00 NOK|[12](https://www.snap.com/political-ads/asset/4b75dc6e22142b24fd711abcc989dcad691050755249391aa3b2cf5a40c256e6?mediaType=png)|1,278||18+|norway|
+|NOAH - for dyrs rettigheter|86.00 NOK|[13](https://www.snap.com/political-ads/asset/aa3de0c059e011fea222d1233b2796601c79b01450dd924bc37ed53fdbbcd853?mediaType=png)|753||18+|norway|

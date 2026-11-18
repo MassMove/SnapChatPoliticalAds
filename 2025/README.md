@@ -2,11 +2,11 @@
 |Advertiser|Spent|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|---:|:---|:---|:---|
 |[ElectionsCanada/ÉlectionsCanada](ElectionsCanada_ÉlectionsCanada.md) - Cossette Media Inc|496,359.00 CAD|181,467,072||16+, 16-17, 18+, 18-24, 18-34|canada|
-|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|381,029.00 EUR|153,170,971||18+|france|
+|[Human Appeal France](Human_Appeal_France.md) - ORIXA MEDIA|381,046.00 EUR|153,180,275||18+|france|
 |[FDTN to Combat Antisemitism](FDTN_to_Combat_Antisemitism.md) - standup2jewhate|649,983.00 USD|117,469,815||18-34|united states|
 |[Fremskrittspartiet](Fremskrittspartiet.md) - Los & Co|178,944.00 EUR|104,700,513||18+, 18-30|norway|
 |[Electoral Commission](Electoral_Commission.md) - Agenda Media|179,892.00 GBP|91,876,511||18-24, 25+|united kingdom|
-|[Human Appeal](Human_Appeal.md) - Human Appeal|382,408.00 GBP|77,164,287||18+, 20+|united kingdom|
+|[Human Appeal](Human_Appeal.md) - Human Appeal|382,556.00 GBP|77,181,015||18+, 20+|united kingdom|
 |[SOS-barnebyer](SOS-barnebyer.md) - 2XL Online|874,827.00 NOK|73,984,551||18+, 25+|norway|
 |[Høyre](Høyre.md) - Amidays|2,439,061.00 NOK|67,916,331||18+, 18-25, 18-30, 18-45, 18-50, 25-35, 26-35, 35+|norway|
 |[Trumpet of Patriots](Trumpet_of_Patriots.md) - Trumpet of Patriots: Trumpet of Patriots|902,385.00 AUD|48,670,348||16-40, 18+, 20+|australia|
@@ -103,7 +103,7 @@
 |[Anchor of Hope](Anchor_of_Hope.md) - Anchor of Hope|2,611.00 USD|1,416,401|FEMALE|18+|united states|
 |[Planned Parenthood](Planned_Parenthood.md) - M&R Strategic Services  Inc.|19,806.00 USD|1,415,001|FEMALE|18+, 18-35|united states|
 |[WALKINSHAW FOR CONGRESS](WALKINSHAW_FOR_CONGRESS.md) - BCom Solutions: Walkinshaw for Congress|4,000.00 USD|1,345,125||18+|united states|
-|[Avant Garde Media](Avant_Garde_Media.md) - MI Digital Solution|32,353.00 USD|1,339,407|FEMALE|18+, 18-45, 21+, 21-45|united states|
+|[Avant Garde Media](Avant_Garde_Media.md) - MI Digital Solution|32,385.00 USD|1,342,124|FEMALE|18+, 18-45, 21+, 21-45|united states|
 |[Manraj Thukral](Manraj_Thukral.md) - Adsol|3,087.00 INR|1,309,804||18+|india|
 |[Østfold fylkeskommune](Østfold_fylkeskommune.md) - Ostfold fylkeskommune: Stortingsvalg 2025|2,258.00 USD|1,307,434||18+, 18-35, 35+|norway|
 |[Jessica Anderson for Virginia Ho](Jessica_Anderson_for_Virginia_Ho.md) - Saguaro Strategies LLC: Jessica Anderson for Virginia House of Delegates|10,855.00 USD|1,296,622||18+|united states|
@@ -272,7 +272,7 @@
 |[Progress Michigan PAF](Progress_Michigan_PAF.md) - WKQ Media LLC: Progerss Michigan PAF 2025 Voter Guide|1,505.00 USD|107,365|FEMALE|18+|united states|
 |[Østfold Venstre](Østfold_Venstre.md) - Østfold Venstre: Olaf Thommessen, Venstre|5,778.00 NOK|106,846||18+|norway|
 |[Michael Feggans for Virginia](Michael_Feggans_for_Virginia.md) - Ethos Campaigns LLC: Michael Feggans|2,039.00 USD|105,915||18+|united states|
-|[Aghosh Alkhidmat USA Self Servic](Aghosh_Alkhidmat_USA_Self_Servic.md) - Aghosh Alkhidmat USA|1,303.00 USD|104,747||18+, 20+|united states|
+|[Aghosh Alkhidmat USA Self Servic](Aghosh_Alkhidmat_USA_Self_Servic.md) - Aghosh Alkhidmat USA|1,305.00 USD|104,917||18+, 20+|united states|
 |[Haven Pregnancy Services](Haven_Pregnancy_Services.md) - Stories Marketing|910.00 USD|95,062|FEMALE|17-38|united states|
 |[Friends of Virgil Thornton, Sr.](Friends_of_Virgil_Thornton,_Sr..md) - Ethos Campaigns LLC: Virgil Thornton|935.00 USD|92,478||18+|united states|
 |[TIRRC Votes Action PAC](TIRRC_Votes_Action_PAC.md) - Corsair Campaigns: TN Special Election Congressional District 7|795.00 USD|91,655||18+|united states|
