@@ -1,14 +1,14 @@
 ## 2026 - Athens Pregnancy Resource Center 
-**Spent**: 1,176.00
+**Spent**: 1,173.00
 
-**Impressions**: 125,871
+**Impressions**: 125,458
 
 **Billing Addresses**: 8033 Deer Haven Rd,Wardsville,65101,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Cornerstone Marketing Strategies  LLC|80.00 USD|[0](https://www.snap.com/political-ads/asset/450ae23f588349daabe9d225b4e57d2bb84f473168976245be9e5ed2635b6d4c?mediaType=mp4)|13,956|FEMALE|16-34|united states|
-|Cornerstone Marketing Strategies  LLC|57.00 USD|[1](https://www.snap.com/political-ads/asset/cfe7283c2d841feeb9d7075baf73747c3837aaf031c4cd25283593f799669d55?mediaType=mp4)|7,670|FEMALE|16-34|united states|
+|Cornerstone Marketing Strategies  LLC|54.00 USD|[1](https://www.snap.com/political-ads/asset/cfe7283c2d841feeb9d7075baf73747c3837aaf031c4cd25283593f799669d55?mediaType=mp4)|7,257|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|61.00 USD|[2](https://www.snap.com/political-ads/asset/9ea62c780f01129ee8c3b7858138294d546b816653047f0e20a039418907b59a?mediaType=mp4)|6,950|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|67.00 USD|[3](https://www.snap.com/political-ads/asset/450ae23f588349daabe9d225b4e57d2bb84f473168976245be9e5ed2635b6d4c?mediaType=mp4)|6,690|FEMALE|16-34|united states|
 |Cornerstone Marketing Strategies  LLC|44.00 USD|[4](https://www.snap.com/political-ads/asset/450ae23f588349daabe9d225b4e57d2bb84f473168976245be9e5ed2635b6d4c?mediaType=mp4)|6,439|FEMALE|16-34|united states|

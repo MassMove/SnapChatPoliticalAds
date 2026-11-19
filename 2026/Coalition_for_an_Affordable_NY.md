@@ -1,11 +1,11 @@
 ## 2026 - Coalition for an Affordable NY 
-**Spent**: 179,404.00
+**Spent**: 179,844.00
 
-**Impressions**: 4,245,933
+**Impressions**: 4,289,657
 
 **Billing Addresses**: 3050 K Street,Washington,20007,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|GMMB  Inc|115,328.00 USD|[0](https://www.snap.com/political-ads/asset/d132458624d0e6c0461ebb0f406cc7deff652519773b50d69a5afb1f49bb76c7?mediaType=mp4)|2,738,082||18+|united states|
-|GMMB  Inc|64,076.00 USD|[1](https://www.snap.com/political-ads/asset/5a0a58f6de867e6e235138a88f87246cba6a08eaef22b0b570a97d4e2b20869c?mediaType=mp4)|1,507,851||18+|united states|
+|GMMB  Inc|115,621.00 USD|[0](https://www.snap.com/political-ads/asset/d132458624d0e6c0461ebb0f406cc7deff652519773b50d69a5afb1f49bb76c7?mediaType=mp4)|2,767,721||18+|united states|
+|GMMB  Inc|64,223.00 USD|[1](https://www.snap.com/political-ads/asset/5a0a58f6de867e6e235138a88f87246cba6a08eaef22b0b570a97d4e2b20869c?mediaType=mp4)|1,521,936||18+|united states|
