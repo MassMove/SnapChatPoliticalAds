@@ -1,10 +1,10 @@
 ## 2026 - Anchor Of Hope 
-**Spent**: 56.00
+**Spent**: 61.00
 
-**Impressions**: 2,858
+**Impressions**: 3,034
 
 **Billing Addresses**: 4509 Kings Lake Ct,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|56.00 USD|[0](https://www.snap.com/political-ads/asset/18f6b5f05f24eb87d9c6982b1a5bae6236fc74ca39dbb949da1f22fd1fbeab18?mediaType=mp4)|2,858|FEMALE|17-35|united states|
+|Stories Marketing|61.00 USD|[0](https://www.snap.com/political-ads/asset/18f6b5f05f24eb87d9c6982b1a5bae6236fc74ca39dbb949da1f22fd1fbeab18?mediaType=mp4)|3,034|FEMALE|17-35|united states|
