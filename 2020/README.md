@@ -593,7 +593,6 @@
 |[Deborah Gonzalez for DA](Deborah_Gonzalez_for_DA.md) - Deborah Gonzalez for District Attorney: Deborah Gonzalez for District Attorney|500.00 USD|106,242||18+|united states|
 |[خالد الشليمي](خالد_الشليمي.md) - the best|132.00 USD|105,145||18+|kuwait|
 |[Coral for AZ](Coral_for_AZ.md) - Run the World Digital: Coral Evans|1,081.00 USD|104,786||18+|united states|
-|[John Check](John_Check.md) - Unified/IHM Local: John Check|327.00 USD|104,743||18+|united states|
 |[National Nurses United](National_Nurses_United.md) - National Nurses United: Mission Hospital Union Election|232.00 USD|104,578|||united states|
 |[The Squad Victory Fund](The_Squad_Victory_Fund.md) - Middle Seat Consulting  LLC: Squad Victory Fund|180.00 USD|102,878||18+|united states|
 |[Tasaaheel for web](Tasaaheel_for_web.md) - tasaaheel|95.00 USD|102,671||20+|kuwait|
@@ -637,6 +636,7 @@
 |[Pasha Baker for FL House 28](Pasha_Baker_for_FL_House_28.md) - You Should Run: Pasha Baker|245.00 USD|63,023||18+|united states|
 |[Planned Parenthood Advocates MT](Planned_Parenthood_Advocates_MT.md) - C+K|1,780.00 USD|62,742|FEMALE|18-45|united states|
 |[Commando Designs](Commando_Designs.md) - Commando Designs|38.00 USD|62,427||30+|united states|
+|[John Check](John_Check.md) - Unified/IHM Local: John Check|192.00 USD|62,333||18+|united states|
 |[French for Arizona](French_for_Arizona.md) - Run the World Digital: Felicia French|1,130.00 USD|60,716||18+, 18-40|united states|
 |[sue finney 4 mn house](sue_finney_4_mn_house.md) - Vote 2020: Sue Finney 4 MN House|350.00 USD|59,838||18+|united states|
 |[Colette Nies- Committee to Elect](Colette_Nies-_Committee_to_Elect.md) - NewWave Strategies: Colette Nies|235.00 USD|59,723||18+|united states|
