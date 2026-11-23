@@ -1,7 +1,7 @@
 ## 2026 - NSSF 
-**Spent**: 8,957.00
+**Spent**: 8,996.00
 
-**Impressions**: 268,044
+**Impressions**: 270,355
 
 **Billing Addresses**: 2300 Clarendon Blvd,Arlington,22201,US
 
@@ -9,7 +9,7 @@
 |:---|---:|:---|---:|:---|:---|:---|
 |Red Edge LLC|1,000.00 USD|[0](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|31,639|FEMALE|25-49|united states|
 |Red Edge LLC|981.00 USD|[1](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|29,412|FEMALE|25-49|united states|
-|Red Edge LLC|413.00 USD|[2](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|21,428|FEMALE|25-49|united states|
+|Red Edge LLC|443.00 USD|[2](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|23,194|FEMALE|25-49|united states|
 |Red Edge LLC|500.00 USD|[3](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|18,270|FEMALE|25-49|united states|
 |Red Edge LLC|500.00 USD|[4](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|17,776|FEMALE|25-49|united states|
 |Red Edge LLC|499.00 USD|[5](https://www.snap.com/political-ads/asset/4b2421dd039aaf6db02067b7b498302d8cee0ca161ff5c40e932cd24add68b74?mediaType=mp4)|15,895|FEMALE|25-49|united states|
@@ -21,12 +21,12 @@
 |Red Edge LLC|230.00 USD|[11](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|8,979|FEMALE|25-49|united states|
 |Red Edge LLC|293.00 USD|[12](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|8,477|FEMALE|25-49|united states|
 |Red Edge LLC|267.00 USD|[13](https://www.snap.com/political-ads/asset/ed617c658cdd06d0e847d7b2b72bfc86d31e6a774aa60c72d4f94235744104d1?mediaType=mp4)|7,833|FEMALE|25-49|united states|
-|Red Edge LLC|91.00 USD|[14](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|5,982|FEMALE|25-49|united states|
+|Red Edge LLC|96.00 USD|[14](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|6,276|FEMALE|25-49|united states|
 |Red Edge LLC|216.00 USD|[15](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|5,880|FEMALE|25-49|united states|
 |Red Edge LLC|264.00 USD|[16](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|5,286|FEMALE|25-49|united states|
 |Red Edge LLC|283.00 USD|[17](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|5,252|FEMALE|25-49|united states|
 |Red Edge LLC|169.00 USD|[18](https://www.snap.com/political-ads/asset/a0530abc94dee74f2258a216ffe4e2027add578454eec7b3046891f996ad77c9?mediaType=mp4)|4,960|FEMALE|25-49|united states|
-|Red Edge LLC|51.00 USD|[19](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|4,136|FEMALE|25-49|united states|
+|Red Edge LLC|55.00 USD|[19](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|4,387|FEMALE|25-49|united states|
 |Red Edge LLC|144.00 USD|[20](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|3,512|FEMALE|25-49|united states|
 |Red Edge LLC|148.00 USD|[21](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|2,943|FEMALE|25-49|united states|
 |Red Edge LLC|159.00 USD|[22](https://www.snap.com/political-ads/asset/d47fef179884d466fac7017574470347ebee8bb03f5624134b4f1c41a4389caa?mediaType=mp4)|2,843|FEMALE|25-49|united states|

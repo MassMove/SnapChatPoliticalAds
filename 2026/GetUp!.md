@@ -1,7 +1,7 @@
 ## 2026 - GetUp! 
-**Spent**: 24,833.00
+**Spent**: 24,974.00
 
-**Impressions**: 4,329,212
+**Impressions**: 4,339,959
 
 **Billing Addresses**: AU
 
@@ -17,16 +17,16 @@
 |GetUp|411.00 AUD|[7](https://www.snap.com/political-ads/asset/3dc674c6aa70c4106d014237ffad0099f37b0e24154073afddec3dad2942cd20?mediaType=mp4)|82,731|FEMALE|18-34|australia|
 |GetUp|402.00 AUD|[8](https://www.snap.com/political-ads/asset/973c1eda0078bfa2a0cd6444738a35aa3b37d9b4404fe68a57a76f19664ecbd8?mediaType=mp4)|79,522|FEMALE|18-34|australia|
 |GetUp|383.00 AUD|[9](https://www.snap.com/political-ads/asset/60cbb9aa8264052d0404a5ead1766b0ca43c0c350fea35f4d20a6be575b828b7?mediaType=mp4)|78,720|FEMALE|18-34|australia|
-|GetUp|1,032.00 AUD|[10](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|69,276|FEMALE|18-34|australia|
-|GetUp|1,044.00 AUD|[11](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|69,248|FEMALE|18-34|australia|
-|GetUp|1,052.00 AUD|[12](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|66,818|FEMALE|18-34|australia|
-|GetUp|1,040.00 AUD|[13](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|66,687|FEMALE|18-34|australia|
-|GetUp|1,036.00 AUD|[14](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|65,907|FEMALE|18-34|australia|
-|GetUp|1,065.00 AUD|[15](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|64,525|FEMALE|18-34|australia|
-|GetUp|992.00 AUD|[16](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|63,541|FEMALE|18-34|australia|
-|GetUp|1,048.00 AUD|[17](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|62,977|FEMALE|18-34|australia|
-|GetUp|1,059.00 AUD|[18](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|61,866|FEMALE|18-34|australia|
-|GetUp|1,015.00 AUD|[19](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|60,052|FEMALE|18-34|australia|
+|GetUp|1,047.00 AUD|[10](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|70,540|FEMALE|18-34|australia|
+|GetUp|1,057.00 AUD|[11](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|70,272|FEMALE|18-34|australia|
+|GetUp|1,054.00 AUD|[12](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|67,929|FEMALE|18-34|australia|
+|GetUp|1,063.00 AUD|[13](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|67,696|FEMALE|18-34|australia|
+|GetUp|1,050.00 AUD|[14](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|66,900|FEMALE|18-34|australia|
+|GetUp|1,015.00 AUD|[15](https://www.snap.com/political-ads/asset/8376382853f7008d583c0a94e51bd3aba6742b7cc14e1c16e73539cb50461703?mediaType=mp4)|65,310|FEMALE|18-34|australia|
+|GetUp|1,074.00 AUD|[16](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|65,138|FEMALE|18-34|australia|
+|GetUp|1,061.00 AUD|[17](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|63,989|FEMALE|18-34|australia|
+|GetUp|1,069.00 AUD|[18](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|62,606|FEMALE|18-34|australia|
+|GetUp|1,034.00 AUD|[19](https://www.snap.com/political-ads/asset/bd80e03535327666caef6d0a1e49789a8f7cbb3b332e2f98e50f96807fc08963?mediaType=mp4)|61,264|FEMALE|18-34|australia|
 |GetUp|250.00 AUD|[20](https://www.snap.com/political-ads/asset/ec3ce50940bb1a24d48157e2f14ebba9297605d0967a28e34b4e4d4b64af1ce8?mediaType=png)|53,176||18+|australia|
 |GetUp|126.00 AUD|[21](https://www.snap.com/political-ads/asset/7e7903c9ffa9e4bc953b7dd6d03b98ff95d04e26fdfa744d3a68555087206ab8?mediaType=png)|23,824||18+|australia|
 |GetUp|90.00 AUD|[22](https://www.snap.com/political-ads/asset/0541cb222adab75451af583f612bb65251fea4cb5378a06355b6f34b67076c83?mediaType=mp4)|18,429|FEMALE|18-34|australia|
