@@ -3,7 +3,7 @@
 
 **Impressions**: 1,699,172
 
-**Billing Addresses**: 1.1, 317-319 New North Road, Kingsland,Auckland,1021,NZ
+**Billing Addresses**: Level 5, 34 Sale Street ,Auckland,1010,NZ
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
