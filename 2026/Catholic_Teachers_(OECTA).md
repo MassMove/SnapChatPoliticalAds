@@ -1,19 +1,19 @@
 ## 2026 - Catholic Teachers (OECTA) 
-**Spent**: 6,503.00
+**Spent**: 6,910.00
 
-**Impressions**: 1,506,857
+**Impressions**: 1,575,570
 
 **Billing Addresses**: CA
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
 |Pound & Grain|1,271.00 CAD|[0](https://www.snap.com/political-ads/asset/209efad7864c9cb171c74fb1dd5302b0d2249e60e47e97b52cca224b90875d9f?mediaType=mp4)|656,969||18+|canada|
-|Pound & Grain|916.00 CAD|[1](https://www.snap.com/political-ads/asset/f2dda710e22f9a33e94b3bdd5e72d2df39a0a2856aa0d63979a1b26d844b9a71?mediaType=mp4)|179,009||18+|canada|
-|Pound & Grain|859.00 CAD|[2](https://www.snap.com/political-ads/asset/f2dda710e22f9a33e94b3bdd5e72d2df39a0a2856aa0d63979a1b26d844b9a71?mediaType=mp4)|149,695||18+|canada|
-|Pound & Grain|539.00 CAD|[3](https://www.snap.com/political-ads/asset/4a148b1bdc1e64c60aab8ad0b78a8563ea6c7def118cc2b0aeac608d368311b9?mediaType=mp4)|121,789||18+|canada|
+|Pound & Grain|977.00 CAD|[1](https://www.snap.com/political-ads/asset/f2dda710e22f9a33e94b3bdd5e72d2df39a0a2856aa0d63979a1b26d844b9a71?mediaType=mp4)|190,096||18+|canada|
+|Pound & Grain|1,119.00 CAD|[2](https://www.snap.com/political-ads/asset/f2dda710e22f9a33e94b3bdd5e72d2df39a0a2856aa0d63979a1b26d844b9a71?mediaType=mp4)|188,969||18+|canada|
+|Pound & Grain|593.00 CAD|[3](https://www.snap.com/political-ads/asset/4a148b1bdc1e64c60aab8ad0b78a8563ea6c7def118cc2b0aeac608d368311b9?mediaType=mp4)|133,780||18+|canada|
 |Pound & Grain|1,354.00 CAD|[4](https://www.snap.com/political-ads/asset/e093466bc038957bc682639a4efbabf604e1a3fa7f91b55502721df6e55be2c7?mediaType=mp4)|109,784||18+|canada|
 |Pound & Grain|229.00 CAD|[5](https://www.snap.com/political-ads/asset/209efad7864c9cb171c74fb1dd5302b0d2249e60e47e97b52cca224b90875d9f?mediaType=mp4)|107,933||18+|canada|
-|Pound & Grain|278.00 CAD|[6](https://www.snap.com/political-ads/asset/4a148b1bdc1e64c60aab8ad0b78a8563ea6c7def118cc2b0aeac608d368311b9?mediaType=mp4)|52,652||18+|canada|
-|Pound & Grain|645.00 CAD|[7](https://www.snap.com/political-ads/asset/cd3618788c3259a8bb52502f13f3eb0b0df0a05b56569cfde33159511f94631e?mediaType=mp4)|51,698||18+|canada|
-|Pound & Grain|259.00 CAD|[8](https://www.snap.com/political-ads/asset/f2dda710e22f9a33e94b3bdd5e72d2df39a0a2856aa0d63979a1b26d844b9a71?mediaType=mp4)|50,159||18+|canada|
-|Pound & Grain|153.00 CAD|[9](https://www.snap.com/political-ads/asset/4a148b1bdc1e64c60aab8ad0b78a8563ea6c7def118cc2b0aeac608d368311b9?mediaType=mp4)|27,169||18+|canada|
+|Pound & Grain|285.00 CAD|[6](https://www.snap.com/political-ads/asset/4a148b1bdc1e64c60aab8ad0b78a8563ea6c7def118cc2b0aeac608d368311b9?mediaType=mp4)|54,130||18+|canada|
+|Pound & Grain|278.00 CAD|[7](https://www.snap.com/political-ads/asset/f2dda710e22f9a33e94b3bdd5e72d2df39a0a2856aa0d63979a1b26d844b9a71?mediaType=mp4)|53,870||18+|canada|
+|Pound & Grain|645.00 CAD|[8](https://www.snap.com/political-ads/asset/cd3618788c3259a8bb52502f13f3eb0b0df0a05b56569cfde33159511f94631e?mediaType=mp4)|51,698||18+|canada|
+|Pound & Grain|159.00 CAD|[9](https://www.snap.com/political-ads/asset/4a148b1bdc1e64c60aab8ad0b78a8563ea6c7def118cc2b0aeac608d368311b9?mediaType=mp4)|28,341||18+|canada|
