@@ -209,7 +209,6 @@
 |[Mohammed AlSaeed](Mohammed_AlSaeed.md) - مرشح الدائرة الثالثة : محمد طلال السعيد|387.00 USD|328,866|||kuwait|
 |[Alliance for Gun Responsibility](Alliance_for_Gun_Responsibility.md) - NWP Consulting|660.00 USD|325,827||21-|united states|
 |[Planned Parenthood Action Fund](Planned_Parenthood_Action_Fund.md) - Blueprint Interactive|972.00 USD|318,579|FEMALE|18-34|united states|
-|[Citizens for a Successful CB](Citizens_for_a_Successful_CB.md) - BCom Solutions|671.00 USD|304,906||18+|united states|
 |[Unie van Waterschappen](Unie_van_Waterschappen.md) - Pixl|293.00 EUR|298,866||18+|netherlands|
 |[Norsk Sykepleierforbund](Norsk_Sykepleierforbund.md) - Kikkut kommunikasjon as|1,162.00 USD|289,844||25+|norway|
 |[Paid for by khaled alanezi](Paid_for_by_khaled_alanezi.md) - Flater_q8|466.00 USD|282,718||17+|kuwait|
@@ -221,6 +220,7 @@
 |[NRDC](NRDC.md) - Blueprint Interactive|937.00 USD|249,346||18+|united states|
 |[Marc Lejeune](Marc_Lejeune.md) - Marc Lejeune Élections|251.00 EUR|246,664||18+|belgium|
 |[IEC South Africa](IEC_South_Africa.md) - Ad Dynamo|3,422.00 USD|246,400||18+|south africa|
+|[Citizens for a Successful CB](Citizens_for_a_Successful_CB.md) - BCom Solutions|547.00 USD|246,215||18+|united states|
 |[Entremax Inc.](Entremax_Inc..md) - Entremax|456.00 USD|244,335|||united states|
 |[United Way of Greater L.A.](United_Way_of_Greater_L.A..md) - Everyone In|274.00 USD|240,495||16+|united states|
 |[Luton Council](Luton_Council.md) - Luton Council|337.00 GBP|239,445||18-30|united kingdom|

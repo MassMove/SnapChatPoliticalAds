@@ -1,10 +1,10 @@
 ## 2026 - The Hope Center 
-**Spent**: 57.00
+**Spent**: 62.00
 
-**Impressions**: 6,191
+**Impressions**: 6,652
 
 **Billing Addresses**: 4509 Kings Lake Ct,Chattanooga,37416,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|57.00 USD|[0](https://www.snap.com/political-ads/asset/32a73dd07bcdbe2648c5100b28daa3ec8178514df6e92449b43106b6bd9ad5fb?mediaType=mp4)|6,191|FEMALE|18-38|united states|
+|Stories Marketing|62.00 USD|[0](https://www.snap.com/political-ads/asset/32a73dd07bcdbe2648c5100b28daa3ec8178514df6e92449b43106b6bd9ad5fb?mediaType=mp4)|6,652|FEMALE|18-38|united states|

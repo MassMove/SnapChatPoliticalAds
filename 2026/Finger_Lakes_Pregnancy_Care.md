@@ -1,10 +1,10 @@
 ## 2026 - Finger Lakes Pregnancy Care 
-**Spent**: 125.00
+**Spent**: 135.00
 
-**Impressions**: 6,520
+**Impressions**: 6,929
 
 **Billing Addresses**: 210 W Green Street,Cortland,14850,US
 
 |Organization|Spent|Urls|Impressions|Genders|Age Brackets|Country Codes|
 |:---|---:|:---|---:|:---|:---|:---|
-|Stories Marketing|125.00 USD|[0](https://www.snap.com/political-ads/asset/b7f05415f1a60d2fd8dfa37d8cebc4e79353f8e68d714d3e63698c389b57dbb4?mediaType=mp4)|6,520|FEMALE|18-38|united states|
+|Stories Marketing|135.00 USD|[0](https://www.snap.com/political-ads/asset/b7f05415f1a60d2fd8dfa37d8cebc4e79353f8e68d714d3e63698c389b57dbb4?mediaType=mp4)|6,929|FEMALE|18-38|united states|
